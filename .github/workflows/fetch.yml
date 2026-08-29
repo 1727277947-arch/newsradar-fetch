@@ -19,6 +19,7 @@ jobs:
       - name: Run fetch + push
         shell: bash
         env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GITEE_REPO: https://gitee.com/ys15251239086/shuobao-gitee.git
           GITEE_BRANCH: master
           GITEE_USER: ys15251239086
