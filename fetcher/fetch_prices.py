@@ -289,49 +289,75 @@ def fetch_spot_shensheng():
 
 
 def compute_guide(item):
-    """每日短线方向（做多/做空/观望）：基于【前一天收盘】预测【当日】短线。
-    信号=昨日涨跌动量(前一天结算vs更前一日) + 现货相对昨日结算的升贴水。
-    只对国内期货给出建议；方向在当日开盘前已定，不随盘中追涨。"""
+    """每日购买策略：基于前一交易日收盘与现货基差，预测当日短线。
+
+    每个国内期货品种都给出明确方向（做多/做空/观望）与可执行价位：
+    - 做多：entry 开仓参考 / tp 止盈目标 / sl 止损
+    - 做空：entry 开仓参考 / tp 止盈目标 / sl 止损
+    - 观望：support 回踩支撑（可轻仓做多）/ resist 反弹压力（可轻仓做空）
+    """
     if item.get("market") != "国内":
         return None
     last_settle = item.get("last_settle") or item.get("future") or 0.0
-    basis = item.get("basis_pct")          # 现货 vs 昨日结算
-    yc = item.get("yesterday_chg")         # 昨日涨跌%（跨日）
+    basis = item.get("basis_pct")          # 现货 vs 昨结
+    yc = item.get("yesterday_chg")         # 昨日涨跌%（隔日）
     score = 0
-    parts = []
-    # 1) 现货升贴水（现货 - 昨日结算）：主导方向。现货明显升水→今日看多，贴水→看空
+    tags = []
+    # 1) 现货升贴水（现货 - 昨结）：主导方向
     if basis is not None and abs(basis) <= 20:
-        if basis >= 0.8: score += 2; parts.append("现货升水%.1f%%" % basis)
-        elif basis >= 0.3: score += 1; parts.append("现货小幅升水%.1f%%" % basis)
-        elif basis <= -0.8: score -= 2; parts.append("现货贴水%.1f%%" % basis)
-        elif basis <= -0.3: score -= 1; parts.append("现货小幅贴水%.1f%%" % basis)
-        else: parts.append("期现基本持平")
+        if basis >= 0.8: score += 2; tags.append("现货升水%.1f%%" % basis)
+        elif basis >= 0.3: score += 1; tags.append("现货小幅升水%.1f%%" % basis)
+        elif basis <= -0.8: score -= 2; tags.append("现货贴水%.1f%%" % basis)
+        elif basis <= -0.3: score -= 1; tags.append("现货小幅贴水%.1f%%" % basis)
+        else: tags.append("期现基本持平")
     else:
-        parts.append("无现货参照")
-    # 2) 昨日收盘动量（前一天结算 vs 更前一日结算）：方向辅助
+        tags.append("缺现货参考")
+    # 2) 昨日收盘动量：方向辅助
     if yc is not None:
-        if yc >= 0.8: score += 1; parts.append("昨日上涨%.1f%%" % yc)
-        elif yc <= -0.8: score -= 1; parts.append("昨日下跌%.1f%%" % yc)
+        if yc >= 0.8: score += 1; tags.append("昨日上涨%.1f%%" % yc)
+        elif yc <= -0.8: score -= 1; tags.append("昨日下跌%.1f%%" % yc)
     direction = 1 if score >= 2 else (-1 if score <= -2 else 0)
-    txt = "昨结%s · " % (("%g" % last_settle) if last_settle else "?") + " · ".join(parts)
-    # 具体做多/做空价位：以现货为锚（无现货则用昨结），给出目标价与止损价
+    label = "做多" if direction == 1 else ("做空" if direction == -1 else "观望")
+
     anchor = item.get("spot") or last_settle or 0.0
-    tp = sl = support = resist = None
-    if anchor:
-        if direction == 1:
-            tp = anchor * 1.025; sl = anchor * 0.975       # 做多：上方止盈/下方止损
-        elif direction == -1:
-            tp = anchor * 0.975; sl = anchor * 1.025       # 做空：下方止盈/上方止损
-        else:
-            support = anchor * 0.97; resist = anchor * 1.03  # 观望：给区间参考
     def numf(v):
         return None if v is None else round(v, 3)
+    def fmt(v):
+        if v is None: return "-"
+        vv = float(v)
+        return ("%g" % vv) if abs(vv) >= 1000 else ("%.3f" % vv)
+
+    entry = tp = sl = support = resist = None
+    if anchor:
+        entry = anchor
+        if direction == 1:
+            tp = anchor * 1.025; sl = anchor * 0.975
+        elif direction == -1:
+            tp = anchor * 0.975; sl = anchor * 1.025
+        else:
+            support = anchor * 0.97; resist = anchor * 1.03
+
+    if direction == 1:
+        action = "短线看多"
+        reason = ("现价%s，现货偏强（%s）；顺势做多：开仓参考 %s，止盈目标 %s，止损 %s" %
+                  (fmt(anchor), "、".join(tags), fmt(entry), fmt(tp), fmt(sl)))
+    elif direction == -1:
+        action = "短线看空"
+        reason = ("现价%s，现货偏弱（%s）；顺势做空：开仓参考 %s，止盈目标 %s，止损 %s" %
+                  (fmt(anchor), "、".join(tags), fmt(entry), fmt(tp), fmt(sl)))
+    else:
+        action = "区间观望"
+        reason = ("方向不明（%s）；回踩支撑 %s 附近可轻仓做多，反弹压力 %s 附近可轻仓做空" %
+                  ("、".join(tags), fmt(support), fmt(resist)))
+
     g = {
         "direct": direction,
-        "label": "做多" if direction == 1 else ("做空" if direction == -1 else "观望"),
+        "label": label,
+        "action": action,
         "strength": abs(score),
-        "reason": txt,
+        "reason": reason,
         "anchor": numf(anchor) if anchor else None,
+        "entry": numf(entry) if entry else None,
         "basis_label": "多" if basis is not None and basis > 0 else ("空" if basis is not None and basis < 0 else "平"),
     }
     if direction == 1 or direction == -1:
@@ -339,6 +365,7 @@ def compute_guide(item):
     else:
         g["support"] = numf(support); g["resist"] = numf(resist)
     return g
+
 
 def build(out_path):
     items = []
