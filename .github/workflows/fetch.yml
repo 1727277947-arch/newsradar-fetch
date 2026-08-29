@@ -1,8 +1,8 @@
 ﻿name: auto-fetch
 on:
   schedule:
-    - cron: '30 23 * * *'   # 北京时间 07:30 (UTC-1day 23:30)
-    - cron: '30 4 * * *'    # 北京时间 12:30 (UTC 04:30)
+    - cron: '0 0,2,4,6,8,12 * * *'   # 北京 08/10/12/14/16/20 点
+    - cron: '0 16,20 * * *'          # 北京 00/04 点
   workflow_dispatch:
 jobs:
   fetch:
