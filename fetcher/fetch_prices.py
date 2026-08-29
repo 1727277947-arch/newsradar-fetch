@@ -322,7 +322,8 @@ def compute_guide(item):
     label = "做多" if direction == 1 else ("做空" if direction == -1 else "观望")
     strength = abs(score)
 
-    anchor = item.get("spot") or last_settle or 0.0
+    # 开仓基准：期货现价优先（用户交易的是期货合约），其次昨结，最后才用现货；现货仅用于方向判断，不决定开仓/止损/止盈数值
+    anchor = item.get("future") or last_settle or item.get("spot") or 0.0
     def numf(v):
         return None if v is None else round(v, 3)
     def fmt(v):
