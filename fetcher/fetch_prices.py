@@ -289,12 +289,14 @@ def fetch_spot_shensheng():
 
 
 def compute_guide(item):
-    """每日购买策略：基于前一交易日收盘与现货基差，预测当日短线。
+    """每日购买策略：把28条期货买卖纪律量化为止损/止盈/风控的具体数值。
 
-    每个国内期货品种都给出明确方向（做多/做空/观望）与可执行价位：
-    - 做多：entry 开仓参考 / tp 止盈目标 / sl 止损
-    - 做空：entry 开仓参考 / tp 止盈目标 / sl 止损
-    - 观望：support 回踩支撑（可轻仓做多）/ resist 反弹压力（可轻仓做空）
+    纪律->数值落地：
+      - 规则1/单次风险<=资本1/3：止损宽度固定 risk_pct（默认2%），仓位自行控制在该范围内
+      - 规则15/盈亏比：止盈距离/止损距离 >=3:1（信号越强 RR 越高，可达5:1、8:1）
+      - 规则20/金字塔加仓：按 10/10/20/30/50 累计头寸，给出5档分批建仓价位
+      - 规则4/10/16/移动止损：盈利后止损上移至成本价附近保护利润
+      - 规则5/18/19/25/顺势、不猜顶底、不逆市：方向仅由现货基差+昨日动量判定
     """
     if item.get("market") != "国内":
         return None
@@ -318,6 +320,7 @@ def compute_guide(item):
         elif yc <= -0.8: score -= 1; tags.append("昨日下跌%.1f%%" % yc)
     direction = 1 if score >= 2 else (-1 if score <= -2 else 0)
     label = "做多" if direction == 1 else ("做空" if direction == -1 else "观望")
+    strength = abs(score)
 
     anchor = item.get("spot") or last_settle or 0.0
     def numf(v):
@@ -327,39 +330,65 @@ def compute_guide(item):
         vv = float(v)
         return ("%g" % vv) if abs(vv) >= 1000 else ("%.3f" % vv)
 
+    # 盈亏比 RR 与单次风险（规则15+规则1）：止损宽度2%，止盈=RISK_PCT*RR
+    RISK_PCT = 0.02
+    RR = 3
+    if strength >= 4: RR = 4
+    if strength >= 5: RR = 5
+    if strength >= 6: RR = 8      # 高盈亏比 8:1
+
     entry = tp = sl = support = resist = None
     if anchor:
         entry = anchor
         if direction == 1:
-            tp = anchor * 1.025; sl = anchor * 0.975
+            sl = anchor * (1 - RISK_PCT)
+            tp = anchor * (1 + RISK_PCT * RR)
         elif direction == -1:
-            tp = anchor * 0.975; sl = anchor * 1.025
+            sl = anchor * (1 + RISK_PCT)
+            tp = anchor * (1 - RISK_PCT * RR)
         else:
-            support = anchor * 0.97; resist = anchor * 1.03
+            support = anchor * (1 - RISK_PCT * 1.5)
+            resist = anchor * (1 + RISK_PCT * 1.5)
+
+    # 金字塔分批建仓：5档累计头寸 10/10/20/30/50（规则20），价位从 entry 顺方向到 tp 均分
+    pyramid = None
+    if entry and tp is not None and (direction == 1 or direction == -1):
+        ratios = [10, 10, 20, 30, 50]
+        levels = []
+        for k in range(5):
+            t = k / 4.0
+            price = entry + (tp - entry) * t
+            levels.append(round(price, 3))
+        pyramid = {"ratio": ratios, "levels": levels,
+                   "note": "金字塔分批建仓，累计头寸按10/10/20/30/50递增；回撤至支撑/跌破止损则停止加仓"}
+
+    move_stop = "盈利后将止损上移至开仓成本附近，保护账面利润（移动止损，不平仓）"
 
     if direction == 1:
         action = "短线看多"
-        reason = ("现价%s，现货偏强（%s）；顺势做多：开仓参考 %s，止盈目标 %s，止损 %s" %
-                  (fmt(anchor), "、".join(tags), fmt(entry), fmt(tp), fmt(sl)))
+        reason = ("现价%s，盈亏比1:%d(止盈%s/止损%s)，单次风险≤1/3资本；顺势做多：开仓%s，止盈%s，止损%s" %
+                  (fmt(anchor), RR, fmt(tp), fmt(sl), fmt(entry), fmt(tp), fmt(sl)))
     elif direction == -1:
         action = "短线看空"
-        reason = ("现价%s，现货偏弱（%s）；顺势做空：开仓参考 %s，止盈目标 %s，止损 %s" %
-                  (fmt(anchor), "、".join(tags), fmt(entry), fmt(tp), fmt(sl)))
+        reason = ("现价%s，盈亏比1:%d(止盈%s/止损%s)，单次风险≤1/3资本；顺势做空：开仓%s，止盈%s，止损%s" %
+                  (fmt(anchor), RR, fmt(tp), fmt(sl), fmt(entry), fmt(tp), fmt(sl)))
     else:
         action = "区间观望"
-        reason = ("方向不明（%s）；回踩支撑 %s 附近可轻仓做多，反弹压力 %s 附近可轻仓做空" %
+        reason = ("方向不明(%s)；回踩支撑%s附近轻仓做多，反弹压力%s附近轻仓做空，盈亏比≥3:1" %
                   ("、".join(tags), fmt(support), fmt(resist)))
 
     g = {
-        "direct": direction,
-        "label": label,
-        "action": action,
-        "strength": abs(score),
-        "reason": reason,
+        "direct": direction, "label": label, "action": action,
+        "strength": strength, "reason": reason,
         "anchor": numf(anchor) if anchor else None,
         "entry": numf(entry) if entry else None,
         "basis_label": "多" if basis is not None and basis > 0 else ("空" if basis is not None and basis < 0 else "平"),
+        "rr": RR,
+        "risk_pct": round(RISK_PCT * 100, 1),
+        "move_stop": move_stop,
     }
+    if pyramid:
+        g["pyramid"] = pyramid
     if direction == 1 or direction == -1:
         g["tp"] = numf(tp); g["sl"] = numf(sl)
     else:
