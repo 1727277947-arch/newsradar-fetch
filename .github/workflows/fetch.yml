@@ -1,0 +1,26 @@
+﻿name: auto-fetch
+on:
+  schedule:
+    - cron: '30 23 * * *'   # 北京时间 07:30 (UTC-1day 23:30)
+    - cron: '30 4 * * *'    # 北京时间 12:30 (UTC 04:30)
+  workflow_dispatch:
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run fetch + push
+        shell: bash
+        env:
+          GITEE_REPO: https://gitee.com/ys15251239086/shuobao-gitee.git
+          GITEE_BRANCH: master
+          GITEE_USER: ys15251239086
+          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
+        run: bash run.sh
