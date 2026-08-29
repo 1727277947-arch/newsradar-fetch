@@ -333,10 +333,8 @@ def compute_guide(item):
 
     # 盈亏比 RR 与单次风险（规则15+规则1）：止损宽度2%，止盈=RISK_PCT*RR
     RISK_PCT = 0.02
-    RR = 3
-    if strength >= 4: RR = 4
-    if strength >= 5: RR = 5
-    if strength >= 6: RR = 8      # 高盈亏比 8:1
+    RR = 2.0
+    if strength >= 3: RR = 2.5      # 强信号稍高，但止盈封顶 2.5 倍（不设过大）
 
     entry = tp = sl = support = resist = None
     if anchor:
@@ -367,11 +365,11 @@ def compute_guide(item):
 
     if direction == 1:
         action = "短线看多"
-        reason = ("现价%s，盈亏比1:%d(止盈%s/止损%s)，单次风险≤1/3资本；顺势做多：开仓%s，止盈%s，止损%s" %
+        reason = ("现价%s，盈亏比1:%d(止盈%s/止损%s)，单次风险≤1/3资本；顺势做多：开仓%s，止盈%s，止损%s；未到止盈而反向靠止损位即止损" %
                   (fmt(anchor), RR, fmt(tp), fmt(sl), fmt(entry), fmt(tp), fmt(sl)))
     elif direction == -1:
         action = "短线看空"
-        reason = ("现价%s，盈亏比1:%d(止盈%s/止损%s)，单次风险≤1/3资本；顺势做空：开仓%s，止盈%s，止损%s" %
+        reason = ("现价%s，盈亏比1:%d(止盈%s/止损%s)，单次风险≤1/3资本；顺势做空：开仓%s，止盈%s，止损%s；未到止盈而反向靠止损位即止损" %
                   (fmt(anchor), RR, fmt(tp), fmt(sl), fmt(entry), fmt(tp), fmt(sl)))
     else:
         action = "区间观望"
@@ -387,6 +385,9 @@ def compute_guide(item):
         "rr": RR,
         "risk_pct": round(RISK_PCT * 100, 1),
         "move_stop": move_stop,
+        "trail_stop": numf(entry) if (direction != 0 and entry) else None,
+        "stop_discipline": ("止损纪律：未到止盈位、价格却反向朝移动止损位(开仓成本附近)靠拢时，立即止损离场，不等待止盈" if direction != 0 else ""),
+
     }
     if pyramid:
         g["pyramid"] = pyramid
