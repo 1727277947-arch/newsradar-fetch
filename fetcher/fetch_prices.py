@@ -332,24 +332,27 @@ def compute_guide(item):
         return ("%g" % vv) if abs(vv) >= 1000 else ("%.3f" % vv)
 
     # 盈亏比 RR 与单次风险（规则15+规则1）：止损宽度2%，止盈=RISK_PCT*RR
-    RISK_PCT = 0.02
-    RR = 2.0
-    if strength >= 3: RR = 2.5      # 强信号稍高，但止盈封顶 2.5 倍（不设过大）
+        # 定稿止损止盈：止盈 +3%；反向 -0.15% 立即离场；浮盈回吐 -0.1% 硬止损兜底
+    TP_PCT = 0.03          # 止盈 3%
+    EXIT_PCT = 0.0015      # 反向 0.15% 立即离场
+    HARD_STOP_PCT = 0.001  # 浮盈回吐 0.1% 硬止损
 
-    entry = tp = sl = support = resist = None
+    entry = tp = sl = exit_price = support = resist = None
     if anchor:
         entry = anchor
         if direction == 1:
-            sl = anchor * (1 - RISK_PCT)
-            tp = anchor * (1 + RISK_PCT * RR)
+            tp = anchor * (1 + TP_PCT)
+            sl = anchor * (1 - HARD_STOP_PCT)
+            exit_price = anchor * (1 - EXIT_PCT)
         elif direction == -1:
-            sl = anchor * (1 + RISK_PCT)
-            tp = anchor * (1 - RISK_PCT * RR)
+            tp = anchor * (1 - TP_PCT)
+            sl = anchor * (1 + HARD_STOP_PCT)
+            exit_price = anchor * (1 + EXIT_PCT)
         else:
-            support = anchor * (1 - RISK_PCT * 1.5)
-            resist = anchor * (1 + RISK_PCT * 1.5)
+            support = anchor * (1 - EXIT_PCT)
+            resist = anchor * (1 + EXIT_PCT)
 
-    # 金字塔分批建仓：5档累计头寸 10/10/20/30/50（规则20），价位从 entry 顺方向到 tp 均分
+    # 金字塔分批建仓（10/10/20/30/50），价位从 entry 顺方向到止盈位
     pyramid = None
     if entry and tp is not None and (direction == 1 or direction == -1):
         ratios = [10, 10, 20, 30, 50]
@@ -359,21 +362,21 @@ def compute_guide(item):
             price = entry + (tp - entry) * t
             levels.append(round(price, 3))
         pyramid = {"ratio": ratios, "levels": levels,
-                   "note": "金字塔分批建仓，累计头寸按10/10/20/30/50递增；回撤至支撑/跌破止损则停止加仓"}
+                   "note": "金字塔分批建仓，累计头寸按10/10/20/30/50递增；未触发反向离场位前按档加仓"}
 
-    move_stop = "盈利后将止损上移至开仓成本附近，保护账面利润（移动止损，不平仓）"
+    move_stop = "移动止损：已有浮盈后把离场线紧到开仓价附近，回吐-0.1%即平仓锁盈"
 
     if direction == 1:
         action = "短线看多"
-        reason = ("现价%s，盈亏比1:%d(止盈%s/止损%s)，单次风险≤1/3资本；顺势做多：开仓%s，止盈%s，止损%s；未到止盈而反向靠止损位即止损" %
-                  (fmt(anchor), RR, fmt(tp), fmt(sl), fmt(entry), fmt(tp), fmt(sl)))
+        reason = ("现价%s：止盈%s(+3%%)，反向%s(-0.15%%)立即离场，浮盈回吐至%s(-0.1%%)硬止损兜底" %
+                  (fmt(anchor), fmt(tp), fmt(exit_price), fmt(sl)))
     elif direction == -1:
         action = "短线看空"
-        reason = ("现价%s，盈亏比1:%d(止盈%s/止损%s)，单次风险≤1/3资本；顺势做空：开仓%s，止盈%s，止损%s；未到止盈而反向靠止损位即止损" %
-                  (fmt(anchor), RR, fmt(tp), fmt(sl), fmt(entry), fmt(tp), fmt(sl)))
+        reason = ("现价%s：止盈%s(-3%%)，反向%s(+0.15%%)立即离场，浮盈回吐至%s(+0.1%%)硬止损兜底" %
+                  (fmt(anchor), fmt(tp), fmt(exit_price), fmt(sl)))
     else:
         action = "区间观望"
-        reason = ("方向不明(%s)；回踩支撑%s附近轻仓做多，反弹压力%s附近轻仓做空，盈亏比≥3:1" %
+        reason = ("方向不明(%s)；区间±0.15%%高抛低吸：回踩支撑%s轻仓做多，反弹压力%s轻仓做空" %
                   ("、".join(tags), fmt(support), fmt(resist)))
 
     g = {
@@ -382,17 +385,18 @@ def compute_guide(item):
         "anchor": numf(anchor) if anchor else None,
         "entry": numf(entry) if entry else None,
         "basis_label": "多" if basis is not None and basis > 0 else ("空" if basis is not None and basis < 0 else "平"),
-        "rr": RR,
-        "risk_pct": round(RISK_PCT * 100, 1),
+        "tp_pct": TP_PCT * 100,
+        "exit_pct": EXIT_PCT * 100,
+        "risk_pct": round(HARD_STOP_PCT * 100, 2),
         "move_stop": move_stop,
         "trail_stop": numf(entry) if (direction != 0 and entry) else None,
-        "stop_discipline": ("止损纪律：未到止盈位、价格却反向朝移动止损位(开仓成本附近)靠拢时，立即止损离场，不等待止盈" if direction != 0 else ""),
-
+        "stop_discipline": ("持仓纪律：未到止盈且价格反向-0.15%立即离场；已有浮盈回吐至开仓价-0.1%立即硬止损兜底" if direction != 0 else ""),
     }
     if pyramid:
         g["pyramid"] = pyramid
     if direction == 1 or direction == -1:
-        g["tp"] = numf(tp); g["sl"] = numf(sl)
+        g["tp"] = numf(tp); g["sl"] = numf(sl); g["exit_price"] = numf(exit_price)
+        g["rr"] = round(TP_PCT / EXIT_PCT, 1)   # 止盈/反向离场 比
     else:
         g["support"] = numf(support); g["resist"] = numf(resist)
     return g
