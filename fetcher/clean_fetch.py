@@ -27,9 +27,6 @@ SOURCES = [
     {"name": "NorthernMiner",    "rss": "https://www.northernminer.com/feed/",                   "kind": "comm"},
     {"name": "GrainCentral",    "rss": "https://www.graincentral.com/feed/",                    "kind": "comm"},
     {"name": "中国新闻网-财经", "rss": "http://www.chinanews.com.cn/rss/finance.xml",     "kind": "cn"},
-    {"name": "中国新闻网-要闻", "rss": "https://www.chinanews.com.cn/rss/scroll-news.xml", "kind": "cn"},
-    {"name": "中国新闻网-国内", "rss": "https://www.chinanews.com.cn/rss/china.xml",       "kind": "cn"},
-    {"name": "中国新闻网-国际", "rss": "https://www.chinanews.com.cn/rss/world.xml",       "kind": "cn"},
 ]
 
 # ---- 大宗商品全品种白名单（中文+英文关键词）----
@@ -129,6 +126,18 @@ def commodity_cat(title, summary):
     return None
 
 
+# 国内：大宗商品“供需/景气事件”强词。
+# 社会新闻（伤亡/餐饮/科技展会/数字产业等）没有这些词自动过滤；
+# 具体品种由 commodity_cat() 保留（如油价/铜价/大豆）。
+SUPPLY_DEMAND_STRONG = [
+    "短缺", "过剩", "供大于求", "供不应求",
+    "需求", "供应", "供给", "库存", "减产", "增产",
+    "停产", "复产", "复工", "出口", "进口", "关税",
+    "禁令", "制裁", "倾销", "OPEC", "欧佩克", "产量",
+    "抛储", "收储", "港口", "到港", "装船",
+    "涨价", "跌价", "利多", "利空",
+]
+
 # ---- 国内经济/政策/政治军事 白名单与黑名单 ----
 CN_KEEP = ["经济", "金融", "财政", "货币", "央行", "银行", "利率", "汇率", "社保", "养老金",
            "证券", "股市", "A股", "上市", "融资", "债券", "基金", "期货", "商品", "大宗商品",
@@ -155,16 +164,27 @@ CN_TOPIC_RULES = [
 ]
 
 
+# 国内市场上下文词：事件词命中时还需市场语境，避免 AI/数字产业等碰瓷
+DOM_MARKET_CTX = [
+    "期货", "现货", "大宗商品", "商品期货", "行情",
+    "收评", "早盘", "午评", "合约", "价格指数",
+    "油价", "铜价", "钢价", "煤价", "粮价", "棉价",
+    "糖价", "猪价", "蛋价", "金价", "液化气", "原油",
+]
+
 def cn_fin(t):
-    """判断国内条目是否属于经济/政策/政治军事（丢弃泛生活/无关）。"""
+    """国内：只保留大宗商品品种或“供需事件+市场语境”；社会/AI数字产业等无关全部丢弃。"""
     if is_noise_text(t, ""):
         return False
     tl = t.lower()
     for w in CN_DROP:
         if w in tl:
             return False
-    hits = sum(1 for w in CN_KEEP if w in tl)
-    return hits >= 1
+    if commodity_cat(t, "") is not None:
+        return True
+    if any(w in tl for w in SUPPLY_DEMAND_STRONG) and any(w in tl for w in DOM_MARKET_CTX):
+        return True
+    return False
 
 
 def cn_topic(title):
