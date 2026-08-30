@@ -1209,6 +1209,32 @@
   "en_title": "Europe’s Russia Sanctions Have a Major Blind Spot"
  },
  {
+  "title": "$ 740万澳元帮助种植者应用研究的澳大利亚土壤计划",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-08-28T19:17:00Z",
+  "source": "Grainnet",
+  "_cat": "能源",
+  "dedup_key": "19480309d055c3524c10b1cebd965bbe",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "$7.4 Million Australian Soils Initiative to Help Growers Apply Research"
+ },
+ {
   "title": "尽管正在进行调解努力，但尽管美国对伊朗的立场强硬，原油仍在下降",
   "url": "",
   "summary": "（ RTTNews ） -部分扭转了昨天的飙升，原油价格周五小幅走低，尽管美伊外交谈判没有显示出恢复的迹象，尽管中介机构做出了认真的努力，为油价提供支持，因为美国排除了任何计划中的谈判。",
@@ -1259,62 +1285,5 @@
    "能源"
   ],
   "en_title": "Venezuela Helped Build OPEC. Now It May Help Break It Apart"
- },
- {
-  "title": "汪建华：2026年钢铁市场“先抑后扬”，企业需“攻守相济、变中求进”",
-  "url": "https://news.mysteel.com/a/26082818/084D3C60619BB558.html",
-  "summary": "",
-  "pub_time": "2026-08-28T18:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "a60d379f717d98a83f67a0d29d8cbb28",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "每日钢市：钢坯涨30元，3家钢厂涨价，钢价或趋强运行",
-  "url": "https://news.mysteel.com/a/26082818/F3A38E3CE7FD4725.html",
-  "summary": "",
-  "pub_time": "2026-08-28T18:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "d1d4d4a297f19347d6001db2b62c7685",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "防城港榕泰40万吨连续热浸1#无花镀锌机组热试成功——精品冷轧四大产品矩阵全面落定",
-  "url": "https://news.mysteel.com/a/26082818/795FDF0F8D30248B.html",
-  "summary": "",
-  "pub_time": "2026-08-28T18:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "d03cf42b5902d2d99e0b11a3564ce80d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  }
 ]
