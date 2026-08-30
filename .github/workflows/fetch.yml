@@ -1,4 +1,4 @@
-name: auto-fetch
+﻿name: auto-fetch
 run-name: auto-fetch news+prices
 permissions:
   contents: write
@@ -27,5 +27,8 @@ jobs:
           GITEE_USER: ys15251239086
           GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN || github.token }}
+          BD_APPID: ${{ secrets.BD_APPID }}
+          BD_KEY: ${{ secrets.BD_KEY }}
         run: bash run.sh
+
 
