@@ -27,6 +27,7 @@ SOURCES = [
     {"name": "NorthernMiner",    "rss": "https://www.northernminer.com/feed/",                   "kind": "comm"},
     {"name": "GrainCentral",    "rss": "https://www.graincentral.com/feed/",                    "kind": "comm"},
     {"name": "中国新闻网-财经", "rss": "http://www.chinanews.com.cn/rss/finance.xml",     "kind": "cn"},
+    {"name": "上海钢联Mysteel", "rss": "https://news.mysteel.com/", "kind": "cn", "parser": "mysteel"},
 ]
 
 # ---- 大宗商品全品种白名单（中文+英文关键词）----
@@ -351,6 +352,35 @@ def parse(xml):
     return out
 
 
+def parse_mysteel(xml):
+    """解析上海钢联(我的钢铁) HTML 首页：提取 news.mysteel.com/a/ 文章标题+链接+时间(从URL YYMMDDHH 还原)。"""
+    now = datetime.now(timezone.utc)
+    out = []
+    pat = re.compile(r'<a[^>]+href="(https://news\.mysteel\.com/a/[^"]+)"[^>]*>\s*([^<]{2,120}?)\s*</a>', re.S)
+    seen = set()
+    for href, txt in pat.findall(xml):
+        title = clean_text(txt)
+        if not title or title in seen or is_bad(href):
+            continue
+        seen.add(title)
+        pub = None; pub_time = ""
+        m = re.search(r"/a/(\d{8})", href)
+        if m:
+            try:
+                d = m.group(1)
+                year = int("20" + d[0:2]); month = int(d[2:4]); day = int(d[4:6]); hour = int(d[6:8])
+                pub = datetime(year, month, day, hour, 0, tzinfo=timezone.utc)
+                pub_time = pub.strftime("%Y-%m-%dT%H:%M:%SZ")
+            except Exception:
+                pub = None
+        hours_ago = max(0.0, (now - pub).total_seconds() / 3600) if pub else None
+        if hours_ago is None or hours_ago > TIME_WINDOW_HOURS:
+            continue
+        out.append({"title": title, "url": href, "summary": "",
+                    "pub_time": pub_time or now.strftime("%Y-%m-%dT%H:%M:%SZ")})
+    return out
+
+
 def build():
     all_articles = []
     ok = fail = 0
@@ -359,7 +389,10 @@ def build():
     for src in SOURCES:
         try:
             xml = fetch(src["rss"])
-            arts = parse(xml)
+            if src.get("parser") == "mysteel":
+                arts = parse_mysteel(xml)
+            else:
+                arts = parse(xml)
             picked = []
             for a in arts:
                 a["source"] = src["name"]
