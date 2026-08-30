@@ -28,6 +28,12 @@ SOURCES = [
     {"name": "GrainCentral",    "rss": "https://www.graincentral.com/feed/",                    "kind": "comm"},
     {"name": "中国新闻网-财经", "rss": "http://www.chinanews.com.cn/rss/finance.xml",     "kind": "cn"},
     {"name": "上海钢联Mysteel", "rss": "https://news.mysteel.com/", "kind": "cn", "parser": "mysteel"},
+    {"name": "粮油豆粕", "rss": "http://www.chinagrain.cn/doupo/", "kind": "cn", "parser": "chinagrain"},
+    {"name": "粮油玉米", "rss": "http://www.chinagrain.cn/yumi/", "kind": "cn", "parser": "chinagrain"},
+    {"name": "粮油大豆", "rss": "http://www.chinagrain.cn/dadou/", "kind": "cn", "parser": "chinagrain"},
+    {"name": "粮油小麦", "rss": "http://www.chinagrain.cn/xiaomai/", "kind": "cn", "parser": "chinagrain"},
+    {"name": "粮油菜籽", "rss": "http://www.chinagrain.cn/caizi/", "kind": "cn", "parser": "chinagrain"},
+    {"name": "粮油首页", "rss": "http://www.chinagrain.cn/", "kind": "cn", "parser": "chinagrain"},
 ]
 
 # ---- 大宗商品全品种白名单（中文+英文关键词）----
@@ -36,7 +42,8 @@ COMMODITY_CATS = [
     ("能源",    ["原油", "石油", "油价", "wti", "布伦特", "brent", "天然气", "汽油", "燃料油", "oil", "crude", "gas", "petroleum", "energy price"]),
     ("基本金属", ["铜", "铝", "锌", "镍", "铅", "锡", "lme", "copper", "aluminum", "aluminium", "zinc", "nickel", "lead", "tin"]),
     ("黑色系",  ["铁矿石", "铁矿", "螺纹", "焦煤", "焦炭", "钢材", "钢铁", "iron ore", "steel", "coke", "futures steel"]),
-    ("农产品",  ["大豆", "玉米", "小麦", "棉花", "白糖", "糖价", "豆粕", "菜粕", "棕榈油", "菜籽油", "生猪", "鸡蛋", "橡胶",
+    ("农产品",  ["大豆", "玉米", "小麦", "棉花", "白糖", "糖价", "豆粕", "菜粕", "棕榈油", "菜籽油", "菜油", "豆油",
+                "生猪", "鸡蛋", "橡胶", "花生", "苹果", "红枣", "稻", "大米", "面粉", "玉米油", "葵花籽油", "油菜籽",
                 "soybean", "soy", "corn", "wheat", "cotton", "sugar", "rubber", "grain", "palm oil", "coffee", "cocoa"]),
 ]
 # 泛大宗商品/期货词：命中则归为"综合"
@@ -381,6 +388,51 @@ def parse_mysteel(xml):
     return out
 
 
+def parse_chinagrain(xml):
+    """解析中国粮油信息网 HTML：抽取 .shtml 文章标题+链接+日期,过滤广告/供求。"""
+    now = datetime.now(timezone.utc)
+    out = []
+    # 先拾全部 <a href=..>text..</a>，再过滤 .shtml 文章链接
+    pat = re.compile(r'<a[^>]+href="([^"]+)"[^>]*>(.*?)</a>', re.S)
+    seen = set()
+    ADHINT = ("供", "出售", "召商", "代理", "招商", "联系", "电话", "活航", "活动", "联谊", "生态园", "V信", "价格请")
+    for href, txt in pat.findall(xml):
+        if ".shtml" not in href.lower():
+            continue
+        if "biz.chinagrain.cn" in href or "/ly" in href.lower():
+            continue  # biz 用户广告 / 供求发布
+        if not (href.startswith("http") or href.startswith("n/") or href.startswith("axfwnh/")):
+            continue
+        title = clean_text(txt)
+        if not title or title in seen or is_bad(href):
+            continue
+        if any(h in title for h in ADHINT):
+            continue
+        # 淘汰首尾杂尾：去掉 ". "、数字、分页等前缀与 (置顶)/括号尾
+        # 只剝格式噪点：点/计数前缀/（置顶），不称掉年份 2026
+        title = re.sub(r"^[.\u2022\u00b7#]+\s*", "", title)
+        title = re.sub(r"^\d{1,3}\s+", "", title)
+        title = re.sub(r"[（(](?:\u7f6e\u9876|\u7ed1)\s*[)）]", "", title).strip()
+        if not title or title in seen:
+            continue
+        seen.add(title)
+        full = href if href.startswith("http") else "http://www.chinagrain.cn/" + href
+        m = re.search(r"/(\d{4})/(\d{2})/(\d{2})/\d+\.shtml", full)
+        pub = None; pub_time = ""
+        if m:
+            try:
+                pub = datetime(int(m.group(1)), int(m.group(2)), int(m.group(3)), 0, 0, tzinfo=timezone.utc)
+                pub_time = pub.strftime("%Y-%m-%dT%H:%M:%SZ")
+            except Exception:
+                pub = None
+        hours_ago = max(0.0, (now - pub).total_seconds() / 3600) if pub else None
+        if hours_ago is None or hours_ago > TIME_WINDOW_HOURS:
+            continue
+        out.append({"title": title, "url": full, "summary": "",
+                    "pub_time": pub_time or now.strftime("%Y-%m-%dT%H:%M:%SZ")})
+    return out
+
+
 def build():
     all_articles = []
     ok = fail = 0
@@ -391,6 +443,8 @@ def build():
             xml = fetch(src["rss"])
             if src.get("parser") == "mysteel":
                 arts = parse_mysteel(xml)
+            elif src.get("parser") == "chinagrain":
+                arts = parse_chinagrain(xml)
             else:
                 arts = parse(xml)
             picked = []
