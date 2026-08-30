@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """
 clean_fetch.py - 定向抓取器（大宗商品全品种 + 国内财经）
 只抓直接可打开原链接的真实源；国外财政/政治一概不要。
@@ -93,34 +93,78 @@ def extract_keywords(text, category):
     return found[:6]
 
 
+def _http_json(url, headers=None, timeout=12):
+    req = urllib.request.Request(url, headers=headers or {"User-Agent": UA})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return json.loads(r.read().decode("utf-8", "replace"))
+
+
+def _tr_google(text):
+    """Google 免费翻译接口，译为简体中文"""
+    import urllib.parse
+    q = urllib.parse.quote(text)
+    u = ("https://translate.googleapis.com/translate_a/single?client=gtx"
+         "&sl=auto&tl=zh-CN&dt=t&q=" + q)
+    d = _http_json(u, {"User-Agent": UA, "Referer": "https://translate.google.com/"})
+    # 返回结构 [[["译文","原文",null,...],...],null,"en",...]
+    segs = []
+    for grp in d[0]:
+        if isinstance(grp, list) and grp and grp[0]:
+            segs.append(str(grp[0]))
+    out = "".join(segs).strip()
+    return out if out and len(out) > 1 else ""
+
+
+def _tr_baidu(text):
+    """百度免费网页接口（transapi），译为中文"""
+    import urllib.parse
+    q = urllib.parse.quote(text)
+    u = "https://fanyi.baidu.com/transapi?query=" + q + "&from=auto&to=zh"
+    d = _http_json(u, {"User-Agent": UA, "Accept-Language": "zh-CN,zh;q=0.9"})
+    arr = d.get("data") or []
+    sb = []
+    for o in arr:
+        dst = (o or {}).get("dst")
+        if dst:
+            sb.append(dst)
+    out = "".join(sb).strip()
+    return out if out else ""
+
+
+def _tr_mymemory(text):
+    """MyMemory 免费接口；免费额度有限，常返回 429，作为最末兜底"""
+    import urllib.parse
+    q = urllib.parse.quote(text)
+    u = "https://api.mymemory.translated.net/get?q=" + q + "&langpair=en|zh-CN"
+    d = _http_json(u, {"User-Agent": "NewsRadar/1.0"}, timeout=8)
+    out = (d.get("responseData") or {}).get("translatedText") or ""
+    out = re.sub(r"\*\*\*|&quot;|&amp;", "", out).strip()
+    return out
+
+
 def translate_zh(text, max_len=900, cache=None):
-    """调用 MyMemory 免费翻译接口把英文(自动检测)译为简体中文；失败返回原串。"""
+    """把英文(自动检测)译为简体中文；逐个尝试 Google/百度/MyMemory，全部失败返回原串。"""
     t = (text or "").strip()
     if not t:
         return ""
     if len(t) > max_len:
         t = t[:max_len].rsplit(" ", 1)[0]
+    # 已含较多中文则视为已翻译，直接返回
+    if re.search(r"[\u4e00-\u9fff]", t) and len(re.findall(r"[\u4e00-\u9fff]", t)) >= max(2, len(re.sub(r"\s", "", t)) // 4):
+        return t
     h = hashlib.md5(t.encode("utf-8")).hexdigest()
     if cache is not None and h in cache:
         return cache[h]
-    try:
-        import urllib.parse
-        q = urllib.parse.quote(t)
-        u = "https://api.mymemory.translated.net/get?q=" + q + "&langpair=en|zh-CN"
-        req = urllib.request.Request(u, headers={"User-Agent": "NewsRadar/1.0"})
-        with urllib.request.urlopen(req, timeout=10) as r:
-            d = json.loads(r.read().decode("utf-8", "replace"))
-        out = (d.get("responseData", {}) or {}).get("translatedText", "") or ""
-        # MyMemory 有时把未翻译词保留原样并加 ***；清理
-        out = re.sub(r"\*\*\*|&quot;|&amp;", "", out).strip()
-        if out:
-            if cache is not None:
-                cache[h] = out
-            return out
-    except Exception:
-        pass
+    for fn in (_tr_google, _tr_baidu, _tr_mymemory):
+        try:
+            out = fn(t)
+            if out and re.search(r"[\u4e00-\u9fff]", out):
+                if cache is not None:
+                    cache[h] = out
+                return out
+        except Exception:
+            continue
     return t
-
 
 def commodity_cat(title, summary):
     t = (title + " " + (summary or "")).lower()
@@ -517,4 +561,5 @@ if __name__ == "__main__":
     cn = sum(1 for x in data if x.get("_cn"))
     comm = len(data) - cn
     print(f"\n完成：源OK={ok} FAIL={fail}，共 {len(data)} 条（大宗商品 {comm} / 国内财经 {cn}） -> {out_path}")
+
 
