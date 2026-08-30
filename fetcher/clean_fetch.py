@@ -20,12 +20,15 @@ TIME_WINDOW_HOURS = 48
 
 # ---- 只留：国际大宗商品行情源(会做品种白名单过滤) + 国内财经 ----
 SOURCES = [
-    {"name": "Mining.com",       "rss": "https://www.mining.com/feed/",              "kind": "comm"},
-    {"name": "Oilprice.com",     "rss": "https://oilprice.com/rss/main",             "kind": "comm"},
-    {"name": "Grainnet",         "rss": "https://www.grainnet.com/rss.xml",          "kind": "comm"},
-    {"name": "Nasdaq商品",        "rss": "https://www.nasdaq.com/feed/rssoutbound?category=commodities", "kind": "comm"},
-    {"name": "中国新闻网-财经",      "rss": "http://www.chinanews.com.cn/rss/finance.xml", "kind": "cn"},
-    {"name": "新浪财经",          "rss": "http://rss.sina.com.cn/finance/rollnews.xml", "kind": "cn"},
+    {"name": "Mining.com",       "rss": "https://www.mining.com/feed/",                          "kind": "comm"},
+    {"name": "Oilprice.com",     "rss": "https://oilprice.com/rss/main",                         "kind": "comm"},
+    {"name": "Grainnet",         "rss": "https://www.grainnet.com/rss.xml",                      "kind": "comm"},
+    {"name": "Nasdaq商品",       "rss": "https://www.nasdaq.com/feed/rssoutbound?category=commodities", "kind": "comm"},
+    {"name": "NorthernMiner",    "rss": "https://www.northernminer.com/feed/",                   "kind": "comm"},
+    {"name": "中国新闻网-财经", "rss": "http://www.chinanews.com.cn/rss/finance.xml",     "kind": "cn"},
+    {"name": "中国新闻网-要闻", "rss": "https://www.chinanews.com.cn/rss/scroll-news.xml", "kind": "cn"},
+    {"name": "中国新闻网-国内", "rss": "https://www.chinanews.com.cn/rss/china.xml",       "kind": "cn"},
+    {"name": "中国新闻网-国际", "rss": "https://www.chinanews.com.cn/rss/world.xml",       "kind": "cn"},
 ]
 
 # ---- 大宗商品全品种白名单（中文+英文关键词）----
@@ -406,3 +409,4 @@ if __name__ == "__main__":
     cn = sum(1 for x in data if x.get("_cn"))
     comm = len(data) - cn
     print(f"\n完成：源OK={ok} FAIL={fail}，共 {len(data)} 条（大宗商品 {comm} / 国内财经 {cn}） -> {out_path}")
+
