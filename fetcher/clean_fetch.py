@@ -115,6 +115,29 @@ def _tr_google(text):
     return out if out and len(out) > 1 else ""
 
 
+def _tr_baidu_api(text):
+    """百度翻译官方 API（需 appid+key，可靠不反爬），返回中文；无凭据抛异常走回退。"""
+    import urllib.parse
+    appid = os.environ.get("BD_APPID") or ""
+    key = os.environ.get("BD_KEY") or ""
+    if not appid or not key or len(text) > 1800:
+        raise RuntimeError("no bd api creds")
+    salt = str(int(time.time() * 1000))
+    sign = hashlib.md5((appid + text + salt + key).encode("utf-8")).hexdigest()
+    u = "https://fanyi-api.baidu.com/api/trans/vip/translate"
+    data = urllib.parse.urlencode({
+        "q": text, "from": "auto", "to": "zh",
+        "appid": appid, "salt": salt, "sign": sign,
+    }).encode("utf-8")
+    req = urllib.request.Request(u, data=data, headers={"User-Agent": UA,
+        "Content-Type": "application/x-www-form-urlencoded"})
+    with urllib.request.urlopen(req, timeout=12) as r:
+        d = json.loads(r.read().decode("utf-8", "replace"))
+    if "trans_result" in d:
+        return "".join(row.get("dst", "") for row in d["trans_result"]).strip()
+    raise RuntimeError("baidu api error: %s" % d)
+
+
 def _tr_baidu(text):
     """百度免费网页接口（transapi），译为中文"""
     import urllib.parse
@@ -155,7 +178,7 @@ def translate_zh(text, max_len=900, cache=None):
     h = hashlib.md5(t.encode("utf-8")).hexdigest()
     if cache is not None and h in cache:
         return cache[h]
-    for fn in (_tr_google, _tr_baidu, _tr_mymemory):
+    for fn in (_tr_baidu_api, _tr_google, _tr_baidu, _tr_mymemory):
         try:
             out = fn(t)
             if out and re.search(r"[\u4e00-\u9fff]", out):
