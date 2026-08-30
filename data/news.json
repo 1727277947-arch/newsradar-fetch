@@ -1,8 +1,8 @@
 [
  {
-  "title": "数据中心正在推动新的美国天然气建设",
+  "title": "Data Centers Are Driving a New U.S. Natural Gas Buildout",
   "url": "",
-  "summary": "数据中心的扩张为人工智能的繁荣提供动力，正在引发美国天然气的复兴。仅在2026年上半年，与数据中心相关的计划燃气发电容量就几乎翻了一番，因为大型科技公司转向大型新发电厂来支持",
+  "summary": "The expansion of data centers to power the artificial intelligence boom is causing a natural gas revival in the United States. Planned gas-fired power capacity tied to data centers nearly doubled in the first half of 2026 alone, as Big Tech players turn to massive new power plants to support the ins",
   "pub_time": "2026-08-30T17:00:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -83,9 +83,427 @@
   "is_elite": false
  },
  {
-  "title": "伊朗战争为全球能源进口法案增加了3300亿美元$",
+  "title": "【稻谷独家】新季稻谷多空博弈加剧，开秤价成焦点",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/30/4408120453.shtml",
+  "summary": "",
+  "pub_time": "2026-08-30T00:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "a2602a4492542bd75fb222edcc6b8056",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月30日天津豆粕价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/30/5743127548.shtml",
+  "summary": "",
+  "pub_time": "2026-08-30T00:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "83505a7e79b70a1d647cff9fb6722c1c",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月30日河北石家庄玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/30/5306801535.shtml",
+  "summary": "",
+  "pub_time": "2026-08-30T00:00:00Z",
+  "source": "粮油玉米",
+  "_cn": true,
+  "dedup_key": "cd6abb258b12c9e51ca28ae7cbddbd36",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油玉米"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月30日山东济南玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/30/5249949273.shtml",
+  "summary": "",
+  "pub_time": "2026-08-30T00:00:00Z",
+  "source": "粮油玉米",
+  "_cn": true,
+  "dedup_key": "88d7b16385e6859d877249923a75ee9d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油玉米"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月30日内蒙古通辽玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/30/5230603027.shtml",
+  "summary": "",
+  "pub_time": "2026-08-30T00:00:00Z",
+  "source": "粮油玉米",
+  "_cn": true,
+  "dedup_key": "425f92fed02f58924b3843f150128344",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油玉米"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月30日吉林长春玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/30/5210195905.shtml",
+  "summary": "",
+  "pub_time": "2026-08-30T00:00:00Z",
+  "source": "粮油玉米",
+  "_cn": true,
+  "dedup_key": "a12cc6ff40ecc1efbe18d7bdaaa1b204",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油玉米"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月30日黑龙江双鸭山玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/30/5146939262.shtml",
+  "summary": "",
+  "pub_time": "2026-08-30T00:00:00Z",
+  "source": "粮油玉米",
+  "_cn": true,
+  "dedup_key": "9fbe12b4215d76305a7c21146bdacb63",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油玉米"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月30日黑龙江鹤岗玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/30/5125637165.shtml",
+  "summary": "",
+  "pub_time": "2026-08-30T00:00:00Z",
+  "source": "粮油玉米",
+  "_cn": true,
+  "dedup_key": "0694b215ebb5f1b745fda7918240f065",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油玉米"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月30日江苏省徐州睢宁杂花大豆价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/30/0535553425.shtml",
+  "summary": "",
+  "pub_time": "2026-08-30T00:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "682b350dca632f29973bd7b0d00623b6",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月30日河南省濮阳西田镇大豆价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/30/0521406752.shtml",
+  "summary": "",
+  "pub_time": "2026-08-30T00:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "70e5cdec2a9278479f94c3dbdc1ee105",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月30日湖北省天门新季大豆价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/30/0455844446.shtml",
+  "summary": "",
+  "pub_time": "2026-08-30T00:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "603c2ca0f054252fec42621fb1cebd5a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月30日内蒙古鄂伦春旗诺敏镇大豆价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/30/0426692463.shtml",
+  "summary": "",
+  "pub_time": "2026-08-30T00:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "afbd7348379d3f8a7b283e8e691941d8",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月30日河南驻马店新季小麦价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/30/5448671459.shtml",
+  "summary": "",
+  "pub_time": "2026-08-30T00:00:00Z",
+  "source": "粮油小麦",
+  "_cn": true,
+  "dedup_key": "1cc3999d92551e162406928f251e3aa6",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油小麦"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月30日河北新乡新季小麦价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/30/5503345775.shtml",
+  "summary": "",
+  "pub_time": "2026-08-30T00:00:00Z",
+  "source": "粮油小麦",
+  "_cn": true,
+  "dedup_key": "28fb7d2c7a8f164f27b1130794de6ec1",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油小麦"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月30日河北石家庄新季小麦价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/30/5416594935.shtml",
+  "summary": "",
+  "pub_time": "2026-08-30T00:00:00Z",
+  "source": "粮油小麦",
+  "_cn": true,
+  "dedup_key": "625477f068c15d27b497df8c9e8bb51a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油小麦"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月30日山西运城新季小麦价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/30/5350176702.shtml",
+  "summary": "",
+  "pub_time": "2026-08-30T00:00:00Z",
+  "source": "粮油小麦",
+  "_cn": true,
+  "dedup_key": "917a4fb05bc7e85594a4840de9db8c18",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油小麦"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月30日山东济南新季小麦价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/30/5400883144.shtml",
+  "summary": "",
+  "pub_time": "2026-08-30T00:00:00Z",
+  "source": "粮油小麦",
+  "_cn": true,
+  "dedup_key": "034f929c394590c33a237e4a27626e5a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油小麦"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月30日吉林市场豆油价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/30/0016254592.shtml",
+  "summary": "",
+  "pub_time": "2026-08-30T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "72e43aee5305cc0834355007c2febf11",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月30日辽宁盘锦米厂盐丰大米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/30/0624511199.shtml",
+  "summary": "",
+  "pub_time": "2026-08-30T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "fdb6c482c491410b940127d58d513b10",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月30日辽宁盘锦米厂辽星稻谷价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/30/0609359240.shtml",
+  "summary": "",
+  "pub_time": "2026-08-30T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "b28fdcc91b5aad221daadc5bf610d86d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月30日辽宁盘锦米厂盐丰稻谷价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/30/0552275754.shtml",
+  "summary": "",
+  "pub_time": "2026-08-30T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "9c8fd2556d7c564873ce237fdfd93f32",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月30日辽宁盘锦米厂辽星大米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/30/0639400861.shtml",
+  "summary": "",
+  "pub_time": "2026-08-30T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "fbad2634c51de4b3984ea7de10a9d436",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Iran War Adds $330 Billion to Global Energy Import Bill",
   "url": "",
-  "summary": "美国、以色列和伊朗之间的战争导致世界石油和天然气进口账单在3月至8月的六个月内增加了多达3300亿美元($)。尽管油价上涨幅度小于预期，天然气价格上涨幅度同样小于预期，但",
+  "summary": "The war between the United States, Israel, and Iran has caused the oil and gas import bill of the world to swell by as much as $330 billion over the six months between March and August. That’s despite a smaller-than-feared oil price climb and equally smaller-than-feared rise in gas prices. However,",
   "pub_time": "2026-08-29T23:00:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -108,9 +526,9 @@
   "en_title": "Iran War Adds $330 Billion to Global Energy Import Bill"
  },
  {
-  "title": "太阳能已跨越关键的经济转折点",
+  "title": "Solar Has Crossed a Critical Economic Tipping Point",
   "url": "",
-  "summary": "多年来，太阳能的经济案例带来了一个尴尬的资格。是的，它没有燃油费。是的，它的运营成本很低。是的，在项目的整个生命周期中，它已经可以产生比新的煤炭或天然气工厂更便宜的电力。但首先，必须有人为此付出代价。Solar concentra",
+  "summary": "For years, the economic case for solar came with an awkward qualification. Yes, it had no fuel bill. Yes, its operating costs were low. And yes, over the life of a project it could already produce cheaper electricity than a new coal or gas plant. But first, someone had to pay for it. Solar concentra",
   "pub_time": "2026-08-29T21:00:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -133,9 +551,9 @@
   "en_title": "Solar Has Crossed a Critical Economic Tipping Point"
  },
  {
-  "title": "美国之眼18世纪缉获和销售伊朗石油的法律",
+  "title": "U.S. Eyes 18th-Century Law to Seize and Sell Iranian Oil",
   "url": "",
-  "summary": "据彭博社报道，美国政府正在探索一条不同寻常的法律途径来处理作为其封锁一部分而被捕获的伊朗石油和船只：恢复一个几代人几乎没有使用的战时海事系统。司法部正与五角大楼合作，准备",
+  "summary": "The US government is exploring an unusual legal route for dealing with Iranian oil and ships captured as part of its blockade: bringing back a wartime maritime system that has barely been used for generations, according to Bloomberg. The Justice Department, working with the Pentagon, is preparing to",
   "pub_time": "2026-08-29T16:00:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -159,9 +577,9 @@
   "en_title": "U.S. Eyes 18th-Century Law to Seize and Sell Iranian Oil"
  },
  {
-  "title": "石油资源丰富的阿塞拜疆大举押注清洁能源热潮",
+  "title": "Oil-Rich Azerbaijan Bets Big on a Clean Energy Boom",
   "url": "",
-  "summary": "阿塞拜疆是世界上最古老的石油生产国和出口国之一，自19世纪中叶以来一直开采原油，并且仍然是全球主要的石油生产国。长期以来，它一直依赖石油和天然气来满足其能源需求，并成为主要的经济贡献者。然而，第29届联合国气候变化大会的主办方",
+  "summary": "Azerbaijan is one of the world’s oldest oil producers and exporters, having pumped crude since the mid-19th century, and remains a major global oil producer. It has long relied on oil and gas to meet its energy needs and as a major economic contributor. However, the host of the 29th UN Climate Chang",
   "pub_time": "2026-08-29T15:00:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -261,6 +679,386 @@
   "is_elite": false
  },
  {
+  "title": "2026年8月29日天津豆粕价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/29/1019223497.shtml",
+  "summary": "",
+  "pub_time": "2026-08-29T00:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "8e3c6e139fd1036b0d14992e74c5280d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月29日河南鹤壁玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/29/5527812089.shtml",
+  "summary": "",
+  "pub_time": "2026-08-29T00:00:00Z",
+  "source": "粮油玉米",
+  "_cn": true,
+  "dedup_key": "582a07e3ca50dd6b7a570ad5ad6267d7",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油玉米"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月29日江苏徐州贾汪杂花大豆价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/29/0052295501.shtml",
+  "summary": "",
+  "pub_time": "2026-08-29T00:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "d7ded67d37dcebd972add0c1d65b2d84",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月29日河南省漯河大豆价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/29/0040221983.shtml",
+  "summary": "",
+  "pub_time": "2026-08-29T00:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "9415b8ac0da24f575b7766b7495dd524",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月29日山东省菏泽牡丹区杂花大豆价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/29/0028861001.shtml",
+  "summary": "",
+  "pub_time": "2026-08-29T00:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "3a21e17615e73fd2c1ed2dcb1dd1ec5a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月29日安徽省阜阳颍上大豆价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/29/0012934418.shtml",
+  "summary": "",
+  "pub_time": "2026-08-29T00:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "a59f1a11a06ea9d2877e156c70187cdb",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月29日内蒙古呼伦贝尔阿荣旗大豆价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/29/5959488031.shtml",
+  "summary": "",
+  "pub_time": "2026-08-29T00:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "cfc5d1da01778817c769eb44e5f06811",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月29日河南安阳新季小麦价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/29/5646462448.shtml",
+  "summary": "",
+  "pub_time": "2026-08-29T00:00:00Z",
+  "source": "粮油小麦",
+  "_cn": true,
+  "dedup_key": "5b70768e04303a60026b822cf17b3a4d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油小麦"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月29日河南鹤壁新季小麦价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/29/5632537365.shtml",
+  "summary": "",
+  "pub_time": "2026-08-29T00:00:00Z",
+  "source": "粮油小麦",
+  "_cn": true,
+  "dedup_key": "493e350953850528050d91597439b6ad",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油小麦"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月29日河北保定新季小麦价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/29/5617743358.shtml",
+  "summary": "",
+  "pub_time": "2026-08-29T00:00:00Z",
+  "source": "粮油小麦",
+  "_cn": true,
+  "dedup_key": "6fb5ee97e8c3053471a13d0c418688f6",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油小麦"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月29日山东德州新季小麦价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/29/5600526044.shtml",
+  "summary": "",
+  "pub_time": "2026-08-29T00:00:00Z",
+  "source": "粮油小麦",
+  "_cn": true,
+  "dedup_key": "1a52e809de22fe17cfd800eebcacd19d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油小麦"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月29日山东聊城新季小麦价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/29/5544806040.shtml",
+  "summary": "",
+  "pub_time": "2026-08-29T00:00:00Z",
+  "source": "粮油小麦",
+  "_cn": true,
+  "dedup_key": "365ca60f537fd7c748a5559003301144",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油小麦"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月29日吉林市场豆油价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/29/1206583610.shtml",
+  "summary": "",
+  "pub_time": "2026-08-29T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "e71b679820977c21414a9f515da0ec43",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月29日河北邢台玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/29/5511329458.shtml",
+  "summary": "",
+  "pub_time": "2026-08-29T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "03847d0f705226af7b67700c32c3d4b5",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月29日山东聊城玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/29/5457551720.shtml",
+  "summary": "",
+  "pub_time": "2026-08-29T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "cb4f2d1aaff6b14609a89b9b32e9734b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月29日内蒙古巴彦淖尔玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/29/5436476864.shtml",
+  "summary": "",
+  "pub_time": "2026-08-29T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "395eb403fa68b3bb4f048a9bc8bb7262",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月29日吉林白城玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/29/5420777830.shtml",
+  "summary": "",
+  "pub_time": "2026-08-29T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "9b9e3cebf029745bb87cafdd8b8325e4",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月29日黑龙江哈尔滨玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/29/5404183033.shtml",
+  "summary": "",
+  "pub_time": "2026-08-29T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "921398b41624891d20de21e23be31cbf",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月29日黑龙江鸡西米厂圆粒水稻价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/29/0132114422.shtml",
+  "summary": "",
+  "pub_time": "2026-08-29T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "183e9f7e197b4cd13758f5d0c89a096b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月29日黑龙江齐齐哈尔龙江米厂绥粳18水稻价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/29/0116728190.shtml",
+  "summary": "",
+  "pub_time": "2026-08-29T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "2f7cb4520e8de26e81cd7e88494a5338",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "Mysteel：七日洞见——黑色金属市场一周热点回顾（8.23-8.29）",
   "url": "https://news.mysteel.com/a/26082823/FD884DEA7489DD08.html",
   "summary": "",
@@ -280,9 +1078,9 @@
   "is_elite": false
  },
  {
-  "title": "安菲尔德能源公司开始在犹他州历史悠久的天鹅绒木铀矿进行爆破",
+  "title": "Anfield Energy starts blasting at historic Velvet-Wood uranium mine in Utah",
   "url": "",
-  "summary": "在1979年至1984年期间，天鹅绒矿床产生了大约400万磅的U ”O”。",
+  "summary": "The Velvet deposit produced about 4 million pounds of U₃O₈ between 1979 and 1984.",
   "pub_time": "2026-08-28T22:49:46Z",
   "source": "Mining.com",
   "_cat": "基本金属",
@@ -307,9 +1105,9 @@
   "en_title": "Anfield Energy starts blasting at historic Velvet-Wood uranium mine in Utah"
  },
  {
-  "title": "黄金巨大的八月",
+  "title": "Gold’s huge August",
   "url": "",
-  "summary": "无论是超买还是贪婪，黄金都可以继续流通。",
+  "summary": "Neither overbought nor greedy, gold can keep running.",
   "pub_time": "2026-08-28T21:36:28Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -333,9 +1131,9 @@
   "en_title": "Gold’s huge August"
  },
  {
-  "title": "本周加拿大五大矿业股票： VR资源飙升384%",
+  "title": "Top 5 Canadian Mining Stocks This Week: VR Resources Soars with 384 Percent Gain",
   "url": "",
-  "summary": "欢迎来到Investing News Network每周查看TSX、TSXV和CSE上表现最佳的加拿大矿业股票，首先是影响资源行业的加拿大新闻综述。加拿大统计局周五（ 8月28日）发布了第二季度国内生产总值（ GDP ）数据",
+  "summary": "Welcome to the Investing News Network's weekly look at the best-performing Canadian mining stocks on the TSX, TSXV and CSE, starting with a round-up of Canadian news impacting the resource sector.Statistics Canada released its second-quarter gross domestic product (GDP) numbers on Friday (August 28)",
   "pub_time": "2026-08-28T21:00:00Z",
   "source": "Nasdaq商品",
   "_cat": "基本金属",
@@ -361,9 +1159,9 @@
   "en_title": "Top 5 Canadian Mining Stocks This Week: VR Resources Soars with 384 Percent Gain"
  },
  {
-  "title": "专栏：埃塞俄比亚隐藏的SEDEX矿床--非洲下一个大盆地的一部分？",
+  "title": "Op-Ed: Ethiopia’s hidden SEDEX deposit — part of Africa’s next great basin?",
   "url": "",
-  "summary": "沉积的呼气沉积物可以归结为同样优雅的食谱， Nicholas Vafeas写道。",
+  "summary": "Sedimentary exhalative deposits boil down to an equally elegant recipe, writes Nicholas Vafeas.",
   "pub_time": "2026-08-28T20:16:00Z",
   "source": "Mining.com",
   "_cat": "能源",
@@ -386,9 +1184,9 @@
   "en_title": "Op-Ed: Ethiopia’s hidden SEDEX deposit — part of Africa’s next great basin?"
  },
  {
-  "title": "欧洲对俄罗斯的制裁有一个主要的盲点",
+  "title": "Europe’s Russia Sanctions Have a Major Blind Spot",
   "url": "",
-  "summary": "在过去两年中，欧盟和英国已成为对俄罗斯实施制裁的主要参与者。但意大利欧洲大学研究所教授Maria Demertzis等人对制裁运动的有效性提出了质疑，因为欧洲机构继续",
+  "summary": "Over the last two years, the EU and UK have emerged as leading actors in imposing sanctions on Russia. But people like Maria Demertzis, Professor at the European University Institute in Italy, have raised questions around the effectiveness of the sanctions campaign, as European institutions continue",
   "pub_time": "2026-08-28T20:00:00Z",
   "source": "Oilprice.com",
   "_cat": "基本金属",
@@ -411,7 +1209,7 @@
   "en_title": "Europe’s Russia Sanctions Have a Major Blind Spot"
  },
  {
-  "title": "$ 740万澳元帮助种植者应用研究的澳大利亚土壤计划",
+  "title": "$7.4 Million Australian Soils Initiative to Help Growers Apply Research",
   "url": "",
   "summary": "",
   "pub_time": "2026-08-28T19:17:00Z",
@@ -437,9 +1235,9 @@
   "en_title": "$7.4 Million Australian Soils Initiative to Help Growers Apply Research"
  },
  {
-  "title": "尽管正在进行调解努力，但尽管美国对伊朗的立场强硬，原油仍在下降",
+  "title": "Crude Oil Dips Even As U.S. Hardens Stance Against Iran Despite Ongoing Mediatory Efforts",
   "url": "",
-  "summary": "（ RTTNews ） -部分扭转了昨天的飙升，原油价格周五小幅走低，尽管美伊外交谈判没有显示出恢复的迹象，尽管中介机构做出了认真的努力，为油价提供支持，因为美国排除了任何计划中的谈判。",
+  "summary": "(RTTNews) - Partially reversing yesterday's surge, crude oil prices have edged lower on Friday even as U.S.-Iran diplomatic talks show no sign of resumption despite serious efforts by intermediaries, providing support to oil prices as U.S. rules out any planned negotiations.",
   "pub_time": "2026-08-28T18:39:23Z",
   "source": "Nasdaq商品",
   "_cat": "能源",
@@ -464,9 +1262,9 @@
   "en_title": "Crude Oil Dips Even As U.S. Hardens Stance Against Iran Despite Ongoing Mediatory Efforts"
  },
  {
-  "title": "委内瑞拉帮助建立了欧佩克。现在，它可能有助于打破它",
+  "title": "Venezuela Helped Build OPEC. Now It May Help Break It Apart",
   "url": "",
-  "summary": "委内瑞拉帮助创建了欧佩克。六十多年后，它正在考虑离开，华盛顿似乎非常乐意敞开大门。据彭博社周五报道，加拉加斯正在考虑是否退出石油输出国组织，并援引知情人士的话说",
+  "summary": "Venezuela helped create OPEC. More than six decades later, it is considering walking away, and Washington appears perfectly happy to hold open the door. Caracas is weighing whether to leave the Organization of the Petroleum Exporting Countries, Bloomberg reported Friday, citing people familiar with",
   "pub_time": "2026-08-28T18:30:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -546,9 +1344,9 @@
   "is_elite": false
  },
  {
-  "title": "投资者解析美联储主席在杰克逊霍尔研讨会上的演讲，黄金大跌",
+  "title": "Gold Tumbles As Investors Parse Fed Chair's Speech At Jackson Hole Symposium",
   "url": "",
-  "summary": "（ RTTNews ） -周五黄金价格暴跌，交易员分析了美联储（ Federal Reserve ）的凯文·沃什（ Kevin Warsh ）在杰克逊霍尔（ Jackson Hole ）经济研讨会上的讲话，暗示在持续的美伊危机中加息。",
+  "summary": "(RTTNews) - Gold prices have slumped on Friday as traders analyzed a speech by U.S. Federal Reserve Kevin Warsh at the Jackson Hole economic symposium hinting at rate hikes amid the ongoing U.S.-Iran crisis.",
   "pub_time": "2026-08-28T17:40:31Z",
   "source": "Nasdaq商品",
   "_cat": "贵金属",
@@ -571,115 +1369,5 @@
    "暴跌"
   ],
   "en_title": "Gold Tumbles As Investors Parse Fed Chair's Speech At Jackson Hole Symposium"
- },
- {
-  "title": "伊朗战争已将VLCC转变为每日$ 650,000的资产",
-  "url": "",
-  "summary": "更多的海湾石油再次开采。现在把它弄出来要花一大笔钱。根据彭博社援引的波罗的海交易所数据，基准沙特阿拉伯到中国超级油轮航线的收入周四飙升至每天创纪录的647,000 $。这一比率是一年前的十倍以上，而且接近27%",
-  "pub_time": "2026-08-28T17:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "44d09bcafc5b757be8e9a2d03281ca9e",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "The Iran War Has Turned VLCCs Into $650,000-a-Day Assets"
- },
- {
-  "title": "随着天然气钻井平台的崛起，美国石油钻井平台数量下降了5个",
-  "url": "",
-  "summary": "根据贝克休斯周五公布的新数据，本周美国的石油和天然气钻井平台总数保持不变，美国的钻井平台总数保持在588个，比去年同期增加了52个。活跃石油钻井平台数量下降了5个，",
-  "pub_time": "2026-08-28T17:24:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "f96c3320d807a819f96284a1e3999d6e",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "天然气",
-   "上涨",
-   "下跌"
-  ],
-  "en_title": "U.S. Oil Rig Count Falls by 5 as Gas Rigs Rise"
- },
- {
-  "title": "小麦期货因天气而上涨，黑海供应担忧",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-08-28T17:23:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "7aaba54df8ba78aed910fe414f38cce8",
-  "score": 84,
-  "priority": "P1",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "小麦",
-   "上涨",
-   "供应"
-  ],
-  "en_title": "Wheat Futures Rise on Weather, Black Sea Supply Concerns"
- },
- {
-  "title": "黄金价格下跌，因为Warsh警告美联储在通货膨胀方面仍有“工作要做”",
-  "url": "",
-  "summary": "在美联储主席捍卫目标并在债券市场干预下滑后，黄金下跌逾3% ，债券市场干预推动了黄金自1月以来的最佳月份。",
-  "pub_time": "2026-08-28T17:10:08Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "942b50ae38315bc305cac1e29ab0065e",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "价",
-   "下跌"
-  ],
-  "en_title": "Gold price drops as Warsh warns Fed still has ‘work to do’ on inflation"
  }
 ]
