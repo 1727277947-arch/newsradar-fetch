@@ -2,7 +2,7 @@
  {
   "title": "数据中心正在推动美国新的天然气建设",
   "url": "",
-  "summary": "为人工智能热潮提供动力的数据中心扩张正在导致美国天然气的复兴。仅在 2026 年上半年，与数据中心相关的计划燃气发电容量就几乎翻倍，因为大型科技公司转向大规模新建发电厂来支持ins",
+  "summary": "数据中心的扩张为人工智能的繁荣提供了动力，这导致了美国天然气的复苏。仅在2026年上半年，与数据中心相关的计划燃气发电容量就几乎翻了一番，因为大型科技公司转向大型新发电厂来支持智能电网",
   "pub_time": "2026-08-30T17:00:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -503,7 +503,7 @@
  {
   "title": "伊朗战争使全球能源进口法案增加3300亿美元",
   "url": "",
-  "summary": "美国、以色列和伊朗之间的战争导致全球石油和天然气进口费用在3月至8月的六个月内增加了3300亿美元之多。尽管油价上涨幅度小于预期，天然气价格上涨幅度也同样小于预期。然而，",
+  "summary": "美国、以色列和伊朗之间的战争导致世界石油和天然气进口账单在3月至8月的六个月内增加了3300亿美元。尽管油价上涨幅度小于预期，天然气价格上涨幅度也同样小于预期。然而，",
   "pub_time": "2026-08-29T23:00:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -528,7 +528,7 @@
  {
   "title": "太阳能已经跨越了一个关键的经济转折点",
   "url": "",
-  "summary": "多年来，太阳能的经济论证一直伴随着一个尴尬的条件。是的，它没有燃油费。是的，它的运营成本很低。是的，在项目的整个生命周期中，它已经可以比新的燃煤或天然气发电厂生产更便宜的电力。但首先，必须有人为此付出代价。太阳能聚光灯",
+  "summary": "多年来，太阳能的经济案例都伴随着一个尴尬的条件。是的，它没有燃料费。是的，其运营成本很低。是的，在项目的整个生命周期内，它已经可以生产比新的煤炭或天然气厂更便宜的电力。但首先，必须有人为此付出代价",
   "pub_time": "2026-08-29T21:00:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -1209,13 +1209,13 @@
   "en_title": "Europe’s Russia Sanctions Have a Major Blind Spot"
  },
  {
-  "title": "尽管美国正在进行调解努力，但原油价格仍在下跌",
+  "title": "740万澳元澳大利亚土壤倡议帮助种植者应用研究",
   "url": "",
-  "summary": "(RTTNews) - 原油价格周五小幅走低，部分扭转了昨天的上涨势头，尽管中间人做出了积极努力，但美国与伊朗的外交谈判没有恢复的迹象，这为油价提供了支撑，因为美国排除了任何计划中的谈判。",
-  "pub_time": "2026-08-28T18:39:23Z",
-  "source": "Nasdaq商品",
+  "summary": "",
+  "pub_time": "2026-08-28T19:17:00Z",
+  "source": "Grainnet",
   "_cat": "能源",
-  "dedup_key": "898a224b73f6834ac8a1d4f80b8fca74",
+  "dedup_key": "19480309d055c3524c10b1cebd965bbe",
   "score": 84,
   "priority": "P1",
   "topic": "能源",
@@ -1230,34 +1230,8 @@
   "is_elite": false,
   "keywords": [
    "能源",
-   "原油",
-   "走强"
+   "原油"
   ],
-  "en_title": "Crude Oil Dips Even As U.S. Hardens Stance Against Iran Despite Ongoing Mediatory Efforts"
- },
- {
-  "title": "委内瑞拉帮助建立欧佩克。现在它可能有助于打破它",
-  "url": "",
-  "summary": "委内瑞拉帮助创建了欧佩克。六十多年后，它正在考虑退出，华盛顿似乎非常乐意敞开大门。彭博社周五援引知情人士的话说，加拉加斯正在考虑是否退出石油输出国组织",
-  "pub_time": "2026-08-28T18:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "8c71aef52aeb6e462211b7e6db0ee9ac",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Venezuela Helped Build OPEC. Now It May Help Break It Apart"
+  "en_title": "$7.4 Million Australian Soils Initiative to Help Growers Apply Research"
  }
 ]
