@@ -25,6 +25,7 @@ SOURCES = [
     {"name": "Grainnet",         "rss": "https://www.grainnet.com/rss.xml",                      "kind": "comm"},
     {"name": "Nasdaq商品",       "rss": "https://www.nasdaq.com/feed/rssoutbound?category=commodities", "kind": "comm"},
     {"name": "NorthernMiner",    "rss": "https://www.northernminer.com/feed/",                   "kind": "comm"},
+    {"name": "GrainCentral",    "rss": "https://www.graincentral.com/feed/",                    "kind": "comm"},
     {"name": "中国新闻网-财经", "rss": "http://www.chinanews.com.cn/rss/finance.xml",     "kind": "cn"},
     {"name": "中国新闻网-要闻", "rss": "https://www.chinanews.com.cn/rss/scroll-news.xml", "kind": "cn"},
     {"name": "中国新闻网-国内", "rss": "https://www.chinanews.com.cn/rss/china.xml",       "kind": "cn"},
