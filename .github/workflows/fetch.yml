@@ -1,4 +1,7 @@
 name: auto-fetch
+run-name: auto-fetch news+prices
+permissions:
+  contents: write
 on:
   schedule:
     - cron: '0 0,2,4,6,10,14,18,22 * * *'   # 北京 08/10/12/14(2h) 18/22/02/06(4h)
@@ -23,5 +26,6 @@ jobs:
           GITEE_BRANCH: master
           GITEE_USER: ys15251239086
           GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN || github.token }}
         run: bash run.sh
 

@@ -18,11 +18,15 @@ git config user.name "NewsRadarBot"
 git config user.email "bot@newsradar.local"
 git add data/news.json data/prices.json
 git commit -m "auto fetch news+prices ${STAMP}" || echo "no github changes"
-if [ -n "${GH_TOKEN:-}" ]; then
+if [ -n "${GITHUB_TOKEN:-}" ]; then
+  # 默认 GITHUB_TOKEN（含 contents:write）优先，可靠推 GitHub
+  git push "https://1727277947-arch:${GITHUB_TOKEN}@github.com/1727277947-arch/newsradar-fetch.git" "HEAD:main" \
+    || echo "github push failed (default token)"
+elif [ -n "${GH_TOKEN:-}" ]; then
   GH_PUSH="https://1727277947-arch:${GH_TOKEN}@github.com/1727277947-arch/newsradar-fetch.git"
-  git push "$GH_PUSH" "HEAD:main" || echo "github push failed"
+  git push "$GH_PUSH" "HEAD:main" || echo "github push failed (gh_token)"
 else
-  git push || echo "github push (default token) failed"
+  git push || echo "github push failed (no token)"
 fi
 
 echo "== push to gitee =="
