@@ -10,10 +10,13 @@ python3 fetcher/fetch_prices.py output/prices.json
 
 STAMP=$(date '+%Y%m%d-%H%M%S')
 
-echo "== commit + push to github =="
+echo "== stage data for github (data/*.json, used by jsDelivr) =="
+mkdir -p data
+cp output/news.json data/news.json
+cp output/prices.json data/prices.json
 git config user.name "NewsRadarBot"
 git config user.email "bot@newsradar.local"
-git add -A
+git add data/news.json data/prices.json
 git commit -m "auto fetch news+prices ${STAMP}" || echo "no github changes"
 if [ -n "${GH_TOKEN:-}" ]; then
   GH_PUSH="https://1727277947-arch:${GH_TOKEN}@github.com/1727277947-arch/newsradar-fetch.git"
