@@ -1,8 +1,7 @@
-﻿name: auto-fetch
+name: auto-fetch
 on:
   schedule:
-    - cron: '0 0,2,4,6,8,12 * * *'   # 北京 08/10/12/14/16/20 点
-    - cron: '0 16,20 * * *'          # 北京 00/04 点
+    - cron: '0 0,2,4,6,10,14,18,22 * * *'   # 北京 08/10/12/14(2h) 18/22/02/06(4h)
   workflow_dispatch:
 jobs:
   fetch:
@@ -25,3 +24,4 @@ jobs:
           GITEE_USER: ys15251239086
           GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
         run: bash run.sh
+
