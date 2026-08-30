@@ -1,5 +1,31 @@
 [
  {
+  "title": "数据中心正在推动新的美国天然气建设",
+  "url": "",
+  "summary": "数据中心的扩张为人工智能的繁荣提供动力，正在引发美国天然气的复兴。仅在2026年上半年，与数据中心相关的计划燃气发电容量就几乎翻了一番，因为大型科技公司转向大型新发电厂来支持",
+  "pub_time": "2026-08-30T17:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "e4f7db1f81d1017192a868ffad5ea5fc",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气"
+  ],
+  "en_title": "Data Centers Are Driving a New U.S. Natural Gas Buildout"
+ },
+ {
   "title": "北纬53度结出“金豆子” 塔河县寒地大豆育种实现新突破",
   "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686937.shtml",
   "summary": "田德雨 邱贺岩)30日，中国农科院专家、北大荒垦丰种业科研团队、种植大户和各地经销商相聚黑龙江省塔河县，参加超早熟大豆“中黄940”展示示范会，共同见证最北寒地大豆良种选育的最新成果",
@@ -655,81 +681,5 @@
    "下跌"
   ],
   "en_title": "Gold price drops as Warsh warns Fed still has ‘work to do’ on inflation"
- },
- {
-  "title": "钢材下游周报：国家发改委推动“六张网”“两重”建设",
-  "url": "https://news.mysteel.com/a/26082817/9A035A20BA34895B.html",
-  "summary": "",
-  "pub_time": "2026-08-28T17:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "521832cb2953056724c3e6553423db38",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel晚餐：焦炭第三轮提涨已部分落地，进口铁矿石港库增加",
-  "url": "https://news.mysteel.com/a/26082817/D164CCA53F35D67F.html",
-  "summary": "",
-  "pub_time": "2026-08-28T17:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "f16e2d3d24a48a93db9bed0534cf8b2c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "关键矿产日报：国内油价上调，印尼铝产业扩张趋势不改",
-  "url": "https://news.mysteel.com/a/26082817/5F6DE744891077B3.html",
-  "summary": "",
-  "pub_time": "2026-08-28T17:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "752aaa775b6f1259b744618cf81eb8ee",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "覆铜板龙头建滔积层板年内第七次涨价",
-  "url": "https://news.mysteel.com/a/26082817/411B860AE30FBA8B.html",
-  "summary": "",
-  "pub_time": "2026-08-28T17:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "00333fc6d5792dc56785a71eaf308da2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  }
 ]
