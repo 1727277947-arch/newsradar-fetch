@@ -1,6 +1,100 @@
 [
  {
-  "title": "南方的冬天提升了ABARES小麦、大麦、油菜籽的产量",
+  "title": "Mysteel早读：铁矿石涨破100美元",
+  "url": "https://news.mysteel.com/a/26090107/20D8AA1B7575D86D.html",
+  "summary": "",
+  "pub_time": "2026-09-01T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "71a2ad207505fe9aa58c4ef5b3b01a97",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel早读：铁矿石涨破100美元，黑色期货夜盘高位回落",
+  "url": "https://news.mysteel.com/a/26090107/A9DE8E663678F5D9.html",
+  "summary": "",
+  "pub_time": "2026-09-01T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "7b344053f36e61e82041752faa781576",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "物料清单每周降雨量更新2026年9月1日+展望",
+  "url": "",
+  "summary": "在过去的一周里，CQ粒状带的所有部分都出现了超过15毫米的零星下降，但预计下周只有南部地区会下雨。",
+  "pub_time": "2026-08-31T23:06:38Z",
+  "source": "GrainCentral",
+  "_cat": "农产品",
+  "dedup_key": "3bafd07c6773106ddbb78c0325e9fe3c",
+  "score": 84,
+  "priority": "P1",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "下跌",
+   "周",
+   "展望"
+  ],
+  "en_title": "BOM weekly rainfall update 1 Sep 2026 + outlook"
+ },
+ {
+  "title": "为什么更多的委内瑞拉石油不能解决美国的汽油问题",
+  "url": "",
+  "summary": "委内瑞拉拥有世界上最大的探明石油储量，其重质原油特别适合美国墨西哥湾沿岸的复杂炼油厂。更多的委内瑞拉石油应该有助于美国炼油厂，但这并不能直接转化为更低的油价。特朗普宣布Fr",
+  "pub_time": "2026-08-31T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "ce17d4cbe15a7848b92b7bde23853234",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "汽油",
+   "天然气"
+  ],
+  "en_title": "Why More Venezuelan Oil Won’t Solve America’s Gasoline Problem"
+ },
+ {
+  "title": "南方温和的冬季提振了 ABARES 小麦、大麦、油菜籽产量",
   "url": "",
   "summary": "在澳大利亚南部经历了一个温和潮湿的冬季后，ABARES上调了对小麦、大麦和油菜籽的预测。",
   "pub_time": "2026-08-31T22:10:18Z",
@@ -54,7 +148,7 @@
  {
   "title": "加拿大关税加深了北美的钢铁和铝挤压",
   "url": "",
-  "summary": "美国和加拿大之间重新爆发的贸易战给对重型制造业和北美汽车业至关重要的复杂钢铁和铝供应链增加了更多的不确定性。上周贸易谈判的破裂导致关税和反关税迅速升级",
+  "summary": "美国和加拿大之间新一轮的贸易战给对重型制造业和北美汽车工业至关重要的复杂钢铁和铝供应链增添了更多不确定性。上周贸易谈判破裂导致关税和反关税迅速升级",
   "pub_time": "2026-08-31T21:00:00Z",
   "source": "Oilprice.com",
   "_cat": "基本金属",
@@ -129,7 +223,7 @@
   "en_title": "Norway Wants Europe’s Energy Market, Without Sharing Its Trade-Offs"
  },
  {
-  "title": "雪佛龙、印度石油天然气公司和通用电气Vernova即将达成委内瑞拉能源交易",
+  "title": "雪佛龙、ONGC 和 GE Vernova 即将达成委内瑞拉能源交易",
   "url": "",
   "summary": "路透社周一援引五位知情人士的话报道称，雪佛龙、印度石油天然气公司、通用电气Vernova、埃尼集团和GeoPark正准备在委内瑞拉签署最终能源协议，为该国的油田和电力基础设施带来新的外国投资。委内瑞拉度过了过去的",
   "pub_time": "2026-08-31T19:30:00Z",
@@ -309,7 +403,7 @@
  {
   "title": "海湾局势再次升级，美国加息的可能性，黄金价格暴跌",
   "url": "",
-  "summary": "（RTTNews）-除了前两个交易日的损失外，周一金价暴跌，此前美国和伊朗突然重新开始相互打击，结束了长达一个月的中断，这重新引发了人们对海湾地区广泛战争的担忧。此外，投资者继续",
+  "summary": "(RTTNews) - 继前两个交易日下跌后，美国和伊朗突然重新发动袭击，结束了长达一个月的停顿，重新引发了人们对海湾地区爆发大范围战争的担忧，金价周一暴跌。此外，投资者继续",
   "pub_time": "2026-08-31T17:42:42Z",
   "source": "Nasdaq商品",
   "_cat": "贵金属",
@@ -336,7 +430,7 @@
  {
   "title": "SLB在人工智能数据中心热潮上押注34亿美元",
   "url": "",
-  "summary": "这家全球最大的油田服务公司正斥资34亿美元，拓展人工智能电力繁荣背后的基础设施。SLB周一表示，将收购德国冷却设备制造商Kelvion，使每千兆瓦交付容量的收入机会增加一倍多",
+  "summary": "全球最大的油田服务公司正斥资 34 亿美元扩张人工智能电力热潮背后的基础设施。 SLB 周一表示，将收购德国冷却设备制造商 Kelvion，据 SLB 称，每吉瓦交付容量的收入机会将增加一倍以上",
   "pub_time": "2026-08-31T17:30:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -382,25 +476,6 @@
    "贵金属"
   ],
   "en_title": "Court ruling backs Perpetua’s $1.3B Stibnite build"
- },
- {
-  "title": "Mysteel晚餐：焦炭第三轮涨价全面落地",
-  "url": "https://news.mysteel.com/a/26083117/E3E65E269FF7E234.html",
-  "summary": "",
-  "pub_time": "2026-08-31T17:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "6d354008dc100a35fc93e1a8ef60a498",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  },
  {
   "title": "Mysteel晚餐：焦炭第三轮涨价全面落地，铁矿石到港量减少",
@@ -545,7 +620,7 @@
   "en_title": "Gold price slips as Mideast tensions stoke Fed hike bets"
  },
  {
-  "title": "USGBC提供更新的谷物转化计算器应用程序",
+  "title": "USGBC 提供更新的谷物换算计算器应用程序",
   "url": "",
   "summary": "",
   "pub_time": "2026-08-31T16:35:00Z",
@@ -601,7 +676,7 @@
  {
   "title": "分析师最爱：金田被评为首选金属",
   "url": "",
-  "summary": "根据金属频道的数据，一项对主要券商分析师建议的研究显示，在金属频道全球矿业巨头指数的50只股票中，金田有限公司（代号：GFI）平均排名第12。全球金属频道",
+  "summary": "根据 Metals Channel 的数据，对主要经纪公司分析师推荐的研究显示，在组成 Metals Channel 全球矿业巨头指数的 50 只股票中，Gold Fields Ltd.（股票代码：GFI）平均排名第 12 位。全球金属频道",
   "pub_time": "2026-08-31T15:55:30Z",
   "source": "Nasdaq商品",
   "_cat": "贵金属",
@@ -653,7 +728,7 @@
   "en_title": "Talamore gets key road permit for Coffee gold project in Yukon Territory"
  },
  {
-  "title": "Talamore获得咖啡金项目的关键道路许可",
+  "title": "塔拉莫尔获得咖啡黄金项目的关键道路许可证",
   "url": "",
   "summary": "Talamore Mining（TSX:TALA；US-OTC:TALMF）已获得剩余的主要许可证，以完成通往育空地区咖啡金项目的214公里四季公路，并拆除了一个关键的基础设施。..Talamore获得咖啡金项目关键道路许可证后，该项目首次出现在《北方矿工》上。",
   "pub_time": "2026-08-31T15:34:09Z",
@@ -682,7 +757,7 @@
  {
   "title": "中国焦煤价格创下46%的月度涨幅",
   "url": "",
-  "summary": "几个月来，供应问题一直在收紧中国焦煤市场，仅在8月份，这种关键的炼钢原材料的价格就创下了46%的历史新高，这是有史以来的最大涨幅。当地时间周一下午，中国大连交易所焦煤期货价格在持续下跌的情况下上涨了6%",
+  "summary": "几个月来，供应问题一直导致中国炼焦煤市场紧张，导致主要炼钢原材料的价格仅在 8 月份就上涨了 46%，创下有记录以来的最大涨幅。受持续影响，中国大连交易所炼焦煤期货当地时间周一下午上涨 6%",
   "pub_time": "2026-08-31T15:30:00Z",
   "source": "Oilprice.com",
   "_cat": "黑色系",
@@ -835,33 +910,6 @@
   "en_title": "Iran Dismisses Trump Claim of Kharg Attack as Hostilities Return"
  },
  {
-  "title": "石油公司和银行面临英国意外税收威胁",
-  "url": "",
-  "summary": "据报道，由于石油公司和银行的老板们公布了巨额利润，财政大臣约翰·希利（John Healey）收到了一项进一步向这些公司和银行征税的计划。Healey可能会在今年的预算中考虑对企业征税，以重建部分被侵蚀的227亿英镑财政缓冲，并填补支出缺口",
-  "pub_time": "2026-08-31T14:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "0551ab3ac8dfc8ef1853482e82710cca",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "下跌"
-  ],
-  "en_title": "Oil Companies and Banks Face UK Windfall Tax Threat"
- },
- {
   "title": "Mysteel：30家上市建材企业披露上半年业绩，超五成盈利",
   "url": "https://news.mysteel.com/a/26083114/A935D893EA260610.html",
   "summary": "",
@@ -1011,7 +1059,7 @@
   "en_title": "Glencore stands between Anglo-Teck and $1.4B copper prize"
  },
  {
-  "title": "嘉能可（Glencore）对 Anglo-Teck 的 1.4B 美元铜奖若隐若现：FT",
+  "title": "英国《金融时报》报道，嘉能可对英美资源集团14亿美元的铜价构成威胁",
   "url": "",
   "summary": "嘉能可（LSE:GLEN）可能会使英美资源集团从与泰克（TSX:Teck.A Teck.B，NYSE:Teck）530亿美元的合并中获得最大收益的努力复杂化，因为矿商们正在谈判如何……嘉能可事件后，英美资源集团获得了14亿美元的铜奖：英国《金融时报》首先出现在《北方矿工》上。",
   "pub_time": "2026-08-31T12:05:00Z",
@@ -1044,25 +1092,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "fdbf88d91bbf11c76813fa18a7be7705",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：6家钢结构上市企业披露2026年上半年业绩，4家盈利",
-  "url": "https://news.mysteel.com/a/26083111/626DBC11E2CAC597.html",
-  "summary": "",
-  "pub_time": "2026-08-31T11:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "3827adb3cc63fdbd9add0f0190e8dbe6",
   "score": 80,
   "priority": "P1",
   "topic": "国内/金融政策",
@@ -1158,6 +1187,25 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "67f04f3fc2c37b8756da8d22f617d38f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/金融政策",
+  "tags": [
+   "金融政策",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：6家钢结构上市企业披露2026年上半年业绩，4家盈利",
+  "url": "https://news.mysteel.com/a/26083111/2AB13CD59A3D4C4D.html",
+  "summary": "",
+  "pub_time": "2026-08-31T11:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "3827adb3cc63fdbd9add0f0190e8dbe6",
   "score": 80,
   "priority": "P1",
   "topic": "国内/金融政策",
@@ -1376,7 +1424,7 @@
  {
   "title": "霍尔木兹战争升级，油价飙升",
   "url": "",
-  "summary": "（RTTNews）-周一油价大幅上涨，因为华盛顿和德黑兰之间紧张局势的升级引发了人们对霍尔木兹海峡供应中断的担忧。",
+  "summary": "(RTTNews) - 由于华盛顿和德黑兰之间的紧张局势升级引发了对霍尔木兹海峡供应中断的担忧，周一油价大幅上涨。",
   "pub_time": "2026-08-31T09:21:06Z",
   "source": "Nasdaq商品",
   "_cat": "能源",
@@ -1744,7 +1792,7 @@
   "is_elite": false
  },
  {
-  "title": "粮食中心2026年8月新闻问答",
+  "title": "Grain Central 2026 年 8 月新闻问答",
   "url": "",
   "summary": "了解粮食中心智力竞赛的最新进展…",
   "pub_time": "2026-08-31T06:36:10Z",
@@ -1772,7 +1820,7 @@
  {
   "title": "脉搏更新：收获开始，降雨建立产量潜力",
   "url": "",
-  "summary": "CQ已经开始收割澳大利亚的冬季豆类，在明天ABARES数据公布之前，最近的降雨为新南威尔士州、维多利亚州和南澳大利亚州的作物增加了产量潜力。",
+  "summary": "澳大利亚冬季豆类的收获工作已在昆士兰州开始，在 ABARES 数据将于明天公布之前，最近的降雨增加了新南威尔士州、维多利亚州和南澳州作物的单产潜力。",
   "pub_time": "2026-08-31T04:46:37Z",
   "source": "GrainCentral",
   "_cat": "基本金属",
@@ -1822,7 +1870,7 @@
   "en_title": "GRDC opens tenders aimed at boosting pulse production"
  },
  {
-  "title": "南非和维多利亚州的上市公司以提高生产力而自豪",
+  "title": "南澳州、维多利亚州的房源提升了生产力",
   "url": "",
   "summary": "南非的Watervalley Farm和Vater Family Aggregation，以及维克的Wimmera的Wallowa Downs都在市场上，展示了他们最好的季节。",
   "pub_time": "2026-08-31T03:09:30Z",
@@ -1848,7 +1896,7 @@
   "en_title": "SA, Vic listings boast productivity-boosting improvements"
  },
  {
-  "title": "每日市场电讯2026年8月31日",
+  "title": "每日市场快讯 2026 年 8 月 31 日",
   "url": "",
   "summary": "黑海出口中断加剧，周五小麦价格大幅上涨。澳大利亚基差下跌；诱使种植者进行衍生品风险管理。",
   "pub_time": "2026-08-31T00:15:51Z",
