@@ -405,6 +405,93 @@ def compute_guide(item):
     return g
 
 
+
+# ---------------- 期货主线：今日开盘 vs 昨结 -> 做多/做空 + 次日开盘预测 ----------------
+KLINE_CACHE = {}
+
+def _fetch_kline(key):
+    """抓新浪日K，返回按日期升序的 [(date, open, close), ...]，最后一根是今日。"""
+    if key in KLINE_CACHE:
+        return KLINE_CACHE[key]
+    out = []
+    url = ("https://stock2.finance.sina.com.cn/futures/api/jsonp.php/"
+           "var%20_=/InnerFuturesNewService.getDailyKLine?symbol=" + key)
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": UA, "Referer": "https://finance.sina.com.cn/"})
+        txt = urllib.request.urlopen(req, timeout=20).read().decode("utf-8", "replace")
+        i = txt.find("([")
+        j = txt.rfind("])")
+        if i >= 0 and j > i:
+            arr = json.loads(txt[i + 1:j + 1])
+            for it in arr:
+                try:
+                    out.append((it["d"], float(it["o"]), float(it["c"])))
+                except (KeyError, TypeError, ValueError):
+                    continue
+    except Exception:
+        pass
+    KLINE_CACHE[key] = out
+    return out
+
+
+def fmt_inline(v):
+    return ("%g" % v) if abs(v) >= 1000 else ("%.3f" % v)
+
+
+def predict_next_open(symlist):
+    """symlist: [(symbol_key, name, category)]。按'今开 vs 昨结' -> 多空关联 + 预测次日开盘。"""
+    import statistics
+    preds = []
+    for key, name, cat in symlist:
+        kkey = key[3:] if key.startswith("nf_") else key
+        rows = _fetch_kline(kkey)
+        if len(rows) < 8:
+            continue
+        recent = list(rows)
+        today_d, today_open, today_close = recent[-1]
+        prev_close = recent[-2][2]  # 昨结参考(前日收盘)
+        N = 20
+        gaps = []
+        for i in range(max(1, len(recent) - N), len(recent)):
+            c_prev = recent[i - 1][2]
+            o_i = recent[i][1]
+            if c_prev and c_prev > 0:
+                gaps.append((o_i - c_prev) / c_prev * 100.0)
+        if not gaps:
+            continue
+        mean_gap = statistics.mean(gaps)
+        std_gap = statistics.stdev(gaps) if len(gaps) >= 2 else 0.3
+        today_gap = (today_open - prev_close) / prev_close * 100.0 if prev_close else 0.0
+        direction = 0
+        label = "观望"
+        if today_gap >= 0.15:
+            direction, label = 1, "做多"
+        elif today_gap <= -0.15:
+            direction, label = -1, "做空"
+        strength = min(3, max(1, int(round(abs(today_gap) / 0.5)))) if direction else 0
+        pred_gap = 0.6 * today_gap + 0.4 * mean_gap
+        pred_open = round(today_close * (1 + pred_gap / 100.0), 3)
+        lo = round(today_close * (1 + (pred_gap - 0.5 * std_gap) / 100.0), 3)
+        hi = round(today_close * (1 + (pred_gap + 0.5 * std_gap) / 100.0), 3)
+        bias = "偏强看多" if direction == 1 else ("偏弱看空" if direction == -1 else "观望")
+        reason = ("%s今开%s vs 昨结参考%s，%+0.2f%%%s；近20日隔夜跳空均值%+0.2f%%，"
+                  "模型预测次日开盘≈%s，区间[%s, %s]" %
+                  (name, fmt_inline(today_open), fmt_inline(prev_close), today_gap, bias,
+                   mean_gap, fmt_inline(pred_open), fmt_inline(lo), fmt_inline(hi)))
+        preds.append({
+            "symbol": key, "name": name, "category": cat,
+            "date": today_d, "today_open": round(today_open, 3),
+            "prev_close": round(prev_close, 3), "gap_pct": round(today_gap, 2),
+            "direction": direction, "label": label, "strength": strength,
+            "mean_gap": round(mean_gap, 2), "std_gap": round(std_gap, 2),
+            "today_close": round(today_close, 3),
+            "pred_next_open": pred_open, "pred_low": lo, "pred_high": hi,
+            "reason": reason,
+        })
+    preds.sort(key=lambda x: abs(x["gap_pct"]), reverse=True)
+    return preds
+
+
 def build(out_path):
     items = []
 
@@ -532,12 +619,21 @@ if __name__ == "__main__":
     out_path = sys.argv[1] if len(sys.argv) > 1 else os.path.join(BASE, "output", "prices.json")
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
     items = build(out_path)
+    # 期货主线：今日开盘 vs 昨结 -> 多空关联 + 次日开盘预测
+    symlist = [(s, name, cat) for s, name, _, cat in DOMESTIC]
+    try:
+        predictions = predict_next_open(symlist)
+    except Exception as e:
+        predictions = []
+        print("[WARN] predict_next_open:", str(e)[:70])
+
     obj = {
         "updated_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
         "quote_ccy": "USD/CNY",
         "note": "大宗商品现货/期货参考报价; 国内品种尽量给出现货(生意社)与期货(新浪)及基差(现货-期货), 供参考不作为交易依据",
         "groups": ["贵金属", "基本金属", "黑色系", "能源", "农产品", "化工"],
         "prices": items,
+        "predictions": predictions,
         "trading_rules": TRADING_RULES,
         "rules_summary": TRADING_RULES_SUMMARY,
     }
