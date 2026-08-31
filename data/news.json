@@ -1,5 +1,293 @@
 [
  {
+  "title": "南方的冬天提升了ABARES小麦、大麦、油菜籽的产量",
+  "url": "",
+  "summary": "在澳大利亚南部经历了一个温和潮湿的冬季后，ABARES上调了对小麦、大麦和油菜籽的预测。",
+  "pub_time": "2026-08-31T22:10:18Z",
+  "source": "GrainCentral",
+  "_cat": "农产品",
+  "dedup_key": "162fb09833fb4fb13956e96f8897941f",
+  "score": 84,
+  "priority": "P1",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "小麦"
+  ],
+  "en_title": "South’s kind winter lifts ABARES wheat, barley, canola figures"
+ },
+ {
+  "title": "伊朗战争引发数十亿美元的新石油管道和港口投资",
+  "url": "",
+  "summary": "美国与以色列和伊朗之间的战争导致波斯湾石油和天然气的严重中断，使能源进口国背负着飙升的账单、供应的不确定性和黯淡的前景。然而，也有一线希望：急于建造替代管道",
+  "pub_time": "2026-08-31T21:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "贵金属",
+  "dedup_key": "2a846d009459316ee000b22cdcf637bb",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "原油"
+  ],
+  "en_title": "Iran War Triggers Billions in New Oil Pipeline and Port Investment"
+ },
+ {
+  "title": "加拿大关税加深了北美的钢铁和铝挤压",
+  "url": "",
+  "summary": "美国和加拿大之间重新爆发的贸易战给对重型制造业和北美汽车业至关重要的复杂钢铁和铝供应链增加了更多的不确定性。上周贸易谈判的破裂导致关税和反关税迅速升级",
+  "pub_time": "2026-08-31T21:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "eccfe05e1d60926588f7043b5f828e43",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铝",
+   "钢材"
+  ],
+  "en_title": "Canada Tariffs Deepen North America’s Steel and Aluminum Squeeze"
+ },
+ {
+  "title": "力拓的巴顿加入卡尼的1万亿美元投资计划",
+  "url": "",
+  "summary": "加拿大总理马克·卡尼任命力拓集团（伦敦证券交易所、澳大利亚证券交易所、纽约证券交易所代码：Rio）董事长多米尼克·巴顿领导加拿大投资局董事会，因为渥太华扩大了该联邦机构在吸引投资方面的作用。后力拓时代的巴顿加入了卡尼的1万亿美元投资计划，该计划首先出现在《北方矿工报》上。",
+  "pub_time": "2026-08-31T20:45:09Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "be459d9b44e5c7859f7746b52746ec8e",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Rio’s Barton joins Carney’s $1T investment drive"
+ },
+ {
+  "title": "挪威希望欧洲的能源市场，但不分享其权衡",
+  "url": "",
+  "summary": "据说挪威正在与布鲁塞尔决裂。能源部长Terje Aasland表示，尽管欧盟支持暂停北极钻探，但该国仍将继续在巴伦支海勘探石油和天然气。他还驳斥了挪威成为欧洲“绿色电池”的旧野心",
+  "pub_time": "2026-08-31T20:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "90718f32a1983434e111c5c7c4546805",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Norway Wants Europe’s Energy Market, Without Sharing Its Trade-Offs"
+ },
+ {
+  "title": "雪佛龙、印度石油天然气公司和通用电气Vernova即将达成委内瑞拉能源交易",
+  "url": "",
+  "summary": "路透社周一援引五位知情人士的话报道称，雪佛龙、印度石油天然气公司、通用电气Vernova、埃尼集团和GeoPark正准备在委内瑞拉签署最终能源协议，为该国的油田和电力基础设施带来新的外国投资。委内瑞拉度过了过去的",
+  "pub_time": "2026-08-31T19:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "7f2599c7c2f931b0072d6d4829e3b348",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Chevron, ONGC and GE Vernova Near Final Venezuela Energy Deals"
+ },
+ {
+  "title": "南非谷物协会敦促采取行动，因为干旱条件威胁着南非的小麦作物",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-08-31T19:13:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "9c7b03238cb3fda7a24d29afc60d8955",
+  "score": 84,
+  "priority": "P1",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "小麦",
+   "谷物"
+  ],
+  "en_title": "Grain SA Urges Action as Dry Conditions Threaten South Africa’s Wheat Crop"
+ },
+ {
+  "title": "特朗普与委内瑞拉的“历史性协议”并没有愚弄石油交易商",
+  "url": "",
+  "summary": "特朗普总统称他的新委内瑞拉协议是“世界历史上最大的石油协议”两天后，故事已经超越了石油本身。五角大楼发言人反驳了报道的所有权结构。这家被定位为经营油田的公司在不透明的条件下易手",
+  "pub_time": "2026-08-31T19:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "8fd46d49ef9d62681f297f09a91fcbb1",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Trump’s “Historic Deal” With Venezuela Isn’t Fooling Oil Traders"
+ },
+ {
+  "title": "在美国和伊朗重新开放霍尔木兹海峡的不确定性中，原油价格飙升",
+  "url": "",
+  "summary": "（RTTNews）-原油价格从上周五的下滑中反弹，周一飙升，因为美国在长达一个月的停顿后于昨日重新开始对伊朗的袭击，随后伊朗进行了报复性袭击，引发了人们对海湾地区更广泛局势再次升级的担忧。",
+  "pub_time": "2026-08-31T18:35:45Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "8ed209657d9283ed78fc47bb2e115f1d",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "大涨"
+  ],
+  "en_title": "Crude Oil Surges Amid Uncertainty Over Strait Of Hormuz Reopening After Fresh U.S.-Iran Attacks"
+ },
+ {
+  "title": "英国石油公司提前两年为埃及增加8000万立方英尺/天的天然气供应",
+  "url": "",
+  "summary": "据埃及媒体报道，英国石油公司已提前约两年开始在埃及西尼罗河三角洲的法尤姆-4井生产，每天为国内产量下降迫使开罗重新大规模进口液化天然气的市场增加约8000万立方英尺的天然气",
+  "pub_time": "2026-08-31T18:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "fdf12f1d1a365b4d5984858a2ca51cd2",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气",
+   "供应"
+  ],
+  "en_title": "BP Adds 80 MMcf/d to Egypt’s Gas Supply Two Years Ahead of Schedule"
+ },
+ {
+  "title": "俄罗斯石油不再是印度的轻松交易",
+  "url": "",
+  "summary": "印度8月份的原油进口量下降，俄罗斯的份额也随之下降，暴露出仅凭季节性炼油厂模式无法解释的供应问题。印度工厂通常的维护期是在季风结束时，此时国内柴油和汽油需求通常会有所缓解，但",
+  "pub_time": "2026-08-31T18:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "156858397dcbf5110ea890729ee94c6a",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "走强"
+  ],
+  "en_title": "Russian Oil Is No Longer India’s Easy Bargain"
+ },
+ {
   "title": "Mysteel黑色金属例会：本周钢价有望震荡反弹",
   "url": "https://news.mysteel.com/a/26083118/FCFBAA29491422C7.html",
   "summary": "",
@@ -17,6 +305,33 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
+ },
+ {
+  "title": "海湾局势再次升级，美国加息的可能性，黄金价格暴跌",
+  "url": "",
+  "summary": "（RTTNews）-除了前两个交易日的损失外，周一金价暴跌，此前美国和伊朗突然重新开始相互打击，结束了长达一个月的中断，这重新引发了人们对海湾地区广泛战争的担忧。此外，投资者继续",
+  "pub_time": "2026-08-31T17:42:42Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "8025264db2e620937eaac19ded40c689",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "暴跌"
+  ],
+  "en_title": "Gold Tumbles Amid Gulf Re-escalation, Possibility Of U.S. Rate Hike"
  },
  {
   "title": "SLB在人工智能数据中心热潮上押注34亿美元",
@@ -202,6 +517,34 @@
   "is_elite": false
  },
  {
+  "title": "中东紧张局势引发美联储加息押注，金价下跌",
+  "url": "",
+  "summary": "油价上涨重新引发了通胀担忧和加息押注，抵消了国债回购的支持。",
+  "pub_time": "2026-08-31T16:51:00Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "f2b2ba12c71c9cf075603c85d73b56e6",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "价",
+   "回落"
+  ],
+  "en_title": "Gold price slips as Mideast tensions stoke Fed hike bets"
+ },
+ {
   "title": "USGBC提供更新的谷物转化计算器应用程序",
   "url": "",
   "summary": "",
@@ -283,13 +626,13 @@
   "en_title": "Analyst Favorites: Gold Fields Ranks As a Top Metals Pick"
  },
  {
-  "title": "Talamore获得咖啡金项目的关键道路许可",
+  "title": "Talamore获得育空地区咖啡金项目的关键道路许可",
   "url": "",
   "summary": "这条214公里的四季公路的批准为明年初的施工决策扫清了一个关键障碍。",
   "pub_time": "2026-08-31T15:34:09Z",
   "source": "Mining.com",
   "_cat": "贵金属",
-  "dedup_key": "843351e5d5de97766571fcf23c0f7723",
+  "dedup_key": "69d72b7c56446245a896b691e39c4552",
   "score": 84,
   "priority": "P1",
   "topic": "贵金属",
@@ -307,7 +650,7 @@
    "黄金",
    "咖啡"
   ],
-  "en_title": "Talamore gets key road permit for Coffee gold project"
+  "en_title": "Talamore gets key road permit for Coffee gold project in Yukon Territory"
  },
  {
   "title": "Talamore获得咖啡金项目的关键道路许可",
@@ -365,7 +708,7 @@
   "en_title": "China Coking Coal Prices Set for Record 46% Monthly Surge"
  },
  {
-  "title": "台湾是美国让中国屈服于爱尔兰共和军的唯一杠杆吗",
+  "title": "台湾是美国让中国在伊拉克问题上听话的唯一筹码吗",
   "url": "",
   "summary": "在任何重大的全球石油危机中，总有赢家。1973/74年，沙特阿拉伯及其欧佩克兄弟将市场力量平衡从西方“七姐妹”主导的先前安排转移到中东石油生产国。2014-2016年石油价格",
   "pub_time": "2026-08-31T15:00:00Z",
@@ -642,34 +985,6 @@
   "is_elite": false
  },
  {
-  "title": "随着价格飙升，中国8月份液化天然气进口量将下降18%",
-  "url": "",
-  "summary": "彭博社周一汇编的船舶跟踪数据显示，由于液化天然气价格高企，一些对价格敏感的工业消费者望而却步，中国8月份的液化天然气进口量将比去年同期下降18%，这与今年夏天持续三个月的购买量增长趋势背道而驰。这个",
-  "pub_time": "2026-08-31T12:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "0abe6dcc3b0dd20a4fe713971360d64e",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "价",
-   "下跌",
-   "进口"
-  ],
-  "en_title": "China's LNG Imports Set to Drop 18% in August as Prices Soar"
- },
- {
   "title": "嘉能可位于英美资源集团和14亿美元铜奖之间",
   "url": "",
   "summary": "关于邻近智利铜矿的谈判将决定三家矿业巨头如何分配数十亿美元的潜在价值。",
@@ -696,7 +1011,7 @@
   "en_title": "Glencore stands between Anglo-Teck and $1.4B copper prize"
  },
  {
-  "title": "英国《金融时报》报道，嘉能可对英美资源集团14亿美元的铜价构成威胁",
+  "title": "嘉能可（Glencore）对 Anglo-Teck 的 1.4B 美元铜奖若隐若现：FT",
   "url": "",
   "summary": "嘉能可（LSE:GLEN）可能会使英美资源集团从与泰克（TSX:Teck.A Teck.B，NYSE:Teck）530亿美元的合并中获得最大收益的努力复杂化，因为矿商们正在谈判如何……嘉能可事件后，英美资源集团获得了14亿美元的铜奖：英国《金融时报》首先出现在《北方矿工》上。",
   "pub_time": "2026-08-31T12:05:00Z",
@@ -720,31 +1035,6 @@
    "铜"
   ],
   "en_title": "Glencore looms over Anglo-Teck’s $1.4B copper prize: FT"
- },
- {
-  "title": "伊朗称超级油轮在霍尔木兹海峡被地雷击中",
-  "url": "",
-  "summary": "伊朗国家媒体周一援引伊朗伊斯兰革命卫队的话说，一艘超级油轮在霍尔木兹海峡南部撞上两枚水雷后起火。伊朗革命卫队在一份声明中说，这艘油轮试图非法穿越海峡",
-  "pub_time": "2026-08-31T11:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "d4804bcbbb7a4cecf86fb7cbefdb63ca",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Iran Says Supertanker Hit by Mines in Strait of Hormuz"
  },
  {
   "title": "Mysteel：13家贵金属上市企业披露上半年业绩，净利全部大增",
@@ -1058,33 +1348,6 @@
   "is_elite": false
  },
  {
-  "title": "随着电池储能需求激增，锂矿商获利颇丰",
-  "url": "",
-  "summary": "彭博社今天报道称，由于对电池储能的需求增强，锂矿商今年上半年利润强劲，并指出其中一些正在计划增产和产能扩张。中国两大锂业巨头——天齐锂业和赣锋锂业",
-  "pub_time": "2026-08-31T09:50:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "96a843b12c1106552a8fcc74ee246f47",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "大涨",
-   "需求"
-  ],
-  "en_title": "Lithium Miners Cash In as Battery Storage Demand Surges"
- },
- {
   "title": "美联储加息预期导致黄金继续下跌",
   "url": "",
   "summary": "（RTTNews）-周一，由于中东局势再次紧张，美联储主席凯文·沃什发表鹰派言论，黄金继续下跌。",
@@ -1367,34 +1630,6 @@
   "is_elite": false
  },
  {
-  "title": "伊朗战争扰乱石油供应，亚洲炼油厂转向阿根廷",
-  "url": "",
-  "summary": "周一，知情的匿名交易员告诉彭博社，包括中国、日本和韩国在内的亚洲原油进口商已转向从阿根廷购买石油，以抵消中东的供应损失。亚洲的炼油厂一直依赖中东",
-  "pub_time": "2026-08-31T08:35:35Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "2056c5488ca759e9bfa33c67e65520dc",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "锡",
-   "供应"
-  ],
-  "en_title": "Asian Refiners Turn to Argentina as Iran War Disrupts Oil Supply"
- },
- {
   "title": "Mysteel钢铁市场月度观察：九月钢市——供需错配抢跑反弹，成本筑顶待旺季检验",
   "url": "https://news.mysteel.com/a/26083108/C5408359573EA990.html",
   "summary": "",
@@ -1509,32 +1744,6 @@
   "is_elite": false
  },
  {
-  "title": "高盛预计柴油精炼利润率将飙升至每桶63美元",
-  "url": "",
-  "summary": "高盛表示，炼油厂将在全球柴油短缺的情况下获得更高的利润，并修改了其早先的利润预测，使炼油公司从紧缩中获得的总利润翻一番。“对中东和俄罗斯炼油厂的罢工不断增加，这进一步限制了",
-  "pub_time": "2026-08-31T06:45:00Z",
-  "source": "Oilprice.com",
-  "_cat": "贵金属",
-  "dedup_key": "9232ceaf4b504e440f0af3d4c9c216f6",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Goldman Sachs Sees Diesel Refining Margins Soaring to $63 a Barrel"
- },
- {
   "title": "粮食中心2026年8月新闻问答",
   "url": "",
   "summary": "了解粮食中心智力竞赛的最新进展…",
@@ -1559,33 +1768,6 @@
    "谷物"
   ],
   "en_title": "Grain Central August 2026 news quiz"
- },
- {
-  "title": "特朗普称委内瑞拉石油将补充美国战略石油储备",
-  "url": "",
-  "summary": "美国总统唐纳德·特朗普周日在社交媒体上表示，美国将使用委内瑞拉原油来补充战略石油储备。路透社援引特朗普总统的话说，此举被描述为“委内瑞拉送给美国人民的礼物”，特朗普总统表示“封顶”将很快开始",
-  "pub_time": "2026-08-31T05:35:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "dbabb318d2b19a10a1db0cc24d07685a",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "石油"
-  ],
-  "en_title": "Trump Says Venezuelan Oil Will Refill U.S. Strategic Petroleum Reserve"
  },
  {
   "title": "脉搏更新：收获开始，降雨建立产量潜力",
