@@ -19,6 +19,56 @@
   "is_elite": false
  },
  {
+  "title": "SLB在人工智能数据中心热潮上押注34亿美元",
+  "url": "",
+  "summary": "这家全球最大的油田服务公司正斥资34亿美元，拓展人工智能电力繁荣背后的基础设施。SLB周一表示，将收购德国冷却设备制造商Kelvion，使每千兆瓦交付容量的收入机会增加一倍多",
+  "pub_time": "2026-08-31T17:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "54535f85749d161dfd4a5fe7a47b821b",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "SLB Makes $3.4 Billion Bet on AI Data Center Boom"
+ },
+ {
+  "title": "法院裁决支持Perpetua斥资13亿美元建造Stibnite",
+  "url": "",
+  "summary": "Perpetua Resources（TSX，纳斯达克股票代码：PPTA）正在推进其爱达荷州Stibnite金锑项目的早期建设，此前美国联邦法院维持了对环境挑战的关键批准。…后法院的裁决支持Perpetua耗资13亿美元建造的Stibnite建筑首次出现在The Nor上",
+  "pub_time": "2026-08-31T17:21:09Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "e03922575e29921522b6f1c68c4ba447",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Court ruling backs Perpetua’s $1.3B Stibnite build"
+ },
+ {
   "title": "Mysteel晚餐：焦炭第三轮涨价全面落地",
   "url": "https://news.mysteel.com/a/26083117/E3E65E269FF7E234.html",
   "summary": "",
@@ -152,6 +202,114 @@
   "is_elite": false
  },
  {
+  "title": "USGBC提供更新的谷物转化计算器应用程序",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-08-31T16:35:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "3677dd4633b6d6b46f1f201faf3bd5db",
+  "score": 84,
+  "priority": "P1",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "谷物"
+  ],
+  "en_title": "USGBC Offers Updated Grain Conversion Calculator App"
+ },
+ {
+  "title": "欧洲天然气价格上涨5%，达到2023年以来的最高水平",
+  "url": "",
+  "summary": "周一早盘交易中，欧洲基准天然气价格上涨5%，因为美国和伊朗之间敌对行动的再次升级加剧了人们对中东液化天然气供应的担忧。荷兰产权转让贷款（TTF）的基准价格在上午飙升了5%",
+  "pub_time": "2026-08-31T16:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "d603d3ec5ca838ba26419a76b2bd5303",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气",
+   "价",
+   "跳涨"
+  ],
+  "en_title": "Europe Gas Prices Jump 5% to Highest Level Since 2023"
+ },
+ {
+  "title": "分析师最爱：金田被评为首选金属",
+  "url": "",
+  "summary": "根据金属频道的数据，一项对主要券商分析师建议的研究显示，在金属频道全球矿业巨头指数的50只股票中，金田有限公司（代号：GFI）平均排名第12。全球金属频道",
+  "pub_time": "2026-08-31T15:55:30Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "23d8e57da7aa593979dcafb3ffb41129",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "金属"
+  ],
+  "en_title": "Analyst Favorites: Gold Fields Ranks As a Top Metals Pick"
+ },
+ {
+  "title": "Talamore获得咖啡金项目的关键道路许可",
+  "url": "",
+  "summary": "这条214公里的四季公路的批准为明年初的施工决策扫清了一个关键障碍。",
+  "pub_time": "2026-08-31T15:34:09Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "843351e5d5de97766571fcf23c0f7723",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "咖啡"
+  ],
+  "en_title": "Talamore gets key road permit for Coffee gold project"
+ },
+ {
   "title": "Talamore获得咖啡金项目的关键道路许可",
   "url": "",
   "summary": "Talamore Mining（TSX:TALA；US-OTC:TALMF）已获得剩余的主要许可证，以完成通往育空地区咖啡金项目的214公里四季公路，并拆除了一个关键的基础设施。..Talamore获得咖啡金项目关键道路许可证后，该项目首次出现在《北方矿工》上。",
@@ -207,7 +365,7 @@
   "en_title": "China Coking Coal Prices Set for Record 46% Monthly Surge"
  },
  {
-  "title": "台湾是美国让中国在伊拉克问题上听话的唯一筹码吗",
+  "title": "台湾是美国让中国屈服于爱尔兰共和军的唯一杠杆吗",
   "url": "",
   "summary": "在任何重大的全球石油危机中，总有赢家。1973/74年，沙特阿拉伯及其欧佩克兄弟将市场力量平衡从西方“七姐妹”主导的先前安排转移到中东石油生产国。2014-2016年石油价格",
   "pub_time": "2026-08-31T15:00:00Z",
@@ -1432,7 +1590,7 @@
  {
   "title": "脉搏更新：收获开始，降雨建立产量潜力",
   "url": "",
-  "summary": "澳大利亚冬季豆类的收获工作已在昆士兰州开始，在 ABARES 数据将于明天公布之前，最近的降雨增加了新南威尔士州、维多利亚州和南澳州作物的单产潜力。",
+  "summary": "CQ已经开始收割澳大利亚的冬季豆类，在明天ABARES数据公布之前，最近的降雨为新南威尔士州、维多利亚州和南澳大利亚州的作物增加了产量潜力。",
   "pub_time": "2026-08-31T04:46:37Z",
   "source": "GrainCentral",
   "_cat": "基本金属",
@@ -1506,35 +1664,6 @@
    "锡"
   ],
   "en_title": "SA, Vic listings boast productivity-boosting improvements"
- },
- {
-  "title": "美国和伊朗交易所罢工导致油价飙升",
-  "url": "",
-  "summary": "周一，美国一个多月来首次袭击伊朗，伊朗随后对美国在约旦的基地进行报复，亚洲早盘贸易油价攀升。在撰写本文时，WTI近月期货交易价格为每桶85.46美元，上涨2.47%，而布伦特原油近月期货价格为每桶84.46美元",
-  "pub_time": "2026-08-31T02:30:06Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "0004b67b128e1c602ca53fc75ac9d962",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "大涨",
-   "罢工"
-  ],
-  "en_title": "Oil Prices Surge as U.S. and Iran Exchange Strikes"
  },
  {
   "title": "每日市场电讯2026年8月31日",
@@ -2206,33 +2335,6 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "“肥皂鸡尾酒”助力美国页岩油增产",
-  "url": "",
-  "summary": "美国页岩创新不仅限于钻井技术和工程突破。生产商正在测试并已经利用先进的化学品从页岩地层的现有油井中开采出更多的石油。各种化学物质的混合物，即所谓的表面活性剂，他",
-  "pub_time": "2026-08-30T21:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "565e8f63b5cd1a27cfec459b87706af5",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "产量"
-  ],
-  "en_title": "‘Soap Cocktails’ Help U.S. Shale Boost Oil Production"
  },
  {
   "title": "Mysteel宏观周报：1-7月我国工业企业利润大增，美加关税战重燃",
