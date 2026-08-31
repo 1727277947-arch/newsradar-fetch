@@ -410,7 +410,7 @@ def compute_guide(item):
 KLINE_CACHE = {}
 
 def _fetch_kline(key):
-    """抓新浪日K，返回按日期升序的 [(date, open, close), ...]，最后一根是今日。"""
+    """抓新浪日K，返回 (d,o,h,l,c,v,p,s) 升序元组，最后一根为今日。(s=结算价,p=持仓量)"""
     if key in KLINE_CACHE:
         return KLINE_CACHE[key]
     out = []
@@ -425,7 +425,7 @@ def _fetch_kline(key):
             arr = json.loads(txt[i + 1:j + 1])
             for it in arr:
                 try:
-                    out.append((it["d"], float(it["o"]), float(it["c"])))
+                    out.append((it["d"], float(it["o"]), float(it["h"]), float(it["l"]), float(it["c"]), float(it["v"]), float(it["p"]), float(it["s"])))
                 except (KeyError, TypeError, ValueError):
                     continue
     except Exception:
@@ -515,24 +515,77 @@ def predict_next_open(symlist):
                 anchor_price = rt[2]       # 当前时段现价(夜盘时=夜盘现价)
 
         today_gap = (today_open - ref) / ref * 100.0 if ref and ref > 0 else 0.0
-        direction = 0
-        label = "观望"
+
+        # ===== 打板/连板潜力分（新增，不删原有字段）=====
+        # 基于日K(o/h/l/c/v/p/s)：今日涨幅、收盘位置、放量、连强 四因子
+        def seg(r, i):
+            try:
+                return float(r[i])
+            except (IndexError, TypeError, ValueError):
+                return 0.0
+        cur = recent[-1]
+        h, l, c = seg(cur, 2), seg(cur, 3), seg(cur, 4)
+        v_now = seg(cur, 5)
+        settle_y = seg(recent[-2], 7) or seg(recent[-2], 4) or ref  # 昨结(结算价优先)
+        # 今日涨幅(收盘 vs 昨结)
+        ru = (c - settle_y) / settle_y * 100.0 if settle_y and settle_y > 0 else 0.0
+        # 日内收盘位置 0..1 (收得越高越好)
+        pos = (c - l) / (h - l) if h > l else 0.5
+        # 近20日平均成交
+        vs = [seg(x, 5) for x in recent[-22:-1]] or [1.0]
+        vavg = sum(vs) / len(vs) if vs else 1.0
+        vol = (v_now / vavg) if vavg > 0 else 1.0
+        # 连强：最近连续收涨天数（含今日，跌则为0/负数中性）
+        streak = 0
+        for k in range(len(recent) - 1, -1, -1):
+            prev_s = seg(recent[k - 1], 7) if k - 1 >= 0 else seg(recent[k - 1], 4) if k >= 1 else None
+            cc, ss = seg(recent[k], 4), seg(recent[k], 7)
+            up = cc > (prev_s if prev_s else cc)
+            if up:
+                streak += 1
+            else:
+                break
+        # 近5日创新高程度（当前收盘 vs 前5日收盘高点）
+        hi5 = max(seg(x, 4) for x in recent[-6:-1]) if len(recent) >= 6 else c
+        breakout = (c - hi5) / hi5 * 100.0 if hi5 and hi5 > 0 else 0.0
+        # 打板分：涨幅/位置/放量/连强
+        s_chg = min(30, max(0, ru * 6))            # 涨1%≈6分，封顶30
+        s_pos = pos * 25                          # 收在高位最多25
+        s_vol = min(20, max(0, (vol - 0.8) * 16)) # 放量最多20
+        s_str = min(15, streak * 5)               # 连涨越多越多，最多15
+        s_break = min(10, max(0, breakout * 8))   # 突破前高最多10
+        score = round(min(100, s_chg + s_pos + s_vol + s_str + s_break))
+        board = "疑似打板候选" if score >= 70 else ("强势关注" if score >= 50 else "一般/观望")
+
+        # 基础方向：由“今开 vs 昨结”给出
+        base_dir = 0
         if today_gap >= 0.15:
-            direction, label = 1, "做多"
+            base_dir, label0 = 1, "做多"
         elif today_gap <= -0.15:
-            direction, label = -1, "做空"
+            base_dir, label0 = -1, "做空"
+        else:
+            label0 = "观望"
+        # 打板整合：强势(score高+放量+收涨)品种倾向做多追强打板
+        direction = 1 if (score >= 50 and ru > 0 and vol >= 1.2) else base_dir
+        label = "做多" if direction == 1 else ("做空" if direction == -1 else "观望")
         strength = min(3, max(1, int(round(abs(today_gap) / 0.5)))) if direction else 0
-        # 预测次日开盘 = 当前收盘价 × (1 + 今日跳空惯性×0.6 + 近20日隔夜均值×0.4)
+        # 次日开盘预测 = 当前收盘价×(1 + 今日跳空×0.6 + 近20日隔夜均值×0.4)，强势打板再偏多/偏空
         pred_gap = 0.6 * today_gap + 0.4 * mean_gap
+        bias_boost = min(1.0, max(0.0, (score - 50) / 50.0 * 0.5))
+        if direction == 1:
+            pred_gap += bias_boost
+        elif direction == -1:
+            pred_gap -= bias_boost
         pred_open = round(anchor_price * (1 + pred_gap / 100.0), 3)
         lo = round(anchor_price * (1 + (pred_gap - 0.5 * std_gap) / 100.0), 3)
         hi = round(anchor_price * (1 + (pred_gap + 0.5 * std_gap) / 100.0), 3)
         bias = "偏强看多" if direction == 1 else ("偏弱看空" if direction == -1 else "观望")
         night_txt = "（含夜盘：夜盘开盘%s vs 昨结%s）" % (fmt_inline(today_open), fmt_inline(ref)) if sess == "night" else ""
-        reason = ("%s今开%s vs 昨结%s，%+0.2f%%%s%s；近20日隔夜跳空均值%+0.2f%%，"
-                  "模型预测次日开盘≈%s，区间[%s, %s]" %
+        reason = ("%s今开%s vs 昨结%s，%+0.2f%%%s%s；打板分%d(%s)：涨%.2f%%/收高%.0f%%/放量%.2fx/连涨%d日；"
+                  "预测次日开盘≈%s，区间[%s, %s]" %
                   (name, fmt_inline(today_open), fmt_inline(ref), today_gap, bias, night_txt,
-                   mean_gap, fmt_inline(pred_open), fmt_inline(lo), fmt_inline(hi)))
+                   score, board, ru, pos * 100, vol, streak,
+                   fmt_inline(pred_open), fmt_inline(lo), fmt_inline(hi)))
         preds.append({
             "symbol": key, "name": name, "category": cat,
             "date": today_d, "today_open": round(today_open, 3),
@@ -542,9 +595,14 @@ def predict_next_open(symlist):
             "mean_gap": round(mean_gap, 2), "std_gap": round(std_gap, 2),
             "today_close": round(anchor_price, 3),
             "pred_next_open": pred_open, "pred_low": lo, "pred_high": hi,
+            # 打板/连板潜力
+            "limit_score": int(score), "board": board,
+            "limit_ru": round(ru, 2), "limit_pos": round(pos, 2),
+            "limit_vol": round(vol, 2), "limit_streak": int(streak),
             "reason": reason,
         })
-    preds.sort(key=lambda x: abs(x["gap_pct"]), reverse=True)
+    # 打板场景：优先看打板潜力分最高的
+    preds.sort(key=lambda x: (x.get("limit_score", 0), abs(x.get("gap_pct", 0))), reverse=True)
     return preds
 
 
@@ -699,3 +757,6 @@ if __name__ == "__main__":
     domestic = sum(1 for x in items if x["market"] == "国内")
     print("完成: 共 %d 个品种(国内 %d / 国际 %d, 现货期货双价 %d) -> %s" % (
         len(items), domestic, len(items) - domestic, both, out_path))
+
+
+
