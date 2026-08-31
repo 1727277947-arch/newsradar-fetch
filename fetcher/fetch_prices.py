@@ -527,10 +527,13 @@ def predict_next_open(symlist):
         h, l, c = seg(cur, 2), seg(cur, 3), seg(cur, 4)
         v_now = seg(cur, 5)
         settle_y = seg(recent[-2], 7) or seg(recent[-2], 4) or ref  # 昨结(结算价优先)
-        # 今日涨幅(收盘 vs 昨结)
-        ru = (c - settle_y) / settle_y * 100.0 if settle_y and settle_y > 0 else 0.0
-        # 日内收盘位置 0..1 (收得越高越好)
-        pos = (c - l) / (h - l) if h > l else 0.5
+        # 以“当前最新价(含夜盘实时价)”为基准，实时反映夜盘回调，避免“日K收盘看很强、夜盘却已跳水”的假强势
+        ref_px = anchor_price if anchor_price and anchor_price > 0 else c
+        # 当前实时涨幅(最新价 vs 昨结)
+        ru = (ref_px - ref) / ref * 100.0 if ref and ref > 0 else 0.0
+        # 日内位置 0..1（最新价在当日高低区间里的位置，越靠近高位越好；夜盘跳水时自然滑到底部）
+        pos = (ref_px - l) / (h - l) if h > l else 0.5
+        pos = max(0.0, min(1.0, pos))
         # 近20日平均成交
         vs = [seg(x, 5) for x in recent[-22:-1]] or [1.0]
         vavg = sum(vs) / len(vs) if vs else 1.0
@@ -545,11 +548,11 @@ def predict_next_open(symlist):
                 streak += 1
             else:
                 break
-        # 近5日创新高程度（当前收盘 vs 前5日收盘高点）
+        # 突破：最新价 vs 近5日收盘高点（夜盘跳水时突破自然减弱）
         hi5 = max(seg(x, 4) for x in recent[-6:-1]) if len(recent) >= 6 else c
-        breakout = (c - hi5) / hi5 * 100.0 if hi5 and hi5 > 0 else 0.0
-        # 打板分：涨幅/位置/放量/连强
-        s_chg = min(30, max(0, ru * 6))            # 涨1%≈6分，封顶30
+        breakout = (ref_px - hi5) / hi5 * 100.0 if hi5 and hi5 > 0 else 0.0
+        # 打板分：涨幅/位置/放量/连强（实时涨幅主导打板分）
+        s_chg = min(30, max(0, ru * 6))            # 实时涨1%≈6分，封顶30
         s_pos = pos * 25                          # 收在高位最多25
         s_vol = min(20, max(0, (vol - 0.8) * 16)) # 放量最多20
         s_str = min(15, streak * 5)               # 连涨越多越多，最多15
