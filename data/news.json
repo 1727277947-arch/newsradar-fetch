@@ -1,12 +1,183 @@
 [
  {
-  "title": "Mysteel午报：钢价上涨为主，焦煤期货涨超6%",
-  "url": "https://news.mysteel.com/a/26083111/F6E388E87DF1E854.html",
+  "title": "黑色持仓日报：永安期货增持5.7千手焦煤多单",
+  "url": "https://news.mysteel.com/a/26083115/A438E8E1DCC375CF.html",
   "summary": "",
-  "pub_time": "2026-08-31T11:00:00Z",
+  "pub_time": "2026-08-31T15:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "385f06ba4b7d8edf6877ee0ca2ddbdc6",
+  "dedup_key": "2ec3b8c80e1c97f109fb1367f5535a65",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "8月钢铁行业大事记",
+  "url": "https://news.mysteel.com/a/26083115/4B34C07DB62146F2.html",
+  "summary": "",
+  "pub_time": "2026-08-31T15:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "3a4967026316653488ef48a953f6fe11",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：8月钢铁行业大事记",
+  "url": "https://news.mysteel.com/a/26083115/FEA34408F4F613EB.html",
+  "summary": "",
+  "pub_time": "2026-08-31T15:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "95b2bf4889a7ac515850d2efb044a0e8",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "有色持仓日报：沪铜涨0.44%，新湖期货增持超1.7千手多单",
+  "url": "https://news.mysteel.com/a/26083115/2C5C57C2491DA2C0.html",
+  "summary": "",
+  "pub_time": "2026-08-31T15:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "480289daf9df082f94cba956cf8f02e1",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "黑色持仓日报：焦煤涨6.53%，永安期货增持5.7千手多单",
+  "url": "https://news.mysteel.com/a/26083115/A1EC1468C935F123.html",
+  "summary": "",
+  "pub_time": "2026-08-31T15:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "a77fb2f7aeb02ac88cd05ba5904bfb43",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：30家上市建材企业披露上半年业绩，超五成盈利",
+  "url": "https://news.mysteel.com/a/26083114/EA737DC03B97E043.html",
+  "summary": "",
+  "pub_time": "2026-08-31T14:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "463ccf6e935727286c5439a24ad1824c",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/金融政策",
+  "tags": [
+   "金融政策",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：28家上市光伏企业披露上半年业绩，13家盈利",
+  "url": "https://news.mysteel.com/a/26083114/A5005A81D62A589F.html",
+  "summary": "",
+  "pub_time": "2026-08-31T14:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "259ff611768615a33b096e461df02dbf",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/金融政策",
+  "tags": [
+   "金融政策",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：九大建筑央企公布上半年业绩，合计净利润约598亿元",
+  "url": "https://news.mysteel.com/a/26083114/DE7C24366095E10D.html",
+  "summary": "",
+  "pub_time": "2026-08-31T14:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "e2f2e03062ed82f3e38dacec132eb779",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "锡林郭勒盟应急管理局开展非煤矿山领域“打非治违”整治行动",
+  "url": "https://news.mysteel.com/a/26083114/AA4ED92D81E2BC44.html",
+  "summary": "",
+  "pub_time": "2026-08-31T14:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "8a925fc0f3cc03d4d783a5250b9a9ff5",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "美伊再次互袭，国际原油期货涨幅扩大至3%",
+  "url": "https://news.mysteel.com/a/26083113/638C9143149C23F9.html",
+  "summary": "",
+  "pub_time": "2026-08-31T13:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "b60ab84187b23eaf510254630dd2f734",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -20,7 +191,7 @@
  },
  {
   "title": "Mysteel：13家贵金属上市企业披露上半年业绩，净利全部大增",
-  "url": "https://news.mysteel.com/a/26083111/221A29EA07835E5E.html",
+  "url": "https://news.mysteel.com/a/26083111/B2CFAA019FD66D20.html",
   "summary": "",
   "pub_time": "2026-08-31T11:00:00Z",
   "source": "上海钢联Mysteel",
@@ -38,27 +209,8 @@
   "is_elite": false
  },
  {
-  "title": "螺纹钢期货上涨，钢价大幅走强",
-  "url": "https://news.mysteel.com/a/26083111/B62A8449C45B1692.html",
-  "summary": "",
-  "pub_time": "2026-08-31T11:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "65b477b681a7850489f665008f3100b2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel：6家钢结构上市企业披露2026年上半年业绩，4家盈利",
-  "url": "https://news.mysteel.com/a/26083111/998A7DC421696E3C.html",
+  "url": "https://news.mysteel.com/a/26083111/626DBC11E2CAC597.html",
   "summary": "",
   "pub_time": "2026-08-31T11:00:00Z",
   "source": "上海钢联Mysteel",
@@ -76,13 +228,32 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel：18家上市铜企披露2026年上半年业绩，全部盈利",
-  "url": "https://news.mysteel.com/a/26083111/A5C3A572F7767833.html",
+  "title": "Mysteel午报：钢价上涨为主，焦煤期货涨超6%",
+  "url": "https://news.mysteel.com/a/26083111/425F7468352E9B38.html",
   "summary": "",
   "pub_time": "2026-08-31T11:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "08e62d26096268ff6319ea599efb6d14",
+  "dedup_key": "385f06ba4b7d8edf6877ee0ca2ddbdc6",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：10家上市船企披露上半年业绩，7家实现盈利",
+  "url": "https://news.mysteel.com/a/26083111/60FA76096F065A5D.html",
+  "summary": "",
+  "pub_time": "2026-08-31T11:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "67f04f3fc2c37b8756da8d22f617d38f",
   "score": 80,
   "priority": "P1",
   "topic": "国内/金融政策",
@@ -95,13 +266,13 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel：10家上市船企披露上半年业绩，7家实现盈利",
-  "url": "https://news.mysteel.com/a/26083111/A0D18B2460B1D93B.html",
+  "title": "Mysteel：18家上市铜企披露2026年上半年业绩，全部盈利",
+  "url": "https://news.mysteel.com/a/26083111/DA0183CFFC3DE814.html",
   "summary": "",
   "pub_time": "2026-08-31T11:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "67f04f3fc2c37b8756da8d22f617d38f",
+  "dedup_key": "08e62d26096268ff6319ea599efb6d14",
   "score": 80,
   "priority": "P1",
   "topic": "国内/金融政策",
@@ -152,56 +323,18 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel：36家上市钢企公布2026年上半年业绩，21家盈利",
-  "url": "https://news.mysteel.com/a/26083110/51CF59D30FD7364B.html",
+  "title": "螺纹钢期货上涨，钢价大幅走强",
+  "url": "https://news.mysteel.com/a/26083111/7C74C258D540EFEA.html",
   "summary": "",
-  "pub_time": "2026-08-31T10:00:00Z",
+  "pub_time": "2026-08-31T11:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "0c09fb4a12a5ffef6a280f4f4bcf7035",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "特朗普：将用委内瑞拉石油填满美国战略储备，填补行动即刻启动",
-  "url": "https://news.mysteel.com/a/26083110/728856C2360D5902.html",
-  "summary": "",
-  "pub_time": "2026-08-31T10:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "3b07c1add4e140f8aa8288ac1d698cbd",
+  "dedup_key": "65b477b681a7850489f665008f3100b2",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：17家上市稀土企业披露上半年业绩，超7成净利增长",
-  "url": "https://news.mysteel.com/a/26083110/44927BDCFAF357C5.html",
-  "summary": "",
-  "pub_time": "2026-08-31T10:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "94b34acb7e9943fe0757f368d5055718",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -221,6 +354,44 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "特朗普：将用委内瑞拉石油填满美国战略储备，填补行动即刻启动",
+  "url": "https://news.mysteel.com/a/26083110/8B9A7E4F69F1345D.html",
+  "summary": "",
+  "pub_time": "2026-08-31T10:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "3b07c1add4e140f8aa8288ac1d698cbd",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：36家上市钢企公布2026年上半年业绩，21家盈利",
+  "url": "https://news.mysteel.com/a/26083110/D1D52DD97C11AAEB.html",
+  "summary": "",
+  "pub_time": "2026-08-31T10:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "0c09fb4a12a5ffef6a280f4f4bcf7035",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/金融政策",
+  "tags": [
+   "金融政策",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -342,25 +513,6 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel：20家上市锂企披露半年报，9成实现盈利",
-  "url": "https://news.mysteel.com/a/26083109/1450C6FAAAD5DC0E.html",
-  "summary": "",
-  "pub_time": "2026-08-31T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "89b47e27d8d2f5cb3857c1752a008af0",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel周报：家电原材料价格监测（8.21-8.28）",
   "url": "https://news.mysteel.com/a/26083109/5E184664B37D3310.html",
   "summary": "",
@@ -392,44 +544,6 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：全国高温和暴雨预警信号汇总（8月31日）",
-  "url": "https://news.mysteel.com/a/26083109/CFC92E4795349F77.html",
-  "summary": "",
-  "pub_time": "2026-08-31T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "306f00fd6081cfdae511819a5f17d981",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "国内期货主力合约多数上涨，焦煤涨超3%",
-  "url": "https://news.mysteel.com/a/26083109/D4B950A36B1937DB.html",
-  "summary": "",
-  "pub_time": "2026-08-31T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "cb780844fb5c8d21f8b34d79f164d948",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -506,6 +620,25 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：20家上市锂企披露半年报，9成实现盈利",
+  "url": "https://news.mysteel.com/a/26083109/A75DB2ABD3FF309B.html",
+  "summary": "",
+  "pub_time": "2026-08-31T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "89b47e27d8d2f5cb3857c1752a008af0",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/金融政策",
+  "tags": [
+   "金融政策",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -646,44 +779,6 @@
   "is_elite": false
  },
  {
-  "title": "河南：清单化、项目化推进钢铁等10个传统产业提质升级行动",
-  "url": "https://news.mysteel.com/a/26083108/134A4587306DE91F.html",
-  "summary": "",
-  "pub_time": "2026-08-31T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "2ccd3506be429086a19211effc1cac0b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "焦炭期货十五年蝶变，期权登场正当时",
-  "url": "https://news.mysteel.com/a/26083108/FA42AF307D969D65.html",
-  "summary": "",
-  "pub_time": "2026-08-31T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "9b0eda51704803851155c3d242ba022e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "四川黄金与华为技术有限公司座谈交流",
   "url": "https://news.mysteel.com/a/26083108/10AFE9CA6064C652.html",
   "summary": "",
@@ -798,6 +893,85 @@
   "is_elite": false
  },
  {
+  "title": "高盛预计柴油精炼利润率将飙升至每桶63美元",
+  "url": "",
+  "summary": "高盛表示，炼油厂将在全球柴油短缺的情况下获得更高的利润，并修改了其早先的利润预测，使炼油公司从紧缩中获得的总利润翻一番。“对中东和俄罗斯炼油厂的罢工不断增加，这进一步限制了",
+  "pub_time": "2026-08-31T06:45:00Z",
+  "source": "Oilprice.com",
+  "_cat": "贵金属",
+  "dedup_key": "9232ceaf4b504e440f0af3d4c9c216f6",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Goldman Sachs Sees Diesel Refining Margins Soaring to $63 a Barrel"
+ },
+ {
+  "title": "粮食中心2026年8月新闻问答",
+  "url": "",
+  "summary": "跟上Grain Central测验的最新发展……",
+  "pub_time": "2026-08-31T06:36:10Z",
+  "source": "GrainCentral",
+  "_cat": "农产品",
+  "dedup_key": "2800dfdfb5d7d608c42e1f45ca93aba4",
+  "score": 84,
+  "priority": "P1",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "谷物"
+  ],
+  "en_title": "Grain Central August 2026 news quiz"
+ },
+ {
+  "title": "特朗普称委内瑞拉石油将补充美国战略石油储备",
+  "url": "",
+  "summary": "美国总统唐纳德·特朗普周日在社交媒体上表示，美国将使用委内瑞拉原油来补充战略石油储备。路透社援引特朗普总统的话说，此举被描述为“委内瑞拉送给美国人民的礼物”，特朗普总统表示“封顶”将很快开始",
+  "pub_time": "2026-08-31T05:35:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "dbabb318d2b19a10a1db0cc24d07685a",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "石油"
+  ],
+  "en_title": "Trump Says Venezuelan Oil Will Refill U.S. Strategic Petroleum Reserve"
+ },
+ {
   "title": "脉搏更新：收获开始，降雨建立产量潜力",
   "url": "",
   "summary": "CQ已经开始收割澳大利亚的冬季豆类，在明天ABARES数据公布之前，最近的降雨为新南威尔士州、维多利亚州和南澳大利亚州的作物增加了产量潜力。",
@@ -876,25 +1050,6 @@
   "en_title": "SA, Vic listings boast productivity-boosting improvements"
  },
  {
-  "title": "填补空白 陆上油气甲烷排放监测国家标准发布",
-  "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687060.shtml",
-  "summary": "据国家市场监管总局网站消息，近日，市场监管总局(国家标准委)批准发布《陆上石油天然气工业甲烷排放监测技术指南》国家标准(GB/T 48149—2026)",
-  "pub_time": "2026-08-31T02:55:29Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "ca77af43886910a3377b0376ff1cbe04",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
   "title": "美国和伊朗交易所罢工导致油价飙升",
   "url": "",
   "summary": "周一，美国一个多月来首次袭击伊朗，伊朗随后对美国在约旦的基地进行报复，亚洲早盘贸易油价攀升。在撰写本文时，WTI近月期货交易价格为每桶85.46美元，上涨2.47%，而布伦特原油近月期货价格为每桶84.46美元",
@@ -968,6 +1123,25 @@
   "is_elite": false
  },
  {
+  "title": "2026年8月31日大连豆粕期货高开收涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/31/0015854284.shtml",
+  "summary": "",
+  "pub_time": "2026-08-31T00:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "6dd12103c799d5a0e7b106aed6210499",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年8月31日大连豆粕期货行情午报",
   "url": "http://www.chinagrain.cn/axfwnh/2026/08/31/3010640731.shtml",
   "summary": "",
@@ -1006,6 +1180,44 @@
   "is_elite": false
  },
  {
+  "title": "2026年8月31日大连玉米期货收盘高开收涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/31/5938162775.shtml",
+  "summary": "",
+  "pub_time": "2026-08-31T00:00:00Z",
+  "source": "粮油玉米",
+  "_cn": true,
+  "dedup_key": "7d37b9d86deebd38a7fe0340b3df9c8f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油玉米"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "本周美国玉米现货价格上涨3.7%",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/31/4652588522.shtml",
+  "summary": "",
+  "pub_time": "2026-08-31T00:00:00Z",
+  "source": "粮油玉米",
+  "_cn": true,
+  "dedup_key": "554182389f8d37baa4468a56e386ccd3",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油玉米"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年8月31日大连玉米期货行情午报",
   "url": "http://www.chinagrain.cn/axfwnh/2026/08/31/3644414846.shtml",
   "summary": "",
@@ -1021,6 +1233,63 @@
    "中文",
    "国内",
    "粮油玉米"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "8月31日进口大豆到国内港口CF及升贴水报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/31/2503837581.shtml",
+  "summary": "",
+  "pub_time": "2026-08-31T00:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "87fddb443d59a89db2920208822f2170",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "8月31日进口大豆港口分销价持平",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/31/2407227824.shtml",
+  "summary": "",
+  "pub_time": "2026-08-31T00:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "92f93942c065488adb306385b9519c54",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月31日大连大豆期货收盘高开收涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/31/5950991362.shtml",
+  "summary": "",
+  "pub_time": "2026-08-31T00:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "5651b98841c0d69eee8aaf3a73e5335e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
   ],
   "is_elite": false
  },
@@ -1059,6 +1328,158 @@
    "中文",
    "国内",
    "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "8月31日进口油菜籽到国内港口CF报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/31/2915171594.shtml",
+  "summary": "",
+  "pub_time": "2026-08-31T00:00:00Z",
+  "source": "粮油菜籽",
+  "_cn": true,
+  "dedup_key": "8e2480370ef5796bae2d62122b5c69e8",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "8月31日马来西亚棕榈油9月船期FOB报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/31/2749377211.shtml",
+  "summary": "",
+  "pub_time": "2026-08-31T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "eecec9c66ffec6523125521c95967a58",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "8月31日24度棕榈油国内各港口交货价格上涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/31/2705871437.shtml",
+  "summary": "",
+  "pub_time": "2026-08-31T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "be414b0537215926cf200fe811ee4ff2",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "8月31日进口豆油港口交货价格上涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/31/2559465238.shtml",
+  "summary": "",
+  "pub_time": "2026-08-31T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "6ebe6ab4f8588c46f58c8a4dd8c0a7d8",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月31日大连豆油期货高开收涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/31/0203525310.shtml",
+  "summary": "",
+  "pub_time": "2026-08-31T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "91f6aff01b291b29604a3fb5d0be1736",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月31日大连棕榈油期货高开收涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/31/0035264225.shtml",
+  "summary": "",
+  "pub_time": "2026-08-31T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "29ad545aead0e6f6cf85416598204135",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月31日郑州菜油期货收盘高开收涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/31/0032569665.shtml",
+  "summary": "",
+  "pub_time": "2026-08-31T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "e5b5a36b178375620f6eaceebc657e7d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "出口不振令近期亚洲棕榈油现货价格承压",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/31/4758285820.shtml",
+  "summary": "",
+  "pub_time": "2026-08-31T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "33b3274b4173bf8fc9acccb2e4382c3b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
   ],
   "is_elite": false
  },
@@ -1196,6 +1617,25 @@
   "is_elite": false
  },
  {
+  "title": "2026年8月31日郑州菜粕收盘期货高开收跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/31/5730712183.shtml",
+  "summary": "",
+  "pub_time": "2026-08-31T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "35efa8c982ffb167d70e08cb0c8570a6",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年8月31日郑州菜粕期货行情午报",
   "url": "http://www.chinagrain.cn/axfwnh/2026/08/31/2753532408.shtml",
   "summary": "",
@@ -1222,6 +1662,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "8b7a0762510e8d20f800a04bf9a5c7bb",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月31日大连粳米期货收盘高开收跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/31/1120803281.shtml",
+  "summary": "",
+  "pub_time": "2026-08-31T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "8dab46edabcf6b5cccdd64c96f01eb88",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1388,25 +1847,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年8月30日天津豆粕价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/08/30/5743127548.shtml",
-  "summary": "",
-  "pub_time": "2026-08-30T00:00:00Z",
-  "source": "粮油豆粕",
-  "_cn": true,
-  "dedup_key": "83505a7e79b70a1d647cff9fb6722c1c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油豆粕"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年8月30日江苏省徐州睢宁杂花大豆价格行情",
   "url": "http://www.chinagrain.cn/axfwnh/2026/08/30/0535553425.shtml",
   "summary": "",
@@ -1430,9 +1870,9 @@
   "url": "http://www.chinagrain.cn/axfwnh/2026/08/30/0521406752.shtml",
   "summary": "",
   "pub_time": "2026-08-30T00:00:00Z",
-  "source": "粮油大豆",
+  "source": "粮油首页",
   "_cn": true,
-  "dedup_key": "70e5cdec2a9278479f94c3dbdc1ee105",
+  "dedup_key": "9460e88659c42172a694b5b9da094abc",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1440,7 +1880,7 @@
    "大宗商品",
    "中文",
    "国内",
-   "粮油大豆"
+   "粮油首页"
   ],
   "is_elite": false
  },
@@ -1449,9 +1889,9 @@
   "url": "http://www.chinagrain.cn/axfwnh/2026/08/30/0455844446.shtml",
   "summary": "",
   "pub_time": "2026-08-30T00:00:00Z",
-  "source": "粮油大豆",
+  "source": "粮油首页",
   "_cn": true,
-  "dedup_key": "603c2ca0f054252fec42621fb1cebd5a",
+  "dedup_key": "04cc7a76318b2499643c404739e1abf3",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1459,7 +1899,7 @@
    "大宗商品",
    "中文",
    "国内",
-   "粮油大豆"
+   "粮油首页"
   ],
   "is_elite": false
  },
@@ -1468,9 +1908,9 @@
   "url": "http://www.chinagrain.cn/axfwnh/2026/08/30/0426692463.shtml",
   "summary": "",
   "pub_time": "2026-08-30T00:00:00Z",
-  "source": "粮油大豆",
+  "source": "粮油首页",
   "_cn": true,
-  "dedup_key": "afbd7348379d3f8a7b283e8e691941d8",
+  "dedup_key": "da7d519142cfcc669e459ada99a87897",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1478,7 +1918,7 @@
    "大宗商品",
    "中文",
    "国内",
-   "粮油大豆"
+   "粮油首页"
   ],
   "is_elite": false
  },
@@ -1609,6 +2049,25 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年8月30日天津豆粕价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/08/30/5743127548.shtml",
+  "summary": "",
+  "pub_time": "2026-08-30T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "3cef35530a77804cd64e4b4f8900c252",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
    "中文",
    "国内",
    "粮油首页"
@@ -1865,7 +2324,7 @@
  {
   "title": "石油资源丰富的阿塞拜疆在清洁能源热潮上下了大赌注",
   "url": "",
-  "summary": "阿塞拜疆是世界上最古老的石油生产国和出口国之一，自19世纪中叶以来一直在开采原油，并且仍然是全球主要的石油生产商。长期以来，它一直依赖石油和天然气来满足其能源需求，并成为主要的经济贡献者。然而，第29届联合国气候变化大会的主办方",
+  "summary": "阿塞拜疆是世界上最古老的石油生产国和出口国之一，自19世纪中叶以来一直开采原油，并且仍然是全球主要的石油生产国。长期以来，它一直依赖石油和天然气来满足其能源需求，并成为主要的经济贡献者。然而，第29届联合国气候变化大会的主办方",
   "pub_time": "2026-08-29T15:00:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
