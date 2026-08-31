@@ -438,6 +438,44 @@ def fmt_inline(v):
     return ("%g" % v) if abs(v) >= 1000 else ("%.3f" % v)
 
 
+
+def _realtime_head(key):
+    """抓新浪实时，返回 (开盘价f[2], 昨结f[10], 现价f[7], 时间f[1], 名称f[0])；失败返回 None。
+    注意：国内商品有夜盘，f[2](开盘)在夜盘时段=夜盘开盘价，已是含夜盘的最新开盘。"""
+    sym = key if key.startswith("nf_") else "nf_" + key
+    try:
+        req = urllib.request.Request("https://hq.sinajs.cn/list=" + sym,
+                                     headers={"User-Agent": UA, "Referer": "https://finance.sina.com.cn/",
+                                              "Accept": "application/javascript"})
+        ctx = ssl.create_default_context()
+        txt = urllib.request.urlopen(req, timeout=15, context=ctx).read().decode("gbk", "replace")
+        import re as _re
+        m = _re.search(r'"(.*)"', txt)
+        if not m:
+            return None
+        f = m.group(1).split(",")
+        def num(i):
+            try:
+                return float(f[i])
+            except (IndexError, ValueError):
+                return None
+        return (num(2), num(10), num(7), str(f[1]) if len(f) > 1 else "", f[0] if f else "")
+    except Exception:
+        return None
+
+def _hour_of(timestr):
+    """把f[1]的HHMMSS转成小时(0-23)判断是否夜盘时段。"""
+    try:
+        t = str(timestr).zfill(6)
+        hh = int(t[0:2])
+        # 夜盘时段：21:00-次日02:59
+        if hh >= 21 or hh < 3:
+            return "night"
+        return "day"
+    except Exception:
+        return "day"
+
+
 def predict_next_open(symlist):
     """symlist: [(symbol_key, name, category)]。按'今开 vs 昨结' -> 多空关联 + 预测次日开盘。"""
     import statistics
@@ -448,8 +486,9 @@ def predict_next_open(symlist):
         if len(rows) < 8:
             continue
         recent = list(rows)
-        today_d, today_open, today_close = recent[-1]
-        prev_close = recent[-2][2]  # 昨结参考(前日收盘)
+        today_d, kline_open, kline_close = recent[-1][0], recent[-1][1], recent[-1][2]
+        prev_close_kline = recent[-2][2]  # 前一日收盘(日盘收盘)
+        # 近 N 日隔夜跳空统计（今开=含夜盘开盘 vs 前日收盘）
         N = 20
         gaps = []
         for i in range(max(1, len(recent) - N), len(recent)):
@@ -461,7 +500,21 @@ def predict_next_open(symlist):
             continue
         mean_gap = statistics.mean(gaps)
         std_gap = statistics.stdev(gaps) if len(gaps) >= 2 else 0.3
-        today_gap = (today_open - prev_close) / prev_close * 100.0 if prev_close else 0.0
+
+        # 实时数据：优先用含夜盘的当前时段开盘(开盘)与真实昨结，把夜盘算进去
+        rt = _realtime_head(kkey)
+        sess = "day"
+        today_open = kline_open
+        ref = prev_close_kline  # 昨结参考(前日收盘)
+        anchor_price = kline_close
+        if rt and rt[0] and rt[0] > 0:
+            sess = _hour_of(rt[3])
+            today_open = rt[0]             # 当前时段开盘(夜盘时=夜盘开盘)
+            ref = rt[1] if rt[1] and rt[1] > 0 else ref   # 真实昨结
+            if rt[2] and rt[2] > 0:
+                anchor_price = rt[2]       # 当前时段现价(夜盘时=夜盘现价)
+
+        today_gap = (today_open - ref) / ref * 100.0 if ref and ref > 0 else 0.0
         direction = 0
         label = "观望"
         if today_gap >= 0.15:
@@ -469,22 +522,25 @@ def predict_next_open(symlist):
         elif today_gap <= -0.15:
             direction, label = -1, "做空"
         strength = min(3, max(1, int(round(abs(today_gap) / 0.5)))) if direction else 0
+        # 预测次日开盘 = 当前收盘价 × (1 + 今日跳空惯性×0.6 + 近20日隔夜均值×0.4)
         pred_gap = 0.6 * today_gap + 0.4 * mean_gap
-        pred_open = round(today_close * (1 + pred_gap / 100.0), 3)
-        lo = round(today_close * (1 + (pred_gap - 0.5 * std_gap) / 100.0), 3)
-        hi = round(today_close * (1 + (pred_gap + 0.5 * std_gap) / 100.0), 3)
+        pred_open = round(anchor_price * (1 + pred_gap / 100.0), 3)
+        lo = round(anchor_price * (1 + (pred_gap - 0.5 * std_gap) / 100.0), 3)
+        hi = round(anchor_price * (1 + (pred_gap + 0.5 * std_gap) / 100.0), 3)
         bias = "偏强看多" if direction == 1 else ("偏弱看空" if direction == -1 else "观望")
-        reason = ("%s今开%s vs 昨结参考%s，%+0.2f%%%s；近20日隔夜跳空均值%+0.2f%%，"
+        night_txt = "（含夜盘：夜盘开盘%s vs 昨结%s）" % (fmt_inline(today_open), fmt_inline(ref)) if sess == "night" else ""
+        reason = ("%s今开%s vs 昨结%s，%+0.2f%%%s%s；近20日隔夜跳空均值%+0.2f%%，"
                   "模型预测次日开盘≈%s，区间[%s, %s]" %
-                  (name, fmt_inline(today_open), fmt_inline(prev_close), today_gap, bias,
+                  (name, fmt_inline(today_open), fmt_inline(ref), today_gap, bias, night_txt,
                    mean_gap, fmt_inline(pred_open), fmt_inline(lo), fmt_inline(hi)))
         preds.append({
             "symbol": key, "name": name, "category": cat,
             "date": today_d, "today_open": round(today_open, 3),
-            "prev_close": round(prev_close, 3), "gap_pct": round(today_gap, 2),
+            "prev_close": round(ref, 3), "gap_pct": round(today_gap, 2),
+            "session": sess, "has_night": sess == "night",
             "direction": direction, "label": label, "strength": strength,
             "mean_gap": round(mean_gap, 2), "std_gap": round(std_gap, 2),
-            "today_close": round(today_close, 3),
+            "today_close": round(anchor_price, 3),
             "pred_next_open": pred_open, "pred_low": lo, "pred_high": hi,
             "reason": reason,
         })
