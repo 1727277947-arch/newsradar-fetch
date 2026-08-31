@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """
 fetch_prices.py - 大宗商品报价抓取（现货 vs 期货 比对）
 数据源:
@@ -233,11 +233,14 @@ def fetch_domestic_futures():
             continue
         _, cn, unit, cat = entry
         try:
-            price = float(f[7])
+            price = float(f[7]) if f[7] else 0.0
             prior = float(f[2]) if f[2] else 0.0
             last_settle = float(f[2]) if f[2] else 0.0
         except ValueError:
             continue
+        # 无实时报价(空/0)时用昨结兜底，绝不把0价当开仓基准，避免算法和App出现0价鬼数据
+        if price <= 0 and last_settle > 0:
+            price = last_settle
         chg = round(price - prior, 4) if prior else 0.0
         pctv = pct(prior, price)
         trend = "up" if chg > 0.0001 else ("down" if chg < -0.0001 else "flat")
