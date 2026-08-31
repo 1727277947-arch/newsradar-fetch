@@ -560,19 +560,17 @@ def predict_next_open(symlist):
         score = round(min(100, s_chg + s_pos + s_vol + s_str + s_break))
         board = "疑似打板候选" if score >= 70 else ("强势关注" if score >= 50 else "一般/观望")
 
-        # 基础方向：由“今开 vs 昨结”给出
-        base_dir = 0
-        if today_gap >= 0.15:
-            base_dir, label0 = 1, "做多"
-        elif today_gap <= -0.15:
-            base_dir, label0 = -1, "做空"
+        # 打板方向：跟随“实时最新价(含夜盘)涨跌”，而不是易被早盘跳空误导的开盘缺口。
+        # 若盘中已反向回落(如早盘高开但现已下跌)，标“观望/做空”，绝不硬标做多——由体检把关。
+        if ru >= 0.15:
+            direction = 1
+        elif ru <= -0.15:
+            direction = -1
         else:
-            label0 = "观望"
-        # 打板整合：强势(score高+放量+收涨)品种倾向做多追强打板
-        direction = 1 if (score >= 50 and ru > 0 and vol >= 1.2) else base_dir
+            direction = 0
         label = "做多" if direction == 1 else ("做空" if direction == -1 else "观望")
-        strength = min(3, max(1, int(round(abs(today_gap) / 0.5)))) if direction else 0
-        # 次日开盘预测 = 当前收盘价×(1 + 今日跳空×0.6 + 近20日隔夜均值×0.4)，强势打板再偏多/偏空
+        strength = min(3, max(1, int(round(abs(ru) / 0.5)))) if direction else 0
+        # 次日开盘预测 = 当前最新价×(1 + 今日跳空×0.6 + 近20日隔夜均值×0.4)，强势打板再偏多/偏空
         pred_gap = 0.6 * today_gap + 0.4 * mean_gap
         bias_boost = min(1.0, max(0.0, (score - 50) / 50.0 * 0.5))
         if direction == 1:
@@ -607,6 +605,90 @@ def predict_next_open(symlist):
     # 打板场景：优先看打板潜力分最高的
     preds.sort(key=lambda x: (x.get("limit_score", 0), abs(x.get("gap_pct", 0))), reverse=True)
     return preds
+
+
+# ================= 体检：打板分/预测 一键全量自检（每次抓取自动跑） =================
+def validate_predictions(preds, items=None):
+    """对每条预测做一致性校验，返回 (问题数, 问题列表)。发现异常会打印醒目 WARN，
+    但不停机——把问题亮出来供处理，绝不静默出错误数据。"""
+    import math as _m
+    problems = []
+    def bad(field, p, why):
+        problems.append("%s(%s) 字段[%s] %s" % (p.get("name", "?"), p.get("symbol", "?"), field, why))
+
+    for p in preds:
+        name = p.get("name", "?"); sym = p.get("symbol", "?")
+        # 1) 有限数、无0价/异常值
+        fields = {"today_open": p.get("today_open"), "prev_close": p.get("prev_close"),
+                  "today_close": p.get("today_close"), "pred_next_open": p.get("pred_next_open"),
+                  "pred_low": p.get("pred_low"), "pred_high": p.get("pred_high")}
+        for f, v in fields.items():
+            try:
+                if v is None or not _m.isfinite(float(v)):
+                    bad(f, p, "NaN 非数"); continue
+                if float(v) <= 0:
+                    bad(f, p, "价格<=0 异常")
+            except (TypeError, ValueError):
+                bad(f, p, "无法解析为数值")
+        sc = p.get("limit_score")
+        if sc is None or not (0 <= float(sc) <= 100):
+            bad("limit_score", p, "打板分越界(%r)" % (sc,))
+        # 2) 预测区间顺序合理：lo <= pred <= hi
+        try:
+            lo, mid, hi = float(p.get("pred_low")), float(p.get("pred_next_open")), float(p.get("pred_high"))
+            if not (lo <= mid <= hi):
+                bad("pred_low<=next<=high", p, "预测区间倒挂 lo=%s mid=%s hi=%s" % (lo, mid, hi))
+        except Exception:
+            pass
+        # 3) 方向 vs 实时涨跌打架：做多却重挫、做空却大涨
+        d = int(p.get("direction", 0)); ru = p.get("limit_ru")
+        try: ru = float(ru)
+        except Exception: ru = None
+        if d > 0 and ru is not None and ru <= -0.55:
+            bad("direction vs limit_ru", p, "标[做多]但实时涨跌 %+.2f%% 明显回落，方向打架" % ru)
+        if d < 0 and ru is not None and ru >= 0.55:
+            bad("direction vs limit_ru", p, "标[做空]但实时涨跌 %+.2f%% 明显上涨，方向打架" % ru)
+        # 4) 打板分与实时涨跌一致性：疑似打板候选必须当前在涨
+        board = p.get("board", ""); scv = sc if sc is not None else 0
+        if board == "疑似打板候选" and ru is not None and ru <= 0:
+            bad("board vs limit_ru", p, "标[疑似打板候选]但实时涨跌 %+.2f%% 非涨，红标属误报" % ru)
+        if scv >= 70 and ru is not None and ru <= 0:
+            bad("limit_score>=70 vs limit_ru", p, "打板分=%s但实时 %+.2f%%，高分与当前势能矛盾" % (scv, ru))
+        # 5) 夜盘标记一致性
+        if ("has_night" in p and "session" in p) and (p.get("has_night") != (p.get("session") == "night")):
+            bad("has_night/session", p, "夜盘标记与时段不一致 session=%s has_night=%s" % (p.get("session"), p.get("has_night")))
+        # 6) 打板分子项是否越界/异常
+        for k in ("limit_vol", "limit_streak", "limit_pos"):
+            v = p.get(k)
+            try:
+                f = float(v)
+                if _m.isnan(f) or _m.isinf(f):
+                    bad(k, p, "非有限数")
+            except Exception:
+                bad(k, p, "无法解析")
+
+    # 7) 现货/期货 0 价体检
+    if items:
+        for it in items:
+            for k in ("spot", "future", "basis"):
+                v = it.get(k)
+                if v is not None:
+                    try:
+                        if _m.isnan(float(v)):
+                            problems.append("%s(%s) 字段[%s] NaN" % (it.get("name", "?"), it.get("symbol", "?"), k))
+                    except Exception:
+                        problems.append("%s(%s) 字段[%s] 解析失败" % (it.get("name", "?"), it.get("symbol", "?"), k))
+
+    # 输出报告
+    if not problems:
+        print("[体检] 通过：%d 条预测全部一致，无0价/NaN/方向打架/夜盘矛盾" % len(preds))
+    else:
+        print("=" * 60)
+        print("[体检] 发现 %d 个问题，需人工处理（不静默）:" % len(problems))
+        for pr in problems:
+            print("  ! " + pr)
+        print("=" * 60)
+    return len(problems), problems
 
 
 def build(out_path):
@@ -754,6 +836,7 @@ if __name__ == "__main__":
         "trading_rules": TRADING_RULES,
         "rules_summary": TRADING_RULES_SUMMARY,
     }
+    n, probs = validate_predictions(predictions, items)
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(obj, f, ensure_ascii=False, indent=1)
     both = sum(1 for x in items if x["kind"] == "both")
