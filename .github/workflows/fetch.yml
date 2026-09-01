@@ -4,7 +4,9 @@ permissions:
   contents: write
 on:
   schedule:
-    - cron: '0 0,2,4,6,10,14,18,22 * * *'   # 北京 08/10/12/14(2h) 18/22/02/06(4h)
+    - cron: '0 0,2,4,6,10,12,14,18,22 * * *'   # 北京 08/10/12/14(2h) 18/22/02/06(4h)
+    - cron: '30 19 * * *'                       # 北京 03:30 每日打板主推(早盘)
+    - cron: '0 12 * * *'                        # 北京 20:00 每日打板主推(晚盘)
   workflow_dispatch:
 jobs:
   fetch:
@@ -30,5 +32,6 @@ jobs:
           BD_APPID: ${{ secrets.BD_APPID }}
           BD_KEY: ${{ secrets.BD_KEY }}
         run: bash run.sh
+
 
 
