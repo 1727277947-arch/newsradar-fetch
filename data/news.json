@@ -1,8 +1,153 @@
 [
  {
-  "title": "美国锂矿商终于有机会获利",
+  "title": "Mysteel早读：美伊互袭国际油价涨逾5%",
+  "url": "https://news.mysteel.com/a/26090207/FBDC0799939391E7.html",
+  "summary": "",
+  "pub_time": "2026-09-02T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "9dd0b87a4e75767ca104b1401bbd36b0",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel早读：美伊互袭国际油价涨逾5%，汪建华展望9月钢价",
+  "url": "https://news.mysteel.com/a/26090207/C0102CBC0F5E7021.html",
+  "summary": "",
+  "pub_time": "2026-09-02T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "8b5eae5ba2878ee63bf82794551f4831",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "美国主要石油港口入选核电项目",
   "url": "",
-  "summary": "经过多年的市场波动，锂价格飞涨，每个人都想分一杯羹。随着电池存储行业在全球范围内的蓬勃发展，锂现货价格迎来了巨大的暴利，矿业公司获得了巨额利润。因此，锂资产交易也在进行中",
+  "summary": "科珀斯克里斯蒂港已成为入选项目的两个港口之一，该项目旨在整合小型模块化反应堆，以扩大核电在更多行业的使用，并推动SMR技术的发展。小型模块化反应堆风靡一时，至少在纸面上如此。它们可以安装",
+  "pub_time": "2026-09-01T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "8555b6e6271b4cb9dfe5dab5ee85c705",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Major U.S. Oil Port Selected for Nuclear Power Project"
+ },
+ {
+  "title": "欧盟努力遏制对中国的能源转型依赖",
+  "url": "",
+  "summary": "近年来，欧盟已经用另一个严重依赖绿色能源的弱点取代了一个关键的能源和安全弱点。随着欧盟逐步淘汰俄罗斯能源进口并减少对石油和天然气的整体依赖，它已经推出了大规模的可再生能源",
+  "pub_time": "2026-09-01T21:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "664259358129176ccc309608f9dad1d9",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "EU Struggles to Curb Energy Transition Dependence on China"
+ },
+ {
+  "title": "美国原油库存因持续SPR提取而下降",
+  "url": "",
+  "summary": "美国石油协会（ API ）估计，在截至8月28日的一周内，美国的原油库存下降了260万桶。前一周，美国原油库存增加了420万桶。不包括SPR的商业原油库存仅损失了4800多万",
+  "pub_time": "2026-09-01T20:56:27Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "4d109406e3b7beb21db2928aa71c4f77",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "锡",
+   "下跌",
+   "库存"
+  ],
+  "en_title": "U.S. Crude Inventories Drop amid Continued SPR Draws"
+ },
+ {
+  "title": "美国页岩油生产商竞标中止油价操纵案",
+  "url": "",
+  "summary": "一名联邦法官允许反垄断诉讼，指控美国一些最大的页岩油生产商协调减产，以保持油价和燃料价格上涨。美国新墨西哥州地区法官马修·加西亚（ Matthew Garcia ）拒绝了Diamondback Energy、西方石油公司（ Occidental Petroleum ）和其他生产商的努力",
+  "pub_time": "2026-09-01T20:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "5d12bb952a7b801ab5e0f996f9a52a55",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价"
+  ],
+  "en_title": "U.S. Shale Producers Lose Bid to Kill Oil Price-Fixing Case"
+ },
+ {
+  "title": "美国锂矿开采商终于有机会兑现",
+  "url": "",
+  "summary": "经过多年的市场波动，锂价飙升，每个人都想要一块。随着电池存储行业在全球范围内大放异彩，锂现货价格出现了重大意外收获，矿业公司实现了巨额利润。因此，锂资产交易也在进行中",
   "pub_time": "2026-09-01T20:00:00Z",
   "source": "Oilprice.com",
   "_cat": "基本金属",
@@ -25,9 +170,9 @@
   "en_title": "U.S. Lithium Miners Finally Have a Shot at Cashing In"
  },
  {
-  "title": "贝森特称霍尔木兹海峡将在两年内废弃",
+  "title": "贝森特称霍尔木兹海峡将在两年内过时",
   "url": "",
-  "summary": "美国财政部长斯科特·贝森特表示，海湾石油生产商可以在两年内绕过霍尔木兹海峡，从而为管道建设制定了一个非常短的时间表，自伊朗战争扰乱了世界上最繁忙的石油航线之一以来，管道建设一直在加速。 “这将在两年内被绕过，”贝丝",
+  "summary": "美国财政部长斯科特·贝森特（ Scott Bessent ）表示，海湾石油生产商可以在两年内绕过霍尔木兹海峡，为自伊朗战争扰乱世界上最繁忙的石油路线之一以来加速的管道建设制定一个非常短的时间表。“这将在两年内被绕过，”贝丝",
   "pub_time": "2026-09-01T19:30:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -50,9 +195,9 @@
   "en_title": "Bessent Says Strait of Hormuz Obsolete Within Two Years"
  },
  {
-  "title": "SW美国CEO聊天：Hudbay打造铜业巨头",
+  "title": "SW美国首席执行官聊天： Hudbay打造铜业巨头",
   "url": "",
-  "summary": "Hudbay Minerals（多伦多证券交易所、纽约证券交易所股票代码：HBM）表示，得益于承购商三菱公司支持的融资方案，该公司可以在不发行股权的情况下建造美国最大的两个铜矿。",
+  "summary": "Hudbay Minerals （ TSX ，纽约证券交易所代码： HBM ）表示，得益于Streamer公司三菱（ Mitsubishi ）支持的一揽子融资计划，它可以在不发行股权的情况下建造两座计划中最大的美国铜矿。SW后美国首席执行官聊天： Hudbay打造的铜矿巨头首次出现在The Northern Miner上。",
   "pub_time": "2026-09-01T19:30:00Z",
   "source": "NorthernMiner",
   "_cat": "基本金属",
@@ -76,9 +221,9 @@
   "en_title": "SW US CEO chat: Hudbay builds copper giant"
  },
  {
-  "title": "随着原油价格飙升，国债延续暴跌",
+  "title": "随着原油价格飙升，美国国债延续低迷",
   "url": "",
-  "summary": "(RTTNews) - 美国国债在周二出现最初的疲软后尝试复苏，但在整个交易过程中又回到下行趋势。",
+  "summary": "（ RTTNews ） -美国国库券在周二看到最初的疲软后进行了复苏尝试，但在交易过程中又回到了下行。",
   "pub_time": "2026-09-01T19:16:59Z",
   "source": "Nasdaq商品",
   "_cat": "能源",
@@ -105,7 +250,7 @@
  {
   "title": "社论：钱已经到了",
   "url": "",
-  "summary": "尽管加美贸易争端急剧升级，但在加拿大总理马克·卡尼 (Mark Carney) 9 月 14 日至 15 日在多伦多举行投资峰会之前，全球投资者已经开始用钱包投票。总计... 社论：钱已经到了，首先出现在《北方矿工》上。",
+  "summary": "尽管加美贸易争端急剧升级，但全球投资者已经在总理马克·卡尼（ Mark Carney ） 9月14日至15日在多伦多举行的投资峰会之前用钱包投票。总计...帖子社论：钱已经在这里了，第一次出现在北方矿工。",
   "pub_time": "2026-09-01T19:15:00Z",
   "source": "NorthernMiner",
   "_cat": "基本金属",
@@ -128,9 +273,9 @@
   "en_title": "Editorial: The money is already here"
  },
  {
-  "title": "Collective 延长哥伦比亚阿波罗计划 15 克/吨黄金产量",
+  "title": "Collective在15克/吨黄金上扩展了哥伦比亚的阿波罗计划",
   "url": "",
-  "summary": "Collective Mining 在哥伦比亚扩展了其阿波罗系统，初步资源预计将于本月发布。",
+  "summary": "Collective Mining将其Apollo系统扩展到哥伦比亚，预计本月将发布初始资源。",
   "pub_time": "2026-09-01T19:09:43Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -154,9 +299,9 @@
   "en_title": "Collective extends Colombia’s Apollo on 15-g/t gold hit"
  },
  {
-  "title": "Sibanye 确定了两大洲的铜金项目",
+  "title": "Sibanye OKs在两大洲的铜金项目",
   "url": "",
-  "summary": "Sibanye-Stillwater（JSE：SSW；纽约证券交易所：SBSW）已批准其位于塔斯马尼亚的 Mt Lyell 铜金项目和位于南非的 Burnstone 黄金项目，随着金属价格走强，这两项长期开发项目将得到推进……Sibanye OKs 后两大洲的铜金项目首先出现在《The No》上。",
+  "summary": "Sibanye-Stillwater （ JSE ： SSW ； NYSE ： SBSW ）已批准其在塔斯马尼亚的Mt Lyell铜金项目和南非的Burnstone黄金项目，随着金属价格走强，推动了两项长期发展......两大洲的后Sibanye OKs铜金项目首次出现在The No",
   "pub_time": "2026-09-01T19:03:00Z",
   "source": "NorthernMiner",
   "_cat": "贵金属",
@@ -182,9 +327,9 @@
   "en_title": "Sibanye OKs copper-gold projects on two continents"
  },
  {
-  "title": "随着美国开始对伊朗进行第二波袭击，原油价格飙升",
+  "title": "随着美国开始第二波对伊朗的袭击，原油飙升",
   "url": "",
-  "summary": "(RTTNews) - 原油价格延续了昨天的飙升势头，周二大幅上涨，原因是美国在最近与伊朗发生冲突后对伊朗发起了新一波攻击，投资者对霍尔木兹海峡重新开放的预期很快就脱离了投资者的视线。",
+  "summary": "（ RTTNews ） -延续昨天的飙升，原油价格在周二飙升，因为对霍尔木兹海峡重新开放的预期很快就脱离了投资者的轨道，此前美国在最近的交易所对伊朗发动了另一轮新一轮袭击。",
   "pub_time": "2026-09-01T18:41:12Z",
   "source": "Nasdaq商品",
   "_cat": "能源",
@@ -208,9 +353,9 @@
   "en_title": "Crude Oil Skyrockets As U.S. Begins Second Wave Of Attacks On Iran"
  },
  {
-  "title": "SW美国首席执行官谈话：能源燃料转向稀土",
+  "title": "SW US CEO CHAT ：能源燃料转向稀土",
   "url": "",
-  "summary": "Energy Fuels（多伦多证交所代码：EFR；NYSE-A：UUUU）越来越多地将其未来寄托在稀土而非铀上，这家总部位于科罗拉多州的矿商现在预计其大部分收入将来自......",
+  "summary": "Energy Fuels (TSX: EFR; NYSE-A: UUUU)越来越多地将其未来寄托在稀土而不是铀上，这家总部位于科罗拉多州的矿业公司现在预计其大部分收入将来自... SW美国首席执行官后聊天：能源燃料转向稀土首先出现在The Northern Miner上。",
   "pub_time": "2026-09-01T18:30:06Z",
   "source": "NorthernMiner",
   "_cat": "基本金属",
@@ -235,9 +380,9 @@
   "en_title": "SW US CEO chat: Energy Fuels pivots to rare earths"
  },
  {
-  "title": "乌克兰外交升温俄罗斯部长重返G20",
+  "title": "乌克兰外交升温，俄罗斯部长重返G20",
   "url": "",
-  "summary": "乌克兰总统泽连斯基表示，美国总统特朗普的特使最近一次访问莫斯科后向他通报了情况，并表示两位美国人正在制定近期对基辅进行后续访问的计划。与此同时，当俄罗斯总统弗拉基米尔·普京在",
+  "summary": "乌克兰总统弗拉基米尔·泽伦斯基（ Volodymyr Zelenskyy ）表示，美国总统唐纳德·特朗普（ Donald Trump ）的特使在最近访问莫斯科后向他介绍了情况，并表示两名美国人正在制定在不久的将来对基辅进行后续访问的计划。与此同时，俄罗斯总统弗拉基米尔·普京在",
   "pub_time": "2026-09-01T18:00:00Z",
   "source": "Oilprice.com",
   "_cat": "基本金属",
@@ -279,9 +424,9 @@
   "is_elite": false
  },
  {
-  "title": "ACG 开始在土耳其生产铜精矿",
+  "title": "ACG开始在土耳其生产铜精矿",
   "url": "",
-  "summary": "ACG Metals（伦敦证券交易所股票代码：ACG）在土耳其的 Gediktepe 矿生产出第一批铜精矿，标志着该公司从贵金属转型，其目标是到年底实现全面生产硫化物... ACG 开始在土耳其生产铜精矿后的消息首先出现在《The Northern Miner》上。",
+  "summary": "ACG Metals （伦敦证券交易所代码： ACG ）从其在土耳其的Gediktepe矿生产了第一个铜精矿，标志着它从贵金属过渡到最终的全硫化物生产...... ACG开始后，土耳其的铜精矿产量首先出现在The Northern Miner上。",
   "pub_time": "2026-09-01T17:58:46Z",
   "source": "NorthernMiner",
   "_cat": "贵金属",
@@ -306,9 +451,35 @@
   "en_title": "ACG starts copper concentrate output in Turkey"
  },
  {
-  "title": "随着原油价格飙升，美联储加息押注增加，金价暴跌",
+  "title": "Brock Grain Systems不合格地区经理",
   "url": "",
-  "summary": "(RTTNews) - 继两个交易日下跌之后，周二金价暴跌，原因是美国和伊朗之间周末发生新的袭击事件后原油价格继续飙升，这增加了美国加息的押注以遏制随之而来的通胀。",
+  "summary": "",
+  "pub_time": "2026-09-01T17:57:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "c2c6441342f27bffd5fa78767ec07a34",
+  "score": 84,
+  "priority": "P1",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "谷物"
+  ],
+  "en_title": "Fail Named District Manager for Brock Grain Systems"
+ },
+ {
+  "title": "随着美联储加息押注原油价格飙升，金价暴跌",
+  "url": "",
+  "summary": "（ RTTNews ） -加上两轮亏损，金价周二下跌，原因是原油价格在美国和伊朗之间新的周末袭击之后继续飙升，这增加了美国的加息押注，以遏制随之而来的通胀。",
   "pub_time": "2026-09-01T17:50:21Z",
   "source": "Nasdaq商品",
   "_cat": "贵金属",
@@ -336,9 +507,9 @@
   "en_title": "Gold Tumbles As Fed Rate Hike Bets Rise As Crude Oil Price Surge"
  },
  {
-  "title": "美联储加息预期升至 70%，金价抹去 2026 年涨幅，白银下滑",
+  "title": "随着美联储加息押注攀升至70% ，金价在2026年上涨，银价下滑",
   "url": "",
-  "summary": "金价连续三天的下跌几乎抹去了 2026 年的全部涨幅，但矿商正在经历至少自 1994 年以来最好的 8 月份表现。",
+  "summary": "金条为期三天的下跌几乎抵消了2026年的全部涨幅，但矿工们至少在1994年8月以来表现最好。",
   "pub_time": "2026-09-01T17:25:50Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -368,7 +539,7 @@
  {
   "title": "2026年8月回顾与展望",
   "url": "",
-  "summary": "八月份突显了政策制定者对市场的态度日益扩大，美国财政部明显表现活跃，而美联储在主席沃什的领导下言辞强硬，但连续第五次会议没有就利率采取行动。",
+  "summary": "8月份强调，政策制定者对市场的态度分歧日益扩大，毫无疑问，美国财政部积极活跃，美联储在沃什主席的领导下表达了强硬态度，但连续第五次会议没有对利率采取行动。",
   "pub_time": "2026-09-01T17:05:40Z",
   "source": "Nasdaq商品",
   "_cat": "基本金属",
@@ -394,7 +565,7 @@
  {
   "title": "坦桑尼亚的采矿模式开始获得回报",
   "url": "",
-  "summary": "1967 年，一位名叫 Jumanne Mhero Ngoma 的马赛牧民在坦桑尼亚城市阿鲁沙附近的 Mereli 山偶然发现了一丛不寻常的紫色晶体。由于他的发现，恩戈马获得了 50,000 先令的奖励——相当于今天的 22 美元。然而，出售该矿产的权利被授予了何先生。",
+  "summary": "1967年，一位名叫Jumanne Mhero Ngoma的马赛牧民在坦桑尼亚城市阿鲁沙附近的Mereli山上偶然发现了一团不寻常的紫色晶体。由于他的发现， Ngoma获得了5万先令的奖励，相当于今天的22 $。然而，出售矿物的权利被授予了贺",
   "pub_time": "2026-09-01T17:00:00Z",
   "source": "Oilprice.com",
   "_cat": "基本金属",
@@ -416,25 +587,6 @@
    "锡"
   ],
   "en_title": "Tanzania’s Mining Model Is Starting to Pay Off"
- },
- {
-  "title": "Mysteel晚餐：沙钢永钢最新调价",
-  "url": "https://news.mysteel.com/a/26090117/106F27D138E3F96D.html",
-  "summary": "",
-  "pub_time": "2026-09-01T17:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "145b61c92b0209353382062cdd5ecf69",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  },
  {
   "title": "关键矿产日报：我国铜金矿勘查获重大突破",
@@ -513,9 +665,9 @@
   "is_elite": false
  },
  {
-  "title": "Collective 延长哥伦比亚阿波罗计划 15 克/吨黄金产量",
+  "title": "Collective在15克/吨黄金上扩展了哥伦比亚的阿波罗计划",
   "url": "",
-  "summary": "Collective Mining（多伦多证券交易所、纳斯达克股票代码：CNL）已将其在哥伦比亚的 Apollo 系统向北扩展了 100 米，此前针对更深 Ramp 区域的两个钻孔意外地切出了新的矿化角砾岩。 Collective 扩展了哥伦比亚 Apollo 系统，其金矿产量为 15 克/吨，首先出现在《北方矿工》上。",
+  "summary": "Collective Mining （ TSX ，纳斯达克股票代码： CNL ）在针对更深的斜坡区域的两个钻孔意外地切割了一个新的矿化角砾后，将其在哥伦比亚的阿波罗系统向北扩展了100米...该邮政Collective以15克/吨的黄金扩展了哥伦比亚的阿波罗系统，首次出现在The Northern Miner上。",
   "pub_time": "2026-09-01T16:47:24Z",
   "source": "NorthernMiner",
   "_cat": "贵金属",
@@ -539,9 +691,9 @@
   "en_title": "Collective extends Colombia’s Apollo on 15-g/t gold hit"
  },
  {
-  "title": "ACG Metals 在土耳其矿山生产出第一批铜精矿",
+  "title": "ACG Metals在土耳其矿山生产第一批铜精矿",
   "url": "",
-  "summary": "该公司将其 Gediktepe 矿从贵金属和锌生产转向铜生产。",
+  "summary": "该公司将其Gediktepe矿山从贵金属和锌转变为铜生产。",
   "pub_time": "2026-09-01T16:08:55Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -566,9 +718,9 @@
   "en_title": "ACG Metals produces first copper concentrate at Turkish mine"
  },
  {
-  "title": "由于智利遭受风暴袭击的产量跌至 2011 年低点，铜价停滞不前",
+  "title": "由于智利遭受风暴袭击的产量跌至2011年低点，铜价停滞不前",
   "url": "",
-  "summary": "由于交易商在 1 月关税之前不断将金属推入美国，Comex 库存已几乎增加到 LME 仓库中剩余铜的三倍。",
+  "summary": "Comex库存已膨胀至LME仓库剩余铜的近三倍，因为交易商在1月份的关税之前继续将金属推向美国。",
   "pub_time": "2026-09-01T16:03:22Z",
   "source": "Mining.com",
   "_cat": "基本金属",
@@ -594,9 +746,9 @@
   "en_title": "Copper price stalls short of record as Chile’s storm-hit output slumps to 2011 low"
  },
  {
-  "title": "由于能源成本上升打击英国零售商，食品通胀飙升",
+  "title": "随着更高的能源成本打击英国零售商，食品通货膨胀率飙升",
   "url": "",
-  "summary": "一家顶级商业集团发现，随着能源和大宗商品成本的飙升影响到消费者，商店价格通胀已达到两年来的最高点，并且将在整个秋季攀升。英国零售协会（BRC）代表英国各地的主要超市和商业街商店，战争",
+  "summary": "一家顶级商业集团发现，随着能源和大宗商品成本的激增过滤到消费者，商店价格通胀已创下两年新高，并将在秋季攀升。代表英国主要超市和高街商店的英国零售联盟（ BRC ） WAR",
   "pub_time": "2026-09-01T16:00:00Z",
   "source": "Oilprice.com",
   "_cat": "综合",
@@ -659,9 +811,9 @@
   "is_elite": false
  },
  {
-  "title": "美国和伊朗的袭击使100美元的石油重新成为焦点",
+  "title": "美伊罢工使100 $石油重新成为焦点",
   "url": "",
-  "summary": "随着霍尔木兹地区紧张局势将地区石油基准推升至 100 美元上方，美国与伊朗的袭击再次引发了人们对中东长期冲突的担忧。债券收益率上升将油价上涨转化为需求风险——全球债券收益率已飙升至 2008 年以来的最高水平，因为油价上涨使人们对长期债券收益率的担忧持续存在。",
+  "summary": "随着霍尔木兹紧张局势将地区石油基准推高至100 $以上，美伊罢工重新点燃了对中东长期冲突的担忧。债券收益率上升将石油的反弹转变为需求风险-全球债券收益率已飙升至2008年以来的最高水平，因为油价上涨使人们长期担忧",
   "pub_time": "2026-09-01T15:10:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -838,34 +990,9 @@
   "is_elite": false
  },
  {
-  "title": "俄罗斯将黑暗舰队增加一倍，向亚洲运送液化天然气",
+  "title": "Sibanye-Stillwater将在两大洲建造新的铜、金矿",
   "url": "",
-  "summary": "彭博社周二对船舶跟踪数据的分析显示，在短短九个月内，俄罗斯用于从其获批的北极液化天然气 2 出口项目运输液化天然气的不透明自有船舶数量增加了一倍。截至 2025 年 12 月，俄罗斯估计拥有 11 艘液化天然气运输船",
-  "pub_time": "2026-09-01T13:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "7bab98065a294e2183a90156413cae7d",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Russia Doubles Dark Fleet to Ship LNG to Asia"
- },
- {
-  "title": "Sibanye-Stillwater 将在两大洲建设新的铜矿和金矿",
-  "url": "",
-  "summary": "随着金属价格走强提高盈利和股东回报，该矿商正在澳大利亚和南非推进新矿山建设。",
+  "summary": "随着金属价格走强提振盈利和股东回报，这家矿商正在澳大利亚和南非推进新矿开采。",
   "pub_time": "2026-09-01T13:03:00Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -936,50 +1063,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "313d04cc24a954bc628a376d2c9c3c8d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "两艘超级油轮在霍尔木兹海峡被不明弹丸击中",
-  "url": "",
-  "summary": "海事风险管理公司 Marikss 周二表示，两艘超级油轮在从波斯湾驶经霍尔木兹海峡时被不明弹丸击中，中东紧张局势本周再次爆发，使暂时的油流恢复面临风险。西德维",
-  "pub_time": "2026-09-01T11:35:16Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "5f5a4002a21292c3ce82e8ce31d83d7e",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Two Supertankers Hit by Unknown Projectiles in Strait of Hormuz"
- },
- {
-  "title": "Mysteel午报：钢价局部下跌，焦煤期货涨超1%",
-  "url": "https://news.mysteel.com/a/26090111/D5B083208CCDFBB3.html",
-  "summary": "",
-  "pub_time": "2026-09-01T11:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "ee395e4ad41aefe7be1dc771bc9f6223",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1087,9 +1170,9 @@
   "is_elite": false
  },
  {
-  "title": "随着 Hillgrove 的复兴，Larvotto 加入锑行列",
+  "title": "随着Hillgrove的复活， Larvotto加入了锑的行列",
   "url": "",
-  "summary": "Larvotto Resources (ASX: LRV) 已开始在其位于澳大利亚的 Hillgrove 矿山生产锑和黄金，增加了一种战略金属的主要西方来源，其供应主要是...随着 Hillgrove 的复苏，Larvotto 加入了锑矿行列，该矿山首先出现在《北方矿工》杂志上。",
+  "summary": "Larvotto Resources (ASX: LRV)已经开始在澳大利亚的Hillgrove矿山生产锑和黄金，增加了一个主要的西方战略金属来源，其供应主要由... Larvotto加入锑的行列，因为Hillgrove的复苏首次出现在The Northern Miner上。",
   "pub_time": "2026-09-01T10:57:00Z",
   "source": "NorthernMiner",
   "_cat": "贵金属",
@@ -1110,32 +1193,6 @@
    "贵金属"
   ],
   "en_title": "Larvotto joins antimony ranks as Hillgrove revives"
- },
- {
-  "title": "乌克兰无人机拦截俄罗斯重要石油港口",
-  "url": "",
-  "summary": "乌克兰无人机对波罗的海俄罗斯乌斯季卢加石油出口码头进行大规模袭击，引发现场火灾，乌克兰继续瞄准俄罗斯炼油厂和能源出口基础设施。夜间无人机袭击后，乌斯季卢加港口遭到破坏，并引发火灾，",
-  "pub_time": "2026-09-01T10:45:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "693a06efa290701712e30e6dad91ea1f",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Ukrainian Drone Barrage Sets Key Russian Oil Port Ablaze"
  },
  {
   "title": "前8月国内钢铁产能置换情况",
@@ -1214,9 +1271,9 @@
   "is_elite": false
  },
  {
-  "title": "利率担忧导致金价暴跌",
+  "title": "黄金在利率恐慌中翻滚",
   "url": "",
-  "summary": "(RTTNews) - 由于油价和债券收益率上涨引发了对通胀和加息的担忧，周二金价暴跌。",
+  "summary": "（ RTTNews ） -周二，由于油价和债券收益率上涨引发了对通胀和加息的担忧，金价暴跌。",
   "pub_time": "2026-09-01T09:58:41Z",
   "source": "Nasdaq商品",
   "_cat": "贵金属",
@@ -1241,9 +1298,9 @@
   "en_title": "Gold Tumbles On Rate Fears"
  },
  {
-  "title": "石油价格因供应中断担忧而上涨",
+  "title": "供应中断问题导致油价上涨",
   "url": "",
-  "summary": "(RTTNews) - 在美国和伊朗恢复针锋相对的罢工后，周二油价大幅上涨，引发了人们对能源供应和霍尔木兹海峡航运的担忧，霍尔木兹海峡是全球五分之一石油运输的重要水道。",
+  "summary": "（ RTTNews ） -在美国和伊朗恢复针锋相对的罢工后，周二油价大幅上涨，引发了对能源供应和通过霍尔木兹海峡航运的担忧，霍尔木兹海峡是世界上五分之一石油运输的关键水道。",
   "pub_time": "2026-09-01T09:38:20Z",
   "source": "Nasdaq商品",
   "_cat": "能源",
@@ -1268,33 +1325,6 @@
    "供应"
   ],
   "en_title": "Oil Prices Rise On Supply Disruption Concerns"
- },
- {
-  "title": "印度石油购买的主要动力是价格而非政治",
-  "url": "",
-  "summary": "印度国有石油和天然气公司（ONGC）的高管表示，印度从美国和委内瑞拉等生产国进口现货原油是受到当前货物和油价的推动。 “进口量由价格决定，但定期原油除外。N",
-  "pub_time": "2026-09-01T09:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "2dc5883989bcdd25fa09d9a5d8f13b6f",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价"
-  ],
-  "en_title": "Price, Not Politics, Is Driving Most of India’s Oil Buying"
  },
  {
   "title": "8月31日iShares白银持仓量与前一交易日持平",
@@ -1546,7 +1576,7 @@
  {
   "title": "越南粮食进口需求持续增长",
   "url": "",
-  "summary": "蓬勃发展的越南经济支撑着饲料、水产养殖和生物燃料等行业不断增长的粮食需求。",
+  "summary": "蓬勃发展的越南经济正在支持包括饲料、水产养殖和生物燃料在内的各个部门的粮食需求增长。",
   "pub_time": "2026-09-01T03:44:18Z",
   "source": "GrainCentral",
   "_cat": "基本金属",
@@ -1572,9 +1602,9 @@
   "en_title": "Vietnam’s grain import demand continues to grow"
  },
  {
-  "title": "每日市场快讯 2026 年 9 月 1 日",
+  "title": "每日市场电报2026年9月1日",
   "url": "",
-  "summary": "天气适合加拿大的收获。美国中耕作物的条件复杂多样。玉米市场基本面依然强劲。澳大利亚东部小麦基差走软。",
+  "summary": "天气适合加拿大丰收。美国行作物杂耍混合条件。玉米市场仍然从根本上保持强劲。澳大利亚东部小麦基础减弱。",
   "pub_time": "2026-09-01T00:59:54Z",
   "source": "GrainCentral",
   "_cat": "农产品",
@@ -2433,9 +2463,9 @@
   "is_elite": false
  },
  {
-  "title": "BOM 每周降雨量更新（2026 年 9 月 1 日）+ 展望",
+  "title": "BOM每周降雨量更新2026年9月1日+展望",
   "url": "",
-  "summary": "过去一周，CQ 粮带的所有地区都出现了超过 15 毫米的零星降雨，但预计下周只有南部地区会出现降雨。",
+  "summary": "谷物带条CQ的所有部分在过去一周内都有超过15毫米的斑块坠落，但预计下周仅在南部地区降雨。",
   "pub_time": "2026-08-31T23:06:38Z",
   "source": "GrainCentral",
   "_cat": "农产品",
@@ -2461,9 +2491,9 @@
   "en_title": "BOM weekly rainfall update 1 Sep 2026 + outlook"
  },
  {
-  "title": "南方温和的冬季提振了 ABARES 小麦、大麦、油菜籽产量",
+  "title": "South's kind冬季升降机ABARES小麦、大麦、油菜籽公仔",
   "url": "",
-  "summary": "在澳大利亚南部经历温和潮湿的冬季后，ABARES 上调了小麦、大麦和油菜籽的产量预测。",
+  "summary": "在澳大利亚南部经历了一个温和潮湿的冬季之后， ABARES提高了对小麦、大麦和油菜籽的预测。",
   "pub_time": "2026-08-31T22:10:18Z",
   "source": "GrainCentral",
   "_cat": "农产品",
@@ -2487,9 +2517,9 @@
   "en_title": "South’s kind winter lifts ABARES wheat, barley, canola figures"
  },
  {
-  "title": "力拓的巴顿加入卡尼的 1T 美元投资计划",
+  "title": "力拓的Barton加入Carney的$ 1T投资计划",
   "url": "",
-  "summary": "加拿大总理马克·卡尼 (Mark Carney) 任命力拓 (LSE、ASX、NYSE: RIO) 主席多米尼克·巴顿 (Dominic Barton) 领导加拿大投资局董事会，渥太华扩大了联邦机构在吸引投资方面的作用。",
+  "summary": "加拿大总理马克·卡尼(Mark Carney)任命力拓(Rio Tinto) (LSE, ASX, NYSE: RIO)董事长多米尼克·巴顿(Dominic Barton)领导加拿大投资局(Invest in Canada)董事会，因为渥太华扩大了联邦机构在吸引……力拓之后的巴顿(Barton)加入了卡尼的$ 1T投资计划，首次出现在《北方矿工》(The Northern Miner)上。",
   "pub_time": "2026-08-31T20:45:09Z",
   "source": "NorthernMiner",
   "_cat": "基本金属",
@@ -2512,9 +2542,36 @@
   "en_title": "Rio’s Barton joins Carney’s $1T investment drive"
  },
  {
-  "title": "由于美国与伊朗重新开放霍尔木兹海峡的不确定性，原油价格飙升",
+  "title": "Grain SA敦促采取行动，因为干燥的条件威胁到南非的小麦作物",
   "url": "",
-  "summary": "(RTTNews) - 原油价格从上周五的跌势中反弹，周一飙升，原因是美国在停顿一个月后于昨天重新开始对伊朗的袭击，随后伊朗进行了报复性袭击，引发了人们对海湾地区局势进一步升级的担忧。",
+  "summary": "",
+  "pub_time": "2026-08-31T19:13:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "9c7b03238cb3fda7a24d29afc60d8955",
+  "score": 84,
+  "priority": "P1",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "小麦",
+   "谷物"
+  ],
+  "en_title": "Grain SA Urges Action as Dry Conditions Threaten South Africa’s Wheat Crop"
+ },
+ {
+  "title": "霍尔木兹海峡的不确定性导致原油价格飙升，在新鲜的美国-伊朗之后重新开放",
+  "url": "",
+  "summary": "（ RTTNews ） -从上周五的下滑反弹，原油价格周一飙升，因为美国在经历了长达一个月的暂停后于昨天重新开始对伊朗的袭击，随后伊朗进行了报复性罢工，引发了对海湾地区更广泛重新升级的担忧。",
   "pub_time": "2026-08-31T18:35:45Z",
   "source": "Nasdaq商品",
   "_cat": "能源",
@@ -2558,9 +2615,9 @@
   "is_elite": false
  },
  {
-  "title": "海湾局势重新升级以及美国加息的可能性导致金价暴跌",
+  "title": "海湾局势再度升级导致金价大跌，美国有可能加息",
   "url": "",
-  "summary": "(RTTNews) - 延续上周五的跌势，周一金价暴跌，此前美国和伊朗突然重新发动相互袭击，结束了长达一个月的停顿，重新引发了人们对海湾地区爆发大范围战争的担忧。此外，投资者继续分析",
+  "summary": "（ RTTNews ） -延续上周五的下跌，在美国和伊朗突然重新对彼此发动罢工后，金价周一暴跌，结束了长达一个月的中断，这再次引发了人们对海湾地区广泛战争的担忧。此外，投资者继续分析",
   "pub_time": "2026-08-31T17:42:42Z",
   "source": "Nasdaq商品",
   "_cat": "贵金属",
@@ -2585,9 +2642,9 @@
   "en_title": "Gold Tumbles Amid Gulf Re-escalation, Possibility Of U.S. Rate Hike"
  },
  {
-  "title": "法院裁决支持 Perpetua 的 $1.3B 辉锑矿建造",
+  "title": "法院裁决支持Perpetua的$ 13亿Stibnite建筑",
   "url": "",
-  "summary": "在美国联邦法院维持了针对环境挑战的关键批准后，Perpetua Resources（多伦多证券交易所，纳斯达克股票代码：PPTA）正在推进其位于爱达荷州的辉锑矿金锑项目的早期建设......法院后的裁决支持 Perpetua 的 1.3B 美元辉锑矿项目首先出现在 The Nor 上",
+  "summary": "Perpetua Resources （ TSX ，纳斯达克股票代码： PPTA ）正在推进其在爱达荷州的Stibnite金锑项目的早期建设，此前美国联邦法院维持了对环境挑战的关键批准....法院裁决后支持Perpetua的13亿美元Stibnite建造首次出现在",
   "pub_time": "2026-08-31T17:21:09Z",
   "source": "NorthernMiner",
   "_cat": "贵金属",
@@ -2724,9 +2781,9 @@
   "is_elite": false
  },
  {
-  "title": "中东紧张局势引发美联储加息押注 金价下跌",
+  "title": "随着中东紧张局势引发美联储加息押注，金价下跌",
   "url": "",
-  "summary": "油价上涨再次引发通胀担忧和加息押注，抵消了国债回购的支持。",
+  "summary": "油价上涨重燃通胀担忧和加息押注，抵消了国债回购的支持。",
   "pub_time": "2026-08-31T16:51:00Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -2752,9 +2809,35 @@
   "en_title": "Gold price slips as Mideast tensions stoke Fed hike bets"
  },
  {
-  "title": "分析师最爱：金田被列为首选金属",
+  "title": "USGBC提供最新的谷物转化计算器应用程序",
   "url": "",
-  "summary": "根据 Metals Channel 的数据，对主要经纪公司分析师推荐的研究显示，在组成 Metals Channel 全球矿业巨头指数的 50 只股票中，Gold Fields Ltd.（股票代码：GFI）平均排名第 12 位。全球金属频道",
+  "summary": "",
+  "pub_time": "2026-08-31T16:35:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "3677dd4633b6d6b46f1f201faf3bd5db",
+  "score": 84,
+  "priority": "P1",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "谷物"
+  ],
+  "en_title": "USGBC Offers Updated Grain Conversion Calculator App"
+ },
+ {
+  "title": "分析师最爱：黄金矿区被评为顶级金属矿区",
+  "url": "",
+  "summary": "根据Metals Channel的数据，对主要经纪公司分析师建议的研究表明， Gold Fields Ltd. （符号： GFI ）是构成Metals Channel Global Mining Titans Index的50只股票中排名第12的经纪人分析师。全球金属频道",
   "pub_time": "2026-08-31T15:55:30Z",
   "source": "Nasdaq商品",
   "_cat": "贵金属",
@@ -2779,9 +2862,9 @@
   "en_title": "Analyst Favorites: Gold Fields Ranks As a Top Metals Pick"
  },
  {
-  "title": "塔拉莫尔获得育空地区咖啡黄金项目的关键道路许可证",
+  "title": "Talamore获得育空地区咖啡黄金项目的关键道路许可证",
   "url": "",
-  "summary": "这条全长 214 公里的全天候公路的批准为明年初的建设决策扫清了一个关键障碍。",
+  "summary": "214公里全季道路的批准为明年初的建设决策扫清了一个关键障碍。",
   "pub_time": "2026-08-31T15:34:09Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -2808,7 +2891,7 @@
  {
   "title": "塔拉莫尔获得咖啡黄金项目的关键道路许可证",
   "url": "",
-  "summary": "塔拉莫尔矿业公司（多伦多证券交易所代码：TALA；美国场外交易代码：TALMF）已获得完成通往育空地区咖啡金项目的 214 公里全天候道路所需的剩余主要许可证，拆除了关键基础设施......塔拉莫尔获得咖啡金项目关键道路许可证的消息首先出现在《北方矿工》上。",
+  "summary": "Talamore Mining (TSX: TALA; US-OTC: TALMF)已获得完成其位于育空地区的Coffee gold项目214公里全季道路所需的其余主要许可证，拆除了一个关键的基础设施... Talamore后获得了Coffee gold项目的主要道路许可证，该项目最初出现在The Northern Miner上。",
   "pub_time": "2026-08-31T15:34:09Z",
   "source": "NorthernMiner",
   "_cat": "贵金属",
@@ -2909,9 +2992,9 @@
   "is_elite": false
  },
  {
-  "title": "铜价下跌接近历史纪录",
+  "title": "铜价缓和接近纪录",
   "url": "",
-  "summary": "周一铜价升至每吨 14,800 美元上方（相当于每磅约 6.72 美元），并接近历史高位。交易商获利了结并重新评估前景... 铜价跌至历史新高后首先出现在《北方矿商》上。",
+  "summary": "周一，铜价超过每吨14,800美元，相当于每磅约6.72美元，接近历史新高。交易员获利并重新评估了前景...铜价缓和后接近纪录首次出现在北方矿工。",
   "pub_time": "2026-08-31T13:15:53Z",
   "source": "NorthernMiner",
   "_cat": "基本金属",
@@ -3108,9 +3191,9 @@
   "is_elite": false
  },
  {
-  "title": "美联储加息预期令金价扩大跌幅",
+  "title": "黄金延长了美联储加息预期的损失",
   "url": "",
-  "summary": "(RTTNews) - 由于中东紧张局势再度升级以及美联储主席凯文·沃什 (Kevin Warsh) 杰克逊·霍尔 (Jackson Hole) 的鹰派言论，黄金周一扩大跌幅。",
+  "summary": "（ RTTNews ） -由于中东局势再度紧张，以及美联储主席凯文·沃什（ Kevin Warsh ）鹰派的杰克逊霍尔（ Jackson Hole ）言论，黄金周一延续下跌。",
   "pub_time": "2026-08-31T09:32:16Z",
   "source": "Nasdaq商品",
   "_cat": "贵金属",
@@ -3134,9 +3217,9 @@
   "en_title": "Gold Extends Losses On Fed Rate Hike Expectations"
  },
  {
-  "title": "霍尔木兹战争升级，油价飙升",
+  "title": "随着霍尔木兹战争升级，油价飙升",
   "url": "",
-  "summary": "(RTTNews) - 由于华盛顿和德黑兰之间的紧张局势升级引发了对霍尔木兹海峡供应中断的担忧，周一油价大幅上涨。",
+  "summary": "（ RTTNews ） -周一油价大幅上涨，原因是华盛顿和德黑兰之间的紧张局势升级，引发了对霍尔木兹海峡供应中断的担忧。",
   "pub_time": "2026-08-31T09:21:06Z",
   "source": "Nasdaq商品",
   "_cat": "能源",
@@ -3352,9 +3435,9 @@
   "is_elite": false
  },
  {
-  "title": "Grain Central 2026 年 8 月新闻问答",
+  "title": "谷物中心2026年8月新闻测验",
   "url": "",
-  "summary": "及时了解 Grain Central 测验的最新进展……",
+  "summary": "跟上Grain Central测验的最新发展……",
   "pub_time": "2026-08-31T06:36:10Z",
   "source": "GrainCentral",
   "_cat": "农产品",
@@ -3378,9 +3461,9 @@
   "en_title": "Grain Central August 2026 news quiz"
  },
  {
-  "title": "动态更新：收获开始，降雨增加产量潜力",
+  "title": "脉搏更新：收获开始，降雨建立产量潜力",
   "url": "",
-  "summary": "澳大利亚冬季豆类的收获工作已在昆士兰州开始，在 ABARES 数据将于明天公布之前，最近的降雨增加了新南威尔士州、维多利亚州和南澳州作物的单产潜力。",
+  "summary": "CQ已经开始收获澳大利亚的冬季豆类，最近的降雨增加了新南威尔士州、维多利亚州和南澳大利亚州作物的产量潜力，而ABARES的数据将于明天公布。",
   "pub_time": "2026-08-31T04:46:37Z",
   "source": "GrainCentral",
   "_cat": "基本金属",
@@ -3403,9 +3486,9 @@
   "en_title": "Pulse Update: Harvest starts, rain builds yield potential"
  },
  {
-  "title": "GRDC 公开招标旨在提高豆类产量",
+  "title": "GRDC开启旨在促进脉冲生产的招标",
   "url": "",
-  "summary": "GRDC 已对四个大型项目进行招标，旨在提高其三个地区的豆类采用率和成果。",
+  "summary": "GRDC已经开放了四个大型项目的招标，旨在提高其三个地区的脉搏采用率和结果。",
   "pub_time": "2026-08-31T03:11:11Z",
   "source": "GrainCentral",
   "_cat": "基本金属",
@@ -3430,9 +3513,9 @@
   "en_title": "GRDC opens tenders aimed at boosting pulse production"
  },
  {
-  "title": "南澳州、维多利亚州的房源提升了生产力",
+  "title": "南澳大利亚州、维多利亚州的房源改善了工作效率",
   "url": "",
-  "summary": "南澳州的 Watervalley Farm 和 Vater Family Aggregation，以及维多利亚州 Wimmera 的 Wallowa Downs 均已上市，并正在展示其最佳季节。",
+  "summary": "南澳大利亚州的沃特瓦利农场（ Watervalley Farm ）和瓦特家族聚集地（ Vater Family Aggregation ）以及维克维默拉（ Vic's Wimmera ）的瓦洛瓦丘陵（ Wallowa Downs ）都在市场上，并展示了他们",
   "pub_time": "2026-08-31T03:09:30Z",
   "source": "GrainCentral",
   "_cat": "基本金属",
