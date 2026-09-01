@@ -964,6 +964,7 @@ if __name__ == "__main__":
         print("[WARN] predict_next_open:", str(e)[:70])
 
     hf_picks = build_hf_picks(items, predictions)
+    daily_pick = hf_picks[0] if hf_picks and hf_picks[0].get("is_today") else (hf_picks[0] if hf_picks else {"name": "暂无"})
     obj = {
         "updated_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
         "quote_ccy": "USD/CNY",
@@ -972,6 +973,7 @@ if __name__ == "__main__":
         "prices": items,
         "predictions": predictions,
         "hf_picks": hf_picks,
+        "daily_pick": {"date": time.strftime("%Y-%m-%d"), **daily_pick},
         "trading_rules": TRADING_RULES,
         "rules_summary": TRADING_RULES_SUMMARY,
     }
