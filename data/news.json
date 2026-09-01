@@ -1,5 +1,56 @@
 [
  {
+  "title": "SW美国CEO聊天：Hudbay打造铜业巨头",
+  "url": "",
+  "summary": "Hudbay Minerals（多伦多证券交易所、纽约证券交易所股票代码：HBM）表示，得益于承购商三菱公司支持的融资方案，该公司可以在不发行股权的情况下建造美国最大的两个铜矿。",
+  "pub_time": "2026-09-01T19:30:00Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "80fa3594f970a559cf28e930141502a2",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜"
+  ],
+  "en_title": "SW US CEO chat: Hudbay builds copper giant"
+ },
+ {
+  "title": "社论：钱已经到了",
+  "url": "",
+  "summary": "尽管加美贸易争端急剧升级，但在加拿大总理马克·卡尼 (Mark Carney) 9 月 14 日至 15 日在多伦多举行投资峰会之前，全球投资者已经开始用钱包投票。总计... 社论：钱已经到了，首先出现在《北方矿工》上。",
+  "pub_time": "2026-09-01T19:15:00Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "0d7f8020d3d4006e3e06d254362715af",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Editorial: The money is already here"
+ },
+ {
   "title": "Collective 延长哥伦比亚阿波罗计划 15 克/吨黄金产量",
   "url": "",
   "summary": "Collective Mining 在哥伦比亚扩展了其阿波罗系统，初步资源预计将于本月发布。",
@@ -78,6 +129,33 @@
    "原油"
   ],
   "en_title": "Crude Oil Skyrockets As U.S. Begins Second Wave Of Attacks On Iran"
+ },
+ {
+  "title": "SW美国首席执行官谈话：能源燃料转向稀土",
+  "url": "",
+  "summary": "Energy Fuels（多伦多证交所代码：EFR；NYSE-A：UUUU）越来越多地将其未来寄托在稀土而非铀上，这家总部位于科罗拉多州的矿商现在预计其大部分收入将来自......",
+  "pub_time": "2026-09-01T18:30:06Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "682a9c74032b621413985abe0b0e1601",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "燃料",
+   "能源"
+  ],
+  "en_title": "SW US CEO chat: Energy Fuels pivots to rare earths"
  },
  {
   "title": "乌克兰外交升温俄罗斯部长重返G20",
@@ -179,7 +257,7 @@
  {
   "title": "随着原油价格飙升，美联储加息押注增加，金价暴跌",
   "url": "",
-  "summary": "(RTTNews) - 继两个交易日下跌之后，周二金价暴跌，原因是美国和伊朗之间周末发生新的袭击事件后原油价格继续飙升，这增加了美国加息的押注以遏制随之而来的通货膨胀。",
+  "summary": "(RTTNews) - 继两个交易日下跌之后，周二金价暴跌，原因是美国和伊朗之间周末发生新的袭击事件后原油价格继续飙升，这增加了美国加息的押注以遏制随之而来的通胀。",
   "pub_time": "2026-09-01T17:50:21Z",
   "source": "Nasdaq商品",
   "_cat": "贵金属",
@@ -207,9 +285,9 @@
   "en_title": "Gold Tumbles As Fed Rate Hike Bets Rise As Crude Oil Price Surge"
  },
  {
-  "title": "美联储加息预期攀升至 70%，金价抹去 2026 年涨幅，白银下滑",
+  "title": "美联储加息预期升至 70%，金价抹去 2026 年涨幅，白银下滑",
   "url": "",
-  "summary": "金价连续三天的下跌几乎抹去了 2026 年的全部涨幅，但矿商正在经历至少 1994 年以来最好的 8 月份表现。",
+  "summary": "金价连续三天的下跌几乎抹去了 2026 年的全部涨幅，但矿商正在经历至少自 1994 年以来最好的 8 月份表现。",
   "pub_time": "2026-09-01T17:25:50Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -265,7 +343,7 @@
  {
   "title": "坦桑尼亚的采矿模式开始获得回报",
   "url": "",
-  "summary": "1967 年，一位名叫 Jumanne Mhero Ngoma 的马赛牧民在坦桑尼亚城市阿鲁沙附近的 Mereli 山偶然发现了一丛不寻常的紫色晶体。由于他的发现，恩戈马获得了 50,000 先令的奖励——相当于今天的 22 美元。然而，出售该矿物的权利被授予了何先生。",
+  "summary": "1967 年，一位名叫 Jumanne Mhero Ngoma 的马赛牧民在坦桑尼亚城市阿鲁沙附近的 Mereli 山偶然发现了一丛不寻常的紫色晶体。由于他的发现，恩戈马获得了 50,000 先令的奖励——相当于今天的 22 美元。然而，出售该矿产的权利被授予了何先生。",
   "pub_time": "2026-09-01T17:00:00Z",
   "source": "Oilprice.com",
   "_cat": "基本金属",
@@ -467,7 +545,7 @@
  {
   "title": "由于能源成本上升打击英国零售商，食品通胀飙升",
   "url": "",
-  "summary": "一家顶级商业集团发现，随着能源和大宗商品成本的飙升影响到消费者，商店价格通胀已达到两年来的最高点，并且将在整个秋季攀升。英国零售联盟（BRC）代表英国各地的主要超市和商业街商店，战争",
+  "summary": "一家顶级商业集团发现，随着能源和大宗商品成本的飙升影响到消费者，商店价格通胀已达到两年来的最高点，并且将在整个秋季攀升。英国零售协会（BRC）代表英国各地的主要超市和商业街商店，战争",
   "pub_time": "2026-09-01T16:00:00Z",
   "source": "Oilprice.com",
   "_cat": "综合",
@@ -612,33 +690,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "SW美国首席执行官谈话：能源燃料转向稀土",
-  "url": "",
-  "summary": "Energy Fuels（多伦多证交所代码：EFR；NYSE-A：UUUU）越来越多地将其未来寄托在稀土而非铀上，这家总部位于科罗拉多州的矿商现在预计其大部分收入将来自......",
-  "pub_time": "2026-09-01T14:00:06Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "682a9c74032b621413985abe0b0e1601",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "燃料",
-   "能源"
-  ],
-  "en_title": "SW US CEO chat: Energy Fuels pivots to rare earths"
  },
  {
   "title": "Mysteel：30家上市车企披露2026年上半年业绩",
@@ -789,31 +840,6 @@
   "en_title": "Sibanye-Stillwater to build new copper, gold mines on two continents"
  },
  {
-  "title": "社论：钱已经到了",
-  "url": "",
-  "summary": "尽管加美贸易争端急剧升级，但在加拿大总理马克·卡尼 (Mark Carney) 9 月 14 日至 15 日在多伦多举行投资峰会之前，全球投资者已经开始用钱包投票。总计... 这篇社论：钱已经到了，首先出现在《北方矿工》上。",
-  "pub_time": "2026-09-01T13:00:00Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "0d7f8020d3d4006e3e06d254362715af",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Editorial: The money is already here"
- },
- {
   "title": "Mysteel：五大建筑央企前7月新签合同总额超4万亿元",
   "url": "https://news.mysteel.com/a/26090113/B792183E54D3785C.html",
   "summary": "",
@@ -869,32 +895,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "SW美国CEO聊天：Hudbay打造铜业巨头",
-  "url": "",
-  "summary": "Hudbay Minerals（多伦多证券交易所、纽约证券交易所股票代码：HBM）表示，得益于承购商三菱公司支持的融资方案，该公司可以在不发行股权的情况下建造美国最大的两个铜矿。",
-  "pub_time": "2026-09-01T12:00:00Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "80fa3594f970a559cf28e930141502a2",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "SW US CEO chat: Hudbay builds copper giant"
  },
  {
   "title": "两艘超级油轮在霍尔木兹海峡被不明弹丸击中",
@@ -2939,7 +2939,7 @@
  {
   "title": "铜价下跌接近历史纪录",
   "url": "",
-  "summary": "周一铜价高于每吨 14,800 美元，相当于每磅约 6.72 美元，并接近历史高位。交易商获利了结并重新评估前景... 铜价跌至历史新高后首先出现在《北方矿商》上。",
+  "summary": "周一铜价升至每吨 14,800 美元上方（相当于每磅约 6.72 美元），并接近历史高位。交易商获利了结并重新评估前景... 铜价跌至历史新高后首先出现在《北方矿商》上。",
   "pub_time": "2026-08-31T13:15:53Z",
   "source": "NorthernMiner",
   "_cat": "基本金属",
