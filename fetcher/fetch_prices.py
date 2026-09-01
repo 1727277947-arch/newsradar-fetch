@@ -874,54 +874,80 @@ TRADING_RULES_SUMMARY = '上述28条期货买卖规则，乃经十年投机买�
 
 # ============ 高频交易推荐：小资金 + 高波动 + 活跃 ============
 def build_hf_picks(items, preds=None):
-    """给十万以内小资金的高频交易标的排序。
-    三要素：一手保证金低(资金门槛小) + 日内波幅大(有价差) + 成交/持仓活跃(买卖灵)。
-    返回排序后的列表，每项附：estimated_margin / hands_in_100k / day_range_pct / volume。"""
+    """今日打板推荐（每天只做一次）：优先 波动大 + 方向强 + 小资金可开，给出具体进场/止损/止盈位。
+    口径：只用当天有明显方向(做多=追强/做空=追跌)的品种，波幅优先；弱鸡观望的不推；一只是今日主推。"""
+    import math as _m
     pred_map = {}
     if preds:
         for pp in preds:
-            pred_map[pp.get("symbol")] = pp
+            pred_map.setdefault(pp.get("symbol"), pp)
+            pred_map.setdefault("nf_" + (pp.get("symbol") or ""), pp)
     picks = []
     for it in items:
         if it.get("market") != "国内":
             continue
+        sym = it.get("symbol")
         fut = it.get("future")
-        cval = it.get("contract_value")
         mg = it.get("est_margin")
-        rng = it.get("day_range_pct")
+        rng = it.get("day_range_pct") or 0.0
         vol = it.get("volume") or 0
         oi = it.get("open_interest") or 0
-        if not fut or not cval or not mg or cval <= 0 or mg <= 0:
+        pp = pred_map.get(sym) or pred_map.get("nf_" + sym)
+        if not fut or fut <= 0:
             continue
-        if vol <= 0 or oi <= 0:          # 无成交/持仓 → 不活跃，按你的戒条“疏落市场不沾手”剔除
+        if not pp:
             continue
-        # 资金分：一手保证金越低越好（10万内越宽裕越好）
-        sz = max(0.0, min(1.0, 1.0 - mg / 100000.0))
-        # 波动分：日内振幅越高越好（3%+ 给满分）
-        vm = max(0.0, min(1.0, (rng or 0.0) / 3.0))
-        # 活跃分：量能越大越活（用对数压到 0~1）
-        import math as _m
+        direct = int(pp.get("direction") or 0)
+        if direct == 0:                 # 观望的不构成打板机会
+            continue
+        if vol <= 0 or oi <= 0:         # 死水市场不沾手
+            continue
+        if not mg or mg <= 0:
+            continue
+        if rng < 1.0:                   # 当日波幅太小，没肉吃
+            continue
+        # 资金：越便宜越“绰绰有余”。10万能开>=3手(即一手保证金<=约3.3万)算宽裕；越贵评分越低
+        sz = max(0.0, min(1.0, 1.0 - mg / 40000.0))
+        # 方向强度：实时涨幅绝对值(打板追强/追跌才有意义)
+        ru = abs(pp.get("limit_ru") or 0.0)
+        # 打板分(模型对当日强势的判定)已含涨/位置/放量/连强
+        ls = int(pp.get("limit_score") or 0)
+        # 推荐分 = 波幅为主(0.40) + 资金(0.25) + 方向强度(0.20) + 活跃度(0.15)
+        rv = max(0.0, min(1.0, rng / 4.0))            # 波幅 4% 给满分
+        dv = max(0.0, min(1.0, ru / 2.5))             # 实时涨 2.5% 给满分
         av = max(0.0, min(1.0, _m.log10(vol + 1) / 6.0))
-        ac = max(0.0, min(1.0, _m.log10(oi + 1) / 6.0))
-        score = 0.40 * sz + 0.35 * vm + 0.25 * (0.6 * av + 0.4 * ac)
-        rec = {
-            "symbol": it.get("symbol"), "name": it.get("name"), "category": it.get("category"),
-            "price": fut, "unit": it.get("unit"),
-            "contract_value": round(cval, 2), "est_margin": round(mg, 2),
-            "hands_in_100k": int(100000.0 / mg) if mg > 0 else 0,
-            "day_range_pct": round(rng or 0.0, 2),
-            "volume": int(vol), "open_interest": int(oi),
-            "hf_score": round(score, 3),
-            "source": "算法估算(合约乘数/保证金率为交易所公开常见值)"
-        }
-        pp = pred_map.get(it.get("symbol")) or pred_map.get("nf_" + it.get("symbol"))
-        if pp:
-            rec["direct"] = pp.get("direction", 0)
-            rec["dir_label"] = pp.get("label", "观望")
-            rec["limit_score"] = pp.get("limit_score", 0)
-            rec["board"] = pp.get("board", "一般/观望")
-        picks.append(rec)
-    picks.sort(key=lambda x: -x["hf_score"])
+        score = 0.40 * rv + 0.25 * sz + 0.20 * dv + 0.15 * av
+        # 具体每日打板点位：以实时最新价(anchor)为基准，沿用 止盈+3% / 反向-0.15%离场 / 浮盈回吐-0.1%硬止损
+        anchor = float(pp.get("today_close") or fut or 0.0)
+        if anchor <= 0:
+            anchor = float(fut or 0.0)
+        TP = 0.03; EXIT = 0.0015; HS = 0.001
+        if direct == 1:
+            tp = anchor * (1 + TP); sl = anchor * (1 - HS); ex = anchor * (1 - EXIT); lev = "追强做多"
+        else:
+            tp = anchor * (1 - TP); sl = anchor * (1 + HS); ex = anchor * (1 + EXIT); lev = "追跌做空"
+        picks.append({
+            "symbol": sym, "name": it.get("name"), "category": it.get("category"),
+            "unit": it.get("unit"), "price": round(fut, 3),
+            "direct": direct, "dir_label": pp.get("label", "做多" if direct > 0 else "做空"),
+            "day_range_pct": round(rng, 2), "limit_score": ls,
+            "board": pp.get("board", "一般/观望"),
+            "est_margin": round(mg, 2), "hands_in_100k": int(100000.0 / mg) if mg > 0 else 0,
+            "volume": int(vol), "open_interest": int(oi), "mode": lev,
+            "anchor": round(anchor, 3), "tp": round(tp, 3), "sl": round(sl, 3), "exit_price": round(ex, 3),
+            "board_score": round(score, 3),
+            "reason": ("今日打板 · 方向%s · 实时%+.2f%% / 波幅%.2f%% / 打板分%d: 进场≈%s, 止盈%s, 反向%s离场, 硬止损%s" % (
+                pp.get("label", ""), pp.get("limit_ru") or 0.0, rng, ls,
+                ("%g" % anchor) if anchor >= 1000 else ("%.3f" % anchor),
+                ("%g" % tp) if tp >= 1000 else ("%.3f" % tp),
+                ("%g" % ex) if ex >= 1000 else ("%.3f" % ex),
+                ("%g" % sl) if sl >= 1000 else ("%.3f" % sl))),
+        })
+    picks.sort(key=lambda x: -x["board_score"])
+    # 第一名为“今日打板主推”
+    for idx, rp in enumerate(picks):
+        rp["rank"] = idx + 1
+        rp["is_today"] = (idx == 0)
     return picks
 
 
