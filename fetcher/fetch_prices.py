@@ -88,6 +88,41 @@ DOMESTIC = [
     ("nf_SI0", "工业硅", "元/吨", "基本金属"),
     ("nf_LC0", "碳酸锂", "元/吨", "基本金属"),
 ]
+# ============ 高频推荐：合约乘数 / 保证金率 / 交易所（公开交易所标准规格，仅用于估算）============
+CONTRACT_MULT = {
+    "AU":1000, "AG":15000, "CU":5, "AL":5, "ZN":5, "NI":1, "PB":5, "SN":1,
+    "RB":10, "HC":10, "WR":10, "RU":10, "FU":10, "BU":10, "SS":5, "SP":10,
+    "A":10, "B":10, "M":10, "C":10, "CS":10, "Y":10, "P":10, "JD":10,
+    "J":100, "JM":60, "I":100, "LH":16, "L":5, "PP":5, "EG":10, "EB":5, "PG":20, "V":5,
+    "CF":5, "SR":10, "OI":10, "RM":10, "FG":20, "SA":20, "TA":5, "MA":10, "UR":20,
+    "CJ":5, "AP":10, "PK":5, "PF":5, "PX":5, "SH":30, "CY":5,
+    "SC":1000, "LU":10, "SI":5, "LC":1,
+}
+MARGIN_RATE = {"SHFE":0.12, "DCE":0.10, "CZCE":0.10, "INE":0.12, "GFEX":0.12}
+EXCH = {
+    "AU":"SHFE","AG":"SHFE","CU":"SHFE","AL":"SHFE","ZN":"SHFE","NI":"SHFE","PB":"SHFE","SN":"SHFE",
+    "RB":"SHFE","HC":"SHFE","WR":"SHFE","RU":"SHFE","FU":"SHFE","BU":"SHFE","SS":"SHFE","SP":"SHFE",
+    "A":"DCE","B":"DCE","M":"DCE","C":"DCE","CS":"DCE","Y":"DCE","P":"DCE","JD":"DCE",
+    "J":"DCE","JM":"DCE","I":"DCE","LH":"DCE","L":"DCE","PP":"DCE","EG":"DCE","EB":"DCE","PG":"DCE","V":"DCE",
+    "CF":"CZCE","SR":"CZCE","OI":"CZCE","RM":"CZCE","FG":"CZCE","SA":"CZCE","TA":"CZCE","MA":"CZCE","UR":"CZCE",
+    "CJ":"CZCE","AP":"CZCE","PK":"CZCE","PF":"CZCE","PX":"CZCE","SH":"CZCE","CY":"CZCE",
+    "SC":"INE","LU":"INE","SI":"GFEX","LC":"GFEX",
+}
+
+def _base_key(key):
+    """AU0 -> AU；把末尾数字去掉。"""
+    k = key.strip()
+    while k and k[-1].isdigit():
+        k = k[:-1]
+    return k
+
+def fmt_money(v):
+    if v is None or v != v:
+        return ""
+    if v >= 10000:
+        return "%.1f万" % (v / 10000.0)
+    return "%.0f" % v
+
 
 # 生意社(100ppi) 现货页名称 -> 我的品种 key (用于现货/期货比对，仅取单位一致的品种)
 SPOT_MAP = {
@@ -235,20 +270,43 @@ def fetch_domestic_futures():
         try:
             price = float(f[7]) if f[7] else 0.0
             prior = float(f[2]) if f[2] else 0.0
-            last_settle = float(f[2]) if f[2] else 0.0
+            last_settle = float(f[10]) if len(f) > 10 and f[10] else (float(f[2]) if f[2] else 0.0)
+            hi = float(f[3]) if len(f) > 3 and f[3] else price
+            lo = float(f[4]) if len(f) > 4 and f[4] else price
         except ValueError:
             continue
         # 无实时报价(空/0)时用昨结兜底，绝不把0价当开仓基准，避免算法和App出现0价鬼数据
         if price <= 0 and last_settle > 0:
             price = last_settle
-        chg = round(price - prior, 4) if prior else 0.0
-        pctv = pct(prior, price)
+        chg = round(price - last_settle, 4) if last_settle else 0.0
+        pctv = pct(last_settle, price)
         trend = "up" if chg > 0.0001 else ("down" if chg < -0.0001 else "flat")
+        # 活跃度与波动：f[13]=当日成交量, f[14]=持仓量, f[9]=买量
+        try:
+            vol = float(f[13]) if len(f) > 13 and f[13] else 0.0
+        except ValueError:
+            vol = 0.0
+        try:
+            oi = float(f[14]) if len(f) > 14 and f[14] else 0.0
+        except ValueError:
+            oi = 0.0
+        mult = CONTRACT_MULT.get(_base_key(key), 1)
+        cval = price * mult
+        exch = EXCH.get(_base_key(key), "CZCE")
+        mrate = MARGIN_RATE.get(exch, 0.10)
+        est_margin = cval * mrate
+        rng_pct = (hi - lo) / last_settle * 100.0 if last_settle and last_settle > 0 else 0.0
         out[key] = {
             "symbol": key, "name": cn, "unit": unit, "quote_ccy": "CNY", "category": cat,
             "market": "国内", "kind": "future", "future": round(price, 4),
             "last_settle": round(last_settle, 4),
             "change": chg, "change_pct": pctv, "trend": trend,
+            "day_high": round(hi, 4) if hi == hi else None,
+            "day_low": round(lo, 4) if lo == lo else None,
+            "day_range_pct": round(rng_pct, 2),
+            "volume": int(vol), "open_interest": int(oi),
+            "contract_mult": mult, "contract_value": round(cval, 2),
+            "est_margin": round(est_margin, 2), "margin_rate": mrate,
             "source": "新浪财经(期货)", "note": "国内期货",
         }
     return out
@@ -814,6 +872,59 @@ TRADING_RULES = [
 ]
 TRADING_RULES_SUMMARY = '上述28条期货买卖规则，乃经十年投机买卖归纳出的戒条，具有实战效用。每次买卖出现亏损时，可检阅这28条规则，看看犯了哪一条，引以为戒。'
 
+# ============ 高频交易推荐：小资金 + 高波动 + 活跃 ============
+def build_hf_picks(items, preds=None):
+    """给十万以内小资金的高频交易标的排序。
+    三要素：一手保证金低(资金门槛小) + 日内波幅大(有价差) + 成交/持仓活跃(买卖灵)。
+    返回排序后的列表，每项附：estimated_margin / hands_in_100k / day_range_pct / volume。"""
+    pred_map = {}
+    if preds:
+        for pp in preds:
+            pred_map[pp.get("symbol")] = pp
+    picks = []
+    for it in items:
+        if it.get("market") != "国内":
+            continue
+        fut = it.get("future")
+        cval = it.get("contract_value")
+        mg = it.get("est_margin")
+        rng = it.get("day_range_pct")
+        vol = it.get("volume") or 0
+        oi = it.get("open_interest") or 0
+        if not fut or not cval or not mg or cval <= 0 or mg <= 0:
+            continue
+        if vol <= 0 or oi <= 0:          # 无成交/持仓 → 不活跃，按你的戒条“疏落市场不沾手”剔除
+            continue
+        # 资金分：一手保证金越低越好（10万内越宽裕越好）
+        sz = max(0.0, min(1.0, 1.0 - mg / 100000.0))
+        # 波动分：日内振幅越高越好（3%+ 给满分）
+        vm = max(0.0, min(1.0, (rng or 0.0) / 3.0))
+        # 活跃分：量能越大越活（用对数压到 0~1）
+        import math as _m
+        av = max(0.0, min(1.0, _m.log10(vol + 1) / 6.0))
+        ac = max(0.0, min(1.0, _m.log10(oi + 1) / 6.0))
+        score = 0.40 * sz + 0.35 * vm + 0.25 * (0.6 * av + 0.4 * ac)
+        rec = {
+            "symbol": it.get("symbol"), "name": it.get("name"), "category": it.get("category"),
+            "price": fut, "unit": it.get("unit"),
+            "contract_value": round(cval, 2), "est_margin": round(mg, 2),
+            "hands_in_100k": int(100000.0 / mg) if mg > 0 else 0,
+            "day_range_pct": round(rng or 0.0, 2),
+            "volume": int(vol), "open_interest": int(oi),
+            "hf_score": round(score, 3),
+            "source": "算法估算(合约乘数/保证金率为交易所公开常见值)"
+        }
+        pp = pred_map.get(it.get("symbol")) or pred_map.get("nf_" + it.get("symbol"))
+        if pp:
+            rec["direct"] = pp.get("direction", 0)
+            rec["dir_label"] = pp.get("label", "观望")
+            rec["limit_score"] = pp.get("limit_score", 0)
+            rec["board"] = pp.get("board", "一般/观望")
+        picks.append(rec)
+    picks.sort(key=lambda x: -x["hf_score"])
+    return picks
+
+
 if __name__ == "__main__":
     out_path = sys.argv[1] if len(sys.argv) > 1 else os.path.join(BASE, "output", "prices.json")
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
@@ -826,6 +937,7 @@ if __name__ == "__main__":
         predictions = []
         print("[WARN] predict_next_open:", str(e)[:70])
 
+    hf_picks = build_hf_picks(items, predictions)
     obj = {
         "updated_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
         "quote_ccy": "USD/CNY",
@@ -833,6 +945,7 @@ if __name__ == "__main__":
         "groups": ["贵金属", "基本金属", "黑色系", "能源", "农产品", "化工"],
         "prices": items,
         "predictions": predictions,
+        "hf_picks": hf_picks,
         "trading_rules": TRADING_RULES,
         "rules_summary": TRADING_RULES_SUMMARY,
     }
