@@ -1,5 +1,56 @@
 [
  {
+  "title": "随着美国开始对伊朗进行第二波袭击，原油价格飙升",
+  "url": "",
+  "summary": "(RTTNews) - 原油价格延续了昨天的飙升势头，周二大幅上涨，原因是美国在最近与伊朗发生冲突后对伊朗发起了新一波攻击，投资者对霍尔木兹海峡重新开放的预期很快就脱离了投资者的视线。",
+  "pub_time": "2026-09-01T18:41:12Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "7bd579cbf2cc74550a16fc196b04a879",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Crude Oil Skyrockets As U.S. Begins Second Wave Of Attacks On Iran"
+ },
+ {
+  "title": "乌克兰外交升温俄罗斯部长重返G20",
+  "url": "",
+  "summary": "乌克兰总统泽连斯基表示，美国总统特朗普的特使最近一次访问莫斯科后向他通报了情况，并表示两位美国人正在制定近期对基辅进行后续访问的计划。与此同时，当俄罗斯总统弗拉基米尔·普京在",
+  "pub_time": "2026-09-01T18:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "6c7fbda49ee09fce59d314c07d038cd1",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Ukraine Diplomacy Heats Up and Russian Minister Returns to G20"
+ },
+ {
   "title": "每日钢市：焦炭第四轮提涨，中天螺纹涨150，钢价或高位震荡",
   "url": "https://news.mysteel.com/a/26090118/BF2E924DC3B7FD8B.html",
   "summary": "",
@@ -17,6 +68,89 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
+ },
+ {
+  "title": "ACG 开始在土耳其生产铜精矿",
+  "url": "",
+  "summary": "ACG Metals（伦敦证券交易所股票代码：ACG）在土耳其的 Gediktepe 矿生产出第一批铜精矿，标志着该公司从贵金属转型，其目标是到年底实现全面生产硫化物... ACG 开始在土耳其生产铜精矿后的消息首先出现在《The Northern Miner》上。",
+  "pub_time": "2026-09-01T17:58:46Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "6504c6571d3dd41d02229da98af2308b",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "铜",
+   "产量"
+  ],
+  "en_title": "ACG starts copper concentrate output in Turkey"
+ },
+ {
+  "title": "失败被任命为 Brock Grain Systems 区域经理",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-09-01T17:57:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "c2c6441342f27bffd5fa78767ec07a34",
+  "score": 84,
+  "priority": "P1",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "谷物"
+  ],
+  "en_title": "Fail Named District Manager for Brock Grain Systems"
+ },
+ {
+  "title": "随着原油价格飙升，美联储加息押注增加，金价暴跌",
+  "url": "",
+  "summary": "(RTTNews) - 继两个交易日下跌之后，周二金价暴跌，原因是美国和伊朗之间周末发生新的袭击事件后原油价格继续飙升，这增加了美国加息的押注以遏制随之而来的通货膨胀。",
+  "pub_time": "2026-09-01T17:50:21Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "145fa0cc096e096f3a0fae14077ef356",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "原油",
+   "价",
+   "上涨",
+   "大涨"
+  ],
+  "en_title": "Gold Tumbles As Fed Rate Hike Bets Rise As Crude Oil Price Surge"
  },
  {
   "title": "美联储加息预期攀升至 70%，金价抹去 2026 年涨幅，白银下滑",
@@ -1306,35 +1440,6 @@
   "en_title": "U.S. Oil Deal Pushes China and Russia Out of Venezuelan Fields"
  },
  {
-  "title": "特朗普威胁对伊朗实施新打击，油价上涨",
-  "url": "",
-  "summary": "在特朗普总统在几周来首次交火后对伊朗发出最新威胁后，原油价格延续了早些时候的上涨势头。截至撰写本文时，布伦特原油价格为每桶 91.48 美元，西德克萨斯中质原油价格为每桶 86.97 美元，两者均上涨超过每桶 1 美元",
-  "pub_time": "2026-09-01T05:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "44f3b593433d0b090ef417a18af31c20",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "走高",
-   "罢工"
-  ],
-  "en_title": "Oil Prices Climb as Trump Threatens New Strikes on Iran"
- },
- {
   "title": "越南粮食进口需求持续增长",
   "url": "",
   "summary": "蓬勃发展的越南经济支撑着饲料、水产养殖和生物燃料等行业不断增长的粮食需求。",
@@ -1386,31 +1491,6 @@
    "农产品"
   ],
   "en_title": "Daily Market Wire 1 September 2026"
- },
- {
-  "title": "新技术突破旨在解决世界塑料垃圾问题",
-  "url": "",
-  "summary": "塑料再制造是每个人都希望早点进入的行业，麦肯锡预计到 2035 年，能够让世界塑料废物重新发挥作用的技术将带来高达 750 亿美元的经济机会。 Denovia 刚刚迈出了迈出的最大一步",
-  "pub_time": "2026-09-01T00:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "c15fee5400b6b1d65ba28d9b7965f696",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "New Tech Breakthrough Aims To Solve The World's Plastic Waste Problem"
  },
  {
   "title": "2026年9月1日大连豆粕期货低开收涨",
@@ -2403,7 +2483,7 @@
  {
   "title": "海湾局势重新升级以及美国加息的可能性导致金价暴跌",
   "url": "",
-  "summary": "(RTTNews) - 继前两个交易日下跌后，美国和伊朗突然重新发动袭击，结束了长达一个月的停顿，重新引发了人们对海湾地区爆发大范围战争的担忧，金价周一暴跌。此外，投资者继续",
+  "summary": "(RTTNews) - 延续上周五的跌势，周一金价暴跌，此前美国和伊朗突然重新发动相互袭击，结束了长达一个月的停顿，重新引发了人们对海湾地区爆发大范围战争的担忧。此外，投资者继续分析",
   "pub_time": "2026-08-31T17:42:42Z",
   "source": "Nasdaq商品",
   "_cat": "贵金属",
