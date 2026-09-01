@@ -1,4 +1,4 @@
-﻿name: auto-fetch
+name: auto-fetch
 run-name: auto-fetch news+prices
 permissions:
   contents: write
