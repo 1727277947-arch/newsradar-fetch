@@ -1,6 +1,217 @@
 [
  {
-  "title": "Quad County Corn Processors乙醇厂和多道商业地产",
+  "title": "美国林务局签署了亚利桑那州 South32 Hermosa 的采矿计划",
+  "url": "",
+  "summary": "赫莫萨 (Hermosa) 拥有世界上最大的未开发锌矿床之一、电池级锰矿床和新兴的 Peak 铜矿发现地。",
+  "pub_time": "2026-09-02T20:02:58Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "4edad1c1def5315a1ce1dd8d2eca9e97",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "US Forest Service signs off on South32 Hermosa’s mine plan in Arizona"
+ },
+ {
+  "title": "研究发现，大豆蛋白与锌和硫含量有关",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-09-02T19:03:00Z",
+  "source": "Grainnet",
+  "_cat": "基本金属",
+  "dedup_key": "aee001b706ed762b7a7f16e2c21c17b8",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锌",
+   "大豆"
+  ],
+  "en_title": "Soybean Protein Linked to Zinc and Sulfur Levels, Study Finds"
+ },
+ {
+  "title": "美国柴油价格接近四月战争高峰",
+  "url": "",
+  "summary": "柴油价格冲击可能正在逼近西方经济体。这是因为工业燃料位于货运、农业、建筑和重工业的中心；价格飙升迅速波及供应链，提高运输和建筑成本，重新引发食品通胀",
+  "pub_time": "2026-09-02T19:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "1f8ad99f55031d3fcce543bc8cdce0cd",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "价"
+  ],
+  "en_title": "U.S. Diesel Prices Close In on April War Peak"
+ },
+ {
+  "title": "埃尔多拉多希望扩大麦克尔文纳湾铜厂",
+  "url": "",
+  "summary": "随着萨斯喀彻温省铜锌金银矿逐步走向商业化，埃尔多拉多黄金公司（多伦多证券交易所股票代码：ELD；纽约证券交易所股票代码：EGO）正在研究将其麦克尔文纳湾加工厂扩建 43%，并建设一条新的银铅线路。",
+  "pub_time": "2026-09-02T19:00:00Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "541382b92b87752c81d92912720a1d96",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "铜"
+  ],
+  "en_title": "Eldorado eyes bigger McIlvenna Bay copper mill"
+ },
+ {
+  "title": "随着美国与伊朗的冲突加剧，原油价格飙升，使霍尔木兹海峡重新开放充满不确定性",
+  "url": "",
+  "summary": "(RTTNews) - 原油价格周三大幅上涨，延续了前两个交易日的强劲涨幅，原因是美国昨天开始对伊朗进行第二轮袭击，引发伊朗的强力报复，引发人们对海湾战争旷日持久的担忧加深。报告",
+  "pub_time": "2026-09-02T18:37:34Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "fd87ad00e0d1a6c6bd92da74bc392f4b",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "大涨"
+  ],
+  "en_title": "Crude Oil Surges As U.S.-Iran Flare-Up Intensifies, Leaving Hormuz Reopening Uncertain"
+ },
+ {
+  "title": "雪佛龙斥资 70 亿美元支持委内瑞拉石油扩张",
+  "url": "",
+  "summary": "据路透社周三报道，雪佛龙将在未来五年内在委内瑞拉投资超过 70 亿美元，并将其在该国的石油产量增加一倍以上，达到每天约 60 万桶。这项投资是在与委内瑞拉达成新协议之后进行的，该协议使雪佛龙改善了财政、商业和金融服务",
+  "pub_time": "2026-09-02T18:31:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "2f713a00dc9838c70551d933ebb79e9b",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Chevron Bets $7 Billion on Venezuela Oil Expansion"
+ },
+ {
+  "title": "铜并不缺，只是缺错了地方",
+  "url": "",
+  "summary": "路透社专栏作家安迪·霍姆 (Andy Home) 在《北方矿业》播客中带来了他对铜和不断变化的金属市场的分析。",
+  "pub_time": "2026-09-02T18:27:22Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "3b6b884fbb6a1a5d110a66c340b173d9",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜",
+   "短缺"
+  ],
+  "en_title": "There’s no shortage of copper, it’s just in the wrong place"
+ },
+ {
+  "title": "ADP数据超越美伊冲突引发的通胀担忧，金价上涨",
+  "url": "",
+  "summary": "(RTTNews) - 周三金价小幅走高，小幅抵消前三个交易日的跌幅，因美国与伊朗关系再度升级，美国私人就业数据弱于预期，降低了美联储加息的预期。",
+  "pub_time": "2026-09-02T17:45:21Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "d8d7dc69d95f097c43ed7d05e727669d",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "上涨"
+  ],
+  "en_title": "Gold Rises After ADP Data Overrides Inflation Concerns Due To U.S.-Iran Conflict"
+ },
+ {
+  "title": "四郡玉米加工乙醇厂和多区商业地产",
   "url": "",
   "summary": "",
   "pub_time": "2026-09-02T17:28:00Z",
@@ -82,7 +293,7 @@
  {
   "title": "特朗普“历史上最大的石油交易”背后的可疑时机",
   "url": "",
-  "summary": "唐纳德·特朗普总统上周五晚间发布了一项可能影响市场的公告。他表示，美国已经达成了他所谓的“世界历史上最大的石油协议”，使美国对委内瑞拉已探明的石油储量超过650亿桶拥有多数控制权。 Trump further",
+  "summary": "唐纳德·特朗普总统上周五晚间发布了一项可能影响市场的公告。他表示，美国已经达成了他所谓的“世界历史上最大的石油协议”，使美国对委内瑞拉已探明的石油储量超过650亿桶拥有多数控制权。特朗普进一步",
   "pub_time": "2026-09-02T17:00:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -275,7 +486,7 @@
  {
   "title": "美国特使在上海合作组织峰会期间访问中亚",
   "url": "",
-  "summary": "两名美国特朗普政府高级特使在吉尔吉斯斯坦首都比什凯克击溃了上海合作组织峰会，与中亚高层领导人举行会谈，并破坏了会议与会者之间的任何团结。上海合作组织峰会的主要参与者，包括",
+  "summary": "美国特朗普政府的两名高级特使闯入在吉尔吉斯斯坦首都比什凯克举行的上海合作组织峰会，与中亚高级领导人举行会谈，破坏了与会者之间团结一致的表现。上合组织峰会的主要参与者包括",
   "pub_time": "2026-09-02T16:00:00Z",
   "source": "Oilprice.com",
   "_cat": "基本金属",
@@ -453,7 +664,7 @@
  {
   "title": "联合国警告全球变暖将在几年内突破 1.5 摄氏度",
   "url": "",
-  "summary": "联合国环境规划署 (UNEP) 周三发布的一份新报告显示，未来几年内，全球气温上升有望很快超过 1.5 摄氏度。 In the best-case scenario, peak temperature rise will reach 1.8 C, the Limiting Overshoot report found. “While the intern",
+  "summary": "联合国环境规划署 (UNEP) 周三发布的一份新报告显示，未来几年内，全球气温上升有望很快超过 1.5 摄氏度。极限超调报告发现，在最好的情况下，峰值温升将达到 1.8°C。 “虽然实习生",
   "pub_time": "2026-09-02T15:30:00Z",
   "source": "Oilprice.com",
   "_cat": "基本金属",
@@ -516,7 +727,7 @@
  {
   "title": "美国原油库存降幅远超预期",
   "url": "",
-  "summary": "（ RTTNews ） -能源信息管理局周三发布的一份报告显示，截至8月28日的一周，美国原油库存下降幅度远远超过预期。",
+  "summary": "(RTTNews) - 美国能源情报署周三发布的报告显示，截至 8 月 28 日当周，美国原油库存降幅远超预期。",
   "pub_time": "2026-09-02T14:42:52Z",
   "source": "Nasdaq商品",
   "_cat": "能源",
@@ -570,7 +781,7 @@
  {
   "title": "由于燃料需求减弱，美国石油库存下降",
   "url": "",
-  "summary": "美国能源信息署(EIA)周三公布的最新数据显示，截至8月28日当周，美国原油库存减少450万桶。 The increase brings commercial stockpiles to 424.5 million barrels, according to gover",
+  "summary": "美国能源信息署(EIA)周三公布的最新数据显示，截至8月28日当周，美国原油库存减少450万桶。州长表示，这一增加使商业库存达到 4.245 亿桶",
   "pub_time": "2026-09-02T14:38:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -1313,31 +1524,6 @@
   "is_elite": false
  },
  {
-  "title": "随着停电风险加深，巴基斯坦拒绝昂贵的液化天然气货物",
-  "url": "",
-  "summary": "巴基斯坦可能不得不延长轮流停电，因为它拒绝支付战前价格三倍的液化天然气货物，这是其最新紧急招标中唯一提出的报价。彭博社援引未透露姓名的运输公司报道称，由 BP 提供的这批货物的售价为每百万英热单位 27 美元。",
-  "pub_time": "2026-09-02T08:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "254dd303c523de89987c1d1f98b38bc5",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Pakistan Rejects Costly LNG Cargo as Blackout Risk Deepens"
- },
- {
   "title": "特朗普推动委内瑞拉石油开发",
   "url": "https://news.mysteel.com/a/26090208/D4AD6DAD2E151386.html",
   "summary": "",
@@ -1450,33 +1636,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "美伊打击石油市场，霍尔木兹航运大幅下滑",
-  "url": "",
-  "summary": "据船舶追踪机构称，穿越霍尔木兹海峡的油轮数量仍低于十天平均水平，克普勒报告称，周二仅有四艘油轮穿越霍尔木兹海峡。据路透社今天早些时候报道，这低于十天平均 13 艘油轮。与此同时，Windward报告称有四艘油轮",
-  "pub_time": "2026-09-02T07:15:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "fe5a3107066d8e0e9408463c395fcabe",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "罢工"
-  ],
-  "en_title": "Hormuz Shipping Slumps as U.S.-Iran Strikes Rattle Oil Markets"
  },
  {
   "title": "Mysteel早读：美伊互袭国际油价涨逾5%，汪建华展望9月钢价",
@@ -2791,32 +2950,6 @@
   "is_elite": false
  },
  {
-  "title": "Collective 延长哥伦比亚阿波罗计划 15 克/吨黄金产量",
-  "url": "",
-  "summary": "Collective Mining（多伦多证券交易所、纳斯达克股票代码：CNL）已将其在哥伦比亚的 Apollo 系统向北扩展了 100 米，此前针对更深 Ramp 区域的两个钻孔意外地切出了新的矿化角砾岩。 Collective 扩展了哥伦比亚 Apollo 系统，其金矿产量为 15 克/吨，首先出现在《北方矿工》上。",
-  "pub_time": "2026-09-01T16:47:24Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "d3dcc2fcfc31ff5ecbe6014f23f09aca",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Collective extends Colombia’s Apollo on 15-g/t gold hit"
- },
- {
   "title": "ACG Metals 在土耳其矿山生产出第一批铜精矿",
   "url": "",
   "summary": "该公司将其 Gediktepe 矿从贵金属和锌生产转向铜生产。",
@@ -4024,59 +4157,5 @@
    "小麦"
   ],
   "en_title": "South’s kind winter lifts ABARES wheat, barley, canola figures"
- },
- {
-  "title": "干旱天气威胁南非小麦作物，南非粮食局敦促采取行动",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-08-31T19:13:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "9c7b03238cb3fda7a24d29afc60d8955",
-  "score": 84,
-  "priority": "P1",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "小麦",
-   "谷物"
-  ],
-  "en_title": "Grain SA Urges Action as Dry Conditions Threaten South Africa’s Wheat Crop"
- },
- {
-  "title": "由于美国与伊朗重新开放霍尔木兹海峡的不确定性，原油价格飙升",
-  "url": "",
-  "summary": "(RTTNews) - 原油价格从上周五的跌势中反弹，周一飙升，原因是美国在停顿一个月后于昨天重新开始对伊朗的袭击，随后伊朗进行了报复性袭击，引发了人们对海湾地区局势进一步升级的担忧。",
-  "pub_time": "2026-08-31T18:35:45Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "8ed209657d9283ed78fc47bb2e115f1d",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "大涨"
-  ],
-  "en_title": "Crude Oil Surges Amid Uncertainty Over Strait Of Hormuz Reopening After Fresh U.S.-Iran Attacks"
  }
 ]
