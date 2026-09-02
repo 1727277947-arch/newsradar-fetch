@@ -1,5 +1,82 @@
 [
  {
+  "title": "美国西南部采矿热潮与用水限制发生冲突",
+  "url": "",
+  "summary": "华盛顿推动在美国西南部开采更多的铜和锂，但遇到了比允许的更严格的限制：项目是否能够确保足够的水来运行数十年……美国西南部后的采矿热潮与用水限制相冲突，首先出现在《北方矿工》上。",
+  "pub_time": "2026-09-02T21:00:00Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "2ec517810a15ef5cc8c46e9bbb7e6dca",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "SW US mine rush collides with water limits"
+ },
+ {
+  "title": "SW美国首席执行官谈话：冈尼森铜业寻求政府资金和合作伙伴",
+  "url": "",
+  "summary": "甘尼森铜业（TSX：GCU；美国场外交易市场代码：GCUMF）在帮助减少美国对进口红色金属的依赖方面所发挥的作用现在更多地取决于其融资方式，而不是亚利桑那州的岩石。支持... 后西南美国首席执行官聊天：冈尼森铜业寻求政府现金和合作伙伴首先出现在北方矿工。",
+  "pub_time": "2026-09-02T20:45:55Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "7d7fc4d7f63c6d8bac716c3c93fa9311",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜"
+  ],
+  "en_title": "SW US CEO chat: Gunnison Copper seeks government cash and partner"
+ },
+ {
+  "title": "基金经理表示，以美元为中心的世界末日即将到来，黄金将取代部分债券",
+  "url": "",
+  "summary": "威廉·米德尔科普 (Willem Middelkoop) 表示，我们正处于大宗商品世代繁荣市场的早期阶段。",
+  "pub_time": "2026-09-02T20:23:21Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "2e74869e5185c9b932604a8ad3a70c2c",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "End of a dollar-centered world nears, gold to replace some bonds, fund manager says"
+ },
+ {
   "title": "美国林务局签署了亚利桑那州 South32 Hermosa 的采矿计划",
   "url": "",
   "summary": "赫莫萨 (Hermosa) 拥有世界上最大的未开发锌矿床之一、电池级锰矿床和新兴的 Peak 铜矿发现地。",
@@ -23,6 +100,32 @@
    "基本金属"
   ],
   "en_title": "US Forest Service signs off on South32 Hermosa’s mine plan in Arizona"
+ },
+ {
+  "title": "播客：CPM 集团的杰弗里·克里斯蒂安 (Jeffrey Christian) 表示，黄金交易商面临“信贷紧缩”",
+  "url": "",
+  "summary": "本周的节目由 CPM 集团管理合伙人 Jeffrey Christian 与主持人 Adrian Pocobelli 就影响黄金市场的更广泛宏观经济因素进行对话。 Christian 讨论其影响...后播客：黄金交易商面临“信贷紧缩”，ft CPM Group 的 Jeffre",
+  "pub_time": "2026-09-02T19:30:32Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "c38f3ed5d568c2db7de8f2cacfd94419",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Podcast: Gold dealers face ‘credit crunch’, ft CPM Group’s Jeffrey Christian"
  },
  {
   "title": "研究发现，大豆蛋白与锌和硫含量有关",
@@ -50,6 +153,32 @@
    "大豆"
   ],
   "en_title": "Soybean Protein Linked to Zinc and Sulfur Levels, Study Finds"
+ },
+ {
+  "title": "埃尔多拉多希望扩大麦克尔文纳湾铜厂",
+  "url": "",
+  "summary": "该作业预计平均生产 4100 万磅铜、20,000 盎司铜。黄金和 444,000 盎司。每年白银。",
+  "pub_time": "2026-09-02T19:00:00Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "3aa084b00dba8f4ca5235bbabbad6b53",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "铜"
+  ],
+  "en_title": "Eldorado eyes bigger McIlvenna Bay copper mill"
  },
  {
   "title": "美国柴油价格接近四月战争高峰",
@@ -265,6 +394,31 @@
   "en_title": "OPEC+ Set to Hold Oil Output Steady as Iran War Disrupts Supply"
  },
  {
+  "title": "Diablillos 钻探揭示了令人鼓舞的近地表矿化",
+  "url": "",
+  "summary": "Diablillos 是阿根廷最大的未开发贵金属项目之一。",
+  "pub_time": "2026-09-02T17:14:01Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "a854e85c164474995b82a10578d9bf0c",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Diablillos drilling reveals encouraging near-surface mineralization"
+ },
+ {
   "title": "南达科他州小麦育种家 Edgar McFadden 荣获 SDSU 雕塑奖",
   "url": "",
   "summary": "",
@@ -293,7 +447,7 @@
  {
   "title": "特朗普“历史上最大的石油交易”背后的可疑时机",
   "url": "",
-  "summary": "唐纳德·特朗普总统上周五晚间发布了一项可能影响市场的公告。他表示，美国已经达成了他所谓的“世界历史上最大的石油协议”，使美国对委内瑞拉已探明的石油储量超过650亿桶拥有多数控制权。特朗普进一步",
+  "summary": "唐纳德·特朗普总统上周五晚间发布了一项可能影响市场走势的声明。他表示，美国已经达成了他所谓的“世界历史上最大的石油协议”，使美国对委内瑞拉已探明的石油储量超过650亿桶拥有多数控制权。特朗普进一步",
   "pub_time": "2026-09-02T17:00:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -457,7 +611,7 @@
   "en_title": "Hormuz Traffic Craters to Four Ships as Iran-U.S. Strikes Escalate"
  },
  {
-  "title": "了解 Silvercorp Metals 如何跻身分析师首选金属行列",
+  "title": "了解 Silvercorp Metals 如何跻身分析师首选金属之列",
   "url": "",
   "summary": "根据 Metals Channel 的数据，对主要经纪公司的分析师推荐进行的研究显示，Silvercorp Metals Inc（代码：SVM）在构成 Metals Channel 全球矿业巨头指数的 50 只股票中平均排名第 32 名。金属频道GL",
   "pub_time": "2026-09-02T16:09:26Z",
@@ -486,7 +640,7 @@
  {
   "title": "美国特使在上海合作组织峰会期间访问中亚",
   "url": "",
-  "summary": "美国特朗普政府的两名高级特使闯入在吉尔吉斯斯坦首都比什凯克举行的上海合作组织峰会，与中亚高级领导人举行会谈，破坏了与会者之间团结一致的表现。上合组织峰会的主要参与者包括",
+  "summary": "美国特朗普政府的两名高级特使闯入在吉尔吉斯斯坦首都比什凯克举行的上海合作组织峰会，与中亚高级领导人举行会谈，破坏了与会者之间团结一致的形象。上合组织峰会的主要参与者包括",
   "pub_time": "2026-09-02T16:00:00Z",
   "source": "Oilprice.com",
   "_cat": "基本金属",
@@ -507,31 +661,6 @@
    "基本金属"
   ],
   "en_title": "US Envoy Courts Central Asia on Sidelines of SCO Summit"
- },
- {
-  "title": "美国西南部采矿热潮与用水限制发生冲突",
-  "url": "",
-  "summary": "华盛顿推动在美国西南部开采更多的铜和锂，但遇到了比允许的更严格的限制：项目是否能够确保足够的水来运行数十年……美国西南部后的采矿热潮与用水限制相冲突，首先出现在《北方矿工》上。",
-  "pub_time": "2026-09-02T16:00:00Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "2ec517810a15ef5cc8c46e9bbb7e6dca",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "SW US mine rush collides with water limits"
  },
  {
   "title": "【图说】2026年8月钢铁项目开工、投产汇总",
@@ -608,58 +737,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "SW美国首席执行官谈话：冈尼森铜业寻求政府资金和合作伙伴",
-  "url": "",
-  "summary": "甘尼森铜业（TSX：GCU；美国场外交易市场代码：GCUMF）在帮助减少美国对进口红色金属的依赖方面所发挥的作用现在更多地取决于其融资方式，而不是亚利桑那州的岩石。支持... 后西南美国首席执行官聊天：冈尼森铜业寻求政府现金和合作伙伴首先出现在北方矿工。",
-  "pub_time": "2026-09-02T15:45:55Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "7d7fc4d7f63c6d8bac716c3c93fa9311",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "SW US CEO chat: Gunnison Copper seeks government cash and partner"
- },
- {
-  "title": "播客：CPM 集团的杰弗里·克里斯蒂安 (Jeffrey Christian) 表示，黄金交易商面临“信贷紧缩”",
-  "url": "",
-  "summary": "本周的节目由 CPM 集团管理合伙人 Jeffrey Christian 与主持人 Adrian Pocobelli 就影响黄金市场的更广泛宏观经济因素进行对话。 Christian 讨论其影响...后播客：黄金交易商面临“信贷紧缩”，ft CPM Group 的 Jeffre",
-  "pub_time": "2026-09-02T15:30:32Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "c38f3ed5d568c2db7de8f2cacfd94419",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Podcast: Gold dealers face ‘credit crunch’, ft CPM Group’s Jeffrey Christian"
  },
  {
   "title": "联合国警告全球变暖将在几年内突破 1.5 摄氏度",
@@ -811,7 +888,7 @@
  {
   "title": "瑞安航空警告一些航空公司可能会因航油价格上涨而苦苦挣扎",
   "url": "",
-  "summary": "欧洲最大的低价航空公司瑞安航空周三降低了冬季客流量目标，以减少未对冲的高油价风险，并警告说，在高油价的情况下，一些对冲较少的竞争对手可能难以在今年冬天生存。自伊朗战争以来，交付量大幅减少",
+  "summary": "欧洲最大的低价航空公司瑞安航空周三降低了冬季客流量目标，以减少未对冲的高油价风险，并警告称，在高油价的情况下，一些对冲较少的竞争对手可能难以在今年冬天生存。自伊朗战争以来，交付量大幅减少",
   "pub_time": "2026-09-02T14:30:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -976,7 +1053,7 @@
  {
   "title": "Core Lithium 完成分拆后，Axiant 登陆澳大利亚证券交易所",
   "url": "",
-  "summary": "800万澳元的流通让投资者可以直接接触Core的黄金和非锂资产，同时Core保留33%的股份。",
+  "summary": "800万澳元的流通让投资者可以直接接触Core的黄金和非锂资产，而Core保留33%的股份。",
   "pub_time": "2026-09-02T11:45:00Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -1066,7 +1143,7 @@
  {
   "title": "必和必拓商务主管因中国铁矿石紧张而辞职",
   "url": "",
-  "summary": "必和必拓 (ASX、LSE、NYSE: BHP) 首席商务官拉格·乌德 (Rag Udd) 将于 1 月底离开这家全球最大的矿业公司，随着中国加大压力，该公司出现了一个重要的领导职位空缺。",
+  "summary": "必和必拓 (ASX、LSE、NYSE: BHP) 首席商务官拉格·乌德 (Rag Udd) 将于 1 月底离开这家全球最大矿业公司，随着中国加大压力，该公司出现了一个重要的领导职位空缺。",
   "pub_time": "2026-09-02T10:59:00Z",
   "source": "NorthernMiner",
   "_cat": "基本金属",
@@ -1659,7 +1736,7 @@
  {
   "title": "AGF Seeds 的 Gretchen 进入麦芽认证程序",
   "url": "",
-  "summary": "澳大利亚谷物协会已接受 Gretchen 进入其麦芽认证程序，这是 AGF Seeds 大麦品种的首次认证。",
+  "summary": "澳大利亚谷物协会 (Grains Australia) 已接受 Gretchen 进入其麦芽认证程序，这是 AGF Seeds 大麦品种的首次认证。",
   "pub_time": "2026-09-02T06:10:08Z",
   "source": "GrainCentral",
   "_cat": "农产品",
@@ -1682,7 +1759,7 @@
   "en_title": "AGF Seeds’ Gretchen enters malt accreditation process"
  },
  {
-  "title": "道格拉斯·达利 (Douglas Daly) 的干草和棉花面临挑战",
+  "title": "道格拉斯·戴利 (Douglas Daly) 的干草和棉花面临挑战",
   "url": "",
   "summary": "当地的需求和稳定的产量使干草成为道格拉斯戴利地区最受欢迎的作物，随着高端农业的发展，这里正在试探棉花和其他作物。",
   "pub_time": "2026-09-02T05:53:40Z",
@@ -1710,7 +1787,7 @@
  {
   "title": "每日市场快讯 2026 年 9 月 2 日",
   "url": "",
-  "summary": "两个故事的全球天气故事。地缘政治提高了谷物和能源战争风险溢价。气温上升使昆士兰变得炎热。",
+  "summary": "Global weather tale of two stories.地缘政治提高了谷物和能源战争风险溢价。 Rising temperature turns up Queensland heat.",
   "pub_time": "2026-09-02T02:05:55Z",
   "source": "GrainCentral",
   "_cat": "农产品",
@@ -2809,7 +2886,7 @@
  {
   "title": "随着原油价格飙升，美联储加息押注增加，金价暴跌",
   "url": "",
-  "summary": "(RTTNews) - 继两个交易日下跌之后，周二金价暴跌，原因是美国和伊朗之间周末发生新的袭击事件后原油价格继续飙升，这增加了美国加息的押注以遏制随之而来的通胀。",
+  "summary": "(RTTNews) - 继两个交易日下跌之后，周二金价暴跌，原因是美国和伊朗之间周末发生新的袭击事件后原油价格继续飙升，这增加了美国加息的押注以遏制随之而来的通货膨胀。",
   "pub_time": "2026-09-01T17:50:21Z",
   "source": "Nasdaq商品",
   "_cat": "贵金属",
@@ -2837,9 +2914,9 @@
   "en_title": "Gold Tumbles As Fed Rate Hike Bets Rise As Crude Oil Price Surge"
  },
  {
-  "title": "美联储加息预期升至 70%，金价抹去 2026 年涨幅，白银下滑",
+  "title": "美联储加息预期攀升至 70%，金价抹去 2026 年涨幅，白银下滑",
   "url": "",
-  "summary": "金价连续三天的下跌几乎抹去了 2026 年的全部涨幅，但矿商正在经历至少自 1994 年以来最好的 8 月份表现。",
+  "summary": "金价连续三天的下跌几乎抹去了 2026 年的全部涨幅，但矿商正在经历至少 1994 年以来最好的 8 月份表现。",
   "pub_time": "2026-09-01T17:25:50Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -2950,61 +3027,6 @@
   "is_elite": false
  },
  {
-  "title": "ACG Metals 在土耳其矿山生产出第一批铜精矿",
-  "url": "",
-  "summary": "该公司将其 Gediktepe 矿从贵金属和锌生产转向铜生产。",
-  "pub_time": "2026-09-01T16:08:55Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "14876cca7c21e93afb07ea84a26036c3",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "铜",
-   "金属"
-  ],
-  "en_title": "ACG Metals produces first copper concentrate at Turkish mine"
- },
- {
-  "title": "由于智利遭受风暴袭击的产量跌至 2011 年低点，铜价停滞不前",
-  "url": "",
-  "summary": "由于交易商在 1 月关税之前不断将金属推入美国，Comex 库存已几乎增加到 LME 仓库中剩余铜的三倍。",
-  "pub_time": "2026-09-01T16:03:22Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "56e292baa3619a4a436cace1c0b20cf4",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "价",
-   "产量"
-  ],
-  "en_title": "Copper price stalls short of record as Chile’s storm-hit output slumps to 2011 low"
- },
- {
   "title": "国际原油期货短线上涨",
   "url": "https://news.mysteel.com/a/26090116/2A9AC8F413913812.html",
   "summary": "",
@@ -3079,34 +3101,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "Sibanye-Stillwater 将在两大洲建设新的铜矿和金矿",
-  "url": "",
-  "summary": "随着金属价格走强提高盈利和股东回报，该矿商正在澳大利亚和南非推进新矿山建设。",
-  "pub_time": "2026-09-01T13:03:00Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "435aecb2cbd16201ce54765f81d2af12",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "铜",
-   "锡"
-  ],
-  "en_title": "Sibanye-Stillwater to build new copper, gold mines on two continents"
  },
  {
   "title": "Mysteel解读：沃什放鹰之后，黄金将怎么走？",
