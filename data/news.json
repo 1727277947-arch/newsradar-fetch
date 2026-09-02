@@ -1,5 +1,97 @@
 [
  {
+  "title": "Mysteel早读：宝钢10月电镀锡（铬）涨150元",
+  "url": "https://news.mysteel.com/a/26090307/1363B86FAF83BEC2.html",
+  "summary": "",
+  "pub_time": "2026-09-03T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "75a7d1142f2b57a01dd31708ce6717d2",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel早读：宝钢10月电镀锡（铬）涨150元，安徽建筑钢材规格加价调整",
+  "url": "https://news.mysteel.com/a/26090307/4A308CA9ED7AA3F0.html",
+  "summary": "",
+  "pub_time": "2026-09-03T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "afaebe3d33c07a8559e99912d084621e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "美国战略石油储备耗尽威胁油价进一步波动",
+  "url": "",
+  "summary": "在波斯湾最近爆发的敌对行动的推动下，原油价格再次上涨，但价格上涨也是因为美国原油库存再次下降，而战略石油储备正接近临界水平。石油库存的重要性凸显",
+  "pub_time": "2026-09-02T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "a1cabf2e7f4560dd8a27d33ee72a0f53",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价"
+  ],
+  "en_title": "U.S. SPR Depletion Threatens Further Oil Price Volatility"
+ },
+ {
+  "title": "白氢钻探推动三大洲势头强劲",
+  "url": "",
+  "summary": "科学家和初创企业相信，自然产生的氢可能成为下一个重大地质突破，释放大量氢来为清洁能源转型提供动力。美国、加拿大和澳大利亚的研究人员正在绘制地图并发现所谓的潜在来源。",
+  "pub_time": "2026-09-02T22:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "8464d9f8a3fe707a973e5d76bcd17bad",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡",
+   "走强"
+  ],
+  "en_title": "White Hydrogen Drilling Push Gains Momentum Across Three Continents"
+ },
+ {
   "title": "美国西南部采矿热潮与用水限制发生冲突",
   "url": "",
   "summary": "华盛顿推动在美国西南部开采更多的铜和锂，但遇到了比允许的更严格的限制：项目是否能够确保足够的水来运行数十年……美国西南部后的采矿热潮与用水限制相冲突，首先出现在《北方矿工》上。",
@@ -233,7 +325,7 @@
   "en_title": "Eldorado eyes bigger McIlvenna Bay copper mill"
  },
  {
-  "title": "随着美国与伊朗的冲突加剧，原油价格飙升，使霍尔木兹海峡重新开放充满不确定性",
+  "title": "随着美国与伊朗的紧张局势加剧，原油价格飙升，使霍尔木兹海峡重新开放充满不确定性",
   "url": "",
   "summary": "(RTTNews) - 原油价格周三大幅上涨，延续了前两个交易日的强劲涨幅，原因是美国昨天开始对伊朗进行第二轮袭击，引发伊朗的强力报复，引发人们对海湾战争旷日持久的担忧加深。报告",
   "pub_time": "2026-09-02T18:37:34Z",
@@ -471,25 +563,6 @@
   "en_title": "The Suspicious Timing Behind Trump's “Biggest Oil Deal In History”"
  },
  {
-  "title": "Mysteel晚餐：唐山钢坯亏损超百元",
-  "url": "https://news.mysteel.com/a/26090217/9F064BC0CC571C7F.html",
-  "summary": "",
-  "pub_time": "2026-09-02T17:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "dcff233af93ddc285e37ac3efa7bafac",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "关键矿产日报：印尼最大镍工业园或减产",
   "url": "https://news.mysteel.com/a/26090217/5726AC44B0D186C4.html",
   "summary": "",
@@ -529,7 +602,7 @@
  },
  {
   "title": "关键矿产日报：印尼最大镍工业园或减产，武铜三期扩建项目投产",
-  "url": "https://news.mysteel.com/a/26090217/AAD1C05805C76639.html",
+  "url": "https://news.mysteel.com/a/26090217/B3B8D85D36056D7F.html",
   "summary": "",
   "pub_time": "2026-09-02T17:00:00Z",
   "source": "上海钢联Mysteel",
@@ -611,7 +684,7 @@
   "en_title": "Hormuz Traffic Craters to Four Ships as Iran-U.S. Strikes Escalate"
  },
  {
-  "title": "了解 Silvercorp Metals 如何跻身分析师首选金属之列",
+  "title": "了解 Silvercorp Metals 如何跻身分析师首选金属行列",
   "url": "",
   "summary": "根据 Metals Channel 的数据，对主要经纪公司的分析师推荐进行的研究显示，Silvercorp Metals Inc（代码：SVM）在构成 Metals Channel 全球矿业巨头指数的 50 只股票中平均排名第 32 名。金属频道GL",
   "pub_time": "2026-09-02T16:09:26Z",
@@ -640,7 +713,7 @@
  {
   "title": "美国特使在上海合作组织峰会期间访问中亚",
   "url": "",
-  "summary": "美国特朗普政府的两名高级特使闯入在吉尔吉斯斯坦首都比什凯克举行的上海合作组织峰会，与中亚高级领导人举行会谈，破坏了与会者之间团结一致的形象。上合组织峰会的主要参与者包括",
+  "summary": "美国特朗普政府的两名高级特使闯入在吉尔吉斯斯坦首都比什凯克举行的上海合作组织峰会，与中亚高级领导人举行会谈，破坏了与会者之间团结一致的表现。上合组织峰会的主要参与者包括",
   "pub_time": "2026-09-02T16:00:00Z",
   "source": "Oilprice.com",
   "_cat": "基本金属",
@@ -1025,35 +1098,9 @@
   "is_elite": false
  },
  {
-  "title": "哈萨克斯坦计划到 2040 年将炼油能力提高一倍",
-  "url": "",
-  "summary": "哈萨克斯坦能源部周三表示，该国计划通过扩大现有产能和建设一座大型新炼油厂，到 2040 年将其原油炼制能力从目前水平增加一倍以上，并援引该国政府 2025-2040 年提高燃料产量的计划。哈萨克斯坦，主要原油生产国",
-  "pub_time": "2026-09-02T12:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "a72f48e23dc3a362deb6605f453d8c9f",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Kazakhstan to Double Oil Refining Capacity by 2040"
- },
- {
   "title": "Core Lithium 完成分拆后，Axiant 登陆澳大利亚证券交易所",
   "url": "",
-  "summary": "800万澳元的流通让投资者可以直接接触Core的黄金和非锂资产，而Core保留33%的股份。",
+  "summary": "800万澳元的流通让投资者可以直接接触Core的黄金和非锂资产，同时Core保留33%的股份。",
   "pub_time": "2026-09-02T11:45:00Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -1116,7 +1163,7 @@
  {
   "title": "必和必拓商务主管因中国铁矿石紧张而辞职",
   "url": "",
-  "summary": "拉格·乌德（Rag Udd）的离职给新任首席执行官布兰登·克雷格（Brandon Craig）留下了一个重要的领导职位空缺，因为北京方面正在敦促矿工争取更好的条件。",
+  "summary": "拉格·乌德（Rag Udd）的离职给新任首席执行官布兰登·克雷格（Brandon Craig）留下了一个重要的领导空缺，因为北京方面正在敦促矿工争取更好的条件。",
   "pub_time": "2026-09-02T10:59:00Z",
   "source": "Mining.com",
   "_cat": "基本金属",
@@ -1143,7 +1190,7 @@
  {
   "title": "必和必拓商务主管因中国铁矿石紧张而辞职",
   "url": "",
-  "summary": "必和必拓 (ASX、LSE、NYSE: BHP) 首席商务官拉格·乌德 (Rag Udd) 将于 1 月底离开这家全球最大矿业公司，随着中国加大压力，该公司出现了一个重要的领导职位空缺。",
+  "summary": "必和必拓 (ASX、LSE、NYSE: BHP) 首席商务官拉格·乌德 (Rag Udd) 将于 1 月底离开这家全球最大的矿业公司，随着中国加大压力，该公司出现了一个重要的领导职位空缺。",
   "pub_time": "2026-09-02T10:59:00Z",
   "source": "NorthernMiner",
   "_cat": "基本金属",
@@ -1194,25 +1241,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "5bc87313f12e6105b0ce551d110b346b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：39家上市煤企公布上半年业绩，近七成盈利",
-  "url": "https://news.mysteel.com/a/26090210/A12BB37932EC63A0.html",
-  "summary": "",
-  "pub_time": "2026-09-02T10:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "e9fa08dbfc883719d0ae97640c5d5b89",
   "score": 80,
   "priority": "P1",
   "topic": "国内/金融政策",
@@ -1677,13 +1705,13 @@
   "is_elite": false
  },
  {
-  "title": "莫迪再次呼吁：印度人非必要不要买黄金，不要出国旅游",
-  "url": "https://news.mysteel.com/a/26090208/AADE96BC0B4A09F5.html",
+  "title": "瑞银：不改中期黄金看涨逻辑",
+  "url": "https://news.mysteel.com/a/26090208/E4EC618EB959A6EF.html",
   "summary": "",
   "pub_time": "2026-09-02T08:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "cb62c3fb2f68a76e9daf1ae3e0b2fd77",
+  "dedup_key": "41dee589e9795c97943ea6cdfa645b80",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1696,13 +1724,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞银：不改中期黄金看涨逻辑",
-  "url": "https://news.mysteel.com/a/26090208/E4EC618EB959A6EF.html",
+  "title": "莫迪再次呼吁：印度人非必要不要买黄金，不要出国旅游",
+  "url": "https://news.mysteel.com/a/26090208/A25710EC4CE88F0E.html",
   "summary": "",
   "pub_time": "2026-09-02T08:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "41dee589e9795c97943ea6cdfa645b80",
+  "dedup_key": "cb62c3fb2f68a76e9daf1ae3e0b2fd77",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1736,7 +1764,7 @@
  {
   "title": "AGF Seeds 的 Gretchen 进入麦芽认证程序",
   "url": "",
-  "summary": "澳大利亚谷物协会 (Grains Australia) 已接受 Gretchen 进入其麦芽认证程序，这是 AGF Seeds 大麦品种的首次认证。",
+  "summary": "澳大利亚谷物协会已接受 Gretchen 进入其麦芽认证程序，这是 AGF Seeds 大麦品种的首次认证。",
   "pub_time": "2026-09-02T06:10:08Z",
   "source": "GrainCentral",
   "_cat": "农产品",
@@ -1759,7 +1787,7 @@
   "en_title": "AGF Seeds’ Gretchen enters malt accreditation process"
  },
  {
-  "title": "道格拉斯·戴利 (Douglas Daly) 的干草和棉花面临挑战",
+  "title": "道格拉斯·达利 (Douglas Daly) 的干草和棉花面临挑战",
   "url": "",
   "summary": "当地的需求和稳定的产量使干草成为道格拉斯戴利地区最受欢迎的作物，随着高端农业的发展，这里正在试探棉花和其他作物。",
   "pub_time": "2026-09-02T05:53:40Z",
@@ -1787,7 +1815,7 @@
  {
   "title": "每日市场快讯 2026 年 9 月 2 日",
   "url": "",
-  "summary": "Global weather tale of two stories.地缘政治提高了谷物和能源战争风险溢价。 Rising temperature turns up Queensland heat.",
+  "summary": "两个故事的全球天气故事。地缘政治提高了谷物和能源战争风险溢价。气温上升使昆士兰变得炎热。",
   "pub_time": "2026-09-02T02:05:55Z",
   "source": "GrainCentral",
   "_cat": "农产品",
@@ -2663,7 +2691,7 @@
  {
   "title": "社论：钱已经到了",
   "url": "",
-  "summary": "尽管加美贸易争端急剧升级，但在加拿大总理马克·卡尼 (Mark Carney) 9 月 14 日至 15 日在多伦多举行投资峰会之前，全球投资者已经开始用钱包投票。总计... 社论：钱已经到了，首先出现在《北方矿工》上。",
+  "summary": "尽管加美贸易争端急剧升级，但在加拿大总理马克·卡尼 (Mark Carney) 9 月 14 日至 15 日在多伦多举行投资峰会之前，全球投资者已经开始用钱包投票。总计... 这篇社论：钱已经到了，首先出现在《北方矿工》上。",
   "pub_time": "2026-09-01T19:15:00Z",
   "source": "NorthernMiner",
   "_cat": "基本金属",
@@ -4097,59 +4125,5 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "BOM 每周降雨量更新（2026 年 9 月 1 日）+ 展望",
-  "url": "",
-  "summary": "过去一周，CQ 粮带的所有地区都出现了超过 15 毫米的零星降雨，但预计下周只有南部地区会出现降雨。",
-  "pub_time": "2026-08-31T23:06:38Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "3bafd07c6773106ddbb78c0325e9fe3c",
-  "score": 84,
-  "priority": "P1",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "下跌",
-   "周",
-   "展望"
-  ],
-  "en_title": "BOM weekly rainfall update 1 Sep 2026 + outlook"
- },
- {
-  "title": "南方温和的冬季提振了 ABARES 小麦、大麦、油菜籽产量",
-  "url": "",
-  "summary": "在澳大利亚南部经历温和潮湿的冬季后，ABARES 上调了小麦、大麦和油菜籽的产量预测。",
-  "pub_time": "2026-08-31T22:10:18Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "162fb09833fb4fb13956e96f8897941f",
-  "score": 84,
-  "priority": "P1",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "小麦"
-  ],
-  "en_title": "South’s kind winter lifts ABARES wheat, barley, canola figures"
  }
 ]
