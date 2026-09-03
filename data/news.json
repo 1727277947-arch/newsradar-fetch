@@ -1,8 +1,8 @@
 [
  {
-  "title": "“完美风暴”袭击航运业，波罗的海干散货运价指数爆发",
+  "title": "波罗的海干旱指数以“完美风暴”命中航运爆发",
   "url": "",
-  "summary": "据彭博社报道，台风正在挤压海岬型船舶的供应，而矿业公司则增加了铁矿石在全球的运输量，衡量全球主要航线运输原材料成本的每日基准本周突破近三年高点。",
+  "summary": "本周，衡量全球主要海运航线原材料运输成本的每日基准正在突破近三年高点，正如彭博社报道的那样，台风正在挤压海岬型船只的供应，而矿业公司正在增加全球铁矿石的出货量",
   "pub_time": "2026-09-03T20:00:00Z",
   "source": "Oilprice.com",
   "_cat": "黑色系",
@@ -23,6 +23,32 @@
    "黑色系"
   ],
   "en_title": "Baltic Dry Index Breaks Out as a “Perfect Storm” Hits Shipping"
+ },
+ {
+  "title": "SW美国首席执行官聊天：艾芬豪电气为亚利桑那铜矿项目绘制了10亿美元债务路径",
+  "url": "",
+  "summary": "艾芬豪电气 (NYSE-A, TSX: IE) 首席执行官泰勒·梅尔文 (Taylor Melvin) 表示，该公司的目标是在圣克鲁斯开始早期建设时获得超过 10 亿美元的美国支持债务......西南美国首席执行官后聊天：艾芬豪电气为亚利桑那州铜矿项目绘制了 10 亿美元债务路径，首先出现在北密歇根州",
+  "pub_time": "2026-09-03T19:35:35Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "8126b3d5d81a986826bec93b8d2b58f3",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜"
+  ],
+  "en_title": "SW US CEO chat: Ivanhoe Electric maps $1B debt path for Arizona copper project"
  },
  {
   "title": "SW美国首席执行官聊天：凯普斯通致力于长期发展亚利桑那州矿山",
@@ -50,35 +76,9 @@
   "en_title": "SW US CEO chat: Capstone devoted to Arizona mine for long haul"
  },
  {
-  "title": "SW美国首席执行官聊天：艾芬豪电气为亚利桑那铜矿项目绘制了10亿美元债务路径",
+  "title": "电动卡车从不可能变为不可避免",
   "url": "",
-  "summary": "艾芬豪电气 (NYSE-A, TSX: IE) 首席执行官泰勒·梅尔文 (Taylor Melvin) 表示，该公司的目标是在圣克鲁斯开始早期建设时获得超过 10 亿美元的美国支持债务......西南美国首席执行官后聊天：艾芬豪电气为亚利桑那州铜矿项目绘制了 10 亿美元债务路径，首先出现在北密歇根州",
-  "pub_time": "2026-09-03T19:00:35Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "8126b3d5d81a986826bec93b8d2b58f3",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "SW US CEO chat: Ivanhoe Electric maps $1B debt path for Arizona copper project"
- },
- {
-  "title": "电动卡车已从不可能变为必然",
-  "url": "",
-  "summary": "重型卡车本应是电池停止工作的地方。批评者承认，电动汽车可以管理学校跑步和通勤。但长途货运需要航程、快速加油和最大有效载荷。电池太大、太重并且充电太慢。公共汽车可能",
+  "summary": "重型卡车应该是电池停止工作的地方。批评者承认，电动汽车可以管理学校的运行和通勤。但长途货运需要航程、快速加油和最大有效载荷。电池太大、太重、充电太慢。公交车可能会",
   "pub_time": "2026-09-03T19:00:00Z",
   "source": "Oilprice.com",
   "_cat": "基本金属",
@@ -101,9 +101,9 @@
   "en_title": "Electric Trucks Have Moved From Impossible to Inevitable"
  },
  {
-  "title": "随着霍尔木兹危机的持续，原油价格走高，而特朗普暗示将对伊朗进行新的打击",
+  "title": "随着霍尔木兹危机的拖累，原油价格走高，而特朗普发出对伊朗的新罢工信号",
   "url": "",
-  "summary": "(RTTNews) - 原油价格周四小幅走高，回吐最初的涨幅，反映出美国总统唐纳德·特朗普表示对伊朗的新一波打击仅持续有限时间后，美伊局势再度升级，供应中断的担忧加剧。",
+  "summary": "（ RTTNews ） -美国总统唐纳德·特朗普表示，对伊朗的新一轮罢工只是在有限的时间内进行，此后，原油价格周四小幅上涨，回吐了最初的收益，反映出美伊局势再度升级导致供应中断的担忧。",
   "pub_time": "2026-09-03T18:39:42Z",
   "source": "Nasdaq商品",
   "_cat": "能源",
@@ -154,7 +154,7 @@
   "en_title": "Dutch slash New York gold in crisis shift"
  },
  {
-  "title": "玉米基生物塑料每年可增加 66 亿蒲式耳的需求",
+  "title": "玉米基生物塑料可增加66亿蒲式耳年需求量",
   "url": "",
   "summary": "",
   "pub_time": "2026-09-03T18:22:00Z",
@@ -181,9 +181,9 @@
   "en_title": "Corn-Based Bioplastics Could Add 6.6 Billion Bushels of Annual Demand"
  },
  {
-  "title": "亚洲峰会气氛低迷加剧了习近平和特朗普之间的对比",
+  "title": "温和的亚洲峰会加深了习近平和特朗普之间的对比",
   "url": "",
-  "summary": "对于中国领导人习近平来说，这是一次相对低调的上海合作组织峰会。他离开主办城市比什凯克时，并没有成为引人注目的头条新闻。与 2025 年在习近平家乡中国城市 T 举行的上合组织峰会不同，此次会议没有重大公告或病毒式传播时刻。",
+  "summary": "对于中国领导人习近平来说，这是一次相对平静的上海合作组织峰会。他离开主办城市比什凯克时，几乎没有什么引人注目的头条新闻。没有重大公告或病毒时刻，与2025年在中国城市T的习近平家园举行的上合组织峰会不同",
   "pub_time": "2026-09-03T18:00:00Z",
   "source": "Oilprice.com",
   "_cat": "基本金属",
@@ -244,9 +244,9 @@
   "is_elite": false
  },
  {
-  "title": "美联储加息押注开始降低，美元下跌，金价飙升",
+  "title": "美联储加息押注开始走低后美元下滑，金价飙升",
   "url": "",
-  "summary": "(RTTNews) - 在美联储理事克里斯托弗·沃勒 (Christopher Waller) 发表鸽派言论后，金价周四大幅上涨，进一步推动了昨日的温和上涨。此外，昨天弱于预期的就业数据给加息预期蒙上了阴影。",
+  "summary": "（ RTTNews ） -在美联储理事克里斯托弗·沃勒（ Christopher Waller ）发表鸽派言论后，周四金价飙升，加上昨日股市温和上涨。此外，昨天的就业数据弱于预期，给加息的预期蒙上了阴影。",
   "pub_time": "2026-09-03T17:39:49Z",
   "source": "Nasdaq商品",
   "_cat": "贵金属",
@@ -272,9 +272,9 @@
   "en_title": "Gold Surges As U.S. Dollar Slides After Fed Rate Hike Bets Begin To Lower"
  },
  {
-  "title": "法拉第钻探提振亚利桑那州阴极铜案例",
+  "title": "法拉第钻探提升亚利桑那州铜阴极外壳",
   "url": "",
-  "summary": "首席执行官表示，这些结果支持了“扩大铜溪近地表矿化”的潜力。",
+  "summary": "首席执行官表示，这些结果支持“扩大铜溪近地表矿化”的潜力。",
   "pub_time": "2026-09-03T17:38:00Z",
   "source": "Mining.com",
   "_cat": "基本金属",
@@ -298,9 +298,9 @@
   "en_title": "Faraday drilling boosts Arizona copper cathode case"
  },
  {
-  "title": "高油价加速中国远离原油的步伐",
+  "title": "高油价加速了中国摆脱原油的转变",
   "url": "",
-  "summary": "由于昂贵的原油加速了电动汽车、卡车、铁路和工业设备的使用，中国第二季度石油消费量同比下降9%。根据中国科学院研究中心的分析，这一下降帮助中国本季度二氧化碳排放量减少了 1%。",
+  "summary": "第二季度，由于昂贵的原油加速了电动汽车、卡车、铁路和工业设备的使用，中国的石油消费量同比下降了9%。根据研究中心的一项分析，这一下降帮助中国本季度的二氧化碳排放量减少了1%。",
   "pub_time": "2026-09-03T17:30:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -325,9 +325,9 @@
   "en_title": "High Oil Prices Speed Up China’s Shift Away From Crude"
  },
  {
-  "title": "巴西将矿业交易控制权交给政府",
+  "title": "巴西由政府控制矿业交易",
   "url": "",
-  "summary": "巴西国会周三通过了一项法案，让政府阻止外国收购矿业公司，并审查谁有权获得该国的矿产储备……但问题是……巴西仍然无法将其稀土矿石变成一块磁铁，而且在未来几年内都无法做到。这些",
+  "summary": "巴西国会周三通过了一项法案，允许政府阻止外国收购矿业公司，并审查谁可以获得该国的矿产储量……但问题是……巴西仍然无法将其稀土矿石变成一块磁铁，而且多年来也无法做到这一点。",
   "pub_time": "2026-09-03T17:00:00Z",
   "source": "Oilprice.com",
   "_cat": "基本金属",
@@ -445,7 +445,7 @@
   "is_elite": false
  },
  {
-  "title": "法拉第钻探提振亚利桑那州阴极铜案例",
+  "title": "法拉第钻探提升亚利桑那州铜阴极外壳",
   "url": "",
   "summary": "法拉第铜业 (TSX: FDY; US-OTC: CPPKF) 表示，其位于亚利桑那州的 Copper Creek 项目的钻探已扩大了浅层氧化物和硫化物矿化范围，增强了未来阴极铜生产的理由...法拉第钻探后的亚利桑那州阴极铜案例首先出现在 The Nort 上",
   "pub_time": "2026-09-03T16:38:53Z",
@@ -471,9 +471,34 @@
   "en_title": "Faraday drilling boosts Arizona copper cathode case"
  },
  {
-  "title": "马查多支持美国石油合作伙伴关系，但质疑委内瑞拉协议",
+  "title": "哥伦比亚废除10项采矿规则以吸引投资者",
   "url": "",
-  "summary": "委内瑞拉反对派领导人玛丽亚·科里纳·马查多支持美国在开发该国石油储备方面发挥长期作用，尽管她质疑谁有权签署代理总统德尔西·罗德里格斯宣布的全面协议。马查多周四表示，该协议的范围",
+  "summary": "哥伦比亚新​​政府废除了 10 项限制自然资源勘探和开采的决议，加速了总统阿韦拉多·德拉埃斯普里埃拉 (Abelardo De La Espriella) 推动重振矿业投资并释放该国大部分未开发资源的努力……哥伦比亚废除 10 项采矿规则以吸引投资者",
+  "pub_time": "2026-09-03T16:37:00Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "726a5051282d8651b899c58163e691d4",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Colombia scraps 10 mining rules to attact investors"
+ },
+ {
+  "title": "马查多支持美国的石油伙伴关系，但质疑委内瑞拉的交易",
+  "url": "",
+  "summary": "委内瑞拉反对派领导人玛丽亚·科里纳·马查多（ María Corina Machado ）支持美国在开发该国石油储备方面发挥长期作用，尽管她质疑谁有权签署代理总统德尔西·罗德里格斯（ Delcy Rodríguez ）宣布的全面协议。马查多周四表示，协议的范围",
   "pub_time": "2026-09-03T16:30:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -497,7 +522,7 @@
   "en_title": "Machado Backs U.S. Oil Partnership but Questions Venezuela Deal"
  },
  {
-  "title": "伊利诺伊州大豆协会宣布 2027 年 LEAD 等级",
+  "title": "伊利诺伊州大豆协会宣布2027年LEAD课程",
   "url": "",
   "summary": "",
   "pub_time": "2026-09-03T16:14:00Z",
@@ -524,9 +549,9 @@
   "en_title": "Illinois Soybean Association Announces 2027 LEAD Class"
  },
  {
-  "title": "石油危机扰乱全球市场，英国借贷成本飙升",
+  "title": "随着石油冲击震撼全球市场，英国借贷成本激增",
   "url": "",
-  "summary": "国际货币基金组织表示，随着英国债券收益率达到金融危机以来的水平，全球借贷成本上升是一个“特别令人担忧的问题”。周三上午，英国 10 年期国债收益率攀升 4 个基点，至接近 5.27%，此前的收益率为",
+  "summary": "国际货币基金组织（ IMF ）表示，随着英国债券收益率达到金融危机中最后一次出现的水平，全球借贷成本的上升是一个“特别令人担忧的问题”。10年期英国金边债券的收益率在周三上午上涨了4个基点，接近5.27% ，此前",
   "pub_time": "2026-09-03T16:00:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -589,9 +614,9 @@
   "is_elite": false
  },
  {
-  "title": "了解 Steel Dynamics 在分析师首选金属中的排名",
+  "title": "了解钢铁动态如何在分析师的顶级金属精选中排名",
   "url": "",
-  "summary": "根据 Metals Channel 的数据，对主要券商的分析师推荐进行的研究显示，Steel Dynamics Inc.（代码：STLD）在构成 Metals Channel 全球矿业巨头指数的 50 只股票中平均排名第 40 名。环球金属频道",
+  "summary": "根据Metals Channel的数据，对主要经纪公司分析师建议的研究表明， Steel Dynamics Inc. （符号： STLD ）是构成Metals Channel Global Mining Titans Index的50只股票中平均排名第40位的经纪商分析师。Metals Channel Glo",
   "pub_time": "2026-09-03T15:49:15Z",
   "source": "Nasdaq商品",
   "_cat": "黑色系",
@@ -616,9 +641,9 @@
   "en_title": "See How Steel Dynamics Ranks Among Analysts' Top Metals Picks"
  },
  {
-  "title": "挪威扣押俄罗斯游轮以执行 Naftogaz 的 42.2 亿美元索赔",
+  "title": "挪威扣押俄罗斯游轮以执行Naftogaz的42.2亿美元索赔",
   "url": "",
-  "summary": "应乌克兰石油和天然气公司 Naftogaz 的要求，挪威在斯瓦尔巴群岛扣押了一艘俄罗斯商业游轮，该公司正在寻求执行俄罗斯吞并克里米亚时征用资产的 42.2 亿美元裁决。 “应 Naftogaz 集团的要求，挪威当局",
+  "summary": "应乌克兰石油和天然气公司Naftogaz的要求，挪威在斯瓦尔巴群岛附近扣押了一艘俄罗斯商业游轮，该公司正在寻求执行一项42.2亿美元的裁决，该裁决涉及俄罗斯在吞并克里米亚时的资产征用。“应Naftogaz集团的要求，挪威当局",
   "pub_time": "2026-09-03T15:30:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -641,9 +666,9 @@
   "en_title": "Norway Seizes Russian Cruise Ship to Enforce Naftogaz's $4.22 Billion Claim"
  },
  {
-  "title": "美国造币厂的特朗普金币售罄——不含任何实际黄金",
+  "title": "美国铸币局的特朗普金币售罄—没有任何实际的黄金",
   "url": "",
-  "summary": "该硬币是为了庆祝美国成立 250 周年而推出的，金色硬币上刻有特朗普的头像。",
+  "summary": "这枚硬币是为了庆祝美国建国250周年而推出的，特朗普以金色硬币为特色。",
   "pub_time": "2026-09-03T15:17:50Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -667,9 +692,9 @@
   "en_title": "US Mint’s Trump gold coin sells out — without any actual gold"
  },
  {
-  "title": "美国柴油价格飙升至历史新高",
+  "title": "美国柴油价格飙升至历史高位",
   "url": "",
-  "summary": "AAA 的数据显示，周四美国柴油平均价格达到每加仑 5.7832 美元，仅比 2022 年 6 月中旬创下的历史新高 5.8159 美元低 3 美分，当时俄罗斯入侵乌克兰导致燃油价格创下历史新高。美国全国平均汽油价格",
+  "summary": "美国AAA的数据显示，周四美国柴油平均价格达到每加仑5.7832 $ ，仅比2022年6月中旬创纪录的5.8159 $低3美分，当时俄罗斯入侵乌克兰使燃料价格创下历史新高。美国全国平均汽油价格",
   "pub_time": "2026-09-03T15:00:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -694,9 +719,9 @@
   "en_title": "U.S. Diesel Prices Surge Toward All-Time High"
  },
  {
-  "title": "乌拉尔油价跌至 59 美元，俄罗斯石油收入下降",
+  "title": "随着乌拉尔石油价格下跌至59 $ ，俄罗斯的石油收入下降",
   "url": "",
-  "summary": "俄罗斯8月份石油净收入为3262亿卢布，约合37.6亿美元，同比下降22%，为2月份以来的最低月度总额。俄罗斯税务机关使用每桶略高于 59 美元的原油价格计算 8 月份石油收入。乌拉尔是俄罗斯主要出口地区",
+  "summary": "俄罗斯8月份的净石油收入为3262亿卢布，约合37.6亿美元，比去年同期下降22% ，是2月以来的最低月度总收入。俄罗斯税务机关使用每桶略高于59美元的原油价格计算了8月份的石油收入。乌拉尔，俄罗斯的主要出口产品",
   "pub_time": "2026-09-03T15:00:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -778,9 +803,9 @@
   "is_elite": false
  },
  {
-  "title": "俄罗斯称炼油厂重启导致石油产量下降是暂时的",
+  "title": "俄罗斯表示，由于炼油厂重启，石油产量下降是暂时的",
   "url": "",
-  "summary": "副总理亚历山大·诺瓦克周四表示，俄罗斯石油产量的下降只是暂时的，一旦炼油厂在计划外维护后恢复生产，产量预计将恢复。 “这是暂时的现象，一般来说，随着炼油厂的建设，石油产量将会增加",
+  "summary": "俄罗斯副总理亚历山大·诺瓦克(Alexander Novak)周四表示，俄罗斯石油产量的下降只是暂时的，因为一旦炼油厂在计划外维护后重新上线，产量预计将恢复。“这是一个暂时的现象，一般来说，随着炼油厂的发展，石油产量将增加。",
   "pub_time": "2026-09-03T14:30:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -806,9 +831,9 @@
   "en_title": "Russia Says Oil Output Drop Is Temporary as Refineries Restart"
  },
  {
-  "title": "莱比锡无人机袭击后欧盟誓言对俄罗斯采取更严厉措施",
+  "title": "欧盟誓言在莱比锡无人机袭击后采取更严厉的俄罗斯措施",
   "url": "",
-  "summary": "欧盟委员会主席乌尔苏拉·冯德莱恩 (Ursula von der Leyen) 9 月 2 日表示，莱比锡机场最近发生的载有爆炸物的无人机中断航班的事件已成为“新常态”，并誓言对莫斯科采取更多限制性措施。 “莱比锡标志着欧洲土地上的新一轮升级，直接归因于",
+  "summary": "欧盟委员会主席乌苏拉·冯德莱恩（ Ursula von der Leyen ） 9月2日表示，最近在莱比锡机场发生的爆炸性无人机中断航班的事件是“新常态” ，并誓言对莫斯科采取更严格的措施。“莱比锡标志着欧洲土地上的新升级，直接归因于",
   "pub_time": "2026-09-03T14:00:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -888,9 +913,9 @@
   "is_elite": false
  },
  {
-  "title": "日本油轮巨头警告称，霍尔木兹海峡的中断可能会持续到明年",
+  "title": "日本油轮巨头警告说， Hormuz中断可能会拖入明年",
   "url": "",
-  "summary": "全球最大的油轮运营商日本商船三井预计，由于本周敌对行动重新升级，霍尔木兹海峡的航运中断将持续比之前预期更长的时间，而且到年底也不会恢复正常。 “鉴于目前的情况，",
+  "summary": "全球最大的油轮运营商日本三井油轮公司（ Mitsui OSK Lines ）预计，由于本周敌对行动重新升级，霍尔木兹海峡（ Strait of Hormuz ）的航运中断将持续比此前预期的时间更长，到今年年底不会正常化。“鉴于目前的情况，这是",
   "pub_time": "2026-09-03T13:00:00Z",
   "source": "Oilprice.com",
   "_cat": "基本金属",
@@ -1046,9 +1071,9 @@
   "is_elite": false
  },
  {
-  "title": "美元疲软、收益率下降，金价飙升",
+  "title": "美元贬值、收益率下降导致黄金价格飙升",
   "url": "",
-  "summary": "(RTTNews) - 周四金价大幅走高，因美国国债收益率从多年高位回落，油价在连续三天上涨后企稳，有助于缓解通胀和利率担忧。",
+  "summary": "（ RTTNews ） -周四金价大幅走高，原因是美国国债收益率从多年高点回落，油价在三天反弹后稳定下来，有助于缓解通胀和利率担忧。",
   "pub_time": "2026-09-03T09:41:18Z",
   "source": "Nasdaq商品",
   "_cat": "贵金属",
@@ -1073,9 +1098,9 @@
   "en_title": "Gold Surges On Weaker Dollar, Lower Yields"
  },
  {
-  "title": "油价连续三天上涨后企稳",
+  "title": "三天反弹后的油价稳定",
   "url": "",
-  "summary": "(RTTNews) - 油价在早些时候攀升至一个多月高位后，周四保持稳定。",
+  "summary": "（ RTTNews ） -油价在周四攀升至一个多月高点后保持稳定。",
   "pub_time": "2026-09-03T09:29:36Z",
   "source": "Nasdaq商品",
   "_cat": "能源",
@@ -2298,9 +2323,9 @@
   "is_elite": false
  },
  {
-  "title": "格陵兰矿业完成对 Sarfartoq 稀土磁体项目的收购",
+  "title": "Greenland Mines完成对Sarfartoq稀土磁铁项目的收购",
   "url": "",
-  "summary": "该公司称 Sarfartoq 为岛上“最先进、最引人注目的稀土项目”之一，理由是其高品位性质和有利的北极物流。",
+  "summary": "该公司称Sarfartoq是该岛“最先进和最引人注目的稀土项目”之一，理由是其高档性质和有利的北极物流。",
   "pub_time": "2026-09-02T23:48:07Z",
   "source": "Mining.com",
   "_cat": "基本金属",
@@ -2374,9 +2399,9 @@
   "en_title": "SW US CEO chat: Gunnison Copper seeks government cash and partner"
  },
  {
-  "title": "基金经理表示，以美元为中心的世界末日即将到来，黄金将取代部分债券",
+  "title": "基金经理表示，以美元为中心的世界即将结束，黄金将取代一些债券",
   "url": "",
-  "summary": "威廉·米德尔科普 (Willem Middelkoop) 表示，我们正处于大宗商品世代繁荣市场的早期阶段。",
+  "summary": "Willem Middelkoop表示，我们正处于大宗商品世代繁荣市场的早期阶段。",
   "pub_time": "2026-09-02T20:23:21Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -2400,9 +2425,9 @@
   "en_title": "End of a dollar-centered world nears, gold to replace some bonds, fund manager says"
  },
  {
-  "title": "美国林务局签署了亚利桑那州 South32 Hermosa 的采矿计划",
+  "title": "美国林务局批准South32 Hermosa在亚利桑那州的采矿计划",
   "url": "",
-  "summary": "赫莫萨 (Hermosa) 拥有世界上最大的未开发锌矿床之一、电池级锰矿床和新兴的 Peak 铜矿发现地。",
+  "summary": "Hermosa拥有世界上最大的未开发锌矿床之一、电池级锰矿床和新兴的Peak铜矿。",
   "pub_time": "2026-09-02T20:02:58Z",
   "source": "Mining.com",
   "_cat": "基本金属",
@@ -2451,7 +2476,7 @@
   "en_title": "Podcast: Gold dealers face ‘credit crunch’, ft CPM Group’s Jeffrey Christian"
  },
  {
-  "title": "研究发现，大豆蛋白与锌和硫含量有关",
+  "title": "与锌和硫水平相关的大豆蛋白，研究结果",
   "url": "",
   "summary": "",
   "pub_time": "2026-09-02T19:03:00Z",
@@ -2478,9 +2503,9 @@
   "en_title": "Soybean Protein Linked to Zinc and Sulfur Levels, Study Finds"
  },
  {
-  "title": "埃尔多拉多希望扩大麦克尔文纳湾铜厂",
+  "title": "埃尔多拉多眼中更大的麦克伊尔文纳湾铜磨坊",
   "url": "",
-  "summary": "该作业预计平均生产 4100 万磅铜、20,000 盎司铜。黄金和 444,000 盎司。每年白银。",
+  "summary": "该业务预计每年平均有4100万磅铜、20,000盎司黄金和44.4万盎司白银。",
   "pub_time": "2026-09-02T19:00:00Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -2504,7 +2529,7 @@
   "en_title": "Eldorado eyes bigger McIlvenna Bay copper mill"
  },
  {
-  "title": "埃尔多拉多希望扩大麦克尔文纳湾铜厂",
+  "title": "埃尔多拉多眼中更大的麦克伊尔文纳湾铜磨坊",
   "url": "",
   "summary": "随着萨斯喀彻温省铜锌金银矿逐步走向商业化，埃尔多拉多黄金公司（多伦多证券交易所股票代码：ELD；纽约证券交易所股票代码：EGO）正在研究将其麦克尔文纳湾加工厂扩建 43%，并建设一条新的银铅线路。",
   "pub_time": "2026-09-02T19:00:00Z",
@@ -2530,9 +2555,9 @@
   "en_title": "Eldorado eyes bigger McIlvenna Bay copper mill"
  },
  {
-  "title": "随着美国与伊朗的冲突加剧，原油价格飙升，使霍尔木兹海峡重新开放充满不确定性",
+  "title": "随着美国和伊朗的爆发加剧，原油激增，使霍尔木兹重新开放不确定",
   "url": "",
-  "summary": "(RTTNews) - 原油价格周三大幅上涨，延续了前两个交易日的强劲涨幅，原因是美国昨天开始对伊朗进行第二轮袭击，引发伊朗的强力报复，引发人们对海湾战争旷日持久的担忧加深。报告",
+  "summary": "（ RTTNews ） -原油价格周三上涨，增加了前两次会议的强劲增长，因为在美国昨天开始对伊朗发动第二轮袭击后，对旷日持久的海湾战争的担忧加深，促使伊朗采取强有力的报复行动。",
   "pub_time": "2026-09-02T18:37:34Z",
   "source": "Nasdaq商品",
   "_cat": "能源",
@@ -2557,9 +2582,9 @@
   "en_title": "Crude Oil Surges As U.S.-Iran Flare-Up Intensifies, Leaving Hormuz Reopening Uncertain"
  },
  {
-  "title": "铜并不缺，只是缺错了地方",
+  "title": "铜不缺，只是放错地方了",
   "url": "",
-  "summary": "路透社专栏作家安迪·霍姆 (Andy Home) 在《北方矿业》播客中带来了他对铜和不断变化的金属市场的分析。",
+  "summary": "路透社专栏作家Andy Home在Northern Miner播客中介绍了他对铜和不断变化的金属市场的分析。",
   "pub_time": "2026-09-02T18:27:22Z",
   "source": "Mining.com",
   "_cat": "基本金属",
@@ -2584,9 +2609,9 @@
   "en_title": "There’s no shortage of copper, it’s just in the wrong place"
  },
  {
-  "title": "ADP数据超越美伊冲突引发的通胀担忧，金价上涨",
+  "title": "由于美伊冲突， ADP数据超越通货膨胀担忧，金价上涨",
   "url": "",
-  "summary": "(RTTNews) - 周三金价小幅走高，小幅抵消前三个交易日的跌幅，因美国与伊朗关系再度升级，美国私人就业数据弱于预期，降低了美联储加息的预期。",
+  "summary": "（ RTTNews ） -周三金价小幅上涨，适度抵消了前三次的损失，此前美国私人就业数据弱于预期，降低了美联储加息的预期，原因是美伊关系再度升级",
   "pub_time": "2026-09-02T17:45:21Z",
   "source": "Nasdaq商品",
   "_cat": "贵金属",
@@ -2611,7 +2636,7 @@
   "en_title": "Gold Rises After ADP Data Overrides Inflation Concerns Due To U.S.-Iran Conflict"
  },
  {
-  "title": "四郡玉米加工乙醇厂和多区商业地产",
+  "title": "Quad County Corn Processors乙醇厂和多道商业地产",
   "url": "",
   "summary": "",
   "pub_time": "2026-09-02T17:28:00Z",
@@ -2637,9 +2662,9 @@
   "en_title": "Quad County Corn Processors Ethanol Plant and Multi-Tract Commercial Real Estate Portfolio to be Sold Via Lender-Ordered Sealed Bid Auction"
  },
  {
-  "title": "Diablillos 钻探揭示了令人鼓舞的近地表矿化",
+  "title": "Diablillos钻探揭示鼓励近地表矿化",
   "url": "",
-  "summary": "Diablillos 是阿根廷最大的未开发贵金属项目之一。",
+  "summary": "Diablillos是阿根廷最大的未开发贵金属项目之一。",
   "pub_time": "2026-09-02T17:14:01Z",
   "source": "Mining.com",
   "_cat": "基本金属",
@@ -2662,7 +2687,7 @@
   "en_title": "Diablillos drilling reveals encouraging near-surface mineralization"
  },
  {
-  "title": "南达科他州小麦育种家 Edgar McFadden 荣获 SDSU 雕塑奖",
+  "title": "南达科他州小麦饲养员Edgar McFadden荣获SDSU雕塑奖",
   "url": "",
   "summary": "",
   "pub_time": "2026-09-02T17:04:00Z",
@@ -2726,9 +2751,9 @@
   "is_elite": false
  },
  {
-  "title": "了解 Silvercorp Metals 如何跻身分析师首选金属行列",
+  "title": "了解Silvercorp Metals如何跻身分析师精选的顶级金属之列",
   "url": "",
-  "summary": "根据 Metals Channel 的数据，对主要经纪公司的分析师推荐进行的研究显示，Silvercorp Metals Inc（代码：SVM）在构成 Metals Channel 全球矿业巨头指数的 50 只股票中平均排名第 32 名。金属频道GL",
+  "summary": "根据Metals Channel的数据，对主要经纪公司分析师建议的研究表明， Silvercorp Metals Inc （符号： SVM ）是构成Metals Channel Global Mining Titans Index的50只股票中平均排名第32位的经纪商分析师。金属频道GL",
   "pub_time": "2026-09-02T16:09:26Z",
   "source": "Nasdaq商品",
   "_cat": "贵金属",
@@ -2919,33 +2944,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "必和必拓商务主管因中国铁矿石紧张而辞职",
-  "url": "",
-  "summary": "必和必拓 (ASX、LSE、NYSE: BHP) 首席商务官拉格·乌德 (Rag Udd) 将于 1 月底离开这家全球最大的矿业公司，随着中国加大压力，该公司出现了一个重要的领导职位空缺。",
-  "pub_time": "2026-09-02T10:59:00Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "3f9f3ff7a48b1b710a16d2673b4ce0d9",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铁矿石",
-   "生铁"
-  ],
-  "en_title": "BHP commercial chief exits amid China iron ore strain"
  },
  {
   "title": "Mysteel：2026年8月造车新势力汽车销量出炉",
