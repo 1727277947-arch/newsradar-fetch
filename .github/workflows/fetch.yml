@@ -5,8 +5,11 @@ permissions:
 on:
   schedule:
     - cron: '0 0,2,4,6,10,12,14,18,22 * * *'   # 北京 08/10/12/14(2h) 18/22/02/06(4h)
+    - cron: '0 20 * * *'                        # Beijing 04:00  (30min backstop after 03:30 early pick)
     - cron: '30 19 * * *'                       # 北京 03:30 每日打板主推(早盘)
     - cron: '0 12 * * *'                        # 北京 20:00 每日打板主推(晚盘)
+    - cron: '30 4 * * *'                        # Beijing 12:30  (30min backstop after 12:00 midday)
+    - cron: '30 12 * * *'                       # Beijing 20:30  (30min backstop after 20:00 evening)
   workflow_dispatch:
 jobs:
   fetch:
