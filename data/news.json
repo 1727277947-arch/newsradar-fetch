@@ -418,25 +418,6 @@
   "is_elite": false
  },
  {
-  "title": "柳钢股份：拟购买广西钢铁13%股权",
-  "url": "https://news.mysteel.com/a/26090308/066EB6751A79C57D.html",
-  "summary": "",
-  "pub_time": "2026-09-03T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "44f7364c627318ebdb21c05a3f07ec43",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "雪佛龙确认扩大委内瑞拉业务：未来五年投资70亿美元，计划将石油产量翻倍",
   "url": "https://news.mysteel.com/a/26090308/8099D5B8CAE6DFE6.html",
   "summary": "",
@@ -506,6 +487,25 @@
   "topic": "国内/金融政策",
   "tags": [
    "金融政策",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "柳钢股份：拟购买广西钢铁13%股权",
+  "url": "https://news.mysteel.com/a/26090308/6BC8E3D98CBA58E7.html",
+  "summary": "",
+  "pub_time": "2026-09-03T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "44f7364c627318ebdb21c05a3f07ec43",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -2444,25 +2444,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年9月2日大连豆粕期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/02/5905819990.shtml",
-  "summary": "",
-  "pub_time": "2026-09-02T00:00:00Z",
-  "source": "粮油豆粕",
-  "_cn": true,
-  "dedup_key": "1cac01b86ba587089587f20f3806db86",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油豆粕"
-  ],
-  "is_elite": false
- },
- {
   "title": "美国玉米现货价格再创三年新高",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/02/3103613651.shtml",
   "summary": "",
@@ -2945,6 +2926,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "83a5323c9aacd0c088e98e42a5ec6577",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月2日大连豆粕期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/02/5905819990.shtml",
+  "summary": "",
+  "pub_time": "2026-09-02T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "0638952019dce1f32db046dbc12848e5",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
