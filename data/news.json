@@ -57,6 +57,63 @@
   "is_elite": false
  },
  {
+  "title": "国信期货：钯金波动剧烈建议观望",
+  "url": "https://news.mysteel.com/a/26090309/0593A2A9AA587D30.html",
+  "summary": "",
+  "pub_time": "2026-09-03T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "d1f92a2a0ab6617c51dfb8fec35be9a9",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "一德期货：隔夜外盘贵金属探底回升",
+  "url": "https://news.mysteel.com/a/26090309/E3B58547EFB35B7E.html",
+  "summary": "",
+  "pub_time": "2026-09-03T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "32c05e8ecea6f4f71d83925e4b321fbd",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "广发期货：国际油价涨势缓和 贵金属止跌回升",
+  "url": "https://news.mysteel.com/a/26090309/3BA1F49CFAC25756.html",
+  "summary": "",
+  "pub_time": "2026-09-03T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "fcd287302f7cf6326a80c9f5a2d34516",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "柳钢股份：拟购买广西钢铁13%股权",
   "url": "https://news.mysteel.com/a/26090308/066EB6751A79C57D.html",
   "summary": "",
@@ -361,44 +418,6 @@
   "is_elite": false
  },
  {
-  "title": "美国小麦市场互有涨跌，继续关注黑海局势发展",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/03/5929699588.shtml",
-  "summary": "",
-  "pub_time": "2026-09-03T00:00:00Z",
-  "source": "粮油小麦",
-  "_cn": true,
-  "dedup_key": "ecb07747b7a93eb34488cb2f8c7f655b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油小麦"
-  ],
-  "is_elite": false
- },
- {
-  "title": "CBOT小麦互有涨跌，基准期约收低1%",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/03/0642910045.shtml",
-  "summary": "",
-  "pub_time": "2026-09-03T00:00:00Z",
-  "source": "粮油小麦",
-  "_cn": true,
-  "dedup_key": "25047ecd1a2722a4834416a7b7e08e69",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油小麦"
-  ],
-  "is_elite": false
- },
- {
   "title": "ICE油菜籽追随芝加哥豆油下跌",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/03/0800483279.shtml",
   "summary": "",
@@ -539,6 +558,44 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "7afb6b8ecc1aae870f1497eb5f35623a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "美国小麦市场互有涨跌，继续关注黑海局势发展",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/03/5929699588.shtml",
+  "summary": "",
+  "pub_time": "2026-09-03T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "631a78f85816e6b9014219fd797894d4",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT小麦互有涨跌，基准期约收低1%",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/03/0642910045.shtml",
+  "summary": "",
+  "pub_time": "2026-09-03T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "d8851f561fa11607393bb0f2d9d59192",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -901,7 +958,7 @@
   "en_title": "Eldorado eyes bigger McIlvenna Bay copper mill"
  },
  {
-  "title": "随着美国与伊朗的冲突加剧，原油价格飙升，使霍尔木兹海峡重新开放充满不确定性",
+  "title": "随着美国与伊朗的紧张局势加剧，原油价格飙升，使霍尔木兹海峡重新开放充满不确定性",
   "url": "",
   "summary": "(RTTNews) - 原油价格周三大幅上涨，延续了前两个交易日的强劲涨幅，原因是美国昨天开始对伊朗进行第二轮袭击，引发伊朗的强力报复，引发人们对海湾战争旷日持久的担忧加深。报告",
   "pub_time": "2026-09-02T18:37:34Z",
@@ -1241,7 +1298,7 @@
   "en_title": "Hormuz Traffic Craters to Four Ships as Iran-U.S. Strikes Escalate"
  },
  {
-  "title": "了解 Silvercorp Metals 如何跻身分析师首选金属之列",
+  "title": "了解 Silvercorp Metals 如何跻身分析师首选金属行列",
   "url": "",
   "summary": "根据 Metals Channel 的数据，对主要经纪公司的分析师推荐进行的研究显示，Silvercorp Metals Inc（代码：SVM）在构成 Metals Channel 全球矿业巨头指数的 50 只股票中平均排名第 32 名。金属频道GL",
   "pub_time": "2026-09-02T16:09:26Z",
@@ -1270,7 +1327,7 @@
  {
   "title": "美国特使在上海合作组织峰会期间访问中亚",
   "url": "",
-  "summary": "美国特朗普政府的两名高级特使闯入在吉尔吉斯斯坦首都比什凯克举行的上海合作组织峰会，与中亚高级领导人举行会谈，破坏了与会者之间团结一致的形象。上合组织峰会的主要参与者包括",
+  "summary": "美国特朗普政府的两名高级特使闯入在吉尔吉斯斯坦首都比什凯克举行的上海合作组织峰会，与中亚高级领导人举行会谈，破坏了与会者之间团结一致的表现。上合组织峰会的主要参与者包括",
   "pub_time": "2026-09-02T16:00:00Z",
   "source": "Oilprice.com",
   "_cat": "基本金属",
@@ -1592,7 +1649,7 @@
  {
   "title": "Core Lithium 完成分拆后，Axiant 登陆澳大利亚证券交易所",
   "url": "",
-  "summary": "800万澳元的流通让投资者可以直接接触Core的黄金和非锂资产，而Core保留33%的股份。",
+  "summary": "800万澳元的流通让投资者可以直接接触Core的黄金和非锂资产，同时Core保留33%的股份。",
   "pub_time": "2026-09-02T11:45:00Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -1655,7 +1712,7 @@
  {
   "title": "必和必拓商务主管因中国铁矿石紧张而辞职",
   "url": "",
-  "summary": "拉格·乌德（Rag Udd）的离职给新任首席执行官布兰登·克雷格（Brandon Craig）留下了一个重要的领导职位空缺，因为北京方面正在敦促矿工争取更好的条件。",
+  "summary": "拉格·乌德（Rag Udd）的离职给新任首席执行官布兰登·克雷格（Brandon Craig）留下了一个重要的领导空缺，因为北京方面正在敦促矿工争取更好的条件。",
   "pub_time": "2026-09-02T10:59:00Z",
   "source": "Mining.com",
   "_cat": "基本金属",
@@ -1682,7 +1739,7 @@
  {
   "title": "必和必拓商务主管因中国铁矿石紧张而辞职",
   "url": "",
-  "summary": "必和必拓 (ASX、LSE、NYSE: BHP) 首席商务官拉格·乌德 (Rag Udd) 将于 1 月底离开这家全球最大矿业公司，随着中国加大压力，该公司出现了一个重要的领导职位空缺。",
+  "summary": "必和必拓 (ASX、LSE、NYSE: BHP) 首席商务官拉格·乌德 (Rag Udd) 将于 1 月底离开这家全球最大的矿业公司，随着中国加大压力，该公司出现了一个重要的领导职位空缺。",
   "pub_time": "2026-09-02T10:59:00Z",
   "source": "NorthernMiner",
   "_cat": "基本金属",
@@ -2026,63 +2083,6 @@
   "is_elite": false
  },
  {
-  "title": "广发期货：硅铁短期高位震荡",
-  "url": "https://news.mysteel.com/a/26090209/16CE9423D6C3D7BA.html",
-  "summary": "",
-  "pub_time": "2026-09-02T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "cb01950c1ca615158085d88c065224d1",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "广发期货：焦煤缺口缓解前偏强运行",
-  "url": "https://news.mysteel.com/a/26090209/287E8969EFD248C1.html",
-  "summary": "",
-  "pub_time": "2026-09-02T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "c6345c0e98df63a31dfc891fc019528e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "广发期货：铁矿石01合约逢高布局空单为主",
-  "url": "https://news.mysteel.com/a/26090209/B736779216D14254.html",
-  "summary": "",
-  "pub_time": "2026-09-02T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "85e67ae295aba9596a93a07750ecab5a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel数据：中国钢材发运量统计（8.25-8.31）",
   "url": "https://news.mysteel.com/a/26090209/7AA4072007051343.html",
   "summary": "",
@@ -2199,7 +2199,7 @@
  {
   "title": "AGF Seeds 的 Gretchen 进入麦芽认证程序",
   "url": "",
-  "summary": "澳大利亚谷物协会 (Grains Australia) 已接受 Gretchen 进入其麦芽认证程序，这是 AGF Seeds 大麦品种的首次认证。",
+  "summary": "澳大利亚谷物协会已接受 Gretchen 进入其麦芽认证程序，这是 AGF Seeds 大麦品种的首次认证。",
   "pub_time": "2026-09-02T06:10:08Z",
   "source": "GrainCentral",
   "_cat": "农产品",
@@ -2222,7 +2222,7 @@
   "en_title": "AGF Seeds’ Gretchen enters malt accreditation process"
  },
  {
-  "title": "道格拉斯·戴利 (Douglas Daly) 的干草和棉花面临挑战",
+  "title": "道格拉斯·达利 (Douglas Daly) 的干草和棉花面临挑战",
   "url": "",
   "summary": "当地的需求和稳定的产量使干草成为道格拉斯戴利地区最受欢迎的作物，随着高端农业的发展，这里正在试探棉花和其他作物。",
   "pub_time": "2026-09-02T05:53:40Z",
@@ -2478,25 +2478,6 @@
    "中文",
    "国内",
    "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
-  "title": "美国小麦价格上涨，因俄罗斯拒绝黑海运输计划",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/02/3028281457.shtml",
-  "summary": "",
-  "pub_time": "2026-09-02T00:00:00Z",
-  "source": "粮油小麦",
-  "_cn": true,
-  "dedup_key": "7098e6a5d3066f757d1782a4747ca2c5",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油小麦"
   ],
   "is_elite": false
  },
@@ -2881,6 +2862,25 @@
   "is_elite": false
  },
  {
+  "title": "美国小麦价格上涨，因俄罗斯拒绝黑海运输计划",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/02/3028281457.shtml",
+  "summary": "",
+  "pub_time": "2026-09-02T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "d59ce020b1c2557e8b184cf1c8da3f64",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "CBOT小麦涨至三年半新高，因黑海局势紧张",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/02/0054427151.shtml",
   "summary": "",
@@ -3088,7 +3088,7 @@
  {
   "title": "社论：钱已经到了",
   "url": "",
-  "summary": "尽管加美贸易争端急剧升级，但在加拿大总理马克·卡尼 (Mark Carney) 9 月 14 日至 15 日在多伦多举行投资峰会之前，全球投资者已经开始用钱包投票。总计... 社论：钱已经到了，首先出现在《北方矿工》上。",
+  "summary": "尽管加美贸易争端急剧升级，但在加拿大总理马克·卡尼 (Mark Carney) 9 月 14 日至 15 日在多伦多举行投资峰会之前，全球投资者已经开始用钱包投票。总计... 这篇社论：钱已经到了，首先出现在《北方矿工》上。",
   "pub_time": "2026-09-01T19:15:00Z",
   "source": "NorthernMiner",
   "_cat": "基本金属",
