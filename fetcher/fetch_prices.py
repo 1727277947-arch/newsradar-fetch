@@ -906,6 +906,10 @@ def build_hf_picks(items, preds=None):
             continue
         if rng < 1.0:                   # 当日波幅太小，没肉吃
             continue
+
+        # funds gate: with 100k you should open >=3 lots (margin/lot <=~33k) so crude/gold/silver can't be main pick
+        if mg > 0 and (100000.0 / mg) < 3.0:
+            continue
         # 资金：越便宜越“绰绰有余”。10万能开>=3手(即一手保证金<=约3.3万)算宽裕；越贵评分越低
         sz = max(0.0, min(1.0, 1.0 - mg / 40000.0))
         # 方向强度：实时涨幅绝对值(打板追强/追跌才有意义)
