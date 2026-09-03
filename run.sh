@@ -19,7 +19,7 @@ git config user.email "bot@newsradar.local"
 git add data/news.json data/prices.json
 git commit -m "auto fetch news+prices ${STAMP}" || echo "no github changes"
 if [ -n "${GITHUB_TOKEN:-}" ]; then
-  # 榛樿 GITHUB_TOKEN锛堝惈 contents:write锛変紭鍏堬紝鍙潬鎺?GitHub
+  # default GITHUB_TOKEN (has contents:write) preferred to push GitHub
   git push "https://1727277947-arch:${GITHUB_TOKEN}@github.com/1727277947-arch/newsradar-fetch.git" "HEAD:main" \
     || echo "github push failed (default token)"
 elif [ -n "${GH_TOKEN:-}" ]; then
@@ -37,12 +37,10 @@ fi
 # Derive user/repo (strip scheme+trailing .git) so we build the kind of token the REST API likes.
 GITEE_REPO_PATH="${GITEE_REPO_PATH:-}"
 if [ -z "$GITEE_REPO_PATH" ]; then
-  base="$GITEE_REPO"
-  base="${base#https://}"
-  base="${base#http://}"
-  base="${base#git@}"
-  base="${base%\.git}"
-  GITEE_REPO_PATH="$base"
+  # robustly collapse https://gitee.com/user/repo.git -> user/repo
+  base="${GITEE_REPO##*/}"
+  base="${base%.git}"
+  GITEE_REPO_PATH="${GITEE_USER}/${base}"
 fi
 echo "syncing to gitee repo: $GITEE_REPO_PATH (branch $GITEE_BRANCH)"
 # Rate-limit retries happen inside the script; a single API failure must not red X the whole
@@ -53,3 +51,4 @@ python3 fetcher/push_gitee_api.py \
   "output/news.json=data/news.json" \
   || echo "[gitee] sync failed (non-fatal), will retry next run"
 echo "== done =="
+
