@@ -342,75 +342,18 @@
   "is_elite": false
  },
  {
-  "title": "广发期货：焦煤价格或转为高位震荡",
-  "url": "https://news.mysteel.com/a/26090309/5556B07FD771D265.html",
+  "title": "Mysteel解读：看数据说废钢——旺季转折契机未现 废钢温和跟涨",
+  "url": "https://news.mysteel.com/a/26090308/7FA5EAFA67CE8FC6.html",
   "summary": "",
-  "pub_time": "2026-09-03T09:00:00Z",
+  "pub_time": "2026-09-03T08:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "bab09f3c082ec85a5c9d5dfab792123b",
+  "dedup_key": "619b3cf7f146bb6470072f2180da74d4",
   "score": 80,
   "priority": "P1",
-  "topic": "国内/大宗商品",
+  "topic": "国内/财经",
   "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "广州期货：金银价格小幅反弹",
-  "url": "https://news.mysteel.com/a/26090309/8B6481E56687E88F.html",
-  "summary": "",
-  "pub_time": "2026-09-03T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "dcc6f99801fa1046c20a59d94d1adcb2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "瑞达期货：广期所铂钯主力合约延续回调",
-  "url": "https://news.mysteel.com/a/26090309/DC1E873849BF42B3.html",
-  "summary": "",
-  "pub_time": "2026-09-03T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "9db138f86fc721ca7370108870731bba",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "瑞达期货：短线对贵金属市场形成施压",
-  "url": "https://news.mysteel.com/a/26090309/B1AFCBD254D7305F.html",
-  "summary": "",
-  "pub_time": "2026-09-03T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "e822a93db8f394c17f27d95c1dda2f65",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
+   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -549,6 +492,31 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
+ },
+ {
+  "title": "码头商品受到管理，澳元欠数百万美元",
+  "url": "",
+  "summary": "加拿大法院指定毕马威公司 (KPMG Inc.) 为脉冲交易商 Marina Commodities (MCI)、其澳大利亚子公司 (MCA) 和相关非经营实体 Ausican Commodities 的接管人，此前该公司被置于……",
+  "pub_time": "2026-09-03T02:57:09Z",
+  "source": "GrainCentral",
+  "_cat": "基本金属",
+  "dedup_key": "8ea7620853160b82d9b41792620c222a",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Marina Commodities under administration, millions owed in Aus"
  },
  {
   "title": "ABARES 将即将到来的夏季作物产量定为 3.4 吨",
@@ -975,7 +943,7 @@
   "is_elite": false
  },
  {
-  "title": "格陵兰矿业完成对 Sarfartoq 稀土磁体项目的收购",
+  "title": "格陵兰矿业完成收购 Sarfartoq 稀土磁体项目",
   "url": "",
   "summary": "该公司称 Sarfartoq 为岛上“最先进、最引人注目的稀土项目”之一，理由是其高品位性质和有利的北极物流。",
   "pub_time": "2026-09-02T23:48:07Z",
@@ -1501,7 +1469,7 @@
  {
   "title": "特朗普“历史上最大的石油交易”背后的可疑时机",
   "url": "",
-  "summary": "唐纳德·特朗普总统上周五晚间发布了一项可能影响市场的公告。他表示，美国已经达成了他所谓的“世界历史上最大的石油协议”，使美国对委内瑞拉已探明的石油储量超过650亿桶拥有多数控制权。特朗普进一步",
+  "summary": "唐纳德·特朗普总统上周五晚间发布了一项可能影响市场走势的声明。他表示，美国已经达成了他所谓的“世界历史上最大的石油协议”，使美国对委内瑞拉已探明的石油储量超过650亿桶拥有多数控制权。特朗普进一步",
   "pub_time": "2026-09-02T17:00:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -1608,7 +1576,7 @@
   "en_title": "Hormuz Traffic Craters to Four Ships as Iran-U.S. Strikes Escalate"
  },
  {
-  "title": "了解 Silvercorp Metals 如何跻身分析师首选金属行列",
+  "title": "了解 Silvercorp Metals 如何跻身分析师首选金属之列",
   "url": "",
   "summary": "根据 Metals Channel 的数据，对主要经纪公司的分析师推荐进行的研究显示，Silvercorp Metals Inc（代码：SVM）在构成 Metals Channel 全球矿业巨头指数的 50 只股票中平均排名第 32 名。金属频道GL",
   "pub_time": "2026-09-02T16:09:26Z",
@@ -1637,7 +1605,7 @@
  {
   "title": "美国特使在上海合作组织峰会期间访问中亚",
   "url": "",
-  "summary": "美国特朗普政府的两名高级特使闯入在吉尔吉斯斯坦首都比什凯克举行的上海合作组织峰会，与中亚高级领导人举行会谈，破坏了与会者之间团结一致的表现。上合组织峰会的主要参与者包括",
+  "summary": "美国特朗普政府的两名高级特使闯入在吉尔吉斯斯坦首都比什凯克举行的上海合作组织峰会，与中亚高级领导人举行会谈，破坏了与会者之间团结一致的形象。上合组织峰会的主要参与者包括",
   "pub_time": "2026-09-02T16:00:00Z",
   "source": "Oilprice.com",
   "_cat": "基本金属",
@@ -1847,7 +1815,7 @@
  {
   "title": "瑞安航空警告一些航空公司可能会因航油价格上涨而苦苦挣扎",
   "url": "",
-  "summary": "欧洲最大的低价航空公司瑞安航空周三降低了冬季客流量目标，以减少未对冲的高油价风险，并警告说，在高油价的情况下，一些对冲较少的竞争对手可能难以在今年冬天生存。自伊朗战争以来，交付量大幅减少",
+  "summary": "欧洲最大的低价航空公司瑞安航空周三降低了冬季客流量目标，以减少未对冲的高油价风险，并警告称，在高油价的情况下，一些对冲较少的竞争对手可能难以在今年冬天生存。自伊朗战争以来，交付量大幅减少",
   "pub_time": "2026-09-02T14:30:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -1959,7 +1927,7 @@
  {
   "title": "Core Lithium 完成分拆后，Axiant 登陆澳大利亚证券交易所",
   "url": "",
-  "summary": "800万澳元的流通让投资者可以直接接触Core的黄金和非锂资产，同时Core保留33%的股份。",
+  "summary": "800万澳元的流通让投资者可以直接接触Core的黄金和非锂资产，而Core保留33%的股份。",
   "pub_time": "2026-09-02T11:45:00Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -2049,7 +2017,7 @@
  {
   "title": "必和必拓商务主管因中国铁矿石紧张而辞职",
   "url": "",
-  "summary": "必和必拓 (ASX、LSE、NYSE: BHP) 首席商务官拉格·乌德 (Rag Udd) 将于 1 月底离开这家全球最大的矿业公司，随着中国加大压力，该公司出现了一个重要的领导职位空缺。",
+  "summary": "必和必拓 (ASX、LSE、NYSE: BHP) 首席商务官拉格·乌德 (Rag Udd) 将于 1 月底离开这家全球最大矿业公司，随着中国加大压力，该公司出现了一个重要的领导职位空缺。",
   "pub_time": "2026-09-02T10:59:00Z",
   "source": "NorthernMiner",
   "_cat": "基本金属",
@@ -2357,7 +2325,7 @@
  {
   "title": "AGF Seeds 的 Gretchen 进入麦芽认证程序",
   "url": "",
-  "summary": "澳大利亚谷物协会已接受 Gretchen 进入其麦芽认证程序，这是 AGF Seeds 大麦品种的首次认证。",
+  "summary": "澳大利亚谷物协会 (Grains Australia) 已接受 Gretchen 进入其麦芽认证程序，这是 AGF Seeds 大麦品种的首次认证。",
   "pub_time": "2026-09-02T06:10:08Z",
   "source": "GrainCentral",
   "_cat": "农产品",
@@ -2380,7 +2348,7 @@
   "en_title": "AGF Seeds’ Gretchen enters malt accreditation process"
  },
  {
-  "title": "道格拉斯·达利 (Douglas Daly) 的干草和棉花面临挑战",
+  "title": "道格拉斯·戴利 (Douglas Daly) 的干草和棉花面临挑战",
   "url": "",
   "summary": "当地的需求和稳定的产量使干草成为道格拉斯戴利地区最受欢迎的作物，随着高端农业的发展，这里正在试探棉花和其他作物。",
   "pub_time": "2026-09-02T05:53:40Z",
@@ -3444,7 +3412,7 @@
  {
   "title": "随着原油价格飙升，美联储加息押注增加，金价暴跌",
   "url": "",
-  "summary": "(RTTNews) - 继两个交易日下跌之后，周二金价暴跌，原因是美国和伊朗之间周末发生新的袭击事件后原油价格继续飙升，这增加了美国加息的押注以遏制随之而来的通胀。",
+  "summary": "(RTTNews) - 继两个交易日下跌之后，周二金价暴跌，原因是美国和伊朗之间周末发生新的袭击事件后原油价格继续飙升，这增加了美国加息的押注以遏制随之而来的通货膨胀。",
   "pub_time": "2026-09-01T17:50:21Z",
   "source": "Nasdaq商品",
   "_cat": "贵金属",
