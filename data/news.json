@@ -19,6 +19,25 @@
   "is_elite": false
  },
  {
+  "title": "Mysteel月报：9月份热轧板卷价格或将震荡走强",
+  "url": "https://news.mysteel.com/a/26090316/3D5594B7560653D2.html",
+  "summary": "",
+  "pub_time": "2026-09-03T16:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "262988a568b9f4cc4e0ddc56c3a4a448",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "黑色持仓日报：中信期货减持近7千手焦煤多单",
   "url": "https://news.mysteel.com/a/26090315/2DD908A18332FFC9.html",
   "summary": "",
@@ -342,25 +361,6 @@
   "is_elite": false
  },
  {
-  "title": "焦炭期权在大连商品交易所挂牌上市",
-  "url": "https://news.mysteel.com/a/26090309/2F220F7A604FAD6E.html",
-  "summary": "",
-  "pub_time": "2026-09-03T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "41f8699c28df77a4ad5a9fd33633cd7d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "期货日报：金价承压下行",
   "url": "https://news.mysteel.com/a/26090309/640A8C810CEFF669.html",
   "summary": "",
@@ -627,6 +627,32 @@
   "is_elite": false
  },
  {
+  "title": "中国炼油厂为俄罗斯ESPO原油支付创纪录的溢价",
+  "url": "",
+  "summary": "中国炼油商正在为俄罗斯的ESPO原油支付高额溢价，以取代独立炼油厂在美国对该国实施海上封锁之前进口的伊朗原油。11月交付的东西伯利亚-太平洋原油（ ESPO ）溢价超过7 $",
+  "pub_time": "2026-09-03T08:45:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "539c5a06a948aba07f70c51d714a5f70",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Chinese Refiners Pay Record Premiums for Russian ESPO Crude"
+ },
+ {
   "title": "雪佛龙确认扩大委内瑞拉业务：未来五年投资70亿美元，计划将石油产量翻倍",
   "url": "https://news.mysteel.com/a/26090308/8099D5B8CAE6DFE6.html",
   "summary": "",
@@ -718,9 +744,9 @@
   "en_title": "Asian Oil Buying Spree Sends Dubai Crude Toward $100"
  },
  {
-  "title": "Feedgrain Focus ：随着气温上升，种植者销售回升",
+  "title": "饲料谷物焦点：随着气温上升，种植者销售增加",
   "url": "",
-  "summary": "过去一周，小麦价格上涨了10-15美元/吨，而随着种植者销售的增加，南方大麦的价格有所下跌。",
+  "summary": "过去一周小麦价格上涨了 10-15 美元/吨，而南方大麦因种植者销售增加而走弱。",
   "pub_time": "2026-09-03T04:00:47Z",
   "source": "GrainCentral",
   "_cat": "农产品",
@@ -745,9 +771,9 @@
   "en_title": "Feedgrain Focus: Grower selling picks up as temperatures rise"
  },
  {
-  "title": "加拿大码头商品进入管理",
+  "title": "加拿大码头商品公司进入破产管理程序",
   "url": "",
-  "summary": "一家加拿大法院指定毕马威公司（ KPMG Inc. ）为PULSE TRADER MARINA COMMODITIES、其澳大利亚子公司和相关非运营实体AUSICAN COMMODITIES的接收",
+  "summary": "加拿大一家法院已指定毕马威公司 (KPMG Inc.) 为豆类交易商 Marina Commodities、其澳大利亚子公司以及相关非经营实体 Ausican Commodities 的接管人。",
   "pub_time": "2026-09-03T02:57:09Z",
   "source": "GrainCentral",
   "_cat": "基本金属",
@@ -770,9 +796,9 @@
   "en_title": "Canada’s Marina Commodities enters administration"
  },
  {
-  "title": "ABARES将即将到来的夏季作物定为340万吨",
+  "title": "ABARES 将即将到来的夏季作物产量定为 3.4 吨",
   "url": "",
-  "summary": "ABARES最初的夏季作物预测表明，由于冬末土壤湿度低于平均水平且灌溉可用性有限，产量将下降25 ％至340万吨。",
+  "summary": "ABARES 最初的夏季作物预测显示，由于冬末土壤湿度低于平均水平以及灌溉能力有限，产量将下降 25%，至 3.4 吨。",
   "pub_time": "2026-09-03T01:44:43Z",
   "source": "GrainCentral",
   "_cat": "能源",
@@ -871,13 +897,13 @@
   "is_elite": false
  },
  {
-  "title": "2026年9月3日大连玉米期货收盘低开收涨",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/03/5724351672.shtml",
+  "title": "9月3日进口大豆到国内港口CF及升贴水报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/03/5015984943.shtml",
   "summary": "",
   "pub_time": "2026-09-03T00:00:00Z",
-  "source": "粮油玉米",
+  "source": "粮油大豆",
   "_cn": true,
-  "dedup_key": "80da52beb51f8af7b5d3a1055ea5e55c",
+  "dedup_key": "1b1858b583a8f0a9e5b54c716b5e69b8",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -885,7 +911,26 @@
    "大宗商品",
    "中文",
    "国内",
-   "粮油玉米"
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "9月3日进口大豆港口分销价持平",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/03/4931804662.shtml",
+  "summary": "",
+  "pub_time": "2026-09-03T00:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "3221658a4e88446b3066a9824c1f81d4",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
   ],
   "is_elite": false
  },
@@ -1004,6 +1049,25 @@
   "is_elite": false
  },
  {
+  "title": "9月3日进口油菜籽到国内港口CF报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/03/5408419257.shtml",
+  "summary": "",
+  "pub_time": "2026-09-03T00:00:00Z",
+  "source": "粮油菜籽",
+  "_cn": true,
+  "dedup_key": "bcdd4e6ace3f27d7a9597187f80f937b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "ICE油菜籽追随芝加哥豆油下跌",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/03/0800483279.shtml",
   "summary": "",
@@ -1019,6 +1083,63 @@
    "中文",
    "国内",
    "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "9月3日进口阿根廷豆油及加拿大菜籽油CF报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/03/5315735144.shtml",
+  "summary": "",
+  "pub_time": "2026-09-03T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "47e118db29257775b0d6901902e75e19",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "9月3日24度棕榈油国内各港口交货价格上涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/03/5145424876.shtml",
+  "summary": "",
+  "pub_time": "2026-09-03T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "f3af2756ece68aa25dee34b7aa10b3bd",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "9月3日进口豆油港口交货价格上涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/03/5106511816.shtml",
+  "summary": "",
+  "pub_time": "2026-09-03T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "34d6b421e84ef350ba07dd77b3da1b7f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "粮油首页"
   ],
   "is_elite": false
  },
@@ -1232,18 +1353,18 @@
   "is_elite": false
  },
  {
-  "title": "CBOT豆油下跌，基准期约收低2.3%",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/03/0522523577.shtml",
+  "title": "2026年9月3日大连玉米期货收盘低开收涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/03/5724351672.shtml",
   "summary": "",
   "pub_time": "2026-09-03T00:00:00Z",
   "source": "粮油首页",
   "_cn": true,
-  "dedup_key": "62c48cc718fe249b6295c2c50da27383",
+  "dedup_key": "8e4e34975d98377faff0a4892c4d9cb1",
   "score": 80,
   "priority": "P1",
-  "topic": "国内/财经",
+  "topic": "国内/大宗商品",
   "tags": [
-   "财经",
+   "大宗商品",
    "中文",
    "国内",
    "粮油首页"
@@ -1479,6 +1600,25 @@
   "is_elite": false
  },
  {
+  "title": "CBOT豆油下跌，基准期约收低2.3%",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/03/0522523577.shtml",
+  "summary": "",
+  "pub_time": "2026-09-03T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "62c48cc718fe249b6295c2c50da27383",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "Greenland Mines完成对Sarfartoq稀土磁铁项目的收购",
   "url": "",
   "summary": "该公司称Sarfartoq是该岛“最先进和最引人注目的稀土项目”之一，理由是其高档性质和有利的北极物流。",
@@ -1660,7 +1800,7 @@
   "en_title": "US Forest Service signs off on South32 Hermosa’s mine plan in Arizona"
  },
  {
-  "title": "播客：黄金经销商面临“信贷紧缩” ， ft CPM Group的Jeffrey Christian",
+  "title": "播客：CPM 集团的杰弗里·克里斯蒂安 (Jeffrey Christian) 表示，黄金交易商面临“信贷紧缩”",
   "url": "",
   "summary": "本周一集中， CPM集团管理合伙人Jeffrey Christian与体验达人Adrian Pocobelli就影响黄金市场的更广泛宏观经济因素进行了对话。Christian讨论了其影响... The post Podcast ：黄金经销商面临“信贷紧缩” ， ft CPM Group的Jeffre",
   "pub_time": "2026-09-02T19:30:32Z",
@@ -1795,7 +1935,7 @@
  {
   "title": "埃尔多拉多眼中更大的麦克伊尔文纳湾铜磨坊",
   "url": "",
-  "summary": "Eldorado Gold （ TSX ： ELD ； NYSE ： EGO ）正在研究其McIlvenna Bay加工厂的43%扩建和新的银铅电路，因为萨斯喀彻温省的铜锌金银矿正向商业方向发展... Eldorado的眼睛更大的McIlvenna Bay铜厂首先出现在The Northern Mine",
+  "summary": "随着萨斯喀彻温省铜锌金银矿逐步走向商业化，埃尔多拉多黄金公司（多伦多证券交易所股票代码：ELD；纽约证券交易所股票代码：EGO）正在研究将其麦克尔文纳湾加工厂扩建 43%，并建设一条新的银铅线路。",
   "pub_time": "2026-09-02T19:00:00Z",
   "source": "NorthernMiner",
   "_cat": "贵金属",
@@ -2067,25 +2207,6 @@
   "is_elite": false
  },
  {
-  "title": "存储高景气向上游传导，华虹宏力联合多家机构增资无锡三期扩产",
-  "url": "https://news.mysteel.com/a/26090217/E6229513FA6781B4.html",
-  "summary": "",
-  "pub_time": "2026-09-02T17:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "029013bb130778c1438376a46479348c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "随着伊朗-美国罢工升级，霍尔木兹交通坑变成四艘船",
   "url": "",
   "summary": "两名水手在周一袭击霍尔木兹海峡的一艘沙特油轮后死亡，利雅得现在正式指责伊朗瞄准Bahri拥有的Sidr ，因为德黑兰对该地区的美国基地发动了新一波导弹和无人机袭击。Bahri周三证实，这两个F",
@@ -2274,9 +2395,9 @@
   "en_title": "U.S. Crude Oil Inventories Tumble Much More Than Expected"
  },
  {
-  "title": "赞助视频：黄金矿工Erdene概述了蒙古沿地区带的勘探",
+  "title": "赞助视频：金矿开采商 Erdene 概述蒙古沿区域带的勘探",
   "url": "",
-  "summary": "Erdene Resource Development (TSX: ERD; US-OTC: ERDCF)通过与蒙古矿业50:50的合资企业从蒙古的Bayan Khundii矿山生产黄金，正在推进该地区中部的勘探...",
+  "summary": "Erdene Resource Development（多伦多证券交易所代码：ERD；美国场外交易代码：ERDCF）通过与蒙古矿业公司以 50:50 的比例成立的合资企业，从蒙古的 Bayan Khundii 矿生产黄金，正在推进该地区中部地区的勘探。",
   "pub_time": "2026-09-02T14:41:53Z",
   "source": "NorthernMiner",
   "_cat": "贵金属",
@@ -2298,36 +2419,6 @@
    "黄金"
   ],
   "en_title": "Sponsored video: Gold miner Erdene outlines Mongolia exploration along regional belt"
- },
- {
-  "title": "随着燃料需求减弱，美国石油库存下降",
-  "url": "",
-  "summary": "根据美国能源情报署（ EIA ）周三发布的新数据，截至8月28日的一周，美国原油库存减少了450万桶。根据GOVER的数据，这一增长使商业库存达到4.245亿桶",
-  "pub_time": "2026-09-02T14:38:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "ede3747d9d3bd63700c040f8e7d64472",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "燃料",
-   "下跌",
-   "需求",
-   "库存"
-  ],
-  "en_title": "U.S. Oil Stocks Drop as Fuel Demand Weakens"
  },
  {
   "title": "美国连击伊朗两大战略岛，逼停伊朗石油出口",
@@ -2460,7 +2551,7 @@
  {
   "title": "必和必拓在中国铁矿石压力下退出商业主管职位",
   "url": "",
-  "summary": "必和必拓(ASX, LSE, NYSE: BHP)首席商务官拉格·乌德(Rag Udd)将于1月底离开这家全球最大的矿业公司，在中国加大压力之际，这将开启一个关键的领导职位空缺……必和必拓在中国铁矿石压力之下的商务主管退出后，首次出现在《北方矿工》(The Northern Miner)杂志上。",
+  "summary": "必和必拓 (ASX、LSE、NYSE: BHP) 首席商务官拉格·乌德 (Rag Udd) 将于 1 月底离开这家全球最大矿业公司，随着中国加大压力，该公司出现了一个重要的领导职位空缺。",
   "pub_time": "2026-09-02T10:59:00Z",
   "source": "NorthernMiner",
   "_cat": "基本金属",
@@ -2747,9 +2838,9 @@
   "is_elite": false
  },
  {
-  "title": "AGF Seeds的Gretchen进入MALT认证流程",
+  "title": "AGF Seeds 的 Gretchen 进入麦芽认证程序",
   "url": "",
-  "summary": "澳大利亚谷物公司已将Gretchen纳入其麦芽认证程序，这是AGF种子大麦品种的第一个认证程序。",
+  "summary": "澳大利亚谷物协会 (Grains Australia) 已接受 Gretchen 进入其麦芽认证程序，这是 AGF Seeds 大麦品种的首次认证。",
   "pub_time": "2026-09-02T06:10:08Z",
   "source": "GrainCentral",
   "_cat": "农产品",
@@ -2772,9 +2863,9 @@
   "en_title": "AGF Seeds’ Gretchen enters malt accreditation process"
  },
  {
-  "title": "Hay a stayer, cotton a challenge in Douglas Daly",
+  "title": "道格拉斯·戴利 (Douglas Daly) 的干草和棉花面临挑战",
   "url": "",
-  "summary": "当地的需求和坚实的产量使干草成为道格拉斯戴利的最爱，随着顶级农业的发展，棉花和其他作物正在被发掘出来。",
+  "summary": "当地的需求和稳定的产量使干草成为道格拉斯戴利地区最受欢迎的作物，随着高端农业的发展，这里正在试探棉花和其他作物。",
   "pub_time": "2026-09-02T05:53:40Z",
   "source": "GrainCentral",
   "_cat": "农产品",
@@ -2836,44 +2927,6 @@
   "is_elite": false
  },
  {
-  "title": "9月2日进口大豆港口分销价持平",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/02/3546644940.shtml",
-  "summary": "",
-  "pub_time": "2026-09-02T00:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "fc9ba91cd8b8a60552bc0c87c19bd7bd",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
-  "title": "美国大豆现货创下多年高点，因需求向好，作物状况下滑",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/02/3238948631.shtml",
-  "summary": "",
-  "pub_time": "2026-09-02T00:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "ad2fc9b70f9ca550376718d39501ae03",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
   "title": "ICE油菜籽创下三年多高点，受原油走强推动",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/02/0305169530.shtml",
   "summary": "",
@@ -2889,6 +2942,44 @@
    "中文",
    "国内",
    "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "9月2日进口大豆港口分销价持平",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/02/3546644940.shtml",
+  "summary": "",
+  "pub_time": "2026-09-02T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "923269ea4a4d1bb81986970742c6887e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "美国大豆现货创下多年高点，因需求向好，作物状况下滑",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/02/3238948631.shtml",
+  "summary": "",
+  "pub_time": "2026-09-02T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "7af2b323662388b64ea586f1cb2ab217",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
   ],
   "is_elite": false
  },
@@ -2931,63 +3022,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年9月2日大连大豆期货行情午报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/02/3316427437.shtml",
-  "summary": "",
-  "pub_time": "2026-09-02T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "da42ac8d592dd1842bcfcd916cdc7e9e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月2日大连大豆期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/02/5846295603.shtml",
-  "summary": "",
-  "pub_time": "2026-09-02T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "f71b3dc14deeb70a62eeb2fa6f59c29e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "9月2日进口阿根廷豆油及加拿大菜籽油CF报价",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/02/0244956887.shtml",
-  "summary": "",
-  "pub_time": "2026-09-02T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "9c4b7d0e5c51faad432381bc57f6f434",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "9月2日马来西亚棕榈油9月船期FOB报价",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/02/0113160534.shtml",
   "summary": "",
@@ -3019,25 +3053,6 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "周二亚洲棕榈油现货市场上涨",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/02/3323936374.shtml",
-  "summary": "",
-  "pub_time": "2026-09-02T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "7e150a8345ff3466b3cd726f1dc7d32d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "粮油首页"
@@ -3273,25 +3288,6 @@
   "is_elite": false
  },
  {
-  "title": "9月2日进口豆油港口交货价格上涨",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/02/5941250419.shtml",
-  "summary": "",
-  "pub_time": "2026-09-02T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "2a56453c653d183dbd4befb9451fc179",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "美国小麦价格上涨，因俄罗斯拒绝黑海运输计划",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/02/3028281457.shtml",
   "summary": "",
@@ -3387,6 +3383,25 @@
   "is_elite": false
  },
  {
+  "title": "2026年9月2日大连大豆期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/02/5846295603.shtml",
+  "summary": "",
+  "pub_time": "2026-09-02T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "f71b3dc14deeb70a62eeb2fa6f59c29e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年9月2日大连粳米期货行情早报",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/02/5731561341.shtml",
   "summary": "",
@@ -3413,6 +3428,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "dad45126443f5a3ad81d87b9d4405dd4",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月2日大连大豆期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/02/3316427437.shtml",
+  "summary": "",
+  "pub_time": "2026-09-02T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "da42ac8d592dd1842bcfcd916cdc7e9e",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -3501,9 +3535,28 @@
   "is_elite": false
  },
  {
-  "title": "SW美国首席执行官聊天： Hudbay打造铜业巨头",
+  "title": "周二亚洲棕榈油现货市场上涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/02/3323936374.shtml",
+  "summary": "",
+  "pub_time": "2026-09-02T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "7e150a8345ff3466b3cd726f1dc7d32d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "SW美国CEO聊天：Hudbay打造铜业巨头",
   "url": "",
-  "summary": "Hudbay Minerals （ TSX ，纽约证券交易所代码： HBM ）表示，得益于Streamer公司三菱（ Mitsubishi ）支持的一揽子融资计划，它可以在不发行股权的情况下建造两座计划中最大的美国铜矿。SW后美国首席执行官聊天： Hudbay打造的铜矿巨头首次出现在The Northern Miner上。",
+  "summary": "Hudbay Minerals（多伦多证券交易所、纽约证券交易所股票代码：HBM）表示，得益于承购商三菱公司支持的融资方案，该公司可以在不发行股权的情况下建造美国最大的两个铜矿。",
   "pub_time": "2026-09-01T19:30:00Z",
   "source": "NorthernMiner",
   "_cat": "基本金属",
@@ -3556,7 +3609,7 @@
  {
   "title": "社论：钱已经到了",
   "url": "",
-  "summary": "尽管加美贸易争端急剧升级，但全球投资者已经在总理马克·卡尼（ Mark Carney ） 9月14日至15日在多伦多举行的投资峰会之前用钱包投票。总计...帖子社论：钱已经在这里了，第一次出现在北方矿工。",
+  "summary": "尽管加美贸易争端急剧升级，但在加拿大总理马克·卡尼 (Mark Carney) 9 月 14 日至 15 日在多伦多举行投资峰会之前，全球投资者已经开始用钱包投票。总计... 社论：钱已经到了，首先出现在《北方矿工》上。",
   "pub_time": "2026-09-01T19:15:00Z",
   "source": "NorthernMiner",
   "_cat": "基本金属",
@@ -3605,9 +3658,9 @@
   "en_title": "Collective extends Colombia’s Apollo on 15-g/t gold hit"
  },
  {
-  "title": "Sibanye OKs在两大洲的铜金项目",
+  "title": "Sibanye 确定了两大洲的铜金项目",
   "url": "",
-  "summary": "Sibanye-Stillwater （ JSE ： SSW ； NYSE ： SBSW ）已批准其在塔斯马尼亚的Mt Lyell铜金项目和南非的Burnstone黄金项目，随着金属价格走强，推动了两项长期发展......两大洲的后Sibanye OKs铜金项目首次出现在The No",
+  "summary": "Sibanye-Stillwater（JSE：SSW；纽约证券交易所：SBSW）已批准其位于塔斯马尼亚的 Mt Lyell 铜金项目和位于南非的 Burnstone 黄金项目，随着金属价格走强，这两项长期开发项目将得到推进……Sibanye OKs 后两大洲的铜金项目首先出现在《The No》上。",
   "pub_time": "2026-09-01T19:03:00Z",
   "source": "NorthernMiner",
   "_cat": "贵金属",
@@ -3659,9 +3712,9 @@
   "en_title": "Crude Oil Skyrockets As U.S. Begins Second Wave Of Attacks On Iran"
  },
  {
-  "title": "SW US CEO CHAT ：能源燃料转向稀土",
+  "title": "SW美国首席执行官谈话：能源燃料转向稀土",
   "url": "",
-  "summary": "Energy Fuels (TSX: EFR; NYSE-A: UUUU)越来越多地将其未来寄托在稀土而不是铀上，这家总部位于科罗拉多州的矿业公司现在预计其大部分收入将来自... SW美国首席执行官后聊天：能源燃料转向稀土首先出现在The Northern Miner上。",
+  "summary": "Energy Fuels（多伦多证交所代码：EFR；NYSE-A：UUUU）越来越多地将其未来寄托在稀土而非铀上，这家总部位于科罗拉多州的矿商现在预计其大部分收入将来自......",
   "pub_time": "2026-09-01T18:30:06Z",
   "source": "NorthernMiner",
   "_cat": "基本金属",
@@ -3724,9 +3777,9 @@
   "is_elite": false
  },
  {
-  "title": "ACG开始在土耳其生产铜精矿",
+  "title": "ACG 开始在土耳其生产铜精矿",
   "url": "",
-  "summary": "ACG Metals （伦敦证券交易所代码： ACG ）从其在土耳其的Gediktepe矿生产了第一个铜精矿，标志着它从贵金属过渡到最终的全硫化物生产...... ACG开始后，土耳其的铜精矿产量首先出现在The Northern Miner上。",
+  "summary": "ACG Metals（伦敦证券交易所股票代码：ACG）在土耳其的 Gediktepe 矿生产出第一批铜精矿，标志着该公司从贵金属转型，其目标是到年底实现全面生产硫化物... ACG 开始在土耳其生产铜精矿后的消息首先出现在《The Northern Miner》上。",
   "pub_time": "2026-09-01T17:58:46Z",
   "source": "NorthernMiner",
   "_cat": "贵金属",
@@ -4039,24 +4092,5 @@
    "供应"
   ],
   "en_title": "Oil Prices Rise On Supply Disruption Concerns"
- },
- {
-  "title": "黑色期货早报：各品种下跌，多机构料螺纹钢震荡运行",
-  "url": "https://news.mysteel.com/a/26090109/692FFE5F69E1F419.html",
-  "summary": "",
-  "pub_time": "2026-09-01T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "2085af36d3995f6bf46c70cb433f996a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  }
 ]
