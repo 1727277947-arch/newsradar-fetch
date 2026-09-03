@@ -975,7 +975,7 @@
   "is_elite": false
  },
  {
-  "title": "格陵兰矿业完成收购 Sarfartoq 稀土磁体项目",
+  "title": "格陵兰矿业完成对 Sarfartoq 稀土磁体项目的收购",
   "url": "",
   "summary": "该公司称 Sarfartoq 为岛上“最先进、最引人注目的稀土项目”之一，理由是其高品位性质和有利的北极物流。",
   "pub_time": "2026-09-02T23:48:07Z",
@@ -1261,6 +1261,34 @@
   "en_title": "U.S. Diesel Prices Close In on April War Peak"
  },
  {
+  "title": "由于伊朗战争中断供应，OPEC+将保持石油产量稳定",
+  "url": "",
+  "summary": "路透社周三援引三位知情人士的话报道称，OPEC+ 七名核心成员将于周日举行会议，届时 OPEC+ 可能会维持 10 月份石油生产政策不变。沙特阿拉伯、俄罗斯、伊拉克、科威特、阿尔及利亚、哈萨克斯坦和阿曼定于格林尼治标准时间周日 11:00 在线举行会议。时间",
+  "pub_time": "2026-09-02T19:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "6049a01f72bf8ccce46ca5cb6102496e",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "供应",
+   "产量"
+  ],
+  "en_title": "OPEC+ Set to Hold Oil Output Steady as Iran War Disrupts Supply"
+ },
+ {
   "title": "埃尔多拉多希望扩大麦克尔文纳湾铜厂",
   "url": "",
   "summary": "随着萨斯喀彻温省铜锌金银矿逐步走向商业化，埃尔多拉多黄金公司（多伦多证券交易所股票代码：ELD；纽约证券交易所股票代码：EGO）正在研究将其麦克尔文纳湾加工厂扩建 43%，并建设一条新的银铅线路。",
@@ -1420,34 +1448,6 @@
   "en_title": "Quad County Corn Processors Ethanol Plant and Multi-Tract Commercial Real Estate Portfolio to be Sold Via Lender-Ordered Sealed Bid Auction"
  },
  {
-  "title": "由于伊朗战争中断供应，OPEC+将保持石油产量稳定",
-  "url": "",
-  "summary": "路透社周三援引三位知情人士的话报道称，OPEC+ 七名核心成员将于周日举行会议，届时 OPEC+ 可能会维持 10 月份石油生产政策不变。沙特阿拉伯、俄罗斯、伊拉克、科威特、阿尔及利亚、哈萨克斯坦和阿曼定于格林尼治标准时间周日 11:00 在线举行会议。时间",
-  "pub_time": "2026-09-02T17:19:52Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "6049a01f72bf8ccce46ca5cb6102496e",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "供应",
-   "产量"
-  ],
-  "en_title": "OPEC+ Set to Hold Oil Output Steady as Iran War Disrupts Supply"
- },
- {
   "title": "Diablillos 钻探揭示了令人鼓舞的近地表矿化",
   "url": "",
   "summary": "Diablillos 是阿根廷最大的未开发贵金属项目之一。",
@@ -1501,7 +1501,7 @@
  {
   "title": "特朗普“历史上最大的石油交易”背后的可疑时机",
   "url": "",
-  "summary": "唐纳德·特朗普总统上周五晚间发布了一项可能影响市场走势的声明。他表示，美国已经达成了他所谓的“世界历史上最大的石油协议”，使美国对委内瑞拉已探明的石油储量超过650亿桶拥有多数控制权。特朗普进一步",
+  "summary": "唐纳德·特朗普总统上周五晚间发布了一项可能影响市场的公告。他表示，美国已经达成了他所谓的“世界历史上最大的石油协议”，使美国对委内瑞拉已探明的石油储量超过650亿桶拥有多数控制权。特朗普进一步",
   "pub_time": "2026-09-02T17:00:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -1608,7 +1608,7 @@
   "en_title": "Hormuz Traffic Craters to Four Ships as Iran-U.S. Strikes Escalate"
  },
  {
-  "title": "了解 Silvercorp Metals 如何跻身分析师首选金属之列",
+  "title": "了解 Silvercorp Metals 如何跻身分析师首选金属行列",
   "url": "",
   "summary": "根据 Metals Channel 的数据，对主要经纪公司的分析师推荐进行的研究显示，Silvercorp Metals Inc（代码：SVM）在构成 Metals Channel 全球矿业巨头指数的 50 只股票中平均排名第 32 名。金属频道GL",
   "pub_time": "2026-09-02T16:09:26Z",
@@ -1637,7 +1637,7 @@
  {
   "title": "美国特使在上海合作组织峰会期间访问中亚",
   "url": "",
-  "summary": "美国特朗普政府的两名高级特使闯入在吉尔吉斯斯坦首都比什凯克举行的上海合作组织峰会，与中亚高级领导人举行会谈，破坏了与会者之间团结一致的形象。上合组织峰会的主要参与者包括",
+  "summary": "美国特朗普政府的两名高级特使闯入在吉尔吉斯斯坦首都比什凯克举行的上海合作组织峰会，与中亚高级领导人举行会谈，破坏了与会者之间团结一致的表现。上合组织峰会的主要参与者包括",
   "pub_time": "2026-09-02T16:00:00Z",
   "source": "Oilprice.com",
   "_cat": "基本金属",
@@ -1847,7 +1847,7 @@
  {
   "title": "瑞安航空警告一些航空公司可能会因航油价格上涨而苦苦挣扎",
   "url": "",
-  "summary": "欧洲最大的低价航空公司瑞安航空周三降低了冬季客流量目标，以减少未对冲的高油价风险，并警告称，在高油价的情况下，一些对冲较少的竞争对手可能难以在今年冬天生存。自伊朗战争以来，交付量大幅减少",
+  "summary": "欧洲最大的低价航空公司瑞安航空周三降低了冬季客流量目标，以减少未对冲的高油价风险，并警告说，在高油价的情况下，一些对冲较少的竞争对手可能难以在今年冬天生存。自伊朗战争以来，交付量大幅减少",
   "pub_time": "2026-09-02T14:30:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -1959,7 +1959,7 @@
  {
   "title": "Core Lithium 完成分拆后，Axiant 登陆澳大利亚证券交易所",
   "url": "",
-  "summary": "800万澳元的流通让投资者可以直接接触Core的黄金和非锂资产，而Core保留33%的股份。",
+  "summary": "800万澳元的流通让投资者可以直接接触Core的黄金和非锂资产，同时Core保留33%的股份。",
   "pub_time": "2026-09-02T11:45:00Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -2049,7 +2049,7 @@
  {
   "title": "必和必拓商务主管因中国铁矿石紧张而辞职",
   "url": "",
-  "summary": "必和必拓 (ASX、LSE、NYSE: BHP) 首席商务官拉格·乌德 (Rag Udd) 将于 1 月底离开这家全球最大矿业公司，随着中国加大压力，该公司出现了一个重要的领导职位空缺。",
+  "summary": "必和必拓 (ASX、LSE、NYSE: BHP) 首席商务官拉格·乌德 (Rag Udd) 将于 1 月底离开这家全球最大的矿业公司，随着中国加大压力，该公司出现了一个重要的领导职位空缺。",
   "pub_time": "2026-09-02T10:59:00Z",
   "source": "NorthernMiner",
   "_cat": "基本金属",
@@ -2201,25 +2201,6 @@
    "原油"
   ],
   "en_title": "Oil Holds Steady Amid US-Iran War Escalation"
- },
- {
-  "title": "美国称周一有1700万桶原油通过霍尔木兹海峡",
-  "url": "https://news.mysteel.com/a/26090209/958432661A6EBFA1.html",
-  "summary": "",
-  "pub_time": "2026-09-02T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "98378f038773ec4c325c5b779d55005f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  },
  {
   "title": "9月1日SPDR黄金持仓量较前一日增加4.279吨",
@@ -2376,7 +2357,7 @@
  {
   "title": "AGF Seeds 的 Gretchen 进入麦芽认证程序",
   "url": "",
-  "summary": "澳大利亚谷物协会 (Grains Australia) 已接受 Gretchen 进入其麦芽认证程序，这是 AGF Seeds 大麦品种的首次认证。",
+  "summary": "澳大利亚谷物协会已接受 Gretchen 进入其麦芽认证程序，这是 AGF Seeds 大麦品种的首次认证。",
   "pub_time": "2026-09-02T06:10:08Z",
   "source": "GrainCentral",
   "_cat": "农产品",
@@ -2399,7 +2380,7 @@
   "en_title": "AGF Seeds’ Gretchen enters malt accreditation process"
  },
  {
-  "title": "道格拉斯·戴利 (Douglas Daly) 的干草和棉花面临挑战",
+  "title": "道格拉斯·达利 (Douglas Daly) 的干草和棉花面临挑战",
   "url": "",
   "summary": "当地的需求和稳定的产量使干草成为道格拉斯戴利地区最受欢迎的作物，随着高端农业的发展，这里正在试探棉花和其他作物。",
   "pub_time": "2026-09-02T05:53:40Z",
@@ -2596,25 +2577,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年9月2日大连大豆期货行情午报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/02/3316427437.shtml",
-  "summary": "",
-  "pub_time": "2026-09-02T00:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "cc23bca0703d24e44b77372504d9f416",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
   "title": "ICE油菜籽创下三年多高点，受原油走强推动",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/02/0305169530.shtml",
   "summary": "",
@@ -2630,6 +2592,25 @@
    "中文",
    "国内",
    "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月2日大连大豆期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/02/3316427437.shtml",
+  "summary": "",
+  "pub_time": "2026-09-02T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "da42ac8d592dd1842bcfcd916cdc7e9e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
   ],
   "is_elite": false
  },
@@ -3463,7 +3444,7 @@
  {
   "title": "随着原油价格飙升，美联储加息押注增加，金价暴跌",
   "url": "",
-  "summary": "(RTTNews) - 继两个交易日下跌之后，周二金价暴跌，原因是美国和伊朗之间周末发生新的袭击事件后原油价格继续飙升，这增加了美国加息的押注以遏制随之而来的通货膨胀。",
+  "summary": "(RTTNews) - 继两个交易日下跌之后，周二金价暴跌，原因是美国和伊朗之间周末发生新的袭击事件后原油价格继续飙升，这增加了美国加息的押注以遏制随之而来的通胀。",
   "pub_time": "2026-09-01T17:50:21Z",
   "source": "Nasdaq商品",
   "_cat": "贵金属",
