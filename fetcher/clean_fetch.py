@@ -328,6 +328,8 @@ def is_noise_text(title, summary):
     return any(w in t for w in noise)
 
 
+CN_SOURCES = set(["中国新闻网-财经","上海钢联Mysteel","粮油豆粕","粮油玉米","粮油大豆","粮油小麦","粮油菜籽","粮油首页"])
+
 FOREIGN_STRONG_PRICE = [
     "surge","surges","rallies","rally","record","shortage","deficit","surplus",
     "cuts","slashes","jumps","jump","rises","rise","falls","fall","plunges","plunge",
@@ -568,7 +570,7 @@ def build():
             a["dedup_key"] = hashlib.md5((a["title"] + "|" + a["source"]).encode()).hexdigest()
             a["score"] = m["score"]
             a["priority"] = m["priority"]
-            if src["kind"] == "comm" and not is_strong_foreign_price(a):
+            if a["source"] not in CN_SOURCES and not is_strong_foreign_price(a):
                 # foreign non-price/company items default to P2 so they do not crowd domestic P1 push
                 a["priority"] = "P2"
             a["topic"] = m["topic"]
