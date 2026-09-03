@@ -328,6 +328,17 @@ def is_noise_text(title, summary):
     return any(w in t for w in noise)
 
 
+FOREIGN_STRONG_PRICE = [
+    "surge","surges","rallies","rally","record","shortage","deficit","surplus",
+    "cuts","slashes","jumps","jump","rises","rise","falls","fall","plunges","plunge",
+    "hits","lowest","highest","cap","ban","tariff","opec","quota","supply","demand",
+    "inventory","stocks","exports surge","imports","supply gap","supply disruption",
+]
+
+def is_strong_foreign_price(a):
+    blob = ((a["title"] or "") + " " + (a.get("summary") or "")).lower()
+    return any(k in blob for k in FOREIGN_STRONG_PRICE)
+
 def is_bad(url):
     u = (url or "").strip()
     if not u.startswith("http"):
@@ -557,6 +568,9 @@ def build():
             a["dedup_key"] = hashlib.md5((a["title"] + "|" + a["source"]).encode()).hexdigest()
             a["score"] = m["score"]
             a["priority"] = m["priority"]
+            if src["kind"] == "comm" and not is_strong_foreign_price(a):
+                # foreign non-price/company items default to P2 so they do not crowd domestic P1 push
+                a["priority"] = "P2"
             a["topic"] = m["topic"]
             a["tags"] = m["tags"]
             a["is_elite"] = False

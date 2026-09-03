@@ -968,16 +968,21 @@ if __name__ == "__main__":
         print("[WARN] predict_next_open:", str(e)[:70])
 
     hf_picks = build_hf_picks(items, predictions)
-    daily_pick = hf_picks[0] if hf_picks and hf_picks[0].get("is_today") else (hf_picks[0] if hf_picks else {"name": "暂无"})
+    daily_pick = hf_picks[0] if hf_picks and hf_picks[0].get("is_today") else (hf_picks[0] if hf_picks else {"name": ""})
+
+    # ---- afternoon second board ----
+    pm_sym = (daily_pick or {}).get("symbol")
+    _ao = next((x for x in hf_picks if x.get("symbol") != pm_sym), None)
+    if _ao is None and hf_picks:
+        _ao = hf_picks[0]
+    today_s = time.strftime("%Y-%m-%d")
     obj = {
         "updated_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
-        "quote_ccy": "USD/CNY",
-        "note": "大宗商品现货/期货参考报价; 国内品种尽量给出现货(生意社)与期货(新浪)及基差(现货-期货), 供参考不作为交易依据",
-        "groups": ["贵金属", "基本金属", "黑色系", "能源", "农产品", "化工"],
         "prices": items,
         "predictions": predictions,
         "hf_picks": hf_picks,
-        "daily_pick": {"date": time.strftime("%Y-%m-%d"), **daily_pick},
+        "daily_pick": {"date": today_s, "session": "morning", **daily_pick},
+        "afternoon_pick": {"date": today_s, "session": "afternoon", **(_ao or {})},
         "trading_rules": TRADING_RULES,
         "rules_summary": TRADING_RULES_SUMMARY,
     }
