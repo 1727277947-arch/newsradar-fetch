@@ -586,7 +586,7 @@
   "_cat": "基本金属",
   "dedup_key": "8ea7620853160b82d9b41792620c222a",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "基本金属",
   "tags": [
    "基本金属",
@@ -1168,7 +1168,7 @@
   "_cat": "基本金属",
   "dedup_key": "e4bce53b9859d6b3f958336a8ca895b5",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "基本金属",
   "tags": [
    "基本金属",
@@ -1193,7 +1193,7 @@
   "_cat": "能源",
   "dedup_key": "a1cabf2e7f4560dd8a27d33ee72a0f53",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "能源",
   "tags": [
    "能源",
@@ -1247,7 +1247,7 @@
   "_cat": "基本金属",
   "dedup_key": "2ec517810a15ef5cc8c46e9bbb7e6dca",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "基本金属",
   "tags": [
    "基本金属",
@@ -1272,7 +1272,7 @@
   "_cat": "基本金属",
   "dedup_key": "7d7fc4d7f63c6d8bac716c3c93fa9311",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "基本金属",
   "tags": [
    "基本金属",
@@ -1298,7 +1298,7 @@
   "_cat": "贵金属",
   "dedup_key": "2e74869e5185c9b932604a8ad3a70c2c",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "贵金属",
   "tags": [
    "贵金属",
@@ -1324,7 +1324,7 @@
   "_cat": "基本金属",
   "dedup_key": "4edad1c1def5315a1ce1dd8d2eca9e97",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "基本金属",
   "tags": [
    "基本金属",
@@ -1349,7 +1349,7 @@
   "_cat": "贵金属",
   "dedup_key": "c38f3ed5d568c2db7de8f2cacfd94419",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "贵金属",
   "tags": [
    "贵金属",
@@ -1375,7 +1375,7 @@
   "_cat": "基本金属",
   "dedup_key": "aee001b706ed762b7a7f16e2c21c17b8",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "基本金属",
   "tags": [
    "基本金属",
@@ -1402,7 +1402,7 @@
   "_cat": "贵金属",
   "dedup_key": "3aa084b00dba8f4ca5235bbabbad6b53",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "贵金属",
   "tags": [
    "贵金属",
@@ -1482,7 +1482,7 @@
   "_cat": "贵金属",
   "dedup_key": "541382b92b87752c81d92912720a1d96",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "贵金属",
   "tags": [
    "贵金属",
@@ -1535,7 +1535,7 @@
   "_cat": "能源",
   "dedup_key": "2f713a00dc9838c70551d933ebb79e9b",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "能源",
   "tags": [
    "能源",
@@ -1615,7 +1615,7 @@
   "_cat": "农产品",
   "dedup_key": "d602a20fb484c5d844765f385ab43217",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "农产品",
   "tags": [
    "农产品",
@@ -1641,7 +1641,7 @@
   "_cat": "基本金属",
   "dedup_key": "a854e85c164474995b82a10578d9bf0c",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "基本金属",
   "tags": [
    "基本金属",
@@ -1666,7 +1666,7 @@
   "_cat": "农产品",
   "dedup_key": "7117162148b757d8fb19cff09ec90967",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "农产品",
   "tags": [
    "农产品",
@@ -1692,7 +1692,7 @@
   "_cat": "能源",
   "dedup_key": "5c362aabdc28f9392fc9853d06ac84c2",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "能源",
   "tags": [
    "能源",
@@ -1775,7 +1775,7 @@
   "_cat": "能源",
   "dedup_key": "06029db8e6b00223e61a9dca45e31896",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "能源",
   "tags": [
    "能源",
@@ -1954,7 +1954,7 @@
   "_cat": "能源",
   "dedup_key": "1acc13463cf2e70a1ee82f438e6fd39d",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "能源",
   "tags": [
    "能源",
@@ -1982,7 +1982,7 @@
   "_cat": "贵金属",
   "dedup_key": "cc6874e80e14e81d79ce5345f2b5343b",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "贵金属",
   "tags": [
    "贵金属",
@@ -2038,7 +2038,7 @@
   "_cat": "能源",
   "dedup_key": "844a6b86cd514530622d9abcb11dc8a8",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "能源",
   "tags": [
    "能源",
@@ -2194,7 +2194,7 @@
   "_cat": "基本金属",
   "dedup_key": "0403d39bf3927e8b8bfe281350763d3c",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "基本金属",
   "tags": [
    "基本金属",
@@ -2221,7 +2221,7 @@
   "_cat": "基本金属",
   "dedup_key": "3f9f3ff7a48b1b710a16d2673b4ce0d9",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "基本金属",
   "tags": [
    "基本金属",
@@ -2324,7 +2324,7 @@
   "_cat": "贵金属",
   "dedup_key": "ef91235c36e3b60cf4764f3d2b0c33ea",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "贵金属",
   "tags": [
    "贵金属",
@@ -2529,7 +2529,7 @@
   "_cat": "农产品",
   "dedup_key": "8f81b6ea3feaadd091bc262ba512df21",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "农产品",
   "tags": [
    "农产品",
@@ -3321,7 +3321,7 @@
   "_cat": "基本金属",
   "dedup_key": "80fa3594f970a559cf28e930141502a2",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "基本金属",
   "tags": [
    "基本金属",
@@ -3347,7 +3347,7 @@
   "_cat": "能源",
   "dedup_key": "667112d26ae5a0d783ac60a52d3a347e",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "能源",
   "tags": [
    "能源",
@@ -3374,7 +3374,7 @@
   "_cat": "基本金属",
   "dedup_key": "0d7f8020d3d4006e3e06d254362715af",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "基本金属",
   "tags": [
    "基本金属",
@@ -3399,7 +3399,7 @@
   "_cat": "贵金属",
   "dedup_key": "13e46706157e8323199ffcc983b762c4",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "贵金属",
   "tags": [
    "贵金属",
@@ -3479,7 +3479,7 @@
   "_cat": "基本金属",
   "dedup_key": "682a9c74032b621413985abe0b0e1601",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "基本金属",
   "tags": [
    "基本金属",
@@ -3544,7 +3544,7 @@
   "_cat": "贵金属",
   "dedup_key": "6504c6571d3dd41d02229da98af2308b",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "贵金属",
   "tags": [
    "贵金属",
@@ -3571,7 +3571,7 @@
   "_cat": "农产品",
   "dedup_key": "c2c6441342f27bffd5fa78767ec07a34",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "农产品",
   "tags": [
    "农产品",
@@ -3627,7 +3627,7 @@
   "_cat": "基本金属",
   "dedup_key": "dc90ad5dc26db5107c4df743624e8f43",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "基本金属",
   "tags": [
    "基本金属",
@@ -3843,7 +3843,7 @@
   "_cat": "贵金属",
   "dedup_key": "510b473ae8ede8ade4293111cb5599ac",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "贵金属",
   "tags": [
    "贵金属",
