@@ -228,6 +228,31 @@
   "is_elite": false
  },
  {
+  "title": "莱比锡无人机袭击后欧盟誓言对俄罗斯采取更严厉措施",
+  "url": "",
+  "summary": "欧盟委员会主席乌尔苏拉·冯德莱恩 (Ursula von der Leyen) 9 月 2 日表示，莱比锡机场最近发生的载有爆炸物的无人机中断航班的事件已成为“新常态”，并誓言对莫斯科采取更多限制性措施。 “莱比锡标志着欧洲土地上的新一轮升级，直接归因于",
+  "pub_time": "2026-09-03T14:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "f6ec9d3098a3a515b60613946ce7d908",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "EU Vows Tougher Russia Measures After Leipzig Drone Attack"
+ },
+ {
   "title": "图说：九大钢铁集团2026年半年业绩出炉",
   "url": "https://news.mysteel.com/a/26090314/BCA2804AD73F0653.html",
   "summary": "",
@@ -285,6 +310,56 @@
   "is_elite": false
  },
  {
+  "title": "SW美国首席执行官聊天：凯普斯通致力于长期发展亚利桑那州矿山",
+  "url": "",
+  "summary": "Capstone Copper (TSX: CS; ASX: CSC) 首席执行官 Cashel Meagher 表示，致力于对其位于亚利桑那州的 Pinto Valley 露天矿进行现代化改造，以提高产量并可能延长矿山寿命。位于...后西南美国首席执行官聊天：凯普斯通致力于亚利桑那州矿山的长期发展首先出现在北方",
+  "pub_time": "2026-09-03T13:31:39Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "2e2f0325c8736f06e3df2ff75ae9b66c",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "SW US CEO chat: Capstone devoted to Arizona mine for long haul"
+ },
+ {
+  "title": "日本油轮巨头警告称，霍尔木兹海峡的中断可能会持续到明年",
+  "url": "",
+  "summary": "全球最大的油轮运营商日本商船三井预计，由于本周敌对行动重新升级，霍尔木兹海峡的航运中断将持续比之前预期更长的时间，而且到今年年底也不会恢复正常。 “鉴于目前的情况，",
+  "pub_time": "2026-09-03T13:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "ae5571369916210110e827a284b5802e",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Hormuz Disruptions Could Drag Into Next Year, Japanese Tanker Giant Warns"
+ },
+ {
   "title": "上海：“十五五”时期将分层构建“上海价格” 丰富场外大宗商品衍生品供给",
   "url": "https://news.mysteel.com/a/26090313/409554D3A7DEB445.html",
   "summary": "",
@@ -302,6 +377,32 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
+ },
+ {
+  "title": "SW美国首席执行官聊天：艾芬豪电气为亚利桑那州铜矿项目绘制了10亿美元债务路径",
+  "url": "",
+  "summary": "艾芬豪电气 (NYSE-A, TSX: IE) 首席执行官泰勒·梅尔文 (Taylor Melvin) 表示，该公司的目标是在圣克鲁斯开始早期建设时获得超过 10 亿美元的美国支持债务......西南美国首席执行官后聊天：艾芬豪电气为亚利桑那州铜矿项目绘制了 10 亿美元债务路径，首先出现在北密歇根州",
+  "pub_time": "2026-09-03T12:00:35Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "8126b3d5d81a986826bec93b8d2b58f3",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜"
+  ],
+  "en_title": "SW US CEO chat: Ivanhoe Electric maps $1B debt path for Arizona copper project"
  },
  {
   "title": "广西钢铁2号煤棚主体网架顺利合拢",
@@ -420,7 +521,7 @@
  {
   "title": "欧洲天然气库存较低，为冬季液化天然气之战奠定了基础",
   "url": "",
-  "summary": "欧洲天然气储存量处于近二十年来的最低水平，未来几个月可能会加剧液化天然气供应的竞争，因为欧洲和亚洲都在争夺日益萎缩的供应池，而中东的液化天然气仍被封锁在霍尔木兹海峡。 “全球‘f’的潜力",
+  "summary": "欧洲天然气储存量处于近二十年来的最低水平，这可能会加剧未来几个月液化天然气供应的竞争，因为欧洲和亚洲都在争夺日益萎缩的供应池，而中东的液化天然气仍然被封锁在霍尔木兹海峡。 “全球‘f’的潜力",
   "pub_time": "2026-09-03T09:45:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -511,25 +612,6 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "马矿股份登陆上交所主板，系福建首家专业化铁矿采选上市企业",
-  "url": "https://news.mysteel.com/a/26090309/B57039B52B7D350E.html",
-  "summary": "",
-  "pub_time": "2026-09-03T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "d4cd0dba9176e4713c2b13eeb3bf7263",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -876,7 +958,7 @@
  },
  {
   "title": "Mysteel早读：宝钢10月电镀锡（铬）涨150元，安徽建筑钢材规格加价调整",
-  "url": "https://news.mysteel.com/a/26090307/3F6BB508EE713CBD.html",
+  "url": "https://news.mysteel.com/a/26090307/1363B86FAF83BEC2.html",
   "summary": "",
   "pub_time": "2026-09-03T07:00:00Z",
   "source": "上海钢联Mysteel",
@@ -922,7 +1004,7 @@
  {
   "title": "饲料谷物焦点：随着气温上升，种植者销售增加",
   "url": "",
-  "summary": "过去一周小麦价格上涨了 10-15 美元/吨，而南方大麦因种植者销售增加而走软。",
+  "summary": "过去一周小麦价格上涨了 10-15 美元/吨，而南方大麦因种植者销售增加而走弱。",
   "pub_time": "2026-09-03T04:00:47Z",
   "source": "GrainCentral",
   "_cat": "农产品",
@@ -947,7 +1029,7 @@
   "en_title": "Feedgrain Focus: Grower selling picks up as temperatures rise"
  },
  {
-  "title": "加拿大滨海商品公司进入破产管理程序",
+  "title": "加拿大码头商品公司进入破产管理程序",
   "url": "",
   "summary": "加拿大一家法院已指定毕马威公司 (KPMG Inc.) 为豆类交易商 Marina Commodities、其澳大利亚子公司以及相关非经营实体 Ausican Commodities 的接管人。",
   "pub_time": "2026-09-03T02:57:09Z",
@@ -1795,7 +1877,7 @@
   "is_elite": false
  },
  {
-  "title": "格陵兰矿业完成对 Sarfartoq 稀土磁体项目的收购",
+  "title": "格陵兰矿业完成收购 Sarfartoq 稀土磁体项目",
   "url": "",
   "summary": "该公司称 Sarfartoq 为岛上“最先进、最引人注目的稀土项目”之一，理由是其高品位性质和有利的北极物流。",
   "pub_time": "2026-09-02T23:48:07Z",
@@ -2319,32 +2401,6 @@
   "en_title": "South Dakota Wheat Breeder Edgar McFadden Honored With SDSU Sculpture"
  },
  {
-  "title": "特朗普“历史上最大的石油交易”背后的可疑时机",
-  "url": "",
-  "summary": "唐纳德·特朗普总统上周五晚间发布了一项可能影响市场的公告。他表示，美国已经达成了他所谓的“世界历史上最大的石油协议”，使美国对委内瑞拉已探明的石油储量超过650亿桶拥有多数控制权。特朗普进一步",
-  "pub_time": "2026-09-02T17:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "5c362aabdc28f9392fc9853d06ac84c2",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "The Suspicious Timing Behind Trump's “Biggest Oil Deal In History”"
- },
- {
   "title": "Mysteel晚餐：唐山钢坯亏损超百元，本期中国钢材出口发运环比增加",
   "url": "https://news.mysteel.com/a/26090217/9F064BC0CC571C7F.html",
   "summary": "",
@@ -2383,33 +2439,7 @@
   "is_elite": false
  },
  {
-  "title": "伊朗与美国之间的霍尔木兹海峡对四艘船造成了弹坑罢工升级",
-  "url": "",
-  "summary": "周一，一艘沙特油轮在霍尔木兹海峡遭到袭击，造成两名水手死亡。随着德黑兰对该地区的美国基地发动新一波导弹和无人机袭击，利雅得现在正式指责伊朗以巴赫里拥有的“锡德尔”号为目标。 Bahri周三证实，两名F",
-  "pub_time": "2026-09-02T16:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "06029db8e6b00223e61a9dca45e31896",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "罢工"
-  ],
-  "en_title": "Hormuz Traffic Craters to Four Ships as Iran-U.S. Strikes Escalate"
- },
- {
-  "title": "了解 Silvercorp Metals 如何跻身分析师首选金属行列",
+  "title": "了解 Silvercorp Metals 如何跻身分析师首选金属之列",
   "url": "",
   "summary": "根据 Metals Channel 的数据，对主要经纪公司的分析师推荐进行的研究显示，Silvercorp Metals Inc（代码：SVM）在构成 Metals Channel 全球矿业巨头指数的 50 只股票中平均排名第 32 名。金属频道GL",
   "pub_time": "2026-09-02T16:09:26Z",
@@ -2587,7 +2617,7 @@
  {
   "title": "Core Lithium 完成分拆后，Axiant 登陆澳大利亚证券交易所",
   "url": "",
-  "summary": "800万澳元的流通让投资者可以直接接触Core的黄金和非锂资产，同时Core保留33%的股份。",
+  "summary": "800万澳元的流通让投资者可以直接接触Core的黄金和非锂资产，而Core保留33%的股份。",
   "pub_time": "2026-09-02T11:45:00Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -2658,7 +2688,7 @@
  {
   "title": "必和必拓商务主管因中国铁矿石紧张而辞职",
   "url": "",
-  "summary": "必和必拓 (ASX、LSE、NYSE: BHP) 首席商务官拉格·乌德 (Rag Udd) 将于 1 月底离开这家全球最大的矿业公司，随着中国加大压力，该公司出现了一个重要的领导职位空缺。",
+  "summary": "必和必拓 (ASX、LSE、NYSE: BHP) 首席商务官拉格·乌德 (Rag Udd) 将于 1 月底离开这家全球最大矿业公司，随着中国加大压力，该公司出现了一个重要的领导职位空缺。",
   "pub_time": "2026-09-02T10:59:00Z",
   "source": "NorthernMiner",
   "_cat": "基本金属",
@@ -2947,7 +2977,7 @@
  {
   "title": "AGF Seeds 的 Gretchen 进入麦芽认证程序",
   "url": "",
-  "summary": "澳大利亚谷物协会已接受 Gretchen 进入其麦芽认证程序，这是 AGF Seeds 大麦品种的首次认证。",
+  "summary": "澳大利亚谷物协会 (Grains Australia) 已接受 Gretchen 进入其麦芽认证程序，这是 AGF Seeds 大麦品种的首次认证。",
   "pub_time": "2026-09-02T06:10:08Z",
   "source": "GrainCentral",
   "_cat": "农产品",
@@ -2970,7 +3000,7 @@
   "en_title": "AGF Seeds’ Gretchen enters malt accreditation process"
  },
  {
-  "title": "道格拉斯·达利 (Douglas Daly) 的干草和棉花面临挑战",
+  "title": "道格拉斯·戴利 (Douglas Daly) 的干草和棉花面临挑战",
   "url": "",
   "summary": "当地的需求和稳定的产量使干草成为道格拉斯戴利地区最受欢迎的作物，随着高端农业的发展，这里正在试探棉花和其他作物。",
   "pub_time": "2026-09-02T05:53:40Z",
@@ -3720,32 +3750,6 @@
   "en_title": "Editorial: The money is already here"
  },
  {
-  "title": "Collective 延长哥伦比亚阿波罗计划 15 克/吨黄金产量",
-  "url": "",
-  "summary": "Collective Mining 在哥伦比亚扩展了其阿波罗系统，初步资源预计将于本月发布。",
-  "pub_time": "2026-09-01T19:09:43Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "13e46706157e8323199ffcc983b762c4",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Collective extends Colombia’s Apollo on 15-g/t gold hit"
- },
- {
   "title": "Sibanye 确定了两大洲的铜金项目",
   "url": "",
   "summary": "Sibanye-Stillwater（JSE：SSW；纽约证券交易所：SBSW）已批准其位于塔斯马尼亚的 Mt Lyell 铜金项目和位于南非的 Burnstone 黄金项目，随着金属价格走强，这两项长期开发项目将得到推进……Sibanye OKs 后两大洲的铜金项目首先出现在《The No》上。",
@@ -3800,33 +3804,6 @@
   "en_title": "Crude Oil Skyrockets As U.S. Begins Second Wave Of Attacks On Iran"
  },
  {
-  "title": "SW美国首席执行官谈话：能源燃料转向稀土",
-  "url": "",
-  "summary": "Energy Fuels（多伦多证交所代码：EFR；NYSE-A：UUUU）越来越多地将其未来寄托在稀土而非铀上，这家总部位于科罗拉多州的矿商现在预计其大部分收入将来自......",
-  "pub_time": "2026-09-01T18:30:06Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "682a9c74032b621413985abe0b0e1601",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "燃料",
-   "能源"
-  ],
-  "en_title": "SW US CEO chat: Energy Fuels pivots to rare earths"
- },
- {
   "title": "Mysteel解读：从301到232再到CBAM——中国出口面临的关税新格局",
   "url": "https://news.mysteel.com/a/26090118/17F1709931A56482.html",
   "summary": "",
@@ -3865,33 +3842,6 @@
   "is_elite": false
  },
  {
-  "title": "ACG 开始在土耳其生产铜精矿",
-  "url": "",
-  "summary": "ACG Metals（伦敦证券交易所股票代码：ACG）在土耳其的 Gediktepe 矿生产出第一批铜精矿，标志着该公司从贵金属转型，其目标是到年底实现全面生产硫化物... ACG 开始在土耳其生产铜精矿后的消息首先出现在《The Northern Miner》上。",
-  "pub_time": "2026-09-01T17:58:46Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "6504c6571d3dd41d02229da98af2308b",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "铜",
-   "产量"
-  ],
-  "en_title": "ACG starts copper concentrate output in Turkey"
- },
- {
   "title": "失败被任命为 Brock Grain Systems 区域经理",
   "url": "",
   "summary": "",
@@ -3920,7 +3870,7 @@
  {
   "title": "随着原油价格飙升，美联储加息押注增加，金价暴跌",
   "url": "",
-  "summary": "(RTTNews) - 继两个交易日下跌之后，周二金价暴跌，原因是美国和伊朗之间周末发生新的袭击事件后原油价格继续飙升，这增加了美国加息的押注以遏制随之而来的通胀。",
+  "summary": "(RTTNews) - 继两个交易日下跌之后，周二金价暴跌，原因是美国和伊朗之间周末发生新的袭击事件后原油价格继续飙升，这增加了美国加息的押注以遏制随之而来的通货膨胀。",
   "pub_time": "2026-09-01T17:50:21Z",
   "source": "Nasdaq商品",
   "_cat": "贵金属",
@@ -4024,25 +3974,6 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：8月工程机械行业大事记",
-  "url": "https://news.mysteel.com/a/26090113/954F8175B26C0B1E.html",
-  "summary": "",
-  "pub_time": "2026-09-01T13:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "384b3f488f31cb2a34d97285f048d1ce",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
