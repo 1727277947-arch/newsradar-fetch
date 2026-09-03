@@ -1,5 +1,94 @@
 [
  {
+  "title": "Mysteel早读：焦炭第四轮提涨全面落地",
+  "url": "https://news.mysteel.com/a/26090407/9AD06A731706E333.html",
+  "summary": "",
+  "pub_time": "2026-09-04T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "78a47b350b021446c2a19f384e3c6f8d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel早读：焦炭第四轮提涨全面落地，吕梁低硫主焦涨200元",
+  "url": "https://news.mysteel.com/a/26090407/5358BF4CA156BE13.html",
+  "summary": "",
+  "pub_time": "2026-09-04T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "51e51f0c206d8dbb5f15b7404d754b00",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "为什么石油巨头不想建造新的美国炼油厂",
+  "url": "",
+  "summary": "美国总统唐纳德·特朗普在本周的白宫会议上告诉石油生产商和炼油商，他希望立即降低汽油价格。由于全美平均汽油价格仍高于每加仑 4 美元，司机们将迎来最昂贵的劳动节周末",
+  "pub_time": "2026-09-03T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "84be5bf3944ae3b1dd07ed93daa1e86c",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Why Oil Majors Don’t Want to Build New U.S. Refineries"
+ },
+ {
+  "title": "AI数据中心热潮将美国电力设备推向崩溃点",
+  "url": "",
+  "summary": "大型科技公司在人工智能上投入了数万亿美元，其中很大一部分将用于建设为大型语言模型提供支持的数据中心。股市在大型科技股中反映出了这一点，但这并不是唯一乘着人工智能浪潮的行业。贝克",
+  "pub_time": "2026-09-03T22:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "0b87ba85a8a1d184a820df729bc20122",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "AI Data Center Boom Pushes U.S. Power Equipment to the Breaking Point"
+ },
+ {
   "title": "“完美风暴”袭击航运业，波罗的海干散货运价指数爆发",
   "url": "",
   "summary": "据彭博社报道，台风正在挤压海岬型船舶的供应，而矿业公司则增加了铁矿石在全球的运输量，衡量全球主要航线运输原材料成本的每日基准本周突破近三年高点。",
@@ -25,7 +114,7 @@
   "en_title": "Baltic Dry Index Breaks Out as a “Perfect Storm” Hits Shipping"
  },
  {
-  "title": "SW美国首席执行官聊天：艾芬豪电气为亚利桑那铜矿项目绘制了10亿美元债务路径",
+  "title": "SW美国首席执行官聊天：艾芬豪电气为亚利桑那州铜矿项目绘制了10亿美元债务路径",
   "url": "",
   "summary": "艾芬豪电气 (NYSE-A, TSX: IE) 首席执行官泰勒·梅尔文 (Taylor Melvin) 表示，该公司的目标是在圣克鲁斯开始早期建设时获得超过 10 亿美元的美国支持债务......西南美国首席执行官后聊天：艾芬豪电气为亚利桑那州铜矿项目绘制了 10 亿美元债务路径，首先出现在北密歇根州",
   "pub_time": "2026-09-03T19:35:35Z",
@@ -78,7 +167,7 @@
  {
   "title": "电动卡车已从不可能变为必然",
   "url": "",
-  "summary": "重型卡车本应是电池停止工作的地方。批评者承认，电动汽车可以管理学校跑步和通勤。但长途货运需要航程、快速加油和最大有效载荷。电池太大、太重并且充电太慢。公共汽车可能",
+  "summary": "重型卡车本应是电池停止工作的地方。批评者承认，电动汽车可以管理学校运行和通勤。但长途货运需要航程、快速加油和最大有效载荷。电池太大、太重并且充电太慢。公共汽车可能",
   "pub_time": "2026-09-03T19:00:00Z",
   "source": "Oilprice.com",
   "_cat": "基本金属",
@@ -350,25 +439,6 @@
   "en_title": "Brazil Hands Government Control Over Mining Deals"
  },
  {
-  "title": "Mysteel晚餐：钢材总库存下降",
-  "url": "https://news.mysteel.com/a/26090317/CF5C67017695B7A2.html",
-  "summary": "",
-  "pub_time": "2026-09-03T17:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "082095dd49df4a6a35b6e65010e271e2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "关键矿产日报：9家铜企披露半年产量",
   "url": "https://news.mysteel.com/a/26090317/2234C9668BD40F36.html",
   "summary": "",
@@ -473,7 +543,7 @@
  {
   "title": "哥伦比亚废除10项采矿规则以吸引投资者",
   "url": "",
-  "summary": "哥伦比亚新​​政府废除了 10 项限制自然资源勘探和开采的决议，加速了总统阿韦拉多·德拉埃斯普里埃拉 (Abelardo De La Espriella) 推动重振矿业投资并释放该国基本上未开发的资源的努力……哥伦比亚废除 10 项采矿规则以吸引投资者",
+  "summary": "哥伦比亚新​​政府废除了 10 项限制自然资源勘探和开采的决议，加速了总统阿韦拉多·德拉埃斯普里埃拉 (Abelardo De La Espriella) 推动重振矿业投资并释放该国基本上未开发的资源的努力......哥伦比亚废除 10 项采矿规则以吸引投资者",
   "pub_time": "2026-09-03T16:37:00Z",
   "source": "NorthernMiner",
   "_cat": "基本金属",
@@ -551,7 +621,7 @@
  {
   "title": "石油危机扰乱全球市场，英国借贷成本飙升",
   "url": "",
-  "summary": "国际货币基金组织表示，随着英国债券收益率达到金融危机以来的水平，全球借贷成本上升是一个“特别令人担忧的问题”。周三上午，英国 10 年期国债收益率攀升 4 个基点，至接近 5.27%，此前的收益率为",
+  "summary": "国际货币基金组织表示，随着英国债券收益率达到金融危机以来的水平，全球借贷成本上升是一个“特别令人担忧的问题”。周三上午，英国 10 年期国债收益率攀升 4 个基点，至接近 5.27%，继上一交易日之后",
   "pub_time": "2026-09-03T16:00:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -576,25 +646,6 @@
   "en_title": "UK Borrowing Costs Surge as Oil Shock Rattles Global Markets"
  },
  {
-  "title": "有色持仓日报：沪铝涨1.29%，国泰君安减持超3.1千手空单",
-  "url": "https://news.mysteel.com/a/26090316/1AAA9ABF4751E7B7.html",
-  "summary": "",
-  "pub_time": "2026-09-03T16:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "50b9b22bb54b9560e25b088c7bd5e9ff",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel月报：9月份热轧板卷价格或将震荡走强",
   "url": "https://news.mysteel.com/a/26090316/3D5594B7560653D2.html",
   "summary": "",
@@ -607,6 +658,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "有色持仓日报：沪铝涨1.29%，国泰君安减持超3.1千手空单",
+  "url": "https://news.mysteel.com/a/26090316/A5CEE12E3D07F64A.html",
+  "summary": "",
+  "pub_time": "2026-09-03T16:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "50b9b22bb54b9560e25b088c7bd5e9ff",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -1475,7 +1545,7 @@
   "en_title": "Feedgrain Focus: Grower selling picks up as temperatures rise"
  },
  {
-  "title": "加拿大码头商品公司进入破产管理程序",
+  "title": "加拿大滨海商品公司进入破产管理程序",
   "url": "",
   "summary": "加拿大一家法院已指定毕马威公司 (KPMG Inc.) 为豆类交易商 Marina Commodities、其澳大利亚子公司以及相关非经营实体 Ausican Commodities 的接管人。",
   "pub_time": "2026-09-03T02:57:09Z",
@@ -2555,7 +2625,7 @@
   "en_title": "Eldorado eyes bigger McIlvenna Bay copper mill"
  },
  {
-  "title": "随着美国与伊朗的冲突加剧，原油价格飙升，使霍尔木兹海峡重新开放充满不确定性",
+  "title": "随着美国与伊朗的紧张局势加剧，原油价格飙升，使霍尔木兹海峡重新开放充满不确定性",
   "url": "",
   "summary": "(RTTNews) - 原油价格周三大幅上涨，延续了前两个交易日的强劲涨幅，原因是美国昨天开始对伊朗进行第二轮袭击，引发伊朗的强力报复，引发人们对海湾战争旷日持久的担忧加深。报告",
   "pub_time": "2026-09-02T18:37:34Z",
@@ -2636,7 +2706,7 @@
   "en_title": "Gold Rises After ADP Data Overrides Inflation Concerns Due To U.S.-Iran Conflict"
  },
  {
-  "title": "四郡玉米加工乙醇厂和多区商业房地产",
+  "title": "四郡玉米加工乙醇厂和多区商业地产",
   "url": "",
   "summary": "",
   "pub_time": "2026-09-02T17:28:00Z",
@@ -2660,31 +2730,6 @@
    "玉米"
   ],
   "en_title": "Quad County Corn Processors Ethanol Plant and Multi-Tract Commercial Real Estate Portfolio to be Sold Via Lender-Ordered Sealed Bid Auction"
- },
- {
-  "title": "Diablillos 钻探揭示了令人鼓舞的近地表矿化",
-  "url": "",
-  "summary": "Diablillos 是阿根廷最大的未开发贵金属项目之一。",
-  "pub_time": "2026-09-02T17:14:01Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "a854e85c164474995b82a10578d9bf0c",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Diablillos drilling reveals encouraging near-surface mineralization"
  },
  {
   "title": "南达科他州小麦育种家 Edgar McFadden 荣获 SDSU 雕塑奖",
@@ -3210,7 +3255,7 @@
  {
   "title": "AGF Seeds 的 Gretchen 进入麦芽认证程序",
   "url": "",
-  "summary": "澳大利亚谷物协会 (Grains Australia) 已接受 Gretchen 进入其麦芽认证程序，这是 AGF Seeds 大麦品种的首次认证。",
+  "summary": "澳大利亚谷物协会已接受 Gretchen 进入其麦芽认证程序，这是 AGF Seeds 大麦品种的首次认证。",
   "pub_time": "2026-09-02T06:10:08Z",
   "source": "GrainCentral",
   "_cat": "农产品",
