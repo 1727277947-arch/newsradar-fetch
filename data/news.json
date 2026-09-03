@@ -513,25 +513,6 @@
   "is_elite": false
  },
  {
-  "title": "供应收缩，焦煤大概率偏强运行",
-  "url": "https://news.mysteel.com/a/26090308/27609E96E8ACA366.html",
-  "summary": "",
-  "pub_time": "2026-09-03T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "dbbeac2990ceabbf5f9f061d85ac24d8",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel早读：宝钢10月电镀锡（铬）涨150元，安徽建筑钢材规格加价调整",
   "url": "https://news.mysteel.com/a/26090307/3F6BB508EE713CBD.html",
   "summary": "",
@@ -1367,33 +1348,6 @@
   "en_title": "Podcast: Gold dealers face ‘credit crunch’, ft CPM Group’s Jeffrey Christian"
  },
  {
-  "title": "研究发现，大豆蛋白与锌和硫含量有关",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-02T19:03:00Z",
-  "source": "Grainnet",
-  "_cat": "基本金属",
-  "dedup_key": "aee001b706ed762b7a7f16e2c21c17b8",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锌",
-   "大豆"
-  ],
-  "en_title": "Soybean Protein Linked to Zinc and Sulfur Levels, Study Finds"
- },
- {
   "title": "埃尔多拉多希望扩大麦克尔文纳湾铜厂",
   "url": "",
   "summary": "该作业预计平均生产 4100 万磅铜、20,000 盎司铜。黄金和 444,000 盎司。每年白银。",
@@ -1607,32 +1561,6 @@
   "en_title": "Gold Rises After ADP Data Overrides Inflation Concerns Due To U.S.-Iran Conflict"
  },
  {
-  "title": "四郡玉米加工乙醇厂和多区商业地产",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-02T17:28:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "d602a20fb484c5d844765f385ab43217",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "玉米"
-  ],
-  "en_title": "Quad County Corn Processors Ethanol Plant and Multi-Tract Commercial Real Estate Portfolio to be Sold Via Lender-Ordered Sealed Bid Auction"
- },
- {
   "title": "Diablillos 钻探揭示了令人鼓舞的近地表矿化",
   "url": "",
   "summary": "Diablillos 是阿根廷最大的未开发贵金属项目之一。",
@@ -1656,32 +1584,6 @@
    "基本金属"
   ],
   "en_title": "Diablillos drilling reveals encouraging near-surface mineralization"
- },
- {
-  "title": "南达科他州小麦育种家 Edgar McFadden 荣获 SDSU 雕塑奖",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-02T17:04:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "7117162148b757d8fb19cff09ec90967",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "小麦"
-  ],
-  "en_title": "South Dakota Wheat Breeder Edgar McFadden Honored With SDSU Sculpture"
  },
  {
   "title": "特朗普“历史上最大的石油交易”背后的可疑时机",
@@ -2546,7 +2448,7 @@
   "en_title": "AGF Seeds’ Gretchen enters malt accreditation process"
  },
  {
-  "title": "道格拉斯·达利 (Douglas Daly) 的干草和棉花面临挑战",
+  "title": "道格拉斯·戴利 (Douglas Daly) 的干草和棉花面临挑战",
   "url": "",
   "summary": "当地的需求和稳定的产量使干草成为道格拉斯戴利地区最受欢迎的作物，随着高端农业的发展，这里正在试探棉花和其他作物。",
   "pub_time": "2026-09-02T05:53:40Z",
@@ -3561,32 +3463,6 @@
    "产量"
   ],
   "en_title": "ACG starts copper concentrate output in Turkey"
- },
- {
-  "title": "失败被任命为 Brock Grain Systems 区域经理",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-01T17:57:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "c2c6441342f27bffd5fa78767ec07a34",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "谷物"
-  ],
-  "en_title": "Fail Named District Manager for Brock Grain Systems"
  },
  {
   "title": "随着原油价格飙升，美联储加息押注增加，金价暴跌",
