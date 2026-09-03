@@ -133,6 +133,33 @@
   "is_elite": false
  },
  {
+  "title": "伊利诺伊州大豆协会宣布 2027 年 LEAD 等级",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-09-03T16:14:00Z",
+  "source": "Grainnet",
+  "_cat": "基本金属",
+  "dedup_key": "0076b776e5e6fb497bdc52136620a8a7",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铅",
+   "大豆"
+  ],
+  "en_title": "Illinois Soybean Association Announces 2027 LEAD Class"
+ },
+ {
   "title": "石油危机扰乱全球市场，英国借贷成本飙升",
   "url": "",
   "summary": "国际货币基金组织表示，随着英国债券收益率达到金融危机以来的水平，全球借贷成本上升是一个“特别令人担忧的问题”。周三上午，英国 10 年期国债收益率攀升 4 个基点，至接近 5.27%，此前的收益率为",
@@ -198,7 +225,7 @@
   "is_elite": false
  },
  {
-  "title": "了解钢铁动态如何在分析师的顶级金属精选中排名",
+  "title": "了解 Steel Dynamics 在分析师首选金属中的排名",
   "url": "",
   "summary": "根据 Metals Channel 的数据，对主要券商的分析师推荐进行的研究显示，Steel Dynamics Inc.（代码：STLD）在构成 Metals Channel 全球矿业巨头指数的 50 只股票中平均排名第 40 名。环球金属频道",
   "pub_time": "2026-09-03T15:49:15Z",
@@ -327,6 +354,33 @@
    "大涨"
   ],
   "en_title": "U.S. Diesel Prices Surge Toward All-Time High"
+ },
+ {
+  "title": "乌拉尔油价跌至 59 美元，俄罗斯石油收入下降",
+  "url": "",
+  "summary": "俄罗斯8月份石油净收入为3262亿卢布，约合37.6亿美元，同比下降22%，为2月份以来的最低月度总额。俄罗斯税务机关使用每桶略高于 59 美元的原油价格计算 8 月份石油收入。乌拉尔是俄罗斯主要出口地区",
+  "pub_time": "2026-09-03T15:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "16df2284ea32c47182e5bdf661632b9a",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "下跌"
+  ],
+  "en_title": "Russia’s Oil Revenue Sinks as Urals Falls to $59"
  },
  {
   "title": "黑色持仓日报：焦煤跌3.17%，中信期货减持近7千手多单",
@@ -2113,33 +2167,6 @@
    "价"
   ],
   "en_title": "U.S. SPR Depletion Threatens Further Oil Price Volatility"
- },
- {
-  "title": "白氢钻探推动三大洲势头强劲",
-  "url": "",
-  "summary": "科学家和初创企业相信，自然产生的氢可能成为下一个重大地质突破，释放大量氢来为清洁能源转型提供动力。美国、加拿大和澳大利亚的研究人员正在绘制地图并发现所谓的潜在来源。",
-  "pub_time": "2026-09-02T22:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "8464d9f8a3fe707a973e5d76bcd17bad",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡",
-   "走强"
-  ],
-  "en_title": "White Hydrogen Drilling Push Gains Momentum Across Three Continents"
  },
  {
   "title": "美国西南部采矿热潮与用水限制发生冲突",
