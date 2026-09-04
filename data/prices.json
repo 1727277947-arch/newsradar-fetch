@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-05T05:26:45",
+ "updated_at": "2026-09-05T05:42:45",
  "prices": [
   {
    "symbol": "XAU",
@@ -1209,11 +1209,11 @@
    "market": "国际",
    "kind": "future",
    "spot": null,
-   "future": 95.6,
+   "future": 95.83,
    "basis": null,
    "basis_pct": null,
-   "change": 0.08,
-   "change_pct": 0.08,
+   "change": 0.31,
+   "change_pct": 0.32,
    "trend": "up",
    "source": "oilprice.com(期货)",
    "note": "期货价格(延迟)"
