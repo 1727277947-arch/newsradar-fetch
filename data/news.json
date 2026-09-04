@@ -209,13 +209,66 @@
   "is_elite": false
  },
  {
-  "title": "随着投资者介入，央行黄金购买量减半",
+  "title": "俄罗斯石油公司首席执行官：石油市场发号施令的是中国，而不是欧佩克",
   "url": "",
-  "summary": "尽管金价仍维持在历史高位附近，但 7 月份央行的黄金购买量却下降了一半以上，这表明投资需求在支撑市场方面发挥了更大的作用。",
+  "summary": "俄罗斯最大石油生产商俄罗斯石油公司(Rosneft)首席执行官伊戈尔·谢钦(Igor Sechin)表示，中国及其春季和夏季的原油购买行为稳定了全球石油市场，因为现在发号施令的是北京，而不是欧佩克。中国巩固了其最终摇摆买家的地位",
+  "pub_time": "2026-09-04T16:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "598e7f3e822669ee6d2242965f0fcfd4",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Rosneft CEO: China Calls The Shots in Oil Markets, Not OPEC"
+ },
+ {
+  "title": "创纪录的柴油价格推动布伦特原油价格上涨至 95 美元",
+  "url": "",
+  "summary": "随着中间馏分油供应收紧，柴油价格和炼油裂缝飙升，布伦特原油价格升至 95 美元。星期五, 九月 04, 2026 炼油产品一直是油价上涨的主要推动力，尤其是柴油，因为全球中间馏分油供应前景持续恶化至 2026 年 9 月 4 日",
+  "pub_time": "2026-09-04T16:27:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "6ae36075c0fdcbf492560fc9f6875889",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "布伦特油价",
+   "价"
+  ],
+  "en_title": "Record Diesel Prices Push Brent Toward $95"
+ },
+ {
+  "title": "央行放慢步伐投资者提振金价",
+  "url": "",
+  "summary": "尽管金价仍维持在历史高位附近，但 7 月份央行黄金购买量下降了一半以上，这表明投资需求在支撑市场方面发挥了更大作用。",
   "pub_time": "2026-09-04T15:02:39Z",
   "source": "NorthernMiner",
   "_cat": "贵金属",
-  "dedup_key": "8fc6134051a0e61227d1b2c0f3b2463b",
+  "dedup_key": "0e0ee7ea9c5fd2001fbf64894ed99d51",
   "score": 84,
   "priority": "P1",
   "topic": "贵金属",
@@ -230,9 +283,10 @@
   "is_elite": false,
   "keywords": [
    "贵金属",
-   "黄金"
+   "黄金",
+   "价"
   ],
-  "en_title": "Central-bank gold buying halves as investors step in"
+  "en_title": "Investors buoy gold price as central banks slow"
  },
  {
   "title": "Mysteel：8月房地产大事记",
@@ -427,7 +481,7 @@
  {
   "title": "SW US：美国新锂矿即将建成",
   "url": "",
-  "summary": "雅宝（Albemarle）（纽约证券交易所股票代码：ALB）位于内华达州的 Silver Peak 矿是美国唯一活跃的锂资源，很快就会有公司。多达九个新锂矿... 《SW US：美国新锂矿即将到来》一文首先出现在《北方矿工》上。",
+  "summary": "雅宝（Albemarle）（纽约证券交易所股票代码：ALB）位于内华达州的 Silver Peak 矿是美国唯一活跃的锂资源，很快就会有公司。多达九个新的锂矿... 《SW US：新的美国锂矿即将到来》一文首先出现在《北方矿工》上。",
   "pub_time": "2026-09-04T13:00:02Z",
   "source": "NorthernMiner",
   "_cat": "贵金属",
@@ -531,7 +585,7 @@
  {
   "title": "欧洲天然气价格连续第四周上涨",
   "url": "",
-  "summary": "周五，欧洲基准天然气价格连续第四周上涨，因为中东局势的重新升级削弱了来自霍尔木兹海峡的液化天然气流量可能很快恢复正常的希望。荷兰产权转让机构 (TTF) 的前月价格，这是欧盟的基准",
+  "summary": "周五，欧洲基准天然气价格连续第四周上涨，因为中东局势的重新升级削弱了来自霍尔木兹海峡的液化天然气流量可能很快恢复正常的希望。荷兰产权转让机构 (TTF) 的前月价格，是欧盟的基准",
   "pub_time": "2026-09-04T12:30:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -1092,33 +1146,6 @@
   "is_elite": false
  },
  {
-  "title": "伊朗冲突令石油市场紧张，布伦特原油价格逼近 96 美元",
-  "url": "",
-  "summary": "由于中东战争仍在继续，和平的机会渺茫，原油价格今天继续攀升，预计每周将大幅上涨。截至撰写本文时，布伦特原油交易价格为每桶 95.55 美元，西德克萨斯中质原油交易价格为每桶 91.53 美元，原因是伊朗和",
-  "pub_time": "2026-09-04T05:40:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "a7d9f4388b5c5b089fdf8b6779db8f61",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "布伦特油价"
-  ],
-  "en_title": "Brent Nears $96 as Iran Conflict Keeps Oil Market on Edge"
- },
- {
   "title": "每日市场快讯 2026 年 9 月 4 日",
   "url": "",
   "summary": "暂定的黑海和平谈判给期货带来了喘息的机会，但现货小麦仍然提供支撑。澳大利亚的巨大产量潜力凸显了蛋白质价差。",
@@ -1142,32 +1169,6 @@
    "农产品"
   ],
   "en_title": "Daily Market Wire 4 September 2026"
- },
- {
-  "title": "美国与委内瑞拉石油协议威胁中国的石油支持贷款",
-  "url": "",
-  "summary": "几十年来，委内瑞拉一直是中国在拉丁美洲最重要的合作伙伴之一，也是中国政府在拉丁美洲最大的资金接受国，北京向加拉加斯提供了数百亿美元贷款，并接受石油作为偿还。中国政策性银行为其提供了至少60美元",
-  "pub_time": "2026-09-04T00:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "e16f4fff043749085ce24b44121c2929",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "U.S.-Venezuela Oil Deal Threatens China’s Oil-Backed Loans"
  },
  {
   "title": "【独家】稻米市场僵持偏弱，价格难有明显拉涨",
@@ -2025,32 +2026,6 @@
   "is_elite": false
  },
  {
-  "title": "为什么石油巨头不想建造新的美国炼油厂",
-  "url": "",
-  "summary": "美国总统唐纳德·特朗普在本周的白宫会议上告诉石油生产商和炼油商，他希望立即降低汽油价格。由于全美平均汽油价格仍高于每加仑 4 美元，司机们将迎来最昂贵的劳动节周末",
-  "pub_time": "2026-09-03T23:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "84be5bf3944ae3b1dd07ed93daa1e86c",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Why Oil Majors Don’t Want to Build New U.S. Refineries"
- },
- {
   "title": "SW美国首席执行官聊天：艾芬豪电气为亚利桑那州铜矿项目绘制了10亿美元债务路径",
   "url": "",
   "summary": "艾芬豪电气 (NYSE-A, TSX: IE) 首席执行官泰勒·梅尔文 (Taylor Melvin) 表示，该公司的目标是在圣克鲁斯开始早期建设时获得超过 10 亿美元的美国支持债务......西南美国首席执行官后聊天：艾芬豪电气为亚利桑那州铜矿项目绘制了 10 亿美元债务路径，首先出现在北密歇根州",
@@ -2438,7 +2413,7 @@
  {
   "title": "美国造币厂的特朗普金币售罄——不含任何实际黄金",
   "url": "",
-  "summary": "该硬币是为了庆祝美国成立 250 周年而推出的，金色硬币上印有特朗普的头像。",
+  "summary": "该硬币是为了庆祝美国成立 250 周年而推出的，金色硬币上刻有特朗普的头像。",
   "pub_time": "2026-09-03T15:17:50Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -2784,7 +2759,7 @@
  {
   "title": "饲料谷物焦点：随着气温上升，种植者销售增加",
   "url": "",
-  "summary": "过去一周小麦价格上涨了 10-15 美元/吨，而南方大麦因种植者销售增加而走弱。",
+  "summary": "过去一周小麦价格上涨了 10-15 美元/吨，而南方大麦因种植者销售增加而走软。",
   "pub_time": "2026-09-03T04:00:47Z",
   "source": "GrainCentral",
   "_cat": "农产品",
@@ -2809,7 +2784,7 @@
   "en_title": "Feedgrain Focus: Grower selling picks up as heat rises"
  },
  {
-  "title": "加拿大码头商品公司进入破产管理程序",
+  "title": "加拿大滨海商品公司进入破产管理程序",
   "url": "",
   "summary": "加拿大一家法院已指定毕马威公司 (KPMG Inc.) 为豆类交易商 Marina Commodities、其澳大利亚子公司以及相关非经营实体 Ausican Commodities 的接管人。",
   "pub_time": "2026-09-03T02:57:09Z",
@@ -3704,7 +3679,7 @@
   "en_title": "Eldorado eyes bigger McIlvenna Bay copper mill"
  },
  {
-  "title": "随着美国与伊朗的冲突加剧，原油价格飙升，使霍尔木兹海峡重新开放充满不确定性",
+  "title": "随着美国与伊朗的紧张局势加剧，原油价格飙升，使霍尔木兹海峡重新开放充满不确定性",
   "url": "",
   "summary": "(RTTNews) - 原油价格周三大幅上涨，延续了前两个交易日的强劲涨幅，原因是美国昨天开始对伊朗进行第二轮袭击，引发伊朗的强力报复，引发人们对海湾战争旷日持久的担忧加深。报告",
   "pub_time": "2026-09-02T18:37:34Z",
@@ -3827,32 +3802,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "了解 Silvercorp Metals 如何跻身分析师首选金属之列",
-  "url": "",
-  "summary": "根据 Metals Channel 的数据，对主要经纪公司的分析师推荐进行的研究显示，Silvercorp Metals Inc（代码：SVM）在构成 Metals Channel 全球矿业巨头指数的 50 只股票中平均排名第 32 名。金属频道GL",
-  "pub_time": "2026-09-02T16:09:26Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "9d623ff0faa1db60442f3290ec38fc38",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "白银",
-   "金属"
-  ],
-  "en_title": "See How Silvercorp Metals Ranks Among Analysts' Top Metals Picks"
  }
 ]
