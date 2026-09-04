@@ -955,10 +955,42 @@ def build_hf_picks(items, preds=None):
     return picks
 
 
+
+def _audit_futures(items):
+    rows = 0
+    zh = chr(0x56fd) + chr(0x5185)
+    for it in items:
+        if it.get('market') != zh:
+            continue
+        fut = it.get('future'); sett = it.get('last_settle')
+        if not fut or not sett:
+            continue
+        mult = it.get('contract_mult'); rate = it.get('margin_rate'); mg = it.get('est_margin')
+        exp = None
+        if mult and rate and float(fut) > 0 and float(mult) > 0 and float(rate) > 0:
+            exp = round(float(fut) * float(mult) * float(rate), 2)
+        ok = (mg is not None and exp is not None and abs(mg - exp) <= 0.01 + abs(exp) * 1e-6)
+        pct = it.get('change_pct'); hi = it.get('day_high'); lo = it.get('day_low')
+        def g(v):
+            return ('%g' % v) if isinstance(v, (int, float)) else '-'
+        pcts = ('%g%%' % pct) if isinstance(pct, (int, float)) else '-'
+        line = '  ' + str(it.get('name')) + str(it.get('symbol'))
+        line += ' | settle=' + g(sett) + ' last=' + g(fut) + ' chgPct=' + pcts
+        line += ' | high=' + g(hi) + ' low=' + g(lo)
+        line += ' | mult=' + str(mult) + ' rate=' + str(rate)
+        line += ' | margin/lot=' + g(mg) + ' (recalc=' + g(exp) + ') ' + ('OK' if ok else 'MISMATCH')
+        print(line)
+        if ok:
+            rows += 1
+    print('audited futures rows consistent =', rows)
+
 if __name__ == "__main__":
     out_path = sys.argv[1] if len(sys.argv) > 1 else os.path.join(BASE, "output", "prices.json")
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
     items = build(out_path)
+    if os.environ.get('NR_AUDIT') == '1':
+        _audit_futures(items)
+
     # 期货主线：今日开盘 vs 昨结 -> 多空关联 + 次日开盘预测
     symlist = [(s, name, cat) for s, name, _, cat in DOMESTIC]
     try:
