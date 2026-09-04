@@ -499,33 +499,6 @@
   "en_title": "Record Diesel Prices Push Brent Toward $95"
  },
  {
-  "title": "央行放慢步伐投资者提振金价",
-  "url": "",
-  "summary": "7月份央行黄金购买量减少了一半，表明投资需求上升正在支撑市场接近历史高位。",
-  "pub_time": "2026-09-04T16:14:38Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "1276eca50a954e628f45689b034f72b7",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "价"
-  ],
-  "en_title": "Investors buoy gold price as central banks slow"
- },
- {
   "title": "宝武有意入股必和必拓大型金布尔巴铁矿",
   "url": "",
   "summary": "中国最大的钢铁制造商在寻求铁矿石供应时正在权衡西澳大利亚工厂的少数股权。",
@@ -551,6 +524,31 @@
    "生铁"
   ],
   "en_title": "Baowu eyes stake in BHP’s massive Jimblebar iron ore mine"
+ },
+ {
+  "title": "宝武有意入股必和必拓金布尔巴矿场：路透社",
+  "url": "",
+  "summary": "据知情人士透露，中国宝武钢铁集团正在探索投资必和必拓（ASX、LSE、NYSE：BHP）位于西澳大利亚州的 Jimblebar 铁矿石业务。",
+  "pub_time": "2026-09-04T16:05:00Z",
+  "source": "NorthernMiner",
+  "_cat": "黑色系",
+  "dedup_key": "71dcb97aecb982659414cdc7a7249705",
+  "score": 84,
+  "priority": "P2",
+  "topic": "黑色系",
+  "tags": [
+   "黑色系",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "黑色系"
+  ],
+  "en_title": "Baowu eyes stake in BHP’s Jimblebar mine: Reuters"
  },
  {
   "title": "Mysteel：8月房地产大事记",
@@ -3633,18 +3631,18 @@
   "en_title": "Greenland Mines closes acquisition of Sarfartoq rare earth magnet project"
  },
  {
-  "title": "美国西南部采矿热潮与用水限制发生冲突",
+  "title": "基金经理表示，以美元为中心的世界末日即将到来，黄金将取代部分债券",
   "url": "",
-  "summary": "华盛顿推动在美国西南部开采更多的铜和锂，但遇到了比允许的更严格的限制：项目是否能够确保足够的水来运行数十年……美国西南部后的采矿热潮与用水限制相冲突，首先出现在《北方矿工》上。",
-  "pub_time": "2026-09-02T21:00:00Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "2ec517810a15ef5cc8c46e9bbb7e6dca",
+  "summary": "威廉·米德尔科普 (Willem Middelkoop) 表示，我们正处于大宗商品世代繁荣市场的早期阶段。",
+  "pub_time": "2026-09-02T20:23:21Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "2e74869e5185c9b932604a8ad3a70c2c",
   "score": 84,
   "priority": "P2",
-  "topic": "基本金属",
+  "topic": "贵金属",
   "tags": [
-   "基本金属",
+   "贵金属",
    "大宗商品",
    "国外",
    "中文翻译",
@@ -3653,8 +3651,9 @@
   ],
   "is_elite": false,
   "keywords": [
-   "基本金属"
+   "贵金属",
+   "黄金"
   ],
-  "en_title": "SW US mine rush collides with water limits"
+  "en_title": "End of a dollar-centered world nears, gold to replace some bonds, fund manager says"
  }
 ]
