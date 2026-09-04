@@ -262,6 +262,33 @@
   "en_title": "Record Diesel Prices Push Brent Toward $95"
  },
  {
+  "title": "宝武有意入股必和必拓大型金布尔巴铁矿",
+  "url": "",
+  "summary": "中国最大的钢铁制造商在寻求铁矿石供应时正在权衡西澳大利亚工厂的少数股权。",
+  "pub_time": "2026-09-04T16:05:00Z",
+  "source": "Mining.com",
+  "_cat": "黑色系",
+  "dedup_key": "3e9b266b5dbe63295b03691c776da3cf",
+  "score": 84,
+  "priority": "P1",
+  "topic": "黑色系",
+  "tags": [
+   "黑色系",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "黑色系",
+   "铁矿石",
+   "生铁"
+  ],
+  "en_title": "Baowu eyes stake in BHP’s massive Jimblebar iron ore mine"
+ },
+ {
   "title": "央行放慢步伐投资者提振金价",
   "url": "",
   "summary": "尽管金价仍维持在历史高位附近，但 7 月份央行黄金购买量下降了一半以上，这表明投资需求在支撑市场方面发挥了更大作用。",
@@ -3653,32 +3680,6 @@
   "en_title": "Soybean Protein Linked to Zinc and Sulfur Levels, Study Finds"
  },
  {
-  "title": "埃尔多拉多希望扩大麦克尔文纳湾铜厂",
-  "url": "",
-  "summary": "该作业预计平均生产 4100 万磅铜、20,000 盎司铜。黄金和 444,000 盎司。每年白银。",
-  "pub_time": "2026-09-02T19:00:00Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "3aa084b00dba8f4ca5235bbabbad6b53",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "铜"
-  ],
-  "en_title": "Eldorado eyes bigger McIlvenna Bay copper mill"
- },
- {
   "title": "随着美国与伊朗的紧张局势加剧，原油价格飙升，使霍尔木兹海峡重新开放充满不确定性",
   "url": "",
   "summary": "(RTTNews) - 原油价格周三大幅上涨，延续了前两个交易日的强劲涨幅，原因是美国昨天开始对伊朗进行第二轮袭击，引发伊朗的强力报复，引发人们对海湾战争旷日持久的担忧加深。报告",
@@ -3757,50 +3758,5 @@
    "玉米"
   ],
   "en_title": "Quad County Corn Processors Ethanol Plant and Multi-Tract Commercial Real Estate Portfolio to be Sold Via Lender-Ordered Sealed Bid Auction"
- },
- {
-  "title": "南达科他州小麦育种家 Edgar McFadden 荣获 SDSU 雕塑奖",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-02T17:04:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "7117162148b757d8fb19cff09ec90967",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "小麦"
-  ],
-  "en_title": "South Dakota Wheat Breeder Edgar McFadden Honored With SDSU Sculpture"
- },
- {
-  "title": "关键矿产日报：印尼最大镍工业园或减产，武铜三期扩建项目投产",
-  "url": "https://news.mysteel.com/a/26090217/0C9D27E518223016.html",
-  "summary": "",
-  "pub_time": "2026-09-02T17:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "71d38047430a7cea178f53d22d472d95",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  }
 ]
