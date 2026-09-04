@@ -1,5 +1,59 @@
 [
  {
+  "title": "BLM 开始快速办理阿拉斯加石油储备的石油许可证",
+  "url": "",
+  "summary": "据周五的新闻稿称，土地管理局希望将阿拉斯加国家石油储备区一些石油和天然气项目的许可时间缩短至 60 天。拟议的规则将取代对符合条件的生产基地进行单独的个案审查",
+  "pub_time": "2026-09-04T20:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "0d52cb7f8e61b7367e4eb5b4ee11d896",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "石油"
+  ],
+  "en_title": "BLM Moves to Fast-Track Oil Permits in Alaska Petroleum Reserve"
+ },
+ {
+  "title": "央行放慢步伐投资者提振金价",
+  "url": "",
+  "summary": "尽管金价仍维持在历史高位附近，但 7 月份央行的黄金购买量下降了一半以上。",
+  "pub_time": "2026-09-04T20:14:00Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "1276eca50a954e628f45689b034f72b7",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "价"
+  ],
+  "en_title": "Investors buoy gold price as central banks slow"
+ },
+ {
   "title": "Gold.com (GOLD) 股价突破 200 日均线",
   "url": "",
   "summary": "在周五的交易中，Gold.com Inc（代码：GOLD）的股价突破了 42.72 美元的 200 日移动平均线，易手高达每股 46.10 美元。 Gold.com Inc 股价当天上涨约 9.7%。下图为G一年的表现",
@@ -53,7 +107,7 @@
  {
   "title": "赞助视频：Globe 24-7 表示，矿工需要通过营销方式来招聘熟练人才",
   "url": "",
-  "summary": "正如行业领导者和采矿业招聘机构 Globe 24-7 所指出的那样，采矿业正面临熟练工人的严重短缺，这正在成为经济增长的拖累。人才...《Globe 24-7》表示，赞助视频：矿工需要营销方法来招聘熟练人才，该帖子首先出现在 The N 上",
+  "summary": "正如行业领导者和采矿业招聘机构 Globe 24-7 所指出的那样，采矿业正面临熟练工人的严重短缺，这正在成为经济增长的拖累。人才...Globe 24-7 表示，赞助视频：矿工需要营销方法来雇用熟练人才，该帖子首先出现在 The N 上",
   "pub_time": "2026-09-04T18:42:27Z",
   "source": "NorthernMiner",
   "_cat": "基本金属",
@@ -159,7 +213,7 @@
  {
   "title": "SW US：美国新锂矿即将建成",
   "url": "",
-  "summary": "雅宝（Albemarle）（纽约证券交易所股票代码：ALB）位于内华达州的 Silver Peak 矿是美国唯一活跃的锂资源，很快就会有公司。多达九个新的锂矿... 《SW US：新的美国锂矿即将到来》一文首先出现在《北方矿工》上。",
+  "summary": "雅宝（Albemarle）（纽约证券交易所股票代码：ALB）位于内华达州的 Silver Peak 矿是美国唯一活跃的锂资源，很快就会有公司。多达九个新锂矿... 《SW US：美国新锂矿即将到来》一文首先出现在《北方矿工》上。",
   "pub_time": "2026-09-04T17:30:02Z",
   "source": "NorthernMiner",
   "_cat": "贵金属",
@@ -552,7 +606,7 @@
   "en_title": "Baowu eyes stake in BHP’s massive Jimblebar iron ore mine"
  },
  {
-  "title": "宝武着眼于必和必拓金宝矿山的股份：路透社",
+  "title": "宝武有意入股必和必拓金布尔巴矿场：路透社",
   "url": "",
   "summary": "据知情人士透露，中国宝武钢铁集团正在探索投资必和必拓（ASX、LSE、NYSE：BHP）位于西澳大利亚州的 Jimblebar 铁矿石业务。",
   "pub_time": "2026-09-04T16:05:00Z",
@@ -819,35 +873,6 @@
    "WTI油价"
   ],
   "en_title": "WTI Back Above $91 as War Premium Returns"
- },
- {
-  "title": "欧洲天然气价格连续第四周上涨",
-  "url": "",
-  "summary": "周五，欧洲基准天然气价格连续第四周上涨，因为中东局势的重新升级削弱了来自霍尔木兹海峡的液化天然气流量可能很快恢复正常的希望。荷兰产权转让机构 (TTF) 的前月价格，是欧盟的基准",
-  "pub_time": "2026-09-04T12:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "b8db67c74eb802601482b26a181c3096",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气",
-   "价",
-   "走强",
-   "周"
-  ],
-  "en_title": "Europe Gas Prices Head for Fourth Straight Weekly Gain"
  },
  {
   "title": "新交易增强了南美洲的关键矿产优势",
@@ -2546,7 +2571,7 @@
  {
   "title": "美国造币厂的特朗普金币售罄——不含任何实际黄金",
   "url": "",
-  "summary": "该硬币是为了庆祝美国成立 250 周年而推出的，金色硬币上刻有特朗普的头像。",
+  "summary": "该硬币是为了庆祝美国成立 250 周年而推出的，金色硬币上印有特朗普的头像。",
   "pub_time": "2026-09-03T15:17:50Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -2892,7 +2917,7 @@
  {
   "title": "饲料谷物焦点：随着气温上升，种植者销售增加",
   "url": "",
-  "summary": "过去一周小麦价格上涨了 10-15 美元/吨，而南方大麦因种植者销售增加而走软。",
+  "summary": "过去一周小麦价格上涨了 10-15 美元/吨，而南方大麦因种植者销售增加而走弱。",
   "pub_time": "2026-09-03T04:00:47Z",
   "source": "GrainCentral",
   "_cat": "农产品",
@@ -2917,7 +2942,7 @@
   "en_title": "Feedgrain Focus: Grower selling picks up as heat rises"
  },
  {
-  "title": "加拿大滨海商品公司进入破产管理程序",
+  "title": "加拿大码头商品公司进入破产管理程序",
   "url": "",
   "summary": "加拿大一家法院已指定毕马威公司 (KPMG Inc.) 为豆类交易商 Marina Commodities、其澳大利亚子公司以及相关非经营实体 Ausican Commodities 的接管人。",
   "pub_time": "2026-09-03T02:57:09Z",
