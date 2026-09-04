@@ -2051,7 +2051,7 @@
   "en_title": "Why Oil Majors Don’t Want to Build New U.S. Refineries"
  },
  {
-  "title": "SW美国首席执行官聊天：艾芬豪电气为亚利桑那铜矿项目绘制了10亿美元债务路径",
+  "title": "SW美国首席执行官聊天：艾芬豪电气为亚利桑那州铜矿项目绘制了10亿美元债务路径",
   "url": "",
   "summary": "艾芬豪电气 (NYSE-A, TSX: IE) 首席执行官泰勒·梅尔文 (Taylor Melvin) 表示，该公司的目标是在圣克鲁斯开始早期建设时获得超过 10 亿美元的美国支持债务......西南美国首席执行官后聊天：艾芬豪电气为亚利桑那州铜矿项目绘制了 10 亿美元债务路径，首先出现在北密歇根州",
   "pub_time": "2026-09-03T19:35:35Z",
@@ -2340,7 +2340,7 @@
  {
   "title": "哥伦比亚废除10项采矿规则以吸引投资者",
   "url": "",
-  "summary": "哥伦比亚新​​政府废除了 10 项限制自然资源勘探和开采的决议，加速了总统阿韦拉多·德拉埃斯普里埃拉 (Abelardo De La Espriella) 推动重振矿业投资并释放该国大部分未开发资源的努力……哥伦比亚废除 10 项采矿规则以吸引投资者",
+  "summary": "哥伦比亚新​​政府废除了 10 项限制自然资源勘探和开采的决议，加速了总统阿韦拉多·德拉埃斯普里埃拉 (Abelardo De La Espriella) 推动重振矿业投资并释放该国基本上未开发的资源的努力......哥伦比亚废除 10 项采矿规则以吸引投资者",
   "pub_time": "2026-09-03T16:37:00Z",
   "source": "NorthernMiner",
   "_cat": "基本金属",
@@ -2784,7 +2784,7 @@
  {
   "title": "饲料谷物焦点：随着气温上升，种植者销售增加",
   "url": "",
-  "summary": "过去一周小麦价格上涨了 10-15 美元/吨，而南方大麦因种植者销售增加而走软。",
+  "summary": "过去一周小麦价格上涨了 10-15 美元/吨，而南方大麦因种植者销售增加而走弱。",
   "pub_time": "2026-09-03T04:00:47Z",
   "source": "GrainCentral",
   "_cat": "农产品",
@@ -2809,7 +2809,7 @@
   "en_title": "Feedgrain Focus: Grower selling picks up as heat rises"
  },
  {
-  "title": "加拿大滨海商品公司进入破产管理程序",
+  "title": "加拿大码头商品公司进入破产管理程序",
   "url": "",
   "summary": "加拿大一家法院已指定毕马威公司 (KPMG Inc.) 为豆类交易商 Marina Commodities、其澳大利亚子公司以及相关非经营实体 Ausican Commodities 的接管人。",
   "pub_time": "2026-09-03T02:57:09Z",
@@ -3829,7 +3829,7 @@
   "is_elite": false
  },
  {
-  "title": "了解 Silvercorp Metals 如何跻身分析师首选金属行列",
+  "title": "了解 Silvercorp Metals 如何跻身分析师首选金属之列",
   "url": "",
   "summary": "根据 Metals Channel 的数据，对主要经纪公司的分析师推荐进行的研究显示，Silvercorp Metals Inc（代码：SVM）在构成 Metals Channel 全球矿业巨头指数的 50 只股票中平均排名第 32 名。金属频道GL",
   "pub_time": "2026-09-02T16:09:26Z",
@@ -3854,43 +3854,5 @@
    "金属"
   ],
   "en_title": "See How Silvercorp Metals Ranks Among Analysts' Top Metals Picks"
- },
- {
-  "title": "Mysteel日报：黑色金属期货震荡下跌",
-  "url": "https://news.mysteel.com/a/26090216/EE935A425CB9AC91.html",
-  "summary": "",
-  "pub_time": "2026-09-02T16:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "fac5258f9bb77c0cbe97fef441b70993",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "有色持仓日报：沪铜跌1.35%，国泰君安减持2.1千手多单",
-  "url": "https://news.mysteel.com/a/26090216/18D6E378A177567D.html",
-  "summary": "",
-  "pub_time": "2026-09-02T16:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "a6e5b7c70baaa9188336374e2f88ea08",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  }
 ]
