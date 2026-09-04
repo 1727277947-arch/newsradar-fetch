@@ -984,6 +984,42 @@ def _audit_futures(items):
             rows += 1
     print('audited futures rows consistent =', rows)
 
+def _fetch_em_boards():
+    """real board_up/board_down (eastmoney main-continuous) for the five tracked mains; no-ID cloud source"""
+    import time as _t
+    HOSTS = ["https://push2.eastmoney.com", "https://push2delay.eastmoney.com", "https://push2delay2.eastmoney.com"]
+    HDRS = {"User-Agent": UA, "Referer": "https://quote.eastmoney.com/", "Connection": "close"}
+    EM = {"LC0": ("225", "lcm"), "SI0": ("225", "sim"), "SF0": ("115", "SFM"), "SM0": ("115", "SMM"), "MA0": ("115", "MAM")}
+    out = {}
+    for k0, (mkt, code) in EM.items():
+        got = None
+        for host in HOSTS:
+            if got:
+                break
+            q = "%s/api/qt/stock/get?secid=%s.%s&fields=f43,f51,f52,f170&fltt=2" % (host, mkt, code)
+            for _try in range(2):
+                try:
+                    req = urllib.request.Request(q, headers=HDRS)
+                    d = json.loads(urllib.request.urlopen(req, timeout=15).read().decode("utf-8", "replace")).get("data") or {}
+                    up = d.get("f51"); dn = d.get("f52"); last = d.get("f43")
+                    if up and dn and last:
+                        got = {"board_up": float(up), "board_down": float(dn), "latest": float(last)}
+                    break
+                except Exception:
+                    _t.sleep(1.0)
+        out[k0] = got
+        _t.sleep(6.0)
+    return out
+def _merge_em_boards(items, boards):
+    bmap = {}
+    for it in items:
+        s = it.get("symbol")
+        if s and s in boards:
+            b = boards[s]
+            if b:
+                it["board_up"] = b["board_up"]
+                it["board_down"] = b["board_down"]
+    return items
 if __name__ == "__main__":
     out_path = sys.argv[1] if len(sys.argv) > 1 else os.path.join(BASE, "output", "prices.json")
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
@@ -1050,6 +1086,15 @@ if __name__ == "__main__":
         "trading_rules": TRADING_RULES,
         "rules_summary": TRADING_RULES_SUMMARY,
     }
+    # real daily board_up/board_down (eastmoney, multi-node) written into prices
+    try:
+        _em = _fetch_em_boards()
+        if isinstance(_em, dict):
+            items = _merge_em_boards(items, _em)
+            obj["prices"] = items
+            print("em boards merged:", {k: _em.get(k) for k in _em})
+    except Exception as e:
+        print("[WARN] _fetch_em_boards:", str(e)[:80])
     n, probs = validate_predictions(predictions, items)
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(obj, f, ensure_ascii=False, indent=1)
