@@ -96,7 +96,7 @@ CONTRACT_MULT = {
     "J":100, "JM":60, "I":100, "LH":16, "L":5, "PP":5, "EG":10, "EB":5, "PG":20, "V":5,
     "CF":5, "SR":10, "OI":10, "RM":10, "FG":20, "SA":20, "TA":5, "MA":10, "UR":20,
     "CJ":5, "AP":10, "PK":5, "PF":5, "PX":5, "SH":30, "CY":5,
-    "SC":1000, "LU":10, "SI":5, "LC":1,
+    "SC":1000, "LU":10, "SI":5, "LC":1, "SF":5, "SM":5,
 }
 MARGIN_RATE = {"SHFE":0.12, "DCE":0.10, "CZCE":0.10, "INE":0.12, "GFEX":0.12}
 EXCH = {
@@ -105,7 +105,7 @@ EXCH = {
     "A":"DCE","B":"DCE","M":"DCE","C":"DCE","CS":"DCE","Y":"DCE","P":"DCE","JD":"DCE",
     "J":"DCE","JM":"DCE","I":"DCE","LH":"DCE","L":"DCE","PP":"DCE","EG":"DCE","EB":"DCE","PG":"DCE","V":"DCE",
     "CF":"CZCE","SR":"CZCE","OI":"CZCE","RM":"CZCE","FG":"CZCE","SA":"CZCE","TA":"CZCE","MA":"CZCE","UR":"CZCE",
-    "CJ":"CZCE","AP":"CZCE","PK":"CZCE","PF":"CZCE","PX":"CZCE","SH":"CZCE","CY":"CZCE",
+    "CJ":"CZCE","AP":"CZCE","PK":"CZCE","PF":"CZCE","PX":"CZCE","SH":"CZCE","SF":"CZCE","SM":"CZCE","CY":"CZCE",
     "SC":"INE","LU":"INE","SI":"GFEX","LC":"GFEX",
 }
 
