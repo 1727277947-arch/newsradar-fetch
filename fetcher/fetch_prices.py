@@ -968,21 +968,53 @@ if __name__ == "__main__":
         print("[WARN] predict_next_open:", str(e)[:70])
 
     hf_picks = build_hf_picks(items, predictions)
-    daily_pick = hf_picks[0] if hf_picks and hf_picks[0].get("is_today") else (hf_picks[0] if hf_picks else {"name": ""})
 
-    # ---- afternoon second board ----
-    pm_sym = (daily_pick or {}).get("symbol")
-    _ao = next((x for x in hf_picks if x.get("symbol") != pm_sym), None)
-    if _ao is None and hf_picks:
-        _ao = hf_picks[0]
-    today_s = time.strftime("%Y-%m-%d")
+    # ---- dual-board: independent time windows, never cross-contaminate ----
+    BJT = int(time.strftime("%H"))          # run.sh exports TZ=Asia/Shanghai
+    now_date = time.strftime("%Y-%m-%d")
+    prev = {}
+    try:
+        _pf = os.path.join(BASE, "..", "data", "prices.json")
+        if os.path.exists(_pf):
+            with open(_pf, encoding="utf-8") as _fh:
+                prev = json.load(_fh)
+    except Exception:
+        prev = {}
+    _pm = prev.get("daily_pick") or {}
+    _pa = prev.get("afternoon_pick") or {}
+    prev_date = _pm.get("date") or ""
+    morning_locked = (prev_date == now_date)
+    empty = {"name": "", "symbol": ""}
+
+    if BJT < 10:                                  # morning / early-session window
+        morning_pick = hf_picks[0] if hf_picks else (_pm or empty)
+        afternoon_recompute = False
+    else:                                         # afternoon / later-session window
+        morning_pick = _pm if _pm.get("symbol") else (hf_picks[0] if hf_picks else empty)
+        if not morning_locked and not morning_pick.get("name"):
+            morning_pick = hf_picks[0] if hf_picks else empty
+            morning_locked = True
+        afternoon_recompute = True
+
+    _msym = morning_pick.get("symbol") or morning_pick.get("name")
+
+    if afternoon_recompute:
+        cand = [x for x in hf_picks if (x.get("symbol") or x.get("name")) != _msym]
+        afternoon_pick = cand[0] if cand else (hf_picks[0] if hf_picks else empty)
+    else:
+        afternoon_pick = _pa if ((_pa.get("date") == now_date) and (_pa.get("symbol") or _pa.get("name"))) else empty
+        if _msym and afternoon_pick.get("symbol") == _msym:
+            alt = [x for x in hf_picks if x.get("symbol") != _msym]
+            afternoon_pick = alt[0] if alt else afternoon_pick
+
+    today_s = now_date
     obj = {
         "updated_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
         "prices": items,
         "predictions": predictions,
         "hf_picks": hf_picks,
-        "daily_pick": {"date": today_s, "session": "morning", **daily_pick},
-        "afternoon_pick": {"date": today_s, "session": "afternoon", **(_ao or {})},
+        "daily_pick": {"date": today_s, "session": "morning", **morning_pick},
+        "afternoon_pick": {"date": today_s, "session": "afternoon", **afternoon_pick},
         "trading_rules": TRADING_RULES,
         "rules_summary": TRADING_RULES_SUMMARY,
     }
