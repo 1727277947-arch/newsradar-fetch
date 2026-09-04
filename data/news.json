@@ -1,5 +1,86 @@
 [
  {
+  "title": "美国就业报告提振加息预期，金价暴跌",
+  "url": "",
+  "summary": "(RTTNews) - 金价周五暴跌，部分抵消了前两个交易日的涨幅，因美国劳工部今天公布的非农就业数据显示劳动力市场强劲，重新燃起了美国加息的预期。",
+  "pub_time": "2026-09-04T17:38:16Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "63b68adc8a8c62a9bb6fcae1b81f2a54",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "暴跌"
+  ],
+  "en_title": "Gold Tumbles As U.S. Jobs Report Boosts Rate Hike Expectations"
+ },
+ {
+  "title": "随着石油交易向井口靠拢，Citadel 着眼于美国页岩油",
+  "url": "",
+  "summary": "Citadel 正在收购美国石油生产资产，其中包括之前对 WildFire Energy 的收购，之后 Magnolia Oil & Gas 同意以 40.6 亿美元收购 Eagle Ford 生产商。路透社周五报道称，这家对冲基金和大宗商品交易商已与几家私募股权所有者进行了会谈",
+  "pub_time": "2026-09-04T17:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "720d41c6e3fdd1335afa8bb27f3d4920",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Citadel Eyes U.S. Shale as Oil Trading Moves Closer to the Wellhead"
+ },
+ {
+  "title": "美国石油钻井平台数量增加，天然气钻井平台活动下降",
+  "url": "",
+  "summary": "贝克休斯周五公布的最新数据显示，本周美国活跃的石油和天然气钻机总数保持不变，美国总钻机数量保持在 588 座，比去年同期增加 51 座。活跃石油钻井平台数量增加2座，达到",
+  "pub_time": "2026-09-04T17:25:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "aa565958bd74ddab218c512e52180788",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "天然气",
+   "上涨"
+  ],
+  "en_title": "U.S. Oil Rig Count Rises as Gas Rig Activity Declines"
+ },
+ {
   "title": "Mysteel晚餐：《煤矿企业安全生产许可证实施办法》公布",
   "url": "https://news.mysteel.com/a/26090417/963FE1E17F52879F.html",
   "summary": "",
@@ -262,6 +343,33 @@
   "en_title": "Record Diesel Prices Push Brent Toward $95"
  },
  {
+  "title": "央行放慢步伐投资者提振金价",
+  "url": "",
+  "summary": "7月份央行黄金购买量减少了一半，表明投资需求上升正在支撑市场接近历史高位。",
+  "pub_time": "2026-09-04T16:14:38Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "1276eca50a954e628f45689b034f72b7",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "价"
+  ],
+  "en_title": "Investors buoy gold price as central banks slow"
+ },
+ {
   "title": "宝武有意入股必和必拓大型金布尔巴铁矿",
   "url": "",
   "summary": "中国最大的钢铁制造商在寻求铁矿石供应时正在权衡西澳大利亚工厂的少数股权。",
@@ -508,7 +616,7 @@
  {
   "title": "SW US：美国新锂矿即将建成",
   "url": "",
-  "summary": "雅宝（Albemarle）（纽约证券交易所股票代码：ALB）位于内华达州的 Silver Peak 矿是美国唯一活跃的锂资源，很快就会有公司。多达九个新的锂矿... 《SW US：新的美国锂矿即将到来》一文首先出现在《北方矿工》上。",
+  "summary": "雅宝（Albemarle）（纽约证券交易所股票代码：ALB）位于内华达州的 Silver Peak 矿是美国唯一活跃的锂资源，很快就会有公司。多达九个新锂矿... 《SW US：美国新锂矿即将到来》一文首先出现在《北方矿工》上。",
   "pub_time": "2026-09-04T13:00:02Z",
   "source": "NorthernMiner",
   "_cat": "贵金属",
@@ -612,7 +720,7 @@
  {
   "title": "欧洲天然气价格连续第四周上涨",
   "url": "",
-  "summary": "周五，欧洲基准天然气价格连续第四周上涨，因为中东局势的重新升级削弱了来自霍尔木兹海峡的液化天然气流量可能很快恢复正常的希望。荷兰产权转让机构 (TTF) 的前月价格，是欧盟的基准",
+  "summary": "周五，欧洲基准天然气价格连续第四周上涨，因为中东局势的重新升级削弱了来自霍尔木兹海峡的液化天然气流量可能很快恢复正常的希望。荷兰产权转让机构 (TTF) 的前月价格，这是欧盟的基准",
   "pub_time": "2026-09-04T12:30:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -869,33 +977,6 @@
   "is_elite": false
  },
  {
-  "title": "阿根廷对福克兰群岛石油钻探实施更严厉制裁",
-  "url": "",
-  "summary": "阿根廷总统哈维尔·米莱在重申英国控制下的领土属于阿根廷后，威胁要对在福克兰群岛附近钻探的石油公司实施制裁。米雷在电视讲话中表示，福克兰群岛“在历史上和法律上”都是阿根廷的",
-  "pub_time": "2026-09-04T09:45:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "5cb464302977e386f9a563e6a2dd7c91",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "锡"
-  ],
-  "en_title": "Argentina Targets Falklands Oil Drillers With Tougher Sanctions"
- },
- {
   "title": "美国就业报告公布前金价下跌",
   "url": "",
   "summary": "(RTTNews) - 黄金周五表现疲弱，但因美联储加息预期放松，周度小幅上涨。",
@@ -1046,32 +1127,6 @@
   "is_elite": false
  },
  {
-  "title": "随着能源成本飙升，英国准备批准寒鸦气田",
-  "url": "",
-  "summary": "据英国广播公司 (BBC) 援引未透露姓名的消息人士报道，总理安迪·伯纳姆预计将在本月底前批准北海寒鸦天然气田的开发。 Jackdaw 项目与 Rosebank 项目最初于几年前获准开发，但环境",
-  "pub_time": "2026-09-04T08:15:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "f610c80219e13755251951b5d140ebf6",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "天然气",
-   "能源"
-  ],
-  "en_title": "UK Poised to Approve Jackdaw Gas Field as Energy Costs Soar"
- },
- {
   "title": "9月3日SPDR黄金持仓量较前一日减少3.138吨",
   "url": "https://news.mysteel.com/a/26090408/294D409FD3FF6087.html",
   "summary": "",
@@ -1127,31 +1182,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "随着霍尔木兹风险加剧，阿布扎比国家石油公司继续装载液化天然气",
-  "url": "",
-  "summary": "据彭博社援引卫星成像数据报道，尽管美国和伊朗最近发生了交锋，阿联酋阿布扎比国家石油公司仍在波斯湾装载液化天然气。数据显示，一艘油轮于 9 月 2 日停靠在阿布扎比国家石油公司 (ADNOC) 的达斯岛出口码头，其中一艘油轮",
-  "pub_time": "2026-09-04T07:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "8b930663f88c4d6b4c2e06ed287ded18",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "ADNOC Keeps Loading LNG as Hormuz Risks Intensify"
  },
  {
   "title": "Mysteel早读：焦炭第四轮提涨全面落地，吕梁低硫主焦涨200元",
@@ -2440,7 +2470,7 @@
  {
   "title": "美国造币厂的特朗普金币售罄——不含任何实际黄金",
   "url": "",
-  "summary": "该硬币是为了庆祝美国成立 250 周年而推出的，金色硬币上刻有特朗普的头像。",
+  "summary": "该硬币是为了庆祝美国成立 250 周年而推出的，金色硬币上印有特朗普的头像。",
   "pub_time": "2026-09-03T15:17:50Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -2786,7 +2816,7 @@
  {
   "title": "饲料谷物焦点：随着气温上升，种植者销售增加",
   "url": "",
-  "summary": "过去一周小麦价格上涨了 10-15 美元/吨，而南方大麦因种植者销售增加而走软。",
+  "summary": "过去一周小麦价格上涨了 10-15 美元/吨，而南方大麦因种植者销售增加而走弱。",
   "pub_time": "2026-09-03T04:00:47Z",
   "source": "GrainCentral",
   "_cat": "农产品",
@@ -2811,7 +2841,7 @@
   "en_title": "Feedgrain Focus: Grower selling picks up as heat rises"
  },
  {
-  "title": "加拿大滨海商品公司进入破产管理程序",
+  "title": "加拿大码头商品公司进入破产管理程序",
   "url": "",
   "summary": "加拿大一家法院已指定毕马威公司 (KPMG Inc.) 为豆类交易商 Marina Commodities、其澳大利亚子公司以及相关非经营实体 Ausican Commodities 的接管人。",
   "pub_time": "2026-09-03T02:57:09Z",
@@ -3602,57 +3632,6 @@
   "en_title": "SW US CEO chat: Gunnison Copper seeks government cash and partner"
  },
  {
-  "title": "基金经理表示，以美元为中心的世界末日即将到来，黄金将取代部分债券",
-  "url": "",
-  "summary": "威廉·米德尔科普 (Willem Middelkoop) 表示，我们正处于大宗商品世代繁荣市场的早期阶段。",
-  "pub_time": "2026-09-02T20:23:21Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "2e74869e5185c9b932604a8ad3a70c2c",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "End of a dollar-centered world nears, gold to replace some bonds, fund manager says"
- },
- {
-  "title": "美国林务局签署了亚利桑那州 South32 Hermosa 的采矿计划",
-  "url": "",
-  "summary": "赫莫萨 (Hermosa) 拥有世界上最大的未开发锌矿床之一、电池级锰矿床和新兴的 Peak 铜矿发现地。",
-  "pub_time": "2026-09-02T20:02:58Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "4edad1c1def5315a1ce1dd8d2eca9e97",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "US Forest Service signs off on South32 Hermosa’s mine plan in Arizona"
- },
- {
   "title": "研究发现，大豆蛋白与锌和硫含量有关",
   "url": "",
   "summary": "",
@@ -3680,7 +3659,7 @@
   "en_title": "Soybean Protein Linked to Zinc and Sulfur Levels, Study Finds"
  },
  {
-  "title": "随着美国与伊朗的紧张局势加剧，原油价格飙升，使霍尔木兹海峡重新开放充满不确定性",
+  "title": "随着美国与伊朗的冲突加剧，原油价格飙升，使霍尔木兹海峡重新开放充满不确定性",
   "url": "",
   "summary": "(RTTNews) - 原油价格周三大幅上涨，延续了前两个交易日的强劲涨幅，原因是美国昨天开始对伊朗进行第二轮袭击，引发伊朗的强力报复，引发人们对海湾战争旷日持久的担忧加深。报告",
   "pub_time": "2026-09-02T18:37:34Z",
@@ -3705,58 +3684,5 @@
    "大涨"
   ],
   "en_title": "Crude Oil Surges As U.S.-Iran Flare-Up Intensifies, Leaving Hormuz Reopening Uncertain"
- },
- {
-  "title": "ADP数据超越美伊冲突引发的通胀担忧，金价上涨",
-  "url": "",
-  "summary": "(RTTNews) - 周三金价小幅走高，小幅抵消前三个交易日的跌幅，因美国与伊朗关系再度升级，美国私人就业数据弱于预期，降低了美联储加息的预期。",
-  "pub_time": "2026-09-02T17:45:21Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "d8d7dc69d95f097c43ed7d05e727669d",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "上涨"
-  ],
-  "en_title": "Gold Rises After ADP Data Overrides Inflation Concerns Due To U.S.-Iran Conflict"
- },
- {
-  "title": "四郡玉米加工乙醇厂和多区商业地产",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-02T17:28:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "d602a20fb484c5d844765f385ab43217",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "玉米"
-  ],
-  "en_title": "Quad County Corn Processors Ethanol Plant and Multi-Tract Commercial Real Estate Portfolio to be Sold Via Lender-Ordered Sealed Bid Auction"
  }
 ]
