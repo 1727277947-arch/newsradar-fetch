@@ -304,25 +304,6 @@
   "is_elite": false
  },
  {
-  "title": "技术性回调压力开始释放，双焦期货价格大跌",
-  "url": "https://news.mysteel.com/a/26090409/DB31F3F3DB538C52.html",
-  "summary": "",
-  "pub_time": "2026-09-04T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "fdfc2c99b61e3ec3a72d482509cdf799",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "瑞达期货：铁矿石价格波动有限，期货主流空头减仓",
   "url": "https://news.mysteel.com/a/26090409/165941B839DBFE38.html",
   "summary": "",
@@ -442,25 +423,6 @@
    "能源"
   ],
   "en_title": "UK Poised to Approve Jackdaw Gas Field as Energy Costs Soar"
- },
- {
-  "title": "印尼TMI镍冶炼项目落户莫罗瓦利工业园区",
-  "url": "https://news.mysteel.com/a/26090408/58BCE7DE606EAFEE.html",
-  "summary": "",
-  "pub_time": "2026-09-04T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "e31cc06973b62b27f197dfaf7c177b61",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  },
  {
   "title": "9月3日SPDR黄金持仓量较前一日减少3.138吨",
@@ -775,6 +737,44 @@
   "is_elite": false
  },
  {
+  "title": "9月4日进口大豆到国内港口CF及升贴水报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/04/2907874160.shtml",
+  "summary": "",
+  "pub_time": "2026-09-04T00:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "9532f8b2979d25d7e427206b8e6e5396",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "9月4日进口大豆港口分销价持平",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/04/2712847436.shtml",
+  "summary": "",
+  "pub_time": "2026-09-04T00:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "f59fa0a8aa9b18590763c02866be12c3",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年9月4日大连大豆期货收盘低开收涨",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/04/5923531335.shtml",
   "summary": "",
@@ -870,25 +870,6 @@
   "is_elite": false
  },
  {
-  "title": "CBOT大豆微涨，因需求旺盛及天气担忧",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/04/5723228069.shtml",
-  "summary": "",
-  "pub_time": "2026-09-04T00:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "9c09145d3bdfd79d5afa3441898a05df",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
   "title": "ICE油菜籽上涨，基准期约收高0.35%",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/04/0125461204.shtml",
   "summary": "",
@@ -904,6 +885,25 @@
    "中文",
    "国内",
    "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT大豆微涨，因需求旺盛及天气担忧",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/04/5723228069.shtml",
+  "summary": "",
+  "pub_time": "2026-09-04T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "16ff6475853811518387919af9ff6ac1",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
   ],
   "is_elite": false
  },
@@ -1459,7 +1459,7 @@
   "en_title": "Baltic Dry Index Breaks Out as a “Perfect Storm” Hits Shipping"
  },
  {
-  "title": "SW美国首席执行官聊天：艾芬豪电气为亚利桑那铜矿项目绘制了10亿美元债务路径",
+  "title": "SW美国首席执行官聊天：艾芬豪电气为亚利桑那州铜矿项目绘制了10亿美元债务路径",
   "url": "",
   "summary": "艾芬豪电气 (NYSE-A, TSX: IE) 首席执行官泰勒·梅尔文 (Taylor Melvin) 表示，该公司的目标是在圣克鲁斯开始早期建设时获得超过 10 亿美元的美国支持债务......西南美国首席执行官后聊天：艾芬豪电气为亚利桑那州铜矿项目绘制了 10 亿美元债务路径，首先出现在北密歇根州",
   "pub_time": "2026-09-03T19:35:35Z",
@@ -1850,7 +1850,7 @@
  {
   "title": "哥伦比亚废除10项采矿规则以吸引投资者",
   "url": "",
-  "summary": "哥伦比亚新​​政府废除了 10 项限制自然资源勘探和开采的决议，加速了总统阿韦拉多·德拉埃斯普里埃拉 (Abelardo De La Espriella) 推动重振矿业投资并释放该国基本上未开发的资源的努力……哥伦比亚废除 10 项采矿规则以吸引投资者",
+  "summary": "哥伦比亚新​​政府废除了 10 项限制自然资源勘探和开采的决议，加速了总统阿韦拉多·德拉埃斯普里埃拉 (Abelardo De La Espriella) 推动重振矿业投资并释放该国基本上未开发的资源的努力......哥伦比亚废除 10 项采矿规则以吸引投资者",
   "pub_time": "2026-09-03T16:37:00Z",
   "source": "NorthernMiner",
   "_cat": "基本金属",
@@ -2026,7 +2026,7 @@
  {
   "title": "美国造币厂的特朗普金币售罄——不含任何实际黄金",
   "url": "",
-  "summary": "该硬币是为了庆祝美国成立 250 周年而推出的，金色硬币上刻有特朗普的头像。",
+  "summary": "该硬币是为了庆祝美国成立 250 周年而推出的，金色硬币上印有特朗普的头像。",
   "pub_time": "2026-09-03T15:17:50Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -2399,7 +2399,7 @@
  {
   "title": "饲料谷物焦点：随着气温上升，种植者销售增加",
   "url": "",
-  "summary": "过去一周小麦价格上涨了 10-15 美元/吨，而南方大麦因种植者销售增加而走软。",
+  "summary": "过去一周小麦价格上涨了 10-15 美元/吨，而南方大麦因种植者销售增加而走弱。",
   "pub_time": "2026-09-03T04:00:47Z",
   "source": "GrainCentral",
   "_cat": "农产品",
@@ -2633,25 +2633,6 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "50fbf377f60dbab1c1796e178fdeb3ed",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月3日大连大豆期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/03/5757283870.shtml",
-  "summary": "",
-  "pub_time": "2026-09-03T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "c4ce91ab5ef4e10603d8f0937905548c",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -2911,25 +2892,6 @@
   "is_elite": false
  },
  {
-  "title": "9月3日进口豆油港口交货价格上涨",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/03/5106511816.shtml",
-  "summary": "",
-  "pub_time": "2026-09-03T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "34d6b421e84ef350ba07dd77b3da1b7f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "美国小麦市场互有涨跌，继续关注黑海局势发展",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/03/5929699588.shtml",
   "summary": "",
@@ -3032,6 +2994,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "124f47ef8fb217266e0358fceb6fe8a9",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月3日大连大豆期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/03/5757283870.shtml",
+  "summary": "",
+  "pub_time": "2026-09-03T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "c4ce91ab5ef4e10603d8f0937905548c",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -3509,7 +3490,7 @@
   "en_title": "Gold Rises After ADP Data Overrides Inflation Concerns Due To U.S.-Iran Conflict"
  },
  {
-  "title": "四郡玉米加工乙醇厂和多区商业房地产",
+  "title": "四郡玉米加工乙醇厂和多区商业地产",
   "url": "",
   "summary": "",
   "pub_time": "2026-09-02T17:28:00Z",
@@ -3580,7 +3561,7 @@
   "is_elite": false
  },
  {
-  "title": "了解 Silvercorp Metals 如何跻身分析师首选金属行列",
+  "title": "了解 Silvercorp Metals 如何跻身分析师首选金属之列",
   "url": "",
   "summary": "根据 Metals Channel 的数据，对主要经纪公司的分析师推荐进行的研究显示，Silvercorp Metals Inc（代码：SVM）在构成 Metals Channel 全球矿业巨头指数的 50 只股票中平均排名第 32 名。金属频道GL",
   "pub_time": "2026-09-02T16:09:26Z",
