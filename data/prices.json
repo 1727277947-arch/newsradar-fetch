@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-05T07:43:37",
+ "updated_at": "2026-09-05T10:35:47",
  "prices": [
   {
    "symbol": "XAU",
@@ -5810,8 +5810,29 @@
  "afternoon_pick": {
   "date": "2026-09-05",
   "session": "afternoon",
-  "name": "",
-  "symbol": ""
+  "symbol": "LC0",
+  "name": "碳酸锂",
+  "category": "基本金属",
+  "unit": "元/吨",
+  "price": 141980.0,
+  "direct": -1,
+  "dir_label": "做空",
+  "day_range_pct": 7.7,
+  "limit_score": 18,
+  "board": "一般/观望",
+  "est_margin": 17037.6,
+  "hands_in_100k": 5,
+  "volume": 392630,
+  "open_interest": 312373,
+  "mode": "追跌做空",
+  "anchor": 141980.0,
+  "tp": 137720.6,
+  "sl": 142121.98,
+  "exit_price": 142192.97,
+  "board_score": 0.883,
+  "reason": "今日打板 · 方向做空 · 实时-7.38% / 波幅7.70% / 打板分18: 进场≈141980, 止盈137721, 反向142193离场, 硬止损142122",
+  "rank": 2,
+  "is_today": false
  },
  "trading_rules": [
   {
