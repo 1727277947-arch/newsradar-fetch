@@ -1,5 +1,24 @@
 [
  {
+  "title": "美债抛售只是暂时现象？贝森特：伊朗战事结束后油价或跌至40美元",
+  "url": "https://news.mysteel.com/a/26090516/4548D1DEDEA8700B.html",
+  "summary": "",
+  "pub_time": "2026-09-05T16:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "9bd061d3918671cb7af74f879e8048ef",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "每日钢市：螺纹钢周涨34，钢坯亏超100，钢价或震荡偏强",
   "url": "https://news.mysteel.com/a/26090511/8A5E2D6E8D962499.html",
   "summary": "",
@@ -53,6 +72,25 @@
    "中文",
    "国内",
    "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "透过数据看8月大宗商品市场运行向好 企业生产经营活动按下“加速键”",
+  "url": "https://www.chinanews.com.cn/cj/2026/09-05/10690951.shtml",
+  "summary": "央视网消息：中国物流与采购联合会9月5日公布8月份中国大宗商品价格指数。随着国内外市场需求回暖，极端天气影响减弱，部分行业供需关系改善，指数环比止跌回升，同比涨幅扩大",
+  "pub_time": "2026-09-05T08:12:36Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "4d1447b5426c3ef0fdeb28850d6e0d9b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
   ],
   "is_elite": false
  },
@@ -2764,33 +2802,6 @@
   "en_title": "Dutch slash New York gold in crisis shift"
  },
  {
-  "title": "玉米基生物塑料每年可增加 66 亿蒲式耳的需求",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-03T18:22:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "53fc59a029f2a8cf2dbf4a30ee152ff3",
-  "score": 84,
-  "priority": "P1",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "玉米",
-   "需求"
-  ],
-  "en_title": "Corn-Based Bioplastics Could Add 6.6 Billion Bushels of Annual Demand"
- },
- {
   "title": "布伦特原油向上触及97美元，创7月24日以来新高",
   "url": "https://news.mysteel.com/a/26090318/9EC7681ED1612B6D.html",
   "summary": "",
@@ -2972,33 +2983,6 @@
   "en_title": "Colombia scraps 10 mining rules to attact investors"
  },
  {
-  "title": "伊利诺伊州大豆协会宣布 2027 年 LEAD 等级",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-03T16:14:00Z",
-  "source": "Grainnet",
-  "_cat": "基本金属",
-  "dedup_key": "0076b776e5e6fb497bdc52136620a8a7",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铅",
-   "大豆"
-  ],
-  "en_title": "Illinois Soybean Association Announces 2027 LEAD Class"
- },
- {
   "title": "有色持仓日报：沪铝涨1.29%，国泰君安减持超3.1千手空单",
   "url": "https://news.mysteel.com/a/26090316/A5CEE12E3D07F64A.html",
   "summary": "",
@@ -3173,25 +3157,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "b7a286a0704ba99d4fa4bc0675cdb562",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "美伊冲突爆发来最高！美能源部长：周一超1700万桶石油通过霍尔木兹",
-  "url": "https://news.mysteel.com/a/26090311/35E4DA49EDA1A4DC.html",
-  "summary": "",
-  "pub_time": "2026-09-03T11:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "e9c5e21fbfd7300f70a894acb951d1a3",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
