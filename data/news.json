@@ -1,5 +1,43 @@
 [
  {
+  "title": "每日钢市：螺纹钢周涨34，钢坯亏超100，钢价或震荡偏强",
+  "url": "https://news.mysteel.com/a/26090511/8A5E2D6E8D962499.html",
+  "summary": "",
+  "pub_time": "2026-09-05T11:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "61dcae773b541413b7184ccf778c8954",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：8月大宗商品价格指数止跌反弹，后期或仍有上涨空间",
+  "url": "https://news.mysteel.com/a/26090510/7BEFE07FBD36E5FA.html",
+  "summary": "",
+  "pub_time": "2026-09-05T10:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "45dfce9eef8e766ce83002b339036c1c",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "8月中国大宗商品价格指数环比上涨2.8%",
   "url": "https://news.mysteel.com/a/26090509/83C7D0FDA73C0277.html",
   "summary": "",
@@ -15,6 +53,25 @@
    "中文",
    "国内",
    "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "8月中国大宗商品价格指数同比上涨18.4%",
+  "url": "https://www.chinanews.com.cn/cj/2026/09-05/10690870.shtml",
+  "summary": "中新社北京9月5日电 (记者 阮煜琳)中国物流与采购联合会5日发布数据显示，8月份，中国大宗商品价格指数(CBPI)为132.3点，环比上涨2.8%，同比上涨18.4%",
+  "pub_time": "2026-09-05T04:56:46Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "9d893e379fc309789b28d14eb4a1fc59",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
   ],
   "is_elite": false
  },
@@ -380,7 +437,7 @@
   "is_elite": false
  },
  {
-  "title": "8 月份大幅上涨后 50 强矿业公司市值飙升 3570 亿美元",
+  "title": "8 月巨幅反弹后 50 强矿业公司市值飙升 3570 亿美元",
   "url": "",
   "summary": "有记录以来的最大月度涨幅使该排名自 2 月份以来首次回到 2.5 万亿美元以上，当时金价每盎司比今天的水平高出约 1,000 美元。",
   "pub_time": "2026-09-04T23:52:01Z",
@@ -512,7 +569,7 @@
  {
   "title": "央行放慢步伐投资者提振金价",
   "url": "",
-  "summary": "尽管金价仍接近历史高位，但 7 月份央行的黄金购买量下降了一半以上。",
+  "summary": "尽管金价仍维持在历史高位附近，但 7 月份央行的黄金购买量下降了一半以上。",
   "pub_time": "2026-09-04T20:14:00Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -590,7 +647,7 @@
  {
   "title": "赞助视频：Globe 24-7 表示，矿工需要通过营销方式来招聘熟练人才",
   "url": "",
-  "summary": "正如行业领导者和采矿业招聘机构 Globe 24-7 所指出的那样，采矿业正面临熟练工人的严重短缺，这正在成为经济增长的拖累。人才...《Globe 24-7》表示，赞助视频：矿工需要营销方法来招聘熟练人才，该帖子首先出现在 The N 上",
+  "summary": "正如行业领导者和采矿业招聘机构 Globe 24-7 所指出的那样，采矿业正面临熟练工人的严重短缺，这正在成为经济增长的拖累。人才...Globe 24-7 表示，赞助视频：矿工需要营销方法来雇用熟练人才，该帖子首先出现在 The N 上",
   "pub_time": "2026-09-04T18:42:27Z",
   "source": "NorthernMiner",
   "_cat": "基本金属",
@@ -696,7 +753,7 @@
  {
   "title": "SW US：美国新锂矿即将建成",
   "url": "",
-  "summary": "雅宝（Albemarle）（纽约证券交易所股票代码：ALB）位于内华达州的 Silver Peak 矿是美国唯一活跃的锂资源，很快就会有公司。多达九个新的锂矿... 《SW US：新的美国锂矿即将到来》一文首先出现在《北方矿工》上。",
+  "summary": "雅宝（Albemarle）（纽约证券交易所股票代码：ALB）位于内华达州的 Silver Peak 矿是美国唯一活跃的锂资源，很快就会有公司。多达九个新锂矿... 《SW US：美国新锂矿即将到来》一文首先出现在《北方矿工》上。",
   "pub_time": "2026-09-04T17:30:02Z",
   "source": "NorthernMiner",
   "_cat": "贵金属",
@@ -819,25 +876,6 @@
   "is_elite": false
  },
  {
-  "title": "关键矿产日报：8月全球对华铝土矿发运大增",
-  "url": "https://news.mysteel.com/a/26090417/144BBA0D9DDDF622.html",
-  "summary": "",
-  "pub_time": "2026-09-04T17:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "8d6b59b99595f9eb86897613d8fa82ee",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "钢材下游周报：多地印发城市更新“十五五”规划",
   "url": "https://news.mysteel.com/a/26090417/F2AC8105C1B37A01.html",
   "summary": "",
@@ -858,7 +896,7 @@
  },
  {
   "title": "钢材下游周报：多地印发城市更新“十五五”规划，上市公司半年报出炉",
-  "url": "https://news.mysteel.com/a/26090417/3296691FFC64CDB6.html",
+  "url": "https://news.mysteel.com/a/26090417/443347D810D78F01.html",
   "summary": "",
   "pub_time": "2026-09-04T17:00:00Z",
   "source": "上海钢联Mysteel",
@@ -945,6 +983,25 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：七日洞见——黑色金属市场一周热点回顾（8.30-9.4）",
+  "url": "https://news.mysteel.com/a/26090417/6FBC7738F280D2FD.html",
+  "summary": "",
+  "pub_time": "2026-09-04T17:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "56ec42ba78930575d1af24ad808beaba",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -1234,25 +1291,6 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel：8月国内7个铝项目开工、投产",
-  "url": "https://news.mysteel.com/a/26090414/31FD6BFCB51046EC.html",
-  "summary": "",
-  "pub_time": "2026-09-04T14:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "bcc6c212ba56aed7ca0e6e4ffeb6f16f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "伊朗称已找到躲避美国石油封锁的方法",
   "url": "",
   "summary": "伊朗石油部长Mohsen Paknejad表示，伊朗采取了各种策略来绕过美国的封锁，特朗普总统在协议破裂后于7月中旬重新实施了封锁。伊朗媒体援引该部长的话称：“石油工业并没有闲着，也没有停止。”",
@@ -1383,25 +1421,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "dd77a4b4a165cdd63894f39fff996465",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "湖南华菱涟源钢铁4.3米级焦炉环保升级改造工程重大变动生态环境影响报告书获批",
-  "url": "https://news.mysteel.com/a/26090411/CA33796A656567B6.html",
-  "summary": "",
-  "pub_time": "2026-09-04T11:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "7febd8e27dd8b3be584c0d78ef298644",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -2470,25 +2489,6 @@
   "is_elite": false
  },
  {
-  "title": "美国小麦价格暴跌，因俄乌和平协议有可能达成",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/04/4738249601.shtml",
-  "summary": "",
-  "pub_time": "2026-09-04T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "a6cf3a4baeb70e720cca6776f37b940f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "CBOT小麦下跌，基准期约收低2.8%",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/04/0007704551.shtml",
   "summary": "",
@@ -2629,6 +2629,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "f9b434868366e95b10bca791fd345ce6",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "美国小麦价格暴跌，因俄乌和平协议有可能达成",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/04/4738249601.shtml",
+  "summary": "",
+  "pub_time": "2026-09-04T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "a6cf3a4baeb70e720cca6776f37b940f",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -3028,7 +3047,7 @@
  {
   "title": "美国造币厂的特朗普金币售罄——不含任何实际黄金",
   "url": "",
-  "summary": "该硬币是为了庆祝美国成立 250 周年而推出的，金色硬币上刻有特朗普的头像。",
+  "summary": "该硬币是为了庆祝美国成立 250 周年而推出的，金色硬币上印有特朗普的头像。",
   "pub_time": "2026-09-03T15:17:50Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -3370,57 +3389,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "饲料谷物焦点：随着气温上升，种植者销售增加",
-  "url": "",
-  "summary": "过去一周小麦价格上涨了 10-15 美元/吨，而南方大麦因种植者销售增加而走软。",
-  "pub_time": "2026-09-03T04:00:47Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "f2cda83fd9a6907695f383fddf8743d0",
-  "score": 84,
-  "priority": "P1",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "谷物",
-   "上涨"
-  ],
-  "en_title": "Feedgrain Focus: Grower selling picks up as heat rises"
- },
- {
-  "title": "加拿大滨海商品公司进入破产管理程序",
-  "url": "",
-  "summary": "加拿大一家法院已指定毕马威公司 (KPMG Inc.) 为豆类交易商 Marina Commodities、其澳大利亚子公司以及相关非经营实体 Ausican Commodities 的接管人。",
-  "pub_time": "2026-09-03T02:57:09Z",
-  "source": "GrainCentral",
-  "_cat": "基本金属",
-  "dedup_key": "4d4cfdf307a4d356e6898704ba9b6578",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Canada’s Marina Commodities enters administration"
  }
 ]
