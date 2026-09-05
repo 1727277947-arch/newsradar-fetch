@@ -19,6 +19,44 @@
   "is_elite": false
  },
  {
+  "title": "佳木斯到哈尔滨“黄金水道”复航",
+  "url": "https://www.chinanews.com.cn/cj/2026/09-05/10691077.shtml",
+  "summary": "王妮娜 石玉卓 齐思宇)9月5日，伴随着一声汽笛长鸣，满载千吨浮法玻璃的“龙推611”船队缓缓驶离佳木斯国际港码头，沿松花江驶向哈尔滨阿什河港，这标志着佳木斯—哈尔滨水路运输“黄金水道”正式复航",
+  "pub_time": "2026-09-05T12:18:02Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "b0099a915c2d8dd1cc3aeeaffe7c648c",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "硬足金何以撬动中国金饰“悦己消费”新浪潮？",
+  "url": "https://www.chinanews.com.cn/cj/2026/09-05/10691053.shtml",
+  "summary": "高志苗)高金价压制消费量，但消费金额不降反升。世界黄金协会4日发布的《2026年中国金饰零售趋势洞察》显示，2026年上半年，中国金饰消费量同比下滑30%至136吨，消费总额则上升5%至1437亿元。在这组“量降价升”的数据背后，中国金饰“悦己消费”进一步占据主导",
+  "pub_time": "2026-09-05T11:50:32Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "72ee4084d7c7df03a41e7b0f441dab6b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/产业经济",
+  "tags": [
+   "产业经济",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "每日钢市：螺纹钢周涨34，钢坯亏超100，钢价或震荡偏强",
   "url": "https://news.mysteel.com/a/26090511/8A5E2D6E8D962499.html",
   "summary": "",
@@ -76,40 +114,21 @@
   "is_elite": false
  },
  {
-  "title": "透过数据看8月大宗商品市场运行向好 企业生产经营活动按下“加速键”",
-  "url": "https://www.chinanews.com.cn/cj/2026/09-05/10690951.shtml",
-  "summary": "央视网消息：中国物流与采购联合会9月5日公布8月份中国大宗商品价格指数。随着国内外市场需求回暖，极端天气影响减弱，部分行业供需关系改善，指数环比止跌回升，同比涨幅扩大",
-  "pub_time": "2026-09-05T08:12:36Z",
-  "source": "中国新闻网-财经",
+  "title": "天府粮仓“端”出巴蜀好粮 ——“四川好粮油”“天府菜油”组团亮相第八届中国粮食交易大会",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/05/0409792099.shtml",
+  "summary": "",
+  "pub_time": "2026-09-05T00:00:00Z",
+  "source": "粮油豆粕",
   "_cn": true,
-  "dedup_key": "4d1447b5426c3ef0fdeb28850d6e0d9b",
+  "dedup_key": "47c905dcf0a4fec87a24106390573a93",
   "score": 80,
   "priority": "P1",
-  "topic": "国内/大宗商品",
+  "topic": "国内/财经",
   "tags": [
-   "大宗商品",
+   "财经",
    "中文",
    "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
-  "title": "8月中国大宗商品价格指数同比上涨18.4%",
-  "url": "https://www.chinanews.com.cn/cj/2026/09-05/10690870.shtml",
-  "summary": "中新社北京9月5日电 (记者 阮煜琳)中国物流与采购联合会5日发布数据显示，8月份，中国大宗商品价格指数(CBPI)为132.3点，环比上涨2.8%，同比上涨18.4%",
-  "pub_time": "2026-09-05T04:56:46Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "9d893e379fc309789b28d14eb4a1fc59",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
+   "粮油豆粕"
   ],
   "is_elite": false
  },
@@ -121,6 +140,25 @@
   "source": "粮油豆粕",
   "_cn": true,
   "dedup_key": "8a655ded410e1a8204f1d35a200cbf1a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "天府粮仓端出巴蜀好粮——四川好粮油天府菜油组团亮相第八届中国粮食交易大会",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/05/0409792099.shtml",
+  "summary": "",
+  "pub_time": "2026-09-05T00:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "f2f678f6b1642879fc55f6860b3930fa",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -475,7 +513,7 @@
   "is_elite": false
  },
  {
-  "title": "8 月份大幅上涨后 50 强矿业公司市值飙升 3570 亿美元",
+  "title": "8 月巨幅反弹后 50 强矿业公司市值飙升 3570 亿美元",
   "url": "",
   "summary": "有记录以来的最大月度涨幅使该排名自 2 月份以来首次回到 2.5 万亿美元以上，当时金价每盎司比今天的水平高出约 1,000 美元。",
   "pub_time": "2026-09-04T23:52:01Z",
@@ -607,7 +645,7 @@
  {
   "title": "央行放慢步伐投资者提振金价",
   "url": "",
-  "summary": "尽管金价仍接近历史高位，但 7 月份央行的黄金购买量下降了一半以上。",
+  "summary": "尽管金价仍维持在历史高位附近，但 7 月份央行的黄金购买量下降了一半以上。",
   "pub_time": "2026-09-04T20:14:00Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -685,7 +723,7 @@
  {
   "title": "赞助视频：Globe 24-7 表示，矿工需要通过营销方式来招聘熟练人才",
   "url": "",
-  "summary": "正如行业领导者和采矿业招聘机构 Globe 24-7 所指出的那样，采矿业正面临熟练工人的严重短缺，这正在成为经济增长的拖累。人才...《Globe 24-7》表示，赞助视频：矿工需要营销方法来招聘熟练人才，该帖子首先出现在 The N 上",
+  "summary": "正如行业领导者和采矿业招聘机构 Globe 24-7 所指出的那样，采矿业正面临熟练工人的严重短缺，这正在成为经济增长的拖累。人才...Globe 24-7 表示，赞助视频：矿工需要营销方法来雇用熟练人才，该帖子首先出现在 The N 上",
   "pub_time": "2026-09-04T18:42:27Z",
   "source": "NorthernMiner",
   "_cat": "基本金属",
@@ -791,7 +829,7 @@
  {
   "title": "SW US：美国新锂矿即将建成",
   "url": "",
-  "summary": "雅宝（Albemarle）（纽约证券交易所股票代码：ALB）位于内华达州的 Silver Peak 矿是美国唯一活跃的锂资源，很快就会有公司。多达九个新的锂矿... 《SW US：新的美国锂矿即将到来》一文首先出现在《北方矿工》上。",
+  "summary": "雅宝（Albemarle）（纽约证券交易所股票代码：ALB）位于内华达州的 Silver Peak 矿是美国唯一活跃的锂资源，很快就会有公司。多达九个新锂矿... 《SW US：美国新锂矿即将到来》一文首先出现在《北方矿工》上。",
   "pub_time": "2026-09-04T17:30:02Z",
   "source": "NorthernMiner",
   "_cat": "贵金属",
@@ -1311,7 +1349,7 @@
  },
  {
   "title": "Mysteel：8月11城松绑楼市，京沪新政释放购房需求",
-  "url": "https://news.mysteel.com/a/26090414/8FE31BB4CF886B72.html",
+  "url": "https://news.mysteel.com/a/26090414/9417300C6B786836.html",
   "summary": "",
   "pub_time": "2026-09-04T14:00:00Z",
   "source": "上海钢联Mysteel",
@@ -2802,6 +2840,33 @@
   "en_title": "Dutch slash New York gold in crisis shift"
  },
  {
+  "title": "玉米基生物塑料每年可增加 66 亿蒲式耳的需求",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-09-03T18:22:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "53fc59a029f2a8cf2dbf4a30ee152ff3",
+  "score": 84,
+  "priority": "P1",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "玉米",
+   "需求"
+  ],
+  "en_title": "Corn-Based Bioplastics Could Add 6.6 Billion Bushels of Annual Demand"
+ },
+ {
   "title": "布伦特原油向上触及97美元，创7月24日以来新高",
   "url": "https://news.mysteel.com/a/26090318/9EC7681ED1612B6D.html",
   "summary": "",
@@ -2983,6 +3048,33 @@
   "en_title": "Colombia scraps 10 mining rules to attact investors"
  },
  {
+  "title": "伊利诺伊州大豆协会宣布 2027 年 LEAD 等级",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-09-03T16:14:00Z",
+  "source": "Grainnet",
+  "_cat": "基本金属",
+  "dedup_key": "0076b776e5e6fb497bdc52136620a8a7",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铅",
+   "大豆"
+  ],
+  "en_title": "Illinois Soybean Association Announces 2027 LEAD Class"
+ },
+ {
   "title": "有色持仓日报：沪铝涨1.29%，国泰君安减持超3.1千手空单",
   "url": "https://news.mysteel.com/a/26090316/A5CEE12E3D07F64A.html",
   "summary": "",
@@ -3031,7 +3123,7 @@
  {
   "title": "美国造币厂的特朗普金币售罄——不含任何实际黄金",
   "url": "",
-  "summary": "该硬币是为了庆祝美国成立 250 周年而推出的，金色硬币上刻有特朗普的头像。",
+  "summary": "该硬币是为了庆祝美国成立 250 周年而推出的，金色硬币上印有特朗普的头像。",
   "pub_time": "2026-09-03T15:17:50Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -3138,212 +3230,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "bfd9631af1578cc24e8938ff8e68ba66",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "螺纹钢期货飘绿，钢价跌幅或有限",
-  "url": "https://news.mysteel.com/a/26090312/5B11F4A48A411D08.html",
-  "summary": "",
-  "pub_time": "2026-09-03T12:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "b7a286a0704ba99d4fa4bc0675cdb562",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "美元疲软、收益率下降，金价飙升",
-  "url": "",
-  "summary": "(RTTNews) - 周四金价大幅走高，因美国国债收益率从多年高位回落，油价在连续三天上涨后企稳，有助于缓解通胀和利率担忧。",
-  "pub_time": "2026-09-03T09:41:18Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "e5cd24211ff98875910daf3f3f2ca6b4",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "大涨"
-  ],
-  "en_title": "Gold Surges On Weaker Dollar, Lower Yields"
- },
- {
-  "title": "油价连续三天上涨后企稳",
-  "url": "",
-  "summary": "(RTTNews) - 油价在早些时候攀升至一个多月高位后，周四保持稳定。",
-  "pub_time": "2026-09-03T09:29:36Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "ba74eabae11b1448008f57b50f4f3a5f",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "上涨"
-  ],
-  "en_title": "Oil Steadies After Three-day Rally"
- },
- {
-  "title": "期货日报：金价承压下行",
-  "url": "https://news.mysteel.com/a/26090309/640A8C810CEFF669.html",
-  "summary": "",
-  "pub_time": "2026-09-03T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "0f52b2d0accff1f3239fb20b3ed786a6",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "9月2日SPDR黄金持仓量较前一交易日增加9.984吨",
-  "url": "https://news.mysteel.com/a/26090309/81D02681DB0185FD.html",
-  "summary": "",
-  "pub_time": "2026-09-03T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "b9d31cf316e1e36916b3fb5e05e69a3e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "9月2日iShares白银持仓量较前一交易日减少40.23吨",
-  "url": "https://news.mysteel.com/a/26090309/EE531614B612051B.html",
-  "summary": "",
-  "pub_time": "2026-09-03T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "aab05101dcb9aa1abde0150af88642cf",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "纽约金价2日上涨",
-  "url": "https://news.mysteel.com/a/26090309/CCA50AAA0B41533E.html",
-  "summary": "",
-  "pub_time": "2026-09-03T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "3fd3aed7901f63d2add659ec04758a01",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "加强危机应对准备！荷兰央行将86吨黄金储备从北美转移至伦敦",
-  "url": "https://news.mysteel.com/a/26090309/C2F84A66DDCC6B23.html",
-  "summary": "",
-  "pub_time": "2026-09-03T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "a16172f28a9defd518fcbc483143ad4b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "俄矿产开发署：俄罗斯黄金储量全球第三 开采量全球第二",
-  "url": "https://news.mysteel.com/a/26090309/47E460CD4F004F4A.html",
-  "summary": "",
-  "pub_time": "2026-09-03T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "be4e54a53658ac3eef6077d0fd359d55",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色期货早报：各品种下跌，多机构料铁矿石震荡运行",
-  "url": "https://news.mysteel.com/a/26090309/256F232C55D2F23B.html",
-  "summary": "",
-  "pub_time": "2026-09-03T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "c1ee7f7c75bc5e3e2c07c03e410e66a8",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
