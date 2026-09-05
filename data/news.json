@@ -82,25 +82,6 @@
   "is_elite": false
  },
  {
-  "title": "硬足金何以撬动中国金饰“悦己消费”新浪潮？",
-  "url": "https://www.chinanews.com.cn/cj/2026/09-05/10691053.shtml",
-  "summary": "高志苗)高金价压制消费量，但消费金额不降反升。世界黄金协会4日发布的《2026年中国金饰零售趋势洞察》显示，2026年上半年，中国金饰消费量同比下滑30%至136吨，消费总额则上升5%至1437亿元。在这组“量降价升”的数据背后，中国金饰“悦己消费”进一步占据主导",
-  "pub_time": "2026-09-05T11:50:32Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "72ee4084d7c7df03a41e7b0f441dab6b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/产业经济",
-  "tags": [
-   "产业经济",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
   "title": "每日钢市：螺纹钢周涨34，钢坯亏超100，钢价或震荡偏强",
   "url": "https://news.mysteel.com/a/26090511/8A5E2D6E8D962499.html",
   "summary": "",
@@ -3063,78 +3044,5 @@
    "基本金属"
   ],
   "en_title": "Colombia scraps 10 mining rules to attact investors"
- },
- {
-  "title": "伊利诺伊州大豆协会宣布 2027 年 LEAD 等级",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-03T16:14:00Z",
-  "source": "Grainnet",
-  "_cat": "基本金属",
-  "dedup_key": "0076b776e5e6fb497bdc52136620a8a7",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铅",
-   "大豆"
-  ],
-  "en_title": "Illinois Soybean Association Announces 2027 LEAD Class"
- },
- {
-  "title": "有色持仓日报：沪铝涨1.29%，国泰君安减持超3.1千手空单",
-  "url": "https://news.mysteel.com/a/26090316/A5CEE12E3D07F64A.html",
-  "summary": "",
-  "pub_time": "2026-09-03T16:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "50b9b22bb54b9560e25b088c7bd5e9ff",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "了解 Steel Dynamics 在分析师首选金属中的排名",
-  "url": "",
-  "summary": "根据 Metals Channel 的数据，对主要券商的分析师推荐进行的研究显示，Steel Dynamics Inc.（代码：STLD）在构成 Metals Channel 全球矿业巨头指数的 50 只股票中平均排名第 40 名。环球金属频道",
-  "pub_time": "2026-09-03T15:49:15Z",
-  "source": "Nasdaq商品",
-  "_cat": "黑色系",
-  "dedup_key": "1be9f4c3eba256c9058022918d65950f",
-  "score": 84,
-  "priority": "P1",
-  "topic": "黑色系",
-  "tags": [
-   "黑色系",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "黑色系",
-   "金属",
-   "钢材"
-  ],
-  "en_title": "See How Steel Dynamics Ranks Among Analysts' Top Metals Picks"
  }
 ]
