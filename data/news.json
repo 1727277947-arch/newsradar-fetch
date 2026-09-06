@@ -1,5 +1,32 @@
 [
  {
+  "title": "石油巨头在劳资纠纷中寻求更大的议价能力",
+  "url": "",
+  "summary": "美国最大的石油公司在工会劳资谈判中采取强硬态度，以期在新合同中获得工会更多让步。过去几年，美国一些顶级炼油公司纷纷采取停工措施，以确保公司大部分人员正常运转。",
+  "pub_time": "2026-09-06T21:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "74c1e89335eaa9d1ee745fb3c8b18ad9",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "走强"
+  ],
+  "en_title": "Oil Majors Seek Bigger Bargaining Power in Labor Disputes"
+ },
+ {
   "title": "哥伦比亚取消水力压裂禁令，计划进行 40 亿美元的新石油投资",
   "url": "",
   "summary": "哥伦比亚联邦政府的政权更迭有望迎来这个南美国家的石油和天然气复兴。在前左翼总统古斯塔沃·佩特罗（Gustavo Petro）的领导下禁止石油和天然气勘探四年后，新的右翼政府渴望开放该国的石油和天然气开采。",
@@ -1187,85 +1214,5 @@
    "基本金属"
   ],
   "en_title": "How The U.S. Fell Behind China On Nuclear Power"
- },
- {
-  "title": "BLM 开始快速办理阿拉斯加石油储备的石油许可证",
-  "url": "",
-  "summary": "据周五的新闻稿称，土地管理局希望将阿拉斯加国家石油储备区一些石油和天然气项目的许可时间缩短至 60 天。拟议的规则将取代对符合条件的生产基地进行单独的个案审查",
-  "pub_time": "2026-09-04T20:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "0d52cb7f8e61b7367e4eb5b4ee11d896",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "石油"
-  ],
-  "en_title": "BLM Moves to Fast-Track Oil Permits in Alaska Petroleum Reserve"
- },
- {
-  "title": "央行放慢步伐投资者提振金价",
-  "url": "",
-  "summary": "尽管金价仍维持在历史高位附近，但 7 月份央行的黄金购买量下降了一半以上。",
-  "pub_time": "2026-09-04T20:14:00Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "1276eca50a954e628f45689b034f72b7",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "价"
-  ],
-  "en_title": "Investors buoy gold price as central banks slow"
- },
- {
-  "title": "Gold.com (GOLD) 股价突破 200 日均线",
-  "url": "",
-  "summary": "在周五的交易中，Gold.com Inc（代码：GOLD）的股价突破了 42.72 美元的 200 日移动平均线，易手高达每股 46.10 美元。 Gold.com Inc 股价当天上涨约 9.7%。下图为G一年的表现",
-  "pub_time": "2026-09-04T20:11:31Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "37bc01bccf85e736ff7562c464edd891",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Gold.com (GOLD) Shares Cross Above 200 DMA"
  }
 ]
