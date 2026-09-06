@@ -1,2 +1,5 @@
 ﻿output/
 fetcher/output/
+fetcher/__pycache__/
+__pycache__/
+
