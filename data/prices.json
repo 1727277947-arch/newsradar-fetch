@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-07T05:51:33",
+ "updated_at": "2026-09-07T06:07:44",
  "prices": [
   {
    "symbol": "XAU",
@@ -9,7 +9,7 @@
    "category": "贵金属",
    "market": "国际",
    "kind": "spot",
-   "spot": 4431.1001,
+   "spot": 4423.5,
    "future": null,
    "basis": null,
    "basis_pct": null,
@@ -27,7 +27,7 @@
    "category": "贵金属",
    "market": "国际",
    "kind": "spot",
-   "spot": 66.341,
+   "spot": 66.187,
    "future": null,
    "basis": null,
    "basis_pct": null,
@@ -45,7 +45,7 @@
    "category": "贵金属",
    "market": "国际",
    "kind": "spot",
-   "spot": 1826.0,
+   "spot": 1820.0,
    "future": null,
    "basis": null,
    "basis_pct": null,
@@ -63,7 +63,7 @@
    "category": "贵金属",
    "market": "国际",
    "kind": "spot",
-   "spot": 1408.0,
+   "spot": 1410.0,
    "future": null,
    "basis": null,
    "basis_pct": null,
