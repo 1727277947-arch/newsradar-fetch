@@ -1,5 +1,68 @@
 [
  {
+  "title": "8月下旬钢材库存量1625万吨",
+  "url": "https://news.mysteel.com/a/26090706/5C4C7ECDEE8D932C.html",
+  "summary": "",
+  "pub_time": "2026-09-07T06:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "563519d69017e166ad7cc6f0e9c09f2d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "中钢协：8月下旬重点钢企钢材库存量1625万吨",
+  "url": "https://news.mysteel.com/a/26090706/6982227DCDA466BA.html",
+  "summary": "",
+  "pub_time": "2026-09-07T06:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "aac3b503b5c7cbf22548ea024225c562",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "俄罗斯正在重新绘制北极能源地图",
+  "url": "",
+  "summary": "俄罗斯的北方海航线 (NSR) 即将成为欧亚能源贸易的游戏规则改变者，而欧洲 2027 年 1 月对俄罗斯液化天然气的禁令正促使莫斯科比计划更早实施该禁令。液化天然气仍将是其基础，而原油运输和俄罗斯石油公司庞大的东方石油项目可以提供",
+  "pub_time": "2026-09-06T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "6c4e768ef378f07e32f76c0f85e25463",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Russia Is Redrawing Its Energy Map Through the Arctic"
+ },
+ {
   "title": "石油巨头在劳资纠纷中寻求更大的议价能力",
   "url": "",
   "summary": "美国最大的石油公司在工会劳资谈判中采取强硬态度，以期在新合同中获得工会更多让步。过去几年，美国一些顶级炼油公司纷纷采取停工措施，以确保公司大部分人员正常运转。",
@@ -1142,7 +1205,7 @@
  {
   "title": "全球最大矿业公司 50 强",
   "url": "",
-  "summary": "8 月份的涨幅为 3,570 亿美元，创下有记录以来的最大月度涨幅，使排名自 2 月份以来首次回到 2.5 万亿美元以上，当时金价比今天的水平高出每盎司近 1,000 美元。",
+  "summary": "8 月份的涨幅为 3,570 亿美元，创有记录以来最大月度涨幅，自 2 月份以来首次重回 2.5 万亿美元以上，当时金价比今天的水平高出每盎司近 1,000 美元。",
   "pub_time": "2026-09-04T23:42:16Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -1163,31 +1226,5 @@
    "贵金属"
   ],
   "en_title": "The top 50 biggest mining companies in the world"
- },
- {
-  "title": "白银的无名力量",
-  "url": "",
-  "summary": "在 1 月底达到峰值的短短 3.1 个月内，白银就飙升了 149%，令人难以置信。",
-  "pub_time": "2026-09-04T22:43:29Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "a08152e825ad4f47e1dcd512100c69bc",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "白银"
-  ],
-  "en_title": "Silver’s unsung strength"
  }
 ]
