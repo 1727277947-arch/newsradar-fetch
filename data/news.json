@@ -1568,25 +1568,6 @@
   "is_elite": false
  },
  {
-  "title": "关键矿产日报：8月全球对华铝土矿发运大增，铝项目开工投产汇总",
-  "url": "https://news.mysteel.com/a/26090417/3F97CED98BA9F84A.html",
-  "summary": "",
-  "pub_time": "2026-09-04T17:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "c964fa86b64e7a77bbbc7f821a84a098",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel：七日洞见——黑色金属市场一周热点回顾（8.30-9.4）",
   "url": "https://news.mysteel.com/a/26090417/6FBC7738F280D2FD.html",
   "summary": "",
@@ -1656,6 +1637,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "关键矿产日报：8月全球对华铝土矿发运大增，铝项目开工投产汇总",
+  "url": "https://news.mysteel.com/a/26090417/144BBA0D9DDDF622.html",
+  "summary": "",
+  "pub_time": "2026-09-04T17:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "c964fa86b64e7a77bbbc7f821a84a098",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
