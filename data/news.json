@@ -1,5 +1,31 @@
 [
  {
+  "title": "石油资源丰富的阿曼大力投资可再生能源",
+  "url": "",
+  "summary": "阿曼是主要石油和天然气生产国，计划扩大其可再生能源产能，作为其能源多元化和绿色转型目标的一部分。政府最近出台了新的国家政策，以扩大阿曼的绿色能源和清洁技术产业，并鼓励私人投资",
+  "pub_time": "2026-09-06T15:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "9b12b3fb70aa31b3545118707538de71",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "原油",
+   "能源"
+  ],
+  "en_title": "Oil-Rich Oman Bets Big on Renewable Energy"
+ },
+ {
   "title": "机构：伊拉克8月石油出口量较冲突前下降36%",
   "url": "https://news.mysteel.com/a/26090614/63A275DBD37DC740.html",
   "summary": "",
@@ -1766,62 +1792,5 @@
    "黑色系"
   ],
   "en_title": "Baowu eyes stake in BHP’s Jimblebar mine: Reuters"
- },
- {
-  "title": "Mysteel：8月房地产大事记",
-  "url": "https://news.mysteel.com/a/26090415/E614F99D33E68EA6.html",
-  "summary": "",
-  "pub_time": "2026-09-04T15:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "8175db072a10149fe40bd0579f742c7c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/产业经济",
-  "tags": [
-   "产业经济",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色持仓日报：铁矿石涨1.04%，中信期货增持6千手多单",
-  "url": "https://news.mysteel.com/a/26090415/C410AF0DD76C6FA0.html",
-  "summary": "",
-  "pub_time": "2026-09-04T15:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "937b74d2835ae1396d2f69017793a144",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "有色持仓日报：沪铜飘红，金瑞期货减持超1.7千手多单",
-  "url": "https://news.mysteel.com/a/26090415/5E5B24F26508036B.html",
-  "summary": "",
-  "pub_time": "2026-09-04T15:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "7d141b8f8f1d13066abbb038bb6ae5ea",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  }
 ]
