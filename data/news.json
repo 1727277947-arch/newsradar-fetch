@@ -1,5 +1,43 @@
 [
  {
+  "title": "【华夏时报】上海钢联周宇婷：9月焦炭价格仍有走高预期",
+  "url": "https://news.mysteel.com/a/26090710/AEF6D6825C203929.html",
+  "summary": "",
+  "pub_time": "2026-09-07T10:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "ee9726e66d7a0f0d607e762655e64766",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：全国暴雨预警信号汇总（9月7日）",
+  "url": "https://news.mysteel.com/a/26090709/E59CC83F32E3EFE1.html",
+  "summary": "",
+  "pub_time": "2026-09-07T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "2d861eeb823583ce27d7931673608b30",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "黑色期货早报：各品种多数下跌，多机构料螺纹钢震荡运行",
   "url": "https://news.mysteel.com/a/26090709/CB19CBB28980420C.html",
   "summary": "",
@@ -247,6 +285,25 @@
   "is_elite": false
  },
  {
+  "title": "Mysteel周报：汽车原材料价格（8.31-9.6）",
+  "url": "https://news.mysteel.com/a/26090709/8C202FE782D03BD4.html",
+  "summary": "",
+  "pub_time": "2026-09-07T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "fb6d6d5e76824855e56b4c93836a842b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/产业经济",
+  "tags": [
+   "产业经济",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "东海期货：双焦中线上涨逻辑仍在",
   "url": "https://news.mysteel.com/a/26090708/5C9BB7E16E313A63.html",
   "summary": "",
@@ -414,7 +471,7 @@
  {
   "title": "每日市场快讯 2026 年 9 月 7 日",
   "url": "",
-  "summary": "周五小麦市场避险，先于美国周一假期。周末美国斡旋的和平谈判收效甚微。澳大利亚南部欢迎干草机预报。",
+  "summary": "周五小麦市场避险，美国周一假期来临。周末美国斡旋的和平谈判收效甚微。澳大利亚南部欢迎干草机预报。",
   "pub_time": "2026-09-07T00:23:34Z",
   "source": "GrainCentral",
   "_cat": "农产品",
@@ -769,44 +826,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年9月6日山东枣庄玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/5132797758.shtml",
-  "summary": "",
-  "pub_time": "2026-09-06T00:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "adb5bb5bc8040294973fecada8a645b0",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月6日内蒙古通辽玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/5114734386.shtml",
-  "summary": "",
-  "pub_time": "2026-09-06T00:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "f0c6a77e51c24f80488acd4f7ba41c5d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年9月6日天津豆粕价格行情",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/0014701917.shtml",
   "summary": "",
@@ -1016,6 +1035,44 @@
   "is_elite": false
  },
  {
+  "title": "2026年9月6日山东枣庄玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/5132797758.shtml",
+  "summary": "",
+  "pub_time": "2026-09-06T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "20aec0965c68f81bcb89a84bdb229593",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月6日内蒙古通辽玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/5114734386.shtml",
+  "summary": "",
+  "pub_time": "2026-09-06T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "e61bba0d1f5ccaa525f3e4321765b2a0",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年9月6日吉林长春玉米价格行情",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/5056744036.shtml",
   "summary": "",
@@ -1206,25 +1263,6 @@
    "天然气"
   ],
   "en_title": "This Cattle Feedlot Turns Manure Into 1.2 Million MMBtu of Natural Gas a Year"
- },
- {
-  "title": "美债抛售只是暂时现象？贝森特：伊朗战事结束后油价或跌至40美元",
-  "url": "https://news.mysteel.com/a/26090516/4548D1DEDEA8700B.html",
-  "summary": "",
-  "pub_time": "2026-09-05T16:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "9bd061d3918671cb7af74f879e8048ef",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  },
  {
   "title": "尽管挑战持续存在，绿色债券仍创历史新高",
