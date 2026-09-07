@@ -1,5 +1,43 @@
 [
  {
+  "title": "大商所调整铁矿石期货合约涨跌停板幅度和交易保证金水平",
+  "url": "https://news.mysteel.com/a/26090716/39AB75E3D3108E96.html",
+  "summary": "",
+  "pub_time": "2026-09-07T16:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "ee68a6e04fa5c67d229d9e5ae30a85a7",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "大商所调整铁矿石期货合约交易限额",
+  "url": "https://news.mysteel.com/a/26090716/1DB697F69B911FD6.html",
+  "summary": "",
+  "pub_time": "2026-09-07T16:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "36d885b8cf817d390cd2e97abc29dc41",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "央行：8月末黄金储备升至7673万盎司 连续22个月扩大黄金储备",
   "url": "https://news.mysteel.com/a/26090716/96D1BCF239376F38.html",
   "summary": "",
@@ -115,7 +153,7 @@
  },
  {
   "title": "黑色持仓日报：铁矿石涨1.17%，东证期货增持近4千手多单",
-  "url": "https://news.mysteel.com/a/26090715/C98B80F76C7B4E66.html",
+  "url": "https://news.mysteel.com/a/26090715/CB14AB96C6271E34.html",
   "summary": "",
   "pub_time": "2026-09-07T15:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1127,6 +1165,44 @@
   "is_elite": false
  },
  {
+  "title": "9月7日进口大豆到国内港口CF及升贴水报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/07/4200543397.shtml",
+  "summary": "",
+  "pub_time": "2026-09-07T00:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "e83e1e652fe1a1668258a3f17673399a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "9月7日进口大豆港口分销价持平",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/07/3729919723.shtml",
+  "summary": "",
+  "pub_time": "2026-09-07T00:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "f20a18bedf4ea725998907ada3b22397",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年9月7日大连大豆期货收盘高开收涨",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/07/0101498533.shtml",
   "summary": "",
@@ -1691,9 +1767,9 @@
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/5924692822.shtml",
   "summary": "",
   "pub_time": "2026-09-06T00:00:00Z",
-  "source": "粮油大豆",
+  "source": "粮油首页",
   "_cn": true,
-  "dedup_key": "cba159fd1f74bf7deef8f3027da6dc9a",
+  "dedup_key": "88bb426ecbf9070337f223f39fe73eaf",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1701,7 +1777,7 @@
    "大宗商品",
    "中文",
    "国内",
-   "粮油大豆"
+   "粮油首页"
   ],
   "is_elite": false
  },
