@@ -57,6 +57,60 @@
   "is_elite": false
  },
  {
+  "title": "尽管受到美国关税威胁，俄罗斯誓言继续向印度出售石油",
+  "url": "",
+  "summary": "俄罗斯驻印度大使丹尼斯·阿利波夫在接受《亚洲新闻国际》采访时表示，俄罗斯仍将是印度的主要原油供应国，他还批评了美国计划对俄罗斯石油进口国征收关税的立法。俄罗斯成为印度最大的单一国家",
+  "pub_time": "2026-09-07T17:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "81cf03abb2a88a17f0da33fefd51148c",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Russia Vows to Keep Selling Oil to India Despite U.S. Tariff Threat"
+ },
+ {
+  "title": "铜价自 1994 年以来最长的上涨与供应链萎缩相冲突",
+  "url": "",
+  "summary": "铜价正创下自 1994 年以来最长的周线上涨趋势，而上涨行情之下的现货市场却持续走弱。截至上周五，伦敦金属交易所基准价格连续第十周上涨，交易价格接近每吨 14,300 美元，接近创纪录的 14,527 美元。",
+  "pub_time": "2026-09-07T17:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "c26f0b7597e0306b2eb509531b21f9d0",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜",
+   "上涨",
+   "供应"
+  ],
+  "en_title": "Copper's Longest Rally Since 1994 Collides With a Shrinking Supply Chain"
+ },
+ {
   "title": "Mysteel晚餐：焦炭开启第五轮提涨",
   "url": "https://news.mysteel.com/a/26090717/4114D0D816561D77.html",
   "summary": "",
@@ -112,6 +166,83 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
+ },
+ {
+  "title": "ACG Metals 将收购 Keşkek 金矿项目",
+  "url": "",
+  "summary": "这家以铜为主的公司旨在利用 Keşkek 的生产来延长 Gediktepe 的运营寿命。",
+  "pub_time": "2026-09-07T16:43:44Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "1c215807c7225b624c9d8d4d90d7b9bc",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "金属"
+  ],
+  "en_title": "ACG Metals to acquire Keşkek gold project"
+ },
+ {
+  "title": "中国暂停新电池存储厂的审批",
+  "url": "",
+  "summary": "中国财经新闻媒体财联社本周末援引行业消息人士的话报道称，在对现有和规划产能进行审查的过程中，中国已暂停批准新的电池存储工厂。暂时停止审批尚未开工的工厂正值增长之际",
+  "pub_time": "2026-09-07T16:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "ebeaa54956f558e8a65d258f9538ce19",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "China Halts New Battery Storage Plant Approvals"
+ },
+ {
+  "title": "乌兹别克斯坦缩减与俄罗斯的核合作",
+  "url": "",
+  "summary": "6月4日，乌兹别克斯坦总统沙夫卡特·米尔济约耶夫和俄罗斯领导人弗拉基米尔·普京在乌兹别克斯坦首个核反应堆群的奠基仪式上满面笑容，该反应堆将由俄罗斯核实体Rosatom建造。 “我相信你选择了最好的",
+  "pub_time": "2026-09-07T16:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "719a9364f8109844b10f81b05d623c2b",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Uzbekistan Scales Back Nuclear Cooperation With Russia"
  },
  {
   "title": "Mysteel解读：原料端影响减量扩大 8、9月电解铜产量同比延续下降",
@@ -226,6 +357,33 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
+ },
+ {
+  "title": "随着发电厂库存减少，印度增加铁路煤炭交付量",
+  "url": "",
+  "summary": "印度煤炭部周一表示，由于数十家燃煤电厂的煤炭库存降至极低水平，印度煤炭公司正在增加对燃煤电厂的供应。印度有 50 多家燃煤发电厂，煤炭仍然是最大的单一发电来源",
+  "pub_time": "2026-09-07T15:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "综合",
+  "dedup_key": "2f46a74b158d4a8741c9a875d8f5eaa4",
+  "score": 84,
+  "priority": "P1",
+  "topic": "综合",
+  "tags": [
+   "综合",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "综合",
+   "煤炭",
+   "库存"
+  ],
+  "en_title": "India Ramps Up Rail Coal Deliveries as Power Plant Stockpiles Dwindle"
  },
  {
   "title": "伊拉克真能取代沙特成为中东最大产油国吗？",
@@ -507,7 +665,7 @@
  {
   "title": "SW US 聚焦：四名青少年钻金、钨",
   "url": "",
-  "summary": "四家初级企业正在内华达州和亚利桑那州推进金、银和钨项目，从早期钻探到由美国政府支持的预可行性阶段开发。 A2 Gold (TSXV: AUAU;...《SW US 聚光灯》后：四名青少年钻金，钨首先出现在 The No",
+  "summary": "四家初级企业正在内华达州和亚利桑那州推进金、银和钨项目，从早期钻探到由美国政府支持的预可行性阶段开发。 A2 Gold (TSXV: AUAU;...《西南美报》聚焦：四位青少年钻金，钨首先出现在 The No",
   "pub_time": "2026-09-07T13:00:08Z",
   "source": "NorthernMiner",
   "_cat": "贵金属",
@@ -579,7 +737,7 @@
  {
   "title": "伊朗表示将控制新霍尔木兹航运走廊",
   "url": "",
-  "summary": "伊朗周一表示，正准备与阿曼签署一项协议，在伊朗控制下的霍尔木兹海峡建立一条新的航运走廊，船只需要与德黑兰协调才能进入关键石油咽喉点周围的新限制海域。莫森·雷扎伊 (Mohsen Rezaei)，秒",
+  "summary": "伊朗周一表示，准备与阿曼签署一项协议，在伊朗控制下建立一条穿过霍尔木兹海峡的新航运走廊，船只需要与德黑兰协调才能进入关键石油咽喉点周围的新限制海域。莫森·雷扎伊 (Mohsen Rezaei)，秒",
   "pub_time": "2026-09-07T11:47:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -604,7 +762,7 @@
  {
   "title": "来自档案馆：卡林主修采矿专业",
   "url": "",
-  "summary": "在美国西南部的众多采矿名声中，发现了卡林型金矿床，其特点是富含砷的黄铁矿中的微观金，并以小镇的名字命名...该帖子来自档案馆：卡林制造的采矿专业首次出现在北方矿工。",
+  "summary": "美国西南部因采矿而闻名的众多说法之一是发现了卡林型金矿，其特征是富含砷的黄铁矿中含有微量金，并以该镇命名。档案中的帖子：卡林让采矿专业首先出现在《北方矿工》上。",
   "pub_time": "2026-09-07T11:22:29Z",
   "source": "NorthernMiner",
   "_cat": "贵金属",
@@ -654,7 +812,7 @@
  {
   "title": "随着中东战争升级，印度原油基准突破 100 美元",
   "url": "",
-  "summary": "上周末，印度原油进口平均价格飙升至每桶100美元以上，随着中东敌对行动加剧，国际原油价格上涨，本周将进一步上涨。所谓的原油离岸价格，或印度一篮子平均糖醋酱",
+  "summary": "上周末，印度原油进口平均价格飙升至每桶100美元以上，随着中东敌对行动加剧，国际原油价格上涨，本周将进一步上涨。所谓的原油离岸价，或印度一篮子平均糖醋酱",
   "pub_time": "2026-09-07T11:00:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -915,7 +1073,7 @@
  {
   "title": "美国和伊朗再次发动袭击，油价上涨",
   "url": "",
-  "summary": "(RTTNews) - 由于美国袭击伊朗油轮以及德黑兰威胁在霍尔木兹海峡外设立新禁区，引发了人们对中东能源供应长期中断的担忧，油价周一上涨。",
+  "summary": "(RTTNews) - 周一油价上涨，因美国袭击伊朗油轮以及德黑兰威胁在霍尔木兹海峡外设立新禁区引发了人们对中东能源供应长期中断的担忧。",
   "pub_time": "2026-09-07T09:40:02Z",
   "source": "Nasdaq商品",
   "_cat": "能源",
@@ -1046,13 +1204,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：矿价或震荡偏强",
-  "url": "https://news.mysteel.com/a/26090709/BFA6BEA4C35308BE.html",
+  "title": "瑞达期货：焦煤整体库存下降",
+  "url": "https://news.mysteel.com/a/26090709/7A6B980778D20065.html",
   "summary": "",
   "pub_time": "2026-09-07T09:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "3d454b8e16c3f4edc89d55e44c26a70f",
+  "dedup_key": "b7aa94ccabb080a63d0b664ef5be8ed2",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1065,13 +1223,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：焦煤整体库存下降",
-  "url": "https://news.mysteel.com/a/26090709/7A6B980778D20065.html",
+  "title": "瑞达期货：矿价或震荡偏强",
+  "url": "https://news.mysteel.com/a/26090709/BFA6BEA4C35308BE.html",
   "summary": "",
   "pub_time": "2026-09-07T09:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "b7aa94ccabb080a63d0b664ef5be8ed2",
+  "dedup_key": "3d454b8e16c3f4edc89d55e44c26a70f",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1388,33 +1546,6 @@
   "en_title": "Ag lobby amplifies call for visa approvals as harvest nears"
  },
  {
-  "title": "由于炼油厂优先考虑柴油，运输燃料短缺迫在眉睫",
-  "url": "",
-  "summary": "据路透社报道，由于炼油厂将后者置于前者之上，航运业的燃油供应受到战争驱动的柴油燃料紧张局势的挤压，亚洲将遭受最严重的打击。本季度短缺量为每天218,000桶，",
-  "pub_time": "2026-09-07T05:50:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "704abda43b321a006e17dbfe78018047",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "燃料",
-   "短缺"
-  ],
-  "en_title": "Shipping Fuel Shortage Looms as Refiners Prioritize Diesel"
- },
- {
   "title": "土壤湿度是维多利亚州春季的关键地区",
   "url": "",
   "summary": "维多利亚州农业部最新的土壤湿度报告显示，随着八月份降雨量远高于平均水平，主要地区的农作物在春季生长发育良好。",
@@ -1439,35 +1570,6 @@
    "原油"
   ],
   "en_title": "Soil moisture sets up key Vic regions for spring"
- },
- {
-  "title": "美国袭击三艘伊朗油轮，伊朗誓言报复，油价上涨",
-  "url": "",
-  "summary": "在美伊战争又一个周末升级后，周一亚洲早盘油价小幅走高。截至撰写本文时，WTI 交易价格为每桶 92.14 美元，当日上涨 0.72%，而布伦特原油价格上涨 0.63%，交易价格为每桶 96.89 美元。周六，美国中央司令部（Centcom）回购",
-  "pub_time": "2026-09-07T03:40:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "5ad6533e0ccef669e0311974d1dbc7d0",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "走高",
-   "罢工"
-  ],
-  "en_title": "Oil Prices Climb After U.S. Strikes Three Iranian Tankers and Iran Vows Revenge"
  },
  {
   "title": "Murray Mallee 上市混合羊，种植选择",
@@ -2133,58 +2235,6 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "俄罗斯正在重新绘制北极能源地图",
-  "url": "",
-  "summary": "俄罗斯的北方海航线 (NSR) 即将成为欧亚能源贸易的游戏规则改变者，而欧洲 2027 年 1 月对俄罗斯液化天然气的禁令正促使莫斯科比计划更早实施该禁令。液化天然气仍将是其基础，而原油运输和俄罗斯石油公司庞大的东方石油项目可以提供",
-  "pub_time": "2026-09-06T23:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "6c4e768ef378f07e32f76c0f85e25463",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Russia Is Redrawing Its Energy Map Through the Arctic"
- },
- {
-  "title": "石油巨头在劳资纠纷中寻求更大的议价能力",
-  "url": "",
-  "summary": "美国最大的石油公司在工会劳资谈判中采取强硬态度，以期在新合同中获得工会更多让步。过去几年，美国一些顶级炼油公司纷纷采取停工措施，以确保公司大部分人员正常运转。",
-  "pub_time": "2026-09-06T21:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "74c1e89335eaa9d1ee745fb3c8b18ad9",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "走强"
-  ],
-  "en_title": "Oil Majors Seek Bigger Bargaining Power in Labor Disputes"
  },
  {
   "title": "机构：伊拉克8月石油出口量较冲突前下降36%",
