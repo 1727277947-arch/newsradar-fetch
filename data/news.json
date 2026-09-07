@@ -1,5 +1,43 @@
 [
  {
+  "title": "Mysteel周报：家电原材料价格监测（8.28-9.4）",
+  "url": "https://news.mysteel.com/a/26090710/D46E28CA0600CC1F.html",
+  "summary": "",
+  "pub_time": "2026-09-07T10:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "54972c9826c91be1f9d5b47c529808ad",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/产业经济",
+  "tags": [
+   "产业经济",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "日照钢铁涂镀产线全面达产，镀锌卷板加速走向全球市场",
+  "url": "https://news.mysteel.com/a/26090710/C91665ECEE011ABF.html",
+  "summary": "",
+  "pub_time": "2026-09-07T10:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "91c11840e3d51ee11081ea397fd83e38",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "【证券日报】隆众资讯李姿璇：短期橡胶价格继续区间震荡",
   "url": "https://news.mysteel.com/a/26090710/F22EDCBEAF941C95.html",
   "summary": "",
@@ -323,25 +361,6 @@
   "is_elite": false
  },
  {
-  "title": "东海期货：双焦中线上涨逻辑仍在",
-  "url": "https://news.mysteel.com/a/26090708/5C9BB7E16E313A63.html",
-  "summary": "",
-  "pub_time": "2026-09-07T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "020af3034ed61a756696dd7c90c71431",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "市场聚焦美联储加息路径 纽约金价4日下跌",
   "url": "https://news.mysteel.com/a/26090708/3577F3286B8C7DE1.html",
   "summary": "",
@@ -392,25 +411,6 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel早读：8月建材钢厂检修增加",
-  "url": "https://news.mysteel.com/a/26090707/446CE220AFEE86C7.html",
-  "summary": "",
-  "pub_time": "2026-09-07T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "9eb02a9ab272f98d3d45a23f7499fa16",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -807,44 +807,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年9月6日河南新乡玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/5228275977.shtml",
-  "summary": "",
-  "pub_time": "2026-09-06T00:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "844421ef907de4dce43dd3907dbaf042",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月6日河北石家庄玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/5150802578.shtml",
-  "summary": "",
-  "pub_time": "2026-09-06T00:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "ebbe3e05a298a81b5f8c0ecef64b5695",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年9月6日天津豆粕价格行情",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/0014701917.shtml",
   "summary": "",
@@ -1047,6 +1009,44 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月6日河南新乡玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/5228275977.shtml",
+  "summary": "",
+  "pub_time": "2026-09-06T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "301d3e78215662b3270b2801500c3cb9",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月6日河北石家庄玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/5150802578.shtml",
+  "summary": "",
+  "pub_time": "2026-09-06T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "b3be401036a9982fe9af140e460515bf",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "粮油首页"
