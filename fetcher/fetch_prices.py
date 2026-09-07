@@ -907,6 +907,17 @@ def build_hf_picks(items, preds=None):
         if rng < 1.0:                   # 当日波幅太小，没肉吃
             continue
 
+        # real-board gate: without real up/down board price a candidate would be a guess;
+        # once the price sits at/through the limit, no order can fill, so skip.
+        _bup = it.get('board_up')
+        _bdn = it.get('board_down')
+        if not _bup or not _bdn:
+            continue
+        if direct == 1 and fut and fut >= _bup:
+            continue
+        if direct == -1 and fut and fut <= _bdn:
+            continue
+
         # funds gate: with 100k you should open >=3 lots (margin/lot <=~33k) so crude/gold/silver can't be main pick
         if mg > 0 and (100000.0 / mg) < 3.0:
             continue
@@ -1035,6 +1046,15 @@ if __name__ == "__main__":
         predictions = []
         print("[WARN] predict_next_open:", str(e)[:70])
 
+    # real daily limit boards (eastmoney multi-node), fetched once before picks
+    try:
+        _em = _fetch_em_boards()
+        if isinstance(_em, dict):
+            items = _merge_em_boards(items, _em)
+            print('em boards merged:', {k: _em.get(k) for k in _em})
+    except Exception as e:
+        print('[WARN] _fetch_em_boards:', str(e)[:80])
+
     hf_picks = build_hf_picks(items, predictions)
 
     # ---- dual-board: independent time windows, never cross-contaminate ----
@@ -1086,15 +1106,6 @@ if __name__ == "__main__":
         "trading_rules": TRADING_RULES,
         "rules_summary": TRADING_RULES_SUMMARY,
     }
-    # real daily board_up/board_down (eastmoney, multi-node) written into prices
-    try:
-        _em = _fetch_em_boards()
-        if isinstance(_em, dict):
-            items = _merge_em_boards(items, _em)
-            obj["prices"] = items
-            print("em boards merged:", {k: _em.get(k) for k in _em})
-    except Exception as e:
-        print("[WARN] _fetch_em_boards:", str(e)[:80])
     n, probs = validate_predictions(predictions, items)
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(obj, f, ensure_ascii=False, indent=1)
