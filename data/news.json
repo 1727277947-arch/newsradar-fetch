@@ -1,5 +1,100 @@
 [
  {
+  "title": "东海期货：双焦中线上涨逻辑仍在",
+  "url": "https://news.mysteel.com/a/26090708/5C9BB7E16E313A63.html",
+  "summary": "",
+  "pub_time": "2026-09-07T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "020af3034ed61a756696dd7c90c71431",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "法国国家黄金储备全部归集至本土",
+  "url": "https://news.mysteel.com/a/26090708/8C610D289287A750.html",
+  "summary": "",
+  "pub_time": "2026-09-07T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "fb8c452c76aeb5803a80fb5b0531cae3",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "多国推进黄金储备本土化布局",
+  "url": "https://news.mysteel.com/a/26090708/A8F2F6BB0028B089.html",
+  "summary": "",
+  "pub_time": "2026-09-07T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "2b387f98140edf3a25dd616ee93f1801",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel早读：8月建材钢厂检修增加",
+  "url": "https://news.mysteel.com/a/26090707/446CE220AFEE86C7.html",
+  "summary": "",
+  "pub_time": "2026-09-07T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "9eb02a9ab272f98d3d45a23f7499fa16",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel早读：8月建材钢厂检修增加，重点钢企粗钢日产下降",
+  "url": "https://news.mysteel.com/a/26090707/A5572B62B7322BA7.html",
+  "summary": "",
+  "pub_time": "2026-09-07T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "2a2dcd1399a0b1c6a09b92c643e62c15",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "8月下旬钢材库存量1625万吨",
   "url": "https://news.mysteel.com/a/26090706/5C4C7ECDEE8D932C.html",
   "summary": "",
@@ -20,7 +115,7 @@
  },
  {
   "title": "中钢协：8月下旬重点钢企钢材库存量1625万吨",
-  "url": "https://news.mysteel.com/a/26090706/6982227DCDA466BA.html",
+  "url": "https://news.mysteel.com/a/26090706/5C4C7ECDEE8D932C.html",
   "summary": "",
   "pub_time": "2026-09-07T06:00:00Z",
   "source": "上海钢联Mysteel",
@@ -36,6 +131,56 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
+ },
+ {
+  "title": "Boolah 为维多利亚州首个实地考察日做好准备",
+  "url": "",
+  "summary": "Boolah 将于周四在维多利亚州举办首个实地考察日，游客可以参观大规模的商业大麦种植，并了解为什么利润在整个供应链中至关重要。",
+  "pub_time": "2026-09-07T00:42:29Z",
+  "source": "GrainCentral",
+  "_cat": "基本金属",
+  "dedup_key": "d7e18467a559c8ca7d0284d64f405f56",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Boolah gears up for its first Vic field day"
+ },
+ {
+  "title": "每日市场快讯 2026 年 9 月 7 日",
+  "url": "",
+  "summary": "周五小麦市场避险，先于美国周一假期。周末美国斡旋的和平谈判收效甚微。澳大利亚南部欢迎干草机预报。",
+  "pub_time": "2026-09-07T00:23:34Z",
+  "source": "GrainCentral",
+  "_cat": "农产品",
+  "dedup_key": "680f1413facc12408a8fc5ffb48ab9ae",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品"
+  ],
+  "en_title": "Daily Market Wire 7 September 2026"
  },
  {
   "title": "俄罗斯正在重新绘制北极能源地图",
@@ -143,7 +288,7 @@
  },
  {
   "title": "机构：伊拉克8月石油出口量较冲突前下降36%",
-  "url": "https://news.mysteel.com/a/26090614/63A275DBD37DC740.html",
+  "url": "https://news.mysteel.com/a/26090614/D0B94018F5562CF9.html",
   "summary": "",
   "pub_time": "2026-09-06T14:00:00Z",
   "source": "上海钢联Mysteel",
@@ -606,7 +751,7 @@
  },
  {
   "title": "Mysteel宏观周报：中国8月制造业PMI回升，美国非农数据抬升加息预期",
-  "url": "https://news.mysteel.com/a/26090521/EE4F9CEC557ECB8B.html",
+  "url": "https://news.mysteel.com/a/26090521/2DEA7886606317F6.html",
   "summary": "",
   "pub_time": "2026-09-05T21:00:00Z",
   "source": "上海钢联Mysteel",
@@ -775,456 +920,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "天府粮仓“端”出巴蜀好粮 ——“四川好粮油”“天府菜油”组团亮相第八届中国粮食交易大会",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/05/0409792099.shtml",
-  "summary": "",
-  "pub_time": "2026-09-05T00:00:00Z",
-  "source": "粮油豆粕",
-  "_cn": true,
-  "dedup_key": "47c905dcf0a4fec87a24106390573a93",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油豆粕"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月5日天津豆粕价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/05/2507734266.shtml",
-  "summary": "",
-  "pub_time": "2026-09-05T00:00:00Z",
-  "source": "粮油豆粕",
-  "_cn": true,
-  "dedup_key": "8a655ded410e1a8204f1d35a200cbf1a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油豆粕"
-  ],
-  "is_elite": false
- },
- {
-  "title": "天府粮仓端出巴蜀好粮——四川好粮油天府菜油组团亮相第八届中国粮食交易大会",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/05/0409792099.shtml",
-  "summary": "",
-  "pub_time": "2026-09-05T00:00:00Z",
-  "source": "粮油豆粕",
-  "_cn": true,
-  "dedup_key": "f2f678f6b1642879fc55f6860b3930fa",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油豆粕"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月5日江苏省南通地区杂花大豆价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/05/3922474683.shtml",
-  "summary": "",
-  "pub_time": "2026-09-05T00:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "029332430bc294f5e371d89779bbb4e6",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月5日安徽省亳州利辛大豆价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/05/3908854756.shtml",
-  "summary": "",
-  "pub_time": "2026-09-05T00:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "459daf183902833c84ebc421f42b4219",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月5日江苏省徐州沛县杂花大豆价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/05/3853354543.shtml",
-  "summary": "",
-  "pub_time": "2026-09-05T00:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "0a20058b6d058c6d860958aa6a12d541",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月5日河南省漯河大豆价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/05/3840354999.shtml",
-  "summary": "",
-  "pub_time": "2026-09-05T00:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "9e7b1bbca62dcf77c438273890fa8216",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月5日安徽省亳州涡阳县大豆价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/05/3812106101.shtml",
-  "summary": "",
-  "pub_time": "2026-09-05T00:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "16c9cdc35615f5eca1a004ffcc581015",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月5日河南驻马店新季小麦价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/05/4542967452.shtml",
-  "summary": "",
-  "pub_time": "2026-09-05T00:00:00Z",
-  "source": "粮油小麦",
-  "_cn": true,
-  "dedup_key": "5a70a14e0cfdd71cb917cc847fc50526",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油小麦"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月5日河南商丘新季小麦价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/05/4523590624.shtml",
-  "summary": "",
-  "pub_time": "2026-09-05T00:00:00Z",
-  "source": "粮油小麦",
-  "_cn": true,
-  "dedup_key": "4c1179099cdd36a0c43844e64f5498e5",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油小麦"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月5日河北沧州新季小麦价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/05/4459808475.shtml",
-  "summary": "",
-  "pub_time": "2026-09-05T00:00:00Z",
-  "source": "粮油小麦",
-  "_cn": true,
-  "dedup_key": "d4260f08013897506170267cdd11154d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油小麦"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月5日山东德州新季小麦价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/05/4443170179.shtml",
-  "summary": "",
-  "pub_time": "2026-09-05T00:00:00Z",
-  "source": "粮油小麦",
-  "_cn": true,
-  "dedup_key": "bcc7458d69082af36489718ea36c65a9",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油小麦"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月5日山东济南新季小麦价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/05/4428364863.shtml",
-  "summary": "",
-  "pub_time": "2026-09-05T00:00:00Z",
-  "source": "粮油小麦",
-  "_cn": true,
-  "dedup_key": "fbdc5cd481339abb5dfb34a87329e9df",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油小麦"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月5日吉林市场豆油价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/05/2709462620.shtml",
-  "summary": "",
-  "pub_time": "2026-09-05T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "a625658909f96ee7448da709fa63d7bc",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月5日河南商丘玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/05/4406140204.shtml",
-  "summary": "",
-  "pub_time": "2026-09-05T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "68d7a30d8f67f829621446ed5ab55f26",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月5日河北邯郸玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/05/4343159462.shtml",
-  "summary": "",
-  "pub_time": "2026-09-05T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "b9fde475ffea6f0a45984892d2ae3153",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月5日山东济南玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/05/4329293198.shtml",
-  "summary": "",
-  "pub_time": "2026-09-05T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "b00c51ba04c5d8d4e1064c691d14b39c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月5日内蒙古通辽玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/05/4311127256.shtml",
-  "summary": "",
-  "pub_time": "2026-09-05T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "648f452e64cbe7d134cabacc79d23855",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月5日吉林松原玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/05/4245121172.shtml",
-  "summary": "",
-  "pub_time": "2026-09-05T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "800e6b05037839552e01343cd1e885eb",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月5日黑龙江鹤岗玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/05/4219995145.shtml",
-  "summary": "",
-  "pub_time": "2026-09-05T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "181f413758b99cf458798f8462ebd741",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月5日黑龙江鸡西玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/05/4128351895.shtml",
-  "summary": "",
-  "pub_time": "2026-09-05T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "03f93b09775d39e52c3f2e45b3f1912a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "8 月份大幅上涨后 50 强矿业公司市值飙升 3570 亿美元",
-  "url": "",
-  "summary": "有记录以来的最大月度涨幅使该排名自 2 月份以来首次回到 2.5 万亿美元以上，当时金价每盎司比今天的水平高出约 1,000 美元。",
-  "pub_time": "2026-09-04T23:52:01Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "3708b9d4e92027a3429671e6bdca383d",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "上涨",
-   "大涨"
-  ],
-  "en_title": "Value of top 50 mining companies surges by $357 billion after monster August rally"
- },
- {
-  "title": "全球最大矿业公司 50 强",
-  "url": "",
-  "summary": "8 月份的涨幅为 3,570 亿美元，创有记录以来最大月度涨幅，自 2 月份以来首次重回 2.5 万亿美元以上，当时金价比今天的水平高出每盎司近 1,000 美元。",
-  "pub_time": "2026-09-04T23:42:16Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "60ff97299d49e3aedb4f4cd90562a364",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "The top 50 biggest mining companies in the world"
  }
 ]
