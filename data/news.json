@@ -19,6 +19,25 @@
   "is_elite": false
  },
  {
+  "title": "这些赛道将支撑下半年钢铁需求",
+  "url": "https://news.mysteel.com/a/26090808/8E87A402C96498AB.html",
+  "summary": "",
+  "pub_time": "2026-09-08T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "719d48670f1e8e95d859f4d28afba8f9",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "Mysteel早读：沁源县累计复产7座煤矿",
   "url": "https://news.mysteel.com/a/26090807/0224C7600F0EE41E.html",
   "summary": "",
@@ -58,7 +77,7 @@
  },
  {
   "title": "Mysteel早读：沁源县累计复产7座煤矿，国家发改委部署提高疆煤外运规模",
-  "url": "https://news.mysteel.com/a/26090807/920A6F302B7536FE.html",
+  "url": "https://news.mysteel.com/a/26090807/4FE7405BD751C54B.html",
   "summary": "",
   "pub_time": "2026-09-08T07:00:00Z",
   "source": "上海钢联Mysteel",
@@ -88,6 +107,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月8日大连粳米期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/08/5559687670.shtml",
+  "summary": "",
+  "pub_time": "2026-09-08T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "3ffa36781184b073743a9500a4d8d4c1",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "粮油首页"
@@ -825,7 +863,7 @@
  {
   "title": "SW US 聚焦：四名青少年钻金、钨",
   "url": "",
-  "summary": "四家初级企业正在内华达州和亚利桑那州推进金、银和钨项目，从早期钻探到由美国政府支持的预可行性阶段开发。 A2 Gold (TSXV: AUAU;...《西南美报》聚焦：四位青少年钻金，钨首先出现在 The No",
+  "summary": "四家初级企业正在内华达州和亚利桑那州推进金、银和钨项目，从早期钻探到由美国政府支持的预可行性阶段开发。 A2 Gold (TSXV: AUAU;...《SW US 聚光灯》后：四名青少年钻金，钨首先出现在 The No",
   "pub_time": "2026-09-07T13:00:08Z",
   "source": "NorthernMiner",
   "_cat": "贵金属",
@@ -895,7 +933,7 @@
  {
   "title": "巴西的目标是在关键矿产热潮中发挥更大作用",
   "url": "",
-  "summary": "巴西正在吸引全球矿业资本，同时寻求对战略资产的更大控制和更多的国内加工。",
+  "summary": "巴西正在吸引全球矿业资本，同时寻求对战略资产的更大控制权和更多的国内加工。",
   "pub_time": "2026-09-07T11:00:00Z",
   "source": "Mining.com",
   "_cat": "基本金属",
@@ -1220,13 +1258,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：矿价或震荡偏强",
-  "url": "https://news.mysteel.com/a/26090709/BFA6BEA4C35308BE.html",
+  "title": "瑞达期货：焦煤整体库存下降",
+  "url": "https://news.mysteel.com/a/26090709/7A6B980778D20065.html",
   "summary": "",
   "pub_time": "2026-09-07T09:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "3d454b8e16c3f4edc89d55e44c26a70f",
+  "dedup_key": "b7aa94ccabb080a63d0b664ef5be8ed2",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1239,13 +1277,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：焦煤整体库存下降",
-  "url": "https://news.mysteel.com/a/26090709/7A6B980778D20065.html",
+  "title": "瑞达期货：矿价或震荡偏强",
+  "url": "https://news.mysteel.com/a/26090709/BFA6BEA4C35308BE.html",
   "summary": "",
   "pub_time": "2026-09-07T09:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "b7aa94ccabb080a63d0b664ef5be8ed2",
+  "dedup_key": "3d454b8e16c3f4edc89d55e44c26a70f",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1590,7 +1628,7 @@
  {
   "title": "每日市场快讯 2026 年 9 月 7 日",
   "url": "",
-  "summary": "周五小麦市场避险，美国周一假期来临。周末美国斡旋的和平谈判收效甚微。澳大利亚南部欢迎干草机预报。",
+  "summary": "周五小麦市场避险，先于美国周一假期。周末美国斡旋的和平谈判收效甚微。澳大利亚南部欢迎干草机预报。",
   "pub_time": "2026-09-07T00:23:34Z",
   "source": "GrainCentral",
   "_cat": "农产品",
