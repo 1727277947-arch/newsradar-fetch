@@ -285,6 +285,33 @@
   "is_elite": false
  },
  {
+  "title": "随着中国石油购买量反弹，布伦特原油价格逼近 100 美元",
+  "url": "",
+  "summary": "在伊朗战争的“活跃”阶段，通过霍尔木兹的运输实际上被停止，世界面临着每天约10-1500万桶的石油短缺，石油价格未能飙升的原因之一是中国的石油需求突然蒸发。是否到期",
+  "pub_time": "2026-09-08T14:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "8925c369678ffbdd3e104b70e4a22694",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "布伦特油价"
+  ],
+  "en_title": "$100 Brent Looms as China’s Oil Buying Rebounds"
+ },
+ {
   "title": "WTI原油期货涨近3%，站上94美元/桶",
   "url": "https://news.mysteel.com/a/26090814/1592D434856C86DB.html",
   "summary": "",
@@ -380,6 +407,95 @@
   "is_elite": false
  },
  {
+  "title": "海上“秋耕忙” “中国紫菜之乡”迎来紫菜采苗下苗窗口期",
+  "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692925.shtml",
+  "summary": "周健 沈灿辉 庄稼人)眼下正是紫菜采苗下苗的黄金窗口期，在素有“中国紫菜之乡”美誉的浙江温州洞头区霓屿街道，海上码头一派繁忙景象。养殖户抢抓有利时节，忙着紫菜采苗、张挂网帘等作业，洞头新一季紫菜生产的序幕在“海上田园”开启",
+  "pub_time": "2026-09-08T13:59:56Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "2627e378007c2cc7c34bd4f99d8c2f20",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "SW US 聚焦 2：Rio、Teck、Newmont 回归青少年队",
+  "url": "",
+  "summary": "三大矿业公司正在支持初级勘探商推进美国西南部的铜矿项目，而第四家公司正在努力成为国内锑和黄金生产商。泰克资源... 后西南美国聚焦 2：里约热内卢、泰克、纽蒙特后卫青年队首先出现在《北方矿工》上。",
+  "pub_time": "2026-09-08T13:30:33Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "210c7f1d34378d79b4617bc105a2d686",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "SW US Spotlight 2: Rio, Teck, Newmont back juniors"
+ },
+ {
+  "title": "中国·泰来胚芽米产业联盟成立 产学研联手打通“种源到餐桌”",
+  "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692886.shtml",
+  "summary": "记者 周亚强)一粒胚芽米，正在黑土地上撬动一个产业。记者从总部位于天津的荣程集团获悉，中国·泰来胚芽米(留胚米)产业联盟近日正式揭牌，“中国·泰来全谷物健康稻米产业创新园”同步落地",
+  "pub_time": "2026-09-08T13:04:59Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "57278780ba4be41bc40c79cb6d373f12",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "随着红海风险的增加，油轮涌入苏伊士运河",
+  "url": "",
+  "summary": "由于红海南部和曼德海峡的航运受到威胁，通过埃及通往地中海的门户的油轮数量激增，苏伊士运河7月份的收入比去年同月增长了42%。据 7 月份营收增至 5.05 亿美元",
+  "pub_time": "2026-09-08T13:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "8f127131a5aac30c92b8b1b7d8c6901e",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Oil Tankers Flood Back Into Suez Canal As Red Sea Risk Grows"
+ },
+ {
   "title": "布伦特原油期货涨超1%，站上98美元/桶",
   "url": "https://news.mysteel.com/a/26090813/D15746F752B00C51.html",
   "summary": "",
@@ -435,6 +551,31 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
+ },
+ {
+  "title": "霍尔木兹紧张局势持续存在，海湾生产商找到解决办法",
+  "url": "",
+  "summary": "国有科威特石油公司 (KPC) 的一位高级官员表示，科威特的原油出口量已反弹至每天约 100 万桶 (bpd)，恢复至伊朗战争前通过霍尔木兹海峡运输的 160 万桶/日的三分之二。科威特已成功提升 u",
+  "pub_time": "2026-09-08T12:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "f08e4c2068fe01ce4ff9d8a332dc99a8",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Gulf Producers Find Workarounds As Hormuz Tensions Persist"
  },
  {
   "title": "Mysteel：美债首破40万亿美元背景下的宏观状态判断与商品传导分析",
@@ -537,6 +678,32 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
+ },
+ {
+  "title": "必和必拓和 KGHM 联手全球寻找铜矿",
+  "url": "",
+  "summary": "随着长期铜需求的加速增长，这两家矿业巨头正在超越现有业务寻找新矿床。",
+  "pub_time": "2026-09-08T10:51:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "a7c55ef85e3c510ae7ab6c30b9b9abc3",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜"
+  ],
+  "en_title": "BHP, KGHM join forces in global hunt for copper"
  },
  {
   "title": "伊朗紧张局势导致印度股价走低，美联储加息担忧",
@@ -1886,32 +2053,6 @@
   "en_title": "Critical minerals security collides with decades-long mine timelines"
  },
  {
-  "title": "现代战争正在烧毁高科技未来所需的金属",
-  "url": "",
-  "summary": "十五年来，我一直在撰写有关现在通常被称为“战略性”金属的广泛金属类别的文章，因为它们对于太阳能光伏板、风力涡轮机、电动汽车、平板显示器、半导体、电池、光学、航空航天等高科技应用至关重要。",
-  "pub_time": "2026-09-07T18:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "cc4fe81e3c6448a8a73e9e8170a34ae2",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "金属"
-  ],
-  "en_title": "Modern Warfare Is Burning Through the Metals Needed for a High-Tech Future"
- },
- {
   "title": "Mysteel黑色金属例会：本周钢价或震荡运行，品种表现分化",
   "url": "https://news.mysteel.com/a/26090718/1DDCD129414F6A14.html",
   "summary": "",
@@ -1948,60 +2089,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "尽管受到美国关税威胁，俄罗斯誓言继续向印度出售石油",
-  "url": "",
-  "summary": "俄罗斯驻印度大使丹尼斯·阿利波夫在接受《亚洲新闻国际》采访时表示，俄罗斯仍将是印度的主要原油供应国，他还批评了美国计划对俄罗斯石油进口国征收关税的立法。俄罗斯成为印度最大的单一国家",
-  "pub_time": "2026-09-07T17:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "81cf03abb2a88a17f0da33fefd51148c",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Russia Vows to Keep Selling Oil to India Despite U.S. Tariff Threat"
- },
- {
-  "title": "铜价自 1994 年以来最长的上涨与供应链萎缩相冲突",
-  "url": "",
-  "summary": "铜价正创下自 1994 年以来最长的周线上涨趋势，而上涨行情之下的现货市场却持续走弱。截至上周五，伦敦金属交易所基准价格连续第十周上涨，交易价格接近每吨 14,300 美元，接近创纪录的 14,527 美元。",
-  "pub_time": "2026-09-07T17:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "c26f0b7597e0306b2eb509531b21f9d0",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "上涨",
-   "供应"
-  ],
-  "en_title": "Copper's Longest Rally Since 1994 Collides With a Shrinking Supply Chain"
  },
  {
   "title": "Mysteel晚餐：焦炭开启第五轮提涨，铁矿石到港量增加",
