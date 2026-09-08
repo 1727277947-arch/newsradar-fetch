@@ -916,6 +916,33 @@ TRADING_RULES = [
 TRADING_RULES_SUMMARY = '上述28条期货买卖规则，乃经十年投机买卖归纳出的戒条，具有实战效用。每次买卖出现亏损时，可检阅这28条规则，看看犯了哪一条，引以为戒。'
 
 # ============ 高频交易推荐：小资金 + 高波动 + 活跃 ============
+def _open_dual(it, pp):
+    """今开双轨元数据(不改选股/锁定)。O=真实今开(f46/f51今涨), P=现价。
+做多: P>1.004*O 破开盘走强 break_a(ref=O)；0.996O<=P<=1.004O 回踩承接 dip_b(ref=O)；P<0.996O 跌破开盘当日放弃 drop。
+做空镜像。缺 O/P -> None(pending)."""
+    O=it.get("real_open"); P=it.get("future")
+    if not O or not P:
+        return None
+    try:
+        O=float(O); P=float(P)
+    except Exception:
+        return None
+    if O<=0 or P<=0:
+        return None
+    direct=int(pp.get("direction") or 0)
+    if direct==0:
+        return None
+    if direct>0:
+        if P>=O*1.004: return {"st":"break_a","ref":round(O,2)}
+        if P>=O*0.996: return {"st":"dip_b","ref":round(O,2)}
+        return {"st":"drop","ref":None}
+    else:
+        if P<=O*0.996: return {"st":"break_a","ref":round(O,2)}
+        if P<=O*1.004: return {"st":"dip_b","ref":round(O,2)}
+        return {"st":"drop","ref":None}
+
+
+
 def build_hf_picks(items, preds=None):
     """今日打板推荐（每天只做一次）：优先 波动大 + 方向强 + 小资金可开，给出具体进场/止损/止盈位。
     口径：只用当天有明显方向(做多=追强/做空=追跌)的品种，波幅优先；弱鸡观望的不推；一只是今日主推。"""
@@ -1006,6 +1033,8 @@ def build_hf_picks(items, preds=None):
             "direct": direct, "dir_label": pp.get("label", "做多" if direct > 0 else "做空"),
             "day_range_pct": round(rng, 2), "limit_score": ls,
             "board": pp.get("board", "一般/观望"),
+            "dual": _open_dual(it, pp),
+            "real_open": it.get("real_open"),
             "day_bias": pp.get("day_bias") or "mix",
             "day_ma": pp.get("day_ma"),
             "est_margin": round(mg, 2), "hands_in_100k": int(100000.0 / mg) if mg > 0 else 0,
@@ -1068,14 +1097,14 @@ def _fetch_em_boards():
         for host in HOSTS:
             if got:
                 break
-            q = "%s/api/qt/stock/get?secid=%s.%s&fields=f43,f51,f52,f170&fltt=2" % (host, mkt, code)
+            q = "%s/api/qt/stock/get?secid=%s.%s&fields=f43,f51,f52,f46,f170&fltt=2" % (host, mkt, code)
             for _try in range(2):
                 try:
                     req = urllib.request.Request(q, headers=HDRS)
                     d = json.loads(urllib.request.urlopen(req, timeout=15).read().decode("utf-8", "replace")).get("data") or {}
-                    up = d.get("f51"); dn = d.get("f52"); last = d.get("f43")
+                    up = d.get("f51"); dn = d.get("f52"); last = d.get("f43"); opn = d.get("f46")
                     if up and dn and last:
-                        got = {"board_up": float(up), "board_down": float(dn), "latest": float(last)}
+                        got = {"board_up": float(up), "board_down": float(dn), "latest": float(last), "real_open": (float(opn) if opn else None)}
                     break
                 except Exception:
                     _t.sleep(1.0)
@@ -1091,6 +1120,7 @@ def _merge_em_boards(items, boards):
             if b:
                 it["board_up"] = b["board_up"]
                 it["board_down"] = b["board_down"]
+                it["real_open"] = b.get("real_open")
     return items
 if __name__ == "__main__":
     out_path = sys.argv[1] if len(sys.argv) > 1 else os.path.join(BASE, "output", "prices.json")
