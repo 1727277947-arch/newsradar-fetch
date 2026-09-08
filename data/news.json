@@ -1,5 +1,24 @@
 [
  {
+  "title": "伦铜创下历史新高！美国“抢铜”叠加智利供应受扰，铜市紧张格局升级",
+  "url": "https://news.mysteel.com/a/26090808/4751C7A9F8CB5227.html",
+  "summary": "",
+  "pub_time": "2026-09-08T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "4e92b611774183ade2b29c9fb7f60c56",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "Mysteel早读：沁源县累计复产7座煤矿",
   "url": "https://news.mysteel.com/a/26090807/0224C7600F0EE41E.html",
   "summary": "",
@@ -7,6 +26,25 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "41650e0bb545dc29d92214f87f8fae6f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "汽油价格较去年暴涨30%，美国司机迎来“史上最贵”劳工节假期",
+  "url": "https://news.mysteel.com/a/26090807/32BB54A270F715BC.html",
+  "summary": "",
+  "pub_time": "2026-09-08T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "08b73c2a7f1928c42a43ce590a76d07d",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -38,9 +76,47 @@
   "is_elite": false
  },
  {
-  "title": "BOM weekly rainfall update 8 September 2026 + outlook",
+  "title": "马来西亚棕榈油日评：棕榈油延续涨势，升至两周高点",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/08/0649129463.shtml",
+  "summary": "",
+  "pub_time": "2026-09-08T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "7842db7c5fb3b02447864d1f8b0ca536",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "油价维持在六周高位附近，因美伊继续互袭",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/08/1112725278.shtml",
+  "summary": "",
+  "pub_time": "2026-09-08T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "ed5acb9e334ebe5b62fc38e02fd83944",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "BOM 2026 年 9 月 8 日每周降雨量更新 + 展望",
   "url": "",
-  "summary": "Little rain is forecast to catch the Australian grainbelt in the coming week after further rain for Tas and far southern mainland growing areas.",
+  "summary": "塔斯马尼亚州和远南大陆种植区将出现进一步降雨，预计未来一周澳大利亚谷物种植带将出现少量降雨。",
   "pub_time": "2026-09-07T22:50:16Z",
   "source": "GrainCentral",
   "_cat": "农产品",
@@ -66,9 +142,9 @@
   "en_title": "BOM weekly rainfall update 8 September 2026 + outlook"
  },
  {
-  "title": "Washington’s Venezuela Oil Deal Is About Much More Than Crude",
+  "title": "华盛顿的委内瑞拉石油协议不仅仅是原油",
   "url": "",
-  "summary": "Washington’s takeover of more than a fifth of Venezuela’s oil reserves in a deal officially signed by U.S. Energy Secretary Chris Wright on 2 September was as unexpected as it was dramatic, with President Donald Trump’s comment a few days earlier that it is “the biggest oil deal in world history” lo",
+  "summary": "美国能源部长克里斯·赖特 (Chris Wright) 9 月 2 日正式签署的协议中，华盛顿接管了委内瑞拉超过五分之一的石油储备，这既出乎意料又引人注目，几天前唐纳德·特朗普总统评论称，这是“世界历史上最大的石油协议”",
   "pub_time": "2026-09-07T22:00:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -92,9 +168,9 @@
   "en_title": "Washington’s Venezuela Oil Deal Is About Much More Than Crude"
  },
  {
-  "title": "Rosneft Ships First Crude From $157 Billion Vostok Oil Project",
+  "title": "俄罗斯石油公司 (Rosneft) 首次从价值 1570 亿美元的东方石油项目中运送原油",
   "url": "",
-  "summary": "Rosneft has shipped the first crude oil cargo from the Vostok Oil project in Eastern Siberia, despite sanctions targeting Russia’s energy industry and the exit of Western business partners. At peak capacity, the project is expected to produce between 50 and 100 million tons of crude annually. The Vo",
+  "summary": "尽管针对俄罗斯能源行业的制裁以及西方商业伙伴的退出，俄罗斯石油公司还是从东西伯利亚的东方石油项目运出了第一批原油。在高峰产能下，该项目预计每年生产 50 至 1 亿吨原油。沃",
   "pub_time": "2026-09-07T21:00:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -118,9 +194,9 @@
   "en_title": "Rosneft Ships First Crude From $157 Billion Vostok Oil Project"
  },
  {
-  "title": "Critical minerals security collides with decades-long mine timelines",
+  "title": "关键矿产安全与长达数十年的矿山时间表相冲突",
   "url": "",
-  "summary": "Permitting is only part of the bottleneck, AiMinr CEO says.",
+  "summary": "AiMinr 首席执行官表示，许可只是瓶颈的一部分。",
   "pub_time": "2026-09-07T19:19:55Z",
   "source": "Mining.com",
   "_cat": "基本金属",
@@ -143,28 +219,9 @@
   "en_title": "Critical minerals security collides with decades-long mine timelines"
  },
  {
-  "title": "沙特阿美旗下炼油厂遭袭，油价走高",
-  "url": "https://news.mysteel.com/a/26090719/D600F0855BC9F48D.html",
-  "summary": "",
-  "pub_time": "2026-09-07T19:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "07391d56d784a844351d7d214372db5d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Modern Warfare Is Burning Through the Metals Needed for a High-Tech Future",
+  "title": "现代战争正在烧毁高科技未来所需的金属",
   "url": "",
-  "summary": "I've been writing for more than a decade and a half about a broad category of metals often nowadays dubbed \"strategic\" because they are crucial to high-tech applications such as solar photovoltaic panels, wind turbines, electric vehicles, flat screens, semiconductors, batteries, optics, aerospace an",
+  "summary": "十五年来，我一直在撰写有关现在通常被称为“战略性”金属的广泛金属类别的文章，因为它们对于太阳能光伏板、风力涡轮机、电动汽车、平板显示器、半导体、电池、光学、航空航天等高科技应用至关重要。",
   "pub_time": "2026-09-07T18:00:00Z",
   "source": "Oilprice.com",
   "_cat": "基本金属",
@@ -189,7 +246,7 @@
  },
  {
   "title": "Mysteel黑色金属例会：本周钢价或震荡运行，品种表现分化",
-  "url": "https://news.mysteel.com/a/26090718/62128C700B34EF27.html",
+  "url": "https://news.mysteel.com/a/26090718/1DDCD129414F6A14.html",
   "summary": "",
   "pub_time": "2026-09-07T18:00:00Z",
   "source": "上海钢联Mysteel",
@@ -208,7 +265,7 @@
  },
  {
   "title": "每日钢市：期钢下跌，焦炭提涨100/110元，钢价或涨跌有限",
-  "url": "https://news.mysteel.com/a/26090718/3AE48C64753F6024.html",
+  "url": "https://news.mysteel.com/a/26090718/56DED66BBE5A3C36.html",
   "summary": "",
   "pub_time": "2026-09-07T18:00:00Z",
   "source": "上海钢联Mysteel",
@@ -226,9 +283,9 @@
   "is_elite": false
  },
  {
-  "title": "Russia Vows to Keep Selling Oil to India Despite U.S. Tariff Threat",
+  "title": "尽管受到美国关税威胁，俄罗斯誓言继续向印度出售石油",
   "url": "",
-  "summary": "Russia will remain a key crude oil supplier to India, Russia’s Ambassador to India, Denis Alipov, said in an interview with Asian News International, in which he also criticized the planned U.S. legislation to slap tariffs on countries importing Russian oil. Russia has become India’s single-biggest",
+  "summary": "俄罗斯驻印度大使丹尼斯·阿利波夫在接受《亚洲新闻国际》采访时表示，俄罗斯仍将是印度的主要原油供应国，他还批评了美国计划对俄罗斯石油进口国征收关税的立法。俄罗斯成为印度最大的单一国家",
   "pub_time": "2026-09-07T17:30:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -252,9 +309,9 @@
   "en_title": "Russia Vows to Keep Selling Oil to India Despite U.S. Tariff Threat"
  },
  {
-  "title": "Copper's Longest Rally Since 1994 Collides With a Shrinking Supply Chain",
+  "title": "铜价自 1994 年以来最长的上涨与供应链萎缩相冲突",
   "url": "",
-  "summary": "Copper is riding its longest weekly winning streak since 1994, and the physical market underneath the rally keeps getting thinner. Benchmark prices on the London Metal Exchange notched a 10th straight weekly gain through last Friday, trading near $14,300 a ton and within reach of the record $14,527.",
+  "summary": "铜价正创下自 1994 年以来最长的周线上涨趋势，而上涨行情之下的现货市场却持续走弱。截至上周五，伦敦金属交易所基准价格连续第十周上涨，交易价格接近每吨 14,300 美元，接近创纪录的 14,527 美元。",
   "pub_time": "2026-09-07T17:00:00Z",
   "source": "Oilprice.com",
   "_cat": "基本金属",
@@ -318,9 +375,9 @@
   "is_elite": false
  },
  {
-  "title": "ACG Metals to acquire Keşkek gold project",
+  "title": "ACG Metals 将收购 Keşkek 金矿项目",
   "url": "",
-  "summary": "The copper-focused company aims to use production from Keşkek to extend Gediktepe’s operating life.",
+  "summary": "这家以铜为主的公司旨在利用 Keşkek 的生产来延长 Gediktepe 的运营寿命。",
   "pub_time": "2026-09-07T16:43:44Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -345,9 +402,9 @@
   "en_title": "ACG Metals to acquire Keşkek gold project"
  },
  {
-  "title": "China Halts New Battery Storage Plant Approvals",
+  "title": "中国暂停新电池存储厂的审批",
   "url": "",
-  "summary": "China has paused approvals for new battery storage factories amid a review of existing and planned capacity, Chinese financial news outlet Cailianshe reported this weekend, citing industry sources. The temporary suspension of approvals of plants that have not started construction yet comes amid grow",
+  "summary": "中国财经新闻媒体财联社本周末援引行业消息人士的话报道称，在对现有和规划产能进行审查的过程中，中国已暂停批准新的电池存储工厂。暂时停止审批尚未开工的工厂正值增长之际",
   "pub_time": "2026-09-07T16:30:00Z",
   "source": "Oilprice.com",
   "_cat": "基本金属",
@@ -370,9 +427,9 @@
   "en_title": "China Halts New Battery Storage Plant Approvals"
  },
  {
-  "title": "Uzbekistan Scales Back Nuclear Cooperation With Russia",
+  "title": "乌兹别克斯坦缩减与俄罗斯的核合作",
   "url": "",
-  "summary": "Back on June 4, Uzbek President Shavkat Mirziyoyev and Russian leader Vladimir Putin were all smiles amid the ceremonial groundbreaking for the construction of Uzbekistan’s first cluster of nuclear reactors, to be built by Russia’s nuclear entity Rosatom. “I am confident that you have chosen the bes",
+  "summary": "6月4日，乌兹别克斯坦总统沙夫卡特·米尔济约耶夫和俄罗斯领导人弗拉基米尔·普京在乌兹别克斯坦首个核反应堆群的奠基仪式上满面笑容，该反应堆将由俄罗斯核实体Rosatom建造。 “我相信你选择了最好的",
   "pub_time": "2026-09-07T16:00:00Z",
   "source": "Oilprice.com",
   "_cat": "基本金属",
@@ -490,9 +547,9 @@
   "is_elite": false
  },
  {
-  "title": "India Ramps Up Rail Coal Deliveries as Power Plant Stockpiles Dwindle",
+  "title": "随着发电厂库存减少，印度增加铁路煤炭交付量",
   "url": "",
-  "summary": "Indian coal companies are ramping up supply to the coal-fired power plants as coal stocks at dozens of the plants dropped to critically low levels, India’s Ministry of Coal said on Monday. More than 50 coal-fired power plants in India, where coal is still the single largest electricity generator, sa",
+  "summary": "印度煤炭部周一表示，由于数十家燃煤电厂的煤炭库存降至极低水平，印度煤炭公司正在增加对燃煤电厂的供应。印度有 50 多家燃煤发电厂，煤炭仍然是最大的单一发电来源",
   "pub_time": "2026-09-07T15:30:00Z",
   "source": "Oilprice.com",
   "_cat": "综合",
@@ -517,9 +574,9 @@
   "en_title": "India Ramps Up Rail Coal Deliveries as Power Plant Stockpiles Dwindle"
  },
  {
-  "title": "Can Iraq Really Replace Saudi Arabia As The Middle East’s Top Oil Producer?",
+  "title": "伊拉克真能取代沙特成为中东最大产油国吗？",
   "url": "",
-  "summary": "The global power of most Middle Eastern countries remains dependent on their oil and/or gas output, so it is little wonder they try to maximise this, either by pushing production higher or by pretending it is higher, or by forecasting that it will be higher at some point soon. Iraq had historically",
+  "summary": "大多数中东国家的全球实力仍然依赖于其石油和/或天然气产量，因此毫不奇怪，他们试图通过推高产量或假装产量更高，或者预测产量很快就会更高来最大化这一产量。伊拉克历史上曾",
   "pub_time": "2026-09-07T15:00:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -600,9 +657,9 @@
   "is_elite": false
  },
  {
-  "title": "American and African Crudes Soar as China's Oil Imports Rebound",
+  "title": "随着中国石油进口反弹，美国和非洲原油价格飙升",
   "url": "",
-  "summary": "The prices of crudes from Canada, South America, and Africa have jumped in recent weeks as Chinese oil import demand is rising from a decade-low, benchmark prices rally, and Middle East supply remains disrupted. The Djeno crude from Congo, one of the smaller producers in OPEC, is being offered at a",
+  "summary": "由于中国石油进口需求从十年来的低点回升，基准价格上涨，而中东供应仍然受到干扰，加拿大、南美和非洲的原油价格近几周大幅上涨。来自刚果（OPEC 规模较小的生产国之一）的杰诺原油的报价为",
   "pub_time": "2026-09-07T14:30:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
@@ -646,9 +703,9 @@
   "is_elite": false
  },
  {
-  "title": "Trump Envoys Shuttle Between Moscow and Kyiv as U.S. Revives Ukraine Peace Push",
+  "title": "随着美国重振乌克兰和平进程，特朗普特使在莫斯科和基辅之间穿梭",
   "url": "",
-  "summary": "The Trump administration has revived its diplomatic drive to end Russia’s war in Ukraine, as US envoys Steve Witkoff and Jared Kushner traveled from Moscow to Kyiv in a high-profile effort to lay the groundwork for another round of negotiations. But after separate meetings with Russian President Vla",
+  "summary": "特朗普政府重新启动了结束俄罗斯在乌克兰战争的外交努力，美国特使史蒂夫·威特科夫和贾里德·库什纳从莫斯科前往基辅，高调努力为另一轮谈判奠定基础。但在与俄罗斯总统弗拉分别会晤后",
   "pub_time": "2026-09-07T14:00:00Z",
   "source": "Oilprice.com",
   "_cat": "基本金属",
@@ -766,37 +823,9 @@
   "is_elite": false
  },
  {
-  "title": "High Crude and LNG Prices Weigh on India’s Oil and Gas Sector",
+  "title": "SW US 聚焦：四名青少年钻金、钨",
   "url": "",
-  "summary": "The renewed rally in crude oil and LNG prices and the higher freight costs are pressuring the marketing margins of India’s oil and gas sector, which has to contend with the fallout of the Iran war on global oil and LNG trade flows. Increased refining margins offset some of the downward pressure, but",
-  "pub_time": "2026-09-07T13:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "9baedcf2b70fa8f92ad9135f38a07c5e",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "天然气",
-   "价"
-  ],
-  "en_title": "High Crude and LNG Prices Weigh on India’s Oil and Gas Sector"
- },
- {
-  "title": "SW US Spotlight: Four juniors drill gold, tungsten",
-  "url": "",
-  "summary": "Four juniors are advancing gold, silver and tungsten projects across Nevada and Arizona, ranging from early-stage drilling to a prefeasibility-stage development backed by the U.S. government. A2 Gold (TSXV: AUAU;... The post SW US Spotlight: Four juniors drill gold, tungsten appeared first on The No",
+  "summary": "四家初级企业正在内华达州和亚利桑那州推进金、银和钨项目，从早期钻探到由美国政府支持的预可行性阶段开发。 A2 Gold (TSXV: AUAU;...《SW US 聚光灯》后：四名青少年钻金，钨首先出现在 The No",
   "pub_time": "2026-09-07T13:00:08Z",
   "source": "NorthernMiner",
   "_cat": "贵金属",
@@ -839,9 +868,9 @@
   "is_elite": false
  },
  {
-  "title": "From the Archives: Carlin made mining majors",
+  "title": "来自档案馆：卡林主修采矿专业",
   "url": "",
-  "summary": "Among the Southwest United States’ many claims to mining fame is the discovery of Carlin-type gold deposits, characterized by microscopic gold in arsenic-rich pyrite and named after the town of... The post From the Archives: Carlin made mining majors appeared first on The Northern Miner .",
+  "summary": "美国西南部因采矿而闻名的众多说法之一是发现了卡林型金矿，其特征是富含砷的黄铁矿中含有微量金，并以该镇命名。档案中的帖子：卡林让采矿专业首先出现在《北方矿工》上。",
   "pub_time": "2026-09-07T11:22:29Z",
   "source": "NorthernMiner",
   "_cat": "贵金属",
@@ -864,9 +893,9 @@
   "en_title": "From the Archives: Carlin made mining majors"
  },
  {
-  "title": "Brazil targets bigger role in critical minerals rush",
+  "title": "巴西的目标是在关键矿产热潮中发挥更大作用",
   "url": "",
-  "summary": "Brazil is courting global mining capital while seeking greater control over strategic assets and more processing at home.",
+  "summary": "巴西正在吸引全球矿业资本，同时寻求对战略资产的更大控制权和更多的国内加工。",
   "pub_time": "2026-09-07T11:00:00Z",
   "source": "Mining.com",
   "_cat": "基本金属",
@@ -984,9 +1013,9 @@
   "is_elite": false
  },
  {
-  "title": "Gold Dips On Inflation Concerns, Rate-hike Bets",
+  "title": "金价因通胀担忧和加息押注而下跌",
   "url": "",
-  "summary": "(RTTNews) - Gold prices were moving lower on Monday, with rising U.S. bond yields and escalating Middle East tensions weighing on the precious metal's safe-haven appeal.",
+  "summary": "(RTTNews) - 周一金价走低，美国债券收益率上升和中东紧张局势升级打压了贵金属的避险吸引力。",
   "pub_time": "2026-09-07T10:04:23Z",
   "source": "Nasdaq商品",
   "_cat": "贵金属",
@@ -1124,9 +1153,9 @@
   "is_elite": false
  },
  {
-  "title": "Oil Prices Rise As US, Iran Exchange Fresh Strikes",
+  "title": "美国和伊朗再次发动袭击，油价上涨",
   "url": "",
-  "summary": "(RTTNews) - Oil prices rose on Monday as U.S. attacks on Iranian tankers and Tehran's threat of a new restricted zone outside the Strait of Hormuz raised concerns about prolonged disruption to Middle East energy supplies.",
+  "summary": "(RTTNews) - 由于美国袭击伊朗油轮以及德黑兰威胁在霍尔木兹海峡外设立新禁区，引发了人们对中东能源供应长期中断的担忧，油价周一上涨。",
   "pub_time": "2026-09-07T09:40:02Z",
   "source": "Nasdaq商品",
   "_cat": "能源",
@@ -1476,9 +1505,9 @@
   "is_elite": false
  },
  {
-  "title": "Ag lobby amplifies call for visa approvals as harvest nears",
+  "title": "随着收获临近，农业游说团体加大了申请签证的力度",
   "url": "",
-  "summary": "Ag is lobbying hard to get visas for seasonal workers, including those hoping to help with the upcoming grain harvest, moved up the Fed Govt's list of priorities.",
+  "summary": "农业正在努力游说，为季节性工人获得签证，其中包括那些希望帮助即将到来的粮食丰收的工人，这在美联储政府的优先事项清单中名列前茅。",
   "pub_time": "2026-09-07T06:22:51Z",
   "source": "GrainCentral",
   "_cat": "农产品",
@@ -1501,9 +1530,9 @@
   "en_title": "Ag lobby amplifies call for visa approvals as harvest nears"
  },
  {
-  "title": "Soil moisture sets up key Vic regions for spring",
+  "title": "土壤湿度是维多利亚州春季的关键地区",
   "url": "",
-  "summary": "Agriculture Victoria's latest soil-moisture report indicates crops in key regions are well set up for spring following average to well-above rainfall over August.",
+  "summary": "维多利亚州农业部最新的土壤湿度报告显示，随着八月份降雨量远高于平均水平，主要地区的农作物在春季生长发育良好。",
   "pub_time": "2026-09-07T05:14:35Z",
   "source": "GrainCentral",
   "_cat": "能源",
@@ -1527,9 +1556,9 @@
   "en_title": "Soil moisture sets up key Vic regions for spring"
  },
  {
-  "title": "Murray Mallee listings blend sheep, cropping options",
+  "title": "Murray Mallee 上市混合羊，种植选择",
   "url": "",
-  "summary": "Mixed farming country in SA's Murray Mallee is on the market as a family looks to consolidate by selling Heathwell and Yulong, and a couple eyes retirement and lists Taringa Park.",
+  "summary": "南澳州默里马利 (Murray Mallee) 的混合农业乡村正在上市，一个家庭希望通过出售希斯韦尔 (Heathwell) 和玉龙 (Yulong) 来实现巩固，一对夫妇着眼于退休生活，并列出了塔林加公园 (Taringa Park)。",
   "pub_time": "2026-09-07T00:54:31Z",
   "source": "GrainCentral",
   "_cat": "基本金属",
@@ -1553,9 +1582,9 @@
   "en_title": "Murray Mallee listings blend sheep, cropping options"
  },
  {
-  "title": "Boolah gears up for its first Vic field day",
+  "title": "Boolah 为维多利亚州首个实地考察日做好准备",
   "url": "",
-  "summary": "Boolah is holding its first field day in Vic on Thursday, where visitors can see large-scale commercial barley plantings, and find out why margins matter across the supply chain.",
+  "summary": "Boolah 将于周四在维多利亚州举办首个实地考察日，游客可以参观大规模的商业大麦种植，并了解为什么利润在整个供应链中至关重要。",
   "pub_time": "2026-09-07T00:42:29Z",
   "source": "GrainCentral",
   "_cat": "基本金属",
@@ -1578,9 +1607,9 @@
   "en_title": "Boolah gears up for its first Vic field day"
  },
  {
-  "title": "Daily Market Wire 7 September 2026",
+  "title": "每日市场快讯 2026 年 9 月 7 日",
   "url": "",
-  "summary": "Friday risk-off wheat market precedes US Monday holiday. Weekend US-mediated peace talk delivers little. Southern Australia welcomes dry haymaker forecast.",
+  "summary": "周五小麦市场避险，先于美国周一假期。周末美国斡旋的和平谈判收效甚微。澳大利亚南部欢迎干草机预报。",
   "pub_time": "2026-09-07T00:23:34Z",
   "source": "GrainCentral",
   "_cat": "农产品",
@@ -2207,424 +2236,6 @@
    "中文",
    "国内",
    "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月6日江苏省徐州睢宁杂花大豆价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/5954665169.shtml",
-  "summary": "",
-  "pub_time": "2026-09-06T00:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "0116b354cef12fa1652ba39b62b7af92",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月6日湖北仙桃新季大豆价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/5937193236.shtml",
-  "summary": "",
-  "pub_time": "2026-09-06T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "163fba2faec3dcb55055a0310ecf1c75",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月6日内蒙古鄂伦春旗诺敏镇大豆价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/5924692822.shtml",
-  "summary": "",
-  "pub_time": "2026-09-06T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "88bb426ecbf9070337f223f39fe73eaf",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月6日内蒙古呼伦贝尔莫旗大豆价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/5910755309.shtml",
-  "summary": "",
-  "pub_time": "2026-09-06T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "ae414d7694480af0cf7d37ffb0e8786a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月6日吉林省敦化镇大豆价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/5848872644.shtml",
-  "summary": "",
-  "pub_time": "2026-09-06T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "f25259b4059657ab1439cfb1ea1cd192",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月6日天津豆油价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/0359714868.shtml",
-  "summary": "",
-  "pub_time": "2026-09-06T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "8b09b73b371b567a219c6b9bf5e3db7d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月6日河南新乡玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/5228275977.shtml",
-  "summary": "",
-  "pub_time": "2026-09-06T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "301d3e78215662b3270b2801500c3cb9",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月6日河北石家庄玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/5150802578.shtml",
-  "summary": "",
-  "pub_time": "2026-09-06T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "b3be401036a9982fe9af140e460515bf",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月6日山东枣庄玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/5132797758.shtml",
-  "summary": "",
-  "pub_time": "2026-09-06T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "20aec0965c68f81bcb89a84bdb229593",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月6日内蒙古通辽玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/5114734386.shtml",
-  "summary": "",
-  "pub_time": "2026-09-06T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "e61bba0d1f5ccaa525f3e4321765b2a0",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月6日吉林长春玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/5056744036.shtml",
-  "summary": "",
-  "pub_time": "2026-09-06T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "4498632871e60d4a3ba4b30d4fb89656",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月6日黑龙江哈尔滨玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/5037283275.shtml",
-  "summary": "",
-  "pub_time": "2026-09-06T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "43a0cb8130c8f87cc7757d8099a51150",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月6日黑龙江伊春玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/5016278583.shtml",
-  "summary": "",
-  "pub_time": "2026-09-06T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "4e00b3af7a7c159120241b81fb070f24",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月6日山东豆粕价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/0048688970.shtml",
-  "summary": "",
-  "pub_time": "2026-09-06T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "43f8fa03aa734a0a1903b67d00cb4908",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月6日天津豆粕价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/0014701917.shtml",
-  "summary": "",
-  "pub_time": "2026-09-06T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "fe163fb1baa10d1f1ffabc7848fa90fb",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月6日河南安阳新季小麦价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/5430401458.shtml",
-  "summary": "",
-  "pub_time": "2026-09-06T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "045379c68504632aa98719370abfe725",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月6日河南新乡新季小麦价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/5348913900.shtml",
-  "summary": "",
-  "pub_time": "2026-09-06T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "f454ccefa65f3bb646f52da079fd8400",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月6日河北石家庄新季小麦价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/5327623227.shtml",
-  "summary": "",
-  "pub_time": "2026-09-06T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "5e728ec163e131668e74263a2c880d9b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月6日山东聊城新季小麦价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/5309673340.shtml",
-  "summary": "",
-  "pub_time": "2026-09-06T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "65117eb6c13807abcd19ad4a7ca387a1",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月6日山东枣庄新季小麦价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/5248627182.shtml",
-  "summary": "",
-  "pub_time": "2026-09-06T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "51e99ebe1f99fbab0a7bcef35b234bd0",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月6日黑龙江齐齐哈尔中科发五大米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/2018996228.shtml",
-  "summary": "",
-  "pub_time": "2026-09-06T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "3b0502473bc9fae7aee014d85164d93b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月6日黑龙江齐齐哈尔长粒大米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/06/1243772778.shtml",
-  "summary": "",
-  "pub_time": "2026-09-06T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "ad038ebf9671fabd1a9ac39e6e06a70a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
   ],
   "is_elite": false
  }
