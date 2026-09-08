@@ -1006,6 +1006,8 @@ def build_hf_picks(items, preds=None):
             "direct": direct, "dir_label": pp.get("label", "做多" if direct > 0 else "做空"),
             "day_range_pct": round(rng, 2), "limit_score": ls,
             "board": pp.get("board", "一般/观望"),
+            "day_bias": pp.get("day_bias") or "mix",
+            "day_ma": pp.get("day_ma"),
             "est_margin": round(mg, 2), "hands_in_100k": int(100000.0 / mg) if mg > 0 else 0,
             "volume": int(vol), "open_interest": int(oi), "mode": lev,
             "anchor": round(anchor, 3), "tp": round(tp, 3), "sl": round(sl, 3), "exit_price": round(ex, 3),
@@ -1177,5 +1179,4 @@ if __name__ == "__main__":
     domestic = sum(1 for x in items if x["market"] == "国内")
     print("完成: 共 %d 个品种(国内 %d / 国际 %d, 现货期货双价 %d) -> %s" % (
         len(items), domestic, len(items) - domestic, both, out_path))
-
 
