@@ -1,5 +1,24 @@
 [
  {
+  "title": "大商所调整原木等期货品种手续费标准",
+  "url": "https://news.mysteel.com/a/26090816/CD5C43573454F8CC.html",
+  "summary": "",
+  "pub_time": "2026-09-08T16:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "a56bbdee501399022fb02617b1134400",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "黑色持仓日报：中信期货增持2.2万手螺纹钢多单",
   "url": "https://news.mysteel.com/a/26090815/739B666C5E9DCA69.html",
   "summary": "",
@@ -898,6 +917,44 @@
   "is_elite": false
  },
  {
+  "title": "9月8日进口大豆到国内港口CF及升贴水报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/08/2136944678.shtml",
+  "summary": "",
+  "pub_time": "2026-09-08T00:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "a98ba3e9be56fe23983ef0f9c4047b73",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "9月8日进口大豆港口分销价持平",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/08/2042571777.shtml",
+  "summary": "",
+  "pub_time": "2026-09-08T00:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "1c3c23eccbb1f64ff684b6032bd63b5e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年9月8日大连大豆期货收盘高开收涨",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/08/0024447312.shtml",
   "summary": "",
@@ -970,6 +1027,101 @@
    "中文",
    "国内",
    "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "9月8日进口油菜籽到国内港口CF报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/08/2539158094.shtml",
+  "summary": "",
+  "pub_time": "2026-09-08T00:00:00Z",
+  "source": "粮油菜籽",
+  "_cn": true,
+  "dedup_key": "4abb67ae624e671ee6e4ebf8fa1bc053",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "9月8日进口阿根廷豆油及加拿大菜籽油CF报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/08/2501191067.shtml",
+  "summary": "",
+  "pub_time": "2026-09-08T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "8dd868022b8689b672e0b29848a792d1",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "9月8日马来西亚棕榈油9月船期FOB报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/08/2404489179.shtml",
+  "summary": "",
+  "pub_time": "2026-09-08T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "60906d361c0beab983714937cb6403f6",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "9月8日24度棕榈油国内各港口交货价格上涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/08/2301336978.shtml",
+  "summary": "",
+  "pub_time": "2026-09-08T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "5c3fb871c3404c85b8de1b215153970b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "9月8日进口豆油港口交货价格下跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/08/2213883543.shtml",
+  "summary": "",
+  "pub_time": "2026-09-08T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "a60c374f1d5d3fe595bffe740065804b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "粮油首页"
   ],
   "is_elite": false
  },
@@ -2471,25 +2623,6 @@
   "is_elite": false
  },
  {
-  "title": "9月7日进口大豆到国内港口CF及升贴水报价",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/07/4200543397.shtml",
-  "summary": "",
-  "pub_time": "2026-09-07T00:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "e83e1e652fe1a1668258a3f17673399a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
   "title": "9月7日进口油菜籽到国内港口CF报价",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/07/5517899069.shtml",
   "summary": "",
@@ -2505,6 +2638,25 @@
    "中文",
    "国内",
    "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "9月7日进口大豆到国内港口CF及升贴水报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/07/4200543397.shtml",
+  "summary": "",
+  "pub_time": "2026-09-07T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "902aff389c1231c7f8ae137a319cc27a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
   ],
   "is_elite": false
  },
@@ -2578,63 +2730,6 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "9月7日进口阿根廷豆油及加拿大菜籽油CF报价",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/07/5432740841.shtml",
-  "summary": "",
-  "pub_time": "2026-09-07T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "c03bc55066c16aeeda92e6373d6a171e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "9月7日进口豆油港口交货价格下跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/07/5239545036.shtml",
-  "summary": "",
-  "pub_time": "2026-09-07T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "f1459c0a6fe2cc38d26adf98610630c7",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "9月7日24度棕榈油国内各港口交货价格上涨",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/07/5149835282.shtml",
-  "summary": "",
-  "pub_time": "2026-09-07T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "623b2b83898d41223ff40e4e11a8a2fa",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
    "中文",
    "国内",
    "粮油首页"
