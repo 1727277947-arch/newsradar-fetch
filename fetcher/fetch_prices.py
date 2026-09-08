@@ -957,6 +957,15 @@ def build_hf_picks(items, preds=None):
         if anchor <= 0:
             anchor = float(fut or 0.0)
         TP = 0.03; EXIT = 0.0015; HS = 0.001
+        # (A) futures-only: if already chased far, give reentry instead of chasing top; spot=trend only
+        pc_a = float(pp.get('prev_close') or 0.0)
+        op_a = float(pp.get('today_open') or 0.0)
+        RALLY_END_MA = 1.6
+        if pc_a > 0 and op_a > 0:
+            if direct == 1 and (anchor - pc_a) / pc_a * 100.0 >= RALLY_END_MA and op_a < anchor:
+                anchor = op_a
+            elif direct == -1 and (pc_a - anchor) / anchor * 100.0 >= RALLY_END_MA and op_a > anchor:
+                anchor = op_a
         if direct == 1:
             tp = anchor * (1 + TP); sl = anchor * (1 - HS); ex = anchor * (1 - EXIT); lev = "追强做多"
         else:
