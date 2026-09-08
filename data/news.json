@@ -190,6 +190,87 @@
   "is_elite": false
  },
  {
+  "title": "分析师最爱：惠顿贵金属被评为首选金属",
+  "url": "",
+  "summary": "根据 Metals Channel 的数据，对主要经纪公司的分析师推荐进行的研究显示，在组成 Metals Channel 全球矿业巨头指数的 50 只股票中，Wheaton Precious Metals Corp（股票代码：WPM）在经纪商分析师中平均排名第 6。陈金属",
+  "pub_time": "2026-09-08T15:50:53Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "94eb13ee64a9b7595a03d5ed9b708533",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "金属",
+   "小麦"
+  ],
+  "en_title": "Analyst Favorites: Wheaton Precious Metals Ranks As a Top Metals Pick"
+ },
+ {
+  "title": "乌干达将于 2027 年初成为世界最新石油出口国",
+  "url": "",
+  "summary": "明年初，全球原油出口国名单将扩大，乌干达的原油将通过一条新管道流向坦桑尼亚海岸，该项目距离第一批石油越来越近。内陆国家乌干达，法国超级能源公司TotalEnergies和中国中海油都曾驻扎于此",
+  "pub_time": "2026-09-08T15:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "393301d34e7632d182716e870494239d",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Uganda Set to Become World's Newest Oil Exporter in Early 2027"
+ },
+ {
+  "title": "油价再次逼近 100 美元",
+  "url": "",
+  "summary": "随着胡塞武装袭击、美国袭击伊朗油轮以及中东紧张局势再次扰乱市场，油价飙升至 100 美元。由于存储担忧卷土重来，欧洲天然气价格飙升 - 欧洲天然气价格已跃升至每兆瓦时 75 欧元（每百万英热单位 25.5 美元），为 2022 年以来的最高水平，是过去一年的两倍多",
+  "pub_time": "2026-09-08T15:13:18Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "c41d112198925b287f47325b444a0f08",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "走强"
+  ],
+  "en_title": "Oil Prices Are Once Again on the Brink of $100"
+ },
+ {
   "title": "有色持仓日报：沪铜涨1.29%，国泰君安增持超1.4千手多单",
   "url": "https://news.mysteel.com/a/26090815/E0B32D164A1146BB.html",
   "summary": "",
@@ -283,6 +364,58 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
+ },
+ {
+  "title": "冬季存储竞赛升温，荷兰 TTF 天然气价格上涨 2%",
+  "url": "",
+  "summary": "周二上午，欧洲基准天然气价格在阿姆斯特丹上涨，因为中东危机仍然是欧洲争分夺秒为冬季储备的主要供应冲击。荷兰产权转让机构 (TTF) 的前月价格，欧洲天然气交易的基准",
+  "pub_time": "2026-09-08T14:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "b7bc95a4375f14ddc4461597ae34b1e2",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气",
+   "跳涨"
+  ],
+  "en_title": "Dutch TTF Gas Jumps 2% as Winter Storage Race Heats Up"
+ },
+ {
+  "title": "专栏：洛比托盲点和赞比亚的锰业未来",
+  "url": "",
+  "summary": "赞比亚对铜的关注可能会导致重要的关键矿产机会搁浅。",
+  "pub_time": "2026-09-08T14:29:53Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "d4330f866a90c0fb213f073a501f224a",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Op-Ed: The Lobito blind spot and Zambia’s manganese future"
  },
  {
   "title": "随着中国石油购买量反弹，布伦特原油价格逼近 100 美元",
@@ -451,25 +584,6 @@
   "en_title": "SW US Spotlight 2: Rio, Teck, Newmont back juniors"
  },
  {
-  "title": "中国·泰来胚芽米产业联盟成立 产学研联手打通“种源到餐桌”",
-  "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692886.shtml",
-  "summary": "记者 周亚强)一粒胚芽米，正在黑土地上撬动一个产业。记者从总部位于天津的荣程集团获悉，中国·泰来胚芽米(留胚米)产业联盟近日正式揭牌，“中国·泰来全谷物健康稻米产业创新园”同步落地",
-  "pub_time": "2026-09-08T13:04:59Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "57278780ba4be41bc40c79cb6d373f12",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
   "title": "随着红海风险的增加，油轮涌入苏伊士运河",
   "url": "",
   "summary": "由于红海南部和曼德海峡的航运受到威胁，通过埃及通往地中海的门户的油轮数量激增，苏伊士运河7月份的收入比去年同月增长了42%。据 7 月份营收增至 5.05 亿美元",
@@ -551,6 +665,32 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
+ },
+ {
+  "title": "MMG 因英美镍交易面临欧盟反垄断警告",
+  "url": "",
+  "summary": "由于对关键矿产供应的担忧，布鲁塞尔正在准备正式反对巴西镍矿收购。",
+  "pub_time": "2026-09-08T12:03:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "7ed8ae8184bb9bdc0f120f2e0fcc91b1",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "镍"
+  ],
+  "en_title": "MMG faces EU antitrust warning over Anglo nickel deal"
  },
  {
   "title": "霍尔木兹紧张局势持续存在，海湾生产商找到解决办法",
@@ -2000,32 +2140,6 @@
    "原油"
   ],
   "en_title": "Washington’s Venezuela Oil Deal Is About Much More Than Crude"
- },
- {
-  "title": "俄罗斯石油公司 (Rosneft) 首次从价值 1570 亿美元的东方石油项目中运送原油",
-  "url": "",
-  "summary": "尽管针对俄罗斯能源行业的制裁以及西方商业伙伴的退出，俄罗斯石油公司还是从东西伯利亚的东方石油项目运出了第一批原油。在高峰产能下，该项目预计每年生产 50 至 1 亿吨原油。沃",
-  "pub_time": "2026-09-07T21:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "97cbc66b574c98f5c512b3f7d85c0807",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Rosneft Ships First Crude From $157 Billion Vostok Oil Project"
  },
  {
   "title": "关键矿产安全与长达数十年的矿山时间表相冲突",
