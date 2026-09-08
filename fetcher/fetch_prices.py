@@ -1156,6 +1156,15 @@ if __name__ == "__main__":
             alt = [x for x in hf_picks if x.get("symbol") != _msym]
             afternoon_pick = alt[0] if alt else afternoon_pick
 
+    # 内参卡整流：晨/午只要本地缺 day_bias/day_ma 就从同标的 hf 行补（唯添元数据，不改变选股锁定逻辑）
+    if hf_picks:
+        bmap = { (x.get('symbol') or x.get('name')): x for x in hf_picks }
+        for _p in (morning_pick, afternoon_pick):
+            _sym = _p.get('symbol') or _p.get('name')
+            _fa = bmap.get(_sym) or {}
+            if _fa and not _p.get('day_bias'):
+                _p['day_bias'] = _fa.get('day_bias') or 'mix'
+                _p['day_ma'] = _fa.get('day_ma')
     today_s = now_date
     obj = {
         "updated_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
@@ -1179,4 +1188,3 @@ if __name__ == "__main__":
     domestic = sum(1 for x in items if x["market"] == "国内")
     print("完成: 共 %d 个品种(国内 %d / 国际 %d, 现货期货双价 %d) -> %s" % (
         len(items), domestic, len(items) - domestic, both, out_path))
-
