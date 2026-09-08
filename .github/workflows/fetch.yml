@@ -5,6 +5,7 @@ permissions:
 on:
   schedule:
     - cron: '0 0,2,4,6,10,12,14,18,22 * * *'   # 北京 08/10/12/14(2h) 18/22/02/06(4h)
+    - cron: '0 16 * * *'                       # 北京 00:00:基于已收盘昨日的现货/日线定版当日晨判，取不到当日便不写旧现货
     - cron: '0 20 * * *'                        # Beijing 04:00  (30min backstop after 03:30 early pick)
     - cron: '30 19 * * *'                       # 北京 03:30 每日打板主推(早盘)
     - cron: '40 3 * * *'                        # Beijing 11:40 midday-board recompute & push

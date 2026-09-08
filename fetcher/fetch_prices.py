@@ -176,6 +176,14 @@ def enc(text):
         return text.decode("gbk", "replace")
 
 
+def _days_from(s):
+    try:
+        import datetime
+        return datetime.date.fromisoformat(str(s).strip())
+    except Exception:
+        return None
+
+
 def pct(prev, cur):
     try:
         if prev and prev > 0:
@@ -313,11 +321,14 @@ def fetch_domestic_futures():
 
 
 # ---------------- 国内现货 (生意社 100ppi) ----------------
+# ---- 现货归属交易日记录：生意社滞后；宁缺不誊旧(写入 prices.json 透明标注) ----
+SPOT_PAGE = {}
+
 def fetch_spot_shensheng():
     ctx = ssl.create_default_context()
     out = {}
     # 从今天往前找最近有数据的交易日（生意社页面滞后一天）
-    for back in range(0, 8):
+    for back in range(0, 4):  # 只信任最近几个自然日；更旧宁缺(不拿旧现货冒充)
         day = time.strftime("%Y-%m-%d", time.localtime(time.time() - back * 86400))
         try:
             req = urllib.request.Request(
@@ -345,6 +356,8 @@ def fetch_spot_shensheng():
                 scale = SPOT_SCALE.get(name, 1.0)
                 out[spot_key] = round(price * scale, 4)
         if out:
+            SPOT_PAGE["date"] = day
+            SPOT_PAGE["rows"] = len(out)
             break
     return out
 
@@ -787,7 +800,14 @@ def build(out_path):
     for key, fut_item in fut.items():
         sp = spot.get(key)
         item = dict(fut_item)
+        spot_as_of = str(SPOT_PAGE.get("date") or "")
         item["spot"] = sp
+        # 透明标注现货归属日；陈旧丢弃(宁可 None 也绝不当天用旧现货)
+        _a = _days_from(spot_as_of); _t = _days_from(today)
+        if sp is not None and _a and _t:
+            if (_t - _a).days < 0 or (_t - _a).days > 4:
+                sp = None; item["spot"] = None; item["spot_stale"] = True
+        item["spot_as_of"] = (spot_as_of if sp is not None else None)
         # 基差用“现货 vs 昨日结算”衡量，更能反映昨日收盘后现货对今日的引领
         last_settle = fut_item.get("last_settle") or fut_item.get("future") or 0.0
         if sp and last_settle:
@@ -1098,6 +1118,11 @@ if __name__ == "__main__":
     today_s = now_date
     obj = {
         "updated_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
+        "spot_meta": {
+            "policy": "stale_never_fill",
+            "spot_page_used": (SPOT_PAGE.get("date") or None),
+            "note": "现货归属日见各品种 spot_as_of；缺失 None 即当日/最近已收盘昨日现货未取到，宁缺不誊旧"
+        },
         "prices": items,
         "predictions": predictions,
         "hf_picks": hf_picks,
