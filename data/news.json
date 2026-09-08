@@ -1,5 +1,71 @@
 [
  {
+  "title": "Mysteel早读：沁源县累计复产7座煤矿",
+  "url": "https://news.mysteel.com/a/26090807/0224C7600F0EE41E.html",
+  "summary": "",
+  "pub_time": "2026-09-08T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "41650e0bb545dc29d92214f87f8fae6f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel早读：沁源县累计复产7座煤矿，国家发改委部署提高疆煤外运规模",
+  "url": "https://news.mysteel.com/a/26090807/920A6F302B7536FE.html",
+  "summary": "",
+  "pub_time": "2026-09-08T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "7127ae2ab54b25209b0f00e9a52f54db",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "BOM weekly rainfall update 8 September 2026 + outlook",
+  "url": "",
+  "summary": "Little rain is forecast to catch the Australian grainbelt in the coming week after further rain for Tas and far southern mainland growing areas.",
+  "pub_time": "2026-09-07T22:50:16Z",
+  "source": "GrainCentral",
+  "_cat": "农产品",
+  "dedup_key": "322060910c658d7707554e314304fd61",
+  "score": 84,
+  "priority": "P1",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "下跌",
+   "周",
+   "展望"
+  ],
+  "en_title": "BOM weekly rainfall update 8 September 2026 + outlook"
+ },
+ {
   "title": "Washington’s Venezuela Oil Deal Is About Much More Than Crude",
   "url": "",
   "summary": "Washington’s takeover of more than a fifth of Venezuela’s oil reserves in a deal officially signed by U.S. Energy Secretary Chris Wright on 2 September was as unexpected as it was dramatic, with President Donald Trump’s comment a few days earlier that it is “the biggest oil deal in world history” lo",
@@ -214,27 +280,8 @@
   "en_title": "Copper's Longest Rally Since 1994 Collides With a Shrinking Supply Chain"
  },
  {
-  "title": "Mysteel晚餐：焦炭开启第五轮提涨",
-  "url": "https://news.mysteel.com/a/26090717/4114D0D816561D77.html",
-  "summary": "",
-  "pub_time": "2026-09-07T17:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "6bb46ccda8a6443036ffe715a2ae8458",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel晚餐：焦炭开启第五轮提涨，铁矿石到港量增加",
-  "url": "https://news.mysteel.com/a/26090717/7E8BE7CAC093AFEA.html",
+  "url": "https://news.mysteel.com/a/26090717/8280BA24A223BDFB.html",
   "summary": "",
   "pub_time": "2026-09-07T17:00:00Z",
   "source": "上海钢联Mysteel",
@@ -253,7 +300,7 @@
  },
  {
   "title": "关键矿产日报：发改委组织安排提高疆煤外运规模，央行扩大黄金储备",
-  "url": "https://news.mysteel.com/a/26090717/3E247B4D989CCF5F.html",
+  "url": "https://news.mysteel.com/a/26090717/BA1AA252A354CFA7.html",
   "summary": "",
   "pub_time": "2026-09-07T17:00:00Z",
   "source": "上海钢联Mysteel",
@@ -346,25 +393,6 @@
    "基本金属"
   ],
   "en_title": "Uzbekistan Scales Back Nuclear Cooperation With Russia"
- },
- {
-  "title": "Mysteel解读：原料端影响减量扩大 8、9月电解铜产量同比延续下降",
-  "url": "https://news.mysteel.com/a/26090716/5CF67F3091B4BCBF.html",
-  "summary": "",
-  "pub_time": "2026-09-07T16:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "a6d036ac8563f97c963ef56feb0249b7",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  },
  {
   "title": "大商所调整铁矿石期货合约涨跌停板幅度和交易保证金水平",
@@ -811,33 +839,6 @@
   "is_elite": false
  },
  {
-  "title": "Saudi Aramco's Jizan Refinery Hit Again as Houthi Attacks Escalate",
-  "url": "",
-  "summary": "Saudi Aramco's 400,000-barrel-per-day Jizan refinery was hit in a new attack Monday, threatening a major Red Sea refining hub while Saudi Arabia is moving more oil west to avoid the Strait of Hormuz. The Financial Times reported that the facilities in southwestern Saudi Arabia were hit Monday, citin",
-  "pub_time": "2026-09-07T12:34:07Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "b2ff34764175e00f399743382db701f1",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "炼厂",
-   "走强"
-  ],
-  "en_title": "Saudi Aramco's Jizan Refinery Hit Again as Houthi Attacks Escalate"
- },
- {
   "title": "From the Archives: Carlin made mining majors",
   "url": "",
   "summary": "Among the Southwest United States’ many claims to mining fame is the discovery of Carlin-type gold deposits, characterized by microscopic gold in arsenic-rich pyrite and named after the town of... The post From the Archives: Carlin made mining majors appeared first on The Northern Miner .",
@@ -1152,25 +1153,6 @@
   "en_title": "Oil Prices Rise As US, Iran Exchange Fresh Strikes"
  },
  {
-  "title": "Mysteel：全国暴雨预警信号汇总（9月7日）",
-  "url": "https://news.mysteel.com/a/26090709/2161CE374ECC1625.html",
-  "summary": "",
-  "pub_time": "2026-09-07T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "2d861eeb823583ce27d7931673608b30",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel钢铁市场周度观察：成本推涨动能衰减，钢价高位筑顶渐近",
   "url": "https://news.mysteel.com/a/26090709/14C1044C74718FC2.html",
   "summary": "",
@@ -1228,13 +1210,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：焦煤整体库存下降",
-  "url": "https://news.mysteel.com/a/26090709/7A6B980778D20065.html",
+  "title": "瑞达期货：矿价或震荡偏强",
+  "url": "https://news.mysteel.com/a/26090709/BFA6BEA4C35308BE.html",
   "summary": "",
   "pub_time": "2026-09-07T09:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "b7aa94ccabb080a63d0b664ef5be8ed2",
+  "dedup_key": "3d454b8e16c3f4edc89d55e44c26a70f",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1247,13 +1229,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：矿价或震荡偏强",
-  "url": "https://news.mysteel.com/a/26090709/BFA6BEA4C35308BE.html",
+  "title": "瑞达期货：焦煤整体库存下降",
+  "url": "https://news.mysteel.com/a/26090709/7A6B980778D20065.html",
   "summary": "",
   "pub_time": "2026-09-07T09:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "3d454b8e16c3f4edc89d55e44c26a70f",
+  "dedup_key": "b7aa94ccabb080a63d0b664ef5be8ed2",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
