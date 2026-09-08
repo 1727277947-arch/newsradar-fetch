@@ -1,5 +1,59 @@
 [
  {
+  "title": "随着供应紧张加剧，铜价飙升至 14,500 美元以上",
+  "url": "",
+  "summary": "伦敦铜期货周二创下历史新高，因为对美国关税的预期将创纪录的数量从海运市场吸引到美国仓库，尽管需求低迷，但其他地方的供应紧张。正如我们周一强调的那样，全球采矿作业状况不断恶化",
+  "pub_time": "2026-09-08T21:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "c1fc13ccd3631e50d7d98536ab51bd93",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜",
+   "大涨",
+   "供应"
+  ],
+  "en_title": "Copper Surges Above $14,500 as Supply Squeeze Deepens"
+ },
+ {
+  "title": "堪萨斯州发明家因农业和科学创新而受到认可",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-09-08T20:35:00Z",
+  "source": "Grainnet",
+  "_cat": "综合",
+  "dedup_key": "509e531e815a2d05147ae829f558397f",
+  "score": 84,
+  "priority": "P2",
+  "topic": "综合",
+  "tags": [
+   "综合",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "综合",
+   "库存"
+  ],
+  "en_title": "K-State Inventors Recognized for Agricultural and Scientific Innovations"
+ },
+ {
   "title": "中国增加了 650,000 盎司黄金，这是 2023 年以来最大的月度购买量",
   "url": "",
   "summary": "中国央行8月份购买的黄金数量是2023年以来单月购买量最多的，但金价仍无法维持在每盎司4400美元以上。根据中国人民银行周一公布的数据，上个月中国人民银行增加了 65 万金衡盎司（约 20 吨）的储备。那个上衣",
@@ -236,6 +290,32 @@
    "锡"
   ],
   "en_title": "Rio Tinto acquires Aurukun bauxite project from Glencore, Mitsubishi"
+ },
+ {
+  "title": "力拓从三菱嘉能可收购Aurukun铝土矿项目",
+  "url": "",
+  "summary": "该交易达成之际，力拓希望到 2030 年结束其位于澳大利亚北领地戈夫铝土矿的运营。力拓从嘉能可收购 Aurukun 铝土矿项目后，三菱首先出现在《北方矿业》上。",
+  "pub_time": "2026-09-08T17:33:33Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "39820cd5f419e74819c629cb9b09ecc1",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡"
+  ],
+  "en_title": "Rio Tinto buys Aurukun bauxite project from Glencore, Mitsubishi"
  },
  {
   "title": "美国农业部规则规定了紧急和临时粮食储存的要求",
@@ -927,6 +1007,32 @@
   "en_title": "Ivanhoe’s giant Makoko copper find gets 30% bigger"
  },
  {
+  "title": "艾芬豪 (Ivanhoe) 的 Makoko 铜矿发现规模扩大了 30%",
+  "url": "",
+  "summary": "随着艾芬豪扩大钻探规模并准备 2027 年范围研究，刚果民主共和国的发现正朝着矿山规划的方向发展。艾芬豪 (Ivanhoe) 的巨型 Makoko 铜矿发现面积扩大了 30%，该消息首先出现在《北方矿工》(The Northern Miner) 上。",
+  "pub_time": "2026-09-08T13:15:00Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "42ce2f88431619281f8bfa2417391560",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜"
+  ],
+  "en_title": "Ivanhoe’s giant Makoko copper find gets 30% bigger"
+ },
+ {
   "title": "随着红海风险的增加，油轮涌入苏伊士运河",
   "url": "",
   "summary": "由于红海南部和曼德海峡的航运受到威胁，通过埃及通往地中海的门户的油轮数量激增，苏伊士运河7月份的收入比去年同月增长了42%。据 7 月份营收增至 5.05 亿美元",
@@ -1078,32 +1184,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "Vitol首席执行官：全球燃料市场“紧张且不灵活”",
-  "url": "",
-  "summary": "全球最大的独立石油贸易商维多集团(Vitol Group)首席执行官拉塞尔•哈迪(Russell Hardy)周二表示，尽管最近几周波斯湾的石油流出量有所增加，但全球燃料市场非常紧张且不灵活。“就市场而言，它很漂亮，很紧张，而且不灵活",
-  "pub_time": "2026-09-08T11:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "7e530eee8664016aeab9fde92022395f",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "燃料"
-  ],
-  "en_title": "Vitol CEO: Global Fuel Markets Are \"Tight and Inflexible\""
  },
  {
   "title": "Mysteel午报：钢价局部上涨，双焦期货涨超1%",
@@ -1264,25 +1344,6 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "海关总署：8月中国出口钢材1015.5万吨",
-  "url": "https://news.mysteel.com/a/26090810/09DD51AA4E40A7AD.html",
-  "summary": "",
-  "pub_time": "2026-09-08T10:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "c5a99033d233ca6284d111b2341cca1b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
    "中文",
    "国内",
    "上海钢联Mysteel"
