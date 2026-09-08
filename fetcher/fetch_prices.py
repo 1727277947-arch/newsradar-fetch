@@ -943,6 +943,17 @@ def _open_dual(it, pp):
 
 
 
+def _mom_boost(pp, direct):
+    """动量加成(评分用, 不改门与锚): 连板强度 limit_streak + 顺方向高开 gap_pct -> 0..0.17。仅在顺向正向加分, 不给反向计罚。"""
+    st = int((pp.get('limit_streak') or 0) or 0)
+    stN = min(max(st, 0), 4) / 4.0
+    g = float((pp.get('gap_pct') or 0.0) or 0.0)
+    gd = g if direct > 0 else (-g if direct < 0 else 0.0)
+    gn = min(max(gd / 2.0, 0.0), 1.0)
+    return 0.10 * stN + 0.07 * gn
+
+
+
 def build_hf_picks(items, preds=None):
     """今日打板推荐（每天只做一次）：优先 波动大 + 方向强 + 小资金可开，给出具体进场/止损/止盈位。
     口径：只用当天有明显方向(做多=追强/做空=追跌)的品种，波幅优先；弱鸡观望的不推；一只是今日主推。"""
@@ -1008,7 +1019,7 @@ def build_hf_picks(items, preds=None):
         rv = max(0.0, min(1.0, rng / 4.0))            # 波幅 4% 给满分
         dv = max(0.0, min(1.0, ru / 2.5))             # 实时涨 2.5% 给满分
         av = max(0.0, min(1.0, _m.log10(vol + 1) / 6.0))
-        score = 0.40 * rv + 0.25 * sz + 0.20 * dv + 0.15 * av
+        score = min(1.0, 0.40 * rv + 0.25 * sz + 0.20 * dv + 0.15 * av + _mom_boost(pp, direct))
         # 具体每日打板点位：以实时最新价(anchor)为基准，沿用 止盈+3% / 反向-0.15%离场 / 浮盈回吐-0.1%硬止损
         anchor = float(pp.get("today_close") or fut or 0.0)
         if anchor <= 0:
