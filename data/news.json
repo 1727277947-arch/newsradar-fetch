@@ -19,6 +19,25 @@
   "is_elite": false
  },
  {
+  "title": "布伦特原油期货涨超2%，站上99美元/桶",
+  "url": "https://news.mysteel.com/a/26090816/E8087A4506501057.html",
+  "summary": "",
+  "pub_time": "2026-09-08T16:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "f56001a9e243683a8f50824a143167bc",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "黑色持仓日报：中信期货增持2.2万手螺纹钢多单",
   "url": "https://news.mysteel.com/a/26090815/739B666C5E9DCA69.html",
   "summary": "",
@@ -684,6 +703,33 @@
   "is_elite": false
  },
  {
+  "title": "沙特能源基地遭受新一轮袭击后油价接近 100 美元",
+  "url": "",
+  "summary": "据沙特官方通讯社报道，继当地时间周二上午能源设施遭受袭击后，沙特阿拉伯暂时停止了与也门接壤的南部地区能源设施的部分运营。 “南部地区的一些能源部门设施和装置",
+  "pub_time": "2026-09-08T08:40:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "78e3abadb5490c4a185246fc7c6b397e",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "原油",
+   "能源",
+   "价"
+  ],
+  "en_title": "Oil Prices Near $100 After Fresh Attacks on Saudi Energy Sites"
+ },
+ {
   "title": "全球柴油供应紧缩将持续整个冬季",
   "url": "",
   "summary": "路透社援引炼油和大宗商品贸易行业高管的话说，由于缺乏足够的炼油能力来弥补中东和俄罗斯设施的不足，明年全球柴油供应将继续紧张。 “产品确实短缺，因为我们错过了",
@@ -1316,25 +1362,6 @@
   "is_elite": false
  },
  {
-  "title": "马来西亚棕榈油日评：棕榈油延续涨势，升至两周高点",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/08/0649129463.shtml",
-  "summary": "",
-  "pub_time": "2026-09-08T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "7842db7c5fb3b02447864d1f8b0ca536",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年9月8日大连玉米期货行情午报",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/08/2909833109.shtml",
   "summary": "",
@@ -1494,6 +1521,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "ed5acb9e334ebe5b62fc38e02fd83944",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "马来西亚棕榈油日评：棕榈油延续涨势，升至两周高点",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/08/0649129463.shtml",
+  "summary": "",
+  "pub_time": "2026-09-08T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "7842db7c5fb3b02447864d1f8b0ca536",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -1901,33 +1947,6 @@
   "is_elite": false
  },
  {
-  "title": "随着发电厂库存减少，印度增加铁路煤炭交付量",
-  "url": "",
-  "summary": "印度煤炭部周一表示，由于数十家燃煤电厂的煤炭库存降至极低水平，印度煤炭公司正在增加对燃煤电厂的供应。印度有 50 多家燃煤发电厂，煤炭仍然是最大的单一发电来源",
-  "pub_time": "2026-09-07T15:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "综合",
-  "dedup_key": "2f46a74b158d4a8741c9a875d8f5eaa4",
-  "score": 84,
-  "priority": "P1",
-  "topic": "综合",
-  "tags": [
-   "综合",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "综合",
-   "煤炭",
-   "库存"
-  ],
-  "en_title": "India Ramps Up Rail Coal Deliveries as Power Plant Stockpiles Dwindle"
- },
- {
   "title": "有色持仓日报：沪铜飘红，东证期货增持超1.4千手多单",
   "url": "https://news.mysteel.com/a/26090715/C6047F828044E0F3.html",
   "summary": "",
@@ -2104,25 +2123,6 @@
    "黄金"
   ],
   "en_title": "SW US Spotlight: Four juniors drill gold, tungsten"
- },
- {
-  "title": "通胀与地缘政治风险“夹击”中，该如何投资？瑞银：用大宗商品多元化！",
-  "url": "https://news.mysteel.com/a/26090713/F3AFCD700E388AC3.html",
-  "summary": "",
-  "pub_time": "2026-09-07T13:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "47f33d4535f3d67a45bd3bd3eb205d87",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  },
  {
   "title": "来自档案馆：卡林主修采矿专业",
