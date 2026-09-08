@@ -557,6 +557,27 @@ def predict_next_open(symlist):
         if len(rows) < 8:
             continue
         recent = list(rows)
+        # Li 日线方向（5/20/60）：多头排列只做多/空头只做空/缠绕禁交易；用上一根已收盘日K定向，不让当日实时污染
+        def _cl(rr, ii):
+            try:
+                return float(rr[ii])
+            except Exception:
+                return None
+        _hist = [_cl(x, 4) for x in recent[:-1] if _cl(x, 4)]
+        _ht = _hist[-60:]
+        if len(_ht) >= 60:
+            ma5 = sum(_ht[-5:]) / 5.0
+            ma20 = sum(_ht[-20:]) / 20.0
+            ma60 = sum(_ht) / 60.0
+            if ma5 > ma20 > ma60:
+                day_bias = 'bull'
+            elif ma5 < ma20 < ma60:
+                day_bias = 'bear'
+            else:
+                day_bias = 'mix'
+        else:
+            ma5 = ma20 = ma60 = None
+            day_bias = 'mix'
         today_d, kline_open, kline_close = recent[-1][0], recent[-1][1], recent[-1][2]
         prev_close_kline = recent[-2][2]  # 前一日收盘(日盘收盘)
         # 近 N 日隔夜跳空统计（今开=含夜盘开盘 vs 前日收盘）
@@ -671,6 +692,8 @@ def predict_next_open(symlist):
             "limit_score": int(score), "board": board,
             "limit_ru": round(ru, 2), "limit_pos": round(pos, 2),
             "limit_vol": round(vol, 2), "limit_streak": int(streak),
+            "day_ma": (round(ma5, 2), round(ma20, 2), round(ma60, 2)) if ma5 else None,
+            "day_bias": day_bias,
             "reason": reason,
         })
     # 打板场景：优先看打板潜力分最高的
@@ -920,6 +943,13 @@ def build_hf_picks(items, preds=None):
         direct = int(pp.get("direction") or 0)
         if direct == 0:                 # 观望的不构成打板机会
             continue
+        dayb = pp.get("day_bias") or "mix"
+        if dayb == "mix" and direct != 0:
+            continue    # day MA tangled -> no day trade (Li: skip, not chase)
+        if direct == 1 and dayb == "bear":
+            continue    # bear stacks: longs forbidden
+        if direct == -1 and dayb == "bull":
+            continue    # bull stacks: shorts forbidden
         if vol <= 0 or oi <= 0:         # 死水市场不沾手
             continue
         if not mg or mg <= 0:
@@ -1147,6 +1177,5 @@ if __name__ == "__main__":
     domestic = sum(1 for x in items if x["market"] == "国内")
     print("完成: 共 %d 个品种(国内 %d / 国际 %d, 现货期货双价 %d) -> %s" % (
         len(items), domestic, len(items) - domestic, both, out_path))
-
 
 
