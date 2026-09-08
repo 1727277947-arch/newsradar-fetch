@@ -16,7 +16,7 @@ cp output/news.json data/news.json
 cp output/prices.json data/prices.json
 git config user.name "NewsRadarBot"
 git config user.email "bot@newsradar.local"
-git add data/news.json data/prices.json
+git add data/news.json data/prices.json data/tr_cache.json
 if [ "${WEEKEND:-0}" = "1" ]; then
   echo "== weekend aggregate (for Monday basis) =="
   python3 fetcher/weekend_prep.py || echo "[weekend] prep failed (skip)"

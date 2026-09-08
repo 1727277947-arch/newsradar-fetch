@@ -164,6 +164,35 @@ def _tr_mymemory(text):
     out = re.sub(r"\*\*\*|&quot;|&amp;", "", out).strip()
     return out
 
+CACHE_FILE = os.path.join(os.path.dirname(BASE), "data", "tr_cache.json")
+TR_CACHE_MAX = 2000
+_tr_hits = 0
+
+def _load_tr_cache():
+    try:
+        with open(CACHE_FILE, "r", encoding="utf-8") as f:
+            c = json.load(f)
+            return c if isinstance(c, dict) else {}
+    except Exception:
+        return {}
+
+def _save_tr_cache(cache):
+    try:
+        if len(cache) > TR_CACHE_MAX:
+            for k in list(cache)[: len(cache) - TR_CACHE_MAX]:
+                cache.pop(k, None)
+        os.makedirs(os.path.dirname(CACHE_FILE), exist_ok=True)
+        with open(CACHE_FILE, "w", encoding="utf-8") as f:
+            json.dump(cache, f, ensure_ascii=False)
+    except Exception:
+        pass
+
+def _tr_daily_hit():
+    global _tr_hits
+    _tr_hits += 1
+    limit = int(os.environ.get("NR_TR_DAILY") or "0")
+    return limit > 0 and _tr_hits > limit
+
 
 def translate_zh(text, max_len=900, cache=None):
     """把英文(自动检测)译为简体中文；逐个尝试 Google/百度/MyMemory，全部失败返回原串。"""
@@ -178,6 +207,8 @@ def translate_zh(text, max_len=900, cache=None):
     h = hashlib.md5(t.encode("utf-8")).hexdigest()
     if cache is not None and h in cache:
         return cache[h]
+    if _tr_daily_hit():
+        return t
     for fn in (_tr_baidu_api, _tr_google, _tr_baidu, _tr_mymemory):
         try:
             out = fn(t)
@@ -517,7 +548,7 @@ def build():
     all_articles = []
     ok = fail = 0
     now = datetime.now(timezone.utc)
-    tr_cache = {}
+    tr_cache = _load_tr_cache()
     for src in SOURCES:
         try:
             xml = fetch(src["rss"])
@@ -588,6 +619,7 @@ def build():
 
     uniq.sort(key=lambda x: x.get("pub_time", ""), reverse=True)
     uniq = uniq[:200]
+    _save_tr_cache(tr_cache)
     return uniq, ok, fail
 
 
@@ -600,5 +632,6 @@ if __name__ == "__main__":
     cn = sum(1 for x in data if x.get("_cn"))
     comm = len(data) - cn
     print(f"\n完成：源OK={ok} FAIL={fail}，共 {len(data)} 条（大宗商品 {comm} / 国内财经 {cn}） -> {out_path}")
+
 
 
