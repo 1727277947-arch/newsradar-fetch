@@ -1,5 +1,62 @@
 [
  {
+  "title": "广发期货：焦煤预计高位震荡",
+  "url": "https://news.mysteel.com/a/26090810/C73D17FC3DE618F2.html",
+  "summary": "",
+  "pub_time": "2026-09-08T10:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "2b0ff197337b5df9263235d7945f5a75",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "广发期货：铁矿石主力运行区间690-740元/吨",
+  "url": "https://news.mysteel.com/a/26090810/8ED6D17DAE5CD2B6.html",
+  "summary": "",
+  "pub_time": "2026-09-08T10:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "adf04963386240b42d881f83890a039a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "广发期货：钢材维持减产去库走势，可短空尝试",
+  "url": "https://news.mysteel.com/a/26090810/5DABB5A490672A84.html",
+  "summary": "",
+  "pub_time": "2026-09-08T10:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "6b9f72506f3804697fdf1c2712f11477",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "Mysteel：全国暴雨与高温预警信号汇总（9月8日）",
   "url": "https://news.mysteel.com/a/26090809/D8CF6C4C60A64199.html",
   "summary": "",
@@ -164,44 +221,6 @@
   "topic": "国内/金融政策",
   "tags": [
    "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "瑞达期货：隔夜，伦敦铂钯市场震荡运行",
-  "url": "https://news.mysteel.com/a/26090809/C4F921AB3AF92875.html",
-  "summary": "",
-  "pub_time": "2026-09-08T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "59245df6bdbfa62dad4672d62f0789fe",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "瑞达期货：隔夜，贵金属市场震荡运行",
-  "url": "https://news.mysteel.com/a/26090809/138BAEB7CAED00B7.html",
-  "summary": "",
-  "pub_time": "2026-09-08T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "3c51aa35d02c0ce4fd2fd8ddb25dab1b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
