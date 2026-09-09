@@ -1,5 +1,84 @@
 [
  {
+  "title": "油价突破 100 美元，美国原油库存小幅走低",
+  "url": "",
+  "summary": "美国石油协会(API)估计，截至9月4日当周，美国原油库存减少30万桶。此前一周，美国原油库存减少260万桶。不包括SPR的商业原油库存损失略高于4800万",
+  "pub_time": "2026-09-09T21:02:17Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "37862cc8006db270140d7d71a39738ff",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "库存"
+  ],
+  "en_title": "U.S. Crude Stocks Edge Lower as Oil Tops $100"
+ },
+ {
+  "title": "欧洲各地负电价不断上涨",
+  "url": "",
+  "summary": "如果欧洲想避免另一场能源危机，它迫切需要提高其能源储存能力。 2022 年弗拉基米尔·普京 (Vladimir Putin) 入侵乌克兰后，欧盟在建设自身能源生产能力方面取得了重大进展，以摆脱对能源的依赖。",
+  "pub_time": "2026-09-09T21:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "943660e7d1b863f96de1892116876c06",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "价"
+  ],
+  "en_title": "Negative Power Prices Are Piling Up Across Europe"
+ },
+ {
+  "title": "Troilus将价值增加三倍至$ 32亿，接近融资",
+  "url": "",
+  "summary": "Troilus Mining (TSX: TLG; US-OTC: CHXMF)在魁北克的同名铜金项目的一项新研究由于详细的工程设计、扩大的储备和... Troilus后期价值增加三倍至32亿$ ，资金最先出现在The Northern M",
+  "pub_time": "2026-09-09T20:55:06Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "c33625143ac091c1597394a0345bd916",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "原油"
+  ],
+  "en_title": "Troilus triples value to $3.2B, closes in on funding"
+ },
+ {
   "title": "美国政府关注委内瑞拉的关键矿产",
   "url": "",
   "summary": "在签署了唐纳德·特朗普总统所称的“世界历史上最大的石油协议”，以取得委内瑞拉 650 亿桶已探明原油储量的多数控制权后，美国政府将目光投向了这个南美国家潜在的巨大黄金和重要矿产资源。",
@@ -150,6 +229,31 @@
  {
   "title": "Agnico 以 3200 万美元的价格收购 Vizsla 22% 的阿拉斯加股权",
   "url": "",
+  "summary": "这种结构使 Agnico 能够接触到这些项目，同时将大部分成本和风险转移给初级公司。",
+  "pub_time": "2026-09-09T18:19:07Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "e55e3bcf2e39f7c7e3a7d7da4cb17f3f",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Agnico takes 22% of Vizsla in $32M Alaska deal"
+ },
+ {
+  "title": "Agnico 以 3200 万美元的价格收购 Vizsla 22% 的阿拉斯加股权",
+  "url": "",
   "summary": "Vizsla Copper（多伦多证券交易所代码：VCU；美国场外交易代码：VCUFF）同意以价值 3200 万美元（2330 万美元）的股份收购 Agnico Eagle Mines（多伦多证券交易所、纽约证券交易所：AEM）位于阿拉斯加的 Delta 和 Helm Bay 项目，...Agnico 在 3200 万美元的阿拉斯加交易中收购 Vizsla 22% 的消息首先出现在《The Northern Miner》上。",
   "pub_time": "2026-09-09T18:19:07Z",
   "source": "NorthernMiner",
@@ -171,6 +275,33 @@
    "基本金属"
   ],
   "en_title": "Agnico takes 22% of Vizsla in $32M Alaska deal"
+ },
+ {
+  "title": "Apollo 的 410 万盎司黄金资源集体股价下跌",
+  "url": "",
+  "summary": "Collective 的一位高管表示，有机会通过其正在进行的积极钻探计划来扩大阿波罗项目。",
+  "pub_time": "2026-09-09T18:12:36Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "dca6e5c939dbacbcfd12ca6095eb8819",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "下滑"
+  ],
+  "en_title": "Collective shares slide on Apollo’s 4.1M-oz gold resource"
  },
  {
   "title": "Apollo 410 万盎司黄金资源集体下滑",
@@ -648,32 +779,6 @@
   "en_title": "Troilus triples value to $3.2B, closes in on funding"
  },
  {
-  "title": "Troilus将价值增加三倍至$ 32亿，接近融资",
-  "url": "",
-  "summary": "Troilus Mining (TSX: TLG; US-OTC: CHXMF)在魁北克的同名铜金项目的一项新研究由于详细的工程设计、扩大的储备和... Troilus后期价值增加三倍至32亿$ ，资金最先出现在The Northern M",
-  "pub_time": "2026-09-09T14:51:06Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "c33625143ac091c1597394a0345bd916",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "原油"
-  ],
-  "en_title": "Troilus triples value to $3.2B, closes in on funding"
- },
- {
   "title": "乌克兰瞄准俄罗斯重要的黑海石油港口",
   "url": "",
   "summary": "乌克兰周三夜间用无人机袭击了俄罗斯黑海主要石油码头新罗西斯克（ Novorossiysk ）的基础设施，造成4人死亡，据报道，港口燃油码头起火。乌克兰无人机在早些时候袭击了新罗西斯克及其附近的建筑物",
@@ -895,6 +1000,58 @@
   "is_elite": false
  },
  {
+  "title": "智利开采全球1/4的铜，但冶炼仅4%",
+  "url": "",
+  "summary": "智利是世界上最大的铜生产国，正在开采全球近四分之一的精矿，而冶炼的铜仅占全球的4.2% ，这暴露了供应链中不断扩大的差距……后智利开采了全球1/4的铜，但冶炼的铜仅有4%首次出现在《北方矿工》杂志上。",
+  "pub_time": "2026-09-09T12:45:00Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "bd7bc0224fc24a206135611ae84b5042",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜"
+  ],
+  "en_title": "Chile mines 1/4 of world’s copper, but smelts just 4%"
+ },
+ {
+  "title": "埃尔多拉多的斯科里斯将多年的挫折变成了铜",
+  "url": "",
+  "summary": "Eldorado Gold （ TSX ： ELD ； NYSE ： EGO ）在其希腊的Skouries项目中生产了第一个铜-金精矿，因为该矿商的目标是第四季度的商业生产。加拿大人……埃尔多拉多的Skouries将多年的挫折变成了铜，最初出现在《北方矿工》上",
+  "pub_time": "2026-09-09T12:40:00Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "1985b2339927a9548d6bd7522d98e29c",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "铜"
+  ],
+  "en_title": "Eldorado’s Skouries turns years of setbacks into copper"
+ },
+ {
   "title": "播客：“你必须在西非”——Fortuna 首席执行官 Ganoza 谈塞内加尔并购",
   "url": "",
   "summary": "本周的节目中，Fortuna Mining 总裁兼首席执行官豪尔赫·加诺萨 (Jorge Ganoza) 与主持人阿德里安·波科贝利 (Adrian Pocobelli) 就该公司最近收购塞内加尔 Bambadji 黄金勘探项目进行了对话……播客后：“你必须在西非”——Fortuna 首席执行官加诺萨 (Ganoza) 谈塞内加尔并购",
@@ -970,58 +1127,6 @@
    "铜"
   ],
   "en_title": "Chile mines a quarter of world’s copper, but smelts just 4%"
- },
- {
-  "title": "智利开采全球1/4的铜，但冶炼仅4%",
-  "url": "",
-  "summary": "智利是世界上最大的铜生产国，正在开采全球近四分之一的精矿，而冶炼的铜仅占全球的4.2% ，这暴露了供应链中不断扩大的差距……后智利开采了全球1/4的铜，但冶炼的铜仅有4%首次出现在《北方矿工》杂志上。",
-  "pub_time": "2026-09-09T12:03:00Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "bd7bc0224fc24a206135611ae84b5042",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "Chile mines 1/4 of world’s copper, but smelts just 4%"
- },
- {
-  "title": "行业警告称，由于炼油能力不足，柴油紧缩状况将进一步恶化",
-  "url": "",
-  "summary": "紧张的全球柴油市场将在未来几个月进一步收紧，并使燃料价格保持在高位，从而提高所有商品的价格并威胁各国央行的通胀目标。本周聚集在新加坡举行的 APPEC 石油会议的行业官员警告说",
-  "pub_time": "2026-09-09T11:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "91e7f512b8bd6d94363f4ceaed82b081",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "下跌"
-  ],
-  "en_title": "Diesel Crunch Set to Worsen as Refining Capacity Falls Short, Industry Warns"
  },
  {
   "title": "专栏：智利铜业面临日益严重的电力问题",
@@ -1112,59 +1217,6 @@
    "铜"
   ],
   "en_title": "Eldorado’s Skouries turns years of setbacks into copper"
- },
- {
-  "title": "埃尔多拉多的斯科里斯将多年的挫折变成了铜",
-  "url": "",
-  "summary": "Eldorado Gold （ TSX ： ELD ； NYSE ： EGO ）在其希腊的Skouries项目中生产了第一个铜-金精矿，因为该矿商的目标是第四季度的商业生产。加拿大人……埃尔多拉多的Skouries将多年的挫折变成了铜，最初出现在《北方矿工》上",
-  "pub_time": "2026-09-09T10:51:00Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "1985b2339927a9548d6bd7522d98e29c",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "铜"
-  ],
-  "en_title": "Eldorado’s Skouries turns years of setbacks into copper"
- },
- {
-  "title": "随着柴油需求激增，印度炼油厂开工率高达 108%",
-  "url": "",
-  "summary": "过去六个月，随着柴油需求飙升以及中东危机持续不断的国际燃料市场收紧，印度炼油厂的产能利用率一直在 105% 至 108%。全球第三大原油进口国的炼油厂产能利用率一直在105%之间",
-  "pub_time": "2026-09-09T10:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "e919c6826d66c2cacd9dcf4fd8d14719",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "大涨",
-   "需求"
-  ],
-  "en_title": "India’s Refineries Run at Up to 108% as Diesel Demand Surges"
  },
  {
   "title": "黄金在连续三天下滑后攀升",
@@ -2560,6 +2612,32 @@
   "en_title": "SW US Spotlight 2: Rio, Teck, Newmont back juniors"
  },
  {
+  "title": "堪萨斯州发明家因农业和科学创新而受到认可",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-09-08T20:35:00Z",
+  "source": "Grainnet",
+  "_cat": "综合",
+  "dedup_key": "509e531e815a2d05147ae829f558397f",
+  "score": 84,
+  "priority": "P2",
+  "topic": "综合",
+  "tags": [
+   "综合",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "综合",
+   "库存"
+  ],
+  "en_title": "K-State Inventors Recognized for Agricultural and Scientific Innovations"
+ },
+ {
   "title": "马里马卡 (Marimica) 在智利潘帕麦地那 (Pampa Medina) 发现了厚厚的铜银矿带",
   "url": "",
   "summary": "随着马里马卡 (Marimica) 推动其附近的氧化矿床走向建设决策，此次钻探扩大了潘帕麦地那 (Pampa Medina) 的规模。",
@@ -2745,6 +2823,32 @@
   "en_title": "Rio Tinto buys Aurukun bauxite project from Glencore, Mitsubishi"
  },
  {
+  "title": "美国农业部规则规定了紧急和临时粮食储存的要求",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-09-08T17:28:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "d96854b53d41a51c249ddf8cf54ed7f0",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "谷物"
+  ],
+  "en_title": "USDA Rules Establish Requirements for Emergency and Temporary Grain Storage"
+ },
+ {
   "title": "Mysteel晚餐：8月我国出口钢材1015.5万吨，澳巴铁矿石港库减少",
   "url": "https://news.mysteel.com/a/26090817/FC58657ABEED1BA6.html",
   "summary": "",
@@ -2928,58 +3032,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "艾芬豪 (Ivanhoe) 的 Makoko 铜矿发现规模扩大了 30%",
-  "url": "",
-  "summary": "随着艾芬豪扩大钻探规模并准备 2027 年范围研究，刚果民主共和国的发现正在转向矿山规划。",
-  "pub_time": "2026-09-08T13:15:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "34850f230eb56ccfd70e58c49e3d3dc6",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "Ivanhoe’s giant Makoko copper find gets 30% bigger"
- },
- {
-  "title": "MMG 因英美镍交易面临欧盟反垄断警告",
-  "url": "",
-  "summary": "由于对关键矿产供应的担忧，布鲁塞尔正在准备正式反对巴西镍矿收购。",
-  "pub_time": "2026-09-08T12:03:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "7ed8ae8184bb9bdc0f120f2e0fcc91b1",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "镍"
-  ],
-  "en_title": "MMG faces EU antitrust warning over Anglo nickel deal"
  },
  {
   "title": "Mysteel：美债首破40万亿美元背景下的宏观状态判断与商品传导分析",
