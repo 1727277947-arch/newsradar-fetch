@@ -1,5 +1,30 @@
 [
  {
+  "title": "美国政府关注委内瑞拉的关键矿产",
+  "url": "",
+  "summary": "在签署了唐纳德·特朗普总统所称的“世界历史上最大的石油协议”，以取得委内瑞拉 650 亿桶已探明原油储量的多数控制权后，美国政府将目光投向了这个南美国家潜在的巨大黄金和重要矿产资源。",
+  "pub_time": "2026-09-09T20:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "贵金属",
+  "dedup_key": "0ac7dcae0a96b35e14b2812f773755bf",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "U.S. Administration Eyes Venezuela’s Critical Minerals"
+ },
+ {
   "title": "LME宣布LME上海热轧卷板合约的上市日期及流动性提供商计划",
   "url": "https://news.mysteel.com/a/26090920/5FC7DE807EDC04CF.html",
   "summary": "",
@@ -17,6 +42,84 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
+ },
+ {
+  "title": "2026 年 TSX30 矿业股占创纪录的 60%",
+  "url": "",
+  "summary": "由于黄金、白银和关键矿产推动多伦多证券交易所股价连续三年强劲上涨，矿业股占据了 18 个席位。",
+  "pub_time": "2026-09-09T19:52:26Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "958ef87891079fdf151b841df8114d8a",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "库存"
+  ],
+  "en_title": "Mining stocks claim record 60% of 2026 TSX30"
+ },
+ {
+  "title": "贵金属仍有待证明：策略师",
+  "url": "",
+  "summary": "黄金、白银和矿产股纷纷上涨，但图表模式让 The Technical Traders 首席执行官 Chris Vermeulen 不相信。",
+  "pub_time": "2026-09-09T19:26:37Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "c5bec079305395f00de4bc92a37ba3bc",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "金属"
+  ],
+  "en_title": "Precious metals still have something to prove: strategist"
+ },
+ {
+  "title": "海湾战争加剧导致霍尔木兹海峡关闭，原油价格飙升",
+  "url": "",
+  "summary": "(RTTNews) - 由于美国和伊朗继续相互攻击，中东冲突持续，同时降低了投资者对霍尔木兹海峡重新开放的预期，原油价格周三飙升，重新引发长期通胀担忧",
+  "pub_time": "2026-09-09T18:35:42Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "5fb7a48258dc6a9b959b87454381c163",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Crude Oil Soars As Gulf War Intensifies, Leaving The Strait Of Hormuz Closed"
  },
  {
   "title": "俄罗斯燃料危机期间白俄罗斯炼油厂利润创十年来高位",
@@ -1272,32 +1375,6 @@
   "en_title": "Oil Prices Rally Above $100 As US-Iran Conflict Escalates"
  },
  {
-  "title": "伊拉克敦促欧佩克大幅增加石油配额",
-  "url": "",
-  "summary": "据彭博社援引未透露姓名的知情人士消息报道，伊拉克已要求欧佩克领导层大幅提高未来配额的原油产量基准。据这些消息人士透露，巴格达希望该集团未来的配额是根据每日生产基准来确定的。",
-  "pub_time": "2026-09-09T09:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "89587dc4b3161c07ed4792a851ad5bf7",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Iraq Pushes OPEC for a Huge Increase in Its Oil Quota"
- },
- {
   "title": "Mysteel：全国暴雨预警信号汇总（9月9日）",
   "url": "https://news.mysteel.com/a/26090909/A21E688A5778793F.html",
   "summary": "",
@@ -1505,32 +1582,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "布伦特近两个月来首次突破100 $",
-  "url": "",
-  "summary": "周三早些时候，油价在亚洲贸易中触及每桶100 $ ，原因是中东持续的危机削弱了美伊谈判和很快恢复正常石油流动的希望。截至周三欧洲凌晨交易，国际基准布伦特原油上涨2.25",
-  "pub_time": "2026-09-09T07:42:50Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "e379497c44b0e429bb442de1b9a7afed",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "布伦特油价"
-  ],
-  "en_title": "Brent Breaks $100 for the First Time in Nearly Two Months"
  },
  {
   "title": "Mysteel早读：四川5家建材钢厂减产，焦炭第5轮提涨落地",
@@ -2969,32 +3020,6 @@
   "is_elite": false
  },
  {
-  "title": "必和必拓和 KGHM 联手全球寻找铜矿",
-  "url": "",
-  "summary": "随着长期铜需求的加速增长，这两家矿业巨头正在超越现有业务寻找新矿床。",
-  "pub_time": "2026-09-08T10:51:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "a7c55ef85e3c510ae7ab6c30b9b9abc3",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "BHP, KGHM join forces in global hunt for copper"
- },
- {
   "title": "伊朗紧张局势导致印度股价走低，美联储加息担忧",
   "url": "",
   "summary": "（ RTTNews ）印度股市周二大幅下跌，因中东紧张局势升级导致油价上涨，引发市场对美联储可能加息的担忧。",
@@ -3689,30 +3714,5 @@
    "展望"
   ],
   "en_title": "BOM weekly rainfall update 8 September 2026 + outlook"
- },
- {
-  "title": "关键矿产安全与长达数十年的矿山时间表相冲突",
-  "url": "",
-  "summary": "AiMinr 首席执行官表示，许可只是瓶颈的一部分。",
-  "pub_time": "2026-09-07T19:19:55Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "ed029ab8d72d3f5fde0fe91a868e6831",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Critical minerals security collides with decades-long mine timelines"
  }
 ]
