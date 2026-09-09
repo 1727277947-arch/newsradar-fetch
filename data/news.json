@@ -1,5 +1,69 @@
 [
  {
+  "title": "Mysteel早读：国内水泥集中涨价",
+  "url": "https://news.mysteel.com/a/26091007/72AFF1CCFCFE519D.html",
+  "summary": "",
+  "pub_time": "2026-09-10T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "b54ca3223cc4e03d70c7836dcfb0b8ac",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel早读：国内水泥集中涨价，特朗普划定美伊战事期限",
+  "url": "https://news.mysteel.com/a/26091007/BE0B23B1F39F6492.html",
+  "summary": "",
+  "pub_time": "2026-09-10T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "467613d7f6fe4c38f82fe2822e783191",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "加拿大石油公司进一步进军美国墨西哥湾沿岸市场",
+  "url": "",
+  "summary": "几十年来，美国一直是加拿大最重要的能源合作伙伴，吸收了加拿大大部分石油和天然气生产。在满足国内炼油需求后，加拿大约80%的原油产量出口，其中约90%销往美国，这得益于综合石油基础设施建设",
+  "pub_time": "2026-09-09T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "9e63b7dad3149c9b4de7370154bc5612",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Canadian Oil Pushes Deeper Into U.S. Gulf Coast Market"
+ },
+ {
   "title": "大宗商品牛市刚刚进入危险的新阶段",
   "url": "",
   "summary": "读者现在已经熟悉了大宗商品的普遍上涨，能源、农产品和金属大幅上涨，高盛前大宗商品主管杰夫·柯里(Jeff Currie)今年夏天警告称，实体经济日益稀缺。彭博商品指数已攀升至",
@@ -467,25 +531,6 @@
   "en_title": "Uganda Launches New Crude Grade as First Oil Exports Near"
  },
  {
-  "title": "Mysteel晚餐：唐山钢坯亏损扩大",
-  "url": "https://news.mysteel.com/a/26090917/E7E23D15D5BB7086.html",
-  "summary": "",
-  "pub_time": "2026-09-09T17:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "5456f00e8e213cd5111e17f55ef4a45a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "关键矿产日报：西芒杜铁矿马瑞巴亚港启动调试",
   "url": "https://news.mysteel.com/a/26090917/20124EF7688C08CC.html",
   "summary": "",
@@ -633,7 +678,7 @@
  },
  {
   "title": "沙特Delta Energy与阿富汗签署油气开发协议，拟推进700公里天然气管道建设",
-  "url": "https://news.mysteel.com/a/26090916/7E768F049048BA22.html",
+  "url": "https://news.mysteel.com/a/26090916/E941A083718CB581.html",
   "summary": "",
   "pub_time": "2026-09-09T16:00:00Z",
   "source": "上海钢联Mysteel",
@@ -895,25 +940,6 @@
   "is_elite": false
  },
  {
-  "title": "“LME上海热轧卷板合约”将于10月27日挂牌交易",
-  "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693579.shtml",
-  "summary": "中新社上海9月9日电 (高志苗)上海期货交易所(上期所)和伦敦金属交易所(LME)9日联合宣布，LME上海热轧卷板合约将于2026年10月27日开始在伦敦金属交易所挂牌交易。该合约的交割结算价格将以上期所热轧卷板期货人民币结算价为基准，经换算为美元后进行现金结算",
-  "pub_time": "2026-09-09T13:47:08Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "ee0b8f28bb7de5c2bd509d9faef67bf9",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
   "title": "Galantas以500万$的交易退出Omagh黄金项目",
   "url": "",
   "summary": "加拿大初中部放弃了北爱尔兰的最终利益，因为债务结算为更专注于智利资产扫清了道路。",
@@ -938,34 +964,6 @@
    "黄金"
   ],
   "en_title": "Galantas exits Omagh gold project in $5M deal"
- },
- {
-  "title": "中石化预计2026年中国石油需求下降8.9%",
-  "url": "",
-  "summary": "作为全球产能最大的炼油商，中国石化预计，由于油价上涨和电动汽车普及加速对需求造成破坏，2026年中国石油需求将同比下降8.9%。全球最大原油进口国石油需求预计将下降6%",
-  "pub_time": "2026-09-09T13:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "d7e317c1214d84a0aedaad1be2763d14",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "下跌",
-   "需求"
-  ],
-  "en_title": "Sinopec Sees China Oil Demand Falling 8.9% in 2026"
  },
  {
   "title": "伊拉克在OPEC+核查期间寻求大幅上调石油产量配额",
@@ -2848,25 +2846,6 @@
   "en_title": "USDA Rules Establish Requirements for Emergency and Temporary Grain Storage"
  },
  {
-  "title": "Mysteel晚餐：8月我国出口钢材1015.5万吨，澳巴铁矿石港库减少",
-  "url": "https://news.mysteel.com/a/26090817/FC58657ABEED1BA6.html",
-  "summary": "",
-  "pub_time": "2026-09-08T17:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "7a6ad8065dd56b7fdcd0c0ed1ba4403b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel日报：黑色金属期货震荡上涨运行",
   "url": "https://news.mysteel.com/a/26090817/606F1C4D618B3458.html",
   "summary": "",
@@ -3737,33 +3716,5 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "BOM 2026 年 9 月 8 日每周降雨量更新 + 展望",
-  "url": "",
-  "summary": "塔斯马尼亚州和远南大陆种植区将出现进一步降雨，预计未来一周澳大利亚谷物种植带将出现少量降雨。",
-  "pub_time": "2026-09-07T22:50:16Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "322060910c658d7707554e314304fd61",
-  "score": 84,
-  "priority": "P1",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "下跌",
-   "周",
-   "展望"
-  ],
-  "en_title": "BOM weekly rainfall update 8 September 2026 + outlook"
  }
 ]
