@@ -1,5 +1,24 @@
 [
  {
+  "title": "沙特Delta Energy与阿富汗签署油气开发协议，拟推进700公里天然气管道建设",
+  "url": "https://news.mysteel.com/a/26090916/7E768F049048BA22.html",
+  "summary": "",
+  "pub_time": "2026-09-09T16:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "2e4260926b4ca920170f93d9ea199337",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "黑色持仓日报：中信期货增持超1.4万手螺纹钢多单",
   "url": "https://news.mysteel.com/a/26090915/E5ADD602AE84198C.html",
   "summary": "",
@@ -114,25 +133,6 @@
   "is_elite": false
  },
  {
-  "title": "现货黄金站上4400美元/盎司",
-  "url": "https://news.mysteel.com/a/26090913/16F02E00678EE647.html",
-  "summary": "",
-  "pub_time": "2026-09-09T13:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "0bf3789e36f4cb3ee60f947aad10cfe0",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "伊拉克在OPEC+核查期间寻求大幅上调石油产量配额",
   "url": "https://news.mysteel.com/a/26090913/AC49231268F2811B.html",
   "summary": "",
@@ -164,6 +164,25 @@
   "topic": "国内/产业经济",
   "tags": [
    "产业经济",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "现货黄金站上4400美元/盎司",
+  "url": "https://news.mysteel.com/a/26090913/D9AA921D4C872B78.html",
+  "summary": "",
+  "pub_time": "2026-09-09T13:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "0bf3789e36f4cb3ee60f947aad10cfe0",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -528,6 +547,25 @@
    "中文",
    "国内",
    "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "中国自主设计建造的首艘超大型液化气运输船在江苏命名",
+  "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693302.shtml",
+  "summary": "彭玉章)8日，由启东中远海运海洋工程有限公司建造的“中国造”88000立方米超大型液化气运输船“长平源”轮命名仪式在江苏南通举行。该船是中国自主设计建造的首艘超大型液化气运输船，也是采用液化石油气(LPG)双燃料的大型液化气船(VLGC)船型，是该系列4艘船中的首制船",
+  "pub_time": "2026-09-09T08:35:58Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "70837a9d98139bc36f2bdea3e51b94fa",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
   ],
   "is_elite": false
  },
@@ -925,25 +963,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年9月9日大连玉米期货行情午报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/09/3000390769.shtml",
-  "summary": "",
-  "pub_time": "2026-09-09T00:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "5d1af437537ae8b906512e94c1e3d436",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年9月9日大连大豆期货收盘高开收涨",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/09/0200618460.shtml",
   "summary": "",
@@ -1312,6 +1331,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "9e78fa0a854ab2f68f694b2c8f3da21b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月9日大连玉米期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/09/3000390769.shtml",
+  "summary": "",
+  "pub_time": "2026-09-09T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "da01a02d854a91f7515f23cf3b881701",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -2128,25 +2166,6 @@
   "is_elite": false
  },
  {
-  "title": "布伦特原油期货涨超2%，站上99美元/桶",
-  "url": "https://news.mysteel.com/a/26090816/E8087A4506501057.html",
-  "summary": "",
-  "pub_time": "2026-09-08T16:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "f56001a9e243683a8f50824a143167bc",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "分析师最爱：惠顿贵金属被评为首选金属",
   "url": "",
   "summary": "根据 Metals Channel 的数据，对主要经纪公司的分析师推荐进行的研究显示，在组成 Metals Channel 全球矿业巨头指数的 50 只股票中，Wheaton Precious Metals Corp（股票代码：WPM）在经纪商分析师中平均排名第 6。陈金属",
@@ -2219,25 +2238,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "6cc169674ad89ba75101ecf105c91f1d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "科威特石油公司高管表示“正在市场上收购更多船舶”",
-  "url": "https://news.mysteel.com/a/26090815/129D5F22389185B4.html",
-  "summary": "",
-  "pub_time": "2026-09-08T15:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "f58675cb69c8aec4fce525c827b08a49",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -3629,43 +3629,5 @@
    "罢工"
   ],
   "en_title": "Oil Prices Rise As US, Iran Exchange Fresh Strikes"
- },
- {
-  "title": "Mysteel钢铁市场周度观察：成本推涨动能衰减，钢价高位筑顶渐近",
-  "url": "https://news.mysteel.com/a/26090709/14C1044C74718FC2.html",
-  "summary": "",
-  "pub_time": "2026-09-07T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "d33446dedeca77297415781252d500a7",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色期货早报：各品种多数下跌，多机构料螺纹钢震荡运行",
-  "url": "https://news.mysteel.com/a/26090709/8950ED79465DB87A.html",
-  "summary": "",
-  "pub_time": "2026-09-07T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "164112d4f91968f3c8a52a7f6f304627",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  }
 ]
