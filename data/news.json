@@ -1,5 +1,138 @@
 [
  {
+  "title": "LME宣布LME上海热轧卷板合约的上市日期及流动性提供商计划",
+  "url": "https://news.mysteel.com/a/26090920/5FC7DE807EDC04CF.html",
+  "summary": "",
+  "pub_time": "2026-09-09T20:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "24bca1095f2d96fac86aaea53b414b4d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/金融政策",
+  "tags": [
+   "金融政策",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel晚餐：唐山钢坯亏损扩大",
+  "url": "https://news.mysteel.com/a/26090917/E7E23D15D5BB7086.html",
+  "summary": "",
+  "pub_time": "2026-09-09T17:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "5456f00e8e213cd5111e17f55ef4a45a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "关键矿产日报：西芒杜铁矿马瑞巴亚港启动调试",
+  "url": "https://news.mysteel.com/a/26090917/20124EF7688C08CC.html",
+  "summary": "",
+  "pub_time": "2026-09-09T17:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "cd7378037c4824c1336ca91810dc1f80",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "每日钢市：四川云南钢厂减产，短期钢价或涨跌有限",
+  "url": "https://news.mysteel.com/a/26090917/049473BA94840BE8.html",
+  "summary": "",
+  "pub_time": "2026-09-09T17:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "9596704689c209045b21e937fd9da784",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel晚餐：唐山钢坯亏损扩大，云南建筑钢材日均产量减超5000吨",
+  "url": "https://news.mysteel.com/a/26090917/73E32F6905DEF08A.html",
+  "summary": "",
+  "pub_time": "2026-09-09T17:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "27518ec37716ac592bffdc5a83ea8624",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "关键矿产日报：西芒杜铁矿马瑞巴亚港启动调试，布油涨破100美元",
+  "url": "https://news.mysteel.com/a/26090917/7BD03904F57EECDE.html",
+  "summary": "",
+  "pub_time": "2026-09-09T17:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "c140fc843c034993c5ce791662504ac8",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel日报：黑色金属期货震荡下跌",
+  "url": "https://news.mysteel.com/a/26090917/C6FEE86979D8382A.html",
+  "summary": "",
+  "pub_time": "2026-09-09T17:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "fac5258f9bb77c0cbe97fef441b70993",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "沙特Delta Energy与阿富汗签署油气开发协议，拟推进700公里天然气管道建设",
   "url": "https://news.mysteel.com/a/26090916/7E768F049048BA22.html",
   "summary": "",
@@ -7,82 +140,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "2e4260926b4ca920170f93d9ea199337",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色持仓日报：中信期货增持超1.4万手螺纹钢多单",
-  "url": "https://news.mysteel.com/a/26090915/E5ADD602AE84198C.html",
-  "summary": "",
-  "pub_time": "2026-09-09T15:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "73cb65d44e207a330fdafe72f42e4213",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "有色持仓日报：沪铜涨0.74%，东证期货增持超1.3千手空单",
-  "url": "https://news.mysteel.com/a/26090915/40B82628B15A4AD2.html",
-  "summary": "",
-  "pub_time": "2026-09-09T15:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "02463fe0e816f83aeb4608e20f7e69e0",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色持仓日报：期螺飘红，中信期货增持超1.4万手多单",
-  "url": "https://news.mysteel.com/a/26090915/7E71DC5097D6510D.html",
-  "summary": "",
-  "pub_time": "2026-09-09T15:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "5e1bda4f6c4ed3f66a4446f00a79921e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "布伦特原油期货自7月24日以来首次突破每桶100美元",
-  "url": "https://news.mysteel.com/a/26090915/EE547F57F53147AD.html",
-  "summary": "",
-  "pub_time": "2026-09-09T15:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "b7a6a562c3f233d950c6e48b96497027",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -114,6 +171,90 @@
   "is_elite": false
  },
  {
+  "title": "布伦特原油期货自7月24日以来首次突破每桶100美元",
+  "url": "https://news.mysteel.com/a/26090915/276EDAEC7823DB2B.html",
+  "summary": "",
+  "pub_time": "2026-09-09T15:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "b7a6a562c3f233d950c6e48b96497027",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "黑色持仓日报：期螺飘红，中信期货增持超1.4万手多单",
+  "url": "https://news.mysteel.com/a/26090915/E5ADD602AE84198C.html",
+  "summary": "",
+  "pub_time": "2026-09-09T15:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "5e1bda4f6c4ed3f66a4446f00a79921e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "有色持仓日报：沪铜涨0.74%，东证期货增持超1.3千手空单",
+  "url": "https://news.mysteel.com/a/26090915/6A8E69EC0A39E013.html",
+  "summary": "",
+  "pub_time": "2026-09-09T15:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "02463fe0e816f83aeb4608e20f7e69e0",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "随着电力需求激增，加州热浪测试电网",
+  "url": "",
+  "summary": "美国国家气象局已向加州中央山谷和沿海地区（包括湾区和洛杉矶）发布高温警告，并在南加州部分地区发布了更严重的极端高温警告。预计未来几天制冷需求将飙升，这将带来压力",
+  "pub_time": "2026-09-09T14:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "cadd4850689f829d3feff2a23863845f",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "大涨",
+   "需求"
+  ],
+  "en_title": "California Heat Wave Tests Grid as Power Demand Surges"
+ },
+ {
   "title": "河北鑫达钢铁节能降碳设备更新项目生态环境影响报告获批",
   "url": "https://news.mysteel.com/a/26090914/AFAFA16FD6264C38.html",
   "summary": "",
@@ -131,6 +272,72 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
+ },
+ {
+  "title": "“LME上海热轧卷板合约”将于10月27日挂牌交易",
+  "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693579.shtml",
+  "summary": "中新社上海9月9日电 (高志苗)上海期货交易所(上期所)和伦敦金属交易所(LME)9日联合宣布，LME上海热轧卷板合约将于2026年10月27日开始在伦敦金属交易所挂牌交易。该合约的交割结算价格将以上期所热轧卷板期货人民币结算价为基准，经换算为美元后进行现金结算",
+  "pub_time": "2026-09-09T13:47:08Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "ee0b8f28bb7de5c2bd509d9faef67bf9",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "胶版印刷纸期货及期权上市一周年：产业客户稳步参与 服务实体功能初显",
+  "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693564.shtml",
+  "summary": "高志苗)全球首个文化用纸金融衍生品——胶版印刷纸期货及期权在上海期货交易所(以下简称上期所)上市即将满一年。记者9日从上期所获悉，一年来，市场总体运行平稳，交割顺畅，产业客户稳步参与，服务实体功能逐步显现，为造纸、贸易、出版印刷等产业链企业提供了良好的风险管理工具",
+  "pub_time": "2026-09-09T13:37:05Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "270d4a79bd907bc964b624092a1a1dcc",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/金融政策",
+  "tags": [
+   "金融政策",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "中石化预计2026年中国石油需求下降8.9%",
+  "url": "",
+  "summary": "作为全球产能最大的炼油商，中国石化预计，由于油价上涨和电动汽车普及加速对需求造成破坏，2026年中国石油需求将同比下降8.9%。全球最大原油进口国石油需求预计将下降6%",
+  "pub_time": "2026-09-09T13:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "d7e317c1214d84a0aedaad1be2763d14",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "下跌",
+   "需求"
+  ],
+  "en_title": "Sinopec Sees China Oil Demand Falling 8.9% in 2026"
  },
  {
   "title": "伊拉克在OPEC+核查期间寻求大幅上调石油产量配额",
@@ -190,6 +397,109 @@
   "is_elite": false
  },
  {
+  "title": "播客：“你必须在西非”——Fortuna 首席执行官 Ganoza 谈塞内加尔并购",
+  "url": "",
+  "summary": "本周的节目中，Fortuna Mining 总裁兼首席执行官豪尔赫·加诺萨 (Jorge Ganoza) 与主持人阿德里安·波科贝利 (Adrian Pocobelli) 就该公司最近收购塞内加尔 Bambadji 黄金勘探项目进行了对话……播客后：“你必须在西非”——Fortuna 首席执行官加诺萨 (Ganoza) 谈塞内加尔并购",
+  "pub_time": "2026-09-09T12:30:38Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "3a4b85a772401623f2b9b6527812f7a5",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Podcast: ‘You have to be in West Africa’—Fortuna CEO Ganoza on Senegal M&A"
+ },
+ {
+  "title": "摩根士丹利：随着战争的持续，石油交易商对风险的把握“更加精准”",
+  "url": "",
+  "summary": "投资银行摩根士丹利表示，伊朗和乌克兰战争将如何展开的不确定性使许多交易员不愿持有较长期的期货合约头寸。大多数交易者现在已经开始押注三到六个月内的期货价格，而不是更长的时间",
+  "pub_time": "2026-09-09T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "0e58a782923451576b5a9d2ea6f6764e",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Morgan Stanley: Oil Traders Are ‘More Precise’ With Risk as Wars Drag On"
+ },
+ {
+  "title": "行业警告称，由于炼油能力不足，柴油紧缩状况将进一步恶化",
+  "url": "",
+  "summary": "紧张的全球柴油市场将在未来几个月进一步收紧，并使燃料价格保持在高位，从而提高所有商品的价格并威胁各国央行的通胀目标。本周聚集在新加坡举行的 APPEC 石油会议的行业官员警告说",
+  "pub_time": "2026-09-09T11:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "91e7f512b8bd6d94363f4ceaed82b081",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "下跌"
+  ],
+  "en_title": "Diesel Crunch Set to Worsen as Refining Capacity Falls Short, Industry Warns"
+ },
+ {
+  "title": "专栏：智利铜业面临日益严重的电力问题",
+  "url": "",
+  "summary": "二十年来矿石品位的下降和矿山电气化给智利的电力系统带来了越来越大的压力。",
+  "pub_time": "2026-09-09T11:01:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "b90517496282ddc37459e5dfc707aed1",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜"
+  ],
+  "en_title": "Op-Ed: Chile’s copper sector faces a growing power problem"
+ },
+ {
   "title": "Mysteel午报：钢价持稳为主，黑色期货涨跌互现",
   "url": "https://news.mysteel.com/a/26090911/DB1053D1EEDB9672.html",
   "summary": "",
@@ -228,6 +538,87 @@
   "is_elite": false
  },
  {
+  "title": "埃尔多拉多的斯科里斯将多年的挫折变成了铜",
+  "url": "",
+  "summary": "希腊矿山已生产出第一批精矿，在经历了多年的延误和挫折后，已接近商业生产。",
+  "pub_time": "2026-09-09T10:51:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "64ec78cfabfbd4418f46b5e268b56697",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜"
+  ],
+  "en_title": "Eldorado’s Skouries turns years of setbacks into copper"
+ },
+ {
+  "title": "随着柴油需求激增，印度炼油厂开工率高达 108%",
+  "url": "",
+  "summary": "过去六个月，随着柴油需求飙升以及中东危机持续不断的国际燃料市场收紧，印度炼油厂的产能利用率一直在 105% 至 108%。全球第三大原油进口国的炼油厂产能利用率一直在105%之间",
+  "pub_time": "2026-09-09T10:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "e919c6826d66c2cacd9dcf4fd8d14719",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "大涨",
+   "需求"
+  ],
+  "en_title": "India’s Refineries Run at Up to 108% as Diesel Demand Surges"
+ },
+ {
+  "title": "黄金在连续三天下滑后攀升",
+  "url": "",
+  "summary": "(RTTNews) - 尽管海湾地区局势再度紧张且加息忧虑挥之不去，但周三金价仍走高。",
+  "pub_time": "2026-09-09T10:01:16Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "16d3625158ef6925f485c86ffce34cc8",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "走高",
+   "下滑"
+  ],
+  "en_title": "Gold Climbs After Three-day Slide"
+ },
+ {
   "title": "Mysteel：8月十大城市新房成交同比增长2.8%",
   "url": "https://news.mysteel.com/a/26090910/5F352080323B2004.html",
   "summary": "",
@@ -240,25 +631,6 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel算力租赁价格指数及市场价格正式上线",
-  "url": "https://news.mysteel.com/a/26090910/81150FD737D13EC4.html",
-  "summary": "",
-  "pub_time": "2026-09-09T10:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "c963dd90c806aa240ca4295f383e7719",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -397,6 +769,60 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
+ },
+ {
+  "title": "美伊冲突升级，油价升至 100 美元以上",
+  "url": "",
+  "summary": "(RTTNews) - 周三，海湾地区紧张局势再度加剧，引发人们对全球能源供应进一步中断的担忧，油价上涨。",
+  "pub_time": "2026-09-09T09:35:58Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "1406b72d27c9e98b4faad92b3fbfa380",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "上涨"
+  ],
+  "en_title": "Oil Prices Rally Above $100 As US-Iran Conflict Escalates"
+ },
+ {
+  "title": "伊拉克敦促欧佩克大幅增加石油配额",
+  "url": "",
+  "summary": "据彭博社援引未透露姓名的知情人士消息报道，伊拉克已要求欧佩克领导层大幅提高未来配额的原油产量基准。据这些消息人士透露，巴格达希望该集团未来的配额是根据每日生产基准来确定的。",
+  "pub_time": "2026-09-09T09:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "89587dc4b3161c07ed4792a851ad5bf7",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Iraq Pushes OPEC for a Huge Increase in Its Oil Quota"
  },
  {
   "title": "Mysteel：全国暴雨预警信号汇总（9月9日）",
@@ -547,25 +973,6 @@
    "中文",
    "国内",
    "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "中国自主设计建造的首艘超大型液化气运输船在江苏命名",
-  "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693302.shtml",
-  "summary": "彭玉章)8日，由启东中远海运海洋工程有限公司建造的“中国造”88000立方米超大型液化气运输船“长平源”轮命名仪式在江苏南通举行。该船是中国自主设计建造的首艘超大型液化气运输船，也是采用液化石油气(LPG)双燃料的大型液化气船(VLGC)船型，是该系列4艘船中的首制船",
-  "pub_time": "2026-09-09T08:35:58Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "70837a9d98139bc36f2bdea3e51b94fa",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
   ],
   "is_elite": false
  },
@@ -944,13 +1351,13 @@
   "is_elite": false
  },
  {
-  "title": "2026年9月9日大连玉米期货收盘高开收跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/09/1038427767.shtml",
+  "title": "9月9日进口大豆到国内港口CF及升贴水报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/09/0117378623.shtml",
   "summary": "",
   "pub_time": "2026-09-09T00:00:00Z",
-  "source": "粮油玉米",
+  "source": "粮油大豆",
   "_cn": true,
-  "dedup_key": "d0a7d1eb0746321dcd445a4e8f6bcec0",
+  "dedup_key": "c6c80a995ffeed5386a26d125eb5a9cf",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -958,7 +1365,26 @@
    "大宗商品",
    "中文",
    "国内",
-   "粮油玉米"
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "9月9日进口大豆港口分销价持平",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/09/0035100966.shtml",
+  "summary": "",
+  "pub_time": "2026-09-09T00:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "eddb2f42238496f762567163854ba640",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
   ],
   "is_elite": false
  },
@@ -1039,44 +1465,6 @@
   "is_elite": false
  },
  {
-  "title": "【独家】期货涨势未停新豆高开？",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/09/0826987541.shtml",
-  "summary": "",
-  "pub_time": "2026-09-09T00:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "2ff784dfde6b6fe3c1525ed7f47784a4",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
-  "title": "CBOT大豆略微收涨，因需求旺盛及原油走强",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/09/5144999582.shtml",
-  "summary": "",
-  "pub_time": "2026-09-09T00:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "a3b20f00b23f3bf565775c493e457abb",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
   "title": "美国小麦上涨，因周末未达成和平解决方案",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/09/2229987693.shtml",
   "summary": "",
@@ -1096,6 +1484,25 @@
   "is_elite": false
  },
  {
+  "title": "9月9日进口油菜籽到国内港口CF报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/09/0544655301.shtml",
+  "summary": "",
+  "pub_time": "2026-09-09T00:00:00Z",
+  "source": "粮油菜籽",
+  "_cn": true,
+  "dedup_key": "8a3f190f3b9d6bff76d5cd0c9bf4693a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "ICE油菜籽上涨，因原油走强及天气担忧",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/09/5824540176.shtml",
   "summary": "",
@@ -1111,6 +1518,101 @@
    "中文",
    "国内",
    "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT大豆略微收涨，因需求旺盛及原油走强",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/09/5144999582.shtml",
+  "summary": "",
+  "pub_time": "2026-09-09T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "895b800ffe2551c152c89664fccc0382",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "9月9日进口阿根廷豆油及加拿大菜籽油CF报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/09/0508592847.shtml",
+  "summary": "",
+  "pub_time": "2026-09-09T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "ee91da3f5e356df7fae335db37f62830",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "9月9日马来西亚棕榈油9月船期FOB报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/09/0410837721.shtml",
+  "summary": "",
+  "pub_time": "2026-09-09T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "5cea543f4e7782ab16e414daf0e247dd",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "9月9日24度棕榈油国内各港口交货价格下跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/09/0329129589.shtml",
+  "summary": "",
+  "pub_time": "2026-09-09T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "c0b1f330d62a98e02e27e2383241ae57",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "9月9日进口豆油港口交货价格下跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/09/0158232657.shtml",
+  "summary": "",
+  "pub_time": "2026-09-09T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "0ed504aa3b913114a73ac49e4d9e2fb7",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "粮油首页"
   ],
   "is_elite": false
  },
@@ -1324,13 +1826,13 @@
   "is_elite": false
  },
  {
-  "title": "CBOT豆油追随原油上涨",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/09/5306708092.shtml",
+  "title": "2026年9月9日大连玉米期货收盘高开收跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/09/1038427767.shtml",
   "summary": "",
   "pub_time": "2026-09-09T00:00:00Z",
   "source": "粮油首页",
   "_cn": true,
-  "dedup_key": "9e78fa0a854ab2f68f694b2c8f3da21b",
+  "dedup_key": "bedc576ab41a4d7ceb35546b7da692b4",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1571,6 +2073,25 @@
   "is_elite": false
  },
  {
+  "title": "CBOT豆油追随原油上涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/09/5306708092.shtml",
+  "summary": "",
+  "pub_time": "2026-09-09T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "9e78fa0a854ab2f68f694b2c8f3da21b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "新 APH 品种扩大了早期种植的选择",
   "url": "",
   "summary": "AGT 发布了两种适合昆士兰州和新南威尔士州的 APH 小麦新品种，其中一种是 Clearfield，进一步拓宽了早期种植的选择。",
@@ -1729,58 +2250,6 @@
   "en_title": "K-State Inventors Recognized for Agricultural and Scientific Innovations"
  },
  {
-  "title": "中国增加了 650,000 盎司黄金，这是 2023 年以来最大的月度购买量",
-  "url": "",
-  "summary": "中国央行8月份购买的黄金数量是2023年以来单月购买量最多的，但金价仍无法维持在每盎司4400美元以上。根据中国人民银行周一公布的数据，上个月中国人民银行增加了 65 万金衡盎司（约 20 吨）的储备。那个上衣",
-  "pub_time": "2026-09-08T19:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "贵金属",
-  "dedup_key": "675dc28d1822952b356919ec64178de0",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "China Adds 650,000 Ounces of Gold in Biggest Monthly Buy Since 2023"
- },
- {
-  "title": "华盛顿特区天然气禁令在联邦上诉法院获得有利听证会",
-  "url": "",
-  "summary": "联邦上诉小组周二似乎倾向于维持华盛顿特区对某些新建筑使用天然气的限制。此案涉及《能源政策和节约法案》（EPCA），该法案赋予能源部为应用程序制定效率和能源使用标准的权力",
-  "pub_time": "2026-09-08T19:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "667520c8d3415f78c3131049725bb896",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气"
-  ],
-  "en_title": "D.C. Gas Ban Gets Favorable Hearing in Federal Appeals Court"
- },
- {
   "title": "马里马卡 (Marimica) 在智利潘帕麦地那 (Pampa Medina) 发现了厚厚的铜银矿带",
   "url": "",
   "summary": "随着马里马卡 (Marimica) 推动其附近的氧化矿床走向建设决策，此次钻探扩大了潘帕麦地那 (Pampa Medina) 的规模。",
@@ -1885,59 +2354,6 @@
    "铜"
   ],
   "en_title": "Ivanhoe’s giant Makoko copper find gets 30% bigger"
- },
- {
-  "title": "美国如何瞄准伊朗的石油资金",
-  "url": "",
-  "summary": "美国对土耳其一家投资银行及其两家子公司实施制裁，指责它们帮助伊朗转移石油收入并提供进入国际金融体系的机会，而华盛顿则加大了对德黑兰的挤压力度。美国财政部9月4日发布",
-  "pub_time": "2026-09-08T18:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "4182c960f2a446b8d326aa7ae27261d2",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "锡"
-  ],
-  "en_title": "How the U.S. Is Targeting Iran's Oil Money"
- },
- {
-  "title": "雪佛龙将斥资 70 亿美元将委内瑞拉钻井平台数量增加一倍",
-  "url": "",
-  "summary": "雪佛龙计划在五年内将其在委内瑞拉运营的钻井平台数量增加一倍，目标是每天生产约 60 万桶。首席财务官埃米尔·邦纳周二表示，雪佛龙将根据上周与委内瑞拉签署的新合同条款增加钻井平台。这些术语也 gi",
-  "pub_time": "2026-09-08T17:59:37Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "abb804556f0886c64104f468cc9dab88",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Chevron to Double Venezuela Rig Count in $7 Billion Oil Push"
  },
  {
   "title": "由于投资者等待通胀数据以及对美联储加息的押注增加，金价下跌",
@@ -2045,34 +2461,8 @@
   "en_title": "USDA Rules Establish Requirements for Emergency and Temporary Grain Storage"
  },
  {
-  "title": "随着国会审查的继续，美国与沙特的核协议扫清了维也纳障碍",
-  "url": "",
-  "summary": "美国和沙特阿拉伯之间计划中的核合作协议不会包括联合国原子监督机构必须提供的最严格的检查制度，但它将在最重要的活动上接近。这就是国际原子能机构主席拉斐尔·格罗斯的照片",
-  "pub_time": "2026-09-08T17:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "b93329692cceb7a86bf509454405729c",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡"
-  ],
-  "en_title": "U.S.-Saudi Nuclear Deal Clears Vienna Hurdle As Congress Review Continues"
- },
- {
   "title": "Mysteel晚餐：8月我国出口钢材1015.5万吨，澳巴铁矿石港库减少",
-  "url": "https://news.mysteel.com/a/26090817/1AB5425A10A6B4DC.html",
+  "url": "https://news.mysteel.com/a/26090817/FC58657ABEED1BA6.html",
   "summary": "",
   "pub_time": "2026-09-08T17:00:00Z",
   "source": "上海钢联Mysteel",
@@ -2083,44 +2473,6 @@
   "topic": "国内/贸易外经",
   "tags": [
    "贸易外经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "伊拉克石油部长称9月原油出口量达每日300万桶",
-  "url": "https://news.mysteel.com/a/26090817/81F03A8D322E55DC.html",
-  "summary": "",
-  "pub_time": "2026-09-08T17:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "a40af4bef4ff3a6abf2b3a68cceadb08",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "沙特多处能源设施遭袭，国际油价再次逼近100美元大关",
-  "url": "https://news.mysteel.com/a/26090817/58D363A19F841E3A.html",
-  "summary": "",
-  "pub_time": "2026-09-08T17:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "25baea167bbdbaf997c091f8188c5a02",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -2148,7 +2500,7 @@
  },
  {
   "title": "关键矿产日报：国际原油大涨超3%，津巴布韦暂停锑与钨出口",
-  "url": "https://news.mysteel.com/a/26090816/E8733B91000BA32F.html",
+  "url": "https://news.mysteel.com/a/26090816/04D48730A6F840F1.html",
   "summary": "",
   "pub_time": "2026-09-08T16:00:00Z",
   "source": "上海钢联Mysteel",
@@ -2193,25 +2545,6 @@
   "en_title": "Analyst Favorites: Wheaton Precious Metals Ranks As a Top Metals Pick"
  },
  {
-  "title": "Mysteel：汇兑损失拖累利润，上半年工程机械企业增收难增利",
-  "url": "https://news.mysteel.com/a/26090815/882250523AD7A603.html",
-  "summary": "",
-  "pub_time": "2026-09-08T15:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "726378e5d7916c6f01520e3f96c22d77",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "有色持仓日报：沪铜涨1.29%，国泰君安增持超1.4千手多单",
   "url": "https://news.mysteel.com/a/26090815/67C8660AE7630DC2.html",
   "summary": "",
@@ -2243,6 +2576,25 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：汇兑损失拖累利润，上半年工程机械企业增收难增利",
+  "url": "https://news.mysteel.com/a/26090815/5EA5BB256218AA3E.html",
+  "summary": "",
+  "pub_time": "2026-09-08T15:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "726378e5d7916c6f01520e3f96c22d77",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -2717,44 +3069,6 @@
   "is_elite": false
  },
  {
-  "title": "9月8日进口阿根廷豆油及加拿大菜籽油CF报价",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/08/2501191067.shtml",
-  "summary": "",
-  "pub_time": "2026-09-08T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "8dd868022b8689b672e0b29848a792d1",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "9月8日马来西亚棕榈油9月船期FOB报价",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/08/2404489179.shtml",
-  "summary": "",
-  "pub_time": "2026-09-08T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "60906d361c0beab983714937cb6403f6",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年9月8日郑州菜油期货收盘高开收涨",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/08/5844697733.shtml",
   "summary": "",
@@ -2938,25 +3252,6 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "9月8日进口豆油港口交货价格下跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/08/2213883543.shtml",
-  "summary": "",
-  "pub_time": "2026-09-08T00:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "a60c374f1d5d3fe595bffe740065804b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
    "中文",
    "国内",
    "粮油首页"
@@ -3346,288 +3641,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "多国竞相从美国运回黄金 业内点评：世界不再信任华盛顿！",
-  "url": "https://news.mysteel.com/a/26090714/3BBE13DD10D7A3DC.html",
-  "summary": "",
-  "pub_time": "2026-09-07T14:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "02a7246d02aaee7bf6c24dc4203f818d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "SW US 聚焦：四名青少年钻金、钨",
-  "url": "",
-  "summary": "四家初级企业正在内华达州和亚利桑那州推进金、银和钨项目，从早期钻探到由美国政府支持的预可行性阶段开发。 A2 Gold (TSXV: AUAU;...《SW US 聚光灯》后：四名青少年钻金，钨首先出现在 The No",
-  "pub_time": "2026-09-07T13:00:08Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "fe8b546fb8fcd509c634b71c256436ab",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "SW US Spotlight: Four juniors drill gold, tungsten"
- },
- {
-  "title": "来自档案馆：卡林主修采矿专业",
-  "url": "",
-  "summary": "美国西南部因采矿而闻名的众多说法之一是发现了卡林型金矿，其特征是富含砷的黄铁矿中含有微量金，并以该镇命名。档案中的帖子：卡林让采矿专业首先出现在《北方矿工》上。",
-  "pub_time": "2026-09-07T11:22:29Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "d943b6d028cdac56c3c04e6bce198ca7",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "From the Archives: Carlin made mining majors"
- },
- {
-  "title": "巴西的目标是在关键矿产热潮中发挥更大作用",
-  "url": "",
-  "summary": "巴西正在吸引全球矿业资本，同时寻求对战略资产的更大控制权和更多的国内加工。",
-  "pub_time": "2026-09-07T11:00:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "508905353e02df0601ba9bc0b68754a8",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Brazil targets bigger role in critical minerals rush"
- },
- {
-  "title": "Mysteel周报：建筑原材料价格监测（8.28-9.4）",
-  "url": "https://news.mysteel.com/a/26090711/97453E31E5D99936.html",
-  "summary": "",
-  "pub_time": "2026-09-07T11:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "150f604fd85db27faa0406408d9f19f6",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel周报：船舶原材料价格（8.28-9.4）",
-  "url": "https://news.mysteel.com/a/26090711/36D91DDF9F429372.html",
-  "summary": "",
-  "pub_time": "2026-09-07T11:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "5e07fa0ae2d8c25e55b523b9a514d10c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "螺纹钢期货下跌，钢价或涨跌有限",
-  "url": "https://news.mysteel.com/a/26090711/602389D25699AA96.html",
-  "summary": "",
-  "pub_time": "2026-09-07T11:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "e26afc0f2b21b3c668db18a18cc0a475",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "金价因通胀担忧和加息押注而下跌",
-  "url": "",
-  "summary": "(RTTNews) - 周一金价走低，美国债券收益率上升和中东紧张局势升级打压了贵金属的避险吸引力。",
-  "pub_time": "2026-09-07T10:04:23Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "1ec785b4e7b7fa038edd9eb9a4d1f3a9",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Gold Dips On Inflation Concerns, Rate-hike Bets"
- },
- {
-  "title": "Mysteel周报：家电原材料价格监测（8.28-9.4）",
-  "url": "https://news.mysteel.com/a/26090710/D46E28CA0600CC1F.html",
-  "summary": "",
-  "pub_time": "2026-09-07T10:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "54972c9826c91be1f9d5b47c529808ad",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/产业经济",
-  "tags": [
-   "产业经济",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel周报：机械制造业原材料价格监测（8.29-9.4）",
-  "url": "https://news.mysteel.com/a/26090710/C3D40A7DD6643C1D.html",
-  "summary": "",
-  "pub_time": "2026-09-07T10:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "05044893d86f951eff2043d30997ae45",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/产业经济",
-  "tags": [
-   "产业经济",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "【证券日报】隆众资讯李姿璇：短期橡胶价格继续区间震荡",
-  "url": "https://news.mysteel.com/a/26090710/F22EDCBEAF941C95.html",
-  "summary": "",
-  "pub_time": "2026-09-07T10:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "80002083f79b3565b87dc6a0847d44bb",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "【华夏时报】上海钢联周宇婷：9月焦炭价格仍有走高预期",
-  "url": "https://news.mysteel.com/a/26090710/AEF6D6825C203929.html",
-  "summary": "",
-  "pub_time": "2026-09-07T10:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "ee9726e66d7a0f0d607e762655e64766",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "美国和伊朗再次发动袭击，油价上涨",
-  "url": "",
-  "summary": "(RTTNews) - 由于美国袭击伊朗油轮以及德黑兰威胁在霍尔木兹海峡外设立新禁区，引发了人们对中东能源供应长期中断的担忧，油价周一上涨。",
-  "pub_time": "2026-09-07T09:40:02Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "328d6c8cebfe9b379bf57e4427f08572",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "上涨",
-   "罢工"
-  ],
-  "en_title": "Oil Prices Rise As US, Iran Exchange Fresh Strikes"
  }
 ]
