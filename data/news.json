@@ -133,25 +133,6 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel：焦煤供给“硬约束”常态化对钢铁市场的影响",
-  "url": "https://news.mysteel.com/a/26090913/63308949A5978E7B.html",
-  "summary": "",
-  "pub_time": "2026-09-09T13:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "580c08aba31476b5280e45ee58316ed9",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "伊拉克在OPEC+核查期间寻求大幅上调石油产量配额",
   "url": "https://news.mysteel.com/a/26090913/AC49231268F2811B.html",
   "summary": "",
@@ -1684,6 +1665,32 @@
   "en_title": "Copper Surges Above $14,500 as Supply Squeeze Deepens"
  },
  {
+  "title": "堪萨斯州发明家因农业和科学创新而受到认可",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-09-08T20:35:00Z",
+  "source": "Grainnet",
+  "_cat": "综合",
+  "dedup_key": "509e531e815a2d05147ae829f558397f",
+  "score": 84,
+  "priority": "P2",
+  "topic": "综合",
+  "tags": [
+   "综合",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "综合",
+   "库存"
+  ],
+  "en_title": "K-State Inventors Recognized for Agricultural and Scientific Innovations"
+ },
+ {
   "title": "中国增加了 650,000 盎司黄金，这是 2023 年以来最大的月度购买量",
   "url": "",
   "summary": "中国央行8月份购买的黄金数量是2023年以来单月购买量最多的，但金价仍无法维持在每盎司4400美元以上。根据中国人民银行周一公布的数据，上个月中国人民银行增加了 65 万金衡盎司（约 20 吨）的储备。那个上衣",
@@ -1972,6 +1979,32 @@
    "锡"
   ],
   "en_title": "Rio Tinto buys Aurukun bauxite project from Glencore, Mitsubishi"
+ },
+ {
+  "title": "美国农业部规则规定了紧急和临时粮食储存的要求",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-09-08T17:28:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "d96854b53d41a51c249ddf8cf54ed7f0",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "谷物"
+  ],
+  "en_title": "USDA Rules Establish Requirements for Emergency and Temporary Grain Storage"
  },
  {
   "title": "随着国会审查的继续，美国与沙特的核协议扫清了维也纳障碍",
