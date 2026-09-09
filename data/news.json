@@ -628,6 +628,32 @@
   "en_title": "Chile mines a quarter of world’s copper, but smelts just 4%"
  },
  {
+  "title": "智利开采全球1/4的铜，但冶炼仅4%",
+  "url": "",
+  "summary": "智利是世界上最大的铜生产国，正在开采全球近四分之一的精矿，而冶炼的铜仅占全球的4.2% ，这暴露了供应链中不断扩大的差距……后智利开采了全球1/4的铜，但冶炼的铜仅有4%首次出现在《北方矿工》杂志上。",
+  "pub_time": "2026-09-09T12:03:00Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "bd7bc0224fc24a206135611ae84b5042",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜"
+  ],
+  "en_title": "Chile mines 1/4 of world’s copper, but smelts just 4%"
+ },
+ {
   "title": "行业警告称，由于炼油能力不足，柴油紧缩状况将进一步恶化",
   "url": "",
   "summary": "紧张的全球柴油市场将在未来几个月进一步收紧，并使燃料价格保持在高位，从而提高所有商品的价格并威胁各国央行的通胀目标。本周聚集在新加坡举行的 APPEC 石油会议的行业官员警告说",
@@ -1433,33 +1459,6 @@
    "农产品"
   ],
   "en_title": "Daily Market Wire 9 September 2026"
- },
- {
-  "title": "霍尔木兹海峡僵局持续，伊朗石油出口崩溃",
-  "url": "",
-  "summary": "美伊战争爆发六个多月后，霍尔木兹海峡的航运交通仍然受到干扰，油价再次逼近每桶 100 美元大关。美国和伊朗在冲突进入第七个月伊始仍陷入僵局。但美国经济压力",
-  "pub_time": "2026-09-09T00:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "e8600673cf5b3d4156f7e6aa272aeac2",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "出口"
-  ],
-  "en_title": "Iran’s Oil Exports Collapse as Hormuz Standoff Drags On"
  },
  {
   "title": "【独家】期货涨势未停 新豆高开？",
@@ -3663,32 +3662,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "ACG Metals 将收购 Keşkek 金矿项目",
-  "url": "",
-  "summary": "这家以铜为主的公司旨在利用 Keşkek 的生产来延长 Gediktepe 的运营寿命。",
-  "pub_time": "2026-09-07T16:43:44Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "1c215807c7225b624c9d8d4d90d7b9bc",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "金属"
-  ],
-  "en_title": "ACG Metals to acquire Keşkek gold project"
  }
 ]
