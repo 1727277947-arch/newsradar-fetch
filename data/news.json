@@ -1,5 +1,110 @@
 [
  {
+  "title": "Osisko 的 Gaspé 矿区铜矿含铜量为 4.7%",
+  "url": "",
+  "summary": "Osisko Metals（多伦多证券交易所代码：OM；美国场外交易代码：OMZNF）在魁北克省东部的 Gaspé Copper 项目进行的新钻探扩大了过去生产矿山的足迹，展示了附近更高品位矿化的潜力。",
+  "pub_time": "2026-09-10T21:05:29Z",
+  "source": "NorthernMiner",
+  "_cat": "能源",
+  "dedup_key": "b33733182c7afc12c93d3a0cfdf5a4df",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气",
+   "铜"
+  ],
+  "en_title": "Osisko hits 4.7% copper beneath Gaspé workings"
+ },
+ {
+  "title": "Aya 将 Boumadine 价值翻倍至 $3.5B",
+  "url": "",
+  "summary": "Aya Gold & Silver（多伦多证交所，纳斯达克股票代码：AYA）已将其摩洛哥 Boumadine 项目的税后净现值增加了一倍多，达到 35 亿美元（48 亿加元），同时筹集初始资金... Aya 将 Boumadine 价值翻倍至 $3.5B 的帖子首先出现在《北方矿工》上。",
+  "pub_time": "2026-09-10T21:00:12Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "bf4c65517ad4d57b52cde3fcc17bde3e",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Aya doubles Boumadine value to $3.5B"
+ },
+ {
+  "title": "中国如何成为世界上第一个电极国家",
+  "url": "",
+  "summary": "来自 Oilprice.com 的更多热门读物 由于炼油能力不足，柴油紧缩将更加严重，行业警告俄罗斯袭击摩尔多瓦边境，乌克兰袭击黑海港口 二叠纪天然气今年已连续 118 天一文不值",
+  "pub_time": "2026-09-10T21:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "2cd03779b1e0015bd6406567b932a77a",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "How China Became the World's First Electrostate"
+ },
+ {
+  "title": "铜价和矿商因特朗普关税疑虑而下滑",
+  "url": "",
+  "summary": "路透社报道，由于官员们正在权衡对国内生产的支持，白宫仍未决定是否对精炼铜征收关税，铜价和美国矿商周四暴跌。",
+  "pub_time": "2026-09-10T20:55:14Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "43f3bfb5cbd4519f0bf558f3d8753dfc",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜",
+   "价",
+   "下滑"
+  ],
+  "en_title": "Copper price, miners slide on Trump tariff doubts"
+ },
+ {
   "title": "白宫关税不确定性令交易商担忧，铜股下跌",
   "url": "",
   "summary": "周四上午，路透社报道称，白宫“铜关税计划因负担能力担忧而陷入停滞”，铜期货及相关股票周四上午暴跌。特朗普政府尚未决定是否对精炼铜征收关税，导致全球铜价大幅上涨",
@@ -350,34 +455,6 @@
   "is_elite": false
  },
  {
-  "title": "铜价和矿商因特朗普关税疑虑而下滑",
-  "url": "",
-  "summary": "路透社报道，由于官员们正在权衡对国内生产的支持，白宫仍未决定是否对精炼铜征收关税，铜价和美国矿商周四暴跌。",
-  "pub_time": "2026-09-10T16:59:14Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "43f3bfb5cbd4519f0bf558f3d8753dfc",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "价",
-   "下滑"
-  ],
-  "en_title": "Copper price, miners slide on Trump tariff doubts"
- },
- {
   "title": "IEA：霍尔木兹海峡关闭推动天然气价格上涨，煤炭需求将增长 1.2%",
   "url": "",
   "summary": "国际能源署的最新报告显示，在中东持续冲突之后，煤炭需求重新回升。",
@@ -491,33 +568,6 @@
   "source": "Mining.com",
   "_cat": "能源",
   "dedup_key": "4678959a4ca4530470a4488a06b861c2",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气",
-   "铜"
-  ],
-  "en_title": "Osisko hits 4.7% copper beneath Gaspé workings"
- },
- {
-  "title": "Osisko 的 Gaspé 矿区铜矿含铜量为 4.7%",
-  "url": "",
-  "summary": "Osisko Metals（多伦多证券交易所代码：OM；美国场外交易代码：OMZNF）在魁北克省东部的 Gaspé Copper 项目进行的新钻探扩大了过去生产矿山的足迹，展示了附近更高品位矿化的潜力。",
-  "pub_time": "2026-09-10T15:48:29Z",
-  "source": "NorthernMiner",
-  "_cat": "能源",
-  "dedup_key": "b33733182c7afc12c93d3a0cfdf5a4df",
   "score": 84,
   "priority": "P1",
   "topic": "能源",
@@ -716,31 +766,6 @@
   "source": "Mining.com",
   "_cat": "贵金属",
   "dedup_key": "0c513f633d4bb647b6f599909d51f116",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "Aya doubles Boumadine value to $3.5B"
- },
- {
-  "title": "Aya 将 Boumadine 价值翻倍至 $3.5B",
-  "url": "",
-  "summary": "Aya Gold & Silver（多伦多证交所，纳斯达克股票代码：AYA）已将其摩洛哥 Boumadine 项目的税后净现值增加了一倍多，达到 35 亿美元（48 亿加元），同时筹集初始资金... Aya 将 Boumadine 价值翻倍至 $3.5B 的帖子首先出现在《北方矿工》上。",
-  "pub_time": "2026-09-10T14:15:12Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "bf4c65517ad4d57b52cde3fcc17bde3e",
   "score": 84,
   "priority": "P2",
   "topic": "贵金属",
@@ -1286,34 +1311,6 @@
    "黄金"
   ],
   "en_title": "Gold Edges Lower In Lackluster Trade; US Inflation Data In Focus"
- },
- {
-  "title": "随着油价飙升，印度呼吁加大生物燃料推广力度",
-  "url": "",
-  "summary": "印度总理办公室顾问塔伦·卡普尔表示，随着中东危机期间原油价格飙升，印度需要扩大生物燃料生产和消费，以提高能源安全。 “生物燃料的未来在于最大限度地利用每种可用资源的价值，”卡波",
-  "pub_time": "2026-09-10T09:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "f4567d6baf33fda0aab7e7103b7624cd",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "燃料",
-   "价"
-  ],
-  "en_title": "India Calls for Bigger Biofuel Push as Oil Prices Soar"
  },
  {
   "title": "贸易波动中油价上涨",
@@ -4140,31 +4137,5 @@
    "锡"
   ],
   "en_title": "Options for early planting broaden with new APH varieties"
- },
- {
-  "title": "堪萨斯州发明家因农业和科学创新而受到认可",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-08T20:35:00Z",
-  "source": "Grainnet",
-  "_cat": "综合",
-  "dedup_key": "509e531e815a2d05147ae829f558397f",
-  "score": 84,
-  "priority": "P2",
-  "topic": "综合",
-  "tags": [
-   "综合",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "综合",
-   "库存"
-  ],
-  "en_title": "K-State Inventors Recognized for Agricultural and Scientific Innovations"
  }
 ]
