@@ -1,5 +1,110 @@
 [
  {
+  "title": "白宫关税不确定性令交易商担忧，铜股下跌",
+  "url": "",
+  "summary": "周四上午，路透社报道称，白宫“铜关税计划因负担能力担忧而陷入停滞”，铜期货及相关股票周四上午暴跌。特朗普政府尚未决定是否对精炼铜征收关税，导致全球铜价大幅上涨",
+  "pub_time": "2026-09-10T20:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "dd7ee7885c671ddc1d4452a42dc3f4ad",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜",
+   "库存"
+  ],
+  "en_title": "Copper Stocks Sink as White House Tariff Uncertainty Spooks Traders"
+ },
+ {
+  "title": "金罗斯黄金跌破 200 日移动均线 - KGC 值得注意",
+  "url": "",
+  "summary": "在周四的交易中，Kinross Gold Corp.（代码：KGC）的股价跌破 200 日移动平均线 29.51 美元，易手低至每股 28.87 美元。 Kinross Gold Corp. 股价当天下跌约 4.2%。下图显示了一年",
+  "pub_time": "2026-09-10T19:57:32Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "c6e1b1a4cd868e6ced98a2120e7f1cb8",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Kinross Gold Breaks Below 200-Day Moving Average - Notable for KGC"
+ },
+ {
+  "title": "巴尔的摩港开设谷物转运设施",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-09-10T19:51:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "367ed6fea17e29bd3180ad4dd41335fd",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "谷物"
+  ],
+  "en_title": "Port of Baltimore Opens Grain Transloading Facility"
+ },
+ {
+  "title": "美国天然气市场增长近乎创纪录",
+  "url": "",
+  "summary": "根据美国能源信息管理局 (EIA) 的数据，预计 2026 年美国天然气产量将达到创纪录的 1117 亿立方英尺/日 (bcfd)，高于 2025 年的 107.6 bcfd。到 2027 年，国内供应量预计将达到 115.9 bcfd。但这只是故事的一半。超过",
+  "pub_time": "2026-09-10T19:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "0693205ca3dd5926cfb25814f983c27e",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气"
+  ],
+  "en_title": "US Natural Gas Market Verging on Record Growth"
+ },
+ {
   "title": "随着铜、银价格暴跌和金价下滑，矿业股涨势突然停止",
   "url": "",
   "summary": "有报道称白宫尚未决定精炼铜关税，而自由港 1000 亿美元的估值又重新发挥作用，自由港麦克莫兰 (Freeport-McMoRan) 和泰克资源 (Teck Resources) 带领铜生产商下跌 7%。",
@@ -28,6 +133,62 @@
    "上涨"
   ],
   "en_title": "Mining stocks rally comes to abrupt halt as copper, silver prices plummet and gold slides"
+ },
+ {
+  "title": "由于对中东石油长期中断的担忧日益加剧，原油价格飙升",
+  "url": "",
+  "summary": "(RTTNews) - 原油价格周四飙升，继前两个交易日的上涨后，近期美国与伊朗关系升级后，供应中断担忧加剧。此外，美国总统唐纳德·特朗普表示，战争可能会拖延联合国。",
+  "pub_time": "2026-09-10T18:32:10Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "cdb0b8b11d7e8db9d106a97f95702fff",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "锡",
+   "供应"
+  ],
+  "en_title": "Crude Oil Skyrockets Amid Mounting Concerns Of Prolonged Disruption To Middle East Oil Supply"
+ },
+ {
+  "title": "EIA上调2027年美国石油产量预测",
+  "url": "",
+  "summary": "美国能源信息署将 2027 年美国原油产量预测上调至 1,430 万桶/日，高于 8 月的 1,420 万桶/日和 7 月的 1,400 万桶/日。对于 2026 年，EIA 仍预计产量为 1,380 万桶/日，与 7 月和 8 月的预测持平",
+  "pub_time": "2026-09-10T18:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "33f51cf6618ae22fc83f0d04bcdc03d1",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "产量",
+   "预测"
+  ],
+  "en_title": "EIA Raises 2027 U.S. Oil Output Forecast"
  },
  {
   "title": "白宫的铜关税计划陷入停滞",
@@ -1532,32 +1693,6 @@
   "en_title": "GO.FARM offers size, scope with latest listings"
  },
  {
-  "title": "澳大利亚软化LNG出口商天然气储备规则",
-  "url": "",
-  "summary": "澳大利亚政府放宽了对生产商的天然气供应规则，旨在确保为国内市场提供足够的天然气。最初，规则规定生产商应为澳大利亚市场保留20 ％的产量。现在，该提案是将高达20 ％的产量保留给国内",
-  "pub_time": "2026-09-10T07:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "38a351dfd7b0c63ff4a65052675f6219",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气"
-  ],
-  "en_title": "Australia Softens Gas Reservation Rule for LNG Exporters"
- },
- {
   "title": "Mysteel早读：国内水泥集中涨价，特朗普给出美伊战事结束时间表",
   "url": "https://news.mysteel.com/a/26091007/5E02260507285CFA.html",
   "summary": "",
@@ -1601,32 +1736,6 @@
    "谷物"
   ],
   "en_title": "Feedgrain Focus: South feels weight of new crop"
- },
- {
-  "title": "随着美国-伊朗油轮战争升级，石油价格保持在100 $以上",
-  "url": "",
-  "summary": "原油价格在本周早些时候大幅反弹后保持在近期高点附近，涨幅得益于美伊冲突升级以及对波斯湾油轮的袭击加剧。伊朗报告称，美国军舰和油轮在波斯湾被击中，而美国则表示",
-  "pub_time": "2026-09-10T05:35:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "ea8d15602f8dd91d566e6472f841bba0",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Oil Holds Above $100 as U.S.-Iran Tanker War Escalates"
  },
  {
   "title": "GrainCorp 确认失去 80 个工作岗位，并概述了技术延迟",
@@ -4031,31 +4140,6 @@
    "锡"
   ],
   "en_title": "Options for early planting broaden with new APH varieties"
- },
- {
-  "title": "SW US 聚焦 2：Rio、Teck、Newmont 回归青少年队",
-  "url": "",
-  "summary": "三大矿业公司正在支持初级勘探商推进美国西南部的铜矿项目，而第四家公司正在努力成为国内锑和黄金生产商。泰克资源... 后西南美国聚焦 2：里约热内卢、泰克、纽蒙特后卫青年队首先出现在《北方矿工》上。",
-  "pub_time": "2026-09-08T21:00:33Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "210c7f1d34378d79b4617bc105a2d686",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "SW US Spotlight 2: Rio, Teck, Newmont back juniors"
  },
  {
   "title": "堪萨斯州发明家因农业和科学创新而受到认可",
