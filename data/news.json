@@ -1,5 +1,35 @@
 [
  {
+  "title": "随着铜、银价格暴跌和金价下滑，矿业股涨势突然停止",
+  "url": "",
+  "summary": "有报道称白宫尚未决定精炼铜关税，而自由港 1000 亿美元的估值又重新发挥作用，自由港麦克莫兰 (Freeport-McMoRan) 和泰克资源 (Teck Resources) 带领铜生产商下跌 7%。",
+  "pub_time": "2026-09-10T18:36:38Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "e2f7d0459bfcf60550299c2e655121ed",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "白银",
+   "铜",
+   "价",
+   "上涨"
+  ],
+  "en_title": "Mining stocks rally comes to abrupt halt as copper, silver prices plummet and gold slides"
+ },
+ {
   "title": "白宫的铜关税计划陷入停滞",
   "url": "https://news.mysteel.com/a/26091018/0F9DF18E2D094155.html",
   "summary": "",
@@ -36,6 +66,32 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
+ },
+ {
+  "title": "由于美伊冲突持续激烈，美联储加息押注增加，金价暴跌",
+  "url": "",
+  "summary": "(RTTNews) - 金价周四暴跌，抵消了昨日的涨幅，因投资者权衡美国与伊朗的紧张局势持续升级、随之而来的油价上涨以及美国加息的潜在机会。",
+  "pub_time": "2026-09-10T17:36:34Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "b5ff01089bbc3e7cc6872b9475510422",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Gold Slumps As Fed Rate Hike Bets Increase Amid Ongoing Intense U.S.-Iran Conflict"
  },
  {
   "title": "Mysteel晚餐：宝钢上调10月出厂价",
@@ -133,6 +189,64 @@
   "is_elite": false
  },
  {
+  "title": "铜价和矿商因特朗普关税疑虑而下滑",
+  "url": "",
+  "summary": "路透社报道，由于官员们正在权衡对国内生产的支持，白宫仍未决定是否对精炼铜征收关税，铜价和美国矿商周四暴跌。",
+  "pub_time": "2026-09-10T16:59:14Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "43f3bfb5cbd4519f0bf558f3d8753dfc",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜",
+   "价",
+   "下滑"
+  ],
+  "en_title": "Copper price, miners slide on Trump tariff doubts"
+ },
+ {
+  "title": "IEA：霍尔木兹海峡关闭推动天然气价格上涨，煤炭需求将增长 1.2%",
+  "url": "",
+  "summary": "国际能源署的最新报告显示，在中东持续冲突之后，煤炭需求重新回升。",
+  "pub_time": "2026-09-10T16:45:51Z",
+  "source": "Mining.com",
+  "_cat": "能源",
+  "dedup_key": "f6ef8952b6c4ec38e39258dcad70ca34",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气",
+   "煤炭",
+   "价",
+   "上涨",
+   "需求"
+  ],
+  "en_title": "Coal demand to rise 1.2% as Hormuz closure drives gas prices: IEA"
+ },
+ {
   "title": "随着布伦特原油价格飙升，美国原油库存下降",
   "url": "",
   "summary": "美国能源情报署(EIA)周四公布的最新数据显示，截至9月4日当周，美国原油库存减少40万桶。根据政府数据，商业库存减少至 4.241 亿桶",
@@ -163,6 +277,33 @@
   "en_title": "U.S. Crude Inventories Fall As Brent Prices Soar"
  },
  {
+  "title": "美国原油库存下降幅度小于预期",
+  "url": "",
+  "summary": "(RTTNews) - 美国能源情报署周四发布的一份报告显示，截至 9 月 4 日当周，美国原油库存小幅下降。",
+  "pub_time": "2026-09-10T16:10:24Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "637651cbd091914c80430c7d17f778c3",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "库存"
+  ],
+  "en_title": "U.S. Crude Oil Inventories Edge Down Less Than Expected"
+ },
+ {
   "title": "证监会副主席李超：健全期货市场品种布局，提升大宗商品价格影响力",
   "url": "https://news.mysteel.com/a/26091016/BEBDBE56EEBF7C81.html",
   "summary": "",
@@ -180,6 +321,33 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
+ },
+ {
+  "title": "Osisko 的 Gaspé 矿区铜矿含铜量为 4.7%",
+  "url": "",
+  "summary": "该公司扩大了加斯佩铜矿的占地面积，表明旧矿区附近有可能开采更高品位的矿物。",
+  "pub_time": "2026-09-10T15:54:39Z",
+  "source": "Mining.com",
+  "_cat": "能源",
+  "dedup_key": "4678959a4ca4530470a4488a06b861c2",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气",
+   "铜"
+  ],
+  "en_title": "Osisko hits 4.7% copper beneath Gaspé workings"
  },
  {
   "title": "Osisko 的 Gaspé 矿区铜矿含铜量为 4.7%",
@@ -326,6 +494,32 @@
   "en_title": "Swiss gold ban squeezes Sudan’s war economy"
  },
  {
+  "title": "瑞士黄金禁令挤压苏丹战时经济",
+  "url": "",
+  "summary": "瑞士已开始禁止购买和进口苏丹黄金，并限制采矿供应，以切断该国三年战争的资金来源。瑞士黄金禁令挤压苏丹的战时经济首先出现在《北方矿工》上。",
+  "pub_time": "2026-09-10T14:52:00Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "0e5cb31301283168719bcf3c8a8e987a",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Swiss gold ban squeezes Sudan’s war economy"
+ },
+ {
   "title": "IEA：伊朗战争阻碍液化天然气供应，全球煤炭需求将创历史新高",
   "url": "",
   "summary": "国际能源署（IEA）周四在一份新报告中表示，霍尔木兹海峡封锁导致液化天然气价格飙升，促使各经济体转向替代能源，推动今年煤炭需求再创新高。液化天然气价格飙升推动了包括以下在内的市场",
@@ -352,6 +546,31 @@
    "需求"
   ],
   "en_title": "IEA: Global Coal Demand Set to Hit Record High as Iran War Chokes LNG Supply"
+ },
+ {
+  "title": "Aya 将 Boumadine 价值翻倍至 $3.5B",
+  "url": "",
+  "summary": "摩洛哥的 Boumadine 项目显示出 93% 的 IRR 和 0.7 年的投资回收期，黄金为 3,500 美元/盎司，白银为 50 美元/盎司。",
+  "pub_time": "2026-09-10T14:15:12Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "0c513f633d4bb647b6f599909d51f116",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Aya doubles Boumadine value to $3.5B"
  },
  {
   "title": "Aya 将 Boumadine 价值翻倍至 $3.5B",
@@ -590,6 +809,32 @@
   "en_title": "TotalEnergies to Bring New Angola Discovery Online in Just Three Months"
  },
  {
+  "title": "MMG 因英美镍交易面临欧盟反垄断警告",
+  "url": "",
+  "summary": "MMG 以 5 亿美元收购英美资源集团 (LSE: AAL) 巴西镍资产的交易正面临另一个障碍，预计欧洲监管机构将正式阐明对这家中国控股矿商提议的竞争担忧。",
+  "pub_time": "2026-09-10T12:03:00Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "e84b63a3f67612dcf48d7c5834f0c48d",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "镍"
+  ],
+  "en_title": "MMG faces EU antitrust warning over Anglo nickel deal"
+ },
+ {
   "title": "清洁氢能投资突破 1300 亿美元",
   "url": "",
   "summary": "中东冲突期间的石油和天然气供应冲击已加速全球对清洁氢的累计投资超过 570 个项目，超过 1300 亿美元，因为能源安全已成为工业增长和脱碳目标的关键驱动力。",
@@ -759,6 +1004,33 @@
   "is_elite": false,
   "keywords": [
    "基本金属",
+   "铜",
+   "锡"
+  ],
+  "en_title": "Rio Tinto wins Aboriginal consent for Winu copper mine"
+ },
+ {
+  "title": "力拓获得威努铜矿原住民同意",
+  "url": "",
+  "summary": "力拓（ASX、LON、纽约证券交易所代码：RIO）已为其西澳大利亚州 Winu 铜金项目获得原住民同意，推进该矿商最重要的近期增长项目之一。协议...力拓赢得原住民同意开发威努铜矿的消息首先出现在《北方报》上",
+  "pub_time": "2026-09-10T10:42:00Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "91d8ccb3d3d996f2724749f5e9ecc156",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
    "铜",
    "锡"
   ],
@@ -1381,33 +1653,6 @@
    "谷物"
   ],
   "en_title": "GrainCorp confirms 80 jobs lost, outlines tech delays"
- },
- {
-  "title": "WTI 突破 100 美元——本轮反弹仍将持续",
-  "url": "",
-  "summary": "几个月来，原油价格一直受到霍尔木兹海峡油轮交通改善的报道的限制。即使在伊朗和美国之间的六月停火破裂之后，进出霍尔木兹的油轮的移动速度仍高于春季。现在情况已经改变",
-  "pub_time": "2026-09-10T00:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "df551fac5ac7911488c1ef887a2603ba",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "WTI油价",
-   "上涨"
-  ],
-  "en_title": "WTI Breaks $100—and This Rally Has Legs"
  },
  {
   "title": "2026年9月10日大连豆粕期货高开收涨",
@@ -2691,58 +2936,6 @@
   "is_elite": false
  },
  {
-  "title": "Troilus将价值增加三倍至$ 32亿，接近融资",
-  "url": "",
-  "summary": "该矿商的同名铜金项目税后内部收益率为22% ，投资回收期为3.6年，运营寿命为26年。",
-  "pub_time": "2026-09-09T14:56:48Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "bb99ac9996e2087e2e1b0c899496c307",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "原油"
-  ],
-  "en_title": "Troilus triples value to $3.2B, closes in on funding"
- },
- {
-  "title": "Galantas以500万$的交易退出Omagh黄金项目",
-  "url": "",
-  "summary": "加拿大初中部放弃了北爱尔兰的最终利益，因为债务结算为更专注于智利资产扫清了道路。",
-  "pub_time": "2026-09-09T13:32:00Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "96776e6f690a7eeb09348f813457c6f4",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Galantas exits Omagh gold project in $5M deal"
- },
- {
   "title": "世界铂金投资协会：铂金市场2026年预计将出现8吨盈余",
   "url": "https://news.mysteel.com/a/26090913/445120585AD2885B.html",
   "summary": "",
@@ -2858,58 +3051,6 @@
   "en_title": "Podcast: ‘You have to be in West Africa’—Fortuna CEO Ganoza on Senegal M&A"
  },
  {
-  "title": "智利开采了世界四分之一的铜，但只冶炼了4%",
-  "url": "",
-  "summary": "智利未充分利用的冶炼厂将更多的精矿输送到国外，因为更严格的加工能力将价值和杠杆转移到亚洲。",
-  "pub_time": "2026-09-09T12:03:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "8ea1760d228b7ca7406324da639fbd9e",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "Chile mines a quarter of world’s copper, but smelts just 4%"
- },
- {
-  "title": "专栏：智利铜业面临日益严重的电力问题",
-  "url": "",
-  "summary": "二十年来矿石品位的下降和矿山电气化给智利的电力系统带来了越来越大的压力。",
-  "pub_time": "2026-09-09T11:01:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "b90517496282ddc37459e5dfc707aed1",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "Op-Ed: Chile’s copper sector faces a growing power problem"
- },
- {
   "title": "螺纹钢期货高位震荡，钢价涨幅收窄",
   "url": "https://news.mysteel.com/a/26090911/94EAE3BDD3D380B8.html",
   "summary": "",
@@ -2927,32 +3068,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "埃尔多拉多的斯科里斯将多年的挫折变成了铜",
-  "url": "",
-  "summary": "希腊矿山已生产出第一批精矿，在经历了多年的延误和挫折后，已接近商业生产。",
-  "pub_time": "2026-09-09T10:51:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "64ec78cfabfbd4418f46b5e268b56697",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "Eldorado’s Skouries turns years of setbacks into copper"
  },
  {
   "title": "黄金在连续三天下滑后攀升",
@@ -3967,156 +4082,5 @@
    "库存"
   ],
   "en_title": "K-State Inventors Recognized for Agricultural and Scientific Innovations"
- },
- {
-  "title": "马里马卡 (Marimica) 在智利潘帕麦地那 (Pampa Medina) 发现了厚厚的铜银矿带",
-  "url": "",
-  "summary": "Marimaca Copper (TSX: MARI; ASX: MC2) 在智利安托法加斯塔地区的 Pampa Medina 切割了 216 米，铜品位接近 1%，同时步出钻探将铜银系统推进了 300 米...Marimica 后在智利 Pampa Medina 触及厚铜银带首先出现在 The Norther 上",
-  "pub_time": "2026-09-08T18:55:38Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "e8db25d882acc4bb12e367be4a3af36b",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "白银",
-   "铜"
-  ],
-  "en_title": "Marimaca hits thick copper-silver zone at Pampa Medina in Chile"
- },
- {
-  "title": "随着美伊和平谈判的预期减弱，原油价格飙升",
-  "url": "",
-  "summary": "(RTTNews) - 原油价格周二飙升，扭转了周五交易日的跌势，因为随着美军和伊朗继续相互攻击，对霍尔木兹海峡重新开放的预期逐渐减弱。",
-  "pub_time": "2026-09-08T18:36:55Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "8f77a5a49f4b6929795cfc10d08adf4f",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Crude Oil Soars As Expectations Of U.S.-Iran Peace Talks Diminish"
- },
- {
-  "title": "艾芬豪 (Ivanhoe) 的 Makoko 铜矿发现规模扩大了 30%",
-  "url": "",
-  "summary": "随着艾芬豪扩大钻探规模并准备 2027 年范围研究，刚果民主共和国的发现正朝着矿山规划的方向发展。艾芬豪 (Ivanhoe) 的巨型 Makoko 铜矿发现面积扩大了 30%，该消息首先出现在《北方矿工》(The Northern Miner) 上。",
-  "pub_time": "2026-09-08T18:35:00Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "42ce2f88431619281f8bfa2417391560",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "Ivanhoe’s giant Makoko copper find gets 30% bigger"
- },
- {
-  "title": "由于投资者等待通胀数据以及对美联储加息的押注增加，金价下跌",
-  "url": "",
-  "summary": "(RTTNews) - 金价周二走低，加剧了上周五交易日的跌幅，继上周强劲的就业数据以及持续不断的美国与伊朗关系重新升级之后，交易员加大了对美国可能加息的押注。",
-  "pub_time": "2026-09-08T17:39:57Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "bba20b3caf0489e079ff5fbe71f510e6",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "下滑"
-  ],
-  "en_title": "Gold Slides As Investors Await Inflation Data Amid Increasing Bets On Fed Rate Hike"
- },
- {
-  "title": "美国农业部规则规定了紧急和临时粮食储存的要求",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-08T17:28:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "d96854b53d41a51c249ddf8cf54ed7f0",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "谷物"
-  ],
-  "en_title": "USDA Rules Establish Requirements for Emergency and Temporary Grain Storage"
- },
- {
-  "title": "Mysteel日报：黑色金属期货震荡上涨运行",
-  "url": "https://news.mysteel.com/a/26090817/606F1C4D618B3458.html",
-  "summary": "",
-  "pub_time": "2026-09-08T17:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "d89484a3a42740ff8b8ff0df79437318",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  }
 ]
