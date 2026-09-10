@@ -1181,28 +1181,37 @@ def _audit_futures(items):
 def _fetch_em_boards():
     """real board_up/board_down (eastmoney main-continuous) for the five tracked mains; no-ID cloud source"""
     import time as _t
-    HOSTS = ["https://push2.eastmoney.com", "https://push2delay.eastmoney.com", "https://push2delay2.eastmoney.com"]
+    HOSTS = ["https://push2delay.eastmoney.com", "https://push2delay2.eastmoney.com", "https://push2.eastmoney.com"]
     HDRS = {"User-Agent": UA, "Referer": "https://quote.eastmoney.com/", "Connection": "close"}
     EM = {"LC0": ("225", "lcm"), "SI0": ("225", "sim"), "SF0": ("115", "SFM"), "SM0": ("115", "SMM"), "MA0": ("115", "MAM")}
     out = {}
     for k0, (mkt, code) in EM.items():
         got = None
-        for host in HOSTS:
+        last_err = ""
+        for _round in range(2):
             if got:
                 break
-            q = "%s/api/qt/stock/get?secid=%s.%s&fields=f43,f51,f52,f46,f170&fltt=2" % (host, mkt, code)
-            for _try in range(2):
+            for host in HOSTS:
+                if got:
+                    break
+                q = "%s/api/qt/stock/get?secid=%s.%s&fields=f43,f51,f52,f46,f170&fltt=2" % (host, mkt, code)
                 try:
                     req = urllib.request.Request(q, headers=HDRS)
                     d = json.loads(urllib.request.urlopen(req, timeout=15).read().decode("utf-8", "replace")).get("data") or {}
                     up = d.get("f51"); dn = d.get("f52"); last = d.get("f43"); opn = d.get("f46")
                     if up and dn and last:
                         got = {"board_up": float(up), "board_down": float(dn), "latest": float(last), "real_open": (float(opn) if opn else None)}
-                    break
-                except Exception:
+                    else:
+                        last_err = "%s empty(f43=%s f51=%s f52=%s)" % (host.split("//")[1], last, up, dn)
+                except Exception as e:
+                    last_err = "%s %s" % (host.split("//")[1], str(e)[:40])
                     _t.sleep(1.0)
+            if not got:
+                _t.sleep(2.0)
         out[k0] = got
-        _t.sleep(6.0)
+        if not got:
+            print("[WARN] em board miss %s %s: %s" % (k0, code, last_err))
+        _t.sleep(2.0)
     return out
 def _merge_em_boards(items, boards):
     bmap = {}
