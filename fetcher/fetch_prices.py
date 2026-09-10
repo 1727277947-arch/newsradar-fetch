@@ -963,6 +963,73 @@ def _mom_boost(pp, direct):
 
 
 
+def _kline_rows_for(sym):
+    """取某主连的日K rows(方案C 午板重算 ATR 用); 无则返回空表。"""
+    if not sym:
+        return []
+    key = sym[3:] if sym.startswith("nf_") else sym
+    return _fetch_kline(key) or []
+
+
+
+def _afternoon_plans(it, pp, rows):
+    """午后板点位置算(方案C: 同品种, 但基准换成午后实时价, 不再照抄晨板的今开)。
+
+    晨板以 real_open(今开)为进场基准; 午后行情已走出, 沿用今开会让"进场价"远离现价,
+    实际无法成交。这里以午后最新价 future 为基准重算多/空双方案:
+      - 取价方式保持"顺日线方向回踩现价承接"(多) / "跌破现价才空"(空, 条件式)
+      - 止损仍用该品种 ATR 历史回测自适应(不写死%)
+      - 止盈 2R 落袋, 并受当日真实板位约束
+    返回 (long_plan, short_plan, meta); 数据不足返回 (None, None, None)。"""
+    P = it.get("future")
+    if not P:
+        return (None, None, None)
+    try:
+        P = float(P)
+    except Exception:
+        return (None, None, None)
+    if P <= 0:
+        return (None, None, None)
+    bup = float(it.get("board_up") or 0.0)
+    bdn = float(it.get("board_down") or 0.0)
+    sl_l = _atr_adaptive_stop(rows, 1, P)
+    sl_s = _atr_adaptive_stop(rows, -1, P)
+    if not sl_l or not sl_s:
+        return (None, None, None)
+    # 多单: 以现价承接进场
+    e_l = P
+    s_l = float(sl_l["stop"])
+    r_l = e_l - s_l
+    t_l = e_l + 2 * r_l
+    if bup > 0:
+        t_l = min(t_l, bup * 0.995)
+    # 空单: 条件式, 跌破现价 0.1% 才成立
+    e_s = P * (1 - 0.001)
+    s_s = float(sl_s["stop"])
+    r_s = s_s - e_s
+    t_s = e_s - 2 * r_s
+    if bdn > 0:
+        t_s = max(t_s, bdn * 1.005)
+    # 板位约束下 R 仍须为正, 否则该方向无可做空间
+    long_plan = None
+    if r_l > 0 and t_l > e_l:
+        long_plan = {'entry': round(e_l, 3), 'sl': round(s_l, 3), 'tp': round(t_l, 3),
+                     'sl_pct': round(float(sl_l["stop_pct"]), 2), 'rr': 2.0,
+                     'basis': 'afternoon_last', 'k': sl_l["k"], 'hit_rate': sl_l["hit_rate"],
+                     'note': '午后重算·现价承接做多; 止损ATR自适应, 2R落袋'}
+    short_plan = None
+    if r_s > 0 and t_s < e_s:
+        short_plan = {'entry': round(e_s, 3), 'sl': round(s_s, 3), 'tp': round(t_s, 3),
+                      'sl_pct': round(float(sl_s["stop_pct"]), 2), 'rr': 2.0,
+                      'basis': 'afternoon_break', 'k': sl_s["k"], 'hit_rate': sl_s["hit_rate"],
+                      'note': '午后重算·跌破现价才空(条件式); 止损ATR自适应, 2R落袋'}
+    meta = {'basis_price': round(P, 3), 'atr': float(sl_l["atr"]),
+            'long_k': sl_l["k"], 'short_k': sl_s["k"],
+            'long_hit': sl_l["hit_rate"], 'short_hit': sl_s["hit_rate"]}
+    return (long_plan, short_plan, meta)
+
+
+
 def _atr_adaptive_stop(rows, direct, entry, lookback=60, atr_n=14, maxhit=0.25):
     """按品种自身波动定止损(不写死百分比): ATR=近atr_n日真实波幅(h-l)均值;
     在近lookback轮历史里回测不同止损系数k(k*ATR)的“被扫率”, 取被扫率<=maxhit的最小k。
@@ -1278,16 +1345,74 @@ if __name__ == "__main__":
         afternoon_recompute = True
 
     _msym = morning_pick.get("symbol") or morning_pick.get("name")
+    # 方案C 午板重算所需的按品种索引
+    _item_by_sym = {}
+    for _it0 in items:
+        _s0 = _it0.get("symbol")
+        if _s0:
+            _item_by_sym[_s0] = _it0
+    _pred_by_sym = {}
+    for _p0 in (predictions or []):
+        _s0 = (_p0.get("symbol") or "")
+        _pred_by_sym[_s0] = _p0
+        if _s0.startswith("nf_"):
+            _pred_by_sym[_s0[3:]] = _p0
 
     if afternoon_recompute:
+        # 方案C: 优先选与晨板不同的品种(多一个机会); 池中若只剩晨板那一只,
+        # 则仍盯同一品种, 但点位改用午后实时价重算 —— 不照抄晨板以"今开"为基准的价位。
         cand = [x for x in hf_picks if (x.get("symbol") or x.get("name")) != _msym]
-        afternoon_pick = cand[0] if cand else (hf_picks[0] if hf_picks else empty)
+        if cand:
+            afternoon_pick = cand[0]
+            afternoon_pick["plan_basis"] = "alt_symbol"
+        elif hf_picks:
+            # 同品种, 用午后实时价重算双方案
+            afternoon_pick = dict(hf_picks[0])
+            _asy = afternoon_pick.get("symbol") or afternoon_pick.get("name")
+            _ait = _item_by_sym.get(_asy)
+            _app = _pred_by_sym.get(_asy, {})
+            _arows = _kline_rows_for(_asy)
+            _pl, _ps, _pmeta = _afternoon_plans(_ait, _app, _arows) if (_ait and _arows) else (None, None, None)
+            if _pl or _ps:
+                afternoon_pick["long_plan"] = _pl
+                afternoon_pick["short_plan"] = _ps
+                afternoon_pick["plan_basis"] = "afternoon_last"
+                afternoon_pick["afternoon_meta"] = _pmeta
+                _ap = float((_pmeta or {}).get("basis_price") or 0.0)
+                if _ap > 0:
+                    # 锚点/止盈/离场/硬止损全部按午后价重算, 保持与盘面一致
+                    _ad = int(_app.get("direction") or 0)
+                    if _ad == 1:
+                        _atp = _ap * 1.03; _aex = _ap * (1 - 0.0015); _asl = _ap * (1 - 0.001)
+                    elif _ad == -1:
+                        _atp = _ap * 0.97; _aex = _ap * (1 + 0.0015); _asl = _ap * (1 + 0.001)
+                    else:
+                        _atp = _aex = _asl = 0.0
+                    afternoon_pick["anchor"] = round(_ap, 3)
+                    afternoon_pick["price"] = round(_ap, 3)
+                    if _atp: afternoon_pick["tp"] = round(_atp, 3)
+                    if _aex: afternoon_pick["exit_price"] = round(_aex, 3)
+                    if _asl: afternoon_pick["sl"] = round(_asl, 3)
+                    afternoon_pick["reason"] = ("午后重算 · 方向%s · 现价%s: 进场≈%s, 止盈%s, 反向%s离场, 硬止损%s" % (
+                        _app.get("label", ""),
+                        ("%g" % _ap) if _ap >= 1000 else ("%.3f" % _ap),
+                        ("%g" % _ap) if _ap >= 1000 else ("%.3f" % _ap),
+                        ("%g" % _atp) if _atp >= 1000 else ("%.3f" % _atp),
+                        ("%g" % _aex) if _aex >= 1000 else ("%.3f" % _aex),
+                        ("%g" % _asl) if _asl >= 1000 else ("%.3f" % _asl)))
+            else:
+                # 拿不到午后价/ATR -> 宁可留空, 也不照抄晨板价位充数
+                afternoon_pick = dict(empty)
+                afternoon_pick["plan_basis"] = "unavailable"
+        else:
+            afternoon_pick = empty
     else:
         afternoon_pick = _pa if ((_pa.get("date") == now_date) and (_pa.get("symbol") or _pa.get("name"))) else empty
-        if _msym and afternoon_pick.get("symbol") == _msym:
+        if _msym and afternoon_pick.get("symbol") == _msym and afternoon_pick.get("plan_basis") != "afternoon_last":
             alt = [x for x in hf_picks if x.get("symbol") != _msym]
             afternoon_pick = alt[0] if alt else afternoon_pick
-
+        # 方案C: 午后板盯同一品种, 但点位用午后实时价重算(不再照抄晨板以今开为基准的价位)。
+        # 仍优先选一只与晨板不同的品种(多一个机会); 若池中无第二只, 则同品种走"午后重算"。
     # 内参卡整流：晨/午只要本地缺 day_bias/day_ma 就从同标的 hf 行补（唯添元数据，不改变选股锁定逻辑）
     if hf_picks:
         bmap = { (x.get('symbol') or x.get('name')): x for x in hf_picks }
