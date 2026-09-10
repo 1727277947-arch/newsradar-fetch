@@ -1,5 +1,43 @@
 [
  {
+  "title": "Mysteel：18家车企公布8月产销数据",
+  "url": "https://news.mysteel.com/a/26091010/A3FFB8180883CD34.html",
+  "summary": "",
+  "pub_time": "2026-09-10T10:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "bd38a0fe31ddc7dda33b2559e42a47ed",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：18家车企公布8月产销数据，12家销量环比增长",
+  "url": "https://news.mysteel.com/a/26091010/3C92F4F50AD89DD1.html",
+  "summary": "",
+  "pub_time": "2026-09-10T10:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "b2e51e1095cdaceb5278d4227d41e30e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "油价“破百”背后：胡塞武装正猛烈攻击沙特！",
   "url": "https://news.mysteel.com/a/26091010/B35905E01419E915.html",
   "summary": "",
@@ -2102,25 +2140,6 @@
   "en_title": "Oil Prices Rally Above $100 As US-Iran Conflict Escalates"
  },
  {
-  "title": "Mysteel：全国暴雨预警信号汇总（9月9日）",
-  "url": "https://news.mysteel.com/a/26090909/A21E688A5778793F.html",
-  "summary": "",
-  "pub_time": "2026-09-09T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "a2560ec282e6f0911f18f682a0a0272b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "国家统计局：黄金饰品价格由上月下降2.6%转为上涨7.6%",
   "url": "https://news.mysteel.com/a/26090909/5F6FCB2F5BB42B19.html",
   "summary": "",
@@ -2451,44 +2470,6 @@
   "is_elite": false
  },
  {
-  "title": "周二阿根廷大豆现货价格上涨",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/09/2418455013.shtml",
-  "summary": "",
-  "pub_time": "2026-09-09T00:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "6f6818426d249d3d791eabb1e00ccba4",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
-  "title": "美国小麦上涨，因周末未达成和平解决方案",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/09/2229987693.shtml",
-  "summary": "",
-  "pub_time": "2026-09-09T00:00:00Z",
-  "source": "粮油小麦",
-  "_cn": true,
-  "dedup_key": "16a15d390e49f6b3d72bbcefefd0c3ea",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油小麦"
-  ],
-  "is_elite": false
- },
- {
   "title": "9月9日进口油菜籽到国内港口CF报价",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/09/0544655301.shtml",
   "summary": "",
@@ -2523,6 +2504,25 @@
    "中文",
    "国内",
    "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "周二阿根廷大豆现货价格上涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/09/2418455013.shtml",
+  "summary": "",
+  "pub_time": "2026-09-09T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "d9f493c0a6c05684679e630282b7489f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
   ],
   "is_elite": false
  },
@@ -2919,6 +2919,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "美国小麦上涨，因周末未达成和平解决方案",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/09/2229987693.shtml",
+  "summary": "",
+  "pub_time": "2026-09-09T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "e4a8d3294ca48dea60fd8b6739792651",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "粮油首页"
