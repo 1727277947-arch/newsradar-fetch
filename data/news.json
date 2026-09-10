@@ -1,5 +1,58 @@
 [
  {
+  "title": "棉花行业也对工人签证延迟发出警告",
+  "url": "",
+  "summary": "澳大利亚棉花协会和新南威尔士州农民协会等机构本周在堪培拉呼吁加快处理占澳大利亚农业工作岗位约七分之一的工人的签证申请。",
+  "pub_time": "2026-09-10T22:39:23Z",
+  "source": "GrainCentral",
+  "_cat": "农产品",
+  "dedup_key": "51a5b40689fb454209507ddda758c85a",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "棉花"
+  ],
+  "en_title": "Cotton joins sectors raising alarm over delays in visas for workers"
+ },
+ {
+  "title": "油价上涨让墨西哥撤回了数十亿美元的墨西哥石油公司支持",
+  "url": "",
+  "summary": "尽管墨西哥国家石油公司继续努力偿还债务和提高产量，但墨西哥政府仍将对这家国有能源巨头的财政援助削减高达 70%。该决定基于该公司将受益于美国和以色列推动的石油和天然气价格上涨的预期",
+  "pub_time": "2026-09-10T22:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "0211261d2f53ce0080b648bd1520efae",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价"
+  ],
+  "en_title": "Higher Oil Prices Let Mexico Pull Back Billions in Pemex Support"
+ },
+ {
   "title": "OPEC 预计 2027 年石油需求将爆炸式增长六倍",
   "url": "",
   "summary": "欧佩克目前预计，全球石油需求增长将从今年的每日 38 万桶跃升至 2027 年的每日 236 万桶，一年内增长六倍多。该卡特尔在 9 月月度石油市场报告中下调了 2026 年需求增长预测，将总消费量下调至 2026 年。",
@@ -407,7 +460,7 @@
  },
  {
   "title": "Mysteel晚餐：宝钢上调10月出厂价，炼焦煤矿山产量增加",
-  "url": "https://news.mysteel.com/a/26091017/691B73B4AA952501.html",
+  "url": "https://news.mysteel.com/a/26091017/E8F23338354F1C0A.html",
   "summary": "",
   "pub_time": "2026-09-10T17:00:00Z",
   "source": "上海钢联Mysteel",
@@ -418,25 +471,6 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "关键矿产日报：两部门整治工业品低价无序竞争，铜铝社库持续下降",
-  "url": "https://news.mysteel.com/a/26091017/E90ECEEF49185192.html",
-  "summary": "",
-  "pub_time": "2026-09-10T17:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "992306633376da4ab3f4bcaac3545c9a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -456,6 +490,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "关键矿产日报：两部门整治工业品低价无序竞争，铜铝社库持续下降",
+  "url": "https://news.mysteel.com/a/26091017/9BC9739A82D20C76.html",
+  "summary": "",
+  "pub_time": "2026-09-10T17:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "992306633376da4ab3f4bcaac3545c9a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -997,31 +1050,6 @@
   "is_elite": false
  },
  {
-  "title": "TotalEnergies 将在短短三个月内将新的安哥拉发现项目上线",
-  "url": "",
-  "summary": "TotalEnergies 在安哥拉近海取得了新发现，并购买了靠近运营中心的两个新勘探区块的运营权益，因为国际巨头正在重返安哥拉水域进行勘探，以利用现有基础设施。 TotalEnergies周四表示",
-  "pub_time": "2026-09-10T12:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "9efc9e540c34bf46d8fc0f0b8dde28b9",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "TotalEnergies to Bring New Angola Discovery Online in Just Three Months"
- },
- {
   "title": "MMG 因英美镍交易面临欧盟反垄断警告",
   "url": "",
   "summary": "MMG 以 5 亿美元收购英美资源集团 (LSE: AAL) 巴西镍资产的交易正面临另一个障碍，预计欧洲监管机构将正式阐明对这家中国控股矿商提议的竞争担忧。",
@@ -1046,31 +1074,6 @@
    "镍"
   ],
   "en_title": "MMG faces EU antitrust warning over Anglo nickel deal"
- },
- {
-  "title": "清洁氢能投资突破 1300 亿美元",
-  "url": "",
-  "summary": "中东冲突期间的石油和天然气供应冲击已加速全球对清洁氢的累计投资超过 570 个项目，超过 1300 亿美元，因为能源安全已成为工业增长和脱碳目标的关键驱动力。",
-  "pub_time": "2026-09-10T11:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "242dd04b597f25710b1cc06ace3b5c6b",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Clean Hydrogen Investment Tops $130 Billion"
  },
  {
   "title": "7月份澳大利亚小麦出口出现反季节增长",
@@ -1099,33 +1102,6 @@
    "出口"
   ],
   "en_title": "Australian wheat exports post unseasonal jump in July"
- },
- {
-  "title": "ACG 购买项目以提高土耳其铜产量",
-  "url": "",
-  "summary": "ACG Metals（伦敦证券交易所股票代码：ACG）正在购买土耳其采矿许可证，其中包括 Keşkek 金矿项目，可将该公司附近的 Gediktepe 矿的铜当量年产量翻一番，达到 40,000 吨。 ... ACG 收购旨在提高土耳其铜产量的项目后，该项目首先出现在《The Northern Miner》上。",
-  "pub_time": "2026-09-10T11:00:23Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "bb4d5b46648f580296065e7184d0b05a",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "铜",
-   "产量"
-  ],
-  "en_title": "ACG buys project to boost copper output in Turkey"
  },
  {
   "title": "Mysteel午报：钢价弱势下跌，焦炭期货跌逾1%",
@@ -1735,6 +1711,31 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
+ },
+ {
+  "title": "种植者团体称百草枯调查可能会破坏 APVMA",
+  "url": "",
+  "summary": "粮食机构表示，参议院周二决定对 APVMA 为何没有禁止百草枯展开调查，这损害了监管机构的权威。",
+  "pub_time": "2026-09-10T05:56:10Z",
+  "source": "GrainCentral",
+  "_cat": "农产品",
+  "dedup_key": "6384f74393a4e4eecceeb89ebaacfa71",
+  "score": 84,
+  "priority": "P1",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品"
+  ],
+  "en_title": "Grower bodies say paraquat inquiry risks undermining APVMA"
  },
  {
   "title": "Feedgrain Focus ：南方感受到新作物的重量",
@@ -3013,25 +3014,6 @@
   "is_elite": false
  },
  {
-  "title": "布伦特原油期货自7月24日以来首次突破每桶100美元",
-  "url": "https://news.mysteel.com/a/26090915/276EDAEC7823DB2B.html",
-  "summary": "",
-  "pub_time": "2026-09-09T15:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "b7a6a562c3f233d950c6e48b96497027",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "有色持仓日报：沪铜涨0.74%，东证期货增持超1.3千手空单",
   "url": "https://news.mysteel.com/a/26090915/6A8E69EC0A39E013.html",
   "summary": "",
@@ -3158,6 +3140,31 @@
    "铜"
   ],
   "en_title": "Eldorado’s Skouries turns years of setbacks into copper"
+ },
+ {
+  "title": "播客：“你必须在西非”——Fortuna 首席执行官 Ganoza 谈塞内加尔并购",
+  "url": "",
+  "summary": "本周的节目中，Fortuna Mining 总裁兼首席执行官豪尔赫·加诺萨 (Jorge Ganoza) 与主持人阿德里安·波科贝利 (Adrian Pocobelli) 就该公司最近收购塞内加尔 Bambadji 黄金勘探项目进行了对话……播客后：“你必须在西非”——Fortuna 首席执行官加诺萨 (Ganoza) 谈塞内加尔并购",
+  "pub_time": "2026-09-09T12:30:38Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "3a4b85a772401623f2b9b6527812f7a5",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Podcast: ‘You have to be in West Africa’—Fortuna CEO Ganoza on Senegal M&A"
  },
  {
   "title": "螺纹钢期货高位震荡，钢价涨幅收窄",
