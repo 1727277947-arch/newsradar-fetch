@@ -133,6 +133,36 @@
   "is_elite": false
  },
  {
+  "title": "随着布伦特原油价格飙升，美国原油库存下降",
+  "url": "",
+  "summary": "美国能源情报署(EIA)周四公布的最新数据显示，截至9月4日当周，美国原油库存减少40万桶。根据政府数据，商业库存减少至 4.241 亿桶",
+  "pub_time": "2026-09-10T16:14:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "0a31e82fa769ca19674033b4098584ac",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "布伦特油价",
+   "价",
+   "下跌",
+   "库存"
+  ],
+  "en_title": "U.S. Crude Inventories Fall As Brent Prices Soar"
+ },
+ {
   "title": "证监会副主席李超：健全期货市场品种布局，提升大宗商品价格影响力",
   "url": "https://news.mysteel.com/a/26091016/BEBDBE56EEBF7C81.html",
   "summary": "",
@@ -2214,32 +2244,6 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "加拿大石油公司进一步进军美国墨西哥湾沿岸市场",
-  "url": "",
-  "summary": "几十年来，美国一直是加拿大最重要的能源合作伙伴，吸收了加拿大大部分石油和天然气生产。在满足国内炼油需求后，加拿大约80%的原油产量出口，其中约90%销往美国，这得益于综合石油基础设施建设",
-  "pub_time": "2026-09-09T23:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "9e63b7dad3149c9b4de7370154bc5612",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Canadian Oil Pushes Deeper Into U.S. Gulf Coast Market"
  },
  {
   "title": "Troilus将价值增加三倍至$ 32亿，接近融资",
