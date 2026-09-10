@@ -578,13 +578,13 @@ def predict_next_open(symlist):
         else:
             ma5 = ma20 = ma60 = None
             day_bias = 'mix'
-        today_d, kline_open, kline_close = recent[-1][0], recent[-1][1], recent[-1][2]
-        prev_close_kline = recent[-2][2]  # 前一日收盘(日盘收盘)
+        today_d, kline_open, kline_close = recent[-1][0], recent[-1][1], recent[-1][4]  # (d,o,h,l,c,..) 第5列才是收盘
+        prev_close_kline = recent[-2][4]  # 前一日收盘(第5列c; 此前误用[2]=h)
         # 近 N 日隔夜跳空统计（今开=含夜盘开盘 vs 前日收盘）
         N = 20
         gaps = []
         for i in range(max(1, len(recent) - N), len(recent)):
-            c_prev = recent[i - 1][2]
+            c_prev = recent[i - 1][4]
             o_i = recent[i][1]
             if c_prev and c_prev > 0:
                 gaps.append((o_i - c_prev) / c_prev * 100.0)
@@ -679,6 +679,11 @@ def predict_next_open(symlist):
                   (name, fmt_inline(today_open), fmt_inline(ref), today_gap, bias, night_txt,
                    score, board, ru, pos * 100, vol, streak,
                    fmt_inline(pred_open), fmt_inline(lo), fmt_inline(hi)))
+        # 按品种波动自适应止损(ATR14 + 近60轮历史回测扫损率): 供同日多/空两套方案共用
+        atrL = _atr_adaptive_stop(recent, 1, today_open)
+        atrS = _atr_adaptive_stop(recent, -1, today_open)
+        sl_long_pct = (atrL or {}).get('stop_pct')
+        sl_short_pct = (atrS or {}).get('stop_pct')
         preds.append({
             "symbol": key, "name": name, "category": cat,
             "date": today_d, "today_open": round(today_open, 3),
@@ -694,6 +699,10 @@ def predict_next_open(symlist):
             "limit_vol": round(vol, 2), "limit_streak": int(streak),
             "day_ma": (round(ma5, 2), round(ma20, 2), round(ma60, 2)) if ma5 else None,
             "day_bias": day_bias,
+            "atr": (atrL or atrS or {}).get("atr"),
+            "sl_long_pct": sl_long_pct, "sl_short_pct": sl_short_pct,
+            "hit_long": (atrL or {}).get("hit_rate"), "hit_short": (atrS or {}).get("hit_rate"),
+            "stop_detail_long": atrL, "stop_detail_short": atrS,
             "reason": reason,
         })
     # 打板场景：优先看打板潜力分最高的
@@ -954,6 +963,53 @@ def _mom_boost(pp, direct):
 
 
 
+def _atr_adaptive_stop(rows, direct, entry, lookback=60, atr_n=14, maxhit=0.25):
+    """按品种自身波动定止损(不写死百分比): ATR=近atr_n日真实波幅(h-l)均值;
+    在近lookback轮历史里回测不同止损系数k(k*ATR)的“被扫率”, 取被扫率<=maxhit的最小k。
+    返回 dict(atr,k,stop,stop_pct,hit_rate,tested); 数据不足返回 None。entry=拟进场价。"""
+    try:
+        rr=[r for r in rows if len(r)>=5 and float(r[2])>0 and float(r[3])>0]
+        if len(rr) < atr_n + 5:
+            return None
+        hist=rr[:-1]
+        if len(hist) < atr_n + 5:
+            return None
+        def hl(x): return abs(float(x[2]) - float(x[3]))
+        atr=sum(hl(x) for x in hist[-atr_n:]) / float(atr_n)
+        if atr<=0 or not entry or float(entry)<=0:
+            return None
+        entry=float(entry)
+        ks=[0.4,0.6,0.8,1.0,1.2,1.5,2.0]
+        seg=hist[-lookback:]
+        best=None
+        for k in ks:
+            hit=0; tot=0
+            for x in seg:
+                o=float(x[1]); h=float(x[2]); l=float(x[3])
+                if o<=0 or h<=l: continue
+                tot+=1
+                dist=k*atr
+                if direct>0:
+                    if (o-dist) >= l: hit+=1
+                else:
+                    if (o+dist) <= h: hit+=1
+            if tot<10: continue
+            hr=hit/float(tot)
+            rec={'k':k,'hit_rate':round(hr,3),'tested':tot}
+            if hr<=maxhit:
+                best=rec; break
+            if best is None or hr<best['hit_rate']:
+                best=rec
+        if not best:
+            return None
+        k=best['k']; dist=k*atr
+        stop=(entry-dist) if direct>0 else (entry+dist)
+        return {'atr':round(atr,2),'k':k,'stop':round(stop,3),
+                'stop_pct':round(dist/entry*100.0,2),'hit_rate':best['hit_rate'],'tested':best['tested']}
+    except Exception:
+        return None
+
+
 def build_hf_picks(items, preds=None):
     """今日打板推荐（每天只做一次）：优先 波动大 + 方向强 + 小资金可开，给出具体进场/止损/止盈位。
     口径：只用当天有明显方向(做多=追强/做空=追跌)的品种，波幅优先；弱鸡观望的不推；一只是今日主推。"""
@@ -1038,6 +1094,31 @@ def build_hf_picks(items, preds=None):
             tp = anchor * (1 + TP); sl = anchor * (1 - HS); ex = anchor * (1 - EXIT); lev = "追强做多"
         else:
             tp = anchor * (1 - TP); sl = anchor * (1 + HS); ex = anchor * (1 + EXIT); lev = "追跌做空"
+        # 同日双方案(仅该打板品种): 一个多单一个空单; 止损按品种ATR历史回测自适应(不写死%), 止盈2R落袋(+板位约束)
+        _ro = float(it.get('real_open') or op_a or anchor or 0.0)
+        _ulp = float(pp.get('sl_long_pct') or 0.8)
+        _usp = float(pp.get('sl_short_pct') or 0.8)
+        _bup = float(it.get('board_up') or 0.0)
+        _bdn = float(it.get('board_down') or 0.0)
+        if _ro > 0:
+            _e_l = _ro
+            _s_l = _e_l * (1 - _ulp / 100.0)
+            _r_l = _e_l - _s_l
+            _t_l = _e_l + 2 * _r_l
+            if _bup > 0: _t_l = min(_t_l, _bup * 0.995)
+            long_plan = {'entry': round(_e_l, 3), 'sl': round(_s_l, 3), 'tp': round(_t_l, 3),
+                         'sl_pct': round(_ulp, 2), 'rr': 2.0, 'basis': 'real_open',
+                         'note': '顺日线多·回踩今开承接; 止损ATR自适应, 2R落袋'}
+            _e_s = _ro * (1 - 0.001)
+            _s_s = _e_s * (1 + _usp / 100.0)
+            _r_s = _s_s - _e_s
+            _t_s = _e_s - 2 * _r_s
+            if _bdn > 0: _t_s = max(_t_s, _bdn * 1.005)
+            short_plan = {'entry': round(_e_s, 3), 'sl': round(_s_s, 3), 'tp': round(_t_s, 3),
+                          'sl_pct': round(_usp, 2), 'rr': 2.0, 'basis': 'break_real_open',
+                          'note': '跌破今开才空(条件式); 止损ATR自适应, 2R落袋'}
+        else:
+            long_plan = None; short_plan = None
         picks.append({
             "symbol": sym, "name": it.get("name"), "category": it.get("category"),
             "unit": it.get("unit"), "price": round(fut, 3),
@@ -1045,6 +1126,7 @@ def build_hf_picks(items, preds=None):
             "day_range_pct": round(rng, 2), "limit_score": ls,
             "board": pp.get("board", "一般/观望"),
             "dual": _open_dual(it, pp),
+            "long_plan": long_plan, "short_plan": short_plan,
             "real_open": it.get("real_open"),
             "day_bias": pp.get("day_bias") or "mix",
             "day_ma": pp.get("day_ma"),
