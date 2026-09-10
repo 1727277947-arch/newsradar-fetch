@@ -1,5 +1,32 @@
 [
  {
+  "title": "OPEC 预计 2027 年石油需求将爆炸式增长六倍",
+  "url": "",
+  "summary": "欧佩克目前预计，全球石油需求增长将从今年的每日 38 万桶跃升至 2027 年的每日 236 万桶，一年内增长六倍多。该卡特尔在 9 月月度石油市场报告中下调了 2026 年需求增长预测，将总消费量下调至 2026 年。",
+  "pub_time": "2026-09-10T21:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "af3d0b48e30aa524e28d76a66beeb035",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "需求"
+  ],
+  "en_title": "OPEC Sees Oil Demand Growth Explode Sixfold in 2027"
+ },
+ {
   "title": "Osisko 的 Gaspé 矿区铜矿含铜量为 4.7%",
   "url": "",
   "summary": "Osisko Metals（多伦多证券交易所代码：OM；美国场外交易代码：OMZNF）在魁北克省东部的 Gaspé Copper 项目进行的新钻探扩大了过去生产矿山的足迹，展示了附近更高品位矿化的潜力。",
@@ -1074,6 +1101,33 @@
   "en_title": "Australian wheat exports post unseasonal jump in July"
  },
  {
+  "title": "ACG 购买项目以提高土耳其铜产量",
+  "url": "",
+  "summary": "ACG Metals（伦敦证券交易所股票代码：ACG）正在购买土耳其采矿许可证，其中包括 Keşkek 金矿项目，可将该公司附近的 Gediktepe 矿的铜当量年产量翻一番，达到 40,000 吨。 ... ACG 收购旨在提高土耳其铜产量的项目后，该项目首先出现在《The Northern Miner》上。",
+  "pub_time": "2026-09-10T11:00:23Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "bb4d5b46648f580296065e7184d0b05a",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "铜",
+   "产量"
+  ],
+  "en_title": "ACG buys project to boost copper output in Turkey"
+ },
+ {
   "title": "Mysteel午报：钢价弱势下跌，焦炭期货跌逾1%",
   "url": "https://news.mysteel.com/a/26091011/725DCF33147CFDA7.html",
   "summary": "",
@@ -1221,32 +1275,6 @@
    "锡"
   ],
   "en_title": "Rio Tinto wins Aboriginal consent for Winu copper mine"
- },
- {
-  "title": "中东航运风险飙升，油轮运价创历史新高",
-  "url": "",
-  "summary": "由于进出中东的航运风险不断升级，促使贸易商和油轮运营商采取效率低下且成本更高的贸易路线，油轮运价已跃升至历史新高。虽然原油供应确实存在，但通过霍尔木兹海峡运输",
-  "pub_time": "2026-09-10T10:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "40e440f14b3bba5ed22f0c134319b0a9",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Oil Tanker Rates Hit Record Highs as Middle East Shipping Risks Soar"
  },
  {
   "title": "Mysteel：18家车企公布8月产销数据，12家销量环比增长",
@@ -3130,31 +3158,6 @@
    "铜"
   ],
   "en_title": "Eldorado’s Skouries turns years of setbacks into copper"
- },
- {
-  "title": "播客：“你必须在西非”——Fortuna 首席执行官 Ganoza 谈塞内加尔并购",
-  "url": "",
-  "summary": "本周的节目中，Fortuna Mining 总裁兼首席执行官豪尔赫·加诺萨 (Jorge Ganoza) 与主持人阿德里安·波科贝利 (Adrian Pocobelli) 就该公司最近收购塞内加尔 Bambadji 黄金勘探项目进行了对话……播客后：“你必须在西非”——Fortuna 首席执行官加诺萨 (Ganoza) 谈塞内加尔并购",
-  "pub_time": "2026-09-09T12:30:38Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "3a4b85a772401623f2b9b6527812f7a5",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "Podcast: ‘You have to be in West Africa’—Fortuna CEO Ganoza on Senegal M&A"
  },
  {
   "title": "螺纹钢期货高位震荡，钢价涨幅收窄",
