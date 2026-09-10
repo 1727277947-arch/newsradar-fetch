@@ -152,6 +152,86 @@
   "is_elite": false
  },
  {
+  "title": "Osisko 的 Gaspé 矿区铜矿含铜量为 4.7%",
+  "url": "",
+  "summary": "Osisko Metals（多伦多证券交易所代码：OM；美国场外交易代码：OMZNF）在魁北克省东部的 Gaspé Copper 项目进行的新钻探扩大了过去生产矿山的足迹，展示了附近更高品位矿化的潜力。",
+  "pub_time": "2026-09-10T15:48:29Z",
+  "source": "NorthernMiner",
+  "_cat": "能源",
+  "dedup_key": "b33733182c7afc12c93d3a0cfdf5a4df",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气",
+   "铜"
+  ],
+  "en_title": "Osisko hits 4.7% copper beneath Gaspé workings"
+ },
+ {
+  "title": "塞内加尔将向投资者提供 109 个石油和天然气区块",
+  "url": "",
+  "summary": "塞内加尔能源和石油部长 El Hadji Abdourahmane Diouf 表示，塞内加尔将向本地和外国投资者提供多达 109 个石油和天然气区块。这位官员告诉当地电视频道，该西非国家 113 个石油和天然气区块中目前只有 4 个签订了合同。 “其余",
+  "pub_time": "2026-09-10T15:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "8fbcd101582a817feb95fe5e0c164104",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "天然气"
+  ],
+  "en_title": "Senegal to Offer 109 Oil and Gas Blocks to Investors"
+ },
+ {
+  "title": "二叠纪天然气今年已连续 118 天一文不值",
+  "url": "",
+  "summary": "在德克萨斯州佩科斯郊外，雪佛龙正准备建造一座发电厂，以解决二叠纪盆地多年来一直面临的问题，即它生产的天然气远远超过附近任何人愿意支付的价格。雪佛龙子公司 Energy Forge One 与 M 签署了一份为期 20 年的协议",
+  "pub_time": "2026-09-10T15:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "3bc12e8c80f6daa243d9a7be1cb5e8c8",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气"
+  ],
+  "en_title": "Permian Gas Has Been Worth Less Than Nothing for 118 Days This Year"
+ },
+ {
   "title": "光大期货：螺纹需求整体表现仍较为平淡，但库存压力得到明显消化",
   "url": "https://news.mysteel.com/a/26091015/50C5A96194E9D37B.html",
   "summary": "",
@@ -188,6 +268,85 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
+ },
+ {
+  "title": "瑞士黄金禁令挤压苏丹战时经济",
+  "url": "",
+  "summary": "伯尔尼加强了对战时收入主要来源的制裁，同时限制用于提取金属的化学品。",
+  "pub_time": "2026-09-10T14:52:00Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "42b7fb79bdf7bf248f004dab64731ae2",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Swiss gold ban squeezes Sudan’s war economy"
+ },
+ {
+  "title": "IEA：伊朗战争阻碍液化天然气供应，全球煤炭需求将创历史新高",
+  "url": "",
+  "summary": "国际能源署（IEA）周四在一份新报告中表示，霍尔木兹海峡封锁导致液化天然气价格飙升，促使各经济体转向替代能源，推动今年煤炭需求再创新高。液化天然气价格飙升推动了包括以下在内的市场",
+  "pub_time": "2026-09-10T14:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "cac3d6f206e60cf40945945e264eb653",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "煤炭",
+   "供应",
+   "需求"
+  ],
+  "en_title": "IEA: Global Coal Demand Set to Hit Record High as Iran War Chokes LNG Supply"
+ },
+ {
+  "title": "Aya 将 Boumadine 价值翻倍至 $3.5B",
+  "url": "",
+  "summary": "Aya Gold & Silver（多伦多证交所，纳斯达克股票代码：AYA）已将其摩洛哥 Boumadine 项目的税后净现值增加了一倍多，达到 35 亿美元（48 亿加元），同时筹集初始资金... Aya 将 Boumadine 价值翻倍至 $3.5B 的帖子首先出现在《北方矿工》上。",
+  "pub_time": "2026-09-10T14:15:12Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "bf4c65517ad4d57b52cde3fcc17bde3e",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Aya doubles Boumadine value to $3.5B"
  },
  {
   "title": "乌克兰袭击黑海港口，俄罗斯袭击摩尔多瓦边境",
@@ -2083,84 +2242,6 @@
   "en_title": "Canadian Oil Pushes Deeper Into U.S. Gulf Coast Market"
  },
  {
-  "title": "大宗商品牛市刚刚进入危险的新阶段",
-  "url": "",
-  "summary": "读者现在已经熟悉了大宗商品的普遍上涨，能源、农产品和金属大幅上涨，高盛前大宗商品主管杰夫·柯里(Jeff Currie)今年夏天警告称，实体经济日益稀缺。彭博商品指数已攀升至",
-  "pub_time": "2026-09-09T22:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "贵金属",
-  "dedup_key": "d2599ec20e765912713f90c4ee6ce88d",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "The Commodity Bull Market Just Entered a Dangerous New Phase"
- },
- {
-  "title": "油价突破 100 美元，美国原油库存小幅走低",
-  "url": "",
-  "summary": "美国石油协会(API)估计，截至9月4日当周，美国原油库存减少30万桶。此前一周，美国原油库存减少260万桶。不包括SPR的商业原油库存损失略高于4800万",
-  "pub_time": "2026-09-09T21:02:17Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "37862cc8006db270140d7d71a39738ff",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "库存"
-  ],
-  "en_title": "U.S. Crude Stocks Edge Lower as Oil Tops $100"
- },
- {
-  "title": "欧洲各地负电价不断上涨",
-  "url": "",
-  "summary": "如果欧洲想避免另一场能源危机，它迫切需要提高其能源储存能力。 2022 年弗拉基米尔·普京 (Vladimir Putin) 入侵乌克兰后，欧盟在建设自身能源生产能力方面取得了重大进展，以摆脱对能源的依赖。",
-  "pub_time": "2026-09-09T21:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "943660e7d1b863f96de1892116876c06",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "价"
-  ],
-  "en_title": "Negative Power Prices Are Piling Up Across Europe"
- },
- {
   "title": "Troilus将价值增加三倍至$ 32亿，接近融资",
   "url": "",
   "summary": "Troilus Mining (TSX: TLG; US-OTC: CHXMF)在魁北克的同名铜金项目的一项新研究由于详细的工程设计、扩大的储备和... Troilus后期价值增加三倍至32亿$ ，资金最先出现在The Northern M",
@@ -2185,31 +2266,6 @@
    "原油"
   ],
   "en_title": "Troilus triples value to $3.2B, closes in on funding"
- },
- {
-  "title": "美国政府关注委内瑞拉的关键矿产",
-  "url": "",
-  "summary": "在签署了唐纳德·特朗普总统所称的“世界历史上最大的石油协议”，以取得委内瑞拉 650 亿桶已探明原油储量的多数控制权后，美国政府将目光投向了这个南美国家潜在的巨大黄金和重要矿产资源。",
-  "pub_time": "2026-09-09T20:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "贵金属",
-  "dedup_key": "0ac7dcae0a96b35e14b2812f773755bf",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "U.S. Administration Eyes Venezuela’s Critical Minerals"
  },
  {
   "title": "2026 年 TSX30 矿业股占创纪录的 60%",
@@ -3911,33 +3967,6 @@
  {
   "title": "马里马卡 (Marimica) 在智利潘帕麦地那 (Pampa Medina) 发现了厚厚的铜银矿带",
   "url": "",
-  "summary": "随着马里马卡 (Marimica) 推动其附近的氧化矿床走向建设决策，此次钻探扩大了潘帕麦地那 (Pampa Medina) 的规模。",
-  "pub_time": "2026-09-08T18:55:38Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "00ab6d3273a79eb08e97b5eb35107c82",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "白银",
-   "铜"
-  ],
-  "en_title": "Marimaca hits thick copper-silver zone at Pampa Medina in Chile"
- },
- {
-  "title": "马里马卡 (Marimica) 在智利潘帕麦地那 (Pampa Medina) 发现了厚厚的铜银矿带",
-  "url": "",
   "summary": "Marimaca Copper (TSX: MARI; ASX: MC2) 在智利安托法加斯塔地区的 Pampa Medina 切割了 216 米，铜品位接近 1%，同时步出钻探将铜银系统推进了 300 米...Marimica 后在智利 Pampa Medina 触及厚铜银带首先出现在 The Norther 上",
   "pub_time": "2026-09-08T18:55:38Z",
   "source": "NorthernMiner",
@@ -4042,32 +4071,6 @@
   "en_title": "Gold Slides As Investors Await Inflation Data Amid Increasing Bets On Fed Rate Hike"
  },
  {
-  "title": "力拓从三菱嘉能可收购Aurukun铝土矿项目",
-  "url": "",
-  "summary": "该交易达成之际，力拓希望到 2030 年结束其位于澳大利亚北领地戈夫铝土矿的运营。力拓从嘉能可收购 Aurukun 铝土矿项目后，三菱首先出现在《北方矿业》上。",
-  "pub_time": "2026-09-08T17:33:33Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "39820cd5f419e74819c629cb9b09ecc1",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡"
-  ],
-  "en_title": "Rio Tinto buys Aurukun bauxite project from Glencore, Mitsubishi"
- },
- {
   "title": "美国农业部规则规定了紧急和临时粮食储存的要求",
   "url": "",
   "summary": "",
@@ -4106,90 +4109,6 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "分析师最爱：惠顿贵金属被评为首选金属",
-  "url": "",
-  "summary": "根据 Metals Channel 的数据，对主要经纪公司的分析师推荐进行的研究显示，在组成 Metals Channel 全球矿业巨头指数的 50 只股票中，Wheaton Precious Metals Corp（股票代码：WPM）在经纪商分析师中平均排名第 6。陈金属",
-  "pub_time": "2026-09-08T15:50:53Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "94eb13ee64a9b7595a03d5ed9b708533",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "金属",
-   "小麦"
-  ],
-  "en_title": "Analyst Favorites: Wheaton Precious Metals Ranks As a Top Metals Pick"
- },
- {
-  "title": "有色持仓日报：沪铜涨1.29%，国泰君安增持超1.4千手多单",
-  "url": "https://news.mysteel.com/a/26090815/67C8660AE7630DC2.html",
-  "summary": "",
-  "pub_time": "2026-09-08T15:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "7d7b543d1d14cc7ef2d2789b737169a4",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色持仓日报：期螺飘红，中信期货增持2.2万手多单",
-  "url": "https://news.mysteel.com/a/26090815/224F0764F271F1FA.html",
-  "summary": "",
-  "pub_time": "2026-09-08T15:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "6cc169674ad89ba75101ecf105c91f1d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：汇兑损失拖累利润，上半年工程机械企业增收难增利",
-  "url": "https://news.mysteel.com/a/26090815/5EA5BB256218AA3E.html",
-  "summary": "",
-  "pub_time": "2026-09-08T15:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "726378e5d7916c6f01520e3f96c22d77",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
