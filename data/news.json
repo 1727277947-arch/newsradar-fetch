@@ -19,6 +19,34 @@
   "is_elite": false
  },
  {
+  "title": "原油价格下跌，美联储加息押注增加，金价走高",
+  "url": "",
+  "summary": "(RTTNews) - 周五金价几乎持平，因为投资者权衡今天的通胀数据，这增强了对美联储加息的押注，而有报道称伊朗和海湾合作委员会即将召开会议讨论重新开放问题",
+  "pub_time": "2026-09-11T17:42:04Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "d4e807c74796158b23c821b0c38c2c2b",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "原油",
+   "价"
+  ],
+  "en_title": "Gold Ticks Higher Amid Decline In Crude Oil Prices, Increasing Fed Rate Hike Bets"
+ },
+ {
   "title": "油价突破 100 美元，美国石油钻井平台数量增加",
   "url": "",
   "summary": "贝克休斯周五公布的新数据显示，本周美国活跃的石油和天然气钻机总数有所增加，美国总钻机数量增至 591 座，比去年同期增加 52 座。活跃石油钻井平台数量增加1个，达到450个",
@@ -953,31 +981,6 @@
    "黄金"
   ],
   "en_title": "Galantas exits mired Omagh gold project in Ireland"
- },
- {
-  "title": "随着中东战争升级，霍尔木兹航运量锐减",
-  "url": "",
-  "summary": "据路透社援引 Kpler 截至周五早些时候的初步船舶跟踪数据报道，周四通过霍尔木兹海峡的船舶流量降至个位数，低于 10 天平均 15 艘船舶双向通过该海峡的水平。只有七艘船，两艘出港，五艘内航",
-  "pub_time": "2026-09-11T10:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "70cfed58bca057fa59c2a0cdcfddbb1f",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Hormuz Shipping Traffic Plunges as Middle East War Escalates"
  },
  {
   "title": "随着油价在近期飙升后回落，金价小幅走高",
@@ -3890,56 +3893,5 @@
    "金属"
   ],
   "en_title": "Precious metals still have something to prove: strategist"
- },
- {
-  "title": "海湾战争加剧导致霍尔木兹海峡关闭，原油价格飙升",
-  "url": "",
-  "summary": "(RTTNews) - 由于美国和伊朗继续相互攻击，中东冲突持续，同时降低了投资者对霍尔木兹海峡重新开放的预期，原油价格周三飙升，重新引发长期通胀担忧",
-  "pub_time": "2026-09-09T18:35:42Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "5fb7a48258dc6a9b959b87454381c163",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Crude Oil Soars As Gulf War Intensifies, Leaving The Strait Of Hormuz Closed"
- },
- {
-  "title": "Agnico 以 3200 万美元的价格收购 Vizsla 22% 的阿拉斯加股权",
-  "url": "",
-  "summary": "这种结构使 Agnico 能够接触到这些项目，同时将大部分成本和风险转移给初级公司。",
-  "pub_time": "2026-09-09T18:19:07Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "e55e3bcf2e39f7c7e3a7d7da4cb17f3f",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Agnico takes 22% of Vizsla in $32M Alaska deal"
  }
 ]
