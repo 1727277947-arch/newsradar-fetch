@@ -1,5 +1,57 @@
 [
  {
+  "title": "矿业在卡尼 1T 美元的投资者推介书中处于领先地位",
+  "url": "",
+  "summary": "加拿大总理马克·卡尼下周将在多伦多向全球投资者提交的投资招股说明书中，矿业项目占据主导地位，据报道，矿业项目占其 167 个机会中的 63 个。 LithiumBank……矿业领先后卡尼的 1T 美元投资者宣传手册首先出现在《北方矿工》上",
+  "pub_time": "2026-09-11T19:49:59Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "934c3a757f4aa0af1f15f8eca5f8ba36",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铅"
+  ],
+  "en_title": "Mining leads Carney’s $1T investor pitchbook"
+ },
+ {
+  "title": "霍尔木兹危机结束预期升温，获利回吐导致原油暴跌",
+  "url": "",
+  "summary": "(RTTNews) - 原油价格在最近几个交易日飙升后回落，周五因有报道称伊朗与海湾合作委员会成员国可能会举行会议后预计霍尔木兹海峡可能重新开放。",
+  "pub_time": "2026-09-11T18:41:15Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "ccc6c8bc1b7a41d769652599175b27df",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Crude Oil Slumps Amid Rising Expectations Of An End To Hormuz Crisis, Profit-taking"
+ },
+ {
   "title": "霍尔木兹传来新消息？伊朗与海湾六国下周会晤 油价应声走低",
   "url": "https://news.mysteel.com/a/26091118/9A9030ACE1BA2447.html",
   "summary": "",
@@ -774,33 +826,6 @@
    "基本金属"
   ],
   "en_title": "Mineral tracking a must for industry credibility: OECD"
- },
- {
-  "title": "中国9月份原油进口量将保持在720万桶/日",
-  "url": "",
-  "summary": "中国9月份的原油进口量有望与8月份大致相同，在原油价格再次飙升至每桶100美元以上之际，延续了发货量恢复的趋势。 Kpler 的初步船舶跟踪数据显示，中国原油进口量约为 720 万条",
-  "pub_time": "2026-09-11T11:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "00da7ad014673cb93fc6e052582632a7",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "进口"
-  ],
-  "en_title": "China's Crude Imports Set to Hold at 7.2 Million Bpd in September"
  },
  {
   "title": "智利法案将外汇资金用于下一次矿业繁荣",
@@ -2861,33 +2886,6 @@
   "en_title": "Rio Tinto wins Aboriginal consent for Winu copper mine"
  },
  {
-  "title": "力拓获得威努铜矿原住民同意",
-  "url": "",
-  "summary": "力拓（ASX、LON、纽约证券交易所代码：RIO）已为其西澳大利亚州 Winu 铜金项目获得原住民同意，推进该矿商最重要的近期增长项目之一。协议...力拓赢得原住民同意开发威努铜矿的消息首先出现在《北方报》上",
-  "pub_time": "2026-09-10T10:42:00Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "91d8ccb3d3d996f2724749f5e9ecc156",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "铜",
-   "锡"
-  ],
-  "en_title": "Rio Tinto wins Aboriginal consent for Winu copper mine"
- },
- {
   "title": "黄金在低迷的交易中小幅走低；美国通胀数据成为焦点",
   "url": "",
   "summary": "(RTTNews) - 由于担心油价上涨将加剧通胀并加大全球央行加息的压力，周四金价小幅走低。",
@@ -3841,57 +3839,5 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "2026 年 TSX30 矿业股占创纪录的 60%",
-  "url": "",
-  "summary": "由于黄金、白银和关键矿产推动多伦多证券交易所股价连续三年强劲上涨，矿业股占据了 18 个席位。",
-  "pub_time": "2026-09-09T19:52:26Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "958ef87891079fdf151b841df8114d8a",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "库存"
-  ],
-  "en_title": "Mining stocks claim record 60% of 2026 TSX30"
- },
- {
-  "title": "贵金属仍有待证明：策略师",
-  "url": "",
-  "summary": "黄金、白银和矿产股纷纷上涨，但图表模式让 The Technical Traders 首席执行官 Chris Vermeulen 不相信。",
-  "pub_time": "2026-09-09T19:26:37Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "c5bec079305395f00de4bc92a37ba3bc",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "金属"
-  ],
-  "en_title": "Precious metals still have something to prove: strategist"
  }
 ]
