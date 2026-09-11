@@ -1466,6 +1466,41 @@ if __name__ == "__main__":
     _pa = prev.get("afternoon_pick") or {}
     prev_date = _pm.get("date") or ""
     morning_locked = (prev_date == now_date)
+
+    # ===== 陈旧晨板护栏 =====
+    # 晨板(03:30 推的那份)按设计要锁一整天，不能被盘中重算覆盖——这是对的。
+    # 但如果那份晨板本身是坏的(典型：anchor 与当日盘面严重脱节，早期版本混用过新浪陈旧价，
+    # 出现 anchor=3085 而盘面今开=3550)，锁住它就等于让错误数据挂一整天，用户看到的就是
+    # "打板数据跟行情反着来"。这里做一次自洽体检：anchor 必须落在当日[低,高]区间内，
+    # 且与最新价偏离不超过 5%；不满足就判为陈旧，丢弃并改用本次实时重算的结果。
+    if morning_locked and _pm.get("symbol"):
+        try:
+            _itc = None
+            for _x in items:
+                if _x.get("symbol") == _pm.get("symbol"):
+                    _itc = _x
+                    break
+            if _itc:
+                _a_old = float(_pm.get("anchor") or 0.0)
+                _lo_c = float(_itc.get("day_low") or 0.0)
+                _hi_c = float(_itc.get("day_high") or 0.0)
+                _fut_c = float(_itc.get("future") or 0.0)
+                _stale = False
+                if _a_old <= 0:
+                    _stale = True
+                elif _hi_c > 0 and _lo_c > 0 and not (_lo_c <= _a_old <= _hi_c):
+                    _stale = True
+                elif _fut_c > 0 and abs(_a_old - _fut_c) / _fut_c > 0.05:
+                    _stale = True
+                if _stale:
+                    print("[WARN] stale morning_pick dropped: %s anchor=%s vs future=%s range=[%s,%s]" %
+                          (_pm.get("symbol"), _a_old, _fut_c, _lo_c, _hi_c))
+                    _pm = {}
+                    morning_locked = False
+                    prev_date = ""
+        except Exception as _e:
+            print("[WARN] stale check:", str(_e)[:60])
+
     empty = {"name": "", "symbol": ""}
 
     if BJT < 10:                                  # morning / early-session window
