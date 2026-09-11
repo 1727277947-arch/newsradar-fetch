@@ -1,5 +1,81 @@
 [
  {
+  "title": "由于美国炼油厂已达到极限，白宫正在考虑制定国防生产法案",
+  "url": "",
+  "summary": "白宫正在考虑利用《国防生产法》增加美国炼油产能，目前美国炼油厂已开工率达到 98%，柴油价格首次突破每加仑 6 美元。唐纳德·特朗普总统在最近与几乎所有人士会面期间讨论了该提案",
+  "pub_time": "2026-09-11T20:21:04Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "2e0fb5bdee3a65685c88da5a4a74960a",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "产量"
+  ],
+  "en_title": "White House Weighs Defense Production Act as U.S. Refineries Maxed Out"
+ },
+ {
+  "title": "值得注意的 200 天移动平均线交叉 - ASM",
+  "url": "",
+  "summary": "在周五的交易中，Avino Silver & Gold Mines Ltd（代码：ASM）的股价跌破 6.97 美元的 200 日移动平均线，易手低至每股 6.43 美元。阿维诺银金矿业有限公司 (Avino Silver & Gold Mines Ltd) 股价当天下跌约 9.5%。图表b",
+  "pub_time": "2026-09-11T20:20:19Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "ead12af44fd51bba1a5e0ac295c061c0",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Notable Two Hundred Day Moving Average Cross - ASM"
+ },
+ {
+  "title": "值得注意的 200 天移动平均线交叉 - AG",
+  "url": "",
+  "summary": "在周五的交易中，First Majestic Silver Corp（股票代码：AG）的股价跌破 19.85 美元的 200 日移动平均线，易手低至每股 19.43 美元。 First Majestic Silver Corp 股价当天下跌约 3%。下图显示了",
+  "pub_time": "2026-09-11T20:02:22Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "4f1a0f38ef0c0698e98ef3547bc2bdd2",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Notable Two Hundred Day Moving Average Cross - AG"
+ },
+ {
   "title": "矿业在卡尼 1T 美元的投资者推介书中处于领先地位",
   "url": "",
   "summary": "加拿大总理马克·卡尼下周将在多伦多向全球投资者提交的投资招股说明书中，矿业项目占据主导地位，据报道，矿业项目占其 167 个机会中的 63 个。 LithiumBank……矿业领先后卡尼的 1T 美元投资者宣传手册首先出现在《北方矿工》上",
@@ -511,6 +587,33 @@
   "en_title": "EU scrutiny of Anglo-MMG nickel deal tests China stance"
  },
  {
+  "title": "欧盟对英美资源集团镍交易的审查考验中国立场",
+  "url": "",
+  "summary": "中国支持的 MMG (HKG: 1208) 敦促欧洲监管机构批准其以 5 亿美元（6.9 亿加元）收购英美资源集团 (LSE: AAL) 巴西镍业务的案例，这可能会考验... 欧盟对英美资源集团镍交易的审查测试了中国的立场",
+  "pub_time": "2026-09-11T15:07:00Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "9f395865a0c3d85ed8315802db81dbfd",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "镍",
+   "锡"
+  ],
+  "en_title": "EU scrutiny of Anglo-MMG nickel deal tests China stance"
+ },
+ {
   "title": "钢市大家谈：旺季需求兑现不足，钢价窄幅偏弱震荡",
   "url": "https://news.mysteel.com/a/26091115/58EACEB4271C3D0D.html",
   "summary": "",
@@ -775,32 +878,6 @@
    "供应"
   ],
   "en_title": "WTI Breaks $100 as Middle East Supply Crisis Deepens"
- },
- {
-  "title": "能源方面：石油市场已至“拐点”",
-  "url": "",
-  "summary": "Energy Aspects创始人兼市场情报总监阿姆里塔·森(Amrita Sen)向CNB表示，随着全球库存下降加速，以及中国恢复购买比春季大幅增加的原油量，原油价格有望进一步上涨，趋势轨迹也将走高。",
-  "pub_time": "2026-09-11T12:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "be2d4059e4ac773697a12b8b7c91dc87",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "原油",
-   "能源"
-  ],
-  "en_title": "Energy Aspects: Oil Market Has Reached an \"Inflection Point\""
  },
  {
   "title": "矿物追踪是行业信誉的必要条件：经合组织",
@@ -2727,32 +2804,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "MMG 因英美镍交易面临欧盟反垄断警告",
-  "url": "",
-  "summary": "MMG 以 5 亿美元收购英美资源集团 (LSE: AAL) 巴西镍资产的交易正面临另一个障碍，预计欧洲监管机构将正式阐明对这家中国控股矿商提议的竞争担忧。",
-  "pub_time": "2026-09-10T12:03:00Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "e84b63a3f67612dcf48d7c5834f0c48d",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "镍"
-  ],
-  "en_title": "MMG faces EU antitrust warning over Anglo nickel deal"
  },
  {
   "title": "7月份澳大利亚小麦出口出现反季节增长",
