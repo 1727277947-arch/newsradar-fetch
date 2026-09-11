@@ -133,33 +133,6 @@
   "is_elite": false
  },
  {
-  "title": "美国小麦协会在泰国举办领导力论坛",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-11T16:31:00Z",
-  "source": "Grainnet",
-  "_cat": "基本金属",
-  "dedup_key": "db49d1d0ce26c9b268bd09d5fce17466",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铅",
-   "小麦"
-  ],
-  "en_title": "U.S. Wheat Associates Holds Leadership Forum in Thailand"
- },
- {
   "title": "沙特阿拉伯的重要石油绕道面临威胁",
   "url": "",
   "summary": "胡塞武装袭击威胁沙特石油出口，布伦特原油价格触及 105 美元，中东原油价格飙升至 120 美元。 2026 年 9 月 11 日星期五，胡塞武装对沙特阿拉伯石油基础设施的袭击提醒石油市场，中东供应可能比以前更少，潜在的供应可能会减少。",
@@ -295,6 +268,33 @@
    "下跌"
   ],
   "en_title": "Talon drops plan to build North Dakota mill for Tamarack"
+ },
+ {
+  "title": "欧盟对英美资源集团镍交易的审查考验中国立场",
+  "url": "",
+  "summary": "随着中国对海外资源的所有权受到越来越严格的审查，布鲁塞尔正在权衡镍铁供应风险。",
+  "pub_time": "2026-09-11T15:07:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "20773cc08d52f899b60bb81babe0e4c7",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "镍",
+   "锡"
+  ],
+  "en_title": "EU scrutiny of Anglo-MMG nickel deal tests China stance"
  },
  {
   "title": "钢市大家谈：旺季需求兑现不足，钢价窄幅偏弱震荡",
@@ -2171,32 +2171,6 @@
   "en_title": "Kinross Gold Breaks Below 200-Day Moving Average - Notable for KGC"
  },
  {
-  "title": "巴尔的摩港开设谷物转运设施",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-10T19:51:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "367ed6fea17e29bd3180ad4dd41335fd",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "谷物"
-  ],
-  "en_title": "Port of Baltimore Opens Grain Transloading Facility"
- },
- {
   "title": "随着铜、银价格暴跌和金价下滑，矿业股涨势突然停止",
   "url": "",
   "summary": "有报道称白宫尚未决定精炼铜关税，而自由港 1000 亿美元的估值又重新发挥作用，自由港麦克莫兰 (Freeport-McMoRan) 和泰克资源 (Teck Resources) 带领铜生产商下跌 7%。",
@@ -3890,36 +3864,6 @@
    "需求"
   ],
   "en_title": "Gold Advances As Traders Weigh Oil-Linked Inflation Concerns Against Safe Haven Demand"
- },
- {
-  "title": "由于中国进口下滑，铜价跌破纪录，矿山供应首次",
-  "url": "",
-  "summary": "中国8月份进口了382,000吨铜，这是六年来最弱的8月份，而Collahuasi正在重启一座封存的浸出厂，因为铜价为14,000美元用于支付酸费。",
-  "pub_time": "2026-09-09T17:34:20Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "09e9349e04d1dfdc1a1b3c0d5e1a5805",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "价",
-   "下跌",
-   "供应",
-   "进口"
-  ],
-  "en_title": "Copper price pauses below record as China’s imports slump, mine supply heads for first drop since 2017"
  },
  {
   "title": "每日钢市：四川云南钢厂减产，短期钢价或涨跌有限",
