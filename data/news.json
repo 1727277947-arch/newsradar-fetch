@@ -95,25 +95,6 @@
   "is_elite": false
  },
  {
-  "title": "碳酸锂期货主力跳水跌近10%",
-  "url": "https://news.mysteel.com/a/26091110/78045AF99BBA9072.html",
-  "summary": "",
-  "pub_time": "2026-09-11T10:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "d11478979d5b24251ce4dab77cf2d432",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "自然资源部：我国稀土、钨、锡等14种矿产储量居世界第一",
   "url": "https://news.mysteel.com/a/26091110/F0EFF84FC301B86C.html",
   "summary": "",
@@ -126,6 +107,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "碳酸锂期货主力跳水跌近10%",
+  "url": "https://news.mysteel.com/a/26091110/BBEC373B811D7A12.html",
+  "summary": "",
+  "pub_time": "2026-09-11T10:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "d11478979d5b24251ce4dab77cf2d432",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -178,25 +178,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "eefaa22b34235977f122c8581595413b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "宝山钢铁取得生产节奏管控相关专利",
-  "url": "https://news.mysteel.com/a/26091109/EE2A407B8F685BBD.html",
-  "summary": "",
-  "pub_time": "2026-09-11T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "97b292221bb29382ab0130e5cb378adc",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1243,36 +1224,6 @@
   "en_title": "US Natural Gas Market Verging on Record Growth"
  },
  {
-  "title": "随着铜、银价格暴跌和金价下滑，矿业股涨势突然停止",
-  "url": "",
-  "summary": "有报道称白宫尚未决定精炼铜关税，而自由港 1000 亿美元的估值又重新发挥作用，自由港麦克莫兰 (Freeport-McMoRan) 和泰克资源 (Teck Resources) 带领铜生产商下跌 7%。",
-  "pub_time": "2026-09-10T18:36:38Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "e2f7d0459bfcf60550299c2e655121ed",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "白银",
-   "铜",
-   "价",
-   "上涨"
-  ],
-  "en_title": "Mining stocks rally comes to abrupt halt as copper, silver prices plummet and gold slides"
- },
- {
   "title": "由于对中东石油长期中断的担忧日益加剧，原油价格飙升",
   "url": "",
   "summary": "(RTTNews) - 原油价格周四飙升，继前两个交易日的上涨后，近期美国与伊朗关系升级后，供应中断担忧加剧。此外，美国总统唐纳德·特朗普表示，战争可能会拖延联合国。",
@@ -1450,36 +1401,6 @@
   "is_elite": false
  },
  {
-  "title": "IEA：霍尔木兹海峡关闭推动天然气价格上涨，煤炭需求将增长 1.2%",
-  "url": "",
-  "summary": "国际能源署的最新报告显示，在中东持续冲突之后，煤炭需求重新回升。",
-  "pub_time": "2026-09-10T16:45:51Z",
-  "source": "Mining.com",
-  "_cat": "能源",
-  "dedup_key": "f6ef8952b6c4ec38e39258dcad70ca34",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气",
-   "煤炭",
-   "价",
-   "上涨",
-   "需求"
-  ],
-  "en_title": "Coal demand to rise 1.2% as Hormuz closure drives gas prices: IEA"
- },
- {
   "title": "随着布伦特原油价格飙升，美国原油库存下降",
   "url": "",
   "summary": "美国能源情报署(EIA)周四公布的最新数据显示，截至9月4日当周，美国原油库存减少40万桶。根据政府数据，商业库存减少至 4.241 亿桶",
@@ -1556,33 +1477,6 @@
   "is_elite": false
  },
  {
-  "title": "Osisko 的 Gaspé 矿区铜矿含铜量为 4.7%",
-  "url": "",
-  "summary": "该公司扩大了加斯佩铜矿的占地面积，表明旧矿区附近有可能开采更高品位的矿物。",
-  "pub_time": "2026-09-10T15:54:39Z",
-  "source": "Mining.com",
-  "_cat": "能源",
-  "dedup_key": "4678959a4ca4530470a4488a06b861c2",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气",
-   "铜"
-  ],
-  "en_title": "Osisko hits 4.7% copper beneath Gaspé workings"
- },
- {
   "title": "塞内加尔将向投资者提供 109 个石油和天然气区块",
   "url": "",
   "summary": "塞内加尔能源和石油部长 El Hadji Abdourahmane Diouf 表示，塞内加尔将向本地和外国投资者提供多达 109 个石油和天然气区块。这位官员告诉当地电视频道，该西非国家 113 个石油和天然气区块中目前只有 4 个签订了合同。 “其余",
@@ -1657,32 +1551,6 @@
  {
   "title": "瑞士黄金禁令挤压苏丹战时经济",
   "url": "",
-  "summary": "伯尔尼加强了对战时收入主要来源的制裁，同时限制用于提取金属的化学品。",
-  "pub_time": "2026-09-10T14:52:00Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "42b7fb79bdf7bf248f004dab64731ae2",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Swiss gold ban squeezes Sudan’s war economy"
- },
- {
-  "title": "瑞士黄金禁令挤压苏丹战时经济",
-  "url": "",
   "summary": "瑞士已开始禁止购买和进口苏丹黄金，并限制采矿供应，以切断该国三年战争的资金来源。瑞士黄金禁令挤压苏丹的战时经济首先出现在《北方矿工》上。",
   "pub_time": "2026-09-10T14:52:00Z",
   "source": "NorthernMiner",
@@ -1733,31 +1601,6 @@
    "需求"
   ],
   "en_title": "IEA: Global Coal Demand Set to Hit Record High as Iran War Chokes LNG Supply"
- },
- {
-  "title": "Aya 将 Boumadine 价值翻倍至 $3.5B",
-  "url": "",
-  "summary": "摩洛哥的 Boumadine 项目显示出 93% 的 IRR 和 0.7 年的投资回收期，黄金为 3,500 美元/盎司，白银为 50 美元/盎司。",
-  "pub_time": "2026-09-10T14:15:12Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "0c513f633d4bb647b6f599909d51f116",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "Aya doubles Boumadine value to $3.5B"
  },
  {
   "title": "伊朗战争迅速消耗全球石油库存，EIA上调今明两年油价预测",
@@ -1926,33 +1769,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "力拓获得威努铜矿原住民同意",
-  "url": "",
-  "summary": "与 Nyangumarta 集团达成的协议扫清了一个关键障碍，力拓的目标是到 2030 年西澳大利亚矿山首次投产。",
-  "pub_time": "2026-09-10T10:42:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "e7209acd5faec4d808522d5c7bf45895",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "锡"
-  ],
-  "en_title": "Rio Tinto wins Aboriginal consent for Winu copper mine"
  },
  {
   "title": "力拓获得威努铜矿原住民同意",
@@ -3134,58 +2950,6 @@
   "en_title": "Troilus triples value to $3.2B, closes in on funding"
  },
  {
-  "title": "2026 年 TSX30 矿业股占创纪录的 60%",
-  "url": "",
-  "summary": "由于黄金、白银和关键矿产推动多伦多证券交易所股价连续三年强劲上涨，矿业股占据了 18 个席位。",
-  "pub_time": "2026-09-09T19:52:26Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "958ef87891079fdf151b841df8114d8a",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "库存"
-  ],
-  "en_title": "Mining stocks claim record 60% of 2026 TSX30"
- },
- {
-  "title": "贵金属仍有待证明：策略师",
-  "url": "",
-  "summary": "黄金、白银和矿产股纷纷上涨，但图表模式让 The Technical Traders 首席执行官 Chris Vermeulen 不相信。",
-  "pub_time": "2026-09-09T19:26:37Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "c5bec079305395f00de4bc92a37ba3bc",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "金属"
-  ],
-  "en_title": "Precious metals still have something to prove: strategist"
- },
- {
   "title": "海湾战争加剧导致霍尔木兹海峡关闭，原油价格飙升",
   "url": "",
   "summary": "(RTTNews) - 由于美国和伊朗继续相互攻击，中东冲突持续，同时降低了投资者对霍尔木兹海峡重新开放的预期，原油价格周三飙升，重新引发长期通胀担忧",
@@ -3214,31 +2978,6 @@
  {
   "title": "Agnico 以 3200 万美元的价格收购 Vizsla 22% 的阿拉斯加股权",
   "url": "",
-  "summary": "这种结构使 Agnico 能够接触到这些项目，同时将大部分成本和风险转移给初级公司。",
-  "pub_time": "2026-09-09T18:19:07Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "e55e3bcf2e39f7c7e3a7d7da4cb17f3f",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Agnico takes 22% of Vizsla in $32M Alaska deal"
- },
- {
-  "title": "Agnico 以 3200 万美元的价格收购 Vizsla 22% 的阿拉斯加股权",
-  "url": "",
   "summary": "Vizsla Copper（多伦多证券交易所代码：VCU；美国场外交易代码：VCUFF）同意以价值 3200 万美元（2330 万美元）的股份收购 Agnico Eagle Mines（多伦多证券交易所、纽约证券交易所：AEM）位于阿拉斯加的 Delta 和 Helm Bay 项目，...Agnico 在 3200 万美元的阿拉斯加交易中收购 Vizsla 22% 的消息首先出现在《The Northern Miner》上。",
   "pub_time": "2026-09-09T18:19:07Z",
   "source": "NorthernMiner",
@@ -3260,33 +2999,6 @@
    "基本金属"
   ],
   "en_title": "Agnico takes 22% of Vizsla in $32M Alaska deal"
- },
- {
-  "title": "Apollo 的 410 万盎司黄金资源集体股价下跌",
-  "url": "",
-  "summary": "Collective 的一位高管表示，有机会通过其正在进行的积极钻探计划来扩大阿波罗项目。",
-  "pub_time": "2026-09-09T18:12:36Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "dca6e5c939dbacbcfd12ca6095eb8819",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "下滑"
-  ],
-  "en_title": "Collective shares slide on Apollo’s 4.1M-oz gold resource"
  },
  {
   "title": "Apollo 410 万盎司黄金资源集体下滑",
@@ -3345,36 +3057,6 @@
   "en_title": "Gold Advances As Traders Weigh Oil-Linked Inflation Concerns Against Safe Haven Demand"
  },
  {
-  "title": "由于中国进口下滑，铜价跌破纪录，矿山供应首次",
-  "url": "",
-  "summary": "中国8月份进口了382,000吨铜，这是六年来最弱的8月份，而Collahuasi正在重启一座封存的浸出厂，因为铜价为14,000美元用于支付酸费。",
-  "pub_time": "2026-09-09T17:34:20Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "09e9349e04d1dfdc1a1b3c0d5e1a5805",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "价",
-   "下跌",
-   "供应",
-   "进口"
-  ],
-  "en_title": "Copper price pauses below record as China’s imports slump, mine supply heads for first drop since 2017"
- },
- {
   "title": "每日钢市：四川云南钢厂减产，短期钢价或涨跌有限",
   "url": "https://news.mysteel.com/a/26090917/35EF3460EC00E8D2.html",
   "summary": "",
@@ -3430,32 +3112,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "可追溯性对于关键矿产供应链至关重要，报告",
-  "url": "",
-  "summary": "经合组织在四个国家对锂和镍进行的一项新研究发现跟踪分散，并呼吁共享标准和数据使用。",
-  "pub_time": "2026-09-09T16:47:56Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "313f940ada0d24561330708cf82fb37f",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "供应"
-  ],
-  "en_title": "Traceability is essential for the critical minerals supply chain, report"
  },
  {
   "title": "有色持仓日报：沪铜涨0.74%，东证期货增持超1.3千手空单",
