@@ -19,6 +19,60 @@
   "is_elite": false
  },
  {
+  "title": "油价突破 100 美元，美国石油钻井平台数量增加",
+  "url": "",
+  "summary": "贝克休斯周五公布的新数据显示，本周美国活跃的石油和天然气钻机总数有所增加，美国总钻机数量增至 591 座，比去年同期增加 52 座。活跃石油钻井平台数量增加1个，达到450个",
+  "pub_time": "2026-09-11T17:19:17Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "541c92cb97a20407af48355943a6a8e6",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "上涨"
+  ],
+  "en_title": "U.S. Oil Rig Count Rises as Oil Tops $100"
+ },
+ {
+  "title": "无人机袭击沙特阿拉伯重要的东西石油管道",
+  "url": "",
+  "summary": "据美国有线电视新闻网 (CNN) 援引两名知情美国官员的消息称，沙特阿拉伯重要的东西向石油管道系统周四遭到袭击，多个泵站遭到袭击，可能威胁到该国最重要的原油出口路线之一。确认之后",
+  "pub_time": "2026-09-11T17:04:36Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "67ba5134c13c9ebc59bcd9a073fedf78",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "罢工"
+  ],
+  "en_title": "Drone Strikes Hit Saudi Arabia’s Vital East-West Oil Pipeline"
+ },
+ {
   "title": "Mysteel晚餐：沙钢永钢最新调价",
   "url": "https://news.mysteel.com/a/26091117/B629AF24BE2FDA83.html",
   "summary": "",
@@ -131,6 +185,86 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
+ },
+ {
+  "title": "嘉能可和摩科瑞争夺委内瑞拉铝冶炼厂交易",
+  "url": "",
+  "summary": "据称，贸易巨头正在探索一项交易，以重振经历多年电力短缺和投资不足的 Venalum。",
+  "pub_time": "2026-09-11T16:50:53Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "134052b4f0fb1c14a5fd3705fcb33e24",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铝"
+  ],
+  "en_title": "Glencore, Mercuria compete for Venezuela aluminum smelter deal"
+ },
+ {
+  "title": "了解凯撒铝业如何跻身分析师首选金属之列",
+  "url": "",
+  "summary": "根据 Metals Channel 的数据，对主要券商的分析师推荐进行的研究显示，Kaiser Aluminium Corp.（代码：KALU）在构成 Metals Channel 全球矿业巨头指数的 50 只股票中平均排名第 30 名。金属频道 G",
+  "pub_time": "2026-09-11T16:33:59Z",
+  "source": "Nasdaq商品",
+  "_cat": "基本金属",
+  "dedup_key": "1301c3d197ca01ed85fa13ac9b851fb8",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铝",
+   "金属"
+  ],
+  "en_title": "See How Kaiser Aluminum Ranks Among Analysts' Top Metals Picks"
+ },
+ {
+  "title": "美国小麦协会在泰国举办领导力论坛",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-09-11T16:31:00Z",
+  "source": "Grainnet",
+  "_cat": "基本金属",
+  "dedup_key": "db49d1d0ce26c9b268bd09d5fce17466",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铅",
+   "小麦"
+  ],
+  "en_title": "U.S. Wheat Associates Holds Leadership Forum in Thailand"
  },
  {
   "title": "沙特阿拉伯的重要石油绕道面临威胁",
@@ -1073,33 +1207,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "随着中东冲突升级，油价可能突破 120 美元",
-  "url": "",
-  "summary": "据路透社援引加拿大皇家银行资本市场的赫利玛·克罗夫特警告称，如果中东战斗继续下去，到今年年底布伦特原油价格可能会突破每桶 120 美元。这位分析师表示：“通过曼德海峡的海上交通因胡塞武装的推进而受到严重威胁。”时间",
-  "pub_time": "2026-09-11T08:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "8aa485c7d238844c266915801c453471",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价"
-  ],
-  "en_title": "Oil Prices Could Top $120 as Middle East Conflict Escalates"
  },
  {
   "title": "沙特申报8月原油产量跌至1990年以来最低",
@@ -2169,6 +2276,32 @@
    "黄金"
   ],
   "en_title": "Kinross Gold Breaks Below 200-Day Moving Average - Notable for KGC"
+ },
+ {
+  "title": "巴尔的摩港开设谷物转运设施",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-09-10T19:51:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "367ed6fea17e29bd3180ad4dd41335fd",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "谷物"
+  ],
+  "en_title": "Port of Baltimore Opens Grain Transloading Facility"
  },
  {
   "title": "随着铜、银价格暴跌和金价下滑，矿业股涨势突然停止",
@@ -3808,118 +3941,5 @@
    "基本金属"
   ],
   "en_title": "Agnico takes 22% of Vizsla in $32M Alaska deal"
- },
- {
-  "title": "Apollo 的 410 万盎司黄金资源集体股价下跌",
-  "url": "",
-  "summary": "Collective 的一位高管表示，有机会通过其正在进行的积极钻探计划来扩大阿波罗项目。",
-  "pub_time": "2026-09-09T18:12:36Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "dca6e5c939dbacbcfd12ca6095eb8819",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "下滑"
-  ],
-  "en_title": "Collective shares slide on Apollo’s 4.1M-oz gold resource"
- },
- {
-  "title": "交易商权衡与石油相关的通胀担忧和避险需求，黄金上涨",
-  "url": "",
-  "summary": "(RTTNews) - 周三金价小幅走高，部分抵消了前两个交易日的损失，因黄金从避险需求中获得了一些支撑，同时投资者评估了油价飙升的影响以及随之而来的通胀压力",
-  "pub_time": "2026-09-09T17:37:51Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "f6d93b06b4a664c5cb6ec99d0724e314",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "原油",
-   "走强",
-   "需求"
-  ],
-  "en_title": "Gold Advances As Traders Weigh Oil-Linked Inflation Concerns Against Safe Haven Demand"
- },
- {
-  "title": "每日钢市：四川云南钢厂减产，短期钢价或涨跌有限",
-  "url": "https://news.mysteel.com/a/26090917/35EF3460EC00E8D2.html",
-  "summary": "",
-  "pub_time": "2026-09-09T17:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "9596704689c209045b21e937fd9da784",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "关键矿产日报：西芒杜铁矿马瑞巴亚港启动调试，布油涨破100美元",
-  "url": "https://news.mysteel.com/a/26090917/93732EDE1B5AE9A2.html",
-  "summary": "",
-  "pub_time": "2026-09-09T17:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "c140fc843c034993c5ce791662504ac8",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel日报：黑色金属期货震荡下跌",
-  "url": "https://news.mysteel.com/a/26090917/C6FEE86979D8382A.html",
-  "summary": "",
-  "pub_time": "2026-09-09T17:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "fac5258f9bb77c0cbe97fef441b70993",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  }
 ]
