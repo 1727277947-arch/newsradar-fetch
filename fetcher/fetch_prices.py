@@ -1246,11 +1246,14 @@ def _audit_futures(items):
     print('audited futures rows consistent =', rows)
 
 def _fetch_em_boards():
-    """real board_up/board_down (eastmoney main-continuous) for the five tracked mains; no-ID cloud source"""
+    """东财主连全套行情(板价+高低+昨结+今开)。打板计算以本函数为唯一可信源:
+    东财的主连语义与 f43/f44/f45/f46/f60/f51/f52 同源自洽; 新浪 nf_XX0 是连续合约,
+    换月期与东财价差可达数百点, 两源混用会算出与实际盘面完全不符的进场价。"""
     import time as _t
     HOSTS = ["https://push2delay.eastmoney.com", "https://push2delay2.eastmoney.com", "https://push2.eastmoney.com"]
     HDRS = {"User-Agent": UA, "Referer": "https://quote.eastmoney.com/", "Connection": "close"}
     EM = {"LC0": ("225", "lcm"), "SI0": ("225", "sim"), "SF0": ("115", "SFM"), "SM0": ("115", "SMM"), "MA0": ("115", "MAM")}
+    FIELDS = "f43,f44,f45,f46,f51,f52,f58,f60,f170"
     out = {}
     for k0, (mkt, code) in EM.items():
         got = None
@@ -1261,13 +1264,22 @@ def _fetch_em_boards():
             for host in HOSTS:
                 if got:
                     break
-                q = "%s/api/qt/stock/get?secid=%s.%s&fields=f43,f51,f52,f46,f170&fltt=2" % (host, mkt, code)
+                q = "%s/api/qt/stock/get?secid=%s.%s&fields=%s&fltt=2" % (host, mkt, code, FIELDS)
                 try:
                     req = urllib.request.Request(q, headers=HDRS)
                     d = json.loads(urllib.request.urlopen(req, timeout=15).read().decode("utf-8", "replace")).get("data") or {}
-                    up = d.get("f51"); dn = d.get("f52"); last = d.get("f43"); opn = d.get("f46")
-                    if up and dn and last:
-                        got = {"board_up": float(up), "board_down": float(dn), "latest": float(last), "real_open": (float(opn) if opn else None)}
+                    last = d.get("f43"); hi = d.get("f44"); lo = d.get("f45")
+                    opn = d.get("f46"); up = d.get("f51"); dn = d.get("f52")
+                    settle = d.get("f60")
+                    if last and up and dn:
+                        got = {
+                            "board_up": float(up), "board_down": float(dn),
+                            "latest": float(last),
+                            "real_open": (float(opn) if opn else None),
+                            "day_high": (float(hi) if hi else None),
+                            "day_low": (float(lo) if lo else None),
+                            "last_settle": (float(settle) if settle else None),
+                        }
                     else:
                         last_err = "%s empty(f43=%s f51=%s f52=%s)" % (host.split("//")[1], last, up, dn)
                 except Exception as e:
@@ -1280,6 +1292,78 @@ def _fetch_em_boards():
             print("[WARN] em board miss %s %s: %s" % (k0, code, last_err))
         _t.sleep(2.0)
     return out
+
+
+def _em_row_sane(b):
+    """自洽校验: 同一天必须 high>=max(open,last), low<=min(open,last), low<=high。
+    任一不成立即为坏数据(换月/串合约/源异常), 该品种当日不得进打板候选。"""
+    if not b:
+        return False
+    last = b.get("latest"); opn = b.get("real_open")
+    hi = b.get("day_high"); lo = b.get("day_low")
+    if not last or float(last) <= 0:
+        return False
+    ref = [float(x) for x in (last, opn) if x]
+    if hi and float(hi) > 0 and float(hi) < max(ref) - 1e-6:
+        return False
+    if lo and float(lo) > 0 and float(lo) > min(ref) + 1e-6:
+        return False
+    if hi and lo and float(hi) < float(lo) - 1e-6:
+        return False
+    return True
+
+
+def _apply_em_quotes(items, boards):
+    """把东财主连行情覆盖到 item, 使 future/high/low/last_settle/real_open/board 全部同源自洽。
+    未过自洽校验的行标记 quote_conflict 并清掉板价, 从而被排除出打板候选。"""
+    n_ok = 0; n_bad = 0
+    for it in items:
+        s = it.get("symbol")
+        if not s or s not in boards:
+            continue
+        b = boards[s]
+        if not b:
+            continue
+        if not _em_row_sane(b):
+            it["quote_conflict"] = True
+            it["quote_conflict_reason"] = "eastmoney_ohlc_inconsistent"
+            it.pop("board_up", None)
+            it.pop("board_down", None)
+            n_bad += 1
+            print("[WARN] quote conflict %s: last=%s open=%s hi=%s lo=%s -> 排除出打板" % (
+                s, b.get("latest"), b.get("real_open"), b.get("day_high"), b.get("day_low")))
+            continue
+        old_last = it.get("future")
+        try:
+            if old_last and float(old_last) > 0:
+                it["cross_source_dev_pct"] = round(abs(float(b["latest"]) - float(old_last)) / float(old_last) * 100.0, 2)
+        except Exception:
+            pass
+        it["board_up"] = b["board_up"]
+        it["board_down"] = b["board_down"]
+        it["real_open"] = b.get("real_open")
+        it["future"] = round(float(b["latest"]), 4)
+        if b.get("day_high"):
+            it["day_high"] = round(float(b["day_high"]), 4)
+        if b.get("day_low"):
+            it["day_low"] = round(float(b["day_low"]), 4)
+        if b.get("last_settle"):
+            it["last_settle"] = round(float(b["last_settle"]), 4)
+        it["quote_source"] = "eastmoney"
+        try:
+            h2 = float(it.get("day_high") or 0); l2 = float(it.get("day_low") or 0)
+            st = float(it.get("last_settle") or 0); last = float(it.get("future") or 0)
+            if h2 > 0 and l2 > 0 and st > 0:
+                it["day_range_pct"] = round((h2 - l2) / st * 100.0, 2)
+                it["change"] = round(last - st, 4)
+                it["change_pct"] = round((last - st) / st * 100.0, 2)
+                it["trend"] = "up" if last > st else ("down" if last < st else "flat")
+        except Exception:
+            pass
+        n_ok += 1
+    print("em quotes applied: ok=%d bad=%d" % (n_ok, n_bad))
+    return items
+
 def _merge_em_boards(items, boards):
     bmap = {}
     for it in items:
@@ -1310,8 +1394,11 @@ if __name__ == "__main__":
     try:
         _em = _fetch_em_boards()
         if isinstance(_em, dict):
-            items = _merge_em_boards(items, _em)
+            items = _apply_em_quotes(items, _em)
             print('em boards merged:', {k: _em.get(k) for k in _em})
+            _conf = [x.get('symbol') for x in items if x.get('quote_conflict')]
+            if _conf:
+                print('excluded by self-check:', _conf)
     except Exception as e:
         print('[WARN] _fetch_em_boards:', str(e)[:80])
 
