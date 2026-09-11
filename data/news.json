@@ -1,5 +1,55 @@
 [
  {
+  "title": "现场参观：循环材料公司在亚利桑那州开设商业规模的稀土回收工厂",
+  "url": "",
+  "summary": "梅萨工厂为美国公司提供了磁体轴承产品的国内目的地，否则这些产品将作为废物出口。",
+  "pub_time": "2026-09-11T22:04:40Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "2cca835a9590f84493f228bf3467c344",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Site visit: Cyclic Materials opens commercial-scale rare earth recycling plant in Arizona"
+ },
+ {
+  "title": "欧洲的“少”做的比任何人想象的都多",
+  "url": "",
+  "summary": "今天早上布伦特原油价格略高于 104 美元，较昨天的飙升略有下降。霍尔木兹海峡在战前曾运输过世界上约五分之一的石油和液化天然气，但自三月份以来已被有效关闭。沙特 8 月份产量每天减少约 190 万桶，",
+  "pub_time": "2026-09-11T22:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "2e42bfc4d354400578d0133933c61341",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Europe's \"Less\" Is Doing More Than Anyone Gives It Credit For"
+ },
+ {
   "title": "由于美国炼油厂已达到极限，白宫正在考虑制定国防生产法案",
   "url": "",
   "summary": "白宫正在考虑利用《国防生产法》增加美国炼油产能，目前美国炼油厂已开工率达到 98%，柴油价格首次突破每加仑 6 美元。唐纳德·特朗普总统在最近与几乎所有人士会面期间讨论了该提案",
@@ -851,33 +901,6 @@
    "原油"
   ],
   "en_title": "Vostok Oil: One Tanker, Four Trillion Rubles"
- },
- {
-  "title": "中东供应危机加剧 WTI 突破 100 美元",
-  "url": "",
-  "summary": "周五早些时候，10 月 WTI 原油期货交易价格为 101.26 美元，本周迄今上涨 10.04 美元，涨幅为 11.01%。该合约一度低至 90.87 美元，随后触及 104.46 美元，为 5 月份以来的最高水平。上周，市场正在测试押运货物和替代航线能否保留足够的G",
-  "pub_time": "2026-09-11T12:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "3de5f883d5cfb5205651ceedd5488a8a",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "WTI油价",
-   "供应"
-  ],
-  "en_title": "WTI Breaks $100 as Middle East Supply Crisis Deepens"
  },
  {
   "title": "矿物追踪是行业信誉的必要条件：经合组织",
