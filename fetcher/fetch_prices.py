@@ -1170,15 +1170,23 @@ def build_hf_picks(items, preds=None):
         if anchor <= 0:
             anchor = float(fut or 0.0)
         TP = 0.03; EXIT = 0.0015; HS = 0.001
-        # (A) futures-only: if already chased far, give reentry instead of chasing top; spot=trend only
+        # (A) futures-only: if already chased far, offer a reentry level; spot=trend only
+        # 注意: anchor 是“当下进场基准价”, 必须恒等于实时价, 不能被回踩位覆盖。
+        # 历史故障: 这里曾把 anchor 直接改写成今日开盘价, 于是 reason/tp/sl/long_plan.entry
+        # 全部跟着漂移, 出现“现价 133600、却给出 139980 的做空进场价”(比现价高 4.8%),
+        # 以及多单挂在现价上方永远挂不上——用户看到的正是“打板数据跟行情反着来”。
+        # 现在只把回踩位单独放进 pullback, anchor 保持实时价不动。
         pc_a = float(pp.get('prev_close') or 0.0)
         op_a = float(pp.get('today_open') or 0.0)
         RALLY_END_MA = 1.6
-        if pc_a > 0 and op_a > 0:
-            if direct == 1 and (anchor - pc_a) / pc_a * 100.0 >= RALLY_END_MA and op_a < anchor:
-                anchor = op_a
-            elif direct == -1 and (pc_a - anchor) / anchor * 100.0 >= RALLY_END_MA and op_a > anchor:
-                anchor = op_a
+        pullback = None
+        if pc_a > 0 and op_a > 0 and anchor > 0:
+            _chased = ((anchor - pc_a) / pc_a * 100.0) if direct == 1 else ((pc_a - anchor) / anchor * 100.0)
+            if _chased >= RALLY_END_MA:
+                if direct == 1 and op_a < anchor:
+                    pullback = round(op_a, 3)
+                elif direct == -1 and op_a > anchor:
+                    pullback = round(op_a, 3)
         if direct == 1:
             tp = anchor * (1 + TP); sl = anchor * (1 - HS); ex = anchor * (1 - EXIT); lev = "追强做多"
         else:
@@ -1230,7 +1238,7 @@ def build_hf_picks(items, preds=None):
             "day_ma": pp.get("day_ma"),
             "est_margin": round(mg, 2), "hands_in_100k": int(100000.0 / mg) if mg > 0 else 0,
             "volume": int(vol), "open_interest": int(oi), "mode": lev,
-            "anchor": round(anchor, 3), "tp": round(tp, 3), "sl": round(sl, 3), "exit_price": round(ex, 3),
+            "anchor": round(anchor, 3), "pullback": pullback, "tp": round(tp, 3), "sl": round(sl, 3), "exit_price": round(ex, 3),
             "board_score": round(score, 3),
             "day_conflict": _conflict,
             "reason": ("今日打板 · 方向%s · 实时%+.2f%% / 波幅%.2f%% / 打板分%d: 进场≈%s, 止盈%s, 反向%s离场, 硬止损%s" % (
