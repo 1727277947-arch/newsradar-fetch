@@ -3798,31 +3798,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "DAS数字证实了小麦面积减少的程度",
-  "url": "",
-  "summary": "DAS数据显示，澳大利亚的小麦种植面积同比下降16.6% ，而大麦种植面积同比增长14.4% ，播种时机、投入价格和预期回报落后于波动。",
-  "pub_time": "2026-09-09T05:40:03Z",
-  "source": "GrainCentral",
-  "_cat": "基本金属",
-  "dedup_key": "ba8e77d25019bf23b795cc056ba683e5",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "小麦"
-  ],
-  "en_title": "DAS numbers confirm extent of wheat’s reduced area"
  }
 ]
