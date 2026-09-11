@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-11T07:40:39",
+ "updated_at": "2026-09-11T08:45:48",
  "spot_meta": {
   "policy": "stale_never_fill",
   "spot_page_used": "2026-09-10",
@@ -14,7 +14,7 @@
    "category": "贵金属",
    "market": "国际",
    "kind": "spot",
-   "spot": 4318.7002,
+   "spot": 4322.6001,
    "future": null,
    "basis": null,
    "basis_pct": null,
@@ -32,7 +32,7 @@
    "category": "贵金属",
    "market": "国际",
    "kind": "spot",
-   "spot": 63.643,
+   "spot": 63.612,
    "future": null,
    "basis": null,
    "basis_pct": null,
@@ -68,7 +68,7 @@
    "category": "贵金属",
    "market": "国际",
    "kind": "spot",
-   "spot": 1304.0,
+   "spot": 1303.0,
    "future": null,
    "basis": null,
    "basis_pct": null,
@@ -182,7 +182,7 @@
    "category": "基本金属",
    "market": "国际",
    "kind": "spot",
-   "spot": 6.7357,
+   "spot": 6.4706,
    "future": null,
    "basis": null,
    "basis_pct": null,
@@ -545,10 +545,7 @@
     "sl": 8741.25,
     "exit_price": 8736.875,
     "rr": 20.0
-   },
-   "board_up": 9565.0,
-   "board_down": 8155.0,
-   "real_open": 8860.0
+   }
   },
   {
    "symbol": "LC0",
@@ -596,10 +593,7 @@
     "stop_discipline": "",
     "support": 141207.87,
     "resist": 141632.13
-   },
-   "board_up": 160500.0,
-   "board_down": 123580.0,
-   "real_open": 142300.0
+   }
   },
   {
    "symbol": "RB0",
@@ -944,10 +938,7 @@
     "sl": 6256.25,
     "exit_price": 6259.375,
     "rr": 20.0
-   },
-   "board_up": 6632.0,
-   "board_down": 5880.0,
-   "real_open": 6156.0
+   }
   },
   {
    "symbol": "SM0",
@@ -1014,10 +1005,7 @@
     "sl": 5899.894,
     "exit_price": 5902.841,
     "rr": 20.0
-   },
-   "board_up": 6310.0,
-   "board_down": 5594.0,
-   "real_open": 5896.0
+   }
   },
   {
    "symbol": "SS0",
@@ -1162,11 +1150,11 @@
    "market": "国际",
    "kind": "future",
    "spot": null,
-   "future": 103.84,
+   "future": 103.13,
    "basis": null,
    "basis_pct": null,
-   "change": 1.36,
-   "change_pct": 1.33,
+   "change": 0.65,
+   "change_pct": 0.63,
    "trend": "up",
    "source": "oilprice.com(期货)",
    "note": "期货价格(延迟)"
@@ -1180,11 +1168,11 @@
    "market": "国际",
    "kind": "future",
    "spot": null,
-   "future": 107.63,
+   "future": 108.33,
    "basis": null,
    "basis_pct": null,
-   "change": 6.42,
-   "change_pct": 6.34,
+   "change": 0.7,
+   "change_pct": 0.65,
    "trend": "up",
    "source": "oilprice.com(期货)",
    "note": "期货价格(延迟)"
@@ -1198,12 +1186,12 @@
    "market": "国际",
    "kind": "future",
    "spot": null,
-   "future": 2.84,
+   "future": 2.829,
    "basis": null,
    "basis_pct": null,
-   "change": 0.006,
-   "change_pct": 0.21,
-   "trend": "up",
+   "change": -0.005,
+   "change_pct": -0.18,
+   "trend": "down",
    "source": "oilprice.com(期货)",
    "note": "期货价格(延迟)"
   },
@@ -1234,11 +1222,11 @@
    "market": "国际",
    "kind": "future",
    "spot": null,
-   "future": 5.143,
+   "future": 5.1265,
    "basis": null,
    "basis_pct": null,
-   "change": 0.086,
-   "change_pct": 1.69,
+   "change": 0.069,
+   "change_pct": 1.36,
    "trend": "up",
    "source": "oilprice.com(期货)",
    "note": "期货价格(延迟)"
