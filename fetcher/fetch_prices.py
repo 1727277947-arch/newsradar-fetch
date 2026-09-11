@@ -1464,8 +1464,30 @@ if __name__ == "__main__":
         prev = {}
     _pm = prev.get("daily_pick") or {}
     _pa = prev.get("afternoon_pick") or {}
+    # ===== 漏档自愈：GHA 定时可能整档丢失，用 updated_at 判定是否需要强制重出打板 =====
+    # 实测 2026-09-11 的 03:30/11:40/12:00/12:30/20:00/20:30 这些关键档全部没跑，云端数据
+    # 一直停在几小时前。这里判断距上次成功更新是否超过阈值：超了就把晨板锁解除并标记 catch_up，
+    # 让本次(哪怕只是一个普通的两小时档)也重新算出当日打板，避免用户整天看到旧数据。
+    catch_up = False
+    try:
+        _prev_upd = (prev.get("updated_at") or "").strip()
+        if _prev_upd:
+            import datetime as _dt
+            _pu = _dt.datetime.strptime(_prev_upd[:19], "%Y-%m-%dT%H:%M:%S")
+            _now_bj = _dt.datetime.now()
+            _age_min = (_now_bj - _pu).total_seconds() / 60.0
+            _h_now = _now_bj.hour
+            _limit = 75 if (8 <= _h_now <= 23) else 240
+            if _age_min > _limit:
+                catch_up = True
+                print("[catch-up] 上次更新已过 %.0f 分钟(阈值 %d)，本次强制重算打板" % (_age_min, _limit))
+    except Exception as _e:
+        print("[catch-up] age check skipped:", str(_e)[:60])
     prev_date = _pm.get("date") or ""
     morning_locked = (prev_date == now_date)
+    # 漏档自愈时解除晨板锁定（此时 prev 已经把 updated_at 对齐到很久以前，锚点是旧数据）
+    if catch_up:
+        morning_locked = False
 
     # ===== 陈旧晨板护栏 =====
     # 晨板(03:30 推的那份)按设计要锁一整天，不能被盘中重算覆盖——这是对的。
