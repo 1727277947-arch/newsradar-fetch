@@ -1102,15 +1102,22 @@ def build_hf_picks(items, preds=None):
         if not pp:
             continue
         direct = int(pp.get("direction") or 0)
+        _conflict = None
+        # ===== 候选资格：按李永强口径分级，绝不静默留白 =====
+        # 一级(主推池)：日线方向与当日实时方向一致(顺势)，且板价/资金/波幅都过关。
+        # 二级(兜底池)：资格没问题但日线方向与当日相反(逆势)或均线缠绕——按李的口径这是"观望"，
+        #   不该当主推；可整个市场同时逆势时(如日线多头排列、当日却集体回落)一级池会被清空，
+        #   原来的写法会直接返回空列表，用户收到的就是"没有打板数据"，看起来像系统给不出东西。
+        #   所以这里保留二级兜底：宁可给一只并明确标注"逆势/缠绕·不追"，也不留白。
         if direct == 0:                 # 观望的不构成打板机会
             continue
         dayb = pp.get("day_bias") or "mix"
-        if dayb == "mix" and direct != 0:
-            continue    # day MA tangled -> no day trade (Li: skip, not chase)
-        if direct == 1 and dayb == "bear":
-            continue    # bear stacks: longs forbidden
-        if direct == -1 and dayb == "bull":
-            continue    # bull stacks: shorts forbidden
+        if dayb == "mix":
+            _conflict = "日线均线缠绕"
+        elif direct == 1 and dayb == "bear":
+            _conflict = "日线空头排列·逆势做多"
+        elif direct == -1 and dayb == "bull":
+            _conflict = "日线多头排列·逆势做空"
         if vol <= 0 or oi <= 0:         # 死水市场不沾手
             continue
         if not mg or mg <= 0:
@@ -1131,8 +1138,7 @@ def build_hf_picks(items, preds=None):
 
         # funds gate: with 100k you should open >=3 lots (margin/lot <=~33k) so crude/gold/silver can't be main pick
         if mg > 0 and (100000.0 / mg) < 3.0:
-            continue
-        # 资金：越便宜越“绰绰有余”。10万能开>=3手(即一手保证金<=约3.3万)算宽裕；越贵评分越低
+            continue        # 资金：越便宜越“绰绰有余”。10万能开>=3手(即一手保证金<=约3.3万)算宽裕；越贵评分越低
         sz = max(0.0, min(1.0, 1.0 - mg / 40000.0))
         # 方向强度：实时涨幅绝对值(打板追强/追跌才有意义)
         ru = abs(pp.get("limit_ru") or 0.0)
@@ -1144,7 +1150,23 @@ def build_hf_picks(items, preds=None):
         av = max(0.0, min(1.0, _m.log10(vol + 1) / 6.0))
         score = min(1.0, 0.40 * rv + 0.25 * sz + 0.20 * dv + 0.15 * av + _mom_boost(pp, direct))
         # 具体每日打板点位：以实时最新价(anchor)为基准，沿用 止盈+3% / 反向-0.15%离场 / 浮盈回吐-0.1%硬止损
-        anchor = float(pp.get("today_close") or fut or 0.0)
+        # 统一取价基准：盘面实时价必须与 long_plan/short_plan 的 real_open 同源同时点。
+        # 历史故障：这里原来取 pp["today_close"]（新浪 nf_ 主连的"当前时段现价"），该字段在多源
+        # 合并时会被缓存成前一日收盘，导致 anchor 与东财主连实时价相差十几个百分点——于是
+        # "进场 3550、止盈 3177、硬止损 3081"这种自相矛盾的方案被推给用户（看着就像乱给）。
+        # 现在优先东财同源实时价；仅当它与东财今开偏离 <=2% 时才采纳 predictions 的实时价。
+        anchor = float(fut or 0.0)
+        if anchor <= 0:
+            anchor = float(it.get("future") or 0.0)
+        if anchor <= 0:
+            _ap0 = float(pp.get("today_close") or 0.0)
+            _ao0 = float(it.get("real_open") or 0.0)
+            if _ap0 > 0 and (_ao0 <= 0 or abs(_ap0 - _ao0) / _ao0 <= 0.02):
+                anchor = _ap0
+            elif _ao0 > 0:
+                anchor = _ao0
+            else:
+                anchor = _ap0
         if anchor <= 0:
             anchor = float(fut or 0.0)
         TP = 0.03; EXIT = 0.0015; HS = 0.001
@@ -1162,28 +1184,37 @@ def build_hf_picks(items, preds=None):
         else:
             tp = anchor * (1 - TP); sl = anchor * (1 + HS); ex = anchor * (1 + EXIT); lev = "追跌做空"
         # 同日双方案(仅该打板品种): 一个多单一个空单; 止损按品种ATR历史回测自适应(不写死%), 止盈2R落袋(+板位约束)
-        _ro = float(it.get('real_open') or op_a or anchor or 0.0)
+        #
+        # 取价基准必须用"当下实时价(anchor)"，不能再用"今开 real_open"：
+        # 如果早盘高开后一路走低(今开 3550、现价 3336)，把多单进场挂在 3550 等于让用户在
+        # 已经跌破 6% 的位置去接多，价格根本不会回到那里成交 —— 用户看到的方案就是"永远挂不上"。
+        # 这里改成以现价为轴心：多单等回踩确认、空单等跌破确认，各自用 ATR 定止损、2R 定止盈。
+        _ro = float(anchor or fut or it.get('real_open') or op_a or 0.0)
         _ulp = float(pp.get('sl_long_pct') or 0.8)
         _usp = float(pp.get('sl_short_pct') or 0.8)
         _bup = float(it.get('board_up') or 0.0)
         _bdn = float(it.get('board_down') or 0.0)
         if _ro > 0:
-            _e_l = _ro
+            # 多单：现价上方 0.15% 作为"转强确认位"；若今开更高，则用较低者，避免挂到不可及的高位。
+            _e_l = _ro * 1.0015
+            if op_a > 0:
+                _e_l = min(_e_l, max(op_a, _ro))
             _s_l = _e_l * (1 - _ulp / 100.0)
             _r_l = _e_l - _s_l
             _t_l = _e_l + 2 * _r_l
             if _bup > 0: _t_l = min(_t_l, _bup * 0.995)
             long_plan = {'entry': round(_e_l, 3), 'sl': round(_s_l, 3), 'tp': round(_t_l, 3),
-                         'sl_pct': round(_ulp, 2), 'rr': 2.0, 'basis': 'real_open',
-                         'note': '顺日线多·回踩今开承接; 止损ATR自适应, 2R落袋'}
-            _e_s = _ro * (1 - 0.001)
+                         'sl_pct': round(_ulp, 2), 'rr': 2.0, 'basis': 'live_reclaim',
+                         'note': '以现价为基准·转强确认进多; 止损ATR自适应, 2R落袋'}
+            # 空单：现价下方 0.15% 作为"破位确认位"，跌破才空(条件式)
+            _e_s = _ro * (1 - 0.0015)
             _s_s = _e_s * (1 + _usp / 100.0)
             _r_s = _s_s - _e_s
             _t_s = _e_s - 2 * _r_s
             if _bdn > 0: _t_s = max(_t_s, _bdn * 1.005)
             short_plan = {'entry': round(_e_s, 3), 'sl': round(_s_s, 3), 'tp': round(_t_s, 3),
-                          'sl_pct': round(_usp, 2), 'rr': 2.0, 'basis': 'break_real_open',
-                          'note': '跌破今开才空(条件式); 止损ATR自适应, 2R落袋'}
+                          'sl_pct': round(_usp, 2), 'rr': 2.0, 'basis': 'live_break',
+                          'note': '跌破现价确认位才空(条件式); 止损ATR自适应, 2R落袋'}
         else:
             long_plan = None; short_plan = None
         picks.append({
@@ -1201,6 +1232,7 @@ def build_hf_picks(items, preds=None):
             "volume": int(vol), "open_interest": int(oi), "mode": lev,
             "anchor": round(anchor, 3), "tp": round(tp, 3), "sl": round(sl, 3), "exit_price": round(ex, 3),
             "board_score": round(score, 3),
+            "day_conflict": _conflict,
             "reason": ("今日打板 · 方向%s · 实时%+.2f%% / 波幅%.2f%% / 打板分%d: 进场≈%s, 止盈%s, 反向%s离场, 硬止损%s" % (
                 pp.get("label", ""), pp.get("limit_ru") or 0.0, rng, ls,
                 ("%g" % anchor) if anchor >= 1000 else ("%.3f" % anchor),
@@ -1209,6 +1241,21 @@ def build_hf_picks(items, preds=None):
                 ("%g" % sl) if sl >= 1000 else ("%.3f" % sl))),
         })
     picks.sort(key=lambda x: -x["board_score"])
+
+    # ===== 分级：顺势(day_conflict 为空)的进主推池；逆势/缠绕的进兜底池 =====
+    # 李永强口径里逆势单是该放弃的，所以主推池非空时兜底池完全不参与排名。
+    # 只有一种情况用兜底池：整个市场同时逆势(日线多头排列、当日却集体回落这类),
+    # 主推池被清空——此时若不兜底，上游拿到的是空列表，用户端就表现为"今天没有打板数据"。
+    _primary = [x for x in picks if not x.get("day_conflict")]
+    _backup = [x for x in picks if x.get("day_conflict")]
+    if not _primary and _backup:
+        picks = _backup
+        for _x in picks:
+            _x["fallback_tier"] = "conflict"
+            _x["note_extra"] = ("全部候选与日线方向相反，已降级为观察级：%s。按李永强口径应当观望，"
+                                "此条仅作盯盘提示，不建议直接进场。" % (_x.get("day_conflict") or ""))
+    else:
+        picks = _primary
     # 第一名为“今日打板主推”
     for idx, rp in enumerate(picks):
         rp["rank"] = idx + 1
