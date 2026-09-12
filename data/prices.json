@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-12T23:55:49",
+ "updated_at": "2026-09-13T00:26:56",
  "spot_meta": {
   "policy": "stale_never_fill",
   "spot_page_used": "2026-09-11",
@@ -6763,8 +6763,7 @@
    "fallback_tier": "conflict",
    "note_extra": "全部候选与日线方向相反，已降级为观察级：日线多头排列·逆势做空。按李永强口径应当观望，此条仅作盯盘提示，不建议直接进场。",
    "rank": 2,
-   "is_today": false,
-   "plan_basis": "alt_symbol"
+   "is_today": false
   },
   {
    "symbol": "SF0",
@@ -6942,7 +6941,7 @@
   }
  ],
  "daily_pick": {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "session": "morning",
   "symbol": "LC0",
   "name": "碳酸锂",
@@ -7002,65 +7001,10 @@
   "is_today": true
  },
  "afternoon_pick": {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "session": "afternoon",
-  "symbol": "MA0",
-  "name": "甲醇",
-  "category": "化工",
-  "unit": "元/吨",
-  "price": 3455.0,
-  "direct": -1,
-  "dir_label": "做空",
-  "day_range_pct": 3.73,
-  "limit_score": 11,
-  "board": "一般/观望",
-  "dual": {
-   "st": "drop",
-   "ref": null
-  },
-  "long_plan": {
-   "entry": 3455.0,
-   "sl": 3396.61,
-   "tp": 3571.779,
-   "sl_pct": 1.69,
-   "rr": 2.0,
-   "basis": "live_reclaim",
-   "note": "以现价为基准·转强确认进多; 止损ATR自适应, 2R落袋"
-  },
-  "short_plan": {
-   "entry": 3449.818,
-   "sl": 3566.421,
-   "tp": 3234.09,
-   "sl_pct": 3.38,
-   "rr": 2.0,
-   "basis": "live_break",
-   "note": "跌破现价确认位才空(条件式); 止损ATR自适应, 2R落袋"
-  },
-  "real_open": 3361.0,
-  "day_bias": "bull",
-  "day_ma": [
-   3317.4,
-   2999.65,
-   2702.05
-  ],
-  "est_margin": 3054.0,
-  "hands_in_100k": 32,
-  "volume": 575787,
-  "open_interest": 259283,
-  "mode": "追跌做空",
-  "anchor": 3455.0,
-  "pullback": null,
-  "tp": 3351.35,
-  "sl": 3458.455,
-  "exit_price": 3460.183,
-  "board_score": 0.849,
-  "day_conflict": "日线多头排列·逆势做空",
-  "reason": "今日打板 · 方向做空 · 实时-0.39% / 波幅3.73% / 打板分11: 进场≈3455, 止盈3351.35, 反向3460.18离场, 硬止损3458.45",
-  "fallback_tier": "conflict",
-  "note_extra": "全部候选与日线方向相反，已降级为观察级：日线多头排列·逆势做空。按李永强口径应当观望，此条仅作盯盘提示，不建议直接进场。",
-  "rank": 2,
-  "is_today": false,
-  "plan_basis": "alt_symbol"
+  "name": "",
+  "symbol": ""
  },
  "trading_rules": [
   {
