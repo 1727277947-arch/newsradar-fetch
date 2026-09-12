@@ -1,5 +1,69 @@
 [
  {
+  "title": "石油工业为长达数年的伊朗战争做好准备",
+  "url": "",
+  "summary": "石油生产商、贸易商和炼油商正在为美国和伊朗在波斯湾爆发一场旷日持久的战争做好准备，而且几乎没有希望能够迅速解决。进一步来说，他们也在为更长的时间更高的价格做准备，这是今年亚太宠物展的主题",
+  "pub_time": "2026-09-12T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "85d4492100d7c08426bb6e2d95492a70",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Oil Industry Braces for Years-Long Iran War"
+ },
+ {
+  "title": "Mysteel宏观周报：两部门发文治理低价无序竞争",
+  "url": "https://news.mysteel.com/a/26091222/2E464A266149A1E6.html",
+  "summary": "",
+  "pub_time": "2026-09-12T22:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "d527b8189f4f6cb63270cc62c1f4a4ad",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel宏观周报：两部门发文治理低价无序竞争，前8月我国外贸增长亮眼",
+  "url": "https://news.mysteel.com/a/26091222/A251BE68E88525C6.html",
+  "summary": "",
+  "pub_time": "2026-09-12T22:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "f30e4adf150cd42b56e6c8e8b4400997",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "被盗电力为全球非法加密货币农场提供动力",
   "url": "",
   "summary": "窃电是一个全球性问题，而且越来越严重。虽然这个问题在发展中国家最为常见，因为这些国家的电网基础设施有限，公用事业和国家当局的监督能力较低，但发达国家也未能幸免。此次盗窃案",
@@ -762,25 +826,6 @@
   "en_title": "Drone Strikes Hit Saudi Arabia’s Vital East-West Oil Pipeline"
  },
  {
-  "title": "Mysteel晚餐：沙钢永钢最新调价",
-  "url": "https://news.mysteel.com/a/26091117/B629AF24BE2FDA83.html",
-  "summary": "",
-  "pub_time": "2026-09-11T17:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "145b61c92b0209353382062cdd5ecf69",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "钢材下游周报：前8月汽车家电船舶出口数据出炉",
   "url": "https://news.mysteel.com/a/26091117/C0FBB9EC0761313B.html",
   "summary": "",
@@ -1208,32 +1253,6 @@
    "基本金属"
   ],
   "en_title": "UAE Rethinks 5-Gigawatt AI Campus After Iran Targets US Assets in Gulf"
- },
- {
-  "title": "揭穿美国石油仅剩 14 天的病毒式说法",
-  "url": "",
-  "summary": "社交媒体上流传着这样的说法：美国只剩下大约两周的石油了。该计算似乎将战略石油储备目前持有的 2.866 亿桶与美国每天约 2070 万桶的石油需求进行了比较，得出了一个数字：",
-  "pub_time": "2026-09-11T14:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "d6c83b5d9d6cd1b79b8cef551d781fee",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Debunking the Viral Claim That America Has Only 14 Days of Oil Left"
  },
  {
   "title": "Kalshi获批黄金白银永续期货，传统交易所面临新挑战",
@@ -2632,31 +2651,5 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "棉花行业也对工人签证延迟发出警告",
-  "url": "",
-  "summary": "澳大利亚棉花协会和新南威尔士州农民协会等机构本周在堪培拉呼吁加快处理占澳大利亚农业工作岗位约七分之一的工人的签证申请。",
-  "pub_time": "2026-09-10T22:39:23Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "51a5b40689fb454209507ddda758c85a",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "棉花"
-  ],
-  "en_title": "Cotton joins sectors raising alarm over delays in visas for workers"
  }
 ]
