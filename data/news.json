@@ -1,5 +1,30 @@
 [
  {
+  "title": "被盗电力为全球非法加密货币农场提供动力",
+  "url": "",
+  "summary": "窃电是一个全球性问题，而且越来越严重。虽然这个问题在发展中国家最为常见，因为这些国家的电网基础设施有限，公用事业和国家当局的监督能力较低，但发达国家也未能幸免。此次盗窃案",
+  "pub_time": "2026-09-12T21:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "05955431d05df9534be8988c2bef41df",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Stolen Electricity is Powering Illegal Crypto Farms Across the Globe"
+ },
+ {
   "title": "为什么越来越多的家庭正在从燃气泵转向热泵",
   "url": "",
   "summary": "热泵正成为燃气中央供暖系统越来越受欢迎的替代品，并越来越多地用于新建筑，这通常是由政府激励措施推动的。热泵使用的技术类似于冰箱或空调中的技术，",
@@ -1228,31 +1253,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "英国企业呼吁取消电费税",
-  "url": "",
-  "summary": "英国的大型企业敦促政府取消企业电费税，以使英国更具竞争力，在能源价格不断上涨损害消费者和工业的情况下，提高英国的能源成本。安迪作为英国首相的第一步举措之一是",
-  "pub_time": "2026-09-11T13:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "a51c4254c8fafec76ef48eb84a0f83bd",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "UK Business Calls For Scrapping Taxes on Electricity Bills"
  },
  {
   "title": "霍尔木兹天然气冲击重振煤炭贸易：IEA",
@@ -2658,85 +2658,5 @@
    "棉花"
   ],
   "en_title": "Cotton joins sectors raising alarm over delays in visas for workers"
- },
- {
-  "title": "Osisko 的 Gaspé 矿区铜矿含铜量为 4.7%",
-  "url": "",
-  "summary": "Osisko Metals（多伦多证券交易所代码：OM；美国场外交易代码：OMZNF）在魁北克省东部的 Gaspé Copper 项目进行的新钻探扩大了过去生产矿山的足迹，展示了附近更高品位矿化的潜力。",
-  "pub_time": "2026-09-10T21:05:29Z",
-  "source": "NorthernMiner",
-  "_cat": "能源",
-  "dedup_key": "b33733182c7afc12c93d3a0cfdf5a4df",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气",
-   "铜"
-  ],
-  "en_title": "Osisko hits 4.7% copper beneath Gaspé workings"
- },
- {
-  "title": "Aya 将 Boumadine 价值翻倍至 $3.5B",
-  "url": "",
-  "summary": "Aya Gold & Silver（多伦多证交所，纳斯达克股票代码：AYA）已将其摩洛哥 Boumadine 项目的税后净现值增加了一倍多，达到 35 亿美元（48 亿加元），同时筹集初始资金... Aya 将 Boumadine 价值翻倍至 $3.5B 的帖子首先出现在《北方矿工》上。",
-  "pub_time": "2026-09-10T21:00:12Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "bf4c65517ad4d57b52cde3fcc17bde3e",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "Aya doubles Boumadine value to $3.5B"
- },
- {
-  "title": "铜价和矿商因特朗普关税疑虑而下滑",
-  "url": "",
-  "summary": "路透社报道，由于官员们正在权衡对国内生产的支持，白宫仍未决定是否对精炼铜征收关税，铜价和美国矿商周四暴跌。",
-  "pub_time": "2026-09-10T20:55:14Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "43f3bfb5cbd4519f0bf558f3d8753dfc",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "价",
-   "下滑"
-  ],
-  "en_title": "Copper price, miners slide on Trump tariff doubts"
  }
 ]
