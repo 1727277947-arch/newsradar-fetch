@@ -897,6 +897,33 @@
   "en_title": "See How Kaiser Aluminum Ranks Among Analysts' Top Metals Picks"
  },
  {
+  "title": "美国小麦协会在泰国举办领导力论坛",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-09-11T16:31:00Z",
+  "source": "Grainnet",
+  "_cat": "基本金属",
+  "dedup_key": "db49d1d0ce26c9b268bd09d5fce17466",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铅",
+   "小麦"
+  ],
+  "en_title": "U.S. Wheat Associates Holds Leadership Forum in Thailand"
+ },
+ {
   "title": "沙特阿拉伯的重要石油绕道面临威胁",
   "url": "",
   "summary": "胡塞武装袭击威胁沙特石油出口，布伦特原油价格触及 105 美元，中东原油价格飙升至 120 美元。 2026 年 9 月 11 日星期五，胡塞武装对沙特阿拉伯石油基础设施的袭击提醒石油市场，中东供应可能比以前更少，潜在的供应可能会减少。",
@@ -2790,6 +2817,32 @@
    "黄金"
   ],
   "en_title": "Kinross Gold Breaks Below 200-Day Moving Average - Notable for KGC"
+ },
+ {
+  "title": "巴尔的摩港开设谷物转运设施",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-09-10T19:51:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "367ed6fea17e29bd3180ad4dd41335fd",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "谷物"
+  ],
+  "en_title": "Port of Baltimore Opens Grain Transloading Facility"
  },
  {
   "title": "随着铜、银价格暴跌和金价下滑，矿业股涨势突然停止",
