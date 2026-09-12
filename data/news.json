@@ -26,25 +26,6 @@
   "en_title": "Why More Homes Are Switching From Gas to Heat Pumps"
  },
  {
-  "title": "泉州肖厝口岸“白色石油”锂辉石进口创历史新高",
-  "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695431.shtml",
-  "summary": "朱炳杰)12日，载运56612.2吨锂辉石原矿的巴拿马籍“白羊座”轮，自南非德班港出发，经新加坡中转，顺利靠泊泉州肖厝港物流码头。据悉，这标志着今年肖厝口岸锂辉石进口总量突破44.71万吨，创历史新高，为泉州新能源电池制造产业链供给注入强劲动能",
-  "pub_time": "2026-09-12T12:50:50Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "31f922ea0eab38847d0c17a6b9795af9",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
   "title": "【独家】新季购销开启，玉米底部何时出现？",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/12/5108723832.shtml",
   "summary": "",
@@ -1326,32 +1307,6 @@
    "煤炭"
   ],
   "en_title": "Hormuz nat-gas shock revives coal trade: IEA"
- },
- {
-  "title": "沙特石油路线受到威胁，胡塞武装向曼德卜进军",
-  "url": "",
-  "summary": "政治、地缘政治与冲突 也门胡塞武装周四占领了红海港口摩卡，并进入曼德海峡，该海峡连接红海（以及苏伊士运河之外）与亚丁湾和印度洋。曼德门 (Bab al-Mandeb) 宽 12 英里，载重 620 万人",
-  "pub_time": "2026-09-11T12:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "d036163f92bdc70cd6e2d56496edff85",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Houthis Advance on Bab al-Mandeb as Saudi Oil Route Comes Under Threat"
  },
  {
   "title": "矿物追踪是行业信誉的必要条件：经合组织",
@@ -2920,137 +2875,5 @@
    "供应"
   ],
   "en_title": "Crude Oil Skyrockets Amid Mounting Concerns Of Prolonged Disruption To Middle East Oil Supply"
- },
- {
-  "title": "每日钢市：中天钢铁涨30元，钢坯降10元，钢价窄幅调整",
-  "url": "https://news.mysteel.com/a/26091018/A32C96CB4E43F03E.html",
-  "summary": "",
-  "pub_time": "2026-09-10T18:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "2d6e52ae91e2a56c84633f102cce7fe2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "由于美伊冲突持续激烈，美联储加息押注增加，金价暴跌",
-  "url": "",
-  "summary": "(RTTNews) - 金价周四暴跌，抵消了昨日的涨幅，因投资者权衡美国与伊朗的紧张局势持续升级、随之而来的油价上涨以及美国加息的潜在机会。",
-  "pub_time": "2026-09-10T17:36:34Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "b5ff01089bbc3e7cc6872b9475510422",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Gold Slumps As Fed Rate Hike Bets Increase Amid Ongoing Intense U.S.-Iran Conflict"
- },
- {
-  "title": "Mysteel晚餐：宝钢上调10月出厂价，炼焦煤矿山产量增加",
-  "url": "https://news.mysteel.com/a/26091017/C1648CB708E9C08B.html",
-  "summary": "",
-  "pub_time": "2026-09-10T17:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "e26e6c5ef0d284ce04ae2e7c22c09feb",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "关键矿产日报：两部门整治工业品低价无序竞争，铜铝社库持续下降",
-  "url": "https://news.mysteel.com/a/26091017/9E80A394760319DE.html",
-  "summary": "",
-  "pub_time": "2026-09-10T17:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "992306633376da4ab3f4bcaac3545c9a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel日报：黑色金属期货震荡下跌运行",
-  "url": "https://news.mysteel.com/a/26091017/DA3E88B868EB2EF9.html",
-  "summary": "",
-  "pub_time": "2026-09-10T17:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "35e731dc1bfbf7b43450d8d00de0dc41",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "IEA：霍尔木兹海峡关闭推动天然气价格上涨，煤炭需求将增长 1.2%",
-  "url": "",
-  "summary": "国际能源署的最新报告显示，在中东持续冲突之后，煤炭需求重新回升。",
-  "pub_time": "2026-09-10T16:45:51Z",
-  "source": "Mining.com",
-  "_cat": "能源",
-  "dedup_key": "f6ef8952b6c4ec38e39258dcad70ca34",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气",
-   "煤炭",
-   "价",
-   "上涨",
-   "需求"
-  ],
-  "en_title": "Coal demand to rise 1.2% as Hormuz closure drives gas prices: IEA"
  }
 ]
