@@ -1,5 +1,24 @@
 [
  {
+  "title": "【独家】新季购销开启，玉米底部何时出现？",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/12/5108723832.shtml",
+  "summary": "",
+  "pub_time": "2026-09-12T00:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "45fa4d9282d68f8eb37fd155f22a8b1f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年9月12日天津豆粕价格行情",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/12/1131699024.shtml",
   "summary": "",
@@ -121,25 +140,6 @@
   "source": "粮油玉米",
   "_cn": true,
   "dedup_key": "bac735840592be6ac6fb3701bfe715c1",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月12日黑龙江哈尔滨玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/12/1813674543.shtml",
-  "summary": "",
-  "pub_time": "2026-09-12T00:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "5304ec27c85165c68685e5ab88afc0e8",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -354,6 +354,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月12日黑龙江哈尔滨玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/12/1813674543.shtml",
+  "summary": "",
+  "pub_time": "2026-09-12T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "85e8143cb4880372e60e2fc6e5639f72",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "粮油首页"
@@ -711,25 +730,6 @@
   "is_elite": false
  },
  {
-  "title": "关键矿产日报：有色金属期货普遍大跌",
-  "url": "https://news.mysteel.com/a/26091117/4F3F053AA948B087.html",
-  "summary": "",
-  "pub_time": "2026-09-11T17:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "b766fd037f694f9f0d247b2ae6590569",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "钢材下游周报：前8月汽车家电船舶出口数据出炉",
   "url": "https://news.mysteel.com/a/26091117/C0FBB9EC0761313B.html",
   "summary": "",
@@ -895,33 +895,6 @@
    "金属"
   ],
   "en_title": "See How Kaiser Aluminum Ranks Among Analysts' Top Metals Picks"
- },
- {
-  "title": "美国小麦协会在泰国举办领导力论坛",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-11T16:31:00Z",
-  "source": "Grainnet",
-  "_cat": "基本金属",
-  "dedup_key": "db49d1d0ce26c9b268bd09d5fce17466",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铅",
-   "小麦"
-  ],
-  "en_title": "U.S. Wheat Associates Holds Leadership Forum in Thailand"
  },
  {
   "title": "沙特阿拉伯的重要石油绕道面临威胁",
@@ -1443,25 +1416,6 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "报告：2025年我国新发现非油气矿产地200处，其中铁矿11处",
-  "url": "https://news.mysteel.com/a/26091111/2F22DF5D5AA7230E.html",
-  "summary": "",
-  "pub_time": "2026-09-11T11:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "7d27abebfa0b14d4e8649872b7735441",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -2838,32 +2792,6 @@
   "en_title": "Kinross Gold Breaks Below 200-Day Moving Average - Notable for KGC"
  },
  {
-  "title": "巴尔的摩港开设谷物转运设施",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-10T19:51:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "367ed6fea17e29bd3180ad4dd41335fd",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "谷物"
-  ],
-  "en_title": "Port of Baltimore Opens Grain Transloading Facility"
- },
- {
   "title": "随着铜、银价格暴跌和金价下滑，矿业股涨势突然停止",
   "url": "",
   "summary": "有报道称白宫尚未决定精炼铜关税，而自由港 1000 亿美元的估值又重新发挥作用，自由港麦克莫兰 (Freeport-McMoRan) 和泰克资源 (Teck Resources) 带领铜生产商下跌 7%。",
@@ -2968,7 +2896,7 @@
  },
  {
   "title": "Mysteel晚餐：宝钢上调10月出厂价，炼焦煤矿山产量增加",
-  "url": "https://news.mysteel.com/a/26091017/E8F23338354F1C0A.html",
+  "url": "https://news.mysteel.com/a/26091017/C1648CB708E9C08B.html",
   "summary": "",
   "pub_time": "2026-09-10T17:00:00Z",
   "source": "上海钢联Mysteel",
@@ -3557,56 +3485,5 @@
    "锡"
   ],
   "en_title": "GO.FARM offers size, scope with latest listings"
- },
- {
-  "title": "种植者团体称百草枯调查可能会破坏 APVMA",
-  "url": "",
-  "summary": "粮食机构表示，参议院周二决定对 APVMA 为何没有禁止百草枯展开调查，这损害了监管机构的权威。",
-  "pub_time": "2026-09-10T05:56:10Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "6384f74393a4e4eecceeb89ebaacfa71",
-  "score": 84,
-  "priority": "P1",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品"
-  ],
-  "en_title": "Grower bodies say paraquat inquiry risks undermining APVMA"
- },
- {
-  "title": "Feedgrain Focus ：南方感受到新作物的重量",
-  "url": "",
-  "summary": "过去一周，南部地区的小麦和大麦价格下跌，而随着南部昆士兰州作物的质量和生产前景恶化，北部地区的价格已经巩固。",
-  "pub_time": "2026-09-10T05:55:34Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "17ed849c518bab80217a8a1cd1d246ae",
-  "score": 84,
-  "priority": "P1",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "谷物"
-  ],
-  "en_title": "Feedgrain Focus: South feels weight of new crop"
  }
 ]
