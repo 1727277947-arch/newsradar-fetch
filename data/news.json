@@ -1,5 +1,32 @@
 [
  {
+  "title": "油价进一步飙升可能再次引发对经济衰退的担忧",
+  "url": "",
+  "summary": "本周的油价飙升大幅提高了美联储下周加息的几率，并重新启动了经济衰退对话，这是自伊朗战争最初几周以来的首次。本周油价飙升，布伦特原油价格自7月以来首次突破每桶100 $ ，",
+  "pub_time": "2026-09-13T21:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "c2f9e90f5f6b2d68262f134947723f01",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价"
+  ],
+  "en_title": "Further Oil Price Spikes Could Rekindle Recession Fears"
+ },
+ {
   "title": "沙特输油管道中断，全球石油供应恐损失4%",
   "url": "https://news.mysteel.com/a/26091320/D313AEE9B13FD387.html",
   "summary": "",
@@ -1167,56 +1194,5 @@
    "能源"
   ],
   "en_title": "Europe's \"Less\" Is Doing More Than Anyone Gives It Credit For"
- },
- {
-  "title": "由于美国炼油厂已达到极限，白宫正在考虑制定国防生产法案",
-  "url": "",
-  "summary": "白宫正在考虑利用《国防生产法》增加美国炼油产能，目前美国炼油厂已开工率达到 98%，柴油价格首次突破每加仑 6 美元。唐纳德·特朗普总统在最近与几乎所有人士会面期间讨论了该提案",
-  "pub_time": "2026-09-11T20:21:04Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "2e0fb5bdee3a65685c88da5a4a74960a",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "产量"
-  ],
-  "en_title": "White House Weighs Defense Production Act as U.S. Refineries Maxed Out"
- },
- {
-  "title": "值得注意的 200 天移动平均线交叉 - ASM",
-  "url": "",
-  "summary": "在周五的交易中，Avino Silver & Gold Mines Ltd（代码：ASM）的股价跌破 6.97 美元的 200 日移动平均线，易手低至每股 6.43 美元。阿维诺银金矿业有限公司 (Avino Silver & Gold Mines Ltd) 股价当天下跌约 9.5%。图表b",
-  "pub_time": "2026-09-11T20:20:19Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "ead12af44fd51bba1a5e0ac295c061c0",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "Notable Two Hundred Day Moving Average Cross - ASM"
  }
 ]
