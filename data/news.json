@@ -1,5 +1,43 @@
 [
  {
+  "title": "沙特输油管道中断，全球石油供应恐损失4%",
+  "url": "https://news.mysteel.com/a/26091320/D313AEE9B13FD387.html",
+  "summary": "",
+  "pub_time": "2026-09-13T20:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "a19bca3781c686631053d42c70d4e9f7",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "中国超级稻三十年暨种业高质量发展大会在沈阳举办",
+  "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695822.shtml",
+  "summary": "王翕瞳)中国超级稻三十年暨种业高质量发展大会12日至14日在沈阳举行，大会主题为“锚定国家粮食安全，聚智种业创新发展”",
+  "pub_time": "2026-09-13T12:59:47Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "11a364d604bb611c6a680afef6cf97d9",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "邯郸市召开钢铁企业座谈会",
   "url": "https://news.mysteel.com/a/26091310/A0BAC5C0B8E57EAA.html",
   "summary": "",
@@ -34,25 +72,6 @@
    "中文",
    "国内",
    "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "A股震荡分化，外资眼中的“黄金坑”在哪？",
-  "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695637.shtml",
-  "summary": "澎湃新闻记者 孙铭蔚",
-  "pub_time": "2026-09-13T07:27:54Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "6180054b44c54434a5d25f9e09d77685",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
   ],
   "is_elite": false
  },
@@ -521,7 +540,7 @@
  },
  {
   "title": "Mysteel宏观周报：两部门发文治理低价无序竞争，前8月我国外贸增长亮眼",
-  "url": "https://news.mysteel.com/a/26091222/A251BE68E88525C6.html",
+  "url": "https://news.mysteel.com/a/26091222/CD63B1A800F7D575.html",
   "summary": "",
   "pub_time": "2026-09-12T22:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1449,33 +1468,6 @@
   "en_title": "See How Kaiser Aluminum Ranks Among Analysts' Top Metals Picks"
  },
  {
-  "title": "美国小麦协会在泰国举办领导力论坛",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-11T16:31:00Z",
-  "source": "Grainnet",
-  "_cat": "基本金属",
-  "dedup_key": "db49d1d0ce26c9b268bd09d5fce17466",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铅",
-   "小麦"
-  ],
-  "en_title": "U.S. Wheat Associates Holds Leadership Forum in Thailand"
- },
- {
   "title": "沙特阿拉伯的重要石油绕道面临威胁",
   "url": "",
   "summary": "胡塞武装袭击威胁沙特石油出口，布伦特原油价格触及 105 美元，中东原油价格飙升至 120 美元。 2026 年 9 月 11 日星期五，胡塞武装对沙特阿拉伯石油基础设施的袭击提醒石油市场，中东供应可能比以前更少，潜在的供应可能会减少。",
@@ -1709,192 +1701,5 @@
    "基本金属"
   ],
   "en_title": "UAE Rethinks 5-Gigawatt AI Campus After Iran Targets US Assets in Gulf"
- },
- {
-  "title": "Kalshi获批黄金白银永续期货，传统交易所面临新挑战",
-  "url": "https://news.mysteel.com/a/26091114/1FEC2BCA7CD916BE.html",
-  "summary": "",
-  "pub_time": "2026-09-11T14:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "ebe7f8078d35d7561c0d30f5d1b4a459",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "霍尔木兹天然气冲击重振煤炭贸易：IEA",
-  "url": "",
-  "summary": "几乎没有煤炭经过霍尔木兹海峡，但中东冲突仍在提升煤炭贸易和价格，因为有限的液化天然气供应推动了一些电力……霍尔木兹海峡后的天然气冲击重振了煤炭贸易：IEA 首先出现在《北方矿工》上。",
-  "pub_time": "2026-09-11T13:00:59Z",
-  "source": "NorthernMiner",
-  "_cat": "能源",
-  "dedup_key": "3e6adfa7de0797c66b62ecb4444ec5cf",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气",
-   "煤炭"
-  ],
-  "en_title": "Hormuz nat-gas shock revives coal trade: IEA"
- },
- {
-  "title": "矿物追踪是行业信誉的必要条件：经合组织",
-  "url": "",
-  "summary": "经济合作组织本周发布的一份新报告称，锂和镍等关键矿物的更好可追溯性可以提高供应链的可信度和完整性……《矿物追踪》是行业可信度的必要条件：经合组织首先出现在《北方矿业》上",
-  "pub_time": "2026-09-11T12:00:26Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "cad6b20e954b1ed96dde649583553e66",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Mineral tracking a must for industry credibility: OECD"
- },
- {
-  "title": "智利法案将外汇资金用于下一次矿业繁荣",
-  "url": "",
-  "summary": "随着全球最大的铜生产商和第二大锂供应商寻求更多投资来资助新矿产发现，智利正在向初级勘探商开放其资本市场。参议院批准的法案，...智利后法案的目标是利用外国资金来促进下一次矿业繁荣",
-  "pub_time": "2026-09-11T11:30:00Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "78b07c1630fa76e12361d894bb1b6bab",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Chile bill targets foreign cash for next mining boom"
- },
- {
-  "title": "ACG 购买项目以提高土耳其铜产量",
-  "url": "",
-  "summary": "ACG Metals（伦敦证券交易所股票代码：ACG）正在购买土耳其采矿许可证，其中包括 Keşkek 金矿项目，可将该公司附近的 Gediktepe 矿的铜当量年产量翻一番，达到 40,000 吨。 ... ACG 收购旨在提高土耳其铜产量的项目后，该项目首先出现在《The Northern Miner》上。",
-  "pub_time": "2026-09-11T11:00:23Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "bb4d5b46648f580296065e7184d0b05a",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "铜",
-   "产量"
-  ],
-  "en_title": "ACG buys project to boost copper output in Turkey"
- },
- {
-  "title": "美国作出镀锡板反补贴初裁",
-  "url": "https://news.mysteel.com/a/26091111/09D28A0ADBD7217B.html",
-  "summary": "",
-  "pub_time": "2026-09-11T11:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "0cf10d902680a7d8419d8db9b55f88ef",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "螺纹钢期货跌超1%，钢价跟随走弱",
-  "url": "https://news.mysteel.com/a/26091111/9473AEBC15AD437E.html",
-  "summary": "",
-  "pub_time": "2026-09-11T11:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "def25efa6bdf5ffc06b8467d866e1d80",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "必和必拓和 KGHM 联手全球寻找铜矿",
-  "url": "",
-  "summary": "全球最大的矿商必和必拓 (ASX、LSE、纽约证券交易所代码：BHP) 和 KGHM Polska Miedź (WSE: KGH) 正在联手在全球范围内寻找新的铜矿藏，以满足金属需求......必和必拓和 KGHM 联手全球寻找铜矿的消息首先出现在《北方矿业》上。",
-  "pub_time": "2026-09-11T10:45:00Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "e01623112c61bb859851ccb78bcfa241",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "BHP, KGHM join forces in global hunt for copper"
  }
 ]
