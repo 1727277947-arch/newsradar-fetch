@@ -19,6 +19,77 @@
   "is_elite": false
  },
  {
+  "title": "BMO表示，加拿大采矿业的投资将随着全球需求而增长",
+  "url": "",
+  "summary": "蒙特利尔银行全球市场的一项新研究强调了随着该行业持续增长，加拿大采矿业对投资者的潜力。",
+  "pub_time": "2026-09-13T15:08:50Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "527e08fcdfc8c485dc5f2e566150126b",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "需求"
+  ],
+  "en_title": "Investment in Canada’s mining sector to grow with global demand, BMO"
+ },
+ {
+  "title": "随着能源安全风险的增加，英国风电创下历史新高",
+  "url": "",
+  "summary": "英国在过去十年中大幅增加了风能发电能力，到 2025 年风力发电量创历史新高。随着更多项目的筹建，预计到本十年末，风电将在英国能源结构中占据重要份额，支持",
+  "pub_time": "2026-09-13T15:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "328210acb731ffb28aa59de4f41af168",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "能源"
+  ],
+  "en_title": "UK Wind Power Hits Record High as Energy Security Risks Mount"
+ },
+ {
+  "title": "企步新长征 | 从“白鸽变黑”到联合国样本：一座百年矿山的长征接力",
+  "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695839.shtml",
+  "summary": "钟余 宋宇晟)“养崽莫上锡矿山，上山容易下山难。养女莫嫁石匠郎，口吐烟子无下场。”",
+  "pub_time": "2026-09-13T14:52:40Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "33849b1275426c07b5dc12a84f26524e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "中国超级稻三十年暨种业高质量发展大会在沈阳举办",
   "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695822.shtml",
   "summary": "王翕瞳)中国超级稻三十年暨种业高质量发展大会12日至14日在沈阳举行，大会主题为“锚定国家粮食安全，聚智种业创新发展”",
@@ -1468,124 +1539,13 @@
   "en_title": "See How Kaiser Aluminum Ranks Among Analysts' Top Metals Picks"
  },
  {
-  "title": "沙特阿拉伯的重要石油绕道面临威胁",
+  "title": "美国小麦协会在泰国举办领导力论坛",
   "url": "",
-  "summary": "胡塞武装袭击威胁沙特石油出口，布伦特原油价格触及 105 美元，中东原油价格飙升至 120 美元。 2026 年 9 月 11 日星期五，胡塞武装对沙特阿拉伯石油基础设施的袭击提醒石油市场，中东供应可能比以前更少，潜在的供应可能会减少。",
-  "pub_time": "2026-09-11T16:05:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "14b8f158407a811def6dc410553ac67d",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Saudi Arabia’s Critical Oil Bypass Comes Under Threat"
- },
- {
-  "title": "Mysteel：七日洞见——黑色金属市场一周热点回顾（9.7-9.13）",
-  "url": "https://news.mysteel.com/a/26091116/78F359B2DB86D97F.html",
   "summary": "",
-  "pub_time": "2026-09-11T16:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "9c198900a1d4054ae40f41c19bb90380",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色持仓日报：焦煤跌3.44%，国泰君安减持近6千手多单",
-  "url": "https://news.mysteel.com/a/26091116/B7E09BA3BCDEBAB8.html",
-  "summary": "",
-  "pub_time": "2026-09-11T16:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "da5e19dc53900f98cdb2db7d1229b147",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "有色持仓日报：沪铜跌2.45%，金瑞期货增持超3千手多单",
-  "url": "https://news.mysteel.com/a/26091116/4D888B30867FC35A.html",
-  "summary": "",
-  "pub_time": "2026-09-11T16:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "688bf5beb180f830e3feb2b094904e48",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "IEA预计，海湾地区复苏推迟至2027年，石油供应量将大幅下降570万桶/日",
-  "url": "",
-  "summary": "根据周五发布的一份新机构报告，IEA 刚刚将其 2026 年全球石油供应前景又削减了 140 万桶/日，并且不再预计今年海湾地区的石油供应将恢复正常。目前预计 2026 年全球石油供应量将减少 570 万桶/日，即约 6%，c",
-  "pub_time": "2026-09-11T15:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "2c02adbcbf5bb8b0cea55b87fb15220e",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "回落",
-   "供应"
-  ],
-  "en_title": "IEA Sees 5.7 Million Bpd Oil Supply Plunge as Gulf Recovery Slips to 2027"
- },
- {
-  "title": "Talon 放弃为塔马拉克建造北达科他州工厂的计划",
-  "url": "",
-  "summary": "力拓（纽约证券交易所代码：RIO；伦敦证券交易所代码：RIO；澳大利亚证券交易所代码：RIO）支持的开发商 Talon Metals（多伦多证券交易所代码：TLO；场外交易代码：TLOFF）已放弃在北达科他州建造一座工厂以加工矿石的计划。",
-  "pub_time": "2026-09-11T15:11:41Z",
-  "source": "NorthernMiner",
+  "pub_time": "2026-09-11T16:31:00Z",
+  "source": "Grainnet",
   "_cat": "基本金属",
-  "dedup_key": "7026ec2337b0a3c7e1b0441d000d2034",
+  "dedup_key": "db49d1d0ce26c9b268bd09d5fce17466",
   "score": 84,
   "priority": "P2",
   "topic": "基本金属",
@@ -1600,106 +1560,9 @@
   "is_elite": false,
   "keywords": [
    "基本金属",
-   "下跌"
+   "铅",
+   "小麦"
   ],
-  "en_title": "Talon drops plan to build North Dakota mill for Tamarack"
- },
- {
-  "title": "欧盟对英美资源集团镍交易的审查考验中国立场",
-  "url": "",
-  "summary": "随着中国对海外资源的所有权受到越来越严格的审查，布鲁塞尔正在权衡镍铁供应风险。",
-  "pub_time": "2026-09-11T15:07:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "20773cc08d52f899b60bb81babe0e4c7",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "镍",
-   "锡"
-  ],
-  "en_title": "EU scrutiny of Anglo-MMG nickel deal tests China stance"
- },
- {
-  "title": "欧盟对英美资源集团镍交易的审查考验中国立场",
-  "url": "",
-  "summary": "中国支持的 MMG (HKG: 1208) 敦促欧洲监管机构批准其以 5 亿美元（6.9 亿加元）收购英美资源集团 (LSE: AAL) 巴西镍业务的案例，这可能会考验... 欧盟对英美资源集团镍交易的审查测试了中国的立场",
-  "pub_time": "2026-09-11T15:07:00Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "9f395865a0c3d85ed8315802db81dbfd",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "镍",
-   "锡"
-  ],
-  "en_title": "EU scrutiny of Anglo-MMG nickel deal tests China stance"
- },
- {
-  "title": "钢市大家谈：旺季需求兑现不足，钢价窄幅偏弱震荡",
-  "url": "https://news.mysteel.com/a/26091115/58EACEB4271C3D0D.html",
-  "summary": "",
-  "pub_time": "2026-09-11T15:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "80540979523b4492a96a3d1901f67bb2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "伊朗瞄准美国在海湾资产后，阿联酋重新考虑 5 吉瓦人工智能园区",
-  "url": "",
-  "summary": "多个消息来源称，在伊朗开始针对美国空军基地和波斯湾与美国相关的关键基础设施后，阿拉伯联合酋长国（阿联酋）正在考虑对其与美国科技巨头合作在阿布扎比建设大型 5 吉瓦人工智能数据中心的计划进行重大调整。",
-  "pub_time": "2026-09-11T14:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "917a9dc5106c720ffe472554bed3ee3a",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "UAE Rethinks 5-Gigawatt AI Campus After Iran Targets US Assets in Gulf"
+  "en_title": "U.S. Wheat Associates Holds Leadership Forum in Thailand"
  }
 ]
