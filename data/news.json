@@ -19,6 +19,32 @@
   "is_elite": false
  },
  {
+  "title": "美国大坝可释放 15.2 太瓦时未开发的水力发电",
+  "url": "",
+  "summary": "美国现有的水坝每年可额外发电 15.2 太瓦时，足以为全国超过 140 万户家庭供电。橡树岭国家实验室和爱达荷国家实验室的一项新研究发现，通过改造选定的非水坝",
+  "pub_time": "2026-09-13T19:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "6f1f90c49f6985a594c9d1e49b07eeee",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "下跌"
+  ],
+  "en_title": "U.S. Dams Could Unlock 15.2 Terawatt-Hours of Untapped Hydropower"
+ },
+ {
   "title": "BMO表示，加拿大采矿业的投资将随着全球需求而增长",
   "url": "",
   "summary": "蒙特利尔银行全球市场的一项新研究强调了随着该行业持续增长，加拿大采矿业对投资者的潜力。",
@@ -1192,82 +1218,5 @@
    "贵金属"
   ],
   "en_title": "Notable Two Hundred Day Moving Average Cross - ASM"
- },
- {
-  "title": "值得注意的 200 天移动平均线交叉 - AG",
-  "url": "",
-  "summary": "在周五的交易中，First Majestic Silver Corp（股票代码：AG）的股价跌破 19.85 美元的 200 日移动平均线，易手低至每股 19.43 美元。 First Majestic Silver Corp 股价当天下跌约 3%。下图显示了",
-  "pub_time": "2026-09-11T20:02:22Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "4f1a0f38ef0c0698e98ef3547bc2bdd2",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "Notable Two Hundred Day Moving Average Cross - AG"
- },
- {
-  "title": "矿业在卡尼 1T 美元的投资者推介书中处于领先地位",
-  "url": "",
-  "summary": "加拿大总理马克·卡尼下周将在多伦多向全球投资者提交的投资招股说明书中，矿业项目占据主导地位，据报道，矿业项目占其 167 个机会中的 63 个。 LithiumBank……矿业领先后卡尼的 1T 美元投资者宣传手册首先出现在《北方矿工》上",
-  "pub_time": "2026-09-11T19:49:59Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "934c3a757f4aa0af1f15f8eca5f8ba36",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铅"
-  ],
-  "en_title": "Mining leads Carney’s $1T investor pitchbook"
- },
- {
-  "title": "霍尔木兹危机结束预期升温，获利回吐导致原油暴跌",
-  "url": "",
-  "summary": "(RTTNews) - 原油价格在最近几个交易日飙升后回落，周五因有报道称伊朗与海湾合作委员会成员国可能会举行会议后预计霍尔木兹海峡可能重新开放。",
-  "pub_time": "2026-09-11T18:41:15Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "ccc6c8bc1b7a41d769652599175b27df",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Crude Oil Slumps Amid Rising Expectations Of An End To Hormuz Crisis, Profit-taking"
  }
 ]
