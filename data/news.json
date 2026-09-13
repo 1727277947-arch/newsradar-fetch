@@ -1,5 +1,88 @@
 [
  {
+  "title": "Mysteel早读：鞍钢本钢凌钢10月涨价",
+  "url": "https://news.mysteel.com/a/26091407/91D78AB6515C9D9E.html",
+  "summary": "",
+  "pub_time": "2026-09-14T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "58926a4e7f695048ff24fcb9e58b4f0b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "外媒称沙特输油管道停运，或造成全球石油供应减少4%",
+  "url": "https://news.mysteel.com/a/26091407/C187E53FC499310E.html",
+  "summary": "",
+  "pub_time": "2026-09-14T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "f623e9fb20443e1002271bc9e8ecb5b8",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel早读：鞍钢本钢凌钢10月涨价，沙特关键输油管道中断",
+  "url": "https://news.mysteel.com/a/26091407/E350B7F879DD95C1.html",
+  "summary": "",
+  "pub_time": "2026-09-14T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "fe9c1ede48b5f1256d4915f769ea671b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "StanChart警告说，石油现在是为更锋利，更频繁的峰值而建造的",
+  "url": "",
+  "summary": "周四，油价自7月以来首次触及近110 $/桶，中东冲突尚未结束。伊斯兰革命卫队周三宣布，它袭击并严重破坏了霍尔木兹海峡的八艘油轮和两艘美国海军驱逐舰，以报复",
+  "pub_time": "2026-09-13T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "2f9e42a05127fa9b892df757799a452a",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "StanChart Warns Oil Is Now Built for Sharper, More Frequent Spikes"
+ },
+ {
   "title": "油价进一步飙升可能再次引发对经济衰退的担忧",
   "url": "",
   "summary": "本周的油价飙升大幅提高了美联储下周加息的几率，并重新启动了经济衰退对话，这是自伊朗战争最初几周以来的首次。本周油价飙升，布伦特原油价格自7月以来首次突破每桶100 $ ，",
@@ -644,25 +727,6 @@
   "en_title": "Oil Industry Braces for Years-Long Iran War"
  },
  {
-  "title": "Mysteel宏观周报：两部门发文治理低价无序竞争",
-  "url": "https://news.mysteel.com/a/26091222/2E464A266149A1E6.html",
-  "summary": "",
-  "pub_time": "2026-09-12T22:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "d527b8189f4f6cb63270cc62c1f4a4ad",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel宏观周报：两部门发文治理低价无序竞争，前8月我国外贸增长亮眼",
   "url": "https://news.mysteel.com/a/26091222/CD63B1A800F7D575.html",
   "summary": "",
@@ -1092,57 +1156,5 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "美国能源部拨款 7300 万美元用于推进国内采矿技术",
-  "url": "",
-  "summary": "选定的项目将开发采矿试验场并支持研发项目，以加速技术从实验室到测试和示范的进展。",
-  "pub_time": "2026-09-11T23:46:11Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "83a69ff9aed5f292903ec6509ee04ea7",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "能源"
-  ],
-  "en_title": "US Department of Energy grants $73M to advance domestic mining technology"
- },
- {
-  "title": "矿业在加拿大总理 1T 加元的投资者推介书中处于领先地位",
-  "url": "",
-  "summary": "马克·卡尼 (Mark Carney) 寻求在五年内为加拿大带来 7,230 亿美元的投资。",
-  "pub_time": "2026-09-11T23:25:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "cdaf3d3ff58e8671c744e55c4853eebc",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铅"
-  ],
-  "en_title": "Mining leads Canadian Prime Minister’s C$1T investor pitchbook"
  }
 ]
