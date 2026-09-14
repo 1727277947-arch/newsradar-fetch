@@ -1,5 +1,70 @@
 [
  {
+  "title": "霍尔木兹运输量下降，中东石油路线面临压力",
+  "url": "",
+  "summary": "据观察，本周末通过霍尔木兹海峡的商品船数量锐减至个位数，而在沙特阿拉伯关闭了从红海绕过霍尔木兹运送原油的主要东西向管道后，中东供应的风险飙升。常用数量",
+  "pub_time": "2026-09-14T09:15:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "85d17511ca46b50e3343b0d1c33ed542",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "暴跌"
+  ],
+  "en_title": "Middle East Oil Routes Under Pressure as Hormuz Traffic Tumbles"
+ },
+ {
+  "title": "关键矿产日报：SC原油大涨超11%",
+  "url": "https://news.mysteel.com/a/26091417/D3D34069B094CF17.html",
+  "summary": "",
+  "pub_time": "2026-09-14T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "d827097cec3f20160cc12b651c6b9113",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "关键矿产日报：SC原油大涨超11%，多家矿业公司拟提高铝土矿产能",
+  "url": "https://news.mysteel.com/a/26091417/E652086A352E86FA.html",
+  "summary": "",
+  "pub_time": "2026-09-14T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "d8310ca9085f67f8d844066c1a6107f5",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "（活力中国调研行）专家把脉湖北县域经济发展：四大优势助力领跑争先",
   "url": "https://www.chinanews.com.cn/cj/2026/09-14/10696187.shtml",
   "summary": "记者 刘大炜 武一力 余瑞冬)中国宏观经济研究院社会发展研究所社会事业研究室副主任赵玉峰14日在武汉表示，湖北全省县域经济基础扎实、势头强劲，当前正处在从“中部领跑”向“全国争先”跨越突破的关键窗口期、黄金机遇期",
@@ -212,13 +277,13 @@
   "en_title": "Brent Hits $108 as Saudi Pipeline Shutdown Deepens Supply Fears"
  },
  {
-  "title": "Mysteel午报：钢价多数下跌，黑色期货飘绿",
-  "url": "https://news.mysteel.com/a/26091411/91BE8C40CDF82FA3.html",
+  "title": "乐亭钢铁节能降碳改造获批",
+  "url": "https://news.mysteel.com/a/26091411/A62022682348F0E2.html",
   "summary": "",
   "pub_time": "2026-09-14T03:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "8fe9095adb0a3ab630c9a8302031465b",
+  "dedup_key": "4fd11f67b17aaab5510e844d21663376",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -231,13 +296,13 @@
   "is_elite": false
  },
  {
-  "title": "乐亭钢铁节能降碳改造获批",
-  "url": "https://news.mysteel.com/a/26091411/A62022682348F0E2.html",
+  "title": "Mysteel午报：钢价多数下跌，黑色期货飘绿",
+  "url": "https://news.mysteel.com/a/26091411/1FDAE1BA3959AF0C.html",
   "summary": "",
   "pub_time": "2026-09-14T03:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "4fd11f67b17aaab5510e844d21663376",
+  "dedup_key": "8fe9095adb0a3ab630c9a8302031465b",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
