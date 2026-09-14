@@ -1,7 +1,7 @@
 {
- "checked_at": "2026-09-14T17:46:56",
+ "checked_at": "2026-09-14T18:28:24",
  "source": "origin/main",
- "data_updated_at": "2026-09-14T17:31:57",
+ "data_updated_at": "2026-09-14T18:24:12",
  "ok": false,
  "anomaly_count": 3,
  "anomalies": [
@@ -28,6 +28,7 @@
   "常规档 09-14 08:00，实际 09:15 启动（晚 76 分钟）",
   "早盘打板 计划 09-14 03:37，实际 04:08 启动（晚 32 分钟）"
  ],
+ "auto_heal": null,
  "summary": "发现 3 项异常：定时漏档",
  "history": [
   {
@@ -50,6 +51,13 @@
    "anomaly_count": 3,
    "summary": "发现 3 项异常：定时漏档",
    "data_updated_at": "2026-09-14T17:31:57"
+  },
+  {
+   "checked_at": "2026-09-14T18:28:24",
+   "ok": false,
+   "anomaly_count": 3,
+   "summary": "发现 3 项异常：定时漏档",
+   "data_updated_at": "2026-09-14T18:24:12"
   }
  ]
 }
