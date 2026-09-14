@@ -152,25 +152,6 @@
   "is_elite": false
  },
  {
-  "title": "黑色期货早报：各品种多数下跌，多机构料螺纹钢震荡偏弱",
-  "url": "https://news.mysteel.com/a/26091409/887F4FD1883777E7.html",
-  "summary": "",
-  "pub_time": "2026-09-14T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "ab77985f59dbfecfa7f978c84cb41d98",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel周报：家电原材料价格监测（9.4-9.11）",
   "url": "https://news.mysteel.com/a/26091409/43C938F308ED050E.html",
   "summary": "",
@@ -361,6 +342,25 @@
   "is_elite": false
  },
  {
+  "title": "黑色期货早报：各品种多数下跌，多机构料螺纹钢震荡偏弱",
+  "url": "https://news.mysteel.com/a/26091409/DCEFF465EE2B0622.html",
+  "summary": "",
+  "pub_time": "2026-09-14T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "ab77985f59dbfecfa7f978c84cb41d98",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "亚新钢铁自2026年9月10日起停产",
   "url": "https://news.mysteel.com/a/26091408/62A8AF342E7D31F4.html",
   "summary": "",
@@ -473,6 +473,36 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
+ },
+ {
+  "title": "随着中东袭击的持续和外交陷入困境，油价飙升",
+  "url": "",
+  "summary": "周一，油价在亚洲早期贸易中最初上涨逾3% ，原因是中东持续的袭击以及海湾国家与伊朗之间的紧缩会议推迟，引发了对供应中断严重且持续的担忧。在撰写本文时，两项基准均已回落",
+  "pub_time": "2026-09-14T02:39:17Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "1335c9ff4a9f2b46bde5196d4aa18219",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "锡",
+   "价",
+   "大涨",
+   "暴跌"
+  ],
+  "en_title": "Oil Prices Surge as Middle East Attacks Continue and Diplomacy Stumbles"
  },
  {
   "title": "澳大利亚敦促模仿美国推动增加当地棉花需求",
@@ -995,25 +1025,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年9月13日辽宁锦州新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/13/3409625112.shtml",
-  "summary": "",
-  "pub_time": "2026-09-13T00:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "5f4f0102ca0189592582c7b800269255",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年9月13日湖北省天门新季大豆价格行情",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/13/4451781547.shtml",
   "summary": "",
@@ -1185,25 +1196,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年9月13日山东德州新季小麦价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/13/3500908181.shtml",
-  "summary": "",
-  "pub_time": "2026-09-13T00:00:00Z",
-  "source": "粮油小麦",
-  "_cn": true,
-  "dedup_key": "59f8d4554154fcc61ad5d1f66b150e72",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油小麦"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年9月13日天津市场豆油价格行情",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/13/1621395650.shtml",
   "summary": "",
@@ -1216,6 +1208,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月13日辽宁锦州新季玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/13/3409625112.shtml",
+  "summary": "",
+  "pub_time": "2026-09-13T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "d8febe99bb6454e747b93f827d62ec50",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "粮油首页"
@@ -1306,6 +1317,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "0a15415d59db0c47a69fe8ecc93a3978",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月13日山东德州新季小麦价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/13/3500908181.shtml",
+  "summary": "",
+  "pub_time": "2026-09-13T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "3f87b996a8a8dc95aa0f0ad4f3d692c1",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
