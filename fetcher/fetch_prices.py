@@ -973,63 +973,59 @@ def _kline_rows_for(sym):
 
 
 def _afternoon_plans(it, pp, rows):
-    """午后板点位置算(方案C: 同品种, 但基准换成午后实时价, 不再照抄晨板的今开)。
+    """午后板点位重算：基准换成午后实时价，方向仍只出一个（与晨板同口径）。
 
-    晨板以 real_open(今开)为进场基准; 午后行情已走出, 沿用今开会让"进场价"远离现价,
-    实际无法成交。这里以午后最新价 future 为基准重算多/空双方案:
-      - 取价方式保持"顺日线方向回踩现价承接"(多) / "跌破现价才空"(空, 条件式)
-      - 止损仍用该品种 ATR 历史回测自适应(不写死%)
-      - 止盈 2R 落袋, 并受当日真实板位约束
-    返回 (long_plan, short_plan, meta); 数据不足返回 (None, None, None)。"""
+    方向取 pp.direction；一档进场位 = 现价 ± 0.2×ATR（追强/破位确认），
+    止损唯一 = 该品种 ATR 历史回测自适应，止盈 2R 并受当日真实板位约束。
+    返回 (plan, meta)；数据不足或 R 非正则返回 (None, None)。"""
     P = it.get("future")
     if not P:
-        return (None, None, None)
+        return (None, None)
     try:
         P = float(P)
     except Exception:
-        return (None, None, None)
+        return (None, None)
     if P <= 0:
-        return (None, None, None)
+        return (None, None)
+    d = int(pp.get("direction") or 0)
+    if d == 0:
+        return (None, None)
     bup = float(it.get("board_up") or 0.0)
     bdn = float(it.get("board_down") or 0.0)
-    sl_l = _atr_adaptive_stop(rows, 1, P)
-    sl_s = _atr_adaptive_stop(rows, -1, P)
-    if not sl_l or not sl_s:
-        return (None, None, None)
-    # 确认缓冲与晨板统一：0.2×ATR（旧版这里是“现价市价承接”，空单固定 0.1%）。
-    # 晨牌已改成 0.2×ATR，若午后仍用旧口径，同一品种上下午两份数据会互相矛盾。
+    # 确认缓冲与晨板统一：0.2×ATR
     _buf = _atr_buffer_pct(pp, P)
-    e_l = P * (1 + _buf)
-    s_l = float(sl_l["stop"])
-    r_l = e_l - s_l
-    t_l = e_l + 2 * r_l
-    if bup > 0:
-        t_l = min(t_l, bup * 0.995)
-    # 空单: 条件式, 跌破现价 0.2×ATR 才成立
-    e_s = P * (1 - _buf)
-    s_s = float(sl_s["stop"])
-    r_s = s_s - e_s
-    t_s = e_s - 2 * r_s
-    if bdn > 0:
-        t_s = max(t_s, bdn * 1.005)
-    # 板位约束下 R 仍须为正, 否则该方向无可做空间
-    long_plan = None
-    if r_l > 0 and t_l > e_l:
-        long_plan = {'entry': round(e_l, 3), 'sl': round(s_l, 3), 'tp': round(t_l, 3),
-                     'sl_pct': round(float(sl_l["stop_pct"]), 2), 'rr': 2.0,
-                     'basis': 'afternoon_last', 'k': sl_l["k"], 'hit_rate': sl_l["hit_rate"],
-                     'note': '午后重算·现价承接做多; 止损ATR自适应, 2R落袋'}
-    short_plan = None
-    if r_s > 0 and t_s < e_s:
-        short_plan = {'entry': round(e_s, 3), 'sl': round(s_s, 3), 'tp': round(t_s, 3),
-                      'sl_pct': round(float(sl_s["stop_pct"]), 2), 'rr': 2.0,
-                      'basis': 'afternoon_break', 'k': sl_s["k"], 'hit_rate': sl_s["hit_rate"],
-                      'note': '午后重算·跌破现价才空(条件式); 止损ATR自适应, 2R落袋'}
-    meta = {'basis_price': round(P, 3), 'atr': float(sl_l["atr"]),
-            'long_k': sl_l["k"], 'short_k': sl_s["k"],
-            'long_hit': sl_l["hit_rate"], 'short_hit': sl_s["hit_rate"]}
-    return (long_plan, short_plan, meta)
-
+    sl = _atr_adaptive_stop(rows, d, P)
+    if not sl:
+        return (None, None)
+    if d == 1:
+        _entry = P * (1 + _buf)
+        _stop = float(sl["stop"])
+        _tp = _entry + 2 * (_entry - _stop)
+        if bup > 0: _tp = min(_tp, bup * 0.995)
+        if not (_entry - _stop > 0 and _tp > _entry):
+            return (None, None)
+        plan = {'dir': 'long', 'dir_label': '做多',
+                'entry': round(_entry, 3), 'entry_alt': None, 'entry_alt_kind': None,
+                'sl': round(_stop, 3), 'tp': round(_tp, 3),
+                'sl_pct': round(float(sl["stop_pct"]), 2), 'rr': 2.0,
+                'basis': 'afternoon_last', 'k': sl["k"], 'hit_rate': sl["hit_rate"],
+                'note': '午后重算·转强确认进多; 止损ATR自适应, 2R落袋; 进场后立刻反向即离场'}
+    else:
+        _entry = P * (1 - _buf)
+        _stop = float(sl["stop"])
+        _tp = _entry - 2 * (_stop - _entry)
+        if bdn > 0: _tp = max(_tp, bdn * 1.005)
+        if not (_stop - _entry > 0 and _tp < _entry):
+            return (None, None)
+        plan = {'dir': 'short', 'dir_label': '做空',
+                'entry': round(_entry, 3), 'entry_alt': None, 'entry_alt_kind': None,
+                'sl': round(_stop, 3), 'tp': round(_tp, 3),
+                'sl_pct': round(float(sl["stop_pct"]), 2), 'rr': 2.0,
+                'basis': 'afternoon_break', 'k': sl["k"], 'hit_rate': sl["hit_rate"],
+                'note': '午后重算·破位确认才空(条件式); 止损ATR自适应, 2R落袋; 进场后立刻反向即离场'}
+    meta = {'basis_price': round(P, 3), 'atr': float(sl["atr"]),
+            'k': sl["k"], 'hit_rate': sl["hit_rate"]}
+    return (plan, meta)
 
 
 def _atr_adaptive_stop(rows, direct, entry, lookback=60, atr_n=14, maxhit=0.25):
@@ -1082,7 +1078,16 @@ def _atr_adaptive_stop(rows, direct, entry, lookback=60, atr_n=14, maxhit=0.25):
 # 打板点位口径版本：凡改动进场/止损口径（如缓冲从固定 0.15% 改为 0.2×ATR）就 +1。
 # 已锁定的晨/午板快照带着旧版号时会被自动判为陈旧并重算，
 # 避免“改了口径但手机上还挂着旧口径数值一整天”。
-PLAN_RULESET = 2
+PLAN_RULESET = 3
+
+
+def _fm(v):
+    """点位格式化：大数取整数、小数保留三位。"""
+    try:
+        x = float(v)
+    except Exception:
+        return "-"
+    return ("%g" % x) if x >= 1000 else ("%.3f" % x)
 
 
 def _atr_buffer_pct(pp, price=None):
@@ -1213,64 +1218,56 @@ def build_hf_picks(items, preds=None, pool_out=None):
                 anchor = _ap0
         if anchor <= 0:
             anchor = float(fut or 0.0)
-        TP = 0.03; EXIT = 0.0015; HS = 0.001
-        # (A) futures-only: if already chased far, offer a reentry level; spot=trend only
-        # 注意: anchor 是“当下进场基准价”, 必须恒等于实时价, 不能被回踩位覆盖。
-        # 历史故障: 这里曾把 anchor 直接改写成今日开盘价, 于是 reason/tp/sl/long_plan.entry
-        # 全部跟着漂移, 出现“现价 133600、却给出 139980 的做空进场价”(比现价高 4.8%),
-        # 以及多单挂在现价上方永远挂不上——用户看到的正是“打板数据跟行情反着来”。
-        # 现在只把回踩位单独放进 pullback, anchor 保持实时价不动。
-        pc_a = _es
-        op_a = _eo
-        RALLY_END_MA = 1.6
-        pullback = None
-        if pc_a > 0 and op_a > 0 and anchor > 0:
-            _chased = ((anchor - pc_a) / pc_a * 100.0) if direct == 1 else ((pc_a - anchor) / anchor * 100.0)
-            if _chased >= RALLY_END_MA:
-                if direct == 1 and op_a < anchor:
-                    pullback = round(op_a, 3)
-                elif direct == -1 and op_a > anchor:
-                    pullback = round(op_a, 3)
-        if direct == 1:
-            tp = anchor * (1 + TP); sl = anchor * (1 - HS); ex = anchor * (1 - EXIT); lev = "追强做多"
-        else:
-            tp = anchor * (1 - TP); sl = anchor * (1 + HS); ex = anchor * (1 + EXIT); lev = "追跌做空"
-        # 同日双方案(仅该打板品种): 一个多单一个空单; 止损按品种ATR历史回测自适应(不写死%), 止盈2R落袋(+板位约束)
-        #
-        # 取价基准必须用"当下实时价(anchor)"，不能再用"今开 real_open"：
-        # 如果早盘高开后一路走低(今开 3550、现价 3336)，把多单进场挂在 3550 等于让用户在
-        # 已经跌破 6% 的位置去接多，价格根本不会回到那里成交 —— 用户看到的方案就是"永远挂不上"。
-        # 这里改成以现价为轴心：多单等回踩确认、空单等跌破确认，各自用 ATR 定止损、2R 定止盈。
+        # anchor 恒等于当下实时价；任何“回踩位/今开”都不得覆盖它，否则整份方案会跟着漂移。
+        op_a = _eo      # 东财今开（与 anchor 同源）
+        pc_a = _es      # 东财昨结
+        lev = "追强做多" if direct == 1 else "追跌做空"
+        # ===== 单方向方案：一个方向 + 一个止损 + 同方向双轨进场 =====
+        # 用户口径：同一价位附近又给“多单”又给“空单”等于没做；止损也只能有一个数。
+        # 只按 direct（日线方向 + 实时方向）出一个方向，另给同方向的第二档进场位：
+        #   做多 -> 一档 = 现价 + 0.2×ATR（追强确认）; 二档 = 今开（回踩承接，仅当今开在现价下方且仍在止损之上）
+        #   做空 -> 一档 = 现价 - 0.2×ATR（破位确认）; 二档 = 今开（反抽做空，仅当今开在现价上方且仍在止损之下）
+        # 止损唯一：按该品种 ATR 历史回测自适应（不写死百分比）；止盈 2R，并受当日真实板位约束。
         _ro = float(anchor or fut or it.get('real_open') or op_a or 0.0)
         _ulp = float(pp.get('sl_long_pct') or 0.8)
         _usp = float(pp.get('sl_short_pct') or 0.8)
         _bup = float(it.get('board_up') or 0.0)
         _bdn = float(it.get('board_down') or 0.0)
+        plan = None
         if _ro > 0:
-            # 确认位 = 现价 + 0.2×ATR（等转强才进多）。
-            # 旧版有一条“今开若落在缓冲区内就用今开”的捷径，那是为 0.15% 窄缓冲写的；
-            # 缓冲改成 0.2×ATR(约 0.5%~0.9%)后它几乎总会命中，会把 ATR 缓冲整个吃掉
-            # （碳酸锂实测只剩 0.04%），故删除。回踩进场需求由 pullback 单独表达。
             _buf = _atr_buffer_pct(pp, _ro)
-            _e_l = _ro * (1 + _buf)
-            _s_l = _e_l * (1 - _ulp / 100.0)
-            _r_l = _e_l - _s_l
-            _t_l = _e_l + 2 * _r_l
-            if _bup > 0: _t_l = min(_t_l, _bup * 0.995)
-            long_plan = {'entry': round(_e_l, 3), 'sl': round(_s_l, 3), 'tp': round(_t_l, 3),
-                         'sl_pct': round(_ulp, 2), 'rr': 2.0, 'basis': 'live_reclaim',
-                         'note': '以现价为基准·转强确认进多; 止损ATR自适应, 2R落袋'}
-            # 空单：现价下方同等幅度作为"破位确认位"，跌破才空(条件式)
-            _e_s = _ro * (1 - _buf)
-            _s_s = _e_s * (1 + _usp / 100.0)
-            _r_s = _s_s - _e_s
-            _t_s = _e_s - 2 * _r_s
-            if _bdn > 0: _t_s = max(_t_s, _bdn * 1.005)
-            short_plan = {'entry': round(_e_s, 3), 'sl': round(_s_s, 3), 'tp': round(_t_s, 3),
-                          'sl_pct': round(_usp, 2), 'rr': 2.0, 'basis': 'live_break',
-                          'note': '跌破现价确认位才空(条件式); 止损ATR自适应, 2R落袋'}
-        else:
-            long_plan = None; short_plan = None
+            if direct == 1:
+                _entry = _ro * (1 + _buf)
+                _sl = _entry * (1 - _ulp / 100.0)
+                _tp = _entry + 2 * (_entry - _sl)
+                if _bup > 0: _tp = min(_tp, _bup * 0.995)
+                _alt = op_a if (op_a > 0 and _sl < op_a < _ro) else None
+                _kind = '回踩承接' if _alt else None
+                _pct = _ulp
+            else:
+                _entry = _ro * (1 - _buf)
+                _sl = _entry * (1 + _usp / 100.0)
+                _tp = _entry - 2 * (_sl - _entry)
+                if _bdn > 0: _tp = max(_tp, _bdn * 1.005)
+                _alt = op_a if (op_a > 0 and _ro < op_a < _sl) else None
+                _kind = '反抽做空' if _alt else None
+                _pct = _usp
+            _ok = (_entry > 0 and _sl > 0 and _tp > 0
+                   and ((direct == 1 and _tp > _entry) or (direct == -1 and _tp < _entry)))
+            if _ok:
+                plan = {
+                    'dir': 'long' if direct == 1 else 'short',
+                    'dir_label': '做多' if direct == 1 else '做空',
+                    'entry': round(_entry, 3),
+                    'entry_alt': (round(_alt, 3) if _alt else None),
+                    'entry_alt_kind': _kind,
+                    'sl': round(_sl, 3), 'tp': round(_tp, 3),
+                    'sl_pct': round(_pct, 2), 'rr': 2.0,
+                    'basis': 'live_reclaim' if direct == 1 else 'live_break',
+                    'note': (('以现价为基准·转强确认进多' if direct == 1
+                              else '跌破现价确认位才空(条件式)')
+                             + '; 止损ATR自适应, 2R落袋; 进场后立刻反向即离场'),
+                }
         picks.append({
             "symbol": sym, "name": it.get("name"), "category": it.get("category"),
             "unit": it.get("unit"), "price": round(fut, 3),
@@ -1278,23 +1275,24 @@ def build_hf_picks(items, preds=None, pool_out=None):
             "day_range_pct": round(rng, 2), "limit_score": ls,
             "board": pp.get("board", "一般/观望"),
             "dual": _open_dual(it, pp),
-            "long_plan": long_plan, "short_plan": short_plan,
+            "plan": plan,
             "real_open": it.get("real_open"),
             "day_bias": pp.get("day_bias") or "mix",
             "day_ma": (pp.get("day_ma") if _src_ok else None),
             "est_margin": round(mg, 2), "hands_in_100k": int(100000.0 / mg) if mg > 0 else 0,
             "volume": int(vol), "open_interest": int(oi), "mode": lev,
-            "anchor": round(anchor, 3), "pullback": pullback, "tp": round(tp, 3), "sl": round(sl, 3), "exit_price": round(ex, 3),
+            "anchor": round(anchor, 3),
+            "tp": (plan or {}).get("tp"), "sl": (plan or {}).get("sl"),
+            "pullback": (plan or {}).get("entry_alt"),
             "src_conflict": (not _src_ok),
             "ruleset": PLAN_RULESET,
             "board_score": round(score, 3),
             "day_conflict": _conflict,
-            "reason": ("今日打板 · 方向%s · 实时%+.2f%% / 波幅%.2f%% / 打板分%d: 进场≈%s, 止盈%s, 反向%s离场, 硬止损%s" % (
+            "reason": ("今日打板 · 方向%s · 实时%+.2f%% / 波幅%.2f%% / 打板分%d: %s进场≈%s, 止损%s, 止盈%s" % (
                 pp.get("label", ""), pp.get("limit_ru") or 0.0, rng, ls,
-                ("%g" % anchor) if anchor >= 1000 else ("%.3f" % anchor),
-                ("%g" % tp) if tp >= 1000 else ("%.3f" % tp),
-                ("%g" % ex) if ex >= 1000 else ("%.3f" % ex),
-                ("%g" % sl) if sl >= 1000 else ("%.3f" % sl))),
+                (("二档%s≈%s、" % ((plan or {}).get("entry_alt_kind"), _fm((plan or {}).get("entry_alt"))))
+                 if (plan or {}).get("entry_alt") else ""),
+                _fm((plan or {}).get("entry")), _fm((plan or {}).get("sl")), _fm((plan or {}).get("tp")))),
         })
     picks.sort(key=lambda x: -x["board_score"])
 
@@ -1612,17 +1610,23 @@ if __name__ == "__main__":
                 # 曾出现过：新浪与东财跨源偏离 13.95% 时，回踩位被算成 3000(现价 3505)。
                 if not _stale:
                     try:
+                        # 单方向方案：多单进场必须高于自身快照现价，空单必须低于；
+                        # 且止损必须在进场的反侧（多：止损<进场；空：止损>进场）。
                         _px_s = float(_pm.get("price") or 0.0)
-                        _lp_s = _pm.get("long_plan") or {}
-                        _sp_s = _pm.get("short_plan") or {}
-                        _pb_s = float(_pm.get("pullback") or 0.0)
-                        _le_s = _lp_s.get("entry")
-                        _se_s = _sp_s.get("entry")
-                        if _px_s > 0 and _le_s is not None and float(_le_s) <= _px_s:
+                        _pn = _pm.get("plan") or {}
+                        _pd = _pn.get("dir")
+                        _pe = _pn.get("entry")
+                        _psl = _pn.get("sl")
+                        _pa2 = _pn.get("entry_alt")
+                        if _pd == 'long' and _pe is not None and _px_s > 0 and float(_pe) <= _px_s:
                             _stale = True
-                        elif _px_s > 0 and _se_s is not None and float(_se_s) >= _px_s:
+                        elif _pd == 'short' and _pe is not None and _px_s > 0 and float(_pe) >= _px_s:
                             _stale = True
-                        elif _pb_s > 0 and _hi_c > 0 and _lo_c > 0 and not (_lo_c <= _pb_s <= _hi_c):
+                        elif _pe is not None and _psl is not None and _pd == 'long' and float(_psl) >= float(_pe):
+                            _stale = True
+                        elif _pe is not None and _psl is not None and _pd == 'short' and float(_psl) <= float(_pe):
+                            _stale = True
+                        elif _pa2 is not None and _hi_c > 0 and _lo_c > 0 and not (_lo_c <= float(_pa2) <= _hi_c):
                             _stale = True
                     except Exception:
                         pass
@@ -1675,34 +1679,22 @@ if __name__ == "__main__":
             _ait = _item_by_sym.get(_asy)
             _app = _pred_by_sym.get(_asy, {})
             _arows = _kline_rows_for(_asy)
-            _pl, _ps, _pmeta = _afternoon_plans(_ait, _app, _arows) if (_ait and _arows) else (None, None, None)
-            if _pl or _ps:
-                afternoon_pick["long_plan"] = _pl
-                afternoon_pick["short_plan"] = _ps
+            _plan, _pmeta = _afternoon_plans(_ait, _app, _arows) if (_ait and _arows) else (None, None)
+            if _plan:
+                afternoon_pick["plan"] = _plan
                 afternoon_pick["plan_basis"] = "afternoon_last"
                 afternoon_pick["afternoon_meta"] = _pmeta
                 _ap = float((_pmeta or {}).get("basis_price") or 0.0)
                 if _ap > 0:
-                    # 锚点/止盈/离场/硬止损全部按午后价重算, 保持与盘面一致
-                    _ad = int(_app.get("direction") or 0)
-                    if _ad == 1:
-                        _atp = _ap * 1.03; _aex = _ap * (1 - 0.0015); _asl = _ap * (1 - 0.001)
-                    elif _ad == -1:
-                        _atp = _ap * 0.97; _aex = _ap * (1 + 0.0015); _asl = _ap * (1 + 0.001)
-                    else:
-                        _atp = _aex = _asl = 0.0
+                    # 锚点持平现价；止损/止盈取唯一那份方案的值
                     afternoon_pick["anchor"] = round(_ap, 3)
                     afternoon_pick["price"] = round(_ap, 3)
-                    if _atp: afternoon_pick["tp"] = round(_atp, 3)
-                    if _aex: afternoon_pick["exit_price"] = round(_aex, 3)
-                    if _asl: afternoon_pick["sl"] = round(_asl, 3)
-                    afternoon_pick["reason"] = ("午后重算 · 方向%s · 现价%s: 进场≈%s, 止盈%s, 反向%s离场, 硬止损%s" % (
-                        _app.get("label", ""),
-                        ("%g" % _ap) if _ap >= 1000 else ("%.3f" % _ap),
-                        ("%g" % _ap) if _ap >= 1000 else ("%.3f" % _ap),
-                        ("%g" % _atp) if _atp >= 1000 else ("%.3f" % _atp),
-                        ("%g" % _aex) if _aex >= 1000 else ("%.3f" % _aex),
-                        ("%g" % _asl) if _asl >= 1000 else ("%.3f" % _asl)))
+                    afternoon_pick["tp"] = _plan["tp"]
+                    afternoon_pick["sl"] = _plan["sl"]
+                    afternoon_pick["pullback"] = _plan.get("entry_alt")
+                    afternoon_pick["reason"] = ("午后重算 · 方向%s · 现价%s: 进场≈%s, 止损%s, 止盈%s" % (
+                        _app.get("label", ""), _fm(_ap),
+                        _fm(_plan.get("entry")), _fm(_plan.get("sl")), _fm(_plan.get("tp"))))
             else:
                 # 拿不到午后价/ATR -> 宁可留空, 也不照抄晨板价位充数
                 afternoon_pick = dict(empty)
