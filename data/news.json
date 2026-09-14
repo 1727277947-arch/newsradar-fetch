@@ -380,25 +380,6 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel解读：2026年钢坯出口高增，印尼成为核心拉动力",
-  "url": "https://news.mysteel.com/a/26091408/9C18DDDEF619CBFA.html",
-  "summary": "",
-  "pub_time": "2026-09-14T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "20f5484694cbc90e72991e37860bbb8d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel钢铁市场周度观察：成本支撑与需求约束并存，关注利润与铁水产量变化",
   "url": "https://news.mysteel.com/a/26091408/BC746FB547622B56.html",
   "summary": "",
@@ -411,6 +392,25 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel解读：2026年钢坯出口高增，印尼成为核心拉动力",
+  "url": "https://news.mysteel.com/a/26091408/603C9A5F4E52F3DC.html",
+  "summary": "",
+  "pub_time": "2026-09-14T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "20f5484694cbc90e72991e37860bbb8d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -473,6 +473,33 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
+ },
+ {
+  "title": "澳大利亚敦促模仿美国推动增加当地棉花需求",
+  "url": "",
+  "summary": "美国领导人呼吁澳大利亚版本的“购买美国棉花法案” ，以提高服装行业对棉花的预消费需求。",
+  "pub_time": "2026-09-14T02:29:29Z",
+  "source": "GrainCentral",
+  "_cat": "基本金属",
+  "dedup_key": "a3a1f116eb936219c3748b312da83492",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "棉花",
+   "需求"
+  ],
+  "en_title": "Aus urged to mimic US push for increased local cotton demand"
  },
  {
   "title": "国家统计局：9月上旬生猪（外三元）价格环比上涨0.9%",
@@ -987,63 +1014,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年9月13日山东德州玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/13/2943778790.shtml",
-  "summary": "",
-  "pub_time": "2026-09-13T00:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "c9080c43cd24ef03d8ccd84ef050fe23",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月13日内蒙古通辽玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/13/2921403519.shtml",
-  "summary": "",
-  "pub_time": "2026-09-13T00:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "cdaa813d22808d806fb35e32c048a538",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月13日吉林长春玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/13/2856934056.shtml",
-  "summary": "",
-  "pub_time": "2026-09-13T00:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "bd0e78b09288711e46895044203496e9",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年9月13日湖北省天门新季大豆价格行情",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/13/4451781547.shtml",
   "summary": "",
@@ -1246,6 +1216,63 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月13日山东德州玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/13/2943778790.shtml",
+  "summary": "",
+  "pub_time": "2026-09-13T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "3b1ac95db7d9274c17b145445b246126",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月13日内蒙古通辽玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/13/2921403519.shtml",
+  "summary": "",
+  "pub_time": "2026-09-13T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "b8918435d32c82fd17002c8b7a2e5a10",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月13日吉林长春玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/13/2856934056.shtml",
+  "summary": "",
+  "pub_time": "2026-09-13T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "89c181258cf6b58ea81994e1f8085d92",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "粮油首页"
