@@ -465,7 +465,33 @@ def parse_iso_utc(text):
     return stamp + timedelta(hours=8)
 
 
-def build_report(data, source, now, skip_schedule=False):
+def dispatch_fetch():
+    """数据过期时顺手触发一次 fetch.yml（云端自愈），返回 (是否成功, 说明)。"""
+    token = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN") or ""
+    if not token:
+        return False, "没有可用的 GITHUB_TOKEN，跳过自动补抓"
+    url = "https://api.github.com/repos/%s/actions/workflows/%s/dispatches" % (REPO, WORKFLOW_FILE)
+    body = json.dumps({"ref": "main"}).encode("utf-8")
+    request = urllib.request.Request(url, data=body, method="POST")
+    request.add_header("Authorization", "Bearer " + token)
+    request.add_header("Accept", "application/vnd.github+json")
+    request.add_header("Content-Type", "application/json")
+    request.add_header("User-Agent", "newsradar-health")
+    try:
+        with urllib.request.urlopen(request, timeout=30) as resp:
+            return resp.status in (201, 202, 204), "HTTP %s" % resp.status
+    except urllib.error.HTTPError as exc:
+        detail = ""
+        try:
+            detail = exc.read().decode("utf-8", "replace")[:160]
+        except Exception:  # noqa: BLE001
+            pass
+        return False, "HTTP %s %s" % (exc.code, detail)
+    except Exception as exc:  # noqa: BLE001
+        return False, str(exc)
+
+
+def build_report(data, source, now, skip_schedule=False, dispatch_if_stale=False):
     row_index = {
         row.get("symbol"): row
         for row in (data.get("prices") or [])
@@ -473,6 +499,10 @@ def build_report(data, source, now, skip_schedule=False):
     }
     issues = []
     issues += check_freshness(data, now)
+    auto_heal = None
+    if dispatch_if_stale and any(issue["item"] == "新鲜度" for issue in issues):
+        ok, detail = dispatch_fetch()
+        auto_heal = "已自动触发补抓（%s）" % detail if ok else "自动补抓失败：%s" % detail
     issues += check_board_consistency(data, row_index, now)
     issues += check_pick_precision(data)
     issues += check_afternoon_switch(data)
@@ -490,6 +520,7 @@ def build_report(data, source, now, skip_schedule=False):
         "anomaly_count": len(issues),
         "anomalies": issues,
         "notes": notes,
+        "auto_heal": auto_heal,
         "summary": "全部正常" if not issues else "发现 %d 项异常：%s" % (
             len(issues), "、".join(sorted({i["item"] for i in issues}))
         ),
@@ -543,6 +574,8 @@ def print_report(report):
     print("「心得」打板数据每日体检 · %s" % report["checked_at"])
     print("数据 updated_at: %s（来源 %s）" % (report["data_updated_at"], report["source"]))
     print("=" * 60)
+    if report.get("auto_heal"):
+        print(report["auto_heal"])
     if report["ok"]:
         print("全部正常，无需通知。")
         for note in report.get("notes") or []:
@@ -568,11 +601,14 @@ def main():
     parser.add_argument("--run-log", default=os.path.join(BASE, "data", "run_log.json"))
     parser.add_argument("--no-run-log", action="store_true")
     parser.add_argument("--skip-schedule", action="store_true", help="离线自检用：跳过 GitHub API 那一项")
+    parser.add_argument("--dispatch-if-stale", action="store_true",
+                        help="数据过期时顺手触发一次 fetch.yml 补抓（云端自愈）")
     parser.add_argument("--no-write", action="store_true", help="只打印，不落盘")
     args = parser.parse_args()
 
     data, source = load_prices(args.prices, args.prices_from_origin)
-    report = build_report(data, source, now_cn(), skip_schedule=args.skip_schedule)
+    report = build_report(data, source, now_cn(), skip_schedule=args.skip_schedule,
+                          dispatch_if_stale=args.dispatch_if_stale)
     print_report(report)
 
     if not args.no_write:
@@ -586,6 +622,8 @@ def main():
                 fh.write("## 「心得」打板数据每日体检\n\n")
                 fh.write("- 检查时间：%s（北京时间）\n" % report["checked_at"])
                 fh.write("- 数据 updated_at：%s\n" % report["data_updated_at"])
+                if report.get("auto_heal"):
+                    fh.write("- 自愈动作：%s\n" % report["auto_heal"])
                 fh.write("- 结论：%s\n\n" % report["summary"])
                 for idx, issue in enumerate(report["anomalies"], 1):
                     fh.write("### %d. 【%s】\n%s\n\n- 影响：%s\n- 建议：%s\n\n"

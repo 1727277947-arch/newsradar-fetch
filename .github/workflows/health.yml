@@ -2,7 +2,7 @@ name: daily-health
 run-name: daily-health (心得·打板数据体检)
 permissions:
   contents: write
-  actions: read
+  actions: write      # 需要写权限才能在数据过期时自动触发 fetch.yml 补抓
 on:
   schedule:
     # 北京时间 07:40 / 12:40（原 Codex 桌面端自动化同款时刻，UTC = 前一档 23:40 / 04:40）
@@ -41,6 +41,7 @@ jobs:
           git fetch origin --quiet || true
           python3 fetcher/daily_health.py \
             --prices-from-origin \
+            --dispatch-if-stale \
             --out data/health.json \
             --run-log data/run_log.json
           code=$?
