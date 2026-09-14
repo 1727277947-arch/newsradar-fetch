@@ -1,5 +1,24 @@
 [
  {
+  "title": "Mysteel周报：汽车原材料价格（9.7-9.13）",
+  "url": "https://news.mysteel.com/a/26091410/C34E1E3C164050FF.html",
+  "summary": "",
+  "pub_time": "2026-09-14T10:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "ceeff37fc229229e33d0e35c66a850ec",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/产业经济",
+  "tags": [
+   "产业经济",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "Mysteel：全国暴雨预警信号汇总（9月14日）",
   "url": "https://news.mysteel.com/a/26091409/085AFD81D0BDE8C4.html",
   "summary": "",
@@ -930,25 +949,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年9月13日黑龙江哈尔滨玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/13/2837756636.shtml",
-  "summary": "",
-  "pub_time": "2026-09-13T00:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "7ddd6817a03ff80ffaffbb5a3f8df274",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年9月13日湖北省天门新季大豆价格行情",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/13/4451781547.shtml",
   "summary": "",
@@ -1151,6 +1151,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月13日黑龙江哈尔滨玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/13/2837756636.shtml",
+  "summary": "",
+  "pub_time": "2026-09-13T00:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "263544895f7e75ee2d3c8b6d5d30cdb2",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "粮油首页"
