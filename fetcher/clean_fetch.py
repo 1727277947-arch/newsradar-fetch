@@ -9,7 +9,7 @@ clean_fetch.py - 定向抓取器（大宗商品全品种 + 国内财经）
 """
 import json, re, ssl, time, hashlib, sys, os, html
 import urllib.request, urllib.error
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 
 BASE = os.path.dirname(os.path.abspath(__file__))
@@ -487,8 +487,11 @@ def parse_mysteel(xml):
             try:
                 d = m.group(1)
                 year = int("20" + d[0:2]); month = int(d[2:4]); day = int(d[4:6]); hour = int(d[6:8])
-                pub = datetime(year, month, day, hour, 0, tzinfo=timezone.utc)
-                pub_time = pub.strftime("%Y-%m-%dT%H:%M:%SZ")
+                # URL 里的 YYMMDDHH 是北京时间（站点在华），必须声明 +08:00；
+                # 之前直接贴 tzinfo=utc，等价于把北京时间当 UTC，新闻时间凭空快 8 小时，
+                # 手机端就成了“-420 分钟前”。
+                pub = datetime(year, month, day, hour, 0, tzinfo=timezone(timedelta(hours=8)))
+                pub_time = pub.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
             except Exception:
                 pub = None
         hours_ago = max(0.0, (now - pub).total_seconds() / 3600) if pub else None
@@ -532,8 +535,10 @@ def parse_chinagrain(xml):
         pub = None; pub_time = ""
         if m:
             try:
-                pub = datetime(int(m.group(1)), int(m.group(2)), int(m.group(3)), 0, 0, tzinfo=timezone.utc)
-                pub_time = pub.strftime("%Y-%m-%dT%H:%M:%SZ")
+                # 同上：站点日期为北京时间
+                pub = datetime(int(m.group(1)), int(m.group(2)), int(m.group(3)), 0, 0,
+                               tzinfo=timezone(timedelta(hours=8)))
+                pub_time = pub.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
             except Exception:
                 pub = None
         hours_ago = max(0.0, (now - pub).total_seconds() / 3600) if pub else None
