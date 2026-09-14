@@ -1,5 +1,31 @@
 [
  {
+  "title": "油价跌至 100 美元使央行重新进入通胀警报",
+  "url": "",
+  "summary": "原油价格延续了早些时候的涨幅，延续到了本周，随着中东战争的扩大以及全球石油库存持续萎缩，和平解决方案的愿望似乎减弱，油价逆转的可能性很小。通货膨胀正在悄然加剧。经济衰退的担忧又回来了。可能只是",
+  "pub_time": "2026-09-14T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "7639001698068b0bd3784c1115417603",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "$100 Oil Puts Central Banks Back on Inflation Alert"
+ },
+ {
   "title": "BOM 2026 年 9 月 15 日每周降雨量更新 + 展望",
   "url": "",
   "summary": "继过去一周全国范围内仅有少量降雨后，预计下周西澳将迎来澳大利亚谷物带中唯一一次大降雨。",
@@ -648,33 +674,6 @@
    "中国新闻网-财经"
   ],
   "is_elite": false
- },
- {
-  "title": "布伦特原油价格为 108 美元：胡塞武装袭击沙特空军基地，海湾国家暂停霍尔木兹谈判",
-  "url": "",
-  "summary": "海湾国家取消了周一计划与伊朗就重新开放霍尔木兹海峡举行的会议，就在同一天，也门胡塞武装向沙特阿拉伯海米斯穆谢特的哈立德国王空军基地发射了数十枚导弹和无人机，称这是对沙特在五天内对也门发动的 300 多次空袭的报复。周五",
-  "pub_time": "2026-09-14T12:43:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "bb857f237a97d480d052bcd8ebf49935",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "布伦特油价",
-   "罢工"
-  ],
-  "en_title": "Brent at $108: Gulf States Halt Hormuz Talks as Houthis Strike Saudi Airbase"
  },
  {
   "title": "美国政府获得Trilogy Metals 10%的股份",
