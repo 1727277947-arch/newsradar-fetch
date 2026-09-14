@@ -1176,8 +1176,19 @@ def build_hf_picks(items, preds=None):
         # 全部跟着漂移, 出现“现价 133600、却给出 139980 的做空进场价”(比现价高 4.8%),
         # 以及多单挂在现价上方永远挂不上——用户看到的正是“打板数据跟行情反着来”。
         # 现在只把回踩位单独放进 pullback, anchor 保持实时价不动。
-        pc_a = float(pp.get('prev_close') or 0.0)
-        op_a = float(pp.get('today_open') or 0.0)
+        # 跨源体检：predictions(新浪) 与 东财实时价偶发不同步（甲醇曾出现 13.95% 偏离），
+        # 一旦混用，pp 的今开/昨结属于另一套价格刻度，会把回踩位算成“比现价低 14%”的垃圾值。
+        # 因此今开/昨结优先取东财原生字段（与 anchor 同源），pp 仅在跨源偏离 <=2% 时兜底。
+        _dev = float(it.get('cross_source_dev_pct') or 0.0)
+        _src_ok = _dev <= 2.0
+        _eo = float(it.get('real_open') or 0.0)
+        _es = float(it.get('last_settle') or 0.0)
+        if _eo <= 0 and _src_ok:
+            _eo = float(pp.get('today_open') or 0.0)
+        if _es <= 0 and _src_ok:
+            _es = float(pp.get('prev_close') or 0.0)
+        pc_a = _es
+        op_a = _eo
         RALLY_END_MA = 1.6
         pullback = None
         if pc_a > 0 and op_a > 0 and anchor > 0:
@@ -1203,10 +1214,12 @@ def build_hf_picks(items, preds=None):
         _bup = float(it.get('board_up') or 0.0)
         _bdn = float(it.get('board_down') or 0.0)
         if _ro > 0:
-            # 多单：现价上方 0.15% 作为"转强确认位"；若今开更高，则用较低者，避免挂到不可及的高位。
+            # 多单进场必须严格高于现价（等转强确认）。今开若落在(现价, 确认位]区间内，
+            # 改用真实成交过的今开；但不能用 max(op_a, _ro) 兜底——那会在“现价高于今开”时
+            # 把进场压回现价，退化成市价追（甲醇就出现过 多单进场==现价）。
             _e_l = _ro * 1.0015
-            if op_a > 0:
-                _e_l = min(_e_l, max(op_a, _ro))
+            if _ro < op_a < _e_l:
+                _e_l = op_a
             _s_l = _e_l * (1 - _ulp / 100.0)
             _r_l = _e_l - _s_l
             _t_l = _e_l + 2 * _r_l
