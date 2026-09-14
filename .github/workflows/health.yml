@@ -1,0 +1,106 @@
+name: daily-health
+run-name: daily-health (心得·打板数据体检)
+permissions:
+  contents: write
+  actions: read
+on:
+  schedule:
+    # 北京时间 07:40 / 12:40（原 Codex 桌面端自动化同款时刻，UTC = 前一档 23:40 / 04:40）
+    - cron: '40 23 * * *'    # 北京 07:40 盘前体检
+    - cron: '40 4 * * *'     # 北京 12:40 午后板体检
+  workflow_dispatch:
+    inputs:
+      strict:
+        description: '严格模式：任何非0退出都标红（默认同此）'
+        default: '1'
+jobs:
+  health:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # 先体检（只读）。默认只在发现异常时返回 1，但这里先吞掉退出码，
+      # 保证报告无论如何都能提交出去，最后一步再把 run 标红。
+      - name: Run health checks
+        id: check
+        shell: bash
+        env:
+          TZ: Asia/Shanghai
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN || github.token }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          set +e
+          git fetch origin --quiet || true
+          python3 fetcher/daily_health.py \
+            --prices-from-origin \
+            --out data/health.json \
+            --run-log data/run_log.json
+          code=$?
+          echo "exit_code=$code" >> "$GITHUB_OUTPUT"
+          echo "健康检查退出码：$code（0=正常，1=有异常）"
+          exit 0
+
+      - name: Publish report (GitHub + Gitee)
+        shell: bash
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITEE_REPO: https://gitee.com/ys15251239086/shuobao-gitee.git
+          GITEE_BRANCH: master
+          GITEE_USER: ys15251239086
+          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN || github.token }}
+        run: |
+          set +e
+          STAMP=$(date '+%Y%m%d-%H%M%S')
+          git config user.name "NewsRadarBot"
+          git config user.email "bot@newsradar.local"
+          git add data/health.json data/run_log.json
+          git commit -m "daily health check ${STAMP}" || echo "no github changes"
+
+          if [ -n "${GITHUB_TOKEN:-}" ]; then
+            PUSH_URL="https://1727277947-arch:${GITHUB_TOKEN}@github.com/1727277947-arch/newsradar-fetch.git"
+          elif [ -n "${GH_TOKEN:-}" ]; then
+            PUSH_URL="https://1727277947-arch:${GH_TOKEN}@github.com/1727277947-arch/newsradar-fetch.git"
+          else
+            PUSH_URL=""
+          fi
+
+          pushed=0
+          if [ -n "$PUSH_URL" ]; then
+            git push "$PUSH_URL" "HEAD:main" || {
+              git pull --rebase origin main >/dev/null 2>&1 || true
+              git push "$PUSH_URL" "HEAD:main" || true
+            }
+            pushed=1
+          fi
+          if [ "$pushed" = "0" ]; then
+            echo "no token available, skip github push"
+          fi
+
+          if [ -z "${GITEE_TOKEN:-}" ]; then
+            echo "GITEE_TOKEN not set, skip gitee sync"
+            exit 0
+          fi
+          base="${GITEE_REPO##*/}"; base="${base%.git}"
+          python3 fetcher/push_gitee_api.py \
+            "$GITEE_USER" "$GITEE_TOKEN" "$GITEE_BRANCH" "${GITEE_USER}/${base}" \
+            "data/health.json=data/health.json" \
+            "data/run_log.json=data/run_log.json" \
+            || echo "[gitee] health sync failed (non-fatal), will retry next run"
+          exit 0
+
+      # 发现异常时把这次 run 标红，借此触发 GitHub 的失败通知（邮件/App）。
+      - name: Fail when anomalies found
+        if: steps.check.outputs.exit_code != '0'
+        shell: bash
+        run: |
+          echo "::error::体检发现异常，详见本 run 的 Summary 与 data/health.json"
+          exit 1
