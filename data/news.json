@@ -1,5 +1,77 @@
 [
  {
+  "title": "欧洲天然气价格上涨6% ，沙特管道关闭令市场震荡",
+  "url": "",
+  "summary": "欧洲基准天然气价格在阿姆斯特丹周一市场开盘时上涨了6% ，原因是中东地区能源流量升级威胁到能源流量的恢复，油价反弹。荷兰产权转让基金（ TTF ）的前月价格，欧洲天然气交易的基准，",
+  "pub_time": "2026-09-14T11:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "0ff7c00e264a82e9f0a2236a8a83f4e9",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气",
+   "价",
+   "跳涨"
+  ],
+  "en_title": "Europe Gas Prices Jump 6% as Saudi Pipeline Shutdown Rattles Markets"
+ },
+ {
+  "title": "Mysteel黑色金属例会：本周钢价或震荡偏弱",
+  "url": "https://news.mysteel.com/a/26091419/03234124E4A69CDA.html",
+  "summary": "",
+  "pub_time": "2026-09-14T11:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "1009e3941a41dfcb579d8c5e0569b697",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "亚洲炼油厂在沙特管道关闭后寻求答案",
+  "url": "",
+  "summary": "亚洲炼油商还不确定关闭通往红海的重要沙特东西方石油管道将如何影响延布港的石油装载量。沙特阿拉伯被迫暂时关闭东西方石油管道，此前无人驾驶飞机从伊拉克领土上发动袭击，",
+  "pub_time": "2026-09-14T10:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "f49b2cc036f7cd141320df710ff8c4f7",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Asian Refiners Seek Answers After Saudi Pipeline Shutdown"
+ },
+ {
   "title": "霍尔木兹运输量下降，中东石油路线面临压力",
   "url": "",
   "summary": "据观察，本周末通过霍尔木兹海峡的商品船数量锐减至个位数，而在沙特阿拉伯关闭了从红海绕过霍尔木兹运送原油的主要东西向管道后，中东供应的风险飙升。常用数量",
@@ -99,25 +171,6 @@
    "中文",
    "国内",
    "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "（活力中国调研行）专家把脉湖北县域经济发展：四大优势助力领跑争先",
-  "url": "https://www.chinanews.com.cn/cj/2026/09-14/10696187.shtml",
-  "summary": "记者 刘大炜 武一力 余瑞冬)中国宏观经济研究院社会发展研究所社会事业研究室副主任赵玉峰14日在武汉表示，湖北全省县域经济基础扎实、势头强劲，当前正处在从“中部领跑”向“全国争先”跨越突破的关键窗口期、黄金机遇期",
-  "pub_time": "2026-09-14T08:05:28Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "64ca4cb3533b012143ed5ab4ded828d7",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
   ],
   "is_elite": false
  },
@@ -2327,31 +2380,5 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "为什么越来越多的家庭正在从燃气泵转向热泵",
-  "url": "",
-  "summary": "热泵正成为燃气中央供暖系统越来越受欢迎的替代品，并越来越多地用于新建筑，这通常是由政府激励措施推动的。热泵使用的技术类似于冰箱或空调中的技术，",
-  "pub_time": "2026-09-12T15:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "20b370363944b000f4d247b5c82ac4f9",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气"
-  ],
-  "en_title": "Why More Homes Are Switching From Gas to Heat Pumps"
  }
 ]
