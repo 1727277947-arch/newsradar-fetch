@@ -1100,7 +1100,7 @@ def _atr_buffer_pct(pp, price=None):
     return 0.0015
 
 
-def build_hf_picks(items, preds=None):
+def build_hf_picks(items, preds=None, pool_out=None):
     """今日打板推荐（每天只做一次）：优先 波动大 + 方向强 + 小资金可开，给出具体进场/止损/止盈位。
     口径：只用当天有明显方向(做多=追强/做空=追跌)的品种，波幅优先；弱鸡观望的不推；一只是今日主推。"""
     import math as _m
@@ -1285,6 +1285,7 @@ def build_hf_picks(items, preds=None):
             "est_margin": round(mg, 2), "hands_in_100k": int(100000.0 / mg) if mg > 0 else 0,
             "volume": int(vol), "open_interest": int(oi), "mode": lev,
             "anchor": round(anchor, 3), "pullback": pullback, "tp": round(tp, 3), "sl": round(sl, 3), "exit_price": round(ex, 3),
+            "src_conflict": (not _src_ok),
             "ruleset": PLAN_RULESET,
             "board_score": round(score, 3),
             "day_conflict": _conflict,
@@ -1297,21 +1298,43 @@ def build_hf_picks(items, preds=None):
         })
     picks.sort(key=lambda x: -x["board_score"])
 
-    # ===== 分级：顺势(day_conflict 为空)的进主推池；逆势/缠绕的进兜底池 =====
-    # 李永强口径里逆势单是该放弃的，所以主推池非空时兜底池完全不参与排名。
-    # 只有一种情况用兜底池：整个市场同时逆势(日线多头排列、当日却集体回落这类),
-    # 主推池被清空——此时若不兜底，上游拿到的是空列表，用户端就表现为"今天没有打板数据"。
-    _primary = [x for x in picks if not x.get("day_conflict")]
-    _backup = [x for x in picks if x.get("day_conflict")]
-    if not _primary and _backup:
-        picks = _backup
+    # ===== 分级：三级候选池 =====
+    # tier1 顺势（日线方向与当日一致，可主推）
+    # tier2 逆势/缠绕（报价可信，但方向不利）
+    # tier3 数据源冲突（新浪与东财不同源，日线方向不可信）
+    # 三级池全部保留并按 tier 排序，供"午后板换标的"使用；
+    # 但推到界面上的 hf_picks 仍只给最精的那一级，不把杂项堆到手机上。
+    for _x in picks:
+        if _x.get("src_conflict"):
+            _x["tier"] = 3
+        elif _x.get("day_conflict"):
+            _x["tier"] = 2
+        else:
+            _x["tier"] = 1
+    _primary = [x for x in picks if x["tier"] == 1]
+    _alt     = [x for x in picks if x["tier"] == 2]
+    _conf    = [x for x in picks if x["tier"] == 3]
+    for _x in _alt:
+        _x["fallback_tier"] = "alt"
+        _x.setdefault("note_extra", "日线方向与当日相反或均线缠绕，按李永强口径应观望；仅作午后换标的备选。")
+    for _x in _conf:
+        _x["fallback_tier"] = "src_conflict"
+        _x.setdefault("note_extra", "新浪与东财报价不同源，日线方向不可信；仅作盯盘提示。")
+    # 完整分级池：仅供午后换标的与排查，App 不渲染该字段
+    if pool_out is not None:
+        pool_out.extend((_primary + _alt + _conf)[:8])
+    # 界面只给最精的一级：主推池为空才降到 tier2；tier3 永不主推
+    if _primary:
+        picks = _primary
+    elif _alt:
+        picks = _alt
         for _x in picks:
             _x["fallback_tier"] = "conflict"
             _x["note_extra"] = ("全部候选与日线方向相反，已降级为观察级：%s。按李永强口径应当观望，"
                                 "此条仅作盯盘提示，不建议直接进场。" % (_x.get("day_conflict") or ""))
     else:
-        picks = _primary
-    # 第一名为“今日打板主推”
+        picks = _conf[:1]
+    picks = picks[:5]          # 界面列表收窄：只要精，不要多而杂
     for idx, rp in enumerate(picks):
         rp["rank"] = idx + 1
         rp["is_today"] = (idx == 0)
@@ -1510,7 +1533,11 @@ if __name__ == "__main__":
     except Exception as e:
         print('[WARN] _fetch_em_boards:', str(e)[:80])
 
-    hf_picks = build_hf_picks(items, predictions)
+    _hf_pool = []
+    hf_picks = build_hf_picks(items, predictions, _hf_pool)
+    # 午后板换标的用完整分级池（界面仍只看 hf_picks）
+    if not _hf_pool:
+        _hf_pool = list(hf_picks)
 
     # ---- dual-board: independent time windows, never cross-contaminate ----
     BJT = int(time.strftime("%H"))          # run.sh exports TZ=Asia/Shanghai
@@ -1637,7 +1664,7 @@ if __name__ == "__main__":
     if afternoon_recompute:
         # 方案C: 优先选与晨板不同的品种(多一个机会); 池中若只剩晨板那一只,
         # 则仍盯同一品种, 但点位改用午后实时价重算 —— 不照抄晨板以"今开"为基准的价位。
-        cand = [x for x in hf_picks if (x.get("symbol") or x.get("name")) != _msym]
+        cand = [x for x in _hf_pool if (x.get("symbol") or x.get("name")) != _msym]
         if cand:
             afternoon_pick = cand[0]
             afternoon_pick["plan_basis"] = "alt_symbol"
@@ -1686,7 +1713,7 @@ if __name__ == "__main__":
         afternoon_pick = _pa if ((_pa.get("date") == now_date) and (_pa.get("symbol") or _pa.get("name"))
                                and str(_pa.get("ruleset") or "") == str(PLAN_RULESET)) else empty
         if _msym and afternoon_pick.get("symbol") == _msym and afternoon_pick.get("plan_basis") != "afternoon_last":
-            alt = [x for x in hf_picks if x.get("symbol") != _msym]
+            alt = [x for x in _hf_pool if x.get("symbol") != _msym]
             afternoon_pick = alt[0] if alt else afternoon_pick
         # 方案C: 午后板盯同一品种, 但点位用午后实时价重算(不再照抄晨板以今开为基准的价位)。
         # 仍优先选一只与晨板不同的品种(多一个机会); 若池中无第二只, 则同品种走"午后重算"。
@@ -1710,6 +1737,8 @@ if __name__ == "__main__":
         "prices": items,
         "predictions": predictions,
         "hf_picks": hf_picks,
+        "hf_pool": [{"symbol": (x.get("symbol") or ""), "name": x.get("name"),
+                    "tier": x.get("tier"), "conflict": x.get("day_conflict")} for x in _hf_pool],
         "daily_pick": {"date": today_s, "session": "morning", "ruleset": PLAN_RULESET, **morning_pick},
         "afternoon_pick": {"date": today_s, "session": "afternoon", "ruleset": PLAN_RULESET, **afternoon_pick},
         "trading_rules": TRADING_RULES,
