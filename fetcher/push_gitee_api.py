@@ -64,9 +64,13 @@ def main():
         }
         # strip newlines inside base64; gitee accepts standard trailing newline possibly
         body["content"] = b64
+        # 已存在的文件走 PUT（必须带 sha）；仓库里还没有的文件走 POST 新建，
+        # 否则 Gitee 会直接返回 400 {"messages":["sha is missing","sha is empty"]}。
         if cur_sha:
             body["sha"] = cur_sha
-        res = api(branch, repo, rp, token, method="PUT", body=body)
+            res = api(branch, repo, rp, token, method="PUT", body=body)
+        else:
+            res = api(branch, repo, rp, token, method="POST", body=body)
         if isinstance(res, dict) and res.get("__http_error"):
             messages.append("FAIL %s %s: %s" % (rp, res["__http_error"], res.get("__detail") or ""))
         else:
