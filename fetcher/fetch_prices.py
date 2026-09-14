@@ -1535,6 +1535,26 @@ if __name__ == "__main__":
                     _stale = True
                 elif _fut_c > 0 and abs(_a_old - _fut_c) / _fut_c > 0.05:
                     _stale = True
+                # 方案自相矛盾也判陈旧（与 anchor 护栏同一思路）：
+                # 多单进场必须高于自身快照现价、空单进场必须低于；
+                # pullback 按定义取自今开，必然落在当日[低,高]区间内。
+                # 曾出现过：新浪与东财跨源偏离 13.95% 时，回踩位被算成 3000(现价 3505)。
+                if not _stale:
+                    try:
+                        _px_s = float(_pm.get("price") or 0.0)
+                        _lp_s = _pm.get("long_plan") or {}
+                        _sp_s = _pm.get("short_plan") or {}
+                        _pb_s = float(_pm.get("pullback") or 0.0)
+                        _le_s = _lp_s.get("entry")
+                        _se_s = _sp_s.get("entry")
+                        if _px_s > 0 and _le_s is not None and float(_le_s) <= _px_s:
+                            _stale = True
+                        elif _px_s > 0 and _se_s is not None and float(_se_s) >= _px_s:
+                            _stale = True
+                        elif _pb_s > 0 and _hi_c > 0 and _lo_c > 0 and not (_lo_c <= _pb_s <= _hi_c):
+                            _stale = True
+                    except Exception:
+                        pass
                 if _stale:
                     print("[WARN] stale morning_pick dropped: %s anchor=%s vs future=%s range=[%s,%s]" %
                           (_pm.get("symbol"), _a_old, _fut_c, _lo_c, _hi_c))
