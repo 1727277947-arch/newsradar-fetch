@@ -1079,6 +1079,12 @@ def _atr_adaptive_stop(rows, direct, entry, lookback=60, atr_n=14, maxhit=0.25):
         return None
 
 
+# 打板点位口径版本：凡改动进场/止损口径（如缓冲从固定 0.15% 改为 0.2×ATR）就 +1。
+# 已锁定的晨/午板快照带着旧版号时会被自动判为陈旧并重算，
+# 避免“改了口径但手机上还挂着旧口径数值一整天”。
+PLAN_RULESET = 2
+
+
 def _atr_buffer_pct(pp, price=None):
     """转强/破位确认缓冲：0.2 × ATR。
     ATR 与新浪现价同源，故用比值(ATR/现价)换算，再套到东财同源现价上，
@@ -1279,6 +1285,7 @@ def build_hf_picks(items, preds=None):
             "est_margin": round(mg, 2), "hands_in_100k": int(100000.0 / mg) if mg > 0 else 0,
             "volume": int(vol), "open_interest": int(oi), "mode": lev,
             "anchor": round(anchor, 3), "pullback": pullback, "tp": round(tp, 3), "sl": round(sl, 3), "exit_price": round(ex, 3),
+            "ruleset": PLAN_RULESET,
             "board_score": round(score, 3),
             "day_conflict": _conflict,
             "reason": ("今日打板 · 方向%s · 实时%+.2f%% / 波幅%.2f%% / 打板分%d: 进场≈%s, 止盈%s, 反向%s离场, 硬止损%s" % (
@@ -1563,7 +1570,10 @@ if __name__ == "__main__":
                 _hi_c = float(_itc.get("day_high") or 0.0)
                 _fut_c = float(_itc.get("future") or 0.0)
                 _stale = False
-                if _a_old <= 0:
+                if str(_pm.get("ruleset") or "") != str(PLAN_RULESET):
+                    _stale = True
+                    print("[WARN] morning_pick ruleset %s != %s -> recompute" % (_pm.get("ruleset"), PLAN_RULESET))
+                elif _a_old <= 0:
                     _stale = True
                 elif _hi_c > 0 and _lo_c > 0 and not (_lo_c <= _a_old <= _hi_c):
                     _stale = True
@@ -1673,7 +1683,8 @@ if __name__ == "__main__":
         else:
             afternoon_pick = empty
     else:
-        afternoon_pick = _pa if ((_pa.get("date") == now_date) and (_pa.get("symbol") or _pa.get("name"))) else empty
+        afternoon_pick = _pa if ((_pa.get("date") == now_date) and (_pa.get("symbol") or _pa.get("name"))
+                               and str(_pa.get("ruleset") or "") == str(PLAN_RULESET)) else empty
         if _msym and afternoon_pick.get("symbol") == _msym and afternoon_pick.get("plan_basis") != "afternoon_last":
             alt = [x for x in hf_picks if x.get("symbol") != _msym]
             afternoon_pick = alt[0] if alt else afternoon_pick
@@ -1699,8 +1710,8 @@ if __name__ == "__main__":
         "prices": items,
         "predictions": predictions,
         "hf_picks": hf_picks,
-        "daily_pick": {"date": today_s, "session": "morning", **morning_pick},
-        "afternoon_pick": {"date": today_s, "session": "afternoon", **afternoon_pick},
+        "daily_pick": {"date": today_s, "session": "morning", "ruleset": PLAN_RULESET, **morning_pick},
+        "afternoon_pick": {"date": today_s, "session": "afternoon", "ruleset": PLAN_RULESET, **afternoon_pick},
         "trading_rules": TRADING_RULES,
         "rules_summary": TRADING_RULES_SUMMARY,
     }
