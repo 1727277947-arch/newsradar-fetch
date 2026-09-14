@@ -996,15 +996,17 @@ def _afternoon_plans(it, pp, rows):
     sl_s = _atr_adaptive_stop(rows, -1, P)
     if not sl_l or not sl_s:
         return (None, None, None)
-    # 多单: 以现价承接进场
-    e_l = P
+    # 确认缓冲与晨板统一：0.2×ATR（旧版这里是“现价市价承接”，空单固定 0.1%）。
+    # 晨牌已改成 0.2×ATR，若午后仍用旧口径，同一品种上下午两份数据会互相矛盾。
+    _buf = _atr_buffer_pct(pp, P)
+    e_l = P * (1 + _buf)
     s_l = float(sl_l["stop"])
     r_l = e_l - s_l
     t_l = e_l + 2 * r_l
     if bup > 0:
         t_l = min(t_l, bup * 0.995)
-    # 空单: 条件式, 跌破现价 0.1% 才成立
-    e_s = P * (1 - 0.001)
+    # 空单: 条件式, 跌破现价 0.2×ATR 才成立
+    e_s = P * (1 - _buf)
     s_s = float(sl_s["stop"])
     r_s = s_s - e_s
     t_s = e_s - 2 * r_s
@@ -1077,6 +1079,21 @@ def _atr_adaptive_stop(rows, direct, entry, lookback=60, atr_n=14, maxhit=0.25):
         return None
 
 
+def _atr_buffer_pct(pp, price=None):
+    """转强/破位确认缓冲：0.2 × ATR。
+    ATR 与新浪现价同源，故用比值(ATR/现价)换算，再套到东财同源现价上，
+    避免两源价格刻度不一致时直接相加。取不到 ATR 回退旧口径 0.15%；
+    下限 0.15% 防噪声、上限 2.0% 防挂不到。"""
+    try:
+        atr = float(pp.get('atr') or 0.0)
+        ref = float(pp.get('today_close') or 0.0)
+        if atr > 0 and ref > 0:
+            return max(0.0015, min(0.02, 0.2 * atr / ref))
+    except Exception:
+        pass
+    return 0.0015
+
+
 def build_hf_picks(items, preds=None):
     """今日打板推荐（每天只做一次）：优先 波动大 + 方向强 + 小资金可开，给出具体进场/止损/止盈位。
     口径：只用当天有明显方向(做多=追强/做空=追跌)的品种，波幅优先；弱鸡观望的不推；一只是今日主推。"""
@@ -1103,6 +1120,22 @@ def build_hf_picks(items, preds=None):
             continue
         direct = int(pp.get("direction") or 0)
         _conflict = None
+        # ===== 跨源体检（每次现算，不依赖 cross_source_dev_pct）=====
+        # cross_source_dev_pct 只有做过东财合并的少数品种才有，对大盘字段起不到关门作用。
+        # 这里直接拿东财现价(anchor 同源) 对比新浪现价，全品种生效。
+        _px_e = float(it.get("future") or 0.0)
+        _px_x = float(pp.get("today_close") or 0.0)
+        if _px_e > 0 and _px_x > 0:
+            _dev = abs(_px_e - _px_x) / _px_x * 100.0
+        else:
+            _dev = float(it.get("cross_source_dev_pct") or 0.0)
+        _src_ok = _dev <= 2.0
+        _eo = float(it.get("real_open") or 0.0)
+        _es = float(it.get("last_settle") or 0.0)
+        if _eo <= 0 and _src_ok:
+            _eo = float(pp.get("today_open") or 0.0)
+        if _es <= 0 and _src_ok:
+            _es = float(pp.get("prev_close") or 0.0)
         # ===== 候选资格：按李永强口径分级，绝不静默留白 =====
         # 一级(主推池)：日线方向与当日实时方向一致(顺势)，且板价/资金/波幅都过关。
         # 二级(兜底池)：资格没问题但日线方向与当日相反(逆势)或均线缠绕——按李的口径这是"观望"，
@@ -1111,8 +1144,13 @@ def build_hf_picks(items, preds=None):
         #   所以这里保留二级兜底：宁可给一只并明确标注"逆势/缠绕·不追"，也不留白。
         if direct == 0:                 # 观望的不构成打板机会
             continue
+        # 两源价差过大时，日线方向/均线都是另一套刻度，不能拿来判顺逆势 -> 归兜底池并标注。
+        if not _src_ok:
+            _conflict = "数据源冲突(新浪/东财偏离%.1f%%)·日线不可信" % _dev
         dayb = pp.get("day_bias") or "mix"
-        if dayb == "mix":
+        if _conflict is not None:
+            pass
+        elif dayb == "mix":
             _conflict = "日线均线缠绕"
         elif direct == 1 and dayb == "bear":
             _conflict = "日线空头排列·逆势做多"
@@ -1176,17 +1214,6 @@ def build_hf_picks(items, preds=None):
         # 全部跟着漂移, 出现“现价 133600、却给出 139980 的做空进场价”(比现价高 4.8%),
         # 以及多单挂在现价上方永远挂不上——用户看到的正是“打板数据跟行情反着来”。
         # 现在只把回踩位单独放进 pullback, anchor 保持实时价不动。
-        # 跨源体检：predictions(新浪) 与 东财实时价偶发不同步（甲醇曾出现 13.95% 偏离），
-        # 一旦混用，pp 的今开/昨结属于另一套价格刻度，会把回踩位算成“比现价低 14%”的垃圾值。
-        # 因此今开/昨结优先取东财原生字段（与 anchor 同源），pp 仅在跨源偏离 <=2% 时兜底。
-        _dev = float(it.get('cross_source_dev_pct') or 0.0)
-        _src_ok = _dev <= 2.0
-        _eo = float(it.get('real_open') or 0.0)
-        _es = float(it.get('last_settle') or 0.0)
-        if _eo <= 0 and _src_ok:
-            _eo = float(pp.get('today_open') or 0.0)
-        if _es <= 0 and _src_ok:
-            _es = float(pp.get('prev_close') or 0.0)
         pc_a = _es
         op_a = _eo
         RALLY_END_MA = 1.6
@@ -1214,12 +1241,12 @@ def build_hf_picks(items, preds=None):
         _bup = float(it.get('board_up') or 0.0)
         _bdn = float(it.get('board_down') or 0.0)
         if _ro > 0:
-            # 多单进场必须严格高于现价（等转强确认）。今开若落在(现价, 确认位]区间内，
-            # 改用真实成交过的今开；但不能用 max(op_a, _ro) 兜底——那会在“现价高于今开”时
-            # 把进场压回现价，退化成市价追（甲醇就出现过 多单进场==现价）。
-            _e_l = _ro * 1.0015
-            if _ro < op_a < _e_l:
-                _e_l = op_a
+            # 确认位 = 现价 + 0.2×ATR（等转强才进多）。
+            # 旧版有一条“今开若落在缓冲区内就用今开”的捷径，那是为 0.15% 窄缓冲写的；
+            # 缓冲改成 0.2×ATR(约 0.5%~0.9%)后它几乎总会命中，会把 ATR 缓冲整个吃掉
+            # （碳酸锂实测只剩 0.04%），故删除。回踩进场需求由 pullback 单独表达。
+            _buf = _atr_buffer_pct(pp, _ro)
+            _e_l = _ro * (1 + _buf)
             _s_l = _e_l * (1 - _ulp / 100.0)
             _r_l = _e_l - _s_l
             _t_l = _e_l + 2 * _r_l
@@ -1227,8 +1254,8 @@ def build_hf_picks(items, preds=None):
             long_plan = {'entry': round(_e_l, 3), 'sl': round(_s_l, 3), 'tp': round(_t_l, 3),
                          'sl_pct': round(_ulp, 2), 'rr': 2.0, 'basis': 'live_reclaim',
                          'note': '以现价为基准·转强确认进多; 止损ATR自适应, 2R落袋'}
-            # 空单：现价下方 0.15% 作为"破位确认位"，跌破才空(条件式)
-            _e_s = _ro * (1 - 0.0015)
+            # 空单：现价下方同等幅度作为"破位确认位"，跌破才空(条件式)
+            _e_s = _ro * (1 - _buf)
             _s_s = _e_s * (1 + _usp / 100.0)
             _r_s = _s_s - _e_s
             _t_s = _e_s - 2 * _r_s
@@ -1248,7 +1275,7 @@ def build_hf_picks(items, preds=None):
             "long_plan": long_plan, "short_plan": short_plan,
             "real_open": it.get("real_open"),
             "day_bias": pp.get("day_bias") or "mix",
-            "day_ma": pp.get("day_ma"),
+            "day_ma": (pp.get("day_ma") if _src_ok else None),
             "est_margin": round(mg, 2), "hands_in_100k": int(100000.0 / mg) if mg > 0 else 0,
             "volume": int(vol), "open_interest": int(oi), "mode": lev,
             "anchor": round(anchor, 3), "pullback": pullback, "tp": round(tp, 3), "sl": round(sl, 3), "exit_price": round(ex, 3),
@@ -1426,6 +1453,12 @@ def _apply_em_quotes(items, boards):
                 it["change"] = round(last - st, 4)
                 it["change_pct"] = round((last - st) / st * 100.0, 2)
                 it["trend"] = "up" if last > st else ("down" if last < st else "flat")
+                # 基差必须跟着同源昨结走：并入东财昨结后若沿用旧 basis，
+                # 会出现"基差 620.67 但 现货-昨结 只有 306.67"这种自相矛盾的展示。
+                _sp2 = float(it.get("spot") or 0.0)
+                if _sp2 > 0:
+                    it["basis"] = round(_sp2 - st, 2)
+                    it["basis_pct"] = round((_sp2 - st) / st * 100.0, 2)
         except Exception:
             pass
         n_ok += 1
@@ -1506,9 +1539,10 @@ if __name__ == "__main__":
         print("[catch-up] age check skipped:", str(_e)[:60])
     prev_date = _pm.get("date") or ""
     morning_locked = (prev_date == now_date)
-    # 漏档自愈时解除晨板锁定（此时 prev 已经把 updated_at 对齐到很久以前，锚点是旧数据）
-    if catch_up:
-        morning_locked = False
+    # 漏档自愈(catch_up) 不再解除晨板锁定：
+    # cron 实际间隔经常 >75 分钟，原来的无条件解锁导致「晨板」一天被重招好几次
+    # （例：09-14 的 09:19 就把碳酸锂换成了甲醇）。现在只依靠下方的内容自洽护栏：
+    # 真出现旧锚点/方案自相矛盾才丢弃重算，否则晨板一天不变。
 
     # ===== 陈旧晨板护栏 =====
     # 晨板(03:30 推的那份)按设计要锁一整天，不能被盘中重算覆盖——这是对的。
