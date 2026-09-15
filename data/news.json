@@ -1,5 +1,101 @@
 [
  {
+  "title": "“算力金属”，为何涨得这么猛？",
+  "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696523.shtml",
+  "summary": "上半年，铝、铜、锡、钽、铟等金属价格大涨——",
+  "pub_time": "2026-09-15T01:06:38Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "063542cc7c6707532de473486c481f51",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "反季节天气导致加拿大谷物收成延迟",
+  "url": "",
+  "summary": "雷暴季节给加拿大农民的收割带来了不寻常的强度和数量的降雨。",
+  "pub_time": "2026-09-15T00:44:03Z",
+  "source": "GrainCentral",
+  "_cat": "基本金属",
+  "dedup_key": "5bad84f8c863f16f1f418cb6d7e6a41c",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "谷物"
+  ],
+  "en_title": "Unseasonal weather delays Canadian grain harvest"
+ },
+ {
+  "title": "实地走访展示为缓冲艰难季节而培育的 DP 小麦",
+  "url": "",
+  "summary": "Hurdle 将于周四在西澳的田间行走中亮相，作为种植者的一个选择，他们希望小麦在好季节丰产，并且可以在艰难的季节放牧或打包。",
+  "pub_time": "2026-09-15T00:37:10Z",
+  "source": "GrainCentral",
+  "_cat": "基本金属",
+  "dedup_key": "e555997d98a0126ba8c17e603536b790",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "小麦"
+  ],
+  "en_title": "Field walk to showcase DP wheat bred to buffer tough seasons"
+ },
+ {
+  "title": "每日市场快讯 2026 年 9 月 15 日",
+  "url": "",
+  "summary": "油籽在能源中发挥着积极作用。玉米保持建设性。尽管物理状况良好，但小麦收盘偏软。",
+  "pub_time": "2026-09-15T00:31:15Z",
+  "source": "GrainCentral",
+  "_cat": "能源",
+  "dedup_key": "52ad53fca049596fa473c9ccecff2dda",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Daily Market Wire 15 September 2026"
+ },
+ {
   "title": "能源危机期间富裕投资者纷纷涌向石油和天然气资产",
   "url": "",
   "summary": "美国和全球经济继续以历史性的速度创造高净值人士，财富情报公司Altrata指出，到2025年，全球亿万富翁的总财富同比跃升12.8%，达到创纪录的15.1万亿美元。“三逗号俱乐部”的排名再创新高",
@@ -25,6 +121,44 @@
    "能源"
   ],
   "en_title": "Wealthy Investors Flock To Oil & Gas Assets Amid Energy Crisis"
+ },
+ {
+  "title": "广发期货：铁矿石01合约逢高布局空单为主",
+  "url": "https://news.mysteel.com/a/26091508/E33645B9EE1F23CE.html",
+  "summary": "",
+  "pub_time": "2026-09-15T00:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "85e67ae295aba9596a93a07750ecab5a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "广发期货：钢价高位回落走势",
+  "url": "https://news.mysteel.com/a/26091508/9BC6EF87D8E62A01.html",
+  "summary": "",
+  "pub_time": "2026-09-15T00:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "a7769e2bd90641e25af67edc2a070065",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
  },
  {
   "title": "油价跌至 100 美元使央行重新进入通胀警报",
@@ -92,7 +226,7 @@
  },
  {
   "title": "Mysteel早读：特朗普称愿与伊朗谈判，板带首席10月展望",
-  "url": "https://news.mysteel.com/a/26091507/8B693B2F83828F2D.html",
+  "url": "https://news.mysteel.com/a/26091507/7FA4105BD627EC3A.html",
   "summary": "",
   "pub_time": "2026-09-14T23:00:00Z",
   "source": "上海钢联Mysteel",
@@ -552,6 +686,25 @@
   "en_title": "Chevron Targets Four Continents in New LNG Expansion Drive"
  },
  {
+  "title": "2026年9月15日大连豆粕期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/15/5850805010.shtml",
+  "summary": "",
+  "pub_time": "2026-09-14T16:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "17a8f491d6550e83dc3d668d5a3475fc",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "CBOT豆粕上涨，基准期约收高1%",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/15/5808653923.shtml",
   "summary": "",
@@ -567,6 +720,25 @@
    "中文",
    "国内",
    "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月15日大连玉米期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/15/0858995586.shtml",
+  "summary": "",
+  "pub_time": "2026-09-14T16:00:00Z",
+  "source": "粮油玉米",
+  "_cn": true,
+  "dedup_key": "a70e1712ec732d7b175814650bf333e8",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油玉米"
   ],
   "is_elite": false
  },
@@ -590,8 +762,27 @@
   "is_elite": false
  },
  {
+  "title": "2026年9月15日大连大豆期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/15/5831371421.shtml",
+  "summary": "",
+  "pub_time": "2026-09-14T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "be3469cacab8f1bf7f2de00ff20f24fa",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "CBOT大豆上涨，因中西部收获或延误，油价走高",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/15/0152791820.shtml",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/15/5719954748.shtml",
   "summary": "",
   "pub_time": "2026-09-14T16:00:00Z",
   "source": "粮油大豆",
@@ -605,25 +796,6 @@
    "中文",
    "国内",
    "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
-  "title": "CBOT小麦大多期约收低，因黑海局势或缓和",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/15/0244656108.shtml",
-  "summary": "",
-  "pub_time": "2026-09-14T16:00:00Z",
-  "source": "粮油小麦",
-  "_cn": true,
-  "dedup_key": "7e354503907d5e1c3a8712d6e54d8681",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油小麦"
   ],
   "is_elite": false
  },
@@ -647,6 +819,82 @@
   "is_elite": false
  },
  {
+  "title": "2026年9月15日大连豆油期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/15/0708542749.shtml",
+  "summary": "",
+  "pub_time": "2026-09-14T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "fb621e275d22b278b4fc66c73e5e9d4a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月15日郑州菜油期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/15/0507370246.shtml",
+  "summary": "",
+  "pub_time": "2026-09-14T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "5a133a0f863a1b394c799e590b04db10",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月15日大连棕榈油期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/15/5910282771.shtml",
+  "summary": "",
+  "pub_time": "2026-09-14T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "a6429dc8f4a183345076048436892710",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "马来西亚棕榈油日评：棕榈油上涨，跟随原油走强",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/15/0450728463.shtml",
+  "summary": "",
+  "pub_time": "2026-09-14T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "3c90965cadcba578bfca9951fc2a203f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "CBOT豆油追随原油上涨",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/15/5859216992.shtml",
   "summary": "",
@@ -654,6 +902,63 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "9e78fa0a854ab2f68f694b2c8f3da21b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月15日郑州菜粕期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/15/0528758156.shtml",
+  "summary": "",
+  "pub_time": "2026-09-14T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "21b3edd5969424a082679440479d4cad",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT小麦大多期约收低，因黑海局势或缓和",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/15/0244656108.shtml",
+  "summary": "",
+  "pub_time": "2026-09-14T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "3b89498dbafc6041b22ee25ea9b3cd3f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月15日大连粳米期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/15/0306339501.shtml",
+  "summary": "",
+  "pub_time": "2026-09-14T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "18357a62bb0c05ace1880729264c27d6",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1439,31 +1744,6 @@
   "en_title": "Market Check launches first-of-its-kind grain marketing academy for growers and agribusiness"
  },
  {
-  "title": "每日市场电报2026年9月14日",
-  "url": "",
-  "summary": "WASDE周五小麦市场下跌2% ，玉米紧随其后，油菜籽因芝加哥抛售而走低。",
-  "pub_time": "2026-09-14T01:26:33Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "75615fbc94b65f992e181dea028af2ab",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品"
-  ],
-  "en_title": "Daily Market Wire 14 September 2026"
- },
- {
   "title": "Mysteel：全国暴雨预警信号汇总（9月14日）",
   "url": "https://news.mysteel.com/a/26091409/1BB391AD816405B3.html",
   "summary": "",
@@ -1585,101 +1865,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "f4b8cc6d23bfd83cd415419ec36aaf38",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "中州期货：焦煤流拍率仍偏高，双焦震荡偏弱",
-  "url": "https://news.mysteel.com/a/26091409/D0311B8BB0EB9FC5.html",
-  "summary": "",
-  "pub_time": "2026-09-14T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "d6f8e7c3d1993976c2978d383bb3f37b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "中州期货：周末唐山钢坯维稳，钢材震荡偏弱",
-  "url": "https://news.mysteel.com/a/26091409/B829B0F7CF4F20CF.html",
-  "summary": "",
-  "pub_time": "2026-09-14T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "e7dcc0121030ac4a886d07dadea28264",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "瑞达期货：热卷短线承压",
-  "url": "https://news.mysteel.com/a/26091409/C41EF804B0250DEF.html",
-  "summary": "",
-  "pub_time": "2026-09-14T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "d3a502ea9de5a82a24d10f8bf5b67d7f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "瑞达期货：螺纹钢行情震荡偏弱",
-  "url": "https://news.mysteel.com/a/26091409/84CC60F8091BAE4B.html",
-  "summary": "",
-  "pub_time": "2026-09-14T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "12d216d3153c52d44945b891ad367bd7",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "瑞达期货：铁矿石期价承压",
-  "url": "https://news.mysteel.com/a/26091409/73D57B91463D9C22.html",
-  "summary": "",
-  "pub_time": "2026-09-14T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "178b7084d70f6a7a63aa96bd85164e17",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1945,25 +2130,6 @@
   "is_elite": false
  },
  {
-  "title": "BAGE：阿根廷小麦作物评级正常到优良的比例提高至95.9%",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/14/4712510236.shtml",
-  "summary": "",
-  "pub_time": "2026-09-13T16:00:00Z",
-  "source": "粮油小麦",
-  "_cn": true,
-  "dedup_key": "28758fd4dc6a5e408177610131145989",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油小麦"
-  ],
-  "is_elite": false
- },
- {
   "title": "9月14日进口油菜籽到国内港口CF报价",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/14/0145416494.shtml",
   "summary": "",
@@ -2211,44 +2377,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年9月14日大连豆油期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/14/0419717956.shtml",
-  "summary": "",
-  "pub_time": "2026-09-13T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "2ee11df2e874a58df6d7cca8593c952f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月14日大连棕榈油期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/14/5857971572.shtml",
-  "summary": "",
-  "pub_time": "2026-09-13T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "0fe506d766bf019c63d01781ed48040d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年9月14日大连玉米期货收盘低开收跌",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/14/0005556618.shtml",
   "summary": "",
@@ -2401,6 +2529,25 @@
   "is_elite": false
  },
  {
+  "title": "BAGE：阿根廷小麦作物评级正常到优良的比例提高至95.9%",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/14/4712510236.shtml",
+  "summary": "",
+  "pub_time": "2026-09-13T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "07f834f7130d95947564526505f0d9ff",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年9月14日大连粳米期货收盘高开收跌",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/14/0427128518.shtml",
   "summary": "",
@@ -2446,6 +2593,44 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "faf4d2a511f977a65a430ed2c2521612",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月14日大连豆油期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/14/0419717956.shtml",
+  "summary": "",
+  "pub_time": "2026-09-13T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "2ee11df2e874a58df6d7cca8593c952f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月14日大连棕榈油期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/14/5857971572.shtml",
+  "summary": "",
+  "pub_time": "2026-09-13T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "0fe506d766bf019c63d01781ed48040d",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
