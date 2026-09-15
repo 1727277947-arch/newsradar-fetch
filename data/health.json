@@ -1,25 +1,13 @@
 {
- "checked_at": "2026-09-15T09:50:59",
+ "checked_at": "2026-09-15T17:35:45",
  "source": "origin/main",
- "data_updated_at": "2026-09-15T09:18:58",
+ "data_updated_at": "2026-09-15T17:00:52",
  "ok": false,
- "anomaly_count": 7,
+ "anomaly_count": 4,
  "anomalies": [
   {
-   "item": "板面自洽",
-   "evidence": "午板  缺少 price/plan/long_plan.entry/short_plan.entry（price=- long=- short=-）",
-   "impact": "进场价不可信，无法照单执行",
-   "action": "检查该品种 ATR 计算与 plan 生成"
-  },
-  {
-   "item": "板面自洽",
-   "evidence": "午板  anchor=- 与 price=- 不一致",
-   "impact": "锚点被改写会让回踩/追强两档错位",
-   "action": "检查 anchor 赋值链路（spot/future/last_settle 优先序）"
-  },
-  {
    "item": "定时漏档",
-   "evidence": "午后板 计划 09-14 11:43，但到 12:43 仍没有任何 run（最近一次 09-14 11:22）",
+   "evidence": "午后板 计划 09-15 11:43，但到 12:43 仍没有任何 run（最近一次 09-15 10:45）",
    "impact": "该场没有新数据，手机端这轮推送是旧行情（进场价可能已失效）",
    "action": "手动触发 fetch.yml 补跑；若反复出现需降低 cron 频率或改用兜底触发"
   },
@@ -37,22 +25,18 @@
   },
   {
    "item": "定时漏档",
-   "evidence": "常规档 09-14 14:00 起 90 分钟内没有任何 run（最近一次 09-14 11:22）",
-   "impact": "这一档整体丢失，期间数据不会刷新（数据变旧）",
-   "action": "手动触发 fetch.yml 补跑，并观察该时段 GitHub 队列情况"
-  },
-  {
-   "item": "定时漏档",
    "evidence": "常规档 09-14 22:00 起 90 分钟内没有任何 run（最近一次 09-14 21:30）",
    "impact": "这一档整体丢失，期间数据不会刷新（数据变旧）",
    "action": "手动触发 fetch.yml 补跑，并观察该时段 GitHub 队列情况"
   }
  ],
  "notes": [
+  "常规档 09-15 10:00，实际 10:45 启动（晚 45 分钟）",
+  "常规档 09-15 14:00，实际 15:04 启动（晚 64 分钟）",
   "早盘打板 计划 09-15 03:37，实际 04:13 启动（晚 37 分钟）"
  ],
  "auto_heal": null,
- "summary": "发现 7 项异常：定时漏档、板面自洽",
+ "summary": "发现 4 项异常：定时漏档",
  "history": [
   {
    "checked_at": "2026-09-14T17:41:51",
@@ -88,6 +72,13 @@
    "anomaly_count": 7,
    "summary": "发现 7 项异常：定时漏档、板面自洽",
    "data_updated_at": "2026-09-15T09:18:58"
+  },
+  {
+   "checked_at": "2026-09-15T17:35:45",
+   "ok": false,
+   "anomaly_count": 4,
+   "summary": "发现 4 项异常：定时漏档",
+   "data_updated_at": "2026-09-15T17:00:52"
   }
  ]
 }
