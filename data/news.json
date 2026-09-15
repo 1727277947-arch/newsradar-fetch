@@ -1,5 +1,138 @@
 [
  {
+  "title": "霍尔木兹风险导致原油等级之间的价格差距超过 40 美元",
+  "url": "",
+  "summary": "早在6月下旬，美国和伊朗同意在波斯湾停止敌对行动60天后，油价就暴跌。两个月后，布伦特原油价格超过每桶 107 美元，而 WTI 则接近 103 美元，因为海湾地区的石油价格之间出现了深深的鸿沟。",
+  "pub_time": "2026-09-15T22:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "a3bfe0c0b44948a197065e5e1de6d982",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价"
+  ],
+  "en_title": "Hormuz Risk Opens $40-Plus Price Gap Between Crude Grades"
+ },
+ {
+  "title": "随着库欣库存持续下跌，美国石油库存猛增",
+  "url": "",
+  "summary": "美国石油协会(API)估计，截至9月11日当周，美国原油库存大幅增加714万桶。此前一周，美国原油库存减少30万桶。不包括SPR的商业原油库存有所下降",
+  "pub_time": "2026-09-15T21:01:48Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "dc46911c2b9d68113b9a734d91db6f62",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "下跌",
+   "跳涨",
+   "库存"
+  ],
+  "en_title": "U.S. Oil Inventories Jump as Cushing Stocks Keep Falling"
+ },
+ {
+  "title": "亿万富翁莱因哈特的汉考克入股努纳武特铜矿勘探公司",
+  "url": "",
+  "summary": "澳大利亚矿业亿万富翁吉娜·莱因哈特 (Gina Rinehart) 的汉考克勘探公司 (Hancock Prospecting) 向专注于努纳武特地区的早期铜矿勘探公司 White Cliff Minerals (ASX: WCN; US-OTC: WCMLF) 投资 870 万澳元（860 万加元），获得 13.5% 的股份。",
+  "pub_time": "2026-09-15T21:00:54Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "1fc8674e98a31e2a5437ba586fa25bb0",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜"
+  ],
+  "en_title": "Billionaire Rinehart’s Hancock takes stake in Nunavut copper explorer"
+ },
+ {
+  "title": "Generation 排队筹集 $1.3B 马拉松融资",
+  "url": "",
+  "summary": "Generation Mining (TSX: GENM; US-OTC: GENMF) 已筹集到为其位于安大略省西北部的 Marathon 铜钯矿提供资金所需的最后 3.4 亿美元（2.44 亿美元），扫清了最后一个主要融资障碍...后 Generation 筹集了 1.3B 美元 Marathon 融资首先出现在 The Northern Mi 上",
+  "pub_time": "2026-09-15T20:55:42Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "9fae29ea335bd510a6f56b4f8cb46fa0",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Generation lines up $1.3B Marathon financing"
+ },
+ {
+  "title": "Hemlo 金矿停电导致产能增速放缓",
+  "url": "",
+  "summary": "Hemlo Mining (TSX: HMMC) 位于安大略省北部的同名矿场发生临时停电，导致地下作业量减少，从而减缓了计划中的黄金产量增长。股票暴跌。没有人... 赫姆洛金矿停电后缓慢增长的消息首先出现在《北方矿工》上。",
+  "pub_time": "2026-09-15T20:50:31Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "96224147e14647a826f35e42d75eec73",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Blackout at Hemlo gold mine to slow ramp-up"
+ },
+ {
   "title": "NDSU 扩展发布北达科他州土壤和肥料资源",
   "url": "",
   "summary": "",
@@ -182,32 +315,6 @@
   "en_title": "Agnico Eagle has no plans to join Barrick’s IPO"
  },
  {
-  "title": "亿万富翁莱因哈特的汉考克入股努纳武特铜矿勘探公司",
-  "url": "",
-  "summary": "澳大利亚矿业亿万富翁吉娜·莱因哈特 (Gina Rinehart) 的汉考克勘探公司 (Hancock Prospecting) 向专注于努纳武特地区的早期铜矿勘探公司 White Cliff Minerals (ASX: WCN; US-OTC: WCMLF) 投资 870 万澳元（860 万加元），获得 13.5% 的股份。",
-  "pub_time": "2026-09-15T18:09:54Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "1fc8674e98a31e2a5437ba586fa25bb0",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "Billionaire Rinehart’s Hancock takes stake in Nunavut copper explorer"
- },
- {
   "title": "金砖国家峰会瞄准美国对全球经济的影响力",
   "url": "",
   "summary": "与上海合作组织一样，金砖国家（新兴市场和发展中国家的全球组织）也致力于削弱西方对世界经济的影响力。就像九月初的上海合作组织峰会一样，最近一次金砖国家领导人的秘密会议也没有提出一个新的方案。",
@@ -283,31 +390,6 @@
    "下跌"
   ],
   "en_title": "Fall Weed Scouting Can Help Farmers Prepare for Next Season"
- },
- {
-  "title": "Generation 排队筹集 $1.3B 马拉松融资",
-  "url": "",
-  "summary": "Generation Mining (TSX: GENM; US-OTC: GENMF) 已筹集到为其位于安大略省西北部的 Marathon 铜钯矿提供资金所需的最后 3.4 亿美元（2.44 亿美元），扫清了最后一个主要融资障碍...后 Generation 筹集了 1.3B 美元 Marathon 融资首先出现在 The Northern Mi 上",
-  "pub_time": "2026-09-15T17:38:42Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "9fae29ea335bd510a6f56b4f8cb46fa0",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "Generation lines up $1.3B Marathon financing"
  },
  {
   "title": "海湾石油危机扩大，美联储加息押注增加，金价下滑",
@@ -572,32 +654,6 @@
   "en_title": "Blackout at Hemlo gold mine to slow ramp-up"
  },
  {
-  "title": "Hemlo 金矿停电导致产能增速放缓",
-  "url": "",
-  "summary": "Hemlo Mining (TSX: HMMC) 位于安大略省北部的同名矿场发生临时停电，导致地下作业量减少，从而减缓了计划中的黄金产量增长。股票暴跌。没有人... 赫姆洛金矿停电后缓慢增长的消息首先出现在《北方矿工》上。",
-  "pub_time": "2026-09-15T14:55:31Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "96224147e14647a826f35e42d75eec73",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Blackout at Hemlo gold mine to slow ramp-up"
- },
- {
   "title": "由于产量滞后，非洲关键矿产管道激增",
   "url": "",
   "summary": "根据最新编制的数据库，自 2025 年初以来，非洲的关键矿产管道已扩大了 36%，但勘探和开发的激增尚未转化为太多新产量。",
@@ -678,32 +734,6 @@
   "en_title": "China’s Yuan Crude Oil Futures Jump to Record High"
  },
  {
-  "title": "无人机袭击俄罗斯一半顶级柴油炼油厂",
-  "url": "",
-  "summary": "在乌克兰无人机袭击受损工厂后，俄罗斯六家最大的柴油生产炼油厂中的三家现已关闭或仅以约四分之一的产能运行，而这些工厂共同构成了该国燃料系统的支柱。六家炼油厂——鄂木斯克、基里什、Taneco、伏尔加格勒、NORSI 和彼尔姆——ac",
-  "pub_time": "2026-09-15T12:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "3bda21b1a23472d11d46554afa288d8a",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "罢工"
-  ],
-  "en_title": "Drone Strikes Cripple Half of Russia's Top Diesel Refineries"
- },
- {
   "title": "Radiant World起诉嘉能可索赔20亿美元",
   "url": "",
   "summary": "它加强了对涉嫌伪造铁矿石交易、发票和涉及这两家贸易公司的融资的越来越严格的法律审查。",
@@ -729,18 +759,18 @@
   "en_title": "Radiant World sues Glencore for $2 billion"
  },
  {
-  "title": "澳大利亚能源部长前往沙特阿拉伯寻求管道解决方案",
+  "title": "Radiant World起诉嘉能可索赔20亿美元",
   "url": "",
-  "summary": "澳大利亚能源部长克里斯·鲍恩（ Chris Bowen ）将于下周前往沙特阿拉伯，与沙特能源部长阿卜杜勒阿齐兹·本·萨勒曼王子（ Prince Abdulaziz bin Salman ）会面，了解沙特在上周末无人机袭击后关闭东西方管道后运营和石油供应的最新情况",
-  "pub_time": "2026-09-15T11:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "4936ccb28eb3df3e7e34191137142853",
+  "summary": "Radiant World 和 Sapphire Minmetals 在新加坡起诉瑞士矿业和大宗商品贸易商嘉能可 (Glencore)（伦敦证券交易所股票代码：GLEN），要求赔偿 20 亿美元（28 亿加元）。蓝宝石五矿 (Sapphire Minmetals) 曾是... 《Radiant World》起诉嘉能可 (Glencore) 索赔 20 亿美元的消息首先出现在《北方矿工》(The Northern Miner) 上。",
+  "pub_time": "2026-09-15T12:03:00Z",
+  "source": "NorthernMiner",
+  "_cat": "综合",
+  "dedup_key": "9e1585bb4a9707f894db53abe9fbe02b",
   "score": 84,
-  "priority": "P1",
-  "topic": "能源",
+  "priority": "P2",
+  "topic": "综合",
   "tags": [
-   "能源",
+   "综合",
    "大宗商品",
    "国外",
    "中文翻译",
@@ -749,9 +779,9 @@
   ],
   "is_elite": false,
   "keywords": [
-   "能源"
+   "综合"
   ],
-  "en_title": "Australia's Energy Minister Heads to Saudi Arabia for Pipeline Answers"
+  "en_title": "Radiant World sues Glencore for $2 billion"
  },
  {
   "title": "必和必拓在黑德兰港工资纠纷中面​​临仲裁",
@@ -777,32 +807,6 @@
    "黑色系"
   ],
   "en_title": "BHP faces arbitration in Port Hedland wage dispute"
- },
- {
-  "title": "印度尼西亚着眼于圭亚那和苏里南石油投资以保障能源安全",
-  "url": "",
-  "summary": "印度尼西亚政府表示，印度尼西亚国家能源公司 Pertamina 正在考虑在圭亚那和苏里南进行上游投资，以实现印度尼西亚石油和天然气供应多元化并提高能源安全。 “Pertamina已经启动了勘探合作的探索性讨论",
-  "pub_time": "2026-09-15T10:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "8836d428439dd74616a92b45ffbafa1a",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "原油",
-   "能源"
-  ],
-  "en_title": "Indonesia Eyes Guyana and Suriname Oil Investments for Energy Security"
  },
  {
   "title": "美元走强、石油和债券收益率上涨，金价走低",
@@ -2662,32 +2666,6 @@
   "en_title": "Osisko greenlights Cariboo gold project in BC"
  },
  {
-  "title": "ONGold以200万盎司的资源复兴纪念碑湾",
-  "url": "",
-  "summary": "马尼托巴省的纪念碑湾黄金项目在近十年后重新出现，测量和指示了200万盎司。",
-  "pub_time": "2026-09-14T15:05:44Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "ae7635df96bdb5db6b6b3d842be93c0b",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "ONGold revives Monument Bay with 2M oz resource"
- },
- {
   "title": "赞助问答：K2 Gold 检测基于加州莫哈韦沙漠的发现",
   "url": "",
   "summary": "K2 Gold （ TSXV ： KTO ）的Mojave项目在公司报告了今年14,000米勘探计划的首次钻探结果后重新成为焦点。北方矿工的Devan Murugan发表了讲话......该帖子赞助的问答： K2 Gold化验建立在加利福尼亚莫哈韦发现的基础上，首先出现在",
@@ -2712,60 +2690,6 @@
    "黄金"
   ],
   "en_title": "Sponsored Q&A: K2 Gold assays build on California Mojave discovery"
- },
- {
-  "title": "美国政府获得Trilogy Metals 10%的股份",
-  "url": "",
-  "summary": "随着Trilogy推进其北极铜锌项目和Ambler通道，华盛顿关闭了3560万美元的投资。",
-  "pub_time": "2026-09-14T12:05:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "c8200a74c58c99ec27fc189de802f60f",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "金属"
-  ],
-  "en_title": "US government secures 10% stake in Trilogy Metals"
- },
- {
-  "title": "赞助：随着铜产量的增加，Trekor Metals 公布了强劲的第二季度业绩",
-  "url": "",
-  "summary": "Trekor Metals Limited（多伦多证券交易所股票代码：TKO、伦敦证券交易所股票代码：TKO；纽约证券交易所股票代码：TGB）在创纪录的铜价、直布罗陀矿的稳定表现以及...的支持下，2026 年第二季度业绩强劲。",
-  "pub_time": "2026-09-14T12:00:55Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "e770f0738cacb89462f9ea65b59199f6",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "金属",
-   "产量"
-  ],
-  "en_title": "Sponsored: Trekor Metals reports strong Q2 results as copper production ramps up"
  },
  {
   "title": "Mysteel黑色金属例会：本周钢价或震荡偏弱",
