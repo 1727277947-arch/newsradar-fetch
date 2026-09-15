@@ -1,5 +1,31 @@
 [
  {
+  "title": "尽管特朗普声称停战，俄罗斯和乌克兰仍相互袭击",
+  "url": "",
+  "summary": "据地方当局和 Telegram 监控频道称，俄罗斯和乌克兰隔夜交锋，袭击了一家加油站和一家炼油厂。 9 月 14 日至 15 日的袭击发生在美国总统唐纳德·特朗普表示莫斯科和基辅已同意不针对对方能源的几个小时后",
+  "pub_time": "2026-09-15T14:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "8fd018f2952439d12b60befcf8a495d3",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "罢工"
+  ],
+  "en_title": "Russia and Ukraine Exchange Strikes Despite Trump’s Claim of a Truce"
+ },
+ {
   "title": "中国人民币原油期货跃升至历史新高",
   "url": "",
   "summary": "由于中东石油供应威胁不断升级以及中国炼油商增加采购，推高价格，中国以人民币计价的原油期货交易本周创下该合约自 2018 年推出以来的最高水平。 2018年3月推出INE原油期货合约",
@@ -70,6 +96,31 @@
    "罢工"
   ],
   "en_title": "Drone Strikes Cripple Half of Russia's Top Diesel Refineries"
+ },
+ {
+  "title": "随着法律压力的增加，Radiant World 削减了更多工作岗位",
+  "url": "",
+  "summary": "随着债权人诉讼、冻结资产和调查的加剧，亚洲和欧洲的铁矿石贸易业务萎缩。",
+  "pub_time": "2026-09-15T12:03:00Z",
+  "source": "Mining.com",
+  "_cat": "黑色系",
+  "dedup_key": "9cf8c14975324ae45dafca81437e313c",
+  "score": 84,
+  "priority": "P2",
+  "topic": "黑色系",
+  "tags": [
+   "黑色系",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "黑色系"
+  ],
+  "en_title": "Radiant World axes more jobs as legal pressure mounts"
  },
  {
   "title": "澳大利亚能源部长前往沙特阿拉伯寻求管道解决方案",
@@ -1214,32 +1265,6 @@
    "基本金属"
   ],
   "en_title": "Can Utilities Cash In on AI Without Making Consumers Pay?"
- },
- {
-  "title": "下一次石油冲击永远不会是最后一次",
-  "url": "",
-  "summary": "又来了。胡塞武装占领了也门红海海岸、莫哈港和珀林岛，将狭窄的巴布曼德布海峡分为两个通道。该集团现在占据的位置可以监控或威胁世界上最重要的航线之一。通常情况下，",
-  "pub_time": "2026-09-14T19:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "48636224e0514ad12c411c8c1fd830ea",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "The Next Oil Shock Is Never the Last"
  },
  {
   "title": "日本代表团考察美国玉米供应链",
