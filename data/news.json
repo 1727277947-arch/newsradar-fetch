@@ -1,5 +1,109 @@
 [
  {
+  "title": "NDSU 扩展发布北达科他州土壤和肥料资源",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-09-15T20:31:00Z",
+  "source": "Grainnet",
+  "_cat": "能源",
+  "dedup_key": "c7ad6ccfe05882d0b57570315863681f",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "NDSU Extension Publishes North Dakota Soil And Fertilizer Resource"
+ },
+ {
+  "title": "Green Manganese 展示了从多金属中回收关键金属的单一工艺",
+  "url": "",
+  "summary": "该公司表示，最初的小规模测试使用湿法冶金平台实现了 90% 以上的锰、镍、钴和铜回收率。",
+  "pub_time": "2026-09-15T20:23:54Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "0d475b7ef7e907b60567fb0387026793",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "金属"
+  ],
+  "en_title": "Green Manganese demonstrates single process critical metals recovery from polymetallic nodules"
+ },
+ {
+  "title": "亿万富翁莱因哈特的汉考克入股努纳武特铜矿勘探公司",
+  "url": "",
+  "summary": "White Cliff 正在推进其 Rae 项目，该项目没有资源或经济研究，但过去一年的钻探取得了强劲的成果。",
+  "pub_time": "2026-09-15T20:09:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "1909eb046957e82aba24c2006244d00e",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜"
+  ],
+  "en_title": "Billionaire Rinehart’s Hancock takes stake in Nunavut copper explorer"
+ },
+ {
+  "title": "2025 年德克萨斯州将输送美国四分之一的天然气",
+  "url": "",
+  "summary": "到 2025 年，美国天然气总开采量将达到 47.7 万亿立方英尺，其中一小部分州占总量的大部分。其中大部分产量来自二叠纪、马塞勒斯、海恩斯维尔和伊格尔福特等多产的页岩地层。这张地图来自 Visual Capitalist 的 Niccolo",
+  "pub_time": "2026-09-15T20:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "b963071f6e48a0afbefc06ce80654ee3",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气"
+  ],
+  "en_title": "Texas Pumped Over a Quarter of All U.S. Natural Gas in 2025"
+ },
+ {
   "title": "ASA 对威斯康星州 CHS 大豆加工设施表示赞赏",
   "url": "",
   "summary": "",
@@ -129,6 +233,31 @@
   "en_title": "BRICS Summit Takes Aim at U.S. Influence Over the Global Economy"
  },
  {
+  "title": "赫拉克勒斯在斑岩迹象后在爱达荷州推进胡克",
+  "url": "",
+  "summary": "Hercules Metals (TSXV: BIG; US-OTC: BADEF) 正在推进其在爱达荷州西部的 Hook 目标，朝着直接钻探的目标迈进，此前一个勘察孔提高了在爱达荷州建立第三个铜中心的前景。在 The Northern Miner 上首次出现斑岩迹象后，Hercules 正在推进爱达荷州 Hook 的目标。",
+  "pub_time": "2026-09-15T17:44:35Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "343010d964196eb8f1297aae63f3fc17",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Hercules advances Hook in Idaho after porphyry signs"
+ },
+ {
   "title": "秋季杂草侦察可以帮助农民为下一季做好准备",
   "url": "",
   "summary": "",
@@ -154,6 +283,31 @@
    "下跌"
   ],
   "en_title": "Fall Weed Scouting Can Help Farmers Prepare for Next Season"
+ },
+ {
+  "title": "Generation 排队筹集 $1.3B 马拉松融资",
+  "url": "",
+  "summary": "Generation Mining (TSX: GENM; US-OTC: GENMF) 已筹集到为其位于安大略省西北部的 Marathon 铜钯矿提供资金所需的最后 3.4 亿美元（2.44 亿美元），扫清了最后一个主要融资障碍...后 Generation 筹集了 1.3B 美元 Marathon 融资首先出现在 The Northern Mi 上",
+  "pub_time": "2026-09-15T17:38:42Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "9fae29ea335bd510a6f56b4f8cb46fa0",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Generation lines up $1.3B Marathon financing"
  },
  {
   "title": "海湾石油危机扩大，美联储加息押注增加，金价下滑",
@@ -705,33 +859,6 @@
    "供应"
   ],
   "en_title": "Oil Prices Rise On Middle East Supply Concerns"
- },
- {
-  "title": "英国石油和天然气集团表示，早期税收转移可能筹集 149 亿英镑",
-  "url": "",
-  "summary": "英国领先的离岸行业组织在其年度经济报告中表示，从 2027 年开始，英国的新财政制度可能会为英国增加 149 亿英镑（即 200 亿美元）的收入，并呼吁伯纳姆政府提前计划 2030 年的税收改革。",
-  "pub_time": "2026-09-15T09:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "6d5f5fd2cc7493c86bdb557afe866442",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "天然气"
-  ],
-  "en_title": "UK Oil and Gas Group Says Earlier Tax Shift Could Raise £14.9 Billion"
  },
  {
   "title": "Mysteel晚餐：9月建筑企业钢材计划采购放量，澳巴铁矿港库减少",
