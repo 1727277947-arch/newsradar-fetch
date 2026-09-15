@@ -1,5 +1,77 @@
 [
  {
+  "title": "中国人民币原油期货跃升至历史新高",
+  "url": "",
+  "summary": "由于中东石油供应威胁不断升级以及中国炼油商增加采购，推高价格，中国以人民币计价的原油期货交易本周创下该合约自 2018 年推出以来的最高水平。 2018年3月推出INE原油期货合约",
+  "pub_time": "2026-09-15T13:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "f51856159446a5288431a8c9261d18a4",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "跳涨"
+  ],
+  "en_title": "China’s Yuan Crude Oil Futures Jump to Record High"
+ },
+ {
+  "title": "中钢协倡议钢铁行业全面开展自律控产",
+  "url": "https://www.chinanews.com.cn/cj/2026/09-15/10697032.shtml",
+  "summary": "中新社北京9月15日电 中国钢铁工业协会15日发布钢铁行业全面开展自律控产降库存的倡议书，呼吁全行业从自身做起，坚决落实产量调控要求，谴责超产行为，确保完成全年目标",
+  "pub_time": "2026-09-15T12:30:17Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "5282bc28d962ab1a9cac67f82c61c557",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "无人机袭击俄罗斯一半顶级柴油炼油厂",
+  "url": "",
+  "summary": "在乌克兰无人机袭击受损工厂后，俄罗斯六家最大的柴油生产炼油厂中的三家现已关闭或仅以约四分之一的产能运行，而这些工厂共同构成了该国燃料系统的支柱。六家炼油厂——鄂木斯克、基里什、Taneco、伏尔加格勒、NORSI 和彼尔姆——ac",
+  "pub_time": "2026-09-15T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "3bda21b1a23472d11d46554afa288d8a",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "罢工"
+  ],
+  "en_title": "Drone Strikes Cripple Half of Russia's Top Diesel Refineries"
+ },
+ {
   "title": "澳大利亚能源部长前往沙特阿拉伯寻求管道解决方案",
   "url": "",
   "summary": "澳大利亚能源部长克里斯·鲍恩（ Chris Bowen ）将于下周前往沙特阿拉伯，与沙特能源部长阿卜杜勒阿齐兹·本·萨勒曼王子（ Prince Abdulaziz bin Salman ）会面，了解沙特在上周末无人机袭击后关闭东西方管道后运营和石油供应的最新情况",
@@ -25,23 +97,29 @@
   "en_title": "Australia's Energy Minister Heads to Saudi Arabia for Pipeline Answers"
  },
  {
-  "title": "8月中国原油生产稳定增长 天然气生产由降转增",
-  "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696954.shtml",
-  "summary": "中新社北京9月15日电 中国国家统计局15日公布的数据显示，8月份，中国规模以上工业(以下简称规上工业)原油生产稳定增长，天然气生产由降转增，电力生产保持平稳",
-  "pub_time": "2026-09-15T10:52:21Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "f3b2c369bcfda63bcf0ea1880c0093ec",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
+  "title": "必和必拓在黑德兰港工资纠纷中面​​临仲裁",
+  "url": "",
+  "summary": "谈判陷入僵局九个月，促使工会工人寻求法庭就必和必拓主要铁矿石中心的工资和工作条件做出裁决。",
+  "pub_time": "2026-09-15T10:51:00Z",
+  "source": "Mining.com",
+  "_cat": "黑色系",
+  "dedup_key": "019c43e306cf78221d22ccc045b35392",
+  "score": 84,
+  "priority": "P2",
+  "topic": "黑色系",
   "tags": [
+   "黑色系",
    "大宗商品",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
   ],
-  "is_elite": false
+  "is_elite": false,
+  "keywords": [
+   "黑色系"
+  ],
+  "en_title": "BHP faces arbitration in Port Hedland wage dispute"
  },
  {
   "title": "印度尼西亚着眼于圭亚那和苏里南石油投资以保障能源安全",
@@ -245,25 +323,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "010807b93241ee2b2f68475dab122992",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "印度对涉华铝箔作出第一次反倾销日落复审终裁",
-  "url": "https://news.mysteel.com/a/26091516/E873EBCFAB7A9D4B.html",
-  "summary": "",
-  "pub_time": "2026-09-15T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "6be620825876d53c01f5a68110686b16",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1237,31 +1296,6 @@
    "供应"
   ],
   "en_title": "Crude Oil Surges Amid Mounting Middle East Supply Disruption Concerns"
- },
- {
-  "title": "中国不断增长的伊朗贸易正在穿越中亚",
-  "url": "",
-  "summary": "乌兹别克斯坦铁路官员表示，中亚国家正在为运往伊朗的中国货物的铁路运输提供便利。货运列车的确切内容是不确定的。这列由55辆集装箱车组成的集装箱列车从中国西部的新疆省进入哈萨克斯坦，",
-  "pub_time": "2026-09-14T18:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "2a9a0f6974317090d3ecb881630c4d77",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "China’s Growing Iran Trade Is Moving Overland Through Central Asia"
  },
  {
   "title": "日本小麦团队亲眼目睹2026年美国农作物",
