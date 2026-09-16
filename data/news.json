@@ -1,5 +1,112 @@
 [
  {
+  "title": "油价突破 100 美元推动美国燃油价格创新高",
+  "url": "",
+  "summary": "石油市场似乎已经达到了许多分析师几周前预测的拐点，因为中东冲突重新升级，且看不到外交推动力，全球库存继续下滑。油价重回每桶 100 美元以上，提振柴油和汽油价格，包括",
+  "pub_time": "2026-09-16T22:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "2e11e182c2b9b7f6924895cb0d83f37c",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "燃料",
+   "价"
+  ],
+  "en_title": "Oil Above $100 Pushes U.S. Fuel Prices to New Records"
+ },
+ {
+  "title": "数据显示，页岩油目前占阿根廷原油产量的 72%",
+  "url": "",
+  "summary": "阿根廷备受争议的右翼总统哈维尔·米莱通过残酷的经济紧缩政策削减了通货膨胀，但这付出了高昂的社会代价。生活成本不断上升，加剧了家庭债务、贷款拖欠和经济困难。工业产值，自米雷以来",
+  "pub_time": "2026-09-16T21:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "a9403d76b8710d184a2751b70c45d714",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "锡",
+   "产量"
+  ],
+  "en_title": "Shale Oil Now Makes Up 72% of Argentina's Crude Output, Data Shows"
+ },
+ {
+  "title": "G Mining在巴西发现新金矿",
+  "url": "",
+  "summary": "G Mining Ventures (TSX: GMIN) 披露了其在巴西的 Gurupi 项目发现了一个新的近地表金矿，并公布了其位于巴西的主要 Tocantinzinho 矿区的强劲钻探结果。",
+  "pub_time": "2026-09-16T20:30:55Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "2a9102c811408f5da9e468b45159e8c9",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "G Mining discovers new gold deposit in Brazil"
+ },
+ {
+  "title": "现场参观：钛、钒点亮拉布拉多佐贺雷达",
+  "url": "",
+  "summary": "拉布拉多卡特赖特 – 在过去的几个月里，卡车、全地形车和钻机的声音打破了拉布拉多偏远东部角落茂密森林中的宁静……《实地考察：钛、钒点亮拉布拉多佐贺雷达》一文首先出现在《北方矿工》上。",
+  "pub_time": "2026-09-16T20:25:57Z",
+  "source": "NorthernMiner",
+  "_cat": "农产品",
+  "dedup_key": "829f43c7fa831bf5c0b56bd965f351cb",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品"
+  ],
+  "en_title": "Site visit: Titanium, vanadium light up Saga’s Radar in Labrador"
+ },
+ {
   "title": "人工智能数据中心正在推动东南亚液化天然气需求的飞速增长",
   "url": "",
   "summary": "人工智能的繁荣使东南亚的天然气需求预测达到顶峰，但伊朗战争引发的长期价格上涨可能会使该地区转向可再生能源。更重要的是，这些相互竞争的市场力量正在背后发生",
@@ -156,31 +263,6 @@
    "罢工"
   ],
   "en_title": "Continental Strikes Venezuela Oil Deal with PDVSA"
- },
- {
-  "title": "现场参观：钛、钒点亮拉布拉多佐贺雷达",
-  "url": "",
-  "summary": "拉布拉多卡特赖特 – 在过去的几个月里，卡车、全地形车和钻机的声音打破了拉布拉多偏远东部角落茂密森林中的宁静……《实地考察：钛、钒点亮拉布拉多佐贺雷达》一文首先出现在《北方矿工》上。",
-  "pub_time": "2026-09-16T18:29:57Z",
-  "source": "NorthernMiner",
-  "_cat": "农产品",
-  "dedup_key": "829f43c7fa831bf5c0b56bd965f351cb",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品"
-  ],
-  "en_title": "Site visit: Titanium, vanadium light up Saga’s Radar in Labrador"
  },
  {
   "title": "出口限制限制了哈萨克斯坦抵消全球石油短缺的能力",
@@ -609,32 +691,6 @@
   "en_title": "G Mining discovers new gold deposit in Brazil"
  },
  {
-  "title": "G Mining在巴西发现新金矿",
-  "url": "",
-  "summary": "G Mining Ventures (TSX: GMIN) 披露了其在巴西的 Gurupi 项目发现了一个新的近地表金矿，并公布了其位于巴西的主要 Tocantinzinho 矿区的强劲钻探结果。",
-  "pub_time": "2026-09-16T14:43:55Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "2a9102c811408f5da9e468b45159e8c9",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "G Mining discovers new gold deposit in Brazil"
- },
- {
   "title": "美国原油库存小幅下降",
   "url": "",
   "summary": "(RTTNews) - 根据能源情报署周三发布的一份报告，截至 9 月 11 日当周，美国原油库存小幅下降。",
@@ -779,57 +835,6 @@
    "中国新闻网-财经"
   ],
   "is_elite": false
- },
- {
-  "title": "美国调查开往德克萨斯州的油轮涉嫌遭受网络攻击",
-  "url": "",
-  "summary": "美国海岸警卫队和联邦调查局 (FBI) 特工上个月登上油轮，对开往美国墨西哥湾沿岸的船只涉嫌网络攻击进行调查，据称这些攻击是在这些船只途经摩洛哥和西班牙之间的直布罗陀海峡时发生的。海岸警卫队领导的TE",
-  "pub_time": "2026-09-16T12:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "3d745c6ae7f3f1b4f3ddfe653d2005e9",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "U.S. Investigates Suspected Cyber Attacks on Texas-Bound Tankers"
- },
- {
-  "title": "日本最大液化天然气买家将在全球市场出售过剩天然气",
-  "url": "",
-  "summary": "一位高管表示，日本最大的液化天然气进口商和最大的电力生产商 JERA 计划长期销售液化天然气，作为开拓全球液化天然气市场并在国内需求低迷时出售多余天然气供应的战略的一部分。 JERA 希望“确定其他市场",
-  "pub_time": "2026-09-16T11:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "611b95bb8d4ea0688af293391f38991d",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气"
-  ],
-  "en_title": "Japan’s Top LNG Buyer to Sell Excess Gas in Global Markets"
  },
  {
   "title": "苏丹金矿塌方造成至少70名矿工死亡",
@@ -1409,13 +1414,13 @@
   "is_elite": false
  },
  {
-  "title": "一德期货：硅铁预计短期现货市场弱势调整为主",
-  "url": "https://news.mysteel.com/a/26091609/DB3E1C77AC5F78D6.html",
+  "title": "一德期货：短期煤焦受成本支撑盘面高位博弈，建议区间操作",
+  "url": "https://news.mysteel.com/a/26091609/415D1446230E8B0C.html",
   "summary": "",
   "pub_time": "2026-09-16T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "ebf2871c22f500f6fff301f0fd1a0958",
+  "dedup_key": "6ba5740294fda65e9aac604661c18d49",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1428,13 +1433,13 @@
   "is_elite": false
  },
  {
-  "title": "一德期货：短期煤焦受成本支撑盘面高位博弈，建议区间操作",
-  "url": "https://news.mysteel.com/a/26091609/415D1446230E8B0C.html",
+  "title": "一德期货：硅铁预计短期现货市场弱势调整为主",
+  "url": "https://news.mysteel.com/a/26091609/DB3E1C77AC5F78D6.html",
   "summary": "",
   "pub_time": "2026-09-16T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "6ba5740294fda65e9aac604661c18d49",
+  "dedup_key": "ebf2871c22f500f6fff301f0fd1a0958",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1732,32 +1737,6 @@
    "金属"
   ],
   "en_title": "Green Manganese demonstrates single process critical metals recovery from polymetallic nodules"
- },
- {
-  "title": "亿万富翁莱因哈特的汉考克入股努纳武特铜矿勘探公司",
-  "url": "",
-  "summary": "White Cliff 正在推进其 Rae 项目，该项目没有资源或经济研究，但过去一年的钻探取得了强劲的成果。",
-  "pub_time": "2026-09-15T20:09:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "1909eb046957e82aba24c2006244d00e",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "Billionaire Rinehart’s Hancock takes stake in Nunavut copper explorer"
  },
  {
   "title": "ASA 对威斯康星州 CHS 大豆加工设施表示赞赏",
