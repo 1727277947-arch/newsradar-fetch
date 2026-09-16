@@ -436,13 +436,13 @@
   "is_elite": false
  },
  {
-  "title": "一德期货：硅铁预计短期现货市场弱势调整为主",
-  "url": "https://news.mysteel.com/a/26091609/DB3E1C77AC5F78D6.html",
+  "title": "一德期货：短期煤焦受成本支撑盘面高位博弈，建议区间操作",
+  "url": "https://news.mysteel.com/a/26091609/415D1446230E8B0C.html",
   "summary": "",
   "pub_time": "2026-09-16T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "ebf2871c22f500f6fff301f0fd1a0958",
+  "dedup_key": "6ba5740294fda65e9aac604661c18d49",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -455,13 +455,13 @@
   "is_elite": false
  },
  {
-  "title": "一德期货：短期煤焦受成本支撑盘面高位博弈，建议区间操作",
-  "url": "https://news.mysteel.com/a/26091609/415D1446230E8B0C.html",
+  "title": "一德期货：硅铁预计短期现货市场弱势调整为主",
+  "url": "https://news.mysteel.com/a/26091609/DB3E1C77AC5F78D6.html",
   "summary": "",
   "pub_time": "2026-09-16T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "6ba5740294fda65e9aac604661c18d49",
+  "dedup_key": "ebf2871c22f500f6fff301f0fd1a0958",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1492,6 +1492,25 @@
   "is_elite": false
  },
  {
+  "title": "9月16日进口油菜籽到国内港口CF报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/16/4740808126.shtml",
+  "summary": "",
+  "pub_time": "2026-09-15T16:00:00Z",
+  "source": "粮油菜籽",
+  "_cn": true,
+  "dedup_key": "5c3ebb28b92ada761d63631521fdcccf",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "ICE油菜籽追随原油上涨",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/16/0710884912.shtml",
   "summary": "",
@@ -1507,6 +1526,82 @@
    "中文",
    "国内",
    "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "9月16日进口阿根廷豆油及加拿大菜籽油CF报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/16/4658340160.shtml",
+  "summary": "",
+  "pub_time": "2026-09-15T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "f7ac4f36d32e4d066a1093d60f554705",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "9月16日马来西亚棕榈油9月船期FOB报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/16/4618187460.shtml",
+  "summary": "",
+  "pub_time": "2026-09-15T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "bbb4de2cd54d8df44efe8fd9c385968b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "9月16日24度棕榈油国内各港口交货价格上涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/16/4542820830.shtml",
+  "summary": "",
+  "pub_time": "2026-09-15T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "500306dead8097baea8fe951ff70144d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "9月16日进口豆油港口交货价格持平",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/16/4500464163.shtml",
+  "summary": "",
+  "pub_time": "2026-09-15T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "67f5ecc9e7a531f1cf6c5a1755e9ae1d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "粮油首页"
   ],
   "is_elite": false
  },
@@ -1708,25 +1803,6 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "40faea6011d1b2b762024e6a08bb92af",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "CBOT豆油略微上涨，因库存低于预期，原油飙升",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/16/0323641949.shtml",
-  "summary": "",
-  "pub_time": "2026-09-15T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "96f672601ca01ca557f31ca3291b6b33",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1974,6 +2050,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "183e6cd8bd526d13d5547b14769dc374",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT豆油略微上涨，因库存低于预期，原油飙升",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/16/0323641949.shtml",
+  "summary": "",
+  "pub_time": "2026-09-15T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "96f672601ca01ca557f31ca3291b6b33",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -2953,63 +3048,6 @@
   "is_elite": false
  },
  {
-  "title": "9月15日进口阿根廷豆油及加拿大菜籽油CF报价",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/15/3944373673.shtml",
-  "summary": "",
-  "pub_time": "2026-09-14T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "1fe586927c1ac204fd7807ca1239634a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "9月15日马来西亚棕榈油9月船期FOB报价",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/15/3907561312.shtml",
-  "summary": "",
-  "pub_time": "2026-09-14T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "f801ac6f1b112cdd96d3d4208a989a00",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "9月15日24度棕榈油国内各港口交货价格下跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/15/3812274563.shtml",
-  "summary": "",
-  "pub_time": "2026-09-14T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "8bb55245da411a449d66042cee2d6c22",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年9月15日郑州菜油期货收盘低开收跌",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/15/0517794176.shtml",
   "summary": "",
@@ -3231,25 +3269,6 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "9月15日进口豆油港口交货价格上涨",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/15/3737347266.shtml",
-  "summary": "",
-  "pub_time": "2026-09-14T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "8c665d67e7d38194eeeffc6ee03b1fa9",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
    "中文",
    "国内",
    "粮油首页"
