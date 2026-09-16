@@ -1,5 +1,31 @@
 [
  {
+  "title": "海湾紧张局势打压能源市场 TTF 天然气价格触及 92.95 美元",
+  "url": "",
+  "summary": "周三早些时候，欧洲基准天然气价格维持在 80 欧元大关之上，接近 2022 年高点，因为在中东持续混乱和冲突扩大的情况下，储存地点的天然气量较低，加剧了人们对冬季供应的担忧。 Dutch Title Tran 的前月价格",
+  "pub_time": "2026-09-16T14:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "ae4a14c6fefadca5f26528e74d402a80",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "天然气",
+   "能源"
+  ],
+  "en_title": "TTF Gas Hits $92.95 as Gulf Tensions Weigh on Energy Markets"
+ },
+ {
   "title": "专家称，平陆运河通航将提升中国铝产业国际竞争力",
   "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697923.shtml",
   "summary": "中新社昆明9月16日电 (记者 韩帅南)新中国成立以来首条国家层面统筹建设的通江达海运河——平陆运河16日建成通航。昆明理工大学卓越工程师学院常务副院长、云南省铝工业工程研究中心主任田阳当日接受采访时说，平陆运河的开通将进一步提升中国铝在国际市场上的综合竞争力",
@@ -799,13 +825,13 @@
   "is_elite": false
  },
  {
-  "title": "一德期货：短期煤焦受成本支撑盘面高位博弈，建议区间操作",
-  "url": "https://news.mysteel.com/a/26091609/415D1446230E8B0C.html",
+  "title": "一德期货：硅铁预计短期现货市场弱势调整为主",
+  "url": "https://news.mysteel.com/a/26091609/DB3E1C77AC5F78D6.html",
   "summary": "",
   "pub_time": "2026-09-16T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "6ba5740294fda65e9aac604661c18d49",
+  "dedup_key": "ebf2871c22f500f6fff301f0fd1a0958",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -818,13 +844,13 @@
   "is_elite": false
  },
  {
-  "title": "一德期货：硅铁预计短期现货市场弱势调整为主",
-  "url": "https://news.mysteel.com/a/26091609/DB3E1C77AC5F78D6.html",
+  "title": "一德期货：短期煤焦受成本支撑盘面高位博弈，建议区间操作",
+  "url": "https://news.mysteel.com/a/26091609/415D1446230E8B0C.html",
   "summary": "",
   "pub_time": "2026-09-16T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "ebf2871c22f500f6fff301f0fd1a0958",
+  "dedup_key": "6ba5740294fda65e9aac604661c18d49",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1230,32 +1256,6 @@
    "铜"
   ],
   "en_title": "Billionaire Rinehart’s Hancock takes stake in Nunavut copper explorer"
- },
- {
-  "title": "2025 年德克萨斯州将输送美国四分之一的天然气",
-  "url": "",
-  "summary": "到 2025 年，美国天然气总开采量将达到 47.7 万亿立方英尺，其中一小部分州占总量的大部分。其中大部分产量来自二叠纪、马塞勒斯、海恩斯维尔和伊格尔福特等多产的页岩地层。这张地图来自 Visual Capitalist 的 Niccolo",
-  "pub_time": "2026-09-15T20:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "b963071f6e48a0afbefc06ce80654ee3",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气"
-  ],
-  "en_title": "Texas Pumped Over a Quarter of All U.S. Natural Gas in 2025"
  },
  {
   "title": "ASA 对威斯康星州 CHS 大豆加工设施表示赞赏",
@@ -3782,31 +3782,5 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "赞助问答：K2 Gold 检测基于加州莫哈韦沙漠的发现",
-  "url": "",
-  "summary": "K2 Gold （ TSXV ： KTO ）的Mojave项目在公司报告了今年14,000米勘探计划的首次钻探结果后重新成为焦点。北方矿工的Devan Murugan发表了讲话......该帖子赞助的问答： K2 Gold化验建立在加利福尼亚莫哈韦发现的基础上，首先出现在",
-  "pub_time": "2026-09-14T14:26:47Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "85bb7b82789e587176e98a68e9f11cd1",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Sponsored Q&A: K2 Gold assays build on California Mojave discovery"
  }
 ]
