@@ -1,12 +1,38 @@
 [
  {
-  "title": "专家称，美联储的决定推动投资者转向贵金属",
+  "title": "人工智能数据中心正在推动东南亚液化天然气需求的飞速增长",
+  "url": "",
+  "summary": "人工智能的繁荣使东南亚的天然气需求预测达到顶峰，但伊朗战争引发的长期价格上涨可能会使该地区转向可再生能源。更重要的是，这些相互竞争的市场力量正在背后发生",
+  "pub_time": "2026-09-16T20:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "1543aee9d75eeb9aaf21ac0e890dc6d4",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "需求"
+  ],
+  "en_title": "AI Data Centers Are Driving Southeast Asia's LNG Demand Through the Roof"
+ },
+ {
+  "title": "专家表示，美联储的决定推动投资者转向贵金属",
   "url": "",
   "summary": "当美联储就如何对抗通胀做出决定时，投资者将资金投入白银和黄金以求稳定。",
   "pub_time": "2026-09-16T19:24:31Z",
   "source": "Mining.com",
   "_cat": "贵金属",
-  "dedup_key": "0c9aa1a45794b32bc6ef9524034ff73d",
+  "dedup_key": "a402fd8cf263a3506f1866bd88a98ea5",
   "score": 84,
   "priority": "P2",
   "topic": "贵金属",
@@ -23,7 +49,7 @@
    "贵金属",
    "金属"
   ],
-  "en_title": "Fed’s decisions driving investors to precious metals, expert"
+  "en_title": "Fed’s decisions driving investors to precious metals, says expert"
  },
  {
   "title": "沙特通过阿曼进行 STS 转移以及美联储利率决定导致原油价格暴跌",
@@ -922,32 +948,6 @@
    "走高"
   ],
   "en_title": "Gold Climbs On Easing Dollar, Softer Crude Prices"
- },
- {
-  "title": "沙特管道关闭后，日本炼油商争相购买阿曼原油",
-  "url": "",
-  "summary": "了解采购情况的交易员周三告诉彭博社，在沙特阿拉伯关闭绕过霍尔木兹海峡的主要管道后，日本的一些炼油厂本周急于购买阿曼原油以供早期装载。上周晚些时候，沙特阿拉伯被迫暂时关闭东欧航线",
-  "pub_time": "2026-09-16T09:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "82cb07d2b4e715e78c136b9ed42c2c63",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Japanese Refiners Rush for Oman Crude After Saudi Pipeline Shutdown"
  },
  {
   "title": "随着供应担忧缓解，油价小幅走低",
@@ -2821,58 +2821,6 @@
   "en_title": "Analyst Favorites: Harmony Gold Mining Ranks As a Top Metals Pick"
  },
  {
-  "title": "由于产量滞后，非洲关键矿产管道激增",
-  "url": "",
-  "summary": "根据最新编制的数据库，自 2025 年初以来，非洲的关键矿产管道已扩大了 36%，但勘探和开发的激增尚未转化为太多新产量。",
-  "pub_time": "2026-09-15T14:52:20Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "32563e09620064ca1d070f09af2f0b9f",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "大涨",
-   "产量"
-  ],
-  "en_title": "Africa critical-minerals pipeline surges as output lags"
- },
- {
-  "title": "Radiant World起诉嘉能可索赔20亿美元",
-  "url": "",
-  "summary": "Radiant World 和 Sapphire Minmetals 在新加坡起诉瑞士矿业和大宗商品贸易商嘉能可 (Glencore)（伦敦证券交易所股票代码：GLEN），要求赔偿 20 亿美元（28 亿加元）。蓝宝石五矿 (Sapphire Minmetals) 曾是... 《Radiant World》起诉嘉能可 (Glencore) 索赔 20 亿美元的消息首先出现在《北方矿工》(The Northern Miner) 上。",
-  "pub_time": "2026-09-15T12:03:00Z",
-  "source": "NorthernMiner",
-  "_cat": "综合",
-  "dedup_key": "9e1585bb4a9707f894db53abe9fbe02b",
-  "score": 84,
-  "priority": "P2",
-  "topic": "综合",
-  "tags": [
-   "综合",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "综合"
-  ],
-  "en_title": "Radiant World sues Glencore for $2 billion"
- },
- {
   "title": "美元走强、石油和债券收益率上涨，金价走低",
   "url": "",
   "summary": "(RTTNews) - 周二金价走低，延续前一交易日的跌幅，因投资者权衡中东紧张局势，并展望美联储、英国央行和日本央行等央行的货币政策会议。",
@@ -3254,30 +3202,5 @@
    "展望"
   ],
   "en_title": "BOM weekly rainfall update 15 September 2026 + outlook"
- },
- {
-  "title": "GFI 显着交叉低于关键移动平均线",
-  "url": "",
-  "summary": "在周一的交易中，Gold Fields Ltd.（代码：GFI）的股价跌破 43.84 美元的 200 日移动平均线，易手低至每股 42.62 美元。 Gold Fields Ltd. 的股价目前当日下跌约 4.2%。下图显示了一年的表现",
-  "pub_time": "2026-09-14T20:07:01Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "4a267d9fd285fd358fbb7593013ca9c2",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "GFI Makes Notable Cross Below Critical Moving Average"
  }
 ]
