@@ -1,5 +1,77 @@
 [
  {
+  "title": "随着天然气价格飙升，英国能源账单可能比 1 月份上涨 25-30%",
+  "url": "",
+  "summary": "分析人士表示，随着中东危机的持续，天然气价格飙升，2027 年第一季度英国家庭能源费用可能会上涨 25% 至 30%，并警告说，政府可能不得不在缓解生活成本危机的措施上投入更多资金。家庭能源账单",
+  "pub_time": "2026-09-17T13:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "2a4a1955cc760311e1a8fdceb60cb85b",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "天然气",
+   "能源",
+   "价",
+   "跳涨"
+  ],
+  "en_title": "UK Energy Bills Could Jump 25-30% From January as Gas Prices Soar"
+ },
+ {
+  "title": "欧洲最大的独立太阳能运营商刚刚破产",
+  "url": "",
+  "summary": "在电网扩张放缓和发电限电的情况下，德国风能和太阳能装机容量的飙升给该行业带来了不可持续的商业和项目经济环境。 2023年，德国可再生能源在其电力中的份额将突破50%大关",
+  "pub_time": "2026-09-17T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "b77292e406d57d63b0c6d9210b6e391c",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Europe's Biggest Independent Solar Operator Just Went Bankrupt"
+ },
+ {
+  "title": "国家统计局：1-8月中国铜材产量1595.8万吨，同比降1.8%",
+  "url": "https://news.mysteel.com/a/26091720/E33F7273156944BA.html",
+  "summary": "",
+  "pub_time": "2026-09-17T12:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "814915ce51ee1c88fa4c6f79f05f8bcd",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "随着霍尔木兹供应紧缩持续存在，液化天然气价格可能进一步上涨",
   "url": "",
   "summary": "分析师和行业高管表示，由于欧洲天然气库存较低以及欧洲和亚洲之间现货供应竞争激烈，液化天然气价格还有从目前非常高的水平上涨约三分之一的空间。欧洲即将进入冬季，是欧洲天然气储存量最低的国家之一",
@@ -1228,61 +1300,6 @@
    "原油"
   ],
   "en_title": "Saudi Oil Crisis Is About to Hit Europe"
- },
- {
-  "title": "大陆集团与 PDVSA 达成委内瑞拉石油协议",
-  "url": "",
-  "summary": "大陆资源公司宣布，周三与委内瑞拉国家石油公司 PDVSA 签署了一份谅解备忘录，将运营和开发奥里诺科带的阿亚库乔 2 区块，该公司在安索阿特古约 126,000 英亩的土地上拥有估计 300 亿桶资源",
-  "pub_time": "2026-09-16T18:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "bb6e8a4b154874cdb0ac9876b075d7e5",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "锡",
-   "罢工"
-  ],
-  "en_title": "Continental Strikes Venezuela Oil Deal with PDVSA"
- },
- {
-  "title": "出口限制限制了哈萨克斯坦抵消全球石油短缺的能力",
-  "url": "",
-  "summary": "行业分析师表示，拥有大量石油储备的哈萨克斯坦无法通过扩大产量来帮助抵消迫在眉睫的能源危机。随着霍尔木兹海峡被封锁、俄罗斯受到制裁、沙特阿拉伯的东西向管道被伊朗无人机摧毁，专家预测",
-  "pub_time": "2026-09-16T18:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "27c3201be39996d2c4dcc118a1972d30",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "短缺"
-  ],
-  "en_title": "Export Constraints Curb Kazakhstan’s Ability to Offset the Global Oil Shortage"
  },
  {
   "title": "美联储利率决定前油价暴跌，金价飙升",
