@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-18T06:53:02",
+ "updated_at": "2026-09-18T07:54:27",
  "spot_meta": {
   "policy": "stale_never_fill",
   "spot_page_used": "2026-09-17",
@@ -14,7 +14,7 @@
    "category": "贵金属",
    "market": "国际",
    "kind": "spot",
-   "spot": 4343.7002,
+   "spot": 4346.1001,
    "future": null,
    "basis": null,
    "basis_pct": null,
@@ -32,7 +32,7 @@
    "category": "贵金属",
    "market": "国际",
    "kind": "spot",
-   "spot": 65.426,
+   "spot": 65.547,
    "future": null,
    "basis": null,
    "basis_pct": null,
@@ -50,7 +50,7 @@
    "category": "贵金属",
    "market": "国际",
    "kind": "spot",
-   "spot": 1776.0,
+   "spot": 1782.0,
    "future": null,
    "basis": null,
    "basis_pct": null,
@@ -68,7 +68,7 @@
    "category": "贵金属",
    "market": "国际",
    "kind": "spot",
-   "spot": 1303.0,
+   "spot": 1308.0,
    "future": null,
    "basis": null,
    "basis_pct": null,
@@ -1227,11 +1227,11 @@
    "market": "国际",
    "kind": "future",
    "spot": null,
-   "future": 101.19,
+   "future": 101.08,
    "basis": null,
    "basis_pct": null,
-   "change": -0.72,
-   "change_pct": -0.71,
+   "change": -0.83,
+   "change_pct": -0.81,
    "trend": "down",
    "source": "oilprice.com(期货)",
    "note": "期货价格(延迟)"
@@ -1263,11 +1263,11 @@
    "market": "国际",
    "kind": "future",
    "spot": null,
-   "future": 2.864,
+   "future": 2.861,
    "basis": null,
    "basis_pct": null,
-   "change": -0.037,
-   "change_pct": -1.28,
+   "change": -0.04,
+   "change_pct": -1.38,
    "trend": "down",
    "source": "oilprice.com(期货)",
    "note": "期货价格(延迟)"
@@ -1281,11 +1281,11 @@
    "market": "国际",
    "kind": "future",
    "spot": null,
-   "future": 3.4485,
+   "future": 3.4405,
    "basis": null,
    "basis_pct": null,
-   "change": -0.059,
-   "change_pct": -1.68,
+   "change": -0.067,
+   "change_pct": -1.9,
    "trend": "down",
    "source": "oilprice.com(期货)",
    "note": "期货价格(延迟)"
@@ -1299,11 +1299,11 @@
    "market": "国际",
    "kind": "future",
    "spot": null,
-   "future": 5.0385,
+   "future": 5.0466,
    "basis": null,
    "basis_pct": null,
-   "change": -0.075,
-   "change_pct": -1.47,
+   "change": -0.067,
+   "change_pct": -1.32,
    "trend": "down",
    "source": "oilprice.com(期货)",
    "note": "期货价格(延迟)"
@@ -4505,8 +4505,8 @@
    "today_open": 5794.0,
    "prev_close": 5794.0,
    "gap_pct": 0.0,
-   "session": "night",
-   "has_night": true,
+   "session": "day",
+   "has_night": false,
    "direction": 0,
    "label": "观望",
    "strength": 0,
@@ -4549,7 +4549,7 @@
     "hit_rate": 0.15,
     "tested": 60
    },
-   "reason": "锰硅今开5794 vs 昨结5794，+0.00%观望（含夜盘：夜盘开盘5794 vs 昨结5794）；打板分20(一般/观望)：涨0.03%/收高39%/放量0.65x/连涨2日；预测次日开盘≈5796.25，区间[5786.07, 5806.43]"
+   "reason": "锰硅今开5794 vs 昨结5794，+0.00%观望；打板分20(一般/观望)：涨0.03%/收高39%/放量0.65x/连涨2日；预测次日开盘≈5796.25，区间[5786.07, 5806.43]"
   },
   {
    "symbol": "nf_EG0",
@@ -4721,8 +4721,8 @@
    "today_open": 6078.0,
    "prev_close": 6052.0,
    "gap_pct": 0.43,
-   "session": "night",
-   "has_night": true,
+   "session": "day",
+   "has_night": false,
    "direction": 0,
    "label": "观望",
    "strength": 0,
@@ -4765,7 +4765,7 @@
     "hit_rate": 0.233,
     "tested": 60
    },
-   "reason": "硅铁今开6078 vs 昨结6052，+0.43%观望（含夜盘：夜盘开盘6078 vs 昨结6052）；打板分18(一般/观望)：涨0.00%/收高51%/放量0.78x/连涨1日；预测次日开盘≈6066.99，区间[6044.94, 6089.04]"
+   "reason": "硅铁今开6078 vs 昨结6052，+0.43%观望；打板分18(一般/观望)：涨0.00%/收高51%/放量0.78x/连涨1日；预测次日开盘≈6066.99，区间[6044.94, 6089.04]"
   },
   {
    "symbol": "nf_SC0",
@@ -5099,8 +5099,8 @@
    "today_open": 3450.0,
    "prev_close": 3476.0,
    "gap_pct": -0.75,
-   "session": "night",
-   "has_night": true,
+   "session": "day",
+   "has_night": false,
    "direction": 1,
    "label": "做多",
    "strength": 1,
@@ -5143,7 +5143,7 @@
     "hit_rate": 0.25,
     "tested": 60
    },
-   "reason": "甲醇今开3450 vs 昨结3476，-0.75%偏强看多（含夜盘：夜盘开盘3450 vs 昨结3476）；打板分11(一般/观望)：涨0.43%/收高30%/放量0.84x/连涨0日；预测次日开盘≈3478.84，区间[3459.35, 3498.33]"
+   "reason": "甲醇今开3450 vs 昨结3476，-0.75%偏强看多；打板分11(一般/观望)：涨0.43%/收高30%/放量0.84x/连涨0日；预测次日开盘≈3478.84，区间[3459.35, 3498.33]"
   },
   {
    "symbol": "nf_B0",

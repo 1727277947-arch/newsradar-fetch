@@ -1,5 +1,69 @@
 [
  {
+  "title": "沙特管道中断可能加剧全球燃料短缺",
+  "url": "",
+  "summary": "沙特阿拉伯用于绕过霍尔木兹海峡的主要陆上管道的暂时关闭，给已经在中东供应中断六个月中苦苦挣扎的石油市场增添了另一次冲击。现在造成的损害似乎比最初认为的更广泛。三泵站",
+  "pub_time": "2026-09-17T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "45223c02a05e27d023c2fba763f898f0",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "燃料"
+  ],
+  "en_title": "Saudi Pipeline Outage Could Deepen the Global Fuel Crunch"
+ },
+ {
+  "title": "Mysteel早读：ETT蒙5#原煤下调起拍价",
+  "url": "https://news.mysteel.com/a/26091807/21EE58C465401291.html",
+  "summary": "",
+  "pub_time": "2026-09-17T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "58545fc877d305c5bd311db9962a3598",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel早读：ETT蒙5#原煤下调起拍价，8月中国钢筋产量同比降18.5%",
+  "url": "https://news.mysteel.com/a/26091807/9E9AE4F1338B3C8C.html",
+  "summary": "",
+  "pub_time": "2026-09-17T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "379b79211c698d36e55e80196782cd2e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "土耳其在扩大石油和天然气业务的同时，在风能和太阳能上投入 1080 亿美元",
   "url": "",
   "summary": "土耳其计划在未来十年斥资 1080 亿美元发展替代能源基础设施，目标是风能和太阳能装机容量达到 120 吉瓦。与此同时，土耳其还投入巨资确保长期石油和天然气供应，并计划成为主要的区域天然气中心",
@@ -783,31 +847,6 @@
   "en_title": "Rinehart’s nine-deal spree takes her well beyond iron ore"
  },
  {
-  "title": "欧洲最大的独立太阳能运营商刚刚破产",
-  "url": "",
-  "summary": "在电网扩张放缓和发电限电的情况下，德国风能和太阳能装机容量的飙升给该行业带来了不可持续的商业和项目经济环境。 2023年，德国可再生能源在其电力中的份额将突破50%大关",
-  "pub_time": "2026-09-17T12:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "b77292e406d57d63b0c6d9210b6e391c",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Europe's Biggest Independent Solar Operator Just Went Bankrupt"
- },
- {
   "title": "国家统计局：1-8月中国铜材产量1595.8万吨，同比降1.8%",
   "url": "https://news.mysteel.com/a/26091720/E33F7273156944BA.html",
   "summary": "",
@@ -847,7 +886,7 @@
  },
  {
   "title": "每日钢市：期钢翻绿，高成本与弱需求博弈，钢价涨跌有限",
-  "url": "https://news.mysteel.com/a/26091718/EE47FB728660EAED.html",
+  "url": "https://news.mysteel.com/a/26091718/D89D21B84BB4354D.html",
   "summary": "",
   "pub_time": "2026-09-17T10:00:00Z",
   "source": "上海钢联Mysteel",
@@ -919,27 +958,8 @@
   "en_title": "Oil Extends Losses For Second Day As Supply Concerns Ease"
  },
  {
-  "title": "Mysteel晚餐：钢材总库存下降",
-  "url": "https://news.mysteel.com/a/26091717/7F71F00D7289B28A.html",
-  "summary": "",
-  "pub_time": "2026-09-17T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "082095dd49df4a6a35b6e65010e271e2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel晚餐：钢材总库存下降，印尼对华镀锌钢发起反倾销调查",
-  "url": "https://news.mysteel.com/a/26091717/4E31918BEF8703E5.html",
+  "url": "https://news.mysteel.com/a/26091717/CC363BEAA09D1262.html",
   "summary": "",
   "pub_time": "2026-09-17T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1586,7 +1606,7 @@
  },
  {
   "title": "Mysteel早读：美联储加息25个基点，山西仍有75座炼焦煤矿山停产",
-  "url": "https://news.mysteel.com/a/26091707/E0EA4771879927F5.html",
+  "url": "https://news.mysteel.com/a/26091707/8EDAFD1B1E01C3CA.html",
   "summary": "",
   "pub_time": "2026-09-16T23:00:00Z",
   "source": "上海钢联Mysteel",
@@ -2717,34 +2737,6 @@
    "产量"
   ],
   "en_title": "New Found Gold starts commercial output at Hammerdown mine"
- },
- {
-  "title": "白银价格飙升使 Nord 的 Gowganda 尾矿在钴附近恢复活力",
-  "url": "",
-  "summary": "该项目强调了白银价格上涨如何改变棕地和旧矿山废物的状况。",
-  "pub_time": "2026-09-16T15:23:39Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "aeaea30be336aec4d37b4aee1b9b6446",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "白银",
-   "价",
-   "大涨"
-  ],
-  "en_title": "Silver price surge revives Nord’s Gowganda tailings near Cobalt"
  },
  {
   "title": "白银价格飙升使 Nord 的 Gowganda 尾矿恢复活力",
