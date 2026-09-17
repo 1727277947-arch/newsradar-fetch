@@ -1,5 +1,33 @@
 [
  {
+  "title": "随着沙特阿拉伯改道阿曼原油航线，油价下跌",
+  "url": "",
+  "summary": "有报道称，在东西管道修复期间，沙特阿拉伯将通过阿曼出口更多石油，导致昨天下跌的原油价格今天早些时候扩大了跌幅。截至撰写本文时，布伦特原油价格为每桶 105.89 美元，西德克萨斯中质原油价格为每桶 105.89 美元。",
+  "pub_time": "2026-09-17T05:20:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "62ed601f464c6a5bc984544827bcb0c9",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "下滑"
+  ],
+  "en_title": "Oil Prices Slide as Saudi Arabia Reroutes Crude via Oman"
+ },
+ {
   "title": "A股午评：3100只个股飘绿，三大指数集体收跌",
   "url": "https://www.chinanews.com.cn/cj/2026/09-17/10698127.shtml",
   "summary": "A股午评：3100只个股飘绿，三大指数集体收跌；CRO概念股走强，生物科技、农业上涨，黄金股重挫，发电设备、油气下跌",
@@ -1848,32 +1876,6 @@
    "库存"
   ],
   "en_title": "U.S. Oil Inventories Edge Lower as Fuel Demand Softens"
- },
- {
-  "title": "海湾紧张局势打压能源市场 TTF 天然气价格触及 92.95 美元",
-  "url": "",
-  "summary": "周三早些时候，欧洲基准天然气价格维持在 80 欧元大关之上，接近 2022 年高点，因为在中东持续混乱和冲突扩大的情况下，储存地点的天然气量较低，加剧了人们对冬季供应的担忧。 Dutch Title Tran 的前月价格",
-  "pub_time": "2026-09-16T14:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "ae4a14c6fefadca5f26528e74d402a80",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "天然气",
-   "能源"
-  ],
-  "en_title": "TTF Gas Hits $92.95 as Gulf Tensions Weigh on Energy Markets"
  },
  {
   "title": "苏丹金矿塌方造成至少70名矿工死亡",
