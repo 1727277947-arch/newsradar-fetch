@@ -3,7 +3,8 @@
 
 检查 6 项：
   1 新鲜度        prices.json 的 updated_at 距当前北京时间；盘中(08:00-23:00) >75 分钟、非盘中 >240 分钟 异常
-  2 晨/午板自洽   多单 long_plan.entry > price > 空单 short_plan.entry；anchor == price；pullback 落在当日 [day_low, day_high]
+  2 晨/午板自洽   ruleset3 起只有单向 plan：做多 entry>=price 且 sl<entry<tp；做空 entry<=price 且 tp<entry<sl；anchor == price；
+                  回踩档 entry_alt 落在当日 [day_low, day_high]；午板在数据时间 <11:00 时为空属正常
   3 候选项要精    hf_picks 只含最精的一级（全部无 day_conflict；全带冲突时只保留一条）；条数 <= 5
   4 午板换标的    hf_pool 里存在与晨板不同品种时，afternoon_pick 不应与 daily_pick 同品种
   5 跨源冲突标注  cross_source_dev_pct > 2 的品种，其 pick 必须带「数据源冲突」前缀且 day_ma 为 null；
