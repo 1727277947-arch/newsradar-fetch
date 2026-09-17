@@ -1,5 +1,57 @@
 [
  {
+  "title": "Endeavour Silver (EXK) 股价突破 200 日均线",
+  "url": "",
+  "summary": "在周四的交易中，Endeavour Silver Corp（代码：EXK）的股价突破了 9.93 美元的 200 日移动平均线，易手高达每股 10.20 美元。 Endeavour Silver Corp 股价当天上涨约 6.3%。下图显示了一年",
+  "pub_time": "2026-09-17T20:07:30Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "1df7050a8202a67c0e53f0347103f567",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "白银"
+  ],
+  "en_title": "Endeavour Silver (EXK) Shares Cross Above 200 DMA"
+ },
+ {
+  "title": "随着沙特石油危机加深，美国和胡塞武装举行公开会谈",
+  "url": "",
+  "summary": "在做出对伊朗发动战争的灾难性决定后，各种经济和军事危机席卷整个中东，特朗普总统将于下周在联合国大会期间在纽约会见波斯湾领导人。这条外交新闻传来",
+  "pub_time": "2026-09-17T20:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "2ec3a2cb625e81099788635c20ee2678",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "U.S. and Houthis Open Talks as Saudi Oil Crisis Deepens"
+ },
+ {
   "title": "美国正在为燃料支付大量费用，但汽油并未耗尽",
   "url": "",
   "summary": "汽油很贵。柴油更差。社交媒体正在崩溃，显然已经认定美国即将耗尽燃料。 EIA 数据显示，上周美国汽油库存增加 80 万桶，至 2.077 亿桶。每年这个时候的股价比五年平均水平低 5%。钛",
@@ -893,34 +945,6 @@
    "供应"
   ],
   "en_title": "Oil Extends Losses For Second Day As Supply Concerns Ease"
- },
- {
-  "title": "随着柴油紧缩加剧，高盛认为汽油有更多上涨空间",
-  "url": "",
-  "summary": "高盛表示，在市场紧缩的情况下，柴油价格和利润将继续增长，但由于炼油厂目前优先考虑柴油产量，汽油可能会提供更大的上涨空间。该投资银行正在将其主要燃料市场建议从柴油时间利差转向欧洲天然气",
-  "pub_time": "2026-09-17T09:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "贵金属",
-  "dedup_key": "a4a4eaa6229482b610c2c1776098d2a7",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "汽油",
-   "天然气"
-  ],
-  "en_title": "Goldman Sachs Sees More Upside in Gasoline as Diesel Crunch Deepens"
  },
  {
   "title": "Mysteel晚餐：钢材总库存下降",
@@ -3064,31 +3088,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "NDSU 扩展发布北达科他州土壤和肥料资源",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-15T20:31:00Z",
-  "source": "Grainnet",
-  "_cat": "能源",
-  "dedup_key": "c7ad6ccfe05882d0b57570315863681f",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "NDSU Extension Publishes North Dakota Soil And Fertilizer Resource"
  }
 ]
