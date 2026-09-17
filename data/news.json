@@ -991,6 +991,32 @@
   "en_title": "Gold Surges As Oil Prices Plunge Ahead Of Fed's Interest Rate Decision"
  },
  {
+  "title": "Bioceres 报告第四季度收入稳定，运营费用降低",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-09-16T17:30:00Z",
+  "source": "Grainnet",
+  "_cat": "基本金属",
+  "dedup_key": "1e485ac97962311e99c6a5d98b8e50c5",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡"
+  ],
+  "en_title": "Bioceres Reports Stable Fourth-Quarter Revenue, Lower Operating Expenses"
+ },
+ {
   "title": "卡塔尔出口受阻，Equinor 目标 1500 万吨液化天然气",
   "url": "",
   "summary": "据路透社周三报道，Equinor 计划在 2030 年代初将其全球液化天然气投资组合扩大到每年 1000 万吨至 1500 万吨，目标是因霍尔木兹海峡封锁而供应短缺的欧洲和亚洲买家。该公司预计将宣布第二份亚洲供应协议",
@@ -2078,25 +2104,6 @@
   "is_elite": false
  },
  {
-  "title": "沙特据悉出售在霍尔木兹海峡外侧交货的原油",
-  "url": "https://news.mysteel.com/a/26091613/41D1429EE6A5DC6B.html",
-  "summary": "",
-  "pub_time": "2026-09-16T05:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "aebba94ef8c64d03e8f3e24b9ff6ccb8",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "拉博：随着供应的改善，化肥远非负担得起",
   "url": "",
   "summary": "荷兰合作银行的展望称，高价格和不确定的季节性条件可能会在 2027 年之前继续影响澳大利亚的化肥需求。",
@@ -2339,6 +2346,58 @@
   "en_title": "Blackout at Hemlo gold mine to slow ramp-up"
  },
  {
+  "title": "NDSU 扩展发布北达科他州土壤和肥料资源",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-09-15T20:31:00Z",
+  "source": "Grainnet",
+  "_cat": "能源",
+  "dedup_key": "c7ad6ccfe05882d0b57570315863681f",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "NDSU Extension Publishes North Dakota Soil And Fertilizer Resource"
+ },
+ {
+  "title": "ASA 对威斯康星州 CHS 大豆加工设施表示赞赏",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-09-15T19:00:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "d7bf8351e8bf57e34af2be7ac252c938",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "大豆"
+  ],
+  "en_title": "ASA Applauds CHS Soybean Processing Facility in Wisconsin"
+ },
+ {
   "title": "供应中断担忧加剧，原油价格飙升",
   "url": "",
   "summary": "(RTTNews) - 原油价格周二大幅上涨，加剧了昨天的飙升，因沙特阿拉伯周五关闭东西方管道后供应担忧加剧。此外，昨天海湾合作委员会成员国与伊朗之间的会谈取消也使得",
@@ -2391,6 +2450,33 @@
   "en_title": "Hercules advances Hook in Idaho after porphyry signs"
  },
  {
+  "title": "秋季杂草侦察可以帮助农民为下一季做好准备",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-09-15T17:41:00Z",
+  "source": "Grainnet",
+  "_cat": "基本金属",
+  "dedup_key": "a92d0f41b43dfb000d542d038fce1703",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡",
+   "下跌"
+  ],
+  "en_title": "Fall Weed Scouting Can Help Farmers Prepare for Next Season"
+ },
+ {
   "title": "海湾石油危机扩大，美联储加息押注增加，金价下滑",
   "url": "",
   "summary": "(RTTNews) - 由于霍尔木兹海峡重新开放的时间延长，金价周二走低，加剧了昨天的暴跌。此外，沙特阿拉伯关闭其重要的运输管道引发了通胀担忧，从而加大了押注",
@@ -2417,6 +2503,33 @@
    "下滑"
   ],
   "en_title": "Gold Slides As Fed Rate Hike Bets Increase Amid Expanding Gulf Oil Crisis"
+ },
+ {
+  "title": "BinMaster 发布 IECEx/ATEX Zone 20 和 21 振动探头传感器",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-09-15T16:42:00Z",
+  "source": "Grainnet",
+  "_cat": "基本金属",
+  "dedup_key": "76ef0e7ed2546c8e4d6695de4d132879",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡",
+   "走软"
+  ],
+  "en_title": "BinMaster Releases IECEx/ATEX Zone 20 and 21 Vibrating Probe Sensors"
  },
  {
   "title": "2026年9月16日大连豆粕期货高开收涨",
