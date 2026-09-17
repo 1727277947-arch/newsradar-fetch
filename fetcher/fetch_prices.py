@@ -478,9 +478,79 @@ def compute_guide(item):
 
 
 # ---------------- 期货主线：今日开盘 vs 昨结 -> 做多/做空 + 次日开盘预测 ----------------
+# ===== 东财主力月 <-> 新浪具体合约 的绑定 =====
+# 东财 MAM/SFM/... 是“主力连续”(按成交活跃)，新浪 nf_XX0 是“连续”(按持仓)，
+# 两者可能跟的不是同一个月：甲醇就是 东财=MA2610(3474) 而 新浪连续=MA2701(2998)，差 13%。
+# 后果是日线与实时价成了两套刻度，还被误判成“数据源冲突·日线不可信”。
+# 这里用东财主力实时价去比对新敤各月报价，锁定真正对应的月份，日线一并改用该月。
+EM_SECID = {"LC0": ("225", "lcm"), "SI0": ("225", "sim"),
+            "SF0": ("115", "SFM"), "SM0": ("115", "SMM"), "MA0": ("115", "MAM")}
+EM_REF = {}          # key -> 东财行情 + {sina_sym, sina_price, sina_dev_pct}
+
+
+def _sina_month_prices(prefix, months=20):
+    """一次请求取该品种未来 N 个月的新敤报价，返回 {nf_代码: 最新价}。"""
+    import datetime as _dt
+    today = _dt.date.today()
+    y, m = today.year, today.month
+    syms = []
+    for _ in range(months):
+        syms.append("nf_%s%02d%02d" % (prefix, y % 100, m))
+        m += 1
+        if m > 12:
+            m = 1; y += 1
+    out = {}
+    try:
+        req = urllib.request.Request("https://hq.sinajs.cn/list=" + ",".join(syms),
+                                     headers={"User-Agent": UA, "Referer": "https://finance.sina.com.cn/"})
+        txt = urllib.request.urlopen(req, timeout=15).read().decode("gbk", "replace")
+        for line in txt.splitlines():
+            mm = re.match(r'var hq_str_(\w+)="(.*)";', line.strip())
+            if not mm or not mm.group(2):
+                continue
+            f = mm.group(2).split(",")
+            try:
+                out[mm.group(1)] = float(f[7])      # 第8列=最新价
+            except (IndexError, ValueError):
+                continue
+    except Exception:
+        pass
+    return out
+
+
+def _bind_em_ref_contracts(boards):
+    """把东财主力价与新敤各月对一次，锁定对应月份；供日线与 predict_next_open 复用。"""
+    for key, b in (boards or {}).items():
+        if not b:
+            continue
+        try:
+            latest = float(b.get("latest") or 0.0)
+        except (TypeError, ValueError):
+            continue
+        if latest <= 0:
+            continue
+        prefix = key[:-1] if key.endswith("0") else key
+        best = None
+        for sym, px in (_sina_month_prices(prefix) or {}).items():
+            if px <= 0:
+                continue
+            dev = abs(px - latest) / latest * 100.0
+            if dev <= 2.0 and (best is None or dev < best[1]):
+                best = (sym, dev, px)
+        rec = dict(b)
+        if best:
+            rec["sina_sym"] = best[0]
+            rec["sina_price"] = best[2]
+            rec["sina_dev_pct"] = round(best[1], 2)
+        EM_REF[key] = rec
+    if EM_REF:
+        print("em contract bind:", {k: (v.get("sina_sym"), v.get("sina_dev_pct")) for k, v in EM_REF.items()})
+
+
+
 KLINE_CACHE = {}
 
-def _fetch_kline(key):
+def _fetch_kline_sina(key):
     """抓新浪日K，返回 (d,o,h,l,c,v,p,s) 升序元组，最后一根为今日。(s=结算价,p=持仓量)"""
     if key in KLINE_CACHE:
         return KLINE_CACHE[key]
@@ -510,9 +580,41 @@ def fmt_inline(v):
 
 
 
+def _fetch_kline(key):
+    """日K入口：已绑定主力月时按该月取（新敤“连续”可能不是主力月）。"""
+    rec = EM_REF.get(key) or {}
+    sym = rec.get("sina_sym")
+    if sym:
+        mk = sym[3:] if sym.startswith("nf_") else sym
+        if mk and mk != key:
+            rows = _fetch_kline_sina(mk)
+            if len(rows) >= 8:
+                return rows
+    return _fetch_kline_sina(key)
+
+
+def _bjt_hhmmss(ts):
+    """东财 f86 时间戳 -> 北京时间的 HHMMSS（给 _hour_of 判断夜盘）。"""
+    try:
+        return time.strftime("%H%M%S", time.localtime(int(ts)))
+    except Exception:
+        return ""
+
+
 def _realtime_head(key):
-    """抓新浪实时，返回 (开盘价f[2], 昨结f[10], 现价f[7], 时间f[1], 名称f[0])；失败返回 None。
-    注意：国内商品有夜盘，f[2](开盘)在夜盘时段=夜盘开盘价，已是含夜盘的最新开盘。"""
+    """返回 (开盘, 昨结, 现价, 时间HHMMSS, 名称)；失败返回 None。
+    已绑定东财主力月的品种直接给东财值——这样日线/实时/板价三者同源，
+    不会再出现“日线用 MA2701、实时用 MA2610”这种 13% 的错位。"""
+    rec = EM_REF.get(key) or {}
+    if rec.get("latest"):
+        try:
+            return (float(rec.get("real_open") or 0.0) or None,
+                    float(rec.get("last_settle") or 0.0) or None,
+                    float(rec["latest"]),
+                    _bjt_hhmmss(rec.get("ts")),
+                    rec.get("name") or "")
+        except (TypeError, ValueError):
+            pass
     sym = key if key.startswith("nf_") else "nf_" + key
     try:
         req = urllib.request.Request("https://hq.sinajs.cn/list=" + sym,
@@ -1377,8 +1479,8 @@ def _fetch_em_boards():
     import time as _t
     HOSTS = ["https://push2delay.eastmoney.com", "https://push2delay2.eastmoney.com", "https://push2.eastmoney.com"]
     HDRS = {"User-Agent": UA, "Referer": "https://quote.eastmoney.com/", "Connection": "close"}
-    EM = {"LC0": ("225", "lcm"), "SI0": ("225", "sim"), "SF0": ("115", "SFM"), "SM0": ("115", "SMM"), "MA0": ("115", "MAM")}
-    FIELDS = "f43,f44,f45,f46,f51,f52,f58,f60,f170"
+    EM = EM_SECID
+    FIELDS = "f43,f44,f45,f46,f51,f52,f58,f60,f86,f170"
     out = {}
     for k0, (mkt, code) in EM.items():
         got = None
@@ -1404,6 +1506,8 @@ def _fetch_em_boards():
                             "day_high": (float(hi) if hi else None),
                             "day_low": (float(lo) if lo else None),
                             "last_settle": (float(settle) if settle else None),
+                            "ts": (float(d.get("f86")) if d.get("f86") else None),
+                            "name": d.get("f58"),
                         }
                     else:
                         last_err = "%s empty(f43=%s f51=%s f52=%s)" % (host.split("//")[1], last, up, dn)
@@ -1458,7 +1562,11 @@ def _apply_em_quotes(items, boards):
             print("[WARN] quote conflict %s: last=%s open=%s hi=%s lo=%s -> 排除出打板" % (
                 s, b.get("latest"), b.get("real_open"), b.get("day_high"), b.get("day_low")))
             continue
-        old_last = it.get("future")
+        # 跨源偏离必须按“同一月份”比：新敤“连续”可能跟的不是主力月
+        # （甲醇：新浪连续=MA2701≈2998，东财主力=MA2610≈3474），
+        # 拿它当基准会把正常的月份差误报成 13% 的“数据源冲突”。
+        _refb = EM_REF.get(s) or {}
+        old_last = _refb.get("sina_price") or it.get("future")
         try:
             if old_last and float(old_last) > 0:
                 it["cross_source_dev_pct"] = round(abs(float(b["latest"]) - float(old_last)) / float(old_last) * 100.0, 2)
@@ -1513,7 +1621,20 @@ if __name__ == "__main__":
     if os.environ.get('NR_AUDIT') == '1':
         _audit_futures(items)
 
-    # 期货主线：今日开盘 vs 昨结 -> 多空关联 + 次日开盘预测
+    # 1) 先取东财主连并锁定主力月份：日线必须跟着主力月走，
+    #    否则 predict_next_open 会用新敤“连续”(甲醇=MA2701)算日线，与实时价(MA2610)错位 13%。
+    _em = None
+    try:
+        _em = _fetch_em_boards()
+    except Exception as e:
+        print('[WARN] _fetch_em_boards:', str(e)[:80])
+    if isinstance(_em, dict):
+        try:
+            _bind_em_ref_contracts(_em)
+        except Exception as e:
+            print('[WARN] bind em contracts:', str(e)[:80])
+
+    # 2) 期货主线：今日开盘 vs 昨结 -> 多空关联 + 次日开盘预测
     symlist = [(s, name, cat) for s, name, _, cat in DOMESTIC]
     try:
         predictions = predict_next_open(symlist)
@@ -1521,17 +1642,16 @@ if __name__ == "__main__":
         predictions = []
         print("[WARN] predict_next_open:", str(e)[:70])
 
-    # real daily limit boards (eastmoney multi-node), fetched once before picks
-    try:
-        _em = _fetch_em_boards()
-        if isinstance(_em, dict):
+    # 3) 把东财行情并入 items，使板价/高低/昨结/今开全同源
+    if isinstance(_em, dict):
+        try:
             items = _apply_em_quotes(items, _em)
             print('em boards merged:', {k: _em.get(k) for k in _em})
             _conf = [x.get('symbol') for x in items if x.get('quote_conflict')]
             if _conf:
                 print('excluded by self-check:', _conf)
-    except Exception as e:
-        print('[WARN] _fetch_em_boards:', str(e)[:80])
+        except Exception as e:
+            print('[WARN] apply em quotes:', str(e)[:80])
 
     _hf_pool = []
     hf_picks = build_hf_picks(items, predictions, _hf_pool)
