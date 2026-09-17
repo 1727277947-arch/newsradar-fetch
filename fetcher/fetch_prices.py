@@ -1325,7 +1325,9 @@ def build_hf_picks(items, preds=None, pool_out=None):
     if _primary:
         picks = _primary
     elif _alt:
-        picks = _alt
+        # 一个干净候选都没有时，只留最精的那一只观察级提示——
+        # 给多条等于让用户自己挑逆势标的，与“只要精、不要多而杂”相反。
+        picks = _alt[:1]
         for _x in picks:
             _x["fallback_tier"] = "conflict"
             _x["note_extra"] = ("全部候选与日线方向相反，已降级为观察级：%s。按李永强口径应当观望，"
