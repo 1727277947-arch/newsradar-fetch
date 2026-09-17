@@ -25,13 +25,41 @@ fi
 git commit -m "auto fetch news+prices ${STAMP}" || echo "no github changes"
 if [ -n "${GITHUB_TOKEN:-}" ]; then
   # default GITHUB_TOKEN (has contents:write) preferred to push GitHub
-  git push "https://1727277947-arch:${GITHUB_TOKEN}@github.com/1727277947-arch/newsradar-fetch.git" "HEAD:main" \
-    || echo "github push failed (default token)"
+  GH_PUSH="https://1727277947-arch:${GITHUB_TOKEN}@github.com/1727277947-arch/newsradar-fetch.git"
 elif [ -n "${GH_TOKEN:-}" ]; then
   GH_PUSH="https://1727277947-arch:${GH_TOKEN}@github.com/1727277947-arch/newsradar-fetch.git"
-  git push "$GH_PUSH" "HEAD:main" || echo "github push failed (gh_token)"
 else
-  git push || echo "github push failed (no token)"
+  GH_PUSH=""
+fi
+
+# 并发推送会互相顶掉：体检工作流也会往 main 提交 data/health.json，
+# 单发一次 git push 会被 non-fast-forward 直接拒掉（曾出现 09:43 那次丢档）。
+# 所以改成“被拒就 fetch+merge 后重试”，冲突时以本轮刚生成的数据为准（-X ours）。
+push_github() {
+  local tries=4 i=1
+  while [ "$i" -le "$tries" ]; do
+    if [ -z "$GH_PUSH" ]; then
+      git push origin "HEAD:main" && return 0
+    else
+      git push "$GH_PUSH" "HEAD:main" && return 0
+    fi
+    echo "[github] push rejected (attempt $i/$tries), syncing with remote before retry..."
+    if { [ -n "$GH_PUSH" ] && git fetch "$GH_PUSH" main; } || git fetch origin main; then
+      if ! git merge -s recursive -X ours --no-edit FETCH_HEAD; then
+        echo "[github] merge failed, aborting merge"
+        git merge --abort 2>/dev/null || true
+      fi
+    fi
+    sleep $((i * 5))
+    i=$((i + 1))
+  done
+  return 1
+}
+
+if push_github; then
+  echo "[github] pushed"
+else
+  echo "::warning::GitHub 推送重试全部失败；本轮数据只到 Gitee（App 主源仍可用），下一轮会补齐"
 fi
 
 echo "== push to gitee =="

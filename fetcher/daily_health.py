@@ -130,9 +130,18 @@ def check_freshness(data, now):
 
 def check_board_consistency(data, row_index, now):
     issues = []
+    # 午板要等“午后重算”跑过才会有。判断基准必须用数据快照自己的生成时间，
+    # 而不是体检的运行时间——体检经常被 GitHub 延迟到 09:xx 才跑，用运行时间会天天误报。
+    _upd = parse_cn(data.get("updated_at"))
+    _data_hour = (_upd or now).hour
     for slot, label in (("daily_pick", "晨板"), ("afternoon_pick", "午板")):
         pick = data.get(slot)
-        if not isinstance(pick, dict) or not pick:
+        # 空壳（只有 date/session/ruleset，没有品种）也要当作“缺失”
+        if not isinstance(pick, dict) or not pick or not (pick.get("name") or pick.get("symbol")):
+            # 午板由“午后重算”生成，北京 10:00 之后才会有；早上为空是正常状态，
+            # 否则每天 07:40 那次体检都会误报两条。
+            if slot == "afternoon_pick" and _data_hour < 11:
+                continue
             issues.append(anomaly(
                 "板面自洽",
                 "%s(%s) 缺失" % (label, slot),
@@ -192,27 +201,15 @@ def check_board_consistency(data, row_index, now):
                     "检查 plan 生成时的方向字段",
                 ))
         else:
-            # 旧结构：多空双轨
-            long_entry = (pick.get("long_plan") or {}).get("entry")
-            short_entry = (pick.get("short_plan") or {}).get("entry")
-            if None in (price, long_entry, short_entry):
-                issues.append(anomaly(
-                    "板面自洽",
-                    "%s 缺少 price/plan/long_plan.entry/short_plan.entry（price=%s long=%s short=%s）"
-                    % (name, fmt(price), fmt(long_entry), fmt(short_entry)),
-                    "进场价不可信，无法照单执行",
-                    "检查该品种 ATR 计算与 plan 生成",
-                ))
-            elif not (long_entry > price > short_entry):
-                issues.append(anomaly(
-                    "板面自洽",
-                    "%s 应满足 多单进场 %s > 现价 %s > 空单进场 %s"
-                    % (name, fmt(long_entry), fmt(price), fmt(short_entry)),
-                    "方向与进场区间自相矛盾，照单下单会立刻反向",
-                    "核对 ATR/确认位计算，必要时降级为观望",
-                ))
+            # ruleset 3 起，多空双轨已删除，只应存在 plan；缺 plan 即无法执行
+            issues.append(anomaly(
+                "板面自洽",
+                "%s 缺少 plan（方向/进场/止损/止盈），price=%s" % (name, fmt(price)),
+                "没有可执行的进场方案，无法照单下单",
+                "检查该品种 ATR 计算与 plan 生成（fetch_prices.build_hf_picks）",
+            ))
+        if price is not None and (anchor is None or abs(anchor - price) > EPS):
 
-        if anchor is None or price is None or abs(anchor - price) > EPS:
             issues.append(anomaly(
                 "板面自洽",
                 "%s anchor=%s 与 price=%s 不一致" % (name, fmt(anchor), fmt(price)),
