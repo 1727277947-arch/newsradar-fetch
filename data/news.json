@@ -1,5 +1,52 @@
 [
  {
+  "title": "随着霍尔木兹供应紧缩持续存在，液化天然气价格可能进一步上涨",
+  "url": "",
+  "summary": "分析师和行业高管表示，由于欧洲天然气库存较低以及欧洲和亚洲之间现货供应竞争激烈，液化天然气价格还有从目前非常高的水平上涨约三分之一的空间。欧洲即将进入冬季，是欧洲天然气储存量最低的国家之一",
+  "pub_time": "2026-09-17T11:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "bac920920428708d3087c4a73c9ebafa",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "价",
+   "跳涨",
+   "供应"
+  ],
+  "en_title": "LNG Prices Could Jump Further as Hormuz Supply Crunch Persists"
+ },
+ {
+  "title": "国家统计局：1-8月中国铅产量470万吨，同比降7.9%",
+  "url": "https://news.mysteel.com/a/26091719/8A8EB353221D8568.html",
+  "summary": "",
+  "pub_time": "2026-09-17T11:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "6cd7b7d2f49613c1490ba370a88c0314",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "艾伯塔省计划新的特许权使用费激励措施以刺激石油生产",
   "url": "",
   "summary": "加拿大阿尔伯塔省省长丹妮尔·史密斯 (Danielle Smith) 在一次行业活动中表示，加拿大产油省阿尔伯塔省计划于 11 月宣布新的优惠特许权使用费框架，以鼓励公司投资新的石油和天然气生产。由于阿尔伯塔省拥有81%的矿权，阿尔伯塔省政府，",
@@ -276,25 +323,6 @@
   "en_title": "India Pushes Back on U.S. Tariff Threat Over Russian Oil"
  },
  {
-  "title": "有色持仓日报：沪镍涨1.40%，中信期货减持超2千手空单",
-  "url": "https://news.mysteel.com/a/26091715/CC8E32DBB1A88466.html",
-  "summary": "",
-  "pub_time": "2026-09-17T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "5bb55eebd01033f65ff34188e682e642",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "美国会授权特朗普可对购买俄石油产品的国家加征关税，外交部回应",
   "url": "https://news.mysteel.com/a/26091715/5A4F888CB01B244D.html",
   "summary": "",
@@ -340,6 +368,25 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "7b43388cefedee9d3d98256aba89eed4",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "有色持仓日报：沪镍涨1.40%，中信期货减持超2千手空单",
+  "url": "https://news.mysteel.com/a/26091715/44BC3185CA0DADDF.html",
+  "summary": "",
+  "pub_time": "2026-09-17T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "5bb55eebd01033f65ff34188e682e642",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -553,25 +600,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "ded7a02cb755fd8bfd0bdb8bed00fc73",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "河钢乐亭钢铁唐钢新区145MW煤气发电机组项目获批",
-  "url": "https://news.mysteel.com/a/26091710/668DEB75F168884A.html",
-  "summary": "",
-  "pub_time": "2026-09-17T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "527c4d108099f937671f8b2cd0825c59",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
