@@ -1,12 +1,31 @@
 [
  {
-  "title": "饲料谷物焦点：两周干旱期间价格坚挺",
+  "title": "关键矿产日报：蒙煤竞拍遇冷，中金岭南凡口铅锌矿将复产",
+  "url": "https://news.mysteel.com/a/26091717/A0C2F6ED9779C359.html",
+  "summary": "",
+  "pub_time": "2026-09-17T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "e9bed7ad84cf90d8586ddff587375656",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "饲料谷物焦点：两周干旱后价格坚挺",
   "url": "",
   "summary": "干旱天气，包括大面积霜冻，是本周国内小麦和大麦价格上涨的原因。",
   "pub_time": "2026-09-17T08:33:37Z",
   "source": "GrainCentral",
   "_cat": "农产品",
-  "dedup_key": "fb6acfd5917cde6c932b5075980d98b1",
+  "dedup_key": "786145d6b1a6804692386633c7e0bf99",
   "score": 84,
   "priority": "P2",
   "topic": "农产品",
@@ -24,7 +43,7 @@
    "谷物",
    "价"
   ],
-  "en_title": "Feedgrain Focus: Prices firm about dry fortnight"
+  "en_title": "Feedgrain Focus: Prices firm after dry fortnight"
  },
  {
   "title": "印度反击美国对俄罗斯石油的关税威胁",
@@ -51,25 +70,6 @@
    "原油"
   ],
   "en_title": "India Pushes Back on U.S. Tariff Threat Over Russian Oil"
- },
- {
-  "title": "黑色持仓日报：银河期货增持近万手螺纹钢多单",
-  "url": "https://news.mysteel.com/a/26091715/44F4314466DB32A2.html",
-  "summary": "",
-  "pub_time": "2026-09-17T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "8000bb7f8a732ac36dc7a7f5f4374948",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  },
  {
   "title": "有色持仓日报：沪镍涨1.40%，中信期货减持超2千手空单",
@@ -695,25 +695,6 @@
    "原油"
   ],
   "en_title": "StanChart Sees Higher Oil Floor as Hormuz Crisis Spreads to Saudi Export Routes"
- },
- {
-  "title": "九部门：统筹锂、钴、镍等关键矿产资源开采与循环利用",
-  "url": "https://news.mysteel.com/a/26091708/2F1035249BA7B051.html",
-  "summary": "",
-  "pub_time": "2026-09-17T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "382052facfb4bbb13249d54cf5e1aa71",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  },
  {
   "title": "河南济源：聚焦钢铁等重点产业，深化智能化、绿色化、低碳化改造",
@@ -3610,24 +3591,5 @@
    "供应"
   ],
   "en_title": "Oil Prices Rise On Middle East Supply Concerns"
- },
- {
-  "title": "关键矿产日报：沙特麦地那发现超级矿，越南Quy Xa铁矿恢复开采",
-  "url": "https://news.mysteel.com/a/26091517/0457DD750CC8CD10.html",
-  "summary": "",
-  "pub_time": "2026-09-15T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "b5948c82cf866e53bdfa18a155d67179",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  }
 ]
