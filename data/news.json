@@ -213,25 +213,6 @@
   "is_elite": false
  },
  {
-  "title": "兰鑫钢铁集团炼钢产能出让方案公示",
-  "url": "https://news.mysteel.com/a/26091710/27A400E0AB7D06C6.html",
-  "summary": "",
-  "pub_time": "2026-09-17T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "ded7a02cb755fd8bfd0bdb8bed00fc73",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel：全国暴雨预警信号汇总（9月17日）",
   "url": "https://news.mysteel.com/a/26091710/A74A667EDAF30375.html",
   "summary": "",
@@ -244,6 +225,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "兰鑫钢铁集团炼钢产能出让方案公示",
+  "url": "https://news.mysteel.com/a/26091710/4EE3219C0FBC8D1B.html",
+  "summary": "",
+  "pub_time": "2026-09-17T02:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "ded7a02cb755fd8bfd0bdb8bed00fc73",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
