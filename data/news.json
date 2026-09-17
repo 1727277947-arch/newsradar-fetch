@@ -1,5 +1,57 @@
 [
  {
+  "title": "液化天然气价格飙升推动亚洲需求连续第二年下降",
+  "url": "",
+  "summary": "路透社援引分析师的话说，由于价格上涨，今年亚洲对液化天然气的需求预计将下降 3% 至 10%。该出版物称，这将是亚洲液化天然气需求第二次年度下降，其中大部分来自亚洲大陆东北部地区。",
+  "pub_time": "2026-09-17T06:40:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "f4c80108db75e74057d084d87ab2019c",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "价",
+   "需求"
+  ],
+  "en_title": "Soaring LNG Prices Push Asian Demand Toward Second Annual Decline"
+ },
+ {
+  "title": "农业团体对签证延误可能持续存在感到厌倦",
+  "url": "",
+  "summary": "今天宣布的假期签证变更并没有给澳大利亚的农业游说团体带来任何欢乐，因为收获季节临近，种植者们正在努力寻找熟练劳动力来帮助完成这项任务。",
+  "pub_time": "2026-09-17T06:17:47Z",
+  "source": "GrainCentral",
+  "_cat": "基本金属",
+  "dedup_key": "7a4bb891192f4b8c0c01e34ba4045c5e",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Ag groups fed up as visa delays likely to persist"
+ },
+ {
   "title": "随着沙特阿拉伯改道阿曼原油航线，油价下跌",
   "url": "",
   "summary": "有报道称，在东西管道修复期间，沙特阿拉伯将通过阿曼出口更多石油，导致昨天下跌的原油价格今天早些时候扩大了跌幅。截至撰写本文时，布伦特原油价格为每桶 105.89 美元，西德克萨斯中质原油价格为每桶 105.89 美元。",
@@ -26,6 +78,25 @@
    "下滑"
   ],
   "en_title": "Oil Prices Slide as Saudi Arabia Reroutes Crude via Oman"
+ },
+ {
+  "title": "江苏：重点支持钢铁等行业实施节能降碳减污技术改造",
+  "url": "https://news.mysteel.com/a/26091713/E08A28F21E5C945D.html",
+  "summary": "",
+  "pub_time": "2026-09-17T05:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "8d386e1b7574c6b11a1ab3deb2b17cd6",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
  },
  {
   "title": "A股午评：3100只个股飘绿，三大指数集体收跌",
@@ -123,6 +194,25 @@
   "is_elite": false
  },
  {
+  "title": "Mysteel解读：9月美联储议息会议——加息预期充分定价，关注未来能否出现宽松预期",
+  "url": "https://news.mysteel.com/a/26091710/09E86EC62C61A3D5.html",
+  "summary": "",
+  "pub_time": "2026-09-17T02:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "e868533ff26af55c6c6788dd01a654c5",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "兰鑫钢铁集团炼钢产能出让方案公示",
   "url": "https://news.mysteel.com/a/26091710/27A400E0AB7D06C6.html",
   "summary": "",
@@ -143,31 +233,12 @@
  },
  {
   "title": "Mysteel：全国暴雨预警信号汇总（9月17日）",
-  "url": "https://news.mysteel.com/a/26091710/BB211DE51303AA92.html",
+  "url": "https://news.mysteel.com/a/26091710/A74A667EDAF30375.html",
   "summary": "",
   "pub_time": "2026-09-17T02:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "ca5f34de36bcc159357ee9af3b419510",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel解读：9月美联储议息会议——加息预期充分定价，关注未来能否出现宽松预期",
-  "url": "https://news.mysteel.com/a/26091710/60946ABAFA8EAE5A.html",
-  "summary": "",
-  "pub_time": "2026-09-17T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "e868533ff26af55c6c6788dd01a654c5",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -295,7 +366,7 @@
  },
  {
   "title": "原油断供担忧缓和？沙特加速修复输油管道，目标六周内全面恢复",
-  "url": "https://news.mysteel.com/a/26091709/E5798E491AF58B5F.html",
+  "url": "https://news.mysteel.com/a/26091709/52DE507CCA85B6DA.html",
   "summary": "",
   "pub_time": "2026-09-17T01:00:00Z",
   "source": "上海钢联Mysteel",
@@ -516,25 +587,6 @@
   "en_title": "StanChart Sees Higher Oil Floor as Hormuz Crisis Spreads to Saudi Export Routes"
  },
  {
-  "title": "河南济源：聚焦钢铁等重点产业，深化智能化、绿色化、低碳化改造",
-  "url": "https://news.mysteel.com/a/26091708/D6EE37653084C575.html",
-  "summary": "",
-  "pub_time": "2026-09-17T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "7099d16d118f02cbf6046fd60f2a9198",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "九部门：统筹锂、钴、镍等关键矿产资源开采与循环利用",
   "url": "https://news.mysteel.com/a/26091708/2F1035249BA7B051.html",
   "summary": "",
@@ -554,18 +606,18 @@
   "is_elite": false
  },
  {
-  "title": "据称苹果将重返服务器市场，考虑采用英伟达互联技术",
-  "url": "https://news.mysteel.com/a/26091708/19C9D4EFD55E3FFD.html",
+  "title": "河南济源：聚焦钢铁等重点产业，深化智能化、绿色化、低碳化改造",
+  "url": "https://news.mysteel.com/a/26091708/5D3EAFCCA26449C3.html",
   "summary": "",
   "pub_time": "2026-09-17T00:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "cff0cdadb6b86fbf0e4797a3f51639c4",
+  "dedup_key": "7099d16d118f02cbf6046fd60f2a9198",
   "score": 80,
   "priority": "P1",
-  "topic": "国内/财经",
+  "topic": "国内/大宗商品",
   "tags": [
-   "财经",
+   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -939,32 +991,6 @@
   "en_title": "Gold Surges As Oil Prices Plunge Ahead Of Fed's Interest Rate Decision"
  },
  {
-  "title": "Bioceres 报告第四季度收入稳定，运营费用降低",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-16T17:30:00Z",
-  "source": "Grainnet",
-  "_cat": "基本金属",
-  "dedup_key": "1e485ac97962311e99c6a5d98b8e50c5",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡"
-  ],
-  "en_title": "Bioceres Reports Stable Fourth-Quarter Revenue, Lower Operating Expenses"
- },
- {
   "title": "卡塔尔出口受阻，Equinor 目标 1500 万吨液化天然气",
   "url": "",
   "summary": "据路透社周三报道，Equinor 计划在 2030 年代初将其全球液化天然气投资组合扩大到每年 1000 万吨至 1500 万吨，目标是因霍尔木兹海峡封锁而供应短缺的欧洲和亚洲买家。该公司预计将宣布第二份亚洲供应协议",
@@ -1149,25 +1175,6 @@
    "中文",
    "国内",
    "粮油豆粕"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月17日大连玉米期货行情午报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/17/3454437742.shtml",
-  "summary": "",
-  "pub_time": "2026-09-16T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "4346ba1bd36b2db27be5df8580fe0be9",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
   ],
   "is_elite": false
  },
@@ -1426,6 +1433,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "ef979eb2cbca9235191b26e089eba7c2",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月17日大连玉米期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/17/3454437742.shtml",
+  "summary": "",
+  "pub_time": "2026-09-16T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "7b4fc2879ba919fd62b3fd24ee69512c",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1849,35 +1875,6 @@
   "en_title": "U.S. Crude Oil Inventories Edge Slightly Lower"
  },
  {
-  "title": "随着燃料需求疲软，美国石油库存下降",
-  "url": "",
-  "summary": "美国能源情报署(EIA)周三公布的最新数据显示，截至9月11日当周，美国原油库存减少60万桶。据政府称，这一减少使商业库存达到 4.234 亿桶",
-  "pub_time": "2026-09-16T14:41:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "3b3a7cb1bb013bfab395cb561c575477",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "燃料",
-   "需求",
-   "库存"
-  ],
-  "en_title": "U.S. Oil Inventories Edge Lower as Fuel Demand Softens"
- },
- {
   "title": "苏丹金矿塌方造成至少70名矿工死亡",
   "url": "",
   "summary": "据报道，西科尔多凡州矿井塌陷后，救援人员使用基本工具奋力救援被困在地下的矿工。",
@@ -2265,25 +2262,6 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel早读：8月国民经济数据出炉，粗钢产量同比回落",
-  "url": "https://news.mysteel.com/a/26091607/9380A6B851130AA9.html",
-  "summary": "",
-  "pub_time": "2026-09-15T23:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "75c3d0223ef542ee4c082c1244282e79",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "亿万富翁莱因哈特的汉考克入股努纳武特铜矿勘探公司",
   "url": "",
   "summary": "澳大利亚矿业亿万富翁吉娜·莱因哈特 (Gina Rinehart) 的汉考克勘探公司 (Hancock Prospecting) 向专注于努纳武特地区的早期铜矿勘探公司 White Cliff Minerals (ASX: WCN; US-OTC: WCMLF) 投资 870 万澳元（860 万加元），获得 13.5% 的股份。",
@@ -2361,58 +2339,6 @@
   "en_title": "Blackout at Hemlo gold mine to slow ramp-up"
  },
  {
-  "title": "NDSU 扩展发布北达科他州土壤和肥料资源",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-15T20:31:00Z",
-  "source": "Grainnet",
-  "_cat": "能源",
-  "dedup_key": "c7ad6ccfe05882d0b57570315863681f",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "NDSU Extension Publishes North Dakota Soil And Fertilizer Resource"
- },
- {
-  "title": "ASA 对威斯康星州 CHS 大豆加工设施表示赞赏",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-15T19:00:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "d7bf8351e8bf57e34af2be7ac252c938",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "大豆"
-  ],
-  "en_title": "ASA Applauds CHS Soybean Processing Facility in Wisconsin"
- },
- {
   "title": "供应中断担忧加剧，原油价格飙升",
   "url": "",
   "summary": "(RTTNews) - 原油价格周二大幅上涨，加剧了昨天的飙升，因沙特阿拉伯周五关闭东西方管道后供应担忧加剧。此外，昨天海湾合作委员会成员国与伊朗之间的会谈取消也使得",
@@ -2465,33 +2391,6 @@
   "en_title": "Hercules advances Hook in Idaho after porphyry signs"
  },
  {
-  "title": "秋季杂草侦察可以帮助农民为下一季做好准备",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-15T17:41:00Z",
-  "source": "Grainnet",
-  "_cat": "基本金属",
-  "dedup_key": "a92d0f41b43dfb000d542d038fce1703",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡",
-   "下跌"
-  ],
-  "en_title": "Fall Weed Scouting Can Help Farmers Prepare for Next Season"
- },
- {
   "title": "海湾石油危机扩大，美联储加息押注增加，金价下滑",
   "url": "",
   "summary": "(RTTNews) - 由于霍尔木兹海峡重新开放的时间延长，金价周二走低，加剧了昨天的暴跌。此外，沙特阿拉伯关闭其重要的运输管道引发了通胀担忧，从而加大了押注",
@@ -2520,33 +2419,6 @@
   "en_title": "Gold Slides As Fed Rate Hike Bets Increase Amid Expanding Gulf Oil Crisis"
  },
  {
-  "title": "BinMaster 发布 IECEx/ATEX Zone 20 和 21 振动探头传感器",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-15T16:42:00Z",
-  "source": "Grainnet",
-  "_cat": "基本金属",
-  "dedup_key": "76ef0e7ed2546c8e4d6695de4d132879",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡",
-   "走软"
-  ],
-  "en_title": "BinMaster Releases IECEx/ATEX Zone 20 and 21 Vibrating Probe Sensors"
- },
- {
   "title": "2026年9月16日大连豆粕期货高开收涨",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/16/5954252060.shtml",
   "summary": "",
@@ -2554,25 +2426,6 @@
   "source": "粮油豆粕",
   "_cn": true,
   "dedup_key": "5e698259ebe9b0d65ff5e8c9c31aad4e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油豆粕"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月16日大连豆粕期货行情午报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/16/2955530047.shtml",
-  "summary": "",
-  "pub_time": "2026-09-15T16:00:00Z",
-  "source": "粮油豆粕",
-  "_cn": true,
-  "dedup_key": "7e2132843bad0d22b5c984aa9a563c62",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -2870,25 +2723,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年9月16日大连棕榈油期货低开收涨",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/16/0013122371.shtml",
-  "summary": "",
-  "pub_time": "2026-09-15T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "9bd60497d0d3fec8eb48c77f4c770125",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年9月16日郑州菜油期货收盘低开收涨",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/16/5902322463.shtml",
   "summary": "",
@@ -3029,6 +2863,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "b9cff2c8261d86fef997ce3df6e1e5ea",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月16日大连豆粕期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/16/2955530047.shtml",
+  "summary": "",
+  "pub_time": "2026-09-15T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "3847980cdd030fd53b96f49e703d8022",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -3250,6 +3103,25 @@
   "is_elite": false
  },
  {
+  "title": "2026年9月16日大连棕榈油期货低开收涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/16/0013122371.shtml",
+  "summary": "",
+  "pub_time": "2026-09-15T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "9bd60497d0d3fec8eb48c77f4c770125",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年9月16日大连豆油期货低开收涨",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/16/5719860763.shtml",
   "summary": "",
@@ -3407,25 +3279,6 @@
    "供应"
   ],
   "en_title": "Oil Prices Rise On Middle East Supply Concerns"
- },
- {
-  "title": "Mysteel晚餐：9月建筑企业钢材计划采购放量，澳巴铁矿港库减少",
-  "url": "https://news.mysteel.com/a/26091517/80C895C10D0BA8B8.html",
-  "summary": "",
-  "pub_time": "2026-09-15T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "5de7f46c38f58b92fb0c44b56ea2512a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  },
  {
   "title": "关键矿产日报：沙特麦地那发现超级矿，越南Quy Xa铁矿恢复开采",
