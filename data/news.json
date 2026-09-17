@@ -1,5 +1,95 @@
 [
  {
+  "title": "随着霍尔木兹危机蔓延至沙特出口航线，渣打银行预计石油底线将会上升",
+  "url": "",
+  "summary": "在周三美联储做出关键决定之前，油价回落，但仍保持高位，市场预期转向美伊冲突旷日持久。截至下午 2:18，11 月交割的布伦特原油下跌 2.88%。东部时间，交易价格为每桶 105.6 美元，而 10 月交割的 WTI 原油价格下跌",
+  "pub_time": "2026-09-17T00:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "0e77f3340600623735c0239a4974f822",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "StanChart Sees Higher Oil Floor as Hormuz Crisis Spreads to Saudi Export Routes"
+ },
+ {
+  "title": "随着石油运输危机加深，油轮运价每天突破 100 万美元",
+  "url": "",
+  "summary": "由于运载原油和燃料的船只供应紧张，油轮的日费历史上首次突破 100 万美元，船东愿意冒险穿越霍尔木兹海峡。挤压正在增加实物交割的石油价格的额外成本，就像油罐车一样",
+  "pub_time": "2026-09-16T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "fab9907a177904310d702ce807caed67",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Tanker Rates Smash $1 Million a Day as Oil Shipping Crisis Deepens"
+ },
+ {
+  "title": "Mysteel早读：美联储加息25个基点",
+  "url": "https://news.mysteel.com/a/26091707/8EDAFD1B1E01C3CA.html",
+  "summary": "",
+  "pub_time": "2026-09-16T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "829acd401e6268ae3103f69cdd90987a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel早读：美联储加息25个基点，山西仍有75座炼焦煤矿山停产",
+  "url": "https://news.mysteel.com/a/26091707/3DE31983CDD101D4.html",
+  "summary": "",
+  "pub_time": "2026-09-16T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "0a3fe3ba104aaf4438eb0f6883df2570",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "油价突破 100 美元推动美国燃油价格创新高",
   "url": "",
   "summary": "石油市场似乎已经达到了许多分析师几周前预测的拐点，因为中东冲突重新升级，且看不到外交推动力，全球库存继续下滑。油价重回每桶 100 美元以上，提振柴油和汽油价格，包括",
@@ -792,32 +882,6 @@
   "is_elite": false
  },
  {
-  "title": "德国考虑采取市场激励措施以提高创纪录的低储气水平",
-  "url": "",
-  "summary": "一位政府消息人士周三告诉路透社，德国正在考虑扩大一项关键的市场激励措施，以鼓励贸易商在冬季之前提高天然气储存水平，因为德国天然气站点目前几乎满了一半。欧洲最大经济体拥有世界第四大天然气储存库",
-  "pub_time": "2026-09-16T13:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "39f70f1cb84308cbd2c6410944d20862",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气"
-  ],
-  "en_title": "Germany Weighs Market Incentives to Boost Record Low Gas Storage Level"
- },
- {
   "title": "平陆运河通航 构建江海双向贯通货运格局",
   "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697893.shtml",
   "summary": "俞靖 陈沿佑)9月16日，伴随着船舶汽笛长鸣，一艘搭载来自澳大利亚铝土矿的“冠峰1800”散货船驶离广西钦州港大榄坪作业区，将经平陆运河内河航道运输到南宁港，最终运往百色港祥周作业区。与此同时，一旁5000吨级内河示范船“北港运河001”，正装卸通过“贵港—平陆运河—钦州”航线抵达钦州港，即将出海的石灰石等货物",
@@ -983,25 +1047,6 @@
   "en_title": "Oil Prices Edge Lower As Supply Concerns Ease"
  },
  {
-  "title": "Mysteel晚餐：山西炼焦煤复产进程遇阻，中国钢材出口发运增长",
-  "url": "https://news.mysteel.com/a/26091617/330299C169808897.html",
-  "summary": "",
-  "pub_time": "2026-09-16T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "89ed5fed3c6162f9e176c2dc65d5c5ff",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "关键矿产日报：山西75座炼焦煤矿山停产",
   "url": "https://news.mysteel.com/a/26091617/EE1EA9929E1FBCA0.html",
   "summary": "",
@@ -1021,18 +1066,18 @@
   "is_elite": false
  },
  {
-  "title": "武汉市金属材料流通协会发布钢材交易风险提示",
-  "url": "https://news.mysteel.com/a/26091617/87AFCE873D2F77A1.html",
+  "title": "Mysteel晚餐：山西炼焦煤复产进程遇阻，中国钢材出口发运增长",
+  "url": "https://news.mysteel.com/a/26091617/3E4DC68D44620CAB.html",
   "summary": "",
   "pub_time": "2026-09-16T09:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "f480e5443feb673d352a8ae82fcc9688",
+  "dedup_key": "89ed5fed3c6162f9e176c2dc65d5c5ff",
   "score": 80,
   "priority": "P1",
-  "topic": "国内/财经",
+  "topic": "国内/贸易外经",
   "tags": [
-   "财经",
+   "贸易外经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -1041,7 +1086,7 @@
  },
  {
   "title": "关键矿产日报：山西仍有75座炼焦煤矿山停产，平陆运河通航",
-  "url": "https://news.mysteel.com/a/26091617/2DAEA784E31FF2AA.html",
+  "url": "https://news.mysteel.com/a/26091617/97CE8F2314AD5526.html",
   "summary": "",
   "pub_time": "2026-09-16T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1059,18 +1104,18 @@
   "is_elite": false
  },
  {
-  "title": "有色持仓日报：沪铜涨0.76%，中信期货减持超2千手空单",
-  "url": "https://news.mysteel.com/a/26091617/B2F6BDA807C1DF7E.html",
+  "title": "武汉市金属材料流通协会发布钢材交易风险提示",
+  "url": "https://news.mysteel.com/a/26091617/D5A41EF4A9A07506.html",
   "summary": "",
   "pub_time": "2026-09-16T09:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "7e9710817196a4d664209acfb253a716",
+  "dedup_key": "f480e5443feb673d352a8ae82fcc9688",
   "score": 80,
   "priority": "P1",
-  "topic": "国内/大宗商品",
+  "topic": "国内/财经",
   "tags": [
-   "大宗商品",
+   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -1414,13 +1459,13 @@
   "is_elite": false
  },
  {
-  "title": "一德期货：短期煤焦受成本支撑盘面高位博弈，建议区间操作",
-  "url": "https://news.mysteel.com/a/26091609/415D1446230E8B0C.html",
+  "title": "一德期货：硅铁预计短期现货市场弱势调整为主",
+  "url": "https://news.mysteel.com/a/26091609/DB3E1C77AC5F78D6.html",
   "summary": "",
   "pub_time": "2026-09-16T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "6ba5740294fda65e9aac604661c18d49",
+  "dedup_key": "ebf2871c22f500f6fff301f0fd1a0958",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1433,13 +1478,13 @@
   "is_elite": false
  },
  {
-  "title": "一德期货：硅铁预计短期现货市场弱势调整为主",
-  "url": "https://news.mysteel.com/a/26091609/DB3E1C77AC5F78D6.html",
+  "title": "一德期货：短期煤焦受成本支撑盘面高位博弈，建议区间操作",
+  "url": "https://news.mysteel.com/a/26091609/415D1446230E8B0C.html",
   "summary": "",
   "pub_time": "2026-09-16T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "ebf2871c22f500f6fff301f0fd1a0958",
+  "dedup_key": "6ba5740294fda65e9aac604661c18d49",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -3134,24 +3179,5 @@
    "小麦"
   ],
   "en_title": "Field walk to showcase DP wheat bred to buffer tough seasons"
- },
- {
-  "title": "山西将提升碳效能效，实施钢铁、焦化等重点行业节能降碳改造攻坚行动",
-  "url": "https://news.mysteel.com/a/26091507/32594943E7552474.html",
-  "summary": "",
-  "pub_time": "2026-09-14T23:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "fa7a227f83a25bdff2b102bd1fb1f010",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  }
 ]
