@@ -1,5 +1,203 @@
 [
  {
+  "title": "供应忧虑缓解，石油供应下滑，金价攀升",
+  "url": "",
+  "summary": "(RTTNews) - 周五金价上涨逾 1%，因油价和全球债券收益率的回落有助于缓解通胀和利率担忧。",
+  "pub_time": "2026-09-18T09:50:39Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "18f8b3ddd68cfc6f8d128816a60e803c",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "原油",
+   "价",
+   "走高",
+   "下滑"
+  ],
+  "en_title": "Gold Prices Climb As Oil Extends Slide On Easing Supply Concerns"
+ },
+ {
+  "title": "沙特阿拉伯争夺新石油航线，霍尔木兹油轮运输量大幅下降",
+  "url": "",
+  "summary": "周五早些时候的航运数据显示，周四只有四艘商品船进出霍尔木兹海峡，而随着沙特通往红海延布港的管道关闭，从中东出发的石油运输选择减少。三艘船入驻",
+  "pub_time": "2026-09-18T09:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "8b6bce4c61b2c61a22ee6db0fcb3733b",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Hormuz Tanker Traffic Slumps as Saudi Arabia Scrambles for New Oil Routes"
+ },
+ {
+  "title": "供应担忧缓解，油价扩大跌幅",
+  "url": "",
+  "summary": "(RTTNews) - 由于供应中断有限以及为结束冲突而重新采取外交努力的希望，油价周五大幅下跌，并走向周线下跌。",
+  "pub_time": "2026-09-18T09:23:36Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "4deae6a15295dc1948ae43310e5124ac",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "供应"
+  ],
+  "en_title": "Oil Prices Extend Losses Amid Easing Supply Concerns"
+ },
+ {
+  "title": "Mysteel晚餐：山西新增3家钢厂高炉停产检修",
+  "url": "https://news.mysteel.com/a/26091817/98D9CBC862C226B6.html",
+  "summary": "",
+  "pub_time": "2026-09-18T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "111efc4c3a0d4be4e128f84f722e9089",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "每日钢市：焦煤期货大跌超7%，钢坯降20元，钢价震荡偏弱",
+  "url": "https://news.mysteel.com/a/26091817/F54779DB21F9DFD6.html",
+  "summary": "",
+  "pub_time": "2026-09-18T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "722d8cee395c44b2ae57b1dd5732bfb3",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel晚餐：山西新增3家钢厂高炉停产检修，铁矿石港库攀升",
+  "url": "https://news.mysteel.com/a/26091817/FDD95EBDFC650AFC.html",
+  "summary": "",
+  "pub_time": "2026-09-18T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "c799784ce10a9d15fdc8d96209ce0e24",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "钢市大家谈：焦煤价格高位回落，钢价或将窄幅调整",
+  "url": "https://news.mysteel.com/a/26091817/769DDC700C47E7C7.html",
+  "summary": "",
+  "pub_time": "2026-09-18T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "a392c7a12e52e26103b6b6980c1406de",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel日报：黑色金属期货震荡下跌运行",
+  "url": "https://news.mysteel.com/a/26091817/76D095CA5CA5AF66.html",
+  "summary": "",
+  "pub_time": "2026-09-18T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "35e731dc1bfbf7b43450d8d00de0dc41",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "广期所调整碳酸锂期货相关合约交易指令每次最小开仓下单数量、交易手续费标准及交易限额",
+  "url": "https://news.mysteel.com/a/26091816/34671338EA753DD4.html",
+  "summary": "",
+  "pub_time": "2026-09-18T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "d6b0599cb27a187c9594c407983174dd",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "华锡有色：实控人拟变更为中国五矿，股票下周一复牌",
   "url": "https://news.mysteel.com/a/26091816/93969F38EBB9D91D.html",
   "summary": "",
@@ -12,6 +210,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "大商所：2026年中秋节、国庆节假期调整相关品种期货合约涨跌停板幅度和交易保证金水平",
+  "url": "https://news.mysteel.com/a/26091816/DBF0CDD6E82CFF86.html",
+  "summary": "",
+  "pub_time": "2026-09-18T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "9f2faab0f952afd8928bbcd136fbed17",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -86,25 +303,6 @@
   "en_title": "China Pushes Coal Miners to Lift Supply as Prices Climb"
  },
  {
-  "title": "黑色持仓日报：一德期货减持7千手焦煤多单",
-  "url": "https://news.mysteel.com/a/26091815/4F52DB801CC46A92.html",
-  "summary": "",
-  "pub_time": "2026-09-18T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "a5187bb151c77ce3466430b22156f5c8",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "有色持仓日报：沪铅涨超2%，中信期货增持2.2千手多单",
   "url": "https://news.mysteel.com/a/26091815/255AFEF98895E672.html",
   "summary": "",
@@ -125,7 +323,7 @@
  },
  {
   "title": "黑色持仓日报：焦煤跌7.78%，一德期货减持7千手多单",
-  "url": "https://news.mysteel.com/a/26091815/9559AFF322F379D8.html",
+  "url": "https://news.mysteel.com/a/26091815/4F52DB801CC46A92.html",
   "summary": "",
   "pub_time": "2026-09-18T07:00:00Z",
   "source": "上海钢联Mysteel",
@@ -329,25 +527,6 @@
   "en_title": "Daily Market Wire 18 September 2026"
  },
  {
-  "title": "海关总署：8月中国进口未锻轧铜及铜材38万吨，同比降10.2%",
-  "url": "https://news.mysteel.com/a/26091810/552532FC0667586C.html",
-  "summary": "",
-  "pub_time": "2026-09-18T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "2de61aadf9967f6ac441ff2d8206b6c0",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "美国汽油柴油接力上涨，分析师警告沙特管道情况比预期糟糕",
   "url": "https://news.mysteel.com/a/26091810/12B6CD9EA486AAA3.html",
   "summary": "",
@@ -360,25 +539,6 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "海关总署：8月中国出口钢铁板材600万吨，同比增6.6%",
-  "url": "https://news.mysteel.com/a/26091810/D6C9CBFD78D7C4CD.html",
-  "summary": "",
-  "pub_time": "2026-09-18T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "ce0a6806bccd4cede63ab5a897e15a6b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -1082,58 +1242,6 @@
   "en_title": "West Africa key to gold growth, Fortuna CEO says"
  },
  {
-  "title": "宣布多元化后几天，俄罗斯切断了向亚美尼亚的天然气供应",
-  "url": "",
-  "summary": "就在亚美尼亚总理尼科尔·帕希尼扬重申有意减少该国对俄罗斯天然气进口的依赖几天后，俄罗斯供应商俄罗斯天然气工业股份公司亚美尼亚公司采取了看似惩罚性的措施，宣布长期切断供应。帕希尼扬 (Pashinyan) 9 月告诉记者",
-  "pub_time": "2026-09-17T16:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "b1515b664025c15beefae4982f529ddf",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气"
-  ],
-  "en_title": "Russia Cuts Off Gas to Armenia Days After Diversification Announcement"
- },
- {
-  "title": "克普勒认为，随着柴油紧缩加剧，石油磨削量将更高",
-  "url": "",
-  "summary": "Kpler 的 Matt Smith 预计油价将继续走高，中东六个半月的供应损失现在正在影响汽油和柴油价格。史密斯周四对 CNBC 表示，自 8 月初以来，油价已上涨约每桶 30 美元。汽油通常是",
-  "pub_time": "2026-09-17T16:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "ae2555e698e5d71145bf16ed32aeec88",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Kpler Sees Oil Grinding Higher as Diesel Crunch Deepens"
- },
- {
   "title": "2026年9月18日大连豆粕期货低开收跌",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/18/0102117141.shtml",
   "summary": "",
@@ -1305,25 +1413,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年9月18日大连大豆期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/18/5753392910.shtml",
-  "summary": "",
-  "pub_time": "2026-09-17T16:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "b996438adc5844575c4295ee0bd2a2d6",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
   "title": "美国小麦下跌，市场关注黑海谷物出口动态",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/18/2935826209.shtml",
   "summary": "",
@@ -1377,6 +1466,25 @@
    "中文",
    "国内",
    "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月18日大连大豆期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/18/5753392910.shtml",
+  "summary": "",
+  "pub_time": "2026-09-17T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "234b1da2b836cbcb824c34d8c071d7f1",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
   ],
   "is_elite": false
  },
@@ -2964,25 +3072,6 @@
   "is_elite": false
  },
  {
-  "title": "9月17日马来西亚棕榈油9月船期FOB报价",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/17/1527827668.shtml",
-  "summary": "",
-  "pub_time": "2026-09-16T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "ca1f9f1f0f9a02b2cd1e681d89d2f691",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年9月17日郑州菜油期货收盘高开收跌",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/17/5823916792.shtml",
   "summary": "",
@@ -3508,62 +3597,5 @@
    "库存"
   ],
   "en_title": "U.S. Crude Oil Inventories Edge Slightly Lower"
- },
- {
-  "title": "美元贬值、原油价格走软，金价上涨",
-  "url": "",
-  "summary": "(RTTNews) - 周三金价上涨，因油价从近期高点回落，且投资者为当天晚些时候密切关注的美联储利率决定做好准备。",
-  "pub_time": "2026-09-16T09:44:11Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "ee3998dc68e10676a2ab79c01a472bf3",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "原油",
-   "价",
-   "走高"
-  ],
-  "en_title": "Gold Climbs On Easing Dollar, Softer Crude Prices"
- },
- {
-  "title": "随着供应担忧缓解，油价小幅走低",
-  "url": "",
-  "summary": "(RTTNews) - 行业数据显示美国原油库存意外增加，且有报道称沙特阿拉伯正通过阿曼苏哈尔港的船对船转运向亚洲炼油商提供更多原油，周三油价走低。",
-  "pub_time": "2026-09-16T09:25:51Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "ea7587c3d422387f494f067a3e70e357",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "供应"
-  ],
-  "en_title": "Oil Prices Edge Lower As Supply Concerns Ease"
  }
 ]
