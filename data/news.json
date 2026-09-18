@@ -158,6 +158,57 @@
   "en_title": "Copper mine supply risks first decline since 2017: Sprott"
  },
  {
+  "title": "尼日利亚采矿镇压行动致37人死亡",
+  "url": "",
+  "summary": "尼日利亚政府在打击涉嫌非法采矿的行动中被捕，37 人在拘留期间死亡，引发了抗议活动和对该国采矿执法行动的审查。尼日尔州周五...尼日利亚后采矿镇压导致 37 人死亡，该事件首先出现在《The Norther》上",
+  "pub_time": "2026-09-18T19:57:14Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "9632a3ef1324cb387fd7ad7f173f8d60",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Nigeria mining crackdown under fire after 37 die"
+ },
+ {
+  "title": "阿雅原木产于摩洛哥，品质优良，浅银",
+  "url": "",
+  "summary": "Aya Gold & Silver（多伦多证交所，纳斯达克股票代码：AYA）在摩洛哥的 Zgounder 矿进行的新钻探已将高品位银矿化扩展到现有露天矿坑周围和中部......摩洛哥的 Aya 后日志高品位浅层银矿首先出现在《北方矿工》上。",
+  "pub_time": "2026-09-18T19:45:54Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "c55fbdffe8e28160ac5e6acd7ff11e9e",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "白银"
+  ],
+  "en_title": "Aya logs high-grade, shallow silver in Morocco"
+ },
+ {
   "title": "黄金是不受关税影响的。加拿大每年有 110 亿美元用于许可",
   "url": "",
   "summary": "我们从三方面筛选加拿大的黄金开发项目。",
@@ -210,6 +261,31 @@
    "锡"
   ],
   "en_title": "NASDA Concludes 2026 Annual Meeting With New Leadership"
+ },
+ {
+  "title": "Aura 获得 2 亿美元贷款以促进美洲增长",
+  "url": "",
+  "summary": "Aura Minerals（纳斯达克股票代码：AUGO）已获得 2 亿美元（2.8 亿加元）的银团贷款，该金矿商将在危地马拉建设 Era Dorada 项目，并致力于生产超过 600,000 黄金当量... Aura 为美洲经济增长获得 2 亿美元贷款的消息首先出现在 The Northern Mi 上",
+  "pub_time": "2026-09-18T19:30:06Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "860054c67ec3d651d6a85eb3bb818a00",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Aura secures $200M loan for Americas growth"
  },
  {
   "title": "委内瑞拉的 40 亿美元黄金储备即将离开伦敦",
@@ -291,31 +367,6 @@
    "需求"
   ],
   "en_title": "Kazakhstan Turns to Russian Gas as Domestic Demand Surges"
- },
- {
-  "title": "尼日利亚采矿镇压行动致37人死亡",
-  "url": "",
-  "summary": "尼日利亚政府在打击涉嫌非法采矿的行动中被捕，37 人在拘留期间死亡，引发了抗议活动和对该国采矿执法行动的审查。尼日尔州周五...尼日利亚后采矿镇压导致 37 人死亡，该事件首先出现在《The Norther》上",
-  "pub_time": "2026-09-18T17:57:14Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "9632a3ef1324cb387fd7ad7f173f8d60",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Nigeria mining crackdown under fire after 37 die"
  },
  {
   "title": "特朗普与海湾合作委员会会议前原油暴跌，金价上涨",
@@ -507,31 +558,6 @@
   "en_title": "Russia’s $118 Billion Arctic Oil Bet Pushes Ahead Despite Sanctions"
  },
  {
-  "title": "Aura 获得 2 亿美元贷款以促进美洲增长",
-  "url": "",
-  "summary": "Aura Minerals（纳斯达克股票代码：AUGO）已获得 2 亿美元（2.8 亿加元）的银团贷款，该金矿商将在危地马拉建设 Era Dorada 项目，并致力于生产超过 600,000 黄金当量... Aura 为美洲经济增长获得 2 亿美元贷款的消息首先出现在 The Northern Mi 上",
-  "pub_time": "2026-09-18T15:50:06Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "860054c67ec3d651d6a85eb3bb818a00",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "Aura secures $200M loan for Americas growth"
- },
- {
   "title": "阿雅原木产于摩洛哥，品质优良，浅银",
   "url": "",
   "summary": "新的钻探结果扩大了摩洛哥 Zgounder 矿露天矿和中心区域周围的高品位银矿化范围。",
@@ -539,32 +565,6 @@
   "source": "Mining.com",
   "_cat": "贵金属",
   "dedup_key": "63b6c19ea6364caa96ff881b37dacce9",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "白银"
-  ],
-  "en_title": "Aya logs high-grade, shallow silver in Morocco"
- },
- {
-  "title": "阿雅原木产于摩洛哥，品质优良，浅银",
-  "url": "",
-  "summary": "Aya Gold & Silver（多伦多证交所，纳斯达克股票代码：AYA）在摩洛哥的 Zgounder 矿进行的新钻探已将高品位银矿化扩展到现有露天矿坑周围和中部......摩洛哥的 Aya 后日志高品位浅层银矿首先出现在《北方矿工》上。",
-  "pub_time": "2026-09-18T14:45:54Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "c55fbdffe8e28160ac5e6acd7ff11e9e",
   "score": 84,
   "priority": "P2",
   "topic": "贵金属",
