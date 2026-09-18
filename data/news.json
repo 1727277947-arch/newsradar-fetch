@@ -1,5 +1,85 @@
 [
  {
+  "title": "行业机构表示，日本炼油厂有足够的原油维持到 11 月份",
+  "url": "",
+  "summary": "日本石油协会(PAJ)会长周五表示，在中东供应情况再次出现变化之际，日本炼油商已采购了足够维持整个11月的原油。沙特阿拉伯东西石油管道因袭击事件暂时关闭",
+  "pub_time": "2026-09-18T13:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "281eda9051066335385b08f114cef9e8",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Japan's Refiners Have Enough Crude to Last Through November, Industry Body Says"
+ },
+ {
+  "title": "沙特石油解决方案缓解供应担忧，WTI 回落",
+  "url": "",
+  "summary": "周五早间格林尼治标准时间 0:51，11 月 WTI 原油期货交易价格为 96.35 美元，本周上涨 0.49 美元，涨幅为 0.51%。该合约最高交易价格为 101.69 美元，最低交易价格为 94.64 美元。这一区间反映了市场陷入了沙特基础设施破损和出口解决方案之间的困境，该解决方案仅转移了部分原油",
+  "pub_time": "2026-09-18T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "364f35a4f5051b3f80e5a478ba30062d",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "WTI油价",
+   "走软",
+   "供应"
+  ],
+  "en_title": "WTI Retreats as Saudi Oil Workaround Eases Supply Fears"
+ },
+ {
+  "title": "特朗普在沙特和以色列的武器交易中预付了超过270亿美元",
+  "url": "",
+  "summary": "政治、地缘政治与冲突 波兰国有炼油厂 Orlen 在一笔委内瑞拉原油交易中，在没有任何抵押品和银行担保的情况下汇款后，损失了 2.3 亿美元。 11 月 2 日，Orlen 的瑞士贸易部门与迪拜 Hannon International 签署了价值 3.45 亿美元的合同",
+  "pub_time": "2026-09-18T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "8ffec34795e4d7256f8a8969b1a8c933",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Trump Advances More Than $27 Billion in Saudi and Israeli Arms Deals"
+ },
+ {
   "title": "沙特霍尔木兹石油出口反弹，而东西管道仍处于离线状态",
   "url": "",
   "summary": "贸易消息人士周五告诉路透社，沙特阿拉伯已从波斯湾拉斯坦努拉港通过船对船转运方式出售了多达 6000 万桶 9 月和 10 月在霍尔木兹海峡以外装载的原油。沙特石油巨头阿美公司已向买家提供来自沙特的原油",
@@ -25,6 +105,32 @@
    "出口"
   ],
   "en_title": "Saudi Oil Exports Rebound at Hormuz While East-West Pipeline Remains Offline"
+ },
+ {
+  "title": "委内瑞拉的 40 亿美元黄金储备即将离开伦敦",
+  "url": "",
+  "summary": "拟议的交易可能会将 31 吨黄金转移到纽约，从而为将其用作政府借款抵押品打开了大门。",
+  "pub_time": "2026-09-18T10:47:00Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "0460c67f5836567b7d30637f5c47f895",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Venezuela’s $4B gold stash closer to leaving London"
  },
  {
   "title": "供应忧虑缓解，石油供应下滑，金价攀升",
@@ -950,86 +1056,6 @@
   "en_title": "U.S. and Houthis Open Talks as Saudi Oil Crisis Deepens"
  },
  {
-  "title": "美国正在为燃料支付大量费用，但汽油并未耗尽",
-  "url": "",
-  "summary": "汽油很贵。柴油更差。社交媒体正在崩溃，显然已经认定美国即将耗尽燃料。 EIA 数据显示，上周美国汽油库存增加 80 万桶，至 2.077 亿桶。每年这个时候的股价比五年平均水平低 5%。钛",
-  "pub_time": "2026-09-17T19:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "412420673b11a839cd92d6495111f94b",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "汽油",
-   "天然气",
-   "燃料"
-  ],
-  "en_title": "America Is Paying a Lot for Fuel, Not Running Out of Gasoline"
- },
- {
-  "title": "俄罗斯8月份燃料出口反弹，但仍较去年下降50%",
-  "url": "",
-  "summary": "由于多家炼油厂从计划外维护中恢复，俄罗斯 8 月份海运石油产品出口量较 7 月份增长 16.4%。反弹仍使俄罗斯燃料出口量比 2025 年 8 月的水平低 50%。据业内消息人士称，俄罗斯上个月运输了457万吨石油产品",
-  "pub_time": "2026-09-17T19:15:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "39234c5cf689d3b3d7e95e956a2c2e2c",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "燃料",
-   "出口"
-  ],
-  "en_title": "Russian Fuel Exports Rebound in August But Still Down 50% From Last Year"
- },
- {
-  "title": "台湾考虑复兴核能以减少液化天然气暴露",
-  "url": "",
-  "summary": "台湾关闭最后一个反应堆仅一年后，就正在走向核复兴，液化天然气价格飙升和对进口天然气的日益依赖迫使其重新考虑能源战略。准备工作已经落实：台电已提交马鞍山核电重启计划",
-  "pub_time": "2026-09-17T19:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "b5d9a19753c3f922f3e7d720eff9cb86",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Taiwan Mulls Nuclear Revival to Cut Its LNG Exposure"
- },
- {
   "title": "加拿大可以通过提炼更多金属获得数十亿美元的收益",
   "url": "",
   "summary": "政府贸易促进机构表示，除非加拿大在国内建立更多的加工能力，否则加拿大可能会将其关键矿产的更多价值留在国外。持续转向更复杂的……加拿大可以通过提炼更多金属获得数十亿美元的收益首先出现在《北方报》上",
@@ -1161,32 +1187,6 @@
    "黄金"
   ],
   "en_title": "Agnico-backed Cartier lowers Cadillac spend in Quebec gold belt"
- },
- {
-  "title": "燃油动力飞机带游客飞往南极洲",
-  "url": "",
-  "summary": "想象一下从南非飞往地球上最偏远的地方之一南极洲。然后想象一下乘坐喷气式飞机进行旅程，部分动力由剩余的食用油制成的燃料提供。这是今天《非洲商业内幕》的头条新闻，其中称豪华旅游公司白色沙漠",
-  "pub_time": "2026-09-17T18:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "ca25732297b025aa28e02982420bea85",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Cooking Oil-Powered Plane to Fly Tourists to Antarctica"
  },
  {
   "title": "投资者分析美联储加息，原油价格下跌，金价上涨",
@@ -3515,33 +3515,6 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "Hammerdown 新发现的黄金达到商业产量",
-  "url": "",
-  "summary": "New Found Gold 已开始在纽芬兰中部资产进行商业生产，支持设定成本和目标的 13 年采矿计划。",
-  "pub_time": "2026-09-16T15:47:05Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "3c922e61b0c3b83642f9b09de40dcea9",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "产量"
-  ],
-  "en_title": "New Found Gold hits commercial output at Hammerdown"
  },
  {
   "title": "新发现的黄金在 Hammerdown 矿开始商业产出",
