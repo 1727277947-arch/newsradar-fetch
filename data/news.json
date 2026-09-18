@@ -1,5 +1,55 @@
 [
  {
+  "title": "美国能源部希望工业界对遗留地点进行关键矿物清理",
+  "url": "",
+  "summary": "受 EOI 约束的材料包括铝、铯、氯化物、铜、氟、铅、氢化锂、铂、硒、银、钨和钒。",
+  "pub_time": "2026-09-18T23:41:27Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "39ad4107e67713bd8df28b84a622b8b9",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "US DOE looks to industry for critical minerals cleanup at legacy sites"
+ },
+ {
+  "title": "Aura Minerals 获得 2 亿美元贷款以促进美洲增长",
+  "url": "",
+  "summary": "Aura 在巴西经营四个金矿、洪都拉斯的米诺萨金矿和墨西哥的阿兰扎祖铜金银矿。",
+  "pub_time": "2026-09-18T23:04:00Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "cd828d723d24e9146713698e083f614a",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Aura Minerals secures $200M loan for Americas growth"
+ },
+ {
   "title": "Sprott：铜矿供应面临 2017 年以来首次下降的风险",
   "url": "",
   "summary": "“更高的价格提高了项目的经济性，但它们不能压缩每个开发阶段或快速补充发现管道。”",
@@ -2634,59 +2684,6 @@
    "黄金"
   ],
   "en_title": "Agnico-backed Cartier lowers Cadillac spend in Quebec gold belt"
- },
- {
-  "title": "MMG 采取行动缓解欧盟对 5 亿美元英美镍矿交易的担忧",
-  "url": "",
-  "summary": "欧盟监管机构担心 MMG 购买巴西镍可能会收紧镍铁供应并提高钢铁制造商的成本。",
-  "pub_time": "2026-09-17T13:49:30Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "87f0118b393fdadbe97982af4cbce6ab",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "镍"
-  ],
-  "en_title": "MMG moves to ease EU concerns over $500M Anglo nickel deal"
- },
- {
-  "title": "莱因哈特的九笔交易狂潮让她的业务远远超出了铁矿石领域",
-  "url": "",
-  "summary": "澳大利亚首富正在建立涵盖稀土、铜、镓、锑和黄金的战略金属投资组合。",
-  "pub_time": "2026-09-17T12:46:00Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "ef6d53a0874d7626e3ae86873378178a",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "铁矿石",
-   "生铁"
-  ],
-  "en_title": "Rinehart’s nine-deal spree takes her well beyond iron ore"
  },
  {
   "title": "每日钢市：期钢翻绿，高成本与弱需求博弈，钢价涨跌有限",
