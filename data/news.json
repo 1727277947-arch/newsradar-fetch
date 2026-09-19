@@ -375,6 +375,33 @@
   "en_title": "Gold is tariff-proof. Canada has $11 billion a year of it stuck in permitting"
  },
  {
+  "title": "NASDA 结束 2026 年年会并任命新领导层",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-09-18T19:31:00Z",
+  "source": "Grainnet",
+  "_cat": "基本金属",
+  "dedup_key": "2e60c918d4bc9cd6e3ef16fc577be087",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铅",
+   "锡"
+  ],
+  "en_title": "NASDA Concludes 2026 Annual Meeting With New Leadership"
+ },
+ {
   "title": "Aura 获得 2 亿美元贷款以促进美洲增长",
   "url": "",
   "summary": "Aura Minerals（纳斯达克股票代码：AUGO）已获得 2 亿美元（2.8 亿加元）的银团贷款，该金矿商将在危地马拉建设 Era Dorada 项目，并致力于生产超过 600,000 黄金当量... Aura 为美洲经济增长获得 2 亿美元贷款的消息首先出现在 The Northern Mi 上",
@@ -563,6 +590,32 @@
    "价"
   ],
   "en_title": "U.S. Oil, Gas Rig Count Creeps Up With Strong Prices"
+ },
+ {
+  "title": "墨西哥玉米买家建立美国采购关系",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-09-18T17:02:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "038f427279dc2d68073e0dbb120322c8",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "玉米"
+  ],
+  "en_title": "Mexican Corn Buyers Build U.S. Sourcing Relationships"
  },
  {
   "title": "TotalEnergies 和 BlackRock 签署 1.8B 美元非洲石油和天然气资产交易",
@@ -1150,32 +1203,6 @@
    "原油"
   ],
   "en_title": "The Oil Market’s Backup Plan Is Breaking Down"
- },
- {
-  "title": "行业机构表示，日本炼油厂有足够的原油维持到 11 月份",
-  "url": "",
-  "summary": "日本石油协会(PAJ)会长周五表示，在中东供应情况再次出现变化之际，日本炼油商已采购了足够维持整个11月的原油。沙特阿拉伯东西石油管道因袭击事件暂时关闭",
-  "pub_time": "2026-09-18T13:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "281eda9051066335385b08f114cef9e8",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Japan's Refiners Have Enough Crude to Last Through November, Industry Body Says"
  },
  {
   "title": "委内瑞拉的 40 亿美元黄金储备即将离开伦敦",
@@ -1957,60 +1984,5 @@
    "白银"
   ],
   "en_title": "Endeavour Silver (EXK) Shares Cross Above 200 DMA"
- },
- {
-  "title": "加拿大可以通过提炼更多金属获得数十亿美元的收益",
-  "url": "",
-  "summary": "政府贸易促进机构表示，除非加拿大在国内建立更多的加工能力，否则加拿大可能会将其关键矿产的更多价值留在国外。持续转向更复杂的……加拿大可以通过提炼更多金属获得数十亿美元的收益首先出现在《北方报》上",
-  "pub_time": "2026-09-17T18:39:52Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "f20b875f1ead0e11dcba60a00894f77c",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "金属",
-   "走强"
-  ],
-  "en_title": "Canada could gain billions from refining more metals"
- },
- {
-  "title": "有报道称沙特石油供应恢复，特朗普就伊朗战争发表讲话，原油价格下跌",
-  "url": "",
-  "summary": "(RTTNews) - 周四原油价格延续昨天的跌势，在沙特阿拉伯努力使其受到胡塞武装袭击的重要石油管道恢复运营以及美国总统唐纳德·特朗普发表讲话后，与供应相关的担忧有所缓解，原油价格周四走低。",
-  "pub_time": "2026-09-17T18:35:54Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "c5b315398ec7f27cea9b00b7cfb99c61",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "下滑",
-   "供应"
-  ],
-  "en_title": "Crude Oil Slides Amid Reports Of Saudi Oil Supply Restoration, Trump's Message On Iran War"
  }
 ]
