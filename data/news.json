@@ -1,5 +1,24 @@
 [
  {
+  "title": "美联储加息落地，黄金为何不跌反涨？",
+  "url": "https://www.chinanews.com.cn/cj/2026/09-19/10699593.shtml",
+  "summary": "美联储加息靴子落地，黄金却涨了",
+  "pub_time": "2026-09-19T11:36:12Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "3293e1f3b049514174142525e7f557c6",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "美国能源部希望工业界对遗留地点进行关键矿物清理",
   "url": "",
   "summary": "受 EOI 约束的材料包括铝、铯、氯化物、铜、氟、铅、氢化锂、铂、硒、银、钨和钒。",
@@ -286,33 +305,6 @@
   "en_title": "Gold is tariff-proof. Canada has $11 billion a year of it stuck in permitting"
  },
  {
-  "title": "NASDA 结束 2026 年年会并任命新领导层",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-18T19:31:00Z",
-  "source": "Grainnet",
-  "_cat": "基本金属",
-  "dedup_key": "2e60c918d4bc9cd6e3ef16fc577be087",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铅",
-   "锡"
-  ],
-  "en_title": "NASDA Concludes 2026 Annual Meeting With New Leadership"
- },
- {
   "title": "Aura 获得 2 亿美元贷款以促进美洲增长",
   "url": "",
   "summary": "Aura Minerals（纳斯达克股票代码：AUGO）已获得 2 亿美元（2.8 亿加元）的银团贷款，该金矿商将在危地马拉建设 Era Dorada 项目，并致力于生产超过 600,000 黄金当量... Aura 为美洲经济增长获得 2 亿美元贷款的消息首先出现在 The Northern Mi 上",
@@ -501,32 +493,6 @@
    "价"
   ],
   "en_title": "U.S. Oil, Gas Rig Count Creeps Up With Strong Prices"
- },
- {
-  "title": "墨西哥玉米买家建立美国采购关系",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-18T17:02:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "038f427279dc2d68073e0dbb120322c8",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "玉米"
-  ],
-  "en_title": "Mexican Corn Buyers Build U.S. Sourcing Relationships"
  },
  {
   "title": "TotalEnergies 和 BlackRock 签署 1.8B 美元非洲石油和天然气资产交易",
@@ -2136,32 +2102,6 @@
    "走软"
   ],
   "en_title": "Gold Advances As Crude Oil Eases While Investors Analyze Fed's Rate Hike"
- },
- {
-  "title": "大豆协会敦促特朗普解决中国贸易壁垒",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-17T17:33:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "d409aa267a2853fa2079b6393e4ce425",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "大豆"
-  ],
-  "en_title": "Soybean Association Urges Trump To Address China Trade Barriers"
  },
  {
   "title": "Fortuna 首席执行官表示，西非是黄金增长的关键",
