@@ -1,11 +1,29 @@
 {
- "updated_at": "2026-09-19T09:33:55",
+ "updated_at": "2026-09-19T10:46:37",
  "spot_meta": {
   "policy": "stale_never_fill",
   "spot_page_used": "2026-09-18",
   "note": "现货归属日见各品种 spot_as_of；缺失 None 即当日/最近已收盘昨日现货未取到，宁缺不誊旧"
  },
  "prices": [
+  {
+   "symbol": "XAU",
+   "name": "黄金",
+   "unit": "美元/盎司",
+   "quote_ccy": "USD",
+   "category": "贵金属",
+   "market": "国际",
+   "kind": "spot",
+   "spot": 4379.0,
+   "future": null,
+   "basis": null,
+   "basis_pct": null,
+   "change": 0.0,
+   "change_pct": 0.0,
+   "trend": "flat",
+   "source": "gold-api.com(伦敦现货)",
+   "note": "伦敦现货"
+  },
   {
    "symbol": "XAG",
    "name": "白银",
@@ -6621,7 +6639,8 @@
    "reason": "今日打板 · 方向做多 · 实时+2.74% / 波幅2.13% / 打板分42: 进场≈3558.3, 止损3493.89, 止盈3645.68",
    "tier": 1,
    "rank": 2,
-   "is_today": false
+   "is_today": false,
+   "plan_basis": "alt_symbol"
   }
  ],
  "hf_pool": [
@@ -6703,8 +6722,57 @@
   "date": "2026-09-19",
   "session": "afternoon",
   "ruleset": 3,
-  "name": "",
-  "symbol": ""
+  "symbol": "MA0",
+  "name": "甲醇",
+  "category": "化工",
+  "unit": "元/吨",
+  "price": 3527.0,
+  "direct": 1,
+  "dir_label": "做多",
+  "day_range_pct": 2.13,
+  "limit_score": 42,
+  "board": "一般/观望",
+  "dual": {
+   "st": "break_a",
+   "ref": 3461.0
+  },
+  "plan": {
+   "dir": "long",
+   "dir_label": "做多",
+   "entry": 3558.3,
+   "entry_alt": null,
+   "entry_alt_kind": null,
+   "sl": 3493.895,
+   "tp": 3645.68,
+   "sl_pct": 1.81,
+   "rr": 2.0,
+   "basis": "live_reclaim",
+   "note": "以现价为基准·转强确认进多; 止损ATR自适应, 2R落袋; 进场后立刻反向即离场"
+  },
+  "real_open": 3461.0,
+  "day_bias": "bull",
+  "day_ma": [
+   3452.2,
+   3168.8,
+   2776.55
+  ],
+  "est_margin": 3000.0,
+  "hands_in_100k": 33,
+  "volume": 687095,
+  "open_interest": 236026,
+  "mode": "追强做多",
+  "anchor": 3527.0,
+  "tp": 3645.68,
+  "sl": 3493.895,
+  "pullback": null,
+  "src_conflict": false,
+  "board_score": 0.819,
+  "day_conflict": null,
+  "reason": "今日打板 · 方向做多 · 实时+2.74% / 波幅2.13% / 打板分42: 进场≈3558.3, 止损3493.89, 止盈3645.68",
+  "tier": 1,
+  "rank": 2,
+  "is_today": false,
+  "plan_basis": "alt_symbol"
  },
  "trading_rules": [
   {
