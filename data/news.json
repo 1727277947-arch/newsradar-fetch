@@ -375,33 +375,6 @@
   "en_title": "Gold is tariff-proof. Canada has $11 billion a year of it stuck in permitting"
  },
  {
-  "title": "NASDA 结束 2026 年年会并任命新领导层",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-18T19:31:00Z",
-  "source": "Grainnet",
-  "_cat": "基本金属",
-  "dedup_key": "2e60c918d4bc9cd6e3ef16fc577be087",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铅",
-   "锡"
-  ],
-  "en_title": "NASDA Concludes 2026 Annual Meeting With New Leadership"
- },
- {
   "title": "Aura 获得 2 亿美元贷款以促进美洲增长",
   "url": "",
   "summary": "Aura Minerals（纳斯达克股票代码：AUGO）已获得 2 亿美元（2.8 亿加元）的银团贷款，该金矿商将在危地马拉建设 Era Dorada 项目，并致力于生产超过 600,000 黄金当量... Aura 为美洲经济增长获得 2 亿美元贷款的消息首先出现在 The Northern Mi 上",
@@ -590,32 +563,6 @@
    "价"
   ],
   "en_title": "U.S. Oil, Gas Rig Count Creeps Up With Strong Prices"
- },
- {
-  "title": "墨西哥玉米买家建立美国采购关系",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-18T17:02:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "038f427279dc2d68073e0dbb120322c8",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "玉米"
-  ],
-  "en_title": "Mexican Corn Buyers Build U.S. Sourcing Relationships"
  },
  {
   "title": "TotalEnergies 和 BlackRock 签署 1.8B 美元非洲石油和天然气资产交易",
@@ -2065,57 +2012,5 @@
    "供应"
   ],
   "en_title": "Crude Oil Slides Amid Reports Of Saudi Oil Supply Restoration, Trump's Message On Iran War"
- },
- {
-  "title": "Honey Badger 几乎使 Prairie Creek 价值增加三倍至 $1.2B",
-  "url": "",
-  "summary": "Honey Badger Silver (TSXV: TUF) 位于西北地区的 Prairie Creek 银锌矿的最新初步经济评估将该项目的净现值几乎增加了两倍，达到 12 亿美元。",
-  "pub_time": "2026-09-17T18:10:51Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "fd570ffc0c4336b58ff4841914286172",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "Honey Badger nearly triples Prairie Creek value to $1.2B"
- },
- {
-  "title": "亿万富翁的疯狂购买不仅仅限于铁矿石",
-  "url": "",
-  "summary": "吉娜·莱因哈特 (Gina Rinehart) 的汉考克勘探公司 (Hancock Prospecting) 在过去一年中进行了一系列投资，随着澳大利亚首富的扩张，扩大了对稀土、铜、镓、锑和贵金属的投资。",
-  "pub_time": "2026-09-17T18:05:00Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "d422218f03e410bd0ed276033b738e3b",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "铁矿石",
-   "生铁"
-  ],
-  "en_title": "Billionaire’s buying spree stretches beyond iron ore"
  }
 ]
