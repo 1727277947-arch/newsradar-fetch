@@ -286,33 +286,6 @@
   "en_title": "Gold is tariff-proof. Canada has $11 billion a year of it stuck in permitting"
  },
  {
-  "title": "NASDA 结束 2026 年年会并任命新领导层",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-18T19:31:00Z",
-  "source": "Grainnet",
-  "_cat": "基本金属",
-  "dedup_key": "2e60c918d4bc9cd6e3ef16fc577be087",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铅",
-   "锡"
-  ],
-  "en_title": "NASDA Concludes 2026 Annual Meeting With New Leadership"
- },
- {
   "title": "Aura 获得 2 亿美元贷款以促进美洲增长",
   "url": "",
   "summary": "Aura Minerals（纳斯达克股票代码：AUGO）已获得 2 亿美元（2.8 亿加元）的银团贷款，该金矿商将在危地马拉建设 Era Dorada 项目，并致力于生产超过 600,000 黄金当量... Aura 为美洲经济增长获得 2 亿美元贷款的消息首先出现在 The Northern Mi 上",
@@ -503,32 +476,6 @@
   "en_title": "U.S. Oil, Gas Rig Count Creeps Up With Strong Prices"
  },
  {
-  "title": "墨西哥玉米买家建立美国采购关系",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-18T17:02:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "038f427279dc2d68073e0dbb120322c8",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "玉米"
-  ],
-  "en_title": "Mexican Corn Buyers Build U.S. Sourcing Relationships"
- },
- {
   "title": "TotalEnergies 和 BlackRock 签署 1.8B 美元非洲石油和天然气资产交易",
   "url": "",
   "summary": "TotalEnergies 与贝莱德全球基础设施合作伙伴 (GIP) 签署了一项合作协议，根据该协议，GIP 将向这家法国超级巨头在非洲的部分石油和天然气基础设施资产投资 18 亿美元。以换取18亿美元的出资",
@@ -606,6 +553,196 @@
    "原油"
   ],
   "en_title": "Russia’s $118 Billion Arctic Oil Bet Pushes Ahead Despite Sanctions"
+ },
+ {
+  "title": "2026年9月19日天津豆粕价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/19/2142147692.shtml",
+  "summary": "",
+  "pub_time": "2026-09-18T16:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "16b7dcbea9c690d577163d643c0991f3",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月19日内蒙古鄂伦春旗诺敏镇大豆价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/19/2117548831.shtml",
+  "summary": "",
+  "pub_time": "2026-09-18T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "75dc76606ecb8620857d87bf57cb1f61",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月19日内蒙古呼伦贝尔莫旗大豆价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/19/2056547144.shtml",
+  "summary": "",
+  "pub_time": "2026-09-18T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "cc50cf5529f11588ddf6ec97a5bdd4b4",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月19日安徽省亳州涡阳县大豆价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/19/2029522100.shtml",
+  "summary": "",
+  "pub_time": "2026-09-18T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "2ecf21744b4b6180e08bfda01b424b17",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月19日安徽省安庆新季大豆价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/19/2014778653.shtml",
+  "summary": "",
+  "pub_time": "2026-09-18T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "aac946698ac9b1b2bbb36018d62d4a07",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月19日吉林松原新季大豆价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/19/2001921186.shtml",
+  "summary": "",
+  "pub_time": "2026-09-18T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "c2668c404b3aad4959739091330f18a9",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月19日黑龙江省佳木斯市米厂长粒稻谷价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/19/1126659593.shtml",
+  "summary": "",
+  "pub_time": "2026-09-18T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "2a2a6802a2fe95ef5d9b81f0b712d39d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月19日黑龙江哈尔滨尚志米厂新季长粒水稻价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/19/1104408732.shtml",
+  "summary": "",
+  "pub_time": "2026-09-18T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "f6e22866a2a815e5433781fe5aa81444",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月19日黑龙江省佳木斯市米厂长粒大米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/19/1539987088.shtml",
+  "summary": "",
+  "pub_time": "2026-09-18T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "167d82f390c20f0909b0ad6b0e8d1840",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月19日黑龙江哈尔滨尚志新季长粒大米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/19/1510652086.shtml",
+  "summary": "",
+  "pub_time": "2026-09-18T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "e74d90b2dd05e6340d3d29904fe9e29d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
  },
  {
   "title": "阿雅原木产于摩洛哥，品质优良，浅银",
@@ -862,6 +999,44 @@
   "is_elite": false
  },
  {
+  "title": "钢材下游周报：8月汽车等产量及出口数据出炉",
+  "url": "https://news.mysteel.com/a/26091817/DCCF84531ED68CF7.html",
+  "summary": "",
+  "pub_time": "2026-09-18T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "333451f4be131e81d03d920ef6421d10",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/产业经济",
+  "tags": [
+   "产业经济",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "钢材下游周报：8月汽车家电船舶等产量及出口数据出炉",
+  "url": "https://news.mysteel.com/a/26091817/A77716CE9F64456D.html",
+  "summary": "",
+  "pub_time": "2026-09-18T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "c51a2f325e5791a35a8e55c0c50a4bcc",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/产业经济",
+  "tags": [
+   "产业经济",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "每日钢市：焦煤期货大跌超7%，钢坯降20元，钢价震荡偏弱",
   "url": "https://news.mysteel.com/a/26091817/F54779DB21F9DFD6.html",
   "summary": "",
@@ -938,44 +1113,6 @@
   "is_elite": false
  },
  {
-  "title": "广期所调整碳酸锂期货相关合约交易指令每次最小开仓下单数量、交易手续费标准及交易限额",
-  "url": "https://news.mysteel.com/a/26091816/34671338EA753DD4.html",
-  "summary": "",
-  "pub_time": "2026-09-18T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "d6b0599cb27a187c9594c407983174dd",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "华锡有色：实控人拟变更为中国五矿，股票下周一复牌",
-  "url": "https://news.mysteel.com/a/26091816/93969F38EBB9D91D.html",
-  "summary": "",
-  "pub_time": "2026-09-18T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "e3e251fc32aa81c88b193a566cd40b8b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "大商所：2026年中秋节、国庆节假期调整相关品种期货合约涨跌停板幅度和交易保证金水平",
   "url": "https://news.mysteel.com/a/26091816/DBF0CDD6E82CFF86.html",
   "summary": "",
@@ -1033,13 +1170,13 @@
   "is_elite": false
  },
  {
-  "title": "有色持仓日报：沪铅涨超2%，中信期货增持2.2千手多单",
-  "url": "https://news.mysteel.com/a/26091815/255AFEF98895E672.html",
+  "title": "广期所调整碳酸锂期货相关合约交易指令每次最小开仓下单数量、交易手续费标准及交易限额",
+  "url": "https://news.mysteel.com/a/26091816/1180150D67E04035.html",
   "summary": "",
-  "pub_time": "2026-09-18T07:00:00Z",
+  "pub_time": "2026-09-18T08:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "046ea3b4db2d84a82578f847480507d6",
+  "dedup_key": "d6b0599cb27a187c9594c407983174dd",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1059,6 +1196,25 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "81f240934cc21af1832e20a4473dedb5",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "有色持仓日报：沪铅涨超2%，中信期货增持2.2千手多单",
+  "url": "https://news.mysteel.com/a/26091815/FE5E02734F5A66D8.html",
+  "summary": "",
+  "pub_time": "2026-09-18T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "046ea3b4db2d84a82578f847480507d6",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1682,32 +1838,6 @@
   "en_title": "Gold Advances As Crude Oil Eases While Investors Analyze Fed's Rate Hike"
  },
  {
-  "title": "大豆协会敦促特朗普解决中国贸易壁垒",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-17T17:33:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "d409aa267a2853fa2079b6393e4ce425",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "大豆"
-  ],
-  "en_title": "Soybean Association Urges Trump To Address China Trade Barriers"
- },
- {
   "title": "Fortuna 首席执行官表示，西非是黄金增长的关键",
   "url": "",
   "summary": "创纪录的金价正在加剧矿商对地质和许可速度超过政治风险的司法管辖区的关注。",
@@ -1760,25 +1890,6 @@
   "source": "粮油豆粕",
   "_cn": true,
   "dedup_key": "a2488acfd6ad1dc1b294cde1e60cfd94",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油豆粕"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月18日大连豆粕期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/18/5831215906.shtml",
-  "summary": "",
-  "pub_time": "2026-09-17T16:00:00Z",
-  "source": "粮油豆粕",
-  "_cn": true,
-  "dedup_key": "943d0dc5a5460525c4a0ad99f0c40221",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -2418,6 +2529,25 @@
   "is_elite": false
  },
  {
+  "title": "2026年9月18日大连豆粕期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/18/5831215906.shtml",
+  "summary": "",
+  "pub_time": "2026-09-17T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "52cd90bb02e0c5d2254142075063834b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年9月18日郑州菜粕期货行情早报",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/18/5711568817.shtml",
   "summary": "",
@@ -2994,63 +3124,6 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "原油断供担忧缓和？沙特加速修复输油管道，目标六周内全面恢复",
-  "url": "https://news.mysteel.com/a/26091709/52DE507CCA85B6DA.html",
-  "summary": "",
-  "pub_time": "2026-09-17T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "c40facf3d51e2dda18e5afd8ca23cce9",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色期货早报：各品种多数上涨，多机构料铁矿石震荡运行",
-  "url": "https://news.mysteel.com/a/26091709/83E01B3743747C04.html",
-  "summary": "",
-  "pub_time": "2026-09-17T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "101a24dae64b9a202098cdbd498f6459",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "【证券时报】隆众资讯：原油及相关能化品种价格短期内将维持偏强运行",
-  "url": "https://news.mysteel.com/a/26091709/FEC716F82A083B3B.html",
-  "summary": "",
-  "pub_time": "2026-09-17T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "384edd628c2f2d4d9a130c0d6b3bd8a3",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
    "中文",
    "国内",
    "上海钢联Mysteel"
