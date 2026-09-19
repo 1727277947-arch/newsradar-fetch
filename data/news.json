@@ -1,5 +1,31 @@
 [
  {
+  "title": "随着小型反应堆最终起飞，原子能机构核电预测增加了两倍",
+  "url": "",
+  "summary": "经过多年的拖延和停滞不前的发展时间表，小型核革命可能终于到了。国际原子能机构（IAEA）在一份全新报告中再次上调了长期核电预测，预计全球核电发电量将达到",
+  "pub_time": "2026-09-19T17:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "7cd256c4b1e3a444b52cf83ef74a4abb",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "预测"
+  ],
+  "en_title": "IAEA Triples Nuclear Power Forecast as Small Reactors Finally Take Off"
+ },
+ {
   "title": "联合国警告世界必须为气温超过 1.5°C 做好准备",
   "url": "",
   "summary": "联合国首次承认，世界将超额完成将全球变暖限制在比工业化前水平高1.5°C的目标，这标志着2015年《巴黎协定》承诺的失败。目前，预计全球气温将在 20 年内比工业化前水平升高 1.5°C",
@@ -1205,35 +1231,6 @@
   "en_title": "Japan's Refiners Have Enough Crude to Last Through November, Industry Body Says"
  },
  {
-  "title": "沙特石油解决方案缓解供应担忧，WTI 回落",
-  "url": "",
-  "summary": "周五早间格林尼治标准时间 0:51，11 月 WTI 原油期货交易价格为 96.35 美元，本周上涨 0.49 美元，涨幅为 0.51%。该合约最高交易价格为 101.69 美元，最低交易价格为 94.64 美元。这一区间反映了市场陷入了沙特基础设施破损和出口解决方案之间的困境，该解决方案仅转移了部分原油",
-  "pub_time": "2026-09-18T12:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "364f35a4f5051b3f80e5a478ba30062d",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "WTI油价",
-   "走软",
-   "供应"
-  ],
-  "en_title": "WTI Retreats as Saudi Oil Workaround Eases Supply Fears"
- },
- {
   "title": "委内瑞拉的 40 亿美元黄金储备即将离开伦敦",
   "url": "",
   "summary": "拟议的交易可能会将 31 吨黄金转移到纽约，从而为将其用作政府借款抵押品打开了大门。",
@@ -2120,85 +2117,5 @@
    "生铁"
   ],
   "en_title": "Billionaire’s buying spree stretches beyond iron ore"
- },
- {
-  "title": "Agnico支持的卡地亚降低了凯迪拉克在魁北克金腰带的支出",
-  "url": "",
-  "summary": "根据一份新的初步报告，卡地亚资源公司 (TSXV: ECR; US-OTC: ECRFF) 已削减了在魁北克建设凯迪拉克黄金项目的初始成本，同时延长了拟议的矿山寿命。",
-  "pub_time": "2026-09-17T18:00:05Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "6cf8036e3210f798a6441f65656e3f56",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Agnico-backed Cartier lowers Cadillac spend in Quebec gold belt"
- },
- {
-  "title": "投资者分析美联储加息，原油价格下跌，金价上涨",
-  "url": "",
-  "summary": "(RTTNews) - 继昨天的上涨之后，周四金价小幅走高，因为有报道称沙特阿拉伯加快了受损的东西方管道的修复工作，原油价格有所回落。",
-  "pub_time": "2026-09-17T17:38:57Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "a82a7c604c722ad0aadfc2a4c2961568",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "原油",
-   "走软"
-  ],
-  "en_title": "Gold Advances As Crude Oil Eases While Investors Analyze Fed's Rate Hike"
- },
- {
-  "title": "大豆协会敦促特朗普解决中国贸易壁垒",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-17T17:33:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "d409aa267a2853fa2079b6393e4ce425",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "大豆"
-  ],
-  "en_title": "Soybean Association Urges Trump To Address China Trade Barriers"
  }
 ]
