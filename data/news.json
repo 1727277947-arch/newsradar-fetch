@@ -1,5 +1,30 @@
 [
  {
+  "title": "联合国警告世界必须为气温超过 1.5°C 做好准备",
+  "url": "",
+  "summary": "联合国首次承认，世界将超额完成将全球变暖限制在比工业化前水平高1.5°C的目标，这标志着2015年《巴黎协定》承诺的失败。目前，预计全球气温将在 20 年内比工业化前水平升高 1.5°C",
+  "pub_time": "2026-09-19T15:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "6bfc2f9bf7859c37152c74086c01a407",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "UN Warns World Must Prepare for Life Beyond 1.5°C"
+ },
+ {
   "title": "美国对进口俄罗斯石油或天然气的第三国加征所谓“次级关税” 商务部回应",
   "url": "https://www.chinanews.com.cn/cj/2026/09-19/10699695.shtml",
   "summary": "中新社北京9月19日电 (记者 尹倩芸)就美方将《2026年格雷厄姆制裁俄罗斯和伊朗法案》签署成法，中国商务部新闻发言人19日答记者问时称，中方反对以涉及第三方为由，对他国采取所谓次级制裁措施",
@@ -1207,31 +1232,6 @@
    "供应"
   ],
   "en_title": "WTI Retreats as Saudi Oil Workaround Eases Supply Fears"
- },
- {
-  "title": "特朗普在沙特和以色列的武器交易中预付了超过270亿美元",
-  "url": "",
-  "summary": "政治、地缘政治与冲突 波兰国有炼油厂 Orlen 在一笔委内瑞拉原油交易中，在没有任何抵押品和银行担保的情况下汇款后，损失了 2.3 亿美元。 11 月 2 日，Orlen 的瑞士贸易部门与迪拜 Hannon International 签署了价值 3.45 亿美元的合同",
-  "pub_time": "2026-09-18T12:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "8ffec34795e4d7256f8a8969b1a8c933",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Trump Advances More Than $27 Billion in Saudi and Israeli Arms Deals"
  },
  {
   "title": "委内瑞拉的 40 亿美元黄金储备即将离开伦敦",
@@ -3076,107 +3076,5 @@
    "黄金"
   ],
   "en_title": "Newcore’s wide gold hit boosts Enchi plan in Ghana"
- },
- {
-  "title": "中国MMG采取行动缓解欧盟对5亿美元英美镍矿交易的担忧",
-  "url": "",
-  "summary": "在欧盟委员会正式反对其收购英美资源集团 (LSE: AAL) 巴西公司的计划后，中国支持的 MMG (HKG: 1208) 承诺维持或增加对欧洲的镍供应。中国 MMG 采取行动缓解欧盟对 5 亿美元英美资源镍交易的担忧",
-  "pub_time": "2026-09-17T15:11:55Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "e739c48cadf3db6a230ffc5ca25b871f",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "镍"
-  ],
-  "en_title": "China’s MMG moves to ease EU concerns over $500M Anglo nickel deal"
- },
- {
-  "title": "Luca Mining 在 Agnico 价值 6000 万美元的交易中增加了第三处墨西哥资产",
-  "url": "",
-  "summary": "Luca 正在将位于墨西哥哈利斯科州的 El Barqueño 金银铜项目作为其在该国的第三个资产。",
-  "pub_time": "2026-09-17T14:47:45Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "a1c96a89cbac71f8b248608921f0304c",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "Luca Mining adds 3rd Mexican property in $60M Agnico deal"
- },
- {
-  "title": "Luca 在 Agnico 价值 6000 万美元的交易中增加了第三处墨西哥房产",
-  "url": "",
-  "summary": "Luca Mining（多伦多证券交易所股票代码：LUCA；美国场外交易代码：LUCMF）正计划以 6000 万美元（8300 万加元）的价格从 Agnico Eagle Mines（多伦多证券交易所股票代码：TSX）购买 El Barqueño 金银铜矿项目，以扩大其在墨西哥的业务。Luca 在 6000 万美元的 Agnico 交易中增加了第三处墨西哥资产，该消息首先出现在 The Theatre 网站上。",
-  "pub_time": "2026-09-17T14:40:08Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "a8aabb4d3282dff5050413643e87bf25",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "Luca adds 3rd Mexican property in $60M Agnico deal"
- },
- {
-  "title": "Agnico支持的卡地亚降低了凯迪拉克在魁北克金腰带的支出",
-  "url": "",
-  "summary": "卡地亚将凯迪拉克黄金项目的地下矿成本降低至 1.98 亿美元，产量为 100,000 盎司。黄金/年，持续 16.2 年。",
-  "pub_time": "2026-09-17T14:33:05Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "676f174046c7881f2b530280946e3531",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Agnico-backed Cartier lowers Cadillac spend in Quebec gold belt"
  }
 ]
