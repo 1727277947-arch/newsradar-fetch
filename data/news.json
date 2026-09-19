@@ -1,5 +1,24 @@
 [
  {
+  "title": "【好评中国】沃野孕“丰”年，织就增“收”景",
+  "url": "https://www.chinanews.com.cn/cj/2026/09-19/10699444.shtml",
+  "summary": "第九个“中国农民丰收节”即将如约而至，从西北高原的苹果满园到东北黑土的玉米流金，从岭南柚乡的果香四溢到八桂大地的稻浪翻滚，全国多地秋粮丰产、特色农产品丰收，勾勒出乡村振兴的喜人图景",
+  "pub_time": "2026-09-19T05:03:09Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "1e3860fa05b4e16bad2642081f1f2a0a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "美国能源部希望工业界对遗留地点进行关键矿物清理",
   "url": "",
   "summary": "受 EOI 约束的材料包括铝、铯、氯化物、铜、氟、铅、氢化锂、铂、硒、银、钨和钒。",
@@ -608,6 +627,25 @@
   "en_title": "Russia’s $118 Billion Arctic Oil Bet Pushes Ahead Despite Sanctions"
  },
  {
+  "title": "【独家】糯稻行情疲软加深，新季价格或承压运行",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/19/0932425116.shtml",
+  "summary": "",
+  "pub_time": "2026-09-18T16:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "4a59b22b7d18382318a705eae8084640",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年9月19日天津豆粕价格行情",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/19/2142147692.shtml",
   "summary": "",
@@ -1071,25 +1109,6 @@
   "en_title": "Aya logs high-grade, shallow silver in Morocco"
  },
  {
-  "title": "福建莆田罗屿迎来第70艘次40万吨级大型船舶",
-  "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699251.shtml",
-  "summary": "林孟 陈航翔)18日，在莆田出入境边防检查站监护下，中国香港籍40万吨级铁矿船“矿石宁波”轮正停泊罗屿作业区9号泊位卸货",
-  "pub_time": "2026-09-18T14:06:01Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "cc7acd9587d76b5dbd50c90b652f76d3",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
   "title": "石油市场的后备计划正在崩溃",
   "url": "",
   "summary": "几十年来，石油市场面临的最大地缘政治风险一直是霍尔木兹海峡。在二月底伊朗冲突开始之前，世界上大约五分之一的石油液体通过分隔伊朗和阿曼的狭窄水道运输，使其成为最重要的石油运输国。",
@@ -1337,25 +1356,6 @@
   "is_elite": false
  },
  {
-  "title": "每日钢市：焦煤期货大跌超7%，钢坯降20元，钢价震荡偏弱",
-  "url": "https://news.mysteel.com/a/26091817/F54779DB21F9DFD6.html",
-  "summary": "",
-  "pub_time": "2026-09-18T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "722d8cee395c44b2ae57b1dd5732bfb3",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel晚餐：山西新增3家钢厂高炉停产检修，铁矿石港库攀升",
   "url": "https://news.mysteel.com/a/26091817/81A6DFB39FCF8209.html",
   "summary": "",
@@ -1387,6 +1387,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "每日钢市：焦煤期货大跌超7%，钢坯降20元，钢价震荡偏弱",
+  "url": "https://news.mysteel.com/a/26091817/3BCB181AC23D79F3.html",
+  "summary": "",
+  "pub_time": "2026-09-18T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "722d8cee395c44b2ae57b1dd5732bfb3",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -3297,144 +3316,5 @@
    "价"
   ],
   "en_title": "Feedgrain Focus: Prices firm after dry fortnight"
- },
- {
-  "title": "美国会授权特朗普可对购买俄石油产品的国家加征关税，外交部回应",
-  "url": "https://news.mysteel.com/a/26091715/5A4F888CB01B244D.html",
-  "summary": "",
-  "pub_time": "2026-09-17T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "76e4b3aaab0af77e5acd71f4ef92c0bb",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "谷歌与瑞典钢铁企业Stegra合作，推动近零排放钢厂投产",
-  "url": "https://news.mysteel.com/a/26091715/8AD52D984A58FFCC.html",
-  "summary": "",
-  "pub_time": "2026-09-17T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "7b43388cefedee9d3d98256aba89eed4",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "有色持仓日报：沪镍涨1.40%，中信期货减持超2千手空单",
-  "url": "https://news.mysteel.com/a/26091715/44BC3185CA0DADDF.html",
-  "summary": "",
-  "pub_time": "2026-09-17T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "5bb55eebd01033f65ff34188e682e642",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色持仓日报：期螺翻绿，银河期货增持近万手多单",
-  "url": "https://news.mysteel.com/a/26091715/D42BC57BC9744FA2.html",
-  "summary": "",
-  "pub_time": "2026-09-17T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "1c9608c00de874881c6e825e7665e896",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "农业团体对签证延误可能持续存在感到厌倦",
-  "url": "",
-  "summary": "今天宣布的假期签证变更并没有给澳大利亚的农业游说团体带来任何欢乐，因为收获季节临近，种植者们正在努力寻找熟练劳动力来帮助完成这项任务。",
-  "pub_time": "2026-09-17T06:17:47Z",
-  "source": "GrainCentral",
-  "_cat": "基本金属",
-  "dedup_key": "7a4bb891192f4b8c0c01e34ba4045c5e",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Ag groups fed up as visa delays likely to persist"
- },
- {
-  "title": "江苏：重点支持钢铁等行业实施节能降碳减污技术改造",
-  "url": "https://news.mysteel.com/a/26091713/EF88CB2A70917BD9.html",
-  "summary": "",
-  "pub_time": "2026-09-17T05:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "8d386e1b7574c6b11a1ab3deb2b17cd6",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "螺纹钢期货偏强震荡，钢价反弹乏力",
-  "url": "https://news.mysteel.com/a/26091711/68C8E02B92BCD314.html",
-  "summary": "",
-  "pub_time": "2026-09-17T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "dfc9e67eaced6ec182a894097e714e5e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  }
 ]
