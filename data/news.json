@@ -1,5 +1,62 @@
 [
  {
+  "title": "Mysteel晚餐：山西炼焦煤增产空间评估",
+  "url": "https://news.mysteel.com/a/26092017/36A2BAA04E206029.html",
+  "summary": "",
+  "pub_time": "2026-09-20T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "ed1a2472f90969d1538264b0741b6d45",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel晚餐：山西炼焦煤增产空间评估，中蒙三大口岸中秋节闭关1天",
+  "url": "https://news.mysteel.com/a/26092017/88A6C8D3EBA8645D.html",
+  "summary": "",
+  "pub_time": "2026-09-20T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "24cbbd73f7589d7120bee2791827bb30",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "欧洲市场柴油涨破200美元/桶！马克龙呼吁再次释放战略石油储备",
+  "url": "https://news.mysteel.com/a/26092017/C9E2667BBE0BF3F0.html",
+  "summary": "",
+  "pub_time": "2026-09-20T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "10d235f10fdb24a488cf29059488dd5b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "印度尼西亚对华镀锌板启动反倾销调查",
   "url": "https://news.mysteel.com/a/26092016/E8FA6181929BD4F1.html",
   "summary": "",
@@ -1485,35 +1542,5 @@
    "黄金"
   ],
   "en_title": "Venezuela’s $4B gold stash closer to leaving London"
- },
- {
-  "title": "供应忧虑缓解，石油供应下滑，金价攀升",
-  "url": "",
-  "summary": "(RTTNews) - 周五金价上涨逾 1%，因油价和全球债券收益率的回落有助于缓解通胀和利率担忧。",
-  "pub_time": "2026-09-18T09:50:39Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "18f8b3ddd68cfc6f8d128816a60e803c",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "原油",
-   "价",
-   "走高",
-   "下滑"
-  ],
-  "en_title": "Gold Prices Climb As Oil Extends Slide On Easing Supply Concerns"
  }
 ]
