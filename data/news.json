@@ -1,5 +1,96 @@
 [
  {
+  "title": "Hogan 投资组合、Roundhay、Warrawee 名单； Kilnyana 损失 500 万美元",
+  "url": "",
+  "summary": "新上市的房产包括西澳州的 Roundhay、维多利亚州的 Hogan Family Farms Portfolio 和新南威尔士州的 Warrawee Aggregation，而 Riverina 的 Kilnyana 的要价下降了 500 万美元。",
+  "pub_time": "2026-09-20T23:23:34Z",
+  "source": "GrainCentral",
+  "_cat": "基本金属",
+  "dedup_key": "7e7d2b1c92f48367a82a9c1b26535f5a",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "下跌"
+  ],
+  "en_title": "Hogan portfolio, Roundhay, Warrawee list; Kilnyana drops $5M"
+ },
+ {
+  "title": "尽管大幅削减支出，大型石油公司的产量仍持续飙升",
+  "url": "",
+  "summary": "自 2020 年历史性油价暴跌令能源公司遭受重创以来，一些全球最大的石油和天然气公司采取了新的运作方式，优先考虑向股东返还更多现金，而扩张计划则被搁置。确实，在过去的五年里，",
+  "pub_time": "2026-09-20T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "e93307e7ba2d853308599d4a1799a28b",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "产量"
+  ],
+  "en_title": "Big Oil’s Production Keeps Soaring Despite Deep Spending Cuts"
+ },
+ {
+  "title": "Mysteel早读：中美经贸磋商在纽约举行",
+  "url": "https://news.mysteel.com/a/26092107/A5B60F3B969FDA20.html",
+  "summary": "",
+  "pub_time": "2026-09-20T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "8264836bb34fc4e12617080040b8cca9",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel早读：中美经贸磋商在纽约举行，长治沁源累计复产8座煤矿",
+  "url": "https://news.mysteel.com/a/26092107/C1CD034670EA89BF.html",
+  "summary": "",
+  "pub_time": "2026-09-20T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "f0340ab4dfb3e25427ec7f21c6b20153",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "霍尔木兹危机将推动全球煤炭需求创历史新高",
   "url": "",
   "summary": "国际能源署预计，由于霍尔木兹海峡关闭导致石油和天然气贸易持续受到限制，今年煤炭需求将增加。随着石油库存耗尽以及各国政府的努力，一些国家被迫重新使用煤炭来填补缺口。",
@@ -91,25 +182,6 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel晚餐：山西炼焦煤增产空间评估",
-  "url": "https://news.mysteel.com/a/26092017/36A2BAA04E206029.html",
-  "summary": "",
-  "pub_time": "2026-09-20T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "ed1a2472f90969d1538264b0741b6d45",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel晚餐：山西炼焦煤增产空间评估，中蒙三大口岸中秋节闭关1天",
   "url": "https://news.mysteel.com/a/26092017/88A6C8D3EBA8645D.html",
   "summary": "",
@@ -149,7 +221,7 @@
  },
  {
   "title": "印度尼西亚对华镀锌板启动反倾销调查",
-  "url": "https://news.mysteel.com/a/26092016/E8FA6181929BD4F1.html",
+  "url": "https://news.mysteel.com/a/26092016/284A44FBE35C3ACA.html",
   "summary": "",
   "pub_time": "2026-09-20T08:00:00Z",
   "source": "上海钢联Mysteel",
@@ -536,55 +608,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "美国能源部希望工业界对遗留地点进行关键矿物清理",
-  "url": "",
-  "summary": "受 EOI 约束的材料包括铝、铯、氯化物、铜、氟、铅、氢化锂、铂、硒、银、钨和钒。",
-  "pub_time": "2026-09-18T23:41:27Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "39ad4107e67713bd8df28b84a622b8b9",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "US DOE looks to industry for critical minerals cleanup at legacy sites"
- },
- {
-  "title": "Aura Minerals 获得 2 亿美元贷款以促进美洲增长",
-  "url": "",
-  "summary": "Aura 在巴西经营四个金矿、洪都拉斯的米诺萨金矿和墨西哥的阿兰扎祖铜金银矿。",
-  "pub_time": "2026-09-18T23:04:00Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "cd828d723d24e9146713698e083f614a",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "Aura Minerals secures $200M loan for Americas growth"
  }
 ]
