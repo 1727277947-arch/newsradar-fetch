@@ -115,7 +115,7 @@
  },
  {
   "title": "Mysteel午报：钢价涨跌互现，上海废钢涨10-20",
-  "url": "https://news.mysteel.com/a/26092011/CFE858F1600B8D56.html",
+  "url": "https://news.mysteel.com/a/26092011/131F742F49E6AFFB.html",
   "summary": "",
   "pub_time": "2026-09-20T03:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1583,25 +1583,6 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel晚餐：山西新增3家钢厂高炉停产检修，铁矿石港库攀升",
-  "url": "https://news.mysteel.com/a/26091817/81A6DFB39FCF8209.html",
-  "summary": "",
-  "pub_time": "2026-09-18T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "c799784ce10a9d15fdc8d96209ce0e24",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "每日钢市：焦煤期货大跌超7%，钢坯降20元，钢价震荡偏弱",
   "url": "https://news.mysteel.com/a/26091817/3BCB181AC23D79F3.html",
   "summary": "",
@@ -1614,6 +1595,25 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel晚餐：山西新增3家钢厂高炉停产检修，铁矿石港库攀升",
+  "url": "https://news.mysteel.com/a/26091817/98D9CBC862C226B6.html",
+  "summary": "",
+  "pub_time": "2026-09-18T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "c799784ce10a9d15fdc8d96209ce0e24",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
