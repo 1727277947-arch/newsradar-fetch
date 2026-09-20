@@ -1,5 +1,31 @@
 [
  {
+  "title": "分析师称，到2035年，中国将主导全球核能",
+  "url": "",
+  "summary": "核能的未来掌握在中国手中。虽然美国仍然是世界上最大的核能生产国，但中国的核能行业增长如此迅速，预计将超越法国和美国，成为世界领先的核电生产国。",
+  "pub_time": "2026-09-20T17:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "a8dfcd8df54f29241b73bcee588b8567",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "能源"
+  ],
+  "en_title": "China Will Dominate Global Nuclear Energy Through 2035, Analyst Says"
+ },
+ {
   "title": "四川眉山：校地共建实验室 发布超高镍全固态电池成果",
   "url": "https://www.chinanews.com.cn/cj/2026/09-20/10700448.shtml",
   "summary": "记者 刘忠俊)9月20日，新能源电池全生命周期检测与标准化技术联合实验室在四川眉山签约揭牌，超高镍全固态电池最新技术成果同步发布",
@@ -986,31 +1012,5 @@
    "价"
   ],
   "en_title": "U.S. Oil, Gas Rig Count Creeps Up With Strong Prices"
- },
- {
-  "title": "墨西哥玉米买家建立美国采购关系",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-18T17:02:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "038f427279dc2d68073e0dbb120322c8",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "玉米"
-  ],
-  "en_title": "Mexican Corn Buyers Build U.S. Sourcing Relationships"
  }
 ]
