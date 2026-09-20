@@ -1,5 +1,32 @@
 [
  {
+  "title": "霍尔木兹危机将推动全球煤炭需求创历史新高",
+  "url": "",
+  "summary": "国际能源署预计，由于霍尔木兹海峡关闭导致石油和天然气贸易持续受到限制，今年煤炭需求将增加。随着石油库存耗尽以及各国政府的努力，一些国家被迫重新使用煤炭来填补缺口。",
+  "pub_time": "2026-09-20T19:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "5645246e4afeebbb61d4ed6aa3acfaa7",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "煤炭",
+   "需求"
+  ],
+  "en_title": "Hormuz Crisis to Push Global Coal Demand to Record High"
+ },
+ {
   "title": "分析师称，到2035年，中国将主导全球核能",
   "url": "",
   "summary": "核能的未来掌握在中国手中。虽然美国仍然是世界上最大的核能生产国，但中国的核能行业增长如此迅速，预计将超越法国和美国，成为世界领先的核电生产国。",
@@ -663,242 +690,5 @@
    "供应"
   ],
   "en_title": "Macron Calls for Another Emergency Oil Release as Europe Loses Supply"
- },
- {
-  "title": "备注：黄金免征关税。加拿大每年有110亿加元（ $ 110亿）的",
-  "url": "",
-  "summary": "在美国对范围广泛的加拿大商品征收50%的关税后，加拿大花了9月上半月的时间来回应华盛顿对美元的贸易升级。加拿大每年有110亿加元（ $ 110亿）被卡在许可上",
-  "pub_time": "2026-09-18T20:07:58Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "b8e129d09305c133aaf248621a9e3328",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "锡"
-  ],
-  "en_title": "Comment: Gold is tariff-proof. Canada has $11 billion a year of it stuck in permitting"
- },
- {
-  "title": "Sprott：铜矿供应面临 2017 年以来首次下降的风险",
-  "url": "",
-  "summary": "即使价格创下历史新高，今年全球矿产铜产量也可能出现近十年来的首次下降，原因是供应中断、品位下降和智利产量疲软……后铜矿供应面临自 2017 年以来首次下降的风险：Sprott 首先出现在《北方矿商》上。",
-  "pub_time": "2026-09-18T20:00:22Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "3a70ee76ef5c5d4be1e706a1e3dd37a2",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "供应"
-  ],
-  "en_title": "Copper mine supply risks first decline since 2017: Sprott"
- },
- {
-  "title": "尼日利亚采矿镇压行动致37人死亡",
-  "url": "",
-  "summary": "尼日利亚政府在打击涉嫌非法采矿的行动中被捕，37 人在拘留期间死亡，引发了抗议活动和对该国采矿执法行动的审查。尼日尔州周五...尼日利亚后采矿镇压导致 37 人死亡，该事件首先出现在《The Norther》上",
-  "pub_time": "2026-09-18T19:57:14Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "9632a3ef1324cb387fd7ad7f173f8d60",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Nigeria mining crackdown under fire after 37 die"
- },
- {
-  "title": "阿雅原木产于摩洛哥，品质优良，浅银",
-  "url": "",
-  "summary": "Aya Gold & Silver（多伦多证交所，纳斯达克股票代码：AYA）在摩洛哥的 Zgounder 矿进行的新钻探已将高品位银矿化扩展到现有露天矿坑周围和中部......摩洛哥的 Aya 后日志高品位浅层银矿首先出现在《北方矿工》上。",
-  "pub_time": "2026-09-18T19:45:54Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "c55fbdffe8e28160ac5e6acd7ff11e9e",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "白银"
-  ],
-  "en_title": "Aya logs high-grade, shallow silver in Morocco"
- },
- {
-  "title": "黄金是不受关税影响的。加拿大每年有 110 亿美元用于许可",
-  "url": "",
-  "summary": "我们从三方面筛选加拿大的黄金开发项目。",
-  "pub_time": "2026-09-18T19:42:40Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "758ddc2b9b2945009838d418bc5a3a04",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "锡"
-  ],
-  "en_title": "Gold is tariff-proof. Canada has $11 billion a year of it stuck in permitting"
- },
- {
-  "title": "NASDA 结束 2026 年年会并任命新领导层",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-18T19:31:00Z",
-  "source": "Grainnet",
-  "_cat": "基本金属",
-  "dedup_key": "2e60c918d4bc9cd6e3ef16fc577be087",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铅",
-   "锡"
-  ],
-  "en_title": "NASDA Concludes 2026 Annual Meeting With New Leadership"
- },
- {
-  "title": "Aura 获得 2 亿美元贷款以促进美洲增长",
-  "url": "",
-  "summary": "Aura Minerals（纳斯达克股票代码：AUGO）已获得 2 亿美元（2.8 亿加元）的银团贷款，该金矿商将在危地马拉建设 Era Dorada 项目，并致力于生产超过 600,000 黄金当量... Aura 为美洲经济增长获得 2 亿美元贷款的消息首先出现在 The Northern Mi 上",
-  "pub_time": "2026-09-18T19:30:06Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "860054c67ec3d651d6a85eb3bb818a00",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "Aura secures $200M loan for Americas growth"
- },
- {
-  "title": "委内瑞拉的 40 亿美元黄金储备即将离开伦敦",
-  "url": "",
-  "summary": "委内瑞拉政府和反对派的一个派系正在接近达成一项协议，该协议可能将该国约40亿美元的黄金从英格兰银行转移到美国保管，......委内瑞拉40亿美元的黄金储备更接近离开伦敦，首先出现在“北方矿工”上。",
-  "pub_time": "2026-09-18T19:05:09Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "da09cbae0429a836e2c1ea38dd287755",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Venezuela’s $4B gold stash closer to leaving London"
- },
- {
-  "title": "美伊冲突缓和，原油价格暴跌",
-  "url": "",
-  "summary": "(RTTNews) - 周五原油价格暴跌，加剧了前两个交易日的跌幅，因为投资者预计美国总统唐纳德·特朗普和海湾领导人即将举行会议，以缓解美伊紧张局势。",
-  "pub_time": "2026-09-18T18:43:42Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "50809c28f2e909729c429aa8d6eb8cf4",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "暴跌"
-  ],
-  "en_title": "Crude Oil Tumbles Amid Hopes For De-escalation Of U.S.-Iran Conflict"
  }
 ]
