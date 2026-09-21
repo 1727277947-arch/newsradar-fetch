@@ -1,5 +1,31 @@
 [
  {
+  "title": "美国新制裁法威胁印度与俄罗斯的庞大石油贸易",
+  "url": "",
+  "summary": "最近几天，在美国立法者通过针对俄罗斯能源行业的新制裁法案后，印度进口更便宜的俄罗斯原油受到了密切关注。 《2026 年林赛·格雷厄姆制裁俄罗斯和伊朗法案》授权并扩大了法定制裁、关税和禁令",
+  "pub_time": "2026-09-21T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "7d2ca923d1f1405f8204a1f317c85bb7",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "New U.S. Sanctions Law Threatens India’s Huge Russian Oil Trade"
+ },
+ {
   "title": "财富矿业获得西北NICO矿的用水许可证和土地使用许可证",
   "url": "",
   "summary": "NICO 矿床含有全球 12% 的铋储量和 110 万盎司黄金。",
@@ -586,35 +612,6 @@
    "罢工"
   ],
   "en_title": "Saudi Arabia Reroutes Oil Exports as Houthi Strikes Target Yanbu"
- },
- {
-  "title": "由于电厂库存跌至临界低点，印度煤炭需求将增长 4.2%",
-  "url": "",
-  "summary": "路透社周一援引政府数据报道称，最近几周，印度煤炭库存水平极低的燃煤电厂所占比例已飙升至所有运营燃煤电厂的近 40%。多达74家燃煤电厂的煤炭不足三天",
-  "pub_time": "2026-09-21T13:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "73894c1f212dd5fd525925950dee6502",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "煤炭",
-   "跳涨",
-   "需求",
-   "库存"
-  ],
-  "en_title": "India's Coal Demand Set to Jump 4.2% as Plant Stocks Hit Critical Lows"
  },
  {
   "title": "Capstone Copper 将以 3.85 亿美元的价格将墨西哥矿山出售给 Luca Mining",
