@@ -1,5 +1,103 @@
 [
  {
+  "title": "托克推出 Volare Shipping 以创纪录的油轮运价获利",
+  "url": "",
+  "summary": "全球最大的石油贸易商之一托克 (Trafigura) 正在将其超级油轮业务分拆成立一家新公司。托克周一表示，它已经成立了一家新的专门集团公司 Volare Shipping Ltd，负责拥有、运营和扩大现代化油轮船队。该舰队将具有商业能力",
+  "pub_time": "2026-09-21T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "ed46ddd556d492a0c818f951a193924f",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Trafigura Launches Volare Shipping to Cash In on Record Tanker Rates"
+ },
+ {
+  "title": "三宝集团坤宝股份2号锡退机组成功投产",
+  "url": "https://news.mysteel.com/a/26092120/FBE00907C070507C.html",
+  "summary": "",
+  "pub_time": "2026-09-21T12:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "9c26364ad0b219bf33e0c00278f495fb",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "挪威北极石油沥青在布鲁塞尔的表现平平",
+  "url": "",
+  "summary": "欧盟委员会发言人告诉欧洲新闻台，尽管挪威为解除禁令进行了数月的努力，但欧盟委员会预计将维持目前对北极石油和天然气钻探的禁令。欧盟立法机构欧盟委员会预计将宣布一项改组后的法案",
+  "pub_time": "2026-09-21T11:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "889fc7c037b52055e2e6f30e862e76ca",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "下跌"
+  ],
+  "en_title": "Norway's Arctic Oil Pitch Falls Flat in Brussels"
+ },
+ {
+  "title": "Larvotto 开始在 Hillgrove 生产黄金和锑",
+  "url": "",
+  "summary": "随着市场紧缩，该澳大利亚矿山的第一批精矿来自 Hillgrove，旨在满足全球 7% 的锑需求。",
+  "pub_time": "2026-09-21T10:53:00Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "1dfb1e8c02edc88227896127b02fb159",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "产量"
+  ],
+  "en_title": "Larvotto begins gold, antimony production at Hillgrove"
+ },
+ {
   "title": "Mysteel黑色金属例会：本周钢价或区间震荡，涨跌空间有限",
   "url": "https://news.mysteel.com/a/26092118/3050150425C1EABF.html",
   "summary": "",
@@ -290,18 +388,18 @@
   "en_title": "Strait of Hormuz Shipping Traffic Falls Further as Saudi Oil Flows Rise"
  },
  {
-  "title": "有色持仓日报：沪铝跌0.68%，国泰君安增持超3千手空单",
-  "url": "https://news.mysteel.com/a/26092115/AECE418B57F83FC2.html",
+  "title": "Mysteel：31省份1-8月进出口排行榜出炉，25省出口正增长",
+  "url": "https://news.mysteel.com/a/26092115/25E0776CE1F2A109.html",
   "summary": "",
   "pub_time": "2026-09-21T07:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "8a083c3e734c7a4a0fc3f1f5ed692bfa",
+  "dedup_key": "60bdabf45e0a9cd82e549113ea419d03",
   "score": 80,
   "priority": "P1",
-  "topic": "国内/大宗商品",
+  "topic": "国内/贸易外经",
   "tags": [
-   "大宗商品",
+   "贸易外经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -310,7 +408,7 @@
  },
  {
   "title": "黑色持仓日报：期螺飘红，永安期货减持1.7万手空单",
-  "url": "https://news.mysteel.com/a/26092115/A4775B8B4B1EEF6F.html",
+  "url": "https://news.mysteel.com/a/26092115/41AB7B5A26BB602C.html",
   "summary": "",
   "pub_time": "2026-09-21T07:00:00Z",
   "source": "上海钢联Mysteel",
@@ -328,18 +426,18 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel：31省份1-8月进出口排行榜出炉，25省出口正增长",
-  "url": "https://news.mysteel.com/a/26092115/25E0776CE1F2A109.html",
+  "title": "有色持仓日报：沪铝跌0.68%，国泰君安增持超3千手空单",
+  "url": "https://news.mysteel.com/a/26092115/0EE8A88040A23EB6.html",
   "summary": "",
   "pub_time": "2026-09-21T07:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "60bdabf45e0a9cd82e549113ea419d03",
+  "dedup_key": "8a083c3e734c7a4a0fc3f1f5ed692bfa",
   "score": 80,
   "priority": "P1",
-  "topic": "国内/贸易外经",
+  "topic": "国内/大宗商品",
   "tags": [
-   "贸易外经",
+   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -1915,30 +2013,5 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "联合国警告世界必须为气温超过 1.5°C 做好准备",
-  "url": "",
-  "summary": "联合国首次承认，世界将超额完成将全球变暖限制在比工业化前水平高1.5°C的目标，这标志着2015年《巴黎协定》承诺的失败。目前，预计全球气温将在 20 年内比工业化前水平升高 1.5°C",
-  "pub_time": "2026-09-19T15:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "6bfc2f9bf7859c37152c74086c01a407",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "UN Warns World Must Prepare for Life Beyond 1.5°C"
  }
 ]
