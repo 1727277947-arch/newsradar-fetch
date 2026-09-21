@@ -1,5 +1,50 @@
 [
  {
+  "title": "Mysteel黑色金属例会：本周钢价或区间震荡，涨跌空间有限",
+  "url": "https://news.mysteel.com/a/26092118/3050150425C1EABF.html",
+  "summary": "",
+  "pub_time": "2026-09-21T10:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "8edb434ccfda38f2688b6be98bd88fe9",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "黄金的加息担忧有所缓解",
+  "url": "",
+  "summary": "(RTTNews) - 由于美联储进一步加息的预期，黄金价格周一走低。",
+  "pub_time": "2026-09-21T09:35:20Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "0f04b6b1d333db81dd5c62632bdf63bc",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Gold Edges Lower On Rate Hike Concerns"
+ },
+ {
   "title": "随着美伊外交步伐加快，石油价格继续下滑",
   "url": "",
   "summary": "(RTTNews) - 由于希望外交努力有助于缓解西亚紧张局势，周一油价继续下滑至一周多来的最低水平。",
@@ -96,6 +141,25 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：图解钢市0921",
+  "url": "https://news.mysteel.com/a/26092116/3C98228F7C36A9A7.html",
+  "summary": "",
+  "pub_time": "2026-09-21T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "098c643130df02628df7b67df59a70a8",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -265,7 +329,7 @@
  },
  {
   "title": "Mysteel：31省份1-8月进出口排行榜出炉，25省出口正增长",
-  "url": "https://news.mysteel.com/a/26092115/C4137DFAA7327A7F.html",
+  "url": "https://news.mysteel.com/a/26092115/25E0776CE1F2A109.html",
   "summary": "",
   "pub_time": "2026-09-21T07:00:00Z",
   "source": "上海钢联Mysteel",
