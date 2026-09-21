@@ -1,5 +1,108 @@
 [
  {
+  "title": "欧佩克+在哪里？利雅得和莫斯科的沉默正在震耳欲聋",
+  "url": "",
+  "summary": "“引擎的轰鸣声并不预示着真正的主导地位，而是罢工之前的绝对沉默。“让你的计划像夜晚一样黑暗和难以穿透，当你移动时，像霹雳一样落下。“过去几十年，世界领先的石油集团欧佩克或其衍生品欧佩克+保持沉默，",
+  "pub_time": "2026-09-21T20:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "f368b79c182678f61f677d4847845585",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Where Is OPEC+? Riyadh and Moscow’s Silence Is Becoming Deafening"
+ },
+ {
+  "title": "WAR现在是数据中心运营商的核心风险类别",
+  "url": "",
+  "summary": "随着数据中心的规模扩大、消耗更多电力并受到更严格的社区审查，保险风险变得越来越复杂。随着人工智能基础设施的发展，法律风险也在增加：涉及数据中心的大型诉讼从2021年全年的4起增加到2026年上半年的14起，",
+  "pub_time": "2026-09-21T19:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "695de2925da0de8f331c0a601f925673",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "War Is Now A Core Risk Category For Data Centre Operators"
+ },
+ {
+  "title": "石油公司将亏损延伸至连续第四个交易日，亏损幅度超过4%",
+  "url": "",
+  "summary": "（ RTTNews ） -油价周一大幅下跌，连续第四个交易日下跌，人们希望外交努力将有助于缓和中东的紧张局势。",
+  "pub_time": "2026-09-21T18:58:49Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "de2d4175a684a9bb716329e5644c6673",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Oil Extends Losses To 4th Straight Session, Sheds Over 4%"
+ },
+ {
+  "title": "随着加息押注美元上涨，黄金抢占3天连胜纪录",
+  "url": "",
+  "summary": "（ RTTNews ） -周一金价下跌，连续三天连胜，因美元走强和利润承压黄金。",
+  "pub_time": "2026-09-21T18:36:20Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "f27382046125a73b6fbfd70541f271e3",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "上涨"
+  ],
+  "en_title": "Gold Snaps 3-day Winning Streak As Dollar Rises On Rate Hike Bets"
+ },
+ {
   "title": "由于美国仓库空间耗尽，铜价反弹",
   "url": "",
   "summary": "美国仓库接近满载，预计几周内将再增加 10 万吨，上海升水升至四年高点，伦敦则重新陷入现货溢价。",
@@ -157,6 +260,32 @@
    "能源"
   ],
   "en_title": "The Secret Houthi-U.S. Deal That Could Push Saudi Arabia Back to Beijing"
+ },
+ {
+  "title": "Silverco 的 La Negra 公布价值 3.29 亿美元，成本超过 2100 万美元",
+  "url": "",
+  "summary": "经过一个多世纪的间歇性开采，这旨在恢复过去生产的拉内格拉的持续生产。",
+  "pub_time": "2026-09-21T14:58:34Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "c9b7999ced4a60428c3bf02a7e2f0244",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "白银"
+  ],
+  "en_title": "Silverco’s La Negra posts $329M value over $21M costs"
  },
  {
   "title": "Artemis 将在澳大利亚以 4.27 亿美元收购 Vista",
