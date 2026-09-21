@@ -1,5 +1,83 @@
 [
  {
+  "title": "Artemis 将在澳大利亚以 4.27 亿美元收购 Vista",
+  "url": "",
+  "summary": "Artemis Gold (TSXV: ARTG) 同意以 4.27 亿美元（5.98 亿加元）的全股交易收购 Vista Gold (TSX, NYSE-A: VGZ)，这将增加不列颠哥伦比亚省 Blackwater 之外的另一项主要开发资产... Artemis 在澳大利亚以 4.27 亿美元收购 Vista 的消息首先出现在《The Northern Miner》上",
+  "pub_time": "2026-09-21T21:30:39Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "2599f96d7592e9eb9a97b0ae77e45e93",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Artemis to buy Vista for $427M in Australia push"
+ },
+ {
+  "title": "随着西屋电气今年秋季上市，Cameco 可能会将 $2.1B 变成 $24B",
+  "url": "",
+  "summary": "Cameco (TSX: CCO; NYSE: CCJ) 三年前对西屋电气 (Westinghouse Electric) 的 21 亿美元 (29.4 亿加元) 投资，其估值可能很快就会达到十几倍，因为这家核反应堆制造商正在为...... 随着西屋电气今年秋天上市，卡梅科可能将 2.1 亿美元变成 24 亿美元。",
+  "pub_time": "2026-09-21T21:25:14Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "368060cb27f707a1ada7b343dda98628",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡",
+   "下跌"
+  ],
+  "en_title": "Cameco may turn $2.1B into $24B with Westinghouse listing this fall"
+ },
+ {
+  "title": "能源转型具有成本模型所忽视的速度优势",
+  "url": "",
+  "summary": "通常通过询问其电力成本是多少来比较电力技术。这已经不够了。在数据中心、电气化、新工厂和制冷的推动下，电力需求正在加速增长。国际能源署预计，仅全球数据中心的消耗就将超过",
+  "pub_time": "2026-09-21T21:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "e404c6595645798524a53691edefd159",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "能源"
+  ],
+  "en_title": "The Energy Transition Has a Speed Advantage That Cost Models Miss"
+ },
+ {
   "title": "欧佩克+在哪里？利雅得和莫斯科的沉默正在震耳欲聋",
   "url": "",
   "summary": "“引擎的轰鸣声并不预示着真正的主导地位，而是罢工之前的绝对沉默。“让你的计划像夜晚一样黑暗和难以穿透，当你移动时，像霹雳一样落下。“过去几十年，世界领先的石油集团欧佩克或其衍生品欧佩克+保持沉默，",
@@ -288,31 +366,6 @@
   "en_title": "Silverco’s La Negra posts $329M value over $21M costs"
  },
  {
-  "title": "Artemis 将在澳大利亚以 4.27 亿美元收购 Vista",
-  "url": "",
-  "summary": "Artemis Gold (TSXV: ARTG) 同意以 4.27 亿美元（5.98 亿加元）的全股交易收购 Vista Gold (TSX, NYSE-A: VGZ)，这将增加不列颠哥伦比亚省 Blackwater 之外的另一项主要开发资产... Artemis 在澳大利亚以 4.27 亿美元收购 Vista 的消息首先出现在《The Northern Miner》上",
-  "pub_time": "2026-09-21T14:52:39Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "2599f96d7592e9eb9a97b0ae77e45e93",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "Artemis to buy Vista for $427M in Australia push"
- },
- {
   "title": "随着西屋电气上市，Cameco 可能会将 $2.1B 变成 $24B",
   "url": "",
   "summary": "西屋电气为美国股市上市做准备，其投资可能很快会飙升 12 倍。",
@@ -337,33 +390,6 @@
    "锡"
   ],
   "en_title": "Cameco may turn $2.1B into $24B with Westinghouse listing"
- },
- {
-  "title": "随着西屋电气今年秋季上市，Cameco 可能会将 $2.1B 变成 $24B",
-  "url": "",
-  "summary": "Cameco (TSX: CCO; NYSE: CCJ) 三年前对西屋电气 (Westinghouse Electric) 的 21 亿美元 (29.4 亿加元) 投资，其估值可能很快就会达到十几倍，因为这家核反应堆制造商正在为...... 随着西屋电气今年秋天上市，卡梅科可能将 2.1 亿美元变成 24 亿美元。",
-  "pub_time": "2026-09-21T14:42:14Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "368060cb27f707a1ada7b343dda98628",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡",
-   "下跌"
-  ],
-  "en_title": "Cameco may turn $2.1B into $24B with Westinghouse listing this fall"
  },
  {
   "title": "澳大利亚黄金产量接近十年平均水平",
@@ -662,33 +688,6 @@
   "en_title": "Gold miners’ $18.2B payout masks rising ESG pressures"
  },
  {
-  "title": "挪威北极石油沥青在布鲁塞尔的表现平平",
-  "url": "",
-  "summary": "欧盟委员会发言人告诉欧洲新闻台，尽管挪威为解除禁令进行了数月的努力，但欧盟委员会预计将维持目前对北极石油和天然气钻探的禁令。欧盟立法机构欧盟委员会预计将宣布一项改组后的法案",
-  "pub_time": "2026-09-21T11:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "889fc7c037b52055e2e6f30e862e76ca",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "下跌"
-  ],
-  "en_title": "Norway's Arctic Oil Pitch Falls Flat in Brussels"
- },
- {
   "title": "Larvotto 开始在 Hillgrove 生产黄金和锑",
   "url": "",
   "summary": "随着市场紧缩，该澳大利亚矿山的第一批精矿来自 Hillgrove，旨在满足全球 7% 的锑需求。",
@@ -714,6 +713,33 @@
    "产量"
   ],
   "en_title": "Larvotto begins gold, antimony production at Hillgrove"
+ },
+ {
+  "title": "Larvotto 开始在 Hillgrove 生产黄金和锑",
+  "url": "",
+  "summary": "Larvotto Resources (ASX: LRV) 在新南威尔士州的 Hillgrove 矿生产出了第一批金和锑精矿，推进了一个预计将成为澳大利亚最大锑生产商的项目...Larvotto 开始开采黄金后，Hillgrove 的锑产量首先出现在 The Northern Mine 上",
+  "pub_time": "2026-09-21T10:53:00Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "901a8bfd9be1a9c8d831a099422f0110",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "产量"
+  ],
+  "en_title": "Larvotto begins gold, antimony output at Hillgrove"
  },
  {
   "title": "Mysteel黑色金属例会：本周钢价或区间震荡，涨跌空间有限",
