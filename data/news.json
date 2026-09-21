@@ -1,5 +1,51 @@
 [
  {
+  "title": "随着美伊外交步伐加快，石油价格继续下滑",
+  "url": "",
+  "summary": "(RTTNews) - 由于希望外交努力有助于缓解西亚紧张局势，周一油价继续下滑至一周多来的最低水平。",
+  "pub_time": "2026-09-21T09:17:43Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "30ac9668f78532084d697fa68efc02a3",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "下滑"
+  ],
+  "en_title": "Oil Extends Slide As US-Iran Diplomacy Gathers Pace"
+ },
+ {
+  "title": "Mysteel晚餐：沙钢螺纹上调50元，铁矿石到港量减少",
+  "url": "https://news.mysteel.com/a/26092117/EB834BED7041FD4D.html",
+  "summary": "",
+  "pub_time": "2026-09-21T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "78315f7a29a9e085cc22a2d0a59d64d7",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "关键矿产日报：NMDC铁矿石拟增产",
   "url": "https://news.mysteel.com/a/26092117/C1550E33AFD66B3B.html",
   "summary": "",
@@ -107,6 +153,25 @@
   "topic": "国内/金融政策",
   "tags": [
    "金融政策",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel日报：黑色金属期货震荡上涨运行",
+  "url": "https://news.mysteel.com/a/26092116/814A48CC03BF9337.html",
+  "summary": "",
+  "pub_time": "2026-09-21T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "d89484a3a42740ff8b8ff0df79437318",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -1601,25 +1666,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "b28a038b68f5f8e4c8671f1fe0fc896c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel午报：钢价涨跌互现，上海废钢涨10-20",
-  "url": "https://news.mysteel.com/a/26092011/131F742F49E6AFFB.html",
-  "summary": "",
-  "pub_time": "2026-09-20T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "f50e420b86c7f3f1aed05067d770e66a",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
