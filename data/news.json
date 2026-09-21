@@ -1,5 +1,30 @@
 [
  {
+  "title": "财富矿业获得西北NICO矿的用水许可证和土地使用许可证",
+  "url": "",
+  "summary": "NICO 矿床含有全球 12% 的铋储量和 110 万盎司黄金。",
+  "pub_time": "2026-09-21T22:05:20Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "ce7b18171db302001038b601dd778e99",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Fortune Minerals gets water licence and land use permit for NICO mine in Northwest Territories"
+ },
+ {
   "title": "Artemis 将在澳大利亚以 4.27 亿美元收购 Vista",
   "url": "",
   "summary": "Artemis Gold (TSXV: ARTG) 同意以 4.27 亿美元（5.98 亿加元）的全股交易收购 Vista Gold (TSX, NYSE-A: VGZ)，这将增加不列颠哥伦比亚省 Blackwater 之外的另一项主要开发资产... Artemis 在澳大利亚以 4.27 亿美元收购 Vista 的消息首先出现在《The Northern Miner》上",
@@ -50,6 +75,84 @@
    "下跌"
   ],
   "en_title": "Cameco may turn $2.1B into $24B with Westinghouse listing this fall"
+ },
+ {
+  "title": "Capstone 以高达 3.85 亿美元的价格将墨西哥矿山出售给 Luca",
+  "url": "",
+  "summary": "Capstone Copper (TSX: CS; ASX: CSC) 正以高达 3.85 亿美元（TSXV: LUCA）的价格将其位于墨西哥的 Cozamin 铜银锌铅矿以高达 3.85 亿美元（5.4 亿加元）的价格出售给 Luca Mining，以调整资本... Capstone 以高达 3.85 亿美元的价格将墨西哥矿山出售给 Luca 的帖子首先出现在《The Northern Miner》上。",
+  "pub_time": "2026-09-21T21:15:00Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "1eabcafde1323cd2bed503886ead53e2",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Capstone sells Mexican mine to Luca for up to $385M"
+ },
+ {
+  "title": "Silverco 的 La Negra 公布价值 3.29 亿美元，成本超过 2100 万美元",
+  "url": "",
+  "summary": "Silverco 矿业 (TSXV: SICO; US-OTC: SICOF) 位于墨西哥中部的 La Negra 矿的初步经济评估 (PEA) 表明，与成本相比，该矿具有非常高的价值和回报，因为…… Silverco 的 La Negra 价值 3.29 亿美元，成本 2100 万美元，首先出现在《北方矿工》上。",
+  "pub_time": "2026-09-21T21:10:34Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "e649198927c0ae9413e3231942348c0f",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "白银"
+  ],
+  "en_title": "Silverco’s La Negra posts $329M value over $21M costs"
+ },
+ {
+  "title": "澳大利亚黄金产量接近十年平均水平",
+  "url": "",
+  "summary": "截至 6 月的一年，澳大利亚黄金产量保持在过去十年平均水平左右，尽管纽蒙特 (NYSE、ASX: NEM; TSX:...) 地震中断，澳大利亚黄金产量保持在接近十年平均水平的位置首先出现在《北方矿业》杂志上。",
+  "pub_time": "2026-09-21T21:05:43Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "17b9db4efc8f7de1aaca56064aed2dc9",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "产量"
+  ],
+  "en_title": "Australia gold output holds near decade average"
  },
  {
   "title": "能源转型具有成本模型所忽视的速度优势",
@@ -419,33 +522,6 @@
   "en_title": "Australia gold output holds near decade average"
  },
  {
-  "title": "澳大利亚黄金产量接近十年平均水平",
-  "url": "",
-  "summary": "截至 6 月的一年，澳大利亚黄金产量保持在过去十年平均水平左右，尽管纽蒙特 (NYSE、ASX: NEM; TSX:...) 地震中断，澳大利亚黄金产量保持在接近十年平均水平的位置首先出现在《北方矿业》杂志上。",
-  "pub_time": "2026-09-21T14:20:43Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "17b9db4efc8f7de1aaca56064aed2dc9",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "产量"
-  ],
-  "en_title": "Australia gold output holds near decade average"
- },
- {
   "title": "“洋水果”加速进入 海南本土特色农产品亟需“接招”突围",
   "url": "https://www.chinanews.com.cn/cj/2026/09-21/10701072.shtml",
   "summary": "记者 符宇群)对海南无核荔枝而言，“出岛”是一场与时间的赛跑——清晨采下的鲜果，必须赶在保鲜“黄金窗口”内飞抵全国餐桌；而对进口热带水果来说，封关后的海南正变得越来越“好进”。一快一慢之间，海南本土特色农业站上了一个必须“接招”的路口",
@@ -482,32 +558,6 @@
    "中国新闻网-财经"
   ],
   "is_elite": false
- },
- {
-  "title": "Silverco 的 La Negra 公布价值 3.29 亿美元，成本超过 2100 万美元",
-  "url": "",
-  "summary": "Silverco 矿业 (TSXV: SICO; US-OTC: SICOF) 位于墨西哥中部的 La Negra 矿的初步经济评估 (PEA) 表明，与成本相比，该矿具有非常高的价值和回报，因为…… Silverco 的 La Negra 价值 3.29 亿美元，成本 2100 万美元，首先出现在《北方矿工》上。",
-  "pub_time": "2026-09-21T14:00:34Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "e649198927c0ae9413e3231942348c0f",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "白银"
-  ],
-  "en_title": "Silverco’s La Negra posts $329M value over $21M costs"
  },
  {
   "title": "胡塞武装袭击延布目标，沙特阿拉伯改变石油出口路线",
@@ -591,56 +641,6 @@
    "铜"
   ],
   "en_title": "Capstone Copper to sell Mexican mine to Luca Mining for $385M"
- },
- {
-  "title": "Capstone 以高达 3.85 亿美元的价格将墨西哥矿山出售给 Luca",
-  "url": "",
-  "summary": "Capstone Copper (TSX: CS; ASX: CSC) 正以高达 3.85 亿美元（TSXV: LUCA）的价格将其位于墨西哥的 Cozamin 铜银锌铅矿以高达 3.85 亿美元（5.4 亿加元）的价格出售给 Luca Mining，以调整资本... Capstone 以高达 3.85 亿美元的价格将墨西哥矿山出售给 Luca 的帖子首先出现在《The Northern Miner》上。",
-  "pub_time": "2026-09-21T13:01:00Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "1eabcafde1323cd2bed503886ead53e2",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "Capstone sells Mexican mine to Luca for up to $385M"
- },
- {
-  "title": "托克推出 Volare Shipping 以创纪录的油轮运价获利",
-  "url": "",
-  "summary": "全球最大的石油贸易商之一托克 (Trafigura) 正在将其超级油轮业务分拆成立一家新公司。托克周一表示，它已经成立了一家新的专门集团公司 Volare Shipping Ltd，负责拥有、运营和扩大现代化油轮船队。该舰队将具有商业能力",
-  "pub_time": "2026-09-21T12:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "ed46ddd556d492a0c818f951a193924f",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Trafigura Launches Volare Shipping to Cash In on Record Tanker Rates"
  },
  {
   "title": "三宝集团坤宝股份2号锡退机组成功投产",
