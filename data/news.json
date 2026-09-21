@@ -1,5 +1,85 @@
 [
  {
+  "title": "由于美国仓库空间耗尽，铜价反弹",
+  "url": "",
+  "summary": "美国仓库接近满载，预计几周内将再增加 10 万吨，上海升水升至四年高点，伦敦则重新陷入现货溢价。",
+  "pub_time": "2026-09-21T18:03:58Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "74971ef6d0180de7d5599da9ce5b6716",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜",
+   "价"
+  ],
+  "en_title": "Copper prices bounce as US runs out of warehouse space"
+ },
+ {
+  "title": "布拉格限制燃油价格，对奥伦的“意外之财”炼油利润征税",
+  "url": "",
+  "summary": "据路透社周一报道，捷克政府将从 10 月 1 日起恢复汽油和柴油的价格上限，并对炼油厂征收高于 2025 年水平的 50% 的利润增长税，因为沙特阿拉伯削减了 10 月份对欧洲的原油分配，加剧了霍尔木兹海峡关闭的压力。根据",
+  "pub_time": "2026-09-21T17:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "b24ffec5c6e68798124fab77cc398104",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "燃料",
+   "价",
+   "下跌"
+  ],
+  "en_title": "Prague Caps Fuel Prices, Taxes Orlen's ‘Windfall’ Refining Margins"
+ },
+ {
+  "title": "比特币自 1 月底以来首次突破 85,000 美元",
+  "url": "",
+  "summary": "今天上午，比特币自 1 月底以来首次飙升至 85,000 美元以上……此次反弹伴随着股票和债券的上涨，因为油价下跌以及美国总统特朗普和中国习近平峰会前的乐观情绪正在更广泛地提振市场。竞争对手的数字资产",
+  "pub_time": "2026-09-21T17:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "caf36e6b9a6f4e7efc57f1e78445214a",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Bitcoin Tops $85,000 For First Time Since Late January"
+ },
+ {
   "title": "创纪录的柴油价格引发了对当地燃料短缺的担忧",
   "url": "",
   "summary": "尽管美国柴油和汽油价格在美以与伊朗战争后飙升，但这两种燃料仍然广泛供应，只是价格更高。现在，一些加油站老板表示，他们的柴油已经用完了，尽管目前这似乎是一个孤立的问题。然而，如果柴油",
@@ -79,32 +159,6 @@
   "en_title": "The Secret Houthi-U.S. Deal That Could Push Saudi Arabia Back to Beijing"
  },
  {
-  "title": "Silverco 的 La Negra 公布价值 3.29 亿美元，成本超过 2100 万美元",
-  "url": "",
-  "summary": "Silverco 矿业 (TSXV: SICO; US-OTC: SICOF) 位于墨西哥中部的 La Negra 矿的初步经济评估 (PEA) 表明，与成本相比，该矿具有非常高的价值和回报，因为…… Silverco 的 La Negra 价值 3.29 亿美元，成本 2100 万美元，首先出现在《北方矿工》上。",
-  "pub_time": "2026-09-21T14:58:34Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "e649198927c0ae9413e3231942348c0f",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "白银"
-  ],
-  "en_title": "Silverco’s La Negra posts $329M value over $21M costs"
- },
- {
   "title": "Artemis 将在澳大利亚以 4.27 亿美元收购 Vista",
   "url": "",
   "summary": "Artemis Gold (TSXV: ARTG) 同意以 4.27 亿美元（5.98 亿加元）的全股交易收购 Vista Gold (TSX, NYSE-A: VGZ)，这将增加不列颠哥伦比亚省 Blackwater 之外的另一项主要开发资产... Artemis 在澳大利亚以 4.27 亿美元收购 Vista 的消息首先出现在《The Northern Miner》上",
@@ -128,6 +182,32 @@
    "贵金属"
   ],
   "en_title": "Artemis to buy Vista for $427M in Australia push"
+ },
+ {
+  "title": "随着西屋电气上市，Cameco 可能会将 $2.1B 变成 $24B",
+  "url": "",
+  "summary": "西屋电气为美国股市上市做准备，其投资可能很快会飙升 12 倍。",
+  "pub_time": "2026-09-21T14:42:14Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "6726a225b5f7e18fdf8ff27bf4388f28",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡"
+  ],
+  "en_title": "Cameco may turn $2.1B into $24B with Westinghouse listing"
  },
  {
   "title": "随着西屋电气今年秋季上市，Cameco 可能会将 $2.1B 变成 $24B",
@@ -155,6 +235,33 @@
    "下跌"
   ],
   "en_title": "Cameco may turn $2.1B into $24B with Westinghouse listing this fall"
+ },
+ {
+  "title": "澳大利亚黄金产量接近十年平均水平",
+  "url": "",
+  "summary": "全国稳定的数据出现在更大的扩张周期之前。",
+  "pub_time": "2026-09-21T14:20:43Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "19f316db41edd3b54e6eeba3430cc2eb",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "产量"
+  ],
+  "en_title": "Australia gold output holds near decade average"
  },
  {
   "title": "澳大利亚黄金产量接近十年平均水平",
@@ -222,6 +329,32 @@
   "is_elite": false
  },
  {
+  "title": "Silverco 的 La Negra 公布价值 3.29 亿美元，成本超过 2100 万美元",
+  "url": "",
+  "summary": "Silverco 矿业 (TSXV: SICO; US-OTC: SICOF) 位于墨西哥中部的 La Negra 矿的初步经济评估 (PEA) 表明，与成本相比，该矿具有非常高的价值和回报，因为…… Silverco 的 La Negra 价值 3.29 亿美元，成本 2100 万美元，首先出现在《北方矿工》上。",
+  "pub_time": "2026-09-21T14:00:34Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "e649198927c0ae9413e3231942348c0f",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "白银"
+  ],
+  "en_title": "Silverco’s La Negra posts $329M value over $21M costs"
+ },
+ {
   "title": "胡塞武装袭击延布目标，沙特阿拉伯改变石油出口路线",
   "url": "",
   "summary": "彭博社收集的卫星图像显示，根据欧盟 Sentinel-2 卫星收集的数据，周末沙特阿拉伯海湾出口码头的超级油轮容量为 1400 万桶，这是至少自 6 月以来观察到的最高油轮数量。霍尔木兹海峡整体",
@@ -279,13 +412,13 @@
   "en_title": "India's Coal Demand Set to Jump 4.2% as Plant Stocks Hit Critical Lows"
  },
  {
-  "title": "Capstone Copper 将以高达 3.85 亿美元的价格将墨西哥矿山出售给 Luca Mining",
+  "title": "Capstone Copper 将以 3.85 亿美元的价格将墨西哥矿山出售给 Luca Mining",
   "url": "",
   "summary": "随着 Luca 通过收购 Cozamin 在墨西哥扩张，Capstone 将重点关注智利和美国。",
   "pub_time": "2026-09-21T13:01:00Z",
   "source": "Mining.com",
   "_cat": "基本金属",
-  "dedup_key": "d556813902c46a5401ff8188fcbcfd36",
+  "dedup_key": "47aef941814b2011fb79c11aff0ee605",
   "score": 84,
   "priority": "P1",
   "topic": "基本金属",
@@ -302,7 +435,32 @@
    "基本金属",
    "铜"
   ],
-  "en_title": "Capstone Copper to sell Mexican mine to Luca Mining for up to $385M"
+  "en_title": "Capstone Copper to sell Mexican mine to Luca Mining for $385M"
+ },
+ {
+  "title": "Capstone 以高达 3.85 亿美元的价格将墨西哥矿山出售给 Luca",
+  "url": "",
+  "summary": "Capstone Copper (TSX: CS; ASX: CSC) 正以高达 3.85 亿美元（TSXV: LUCA）的价格将其位于墨西哥的 Cozamin 铜银锌铅矿以高达 3.85 亿美元（5.4 亿加元）的价格出售给 Luca Mining，以调整资本... Capstone 以高达 3.85 亿美元的价格将墨西哥矿山出售给 Luca 的帖子首先出现在《The Northern Miner》上。",
+  "pub_time": "2026-09-21T13:01:00Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "1eabcafde1323cd2bed503886ead53e2",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Capstone sells Mexican mine to Luca for up to $385M"
  },
  {
   "title": "托克推出 Volare Shipping 以创纪录的油轮运价获利",
@@ -691,34 +849,6 @@
   "is_elite": false
  },
  {
-  "title": "随着沙特石油流量增加，霍尔木兹海峡航运量进一步下降",
-  "url": "",
-  "summary": "据路透社报道，穿越霍尔木兹海峡的商品船进一步减少，本周末总共只有十几艘商品船通过。相比之下，一周前有 35 艘油轮和其他商品运输船通过了阻塞点。该数据仅包括以下油轮",
-  "pub_time": "2026-09-21T07:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "22ad66c034050b54d50b3098cf9768aa",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "上涨",
-   "下跌"
-  ],
-  "en_title": "Strait of Hormuz Shipping Traffic Falls Further as Saudi Oil Flows Rise"
- },
- {
   "title": "Mysteel：31省份1-8月进出口排行榜出炉，25省出口正增长",
   "url": "https://news.mysteel.com/a/26092115/25E0776CE1F2A109.html",
   "summary": "",
@@ -812,34 +942,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "交易商押注伊朗外交，油价下跌",
-  "url": "",
-  "summary": "尽管没有任何证据表明双方愿意进行谈判，但由于人们重新燃起对外交解决中东战争的希望，原油价格本周开始下跌，跌至一周以来的最低点。截至撰写本文时，布伦特原油价格为",
-  "pub_time": "2026-09-21T05:45:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "1276b75d645f3cccbf0a54331d8f725c",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "下滑"
-  ],
-  "en_title": "Oil Prices Slide as Traders Bet on Iran Diplomacy"
  },
  {
   "title": "GPA 向前 ADF 工作人员寻求本土收获帮助",
@@ -1405,33 +1507,6 @@
    "下跌"
   ],
   "en_title": "Hogan portfolio, Roundhay, Warrawee list; Kilnyana drops $5M"
- },
- {
-  "title": "尽管大幅削减支出，大型石油公司的产量仍持续飙升",
-  "url": "",
-  "summary": "自 2020 年历史性油价暴跌令能源公司遭受重创以来，一些全球最大的石油和天然气公司采取了新的运作方式，优先考虑向股东返还更多现金，而扩张计划则被搁置。确实，在过去的五年里，",
-  "pub_time": "2026-09-20T23:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "e93307e7ba2d853308599d4a1799a28b",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "产量"
-  ],
-  "en_title": "Big Oil’s Production Keeps Soaring Despite Deep Spending Cuts"
  },
  {
   "title": "Mysteel早读：中美经贸磋商在纽约举行，长治沁源累计复产8座煤矿",
