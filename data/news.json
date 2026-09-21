@@ -1,5 +1,100 @@
 [
  {
+  "title": "“洋水果”加速进入 海南本土特色农产品亟需“接招”突围",
+  "url": "https://www.chinanews.com.cn/cj/2026/09-21/10701072.shtml",
+  "summary": "记者 符宇群)对海南无核荔枝而言，“出岛”是一场与时间的赛跑——清晨采下的鲜果，必须赶在保鲜“黄金窗口”内飞抵全国餐桌；而对进口热带水果来说，封关后的海南正变得越来越“好进”。一快一慢之间，海南本土特色农业站上了一个必须“接招”的路口",
+  "pub_time": "2026-09-21T14:12:57Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "6e3d94a34bcfec0516ef6c1bec4cfaa0",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "产销协作促发展 2026全国苹果产销形势分析会在山西大宁举行",
+  "url": "https://www.chinanews.com.cn/cj/2026/09-21/10701106.shtml",
+  "summary": "记者 杨静)由中国果品流通协会主办的2026全国苹果产销形势分析会20日至21日在山西省临汾市大宁县举行。来自苹果主产区主管部门、科研院所、行业协会，以及生产、经营、加工、进出口、仓储、电商和大型水果批发市场等领域的代表参加会议，共同研判苹果产销形势，交流产业发展经验，推动产销协作",
+  "pub_time": "2026-09-21T14:08:57Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "45c0a38f677736e5431dd726484d56bf",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "胡塞武装袭击延布目标，沙特阿拉伯改变石油出口路线",
+  "url": "",
+  "summary": "彭博社收集的卫星图像显示，根据欧盟 Sentinel-2 卫星收集的数据，周末沙特阿拉伯海湾出口码头的超级油轮容量为 1400 万桶，这是至少自 6 月以来观察到的最高油轮数量。霍尔木兹海峡整体",
+  "pub_time": "2026-09-21T13:51:13Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "697fbfa7ec4bb1d511b1e8a8225ca2b6",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "出口",
+   "罢工"
+  ],
+  "en_title": "Saudi Arabia Reroutes Oil Exports as Houthi Strikes Target Yanbu"
+ },
+ {
+  "title": "由于电厂库存跌至临界低点，印度煤炭需求将增长 4.2%",
+  "url": "",
+  "summary": "路透社周一援引政府数据报道称，最近几周，印度煤炭库存水平极低的燃煤电厂所占比例已飙升至所有运营燃煤电厂的近 40%。多达74家燃煤电厂的煤炭不足三天",
+  "pub_time": "2026-09-21T13:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "73894c1f212dd5fd525925950dee6502",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "煤炭",
+   "跳涨",
+   "需求",
+   "库存"
+  ],
+  "en_title": "India's Coal Demand Set to Jump 4.2% as Plant Stocks Hit Critical Lows"
+ },
+ {
   "title": "托克推出 Volare Shipping 以创纪录的油轮运价获利",
   "url": "",
   "summary": "全球最大的石油贸易商之一托克 (Trafigura) 正在将其超级油轮业务分拆成立一家新公司。托克周一表示，它已经成立了一家新的专门集团公司 Volare Shipping Ltd，负责拥有、运营和扩大现代化油轮船队。该舰队将具有商业能力",
@@ -42,6 +137,32 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
+ },
+ {
+  "title": "金矿商 $18.2B 的支出掩盖了不断上升的 ESG 压力",
+  "url": "",
+  "summary": "创纪录的政府付款和更安全的矿山与主要黄金生产商不断上升的排放和能源强度形成鲜明对比。",
+  "pub_time": "2026-09-21T11:45:00Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "d4559ff46d8db73c3a79a60b22509669",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Gold miners’ $18.2B payout masks rising ESG pressures"
  },
  {
   "title": "挪威北极石油沥青在布鲁塞尔的表现平平",
@@ -1884,59 +2005,6 @@
    "锡"
   ],
   "en_title": "Energy Giants Are Betting Billions on a World of Longer Oil Routes"
- },
- {
-  "title": "欧洲液化天然气出价超过亚洲，价格飙升 150%",
-  "url": "",
-  "summary": "随着需求季节性回升以及亚洲进口商对燃料的需求下降，现货市场上的液化天然气价格正在走高。然而，尽管价格昂贵，欧洲买家仍在加大采购力度。他们别无选择。本月亚洲对液化天然气的需求预计将下降",
-  "pub_time": "2026-09-19T23:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "b71dc51501589ef42f35a2b15a2630d3",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "价",
-   "大涨"
-  ],
-  "en_title": "Europe Outbids Asia for LNG as Prices Surge 150%"
- },
- {
-  "title": "随着小型反应堆最终起飞，原子能机构核电预测增加了两倍",
-  "url": "",
-  "summary": "经过多年的拖延和停滞不前的发展时间表，小型核革命可能终于到了。国际原子能机构（IAEA）在一份全新报告中再次上调了长期核电预测，预计全球核电发电量将达到",
-  "pub_time": "2026-09-19T17:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "7cd256c4b1e3a444b52cf83ef74a4abb",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "预测"
-  ],
-  "en_title": "IAEA Triples Nuclear Power Forecast as Small Reactors Finally Take Off"
  },
  {
   "title": "亚洲棕榈油现货价格大多下跌",
