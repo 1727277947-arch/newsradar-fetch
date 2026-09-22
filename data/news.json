@@ -1,5 +1,190 @@
 [
  {
+  "title": "专家：矿业公司在危险地区建立“迷你军队”",
+  "url": "",
+  "summary": "随着整个西非政府权威的削弱，矿业公司依靠私人保安来维持运营。",
+  "pub_time": "2026-09-22T19:00:17Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "6ac72e56d8c69ab3a1a38ce5f8e90007",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Mining companies built ‘mini armies’ in risky regions: expert"
+ },
+ {
+  "title": "随着美元因加息押注而上涨，金价延续弱势",
+  "url": "",
+  "summary": "(RTTNews) - 周二金价下跌，延续了近期的疲软势头，因多位美联储官员表示美联储将在更长时间内维持较高利率，美元走强。",
+  "pub_time": "2026-09-22T18:57:58Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "47d3077c724d6ac4eea79a80163681ce",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "上涨"
+  ],
+  "en_title": "Gold Extends Weakness As Dollar Rises On Rate Hike Bets"
+ },
+ {
+  "title": "巴里克 (Barrick) 和 Equinox 是 TD Cowen 的最佳股票选择",
+  "url": "",
+  "summary": "贵金属生产商 Barrick Mining (TSX: ABX; NYSE: B) 和 Equinox Gold (TSX, NYSE-A: EQX) 是在未来几年内提供超额回报的最佳前景的 24 只加拿大股票之一。Barrick 和 Equinox 是 TD Cowen 的最佳股票之一，首先出现在《The Northern Miner》上。",
+  "pub_time": "2026-09-22T18:25:00Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "1ab821bcd9c3d82bd26bbdee42161c7e",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "库存"
+  ],
+  "en_title": "Barrick, Equinox among TD Cowen’s best stock picks"
+ },
+ {
+  "title": "上海、伦敦仓库空空如也，铜价收创新高",
+  "url": "",
+  "summary": "登陆中国的进口铜将直接进入制造商并跳过仓库，上海股市自 6 月以来已下跌 70%。",
+  "pub_time": "2026-09-22T18:21:09Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "7948e40ee1d4e65c374f8465c28ef1ed",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜",
+   "价"
+  ],
+  "en_title": "Copper price closes in on new record as Shanghai, London warehouses empty out"
+ },
+ {
+  "title": "核安全让美国参与俄罗斯乌兹别克能源项目",
+  "url": "",
+  "summary": "乌兹别克斯坦仍然希望俄罗斯建造其第一座核电站，但在安全方面，塔什干正在转向美国。最近在维也纳举行的国际原子能机构大会期间举行的会议期间，美国和乌兹别克斯坦官员签署了一份备忘录",
+  "pub_time": "2026-09-22T18:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "de3bdfedff9418f053e0ae354674288b",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "能源"
+  ],
+  "en_title": "Nuclear Safety Brings America Into Russia's Uzbek Energy Project"
+ },
+ {
+  "title": "USGBC 探索美国在尼日利亚的饲料谷物机会",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-09-22T17:42:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "f632d2a2b64189a21ecaa7c1e1a75712",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "谷物"
+  ],
+  "en_title": "USGBC Explores U.S. Feed Grain Opportunities in Nigeria"
+ },
+ {
+  "title": "随着炼油厂寻找替代品，印度对俄罗斯石油的进口量下滑",
+  "url": "",
+  "summary": "印度8月份从俄罗斯原油的进口量下降了16.5%，预计9月份将再次下降，恰逢美国新制裁法赋予华盛顿对俄罗斯主要石油买家征收高达100%关税的权力。 8月份俄罗斯对印度的出口量下降至约210万桶/日",
+  "pub_time": "2026-09-22T17:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "ca087ee6224561f7ca46cee587021ee1",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "下滑",
+   "进口"
+  ],
+  "en_title": "India’s Russian Oil Imports Slide as Refiners Hunt for Alternatives"
+ },
+ {
   "title": "北京在与特朗普的华盛顿峰会前收紧稀土供应",
   "url": "",
   "summary": "中国国家主席习近平和美国总统唐纳德·特朗普定于周四在华盛顿会面。瑞银分析师援引首席中国经济学家宋宇的话说，两个全球超级大国领导人之间的会晤主要是关于战略稳定和关税方面的适度进展，这是罕见的。",
@@ -207,6 +392,33 @@
    "铜"
   ],
   "en_title": "Selkirk Copper’s $494M value for Minto mine nearly triple its costs"
+ },
+ {
+  "title": "淡水河谷以 1.9 亿美元收购 Ligga 铁矿石股份",
+  "url": "",
+  "summary": "淡水河谷（纽约证券交易所股票代码：VALE）确认将收购 Ligga 30% 的股权以增加铁矿石产量，此前该国证券交易所质疑为何该交易未向投资者披露。淡水河谷以 1.9 亿美元收购 Ligga 铁矿石股份的消息首先出现在《北方矿工》上。",
+  "pub_time": "2026-09-22T15:00:46Z",
+  "source": "NorthernMiner",
+  "_cat": "黑色系",
+  "dedup_key": "2224aa4548104934cf9ef9f1a2f031d5",
+  "score": 84,
+  "priority": "P2",
+  "topic": "黑色系",
+  "tags": [
+   "黑色系",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "黑色系",
+   "铁矿石",
+   "生铁"
+  ],
+  "en_title": "Vale buys Ligga iron ore stake for $190M"
  },
  {
   "title": "为什么公用事业利润可能成为下一个目标",
@@ -518,34 +730,6 @@
   "en_title": "Oil Prices Edge Lower In Volatile Trade"
  },
  {
-  "title": "随着原油价格飙升，印度石油进口额猛增 48%",
-  "url": "",
-  "summary": "周二政府数据显示，尽管进口量下降了 0.4%，但 4 月至 8 月印度购买原油的费用比去年同期增加了 244 亿美元，因为国际油价飙升使进口费用增加了 48%。战争期间油价飙升，流量不均",
-  "pub_time": "2026-09-22T09:15:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "7416b0b5eb34581b32b25f6b12f783dd",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "跳涨"
-  ],
-  "en_title": "India’s Oil Import Bill Jumps 48% as Crude Prices Soar"
- },
- {
   "title": "Mysteel晚餐：74家钢企上榜中国民企500强",
   "url": "https://news.mysteel.com/a/26092217/D4C29918C2AFA377.html",
   "summary": "",
@@ -639,34 +823,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "石油和天然气价格飙升将欧洲的通胀斗争推至2027年",
-  "url": "",
-  "summary": "欧洲央行首席经济学家表示，石油和天然气价格飙升将使大多数其他价格在更长时间内保持高位，而欧元区通胀率到明年年中才可能接近2%的目标利率。 “因此，我们认为第二波能源价格上涨",
-  "pub_time": "2026-09-22T08:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "2e8c529e53628220c9e4d6b6f182e3b3",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "天然气",
-   "价"
-  ],
-  "en_title": "Soaring Oil and Gas Prices Push Europe’s Inflation Fight Into 2027"
  },
  {
   "title": "关键矿产日报：印尼IMIP园区镍铁减产",
@@ -800,31 +956,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "美国威胁在全球范围内停飞伊朗航空公司",
-  "url": "",
-  "summary": "美国财政部长斯科特·贝森特威胁伊朗航空公司从明天开始“关闭”，机场拒绝加油和出售机票，这是美伊战争的最新口头升级，尽管有报道称在能源大宗商品价格飙升的情况下努力实现和平。 “何",
-  "pub_time": "2026-09-22T06:45:00Z",
-  "source": "Oilprice.com",
-  "_cat": "综合",
-  "dedup_key": "baf479dbd354383dbc6bff983c4acf73",
-  "score": 84,
-  "priority": "P2",
-  "topic": "综合",
-  "tags": [
-   "综合",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "综合"
-  ],
-  "en_title": "U.S. Threatens to Ground Iranian Airlines Worldwide"
  },
  {
   "title": "Mysteel：2026中国民营企业500强出炉（电力篇）",
@@ -2494,59 +2625,6 @@
    "白银"
   ],
   "en_title": "Silverco’s La Negra posts $329M value over $21M costs"
- },
- {
-  "title": "随着西屋电气上市，Cameco 可能会将 $2.1B 变成 $24B",
-  "url": "",
-  "summary": "西屋电气为美国股市上市做准备，其投资可能很快会飙升 12 倍。",
-  "pub_time": "2026-09-21T14:42:14Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "6726a225b5f7e18fdf8ff27bf4388f28",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡"
-  ],
-  "en_title": "Cameco may turn $2.1B into $24B with Westinghouse listing"
- },
- {
-  "title": "澳大利亚黄金产量接近十年平均水平",
-  "url": "",
-  "summary": "全国稳定的数据出现在更大的扩张周期之前。",
-  "pub_time": "2026-09-21T14:20:43Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "19f316db41edd3b54e6eeba3430cc2eb",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "产量"
-  ],
-  "en_title": "Australia gold output holds near decade average"
  },
  {
   "title": "Larvotto 开始在 Hillgrove 生产黄金和锑",
