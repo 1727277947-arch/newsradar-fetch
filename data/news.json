@@ -1,5 +1,108 @@
 [
  {
+  "title": "随着交易员关注美伊外交，油价逆转",
+  "url": "",
+  "summary": "自上周以来一直下跌的原油价格今天扭转走势，并在联合国大会召开之前上涨，许多人希望这次会议将在美国和伊朗之间的和平谈判上取得一些进展。正如最新的油价走势所示，并非所有人都抱有这样的希望，布伦特原油就是如此。",
+  "pub_time": "2026-09-22T05:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "34198c2e18b6362a27500223768c072f",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价"
+  ],
+  "en_title": "Oil Prices Reverse Course as Traders Watch US-Iran Diplomacy"
+ },
+ {
+  "title": "Mysteel：2026中国民营企业500强出炉（电池及储能篇）",
+  "url": "https://news.mysteel.com/a/26092213/90E1B34B54614D12.html",
+  "summary": "",
+  "pub_time": "2026-09-22T05:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "7982fc9062809efe40d57a5cfff3fa87",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "找矿突破成绩喜人！自然资源部：我国发现超大型规模铜金矿",
+  "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701345.shtml",
+  "summary": "9月22日，国新办就促进自然资源安全高效永续利用有关情况举行新闻发布会。自然资源部党组书记、国家自然资源总督察刘国洪在会上介绍，我国新一轮找矿突破成效喜人，1-8月，全国石油新增可采储量近7000万吨，天然气新增可采储量6100亿立方米，安徽茶亭铜金矿、贵州猪拱塘铅锌矿新增资源量达超大型规模",
+  "pub_time": "2026-09-22T04:34:17Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "a1b0414c56fd1eb2ae9a477a55844f05",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "鎏金铜蚕故里焕新颜 科技赋能蚕桑全产业链升级",
+  "url": "https://www.chinanews.com.cn/cj/2026/09-22/10701322.shtml",
+  "summary": "记者 李一璠)秋季，位于秦巴腹地的陕西省安康市石泉县，大片桑园顺着山势铺展。这里是国家一级文物汉代“鎏金铜蚕”的出土地，素有“丝路之源·金蚕之乡”的美誉",
+  "pub_time": "2026-09-22T03:54:11Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "c496e8959c71487d3f595f1a36c1295b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel午报：钢价局部上涨，焦煤期货涨超1%",
+  "url": "https://news.mysteel.com/a/26092211/D7003778D57A770F.html",
+  "summary": "",
+  "pub_time": "2026-09-22T03:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "d937e0a2cacde609e51e120642a0d78a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "民营企业500强出炉（钢铁篇）",
   "url": "https://news.mysteel.com/a/26092211/BB1E8F4DEE5C2BA3.html",
   "summary": "",
@@ -7,6 +110,44 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "41d349b91db4ab3765f2f46480e5a5df",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "螺纹钢期货上涨，钢价涨幅或有限",
+  "url": "https://news.mysteel.com/a/26092211/5B76439870510F99.html",
+  "summary": "",
+  "pub_time": "2026-09-22T03:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "41cbbe564d32b09c4b1a242b44816875",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：2026中国民营企业500强出炉（煤炭篇）",
+  "url": "https://news.mysteel.com/a/26092211/5171CCCB7191771F.html",
+  "summary": "",
+  "pub_time": "2026-09-22T03:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "b18a640bf02719548dd8c7d57979d1cf",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -39,7 +180,7 @@
  },
  {
   "title": "Mysteel：2026中国民营企业500强出炉（钢铁篇）",
-  "url": "https://news.mysteel.com/a/26092211/AE3AA835FB219881.html",
+  "url": "https://news.mysteel.com/a/26092211/E389E7895A7954A2.html",
   "summary": "",
   "pub_time": "2026-09-22T03:00:00Z",
   "source": "上海钢联Mysteel",
@@ -77,7 +218,7 @@
  },
  {
   "title": "Mysteel：2026中国民营企业500强出炉（光伏篇）",
-  "url": "https://news.mysteel.com/a/26092210/37134CC00D9F8BB4.html",
+  "url": "https://news.mysteel.com/a/26092210/FFDE9E499F12955F.html",
   "summary": "",
   "pub_time": "2026-09-22T02:00:00Z",
   "source": "上海钢联Mysteel",
@@ -96,7 +237,7 @@
  },
  {
   "title": "Mysteel：2026中国民营企业500强出炉（家电篇）",
-  "url": "https://news.mysteel.com/a/26092210/30F4A26504B99BD4.html",
+  "url": "https://news.mysteel.com/a/26092210/9FEA93E38C9D4598.html",
   "summary": "",
   "pub_time": "2026-09-22T02:00:00Z",
   "source": "上海钢联Mysteel",
@@ -115,50 +256,12 @@
  },
  {
   "title": "Mysteel：2026中国民营企业500强出炉（有色金属篇）",
-  "url": "https://news.mysteel.com/a/26092210/135B23515772BC03.html",
+  "url": "https://news.mysteel.com/a/26092210/8D15061C3581BA39.html",
   "summary": "",
   "pub_time": "2026-09-22T02:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "3f6ec1aa479335cb478faba4e4d8c823",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：2026中国民营企业500强出炉（建材篇）",
-  "url": "https://news.mysteel.com/a/26092210/8151C7958713185F.html",
-  "summary": "",
-  "pub_time": "2026-09-22T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "9d360b510fdd40ba7b6d12b2ecc18e96",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：2026中国民营企业500强出炉（建筑篇）",
-  "url": "https://news.mysteel.com/a/26092210/067A6018B3626468.html",
-  "summary": "",
-  "pub_time": "2026-09-22T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "b0b78c94dc843f1aa57e19c5684d0ac0",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -178,6 +281,25 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "c2a3a78a9b36cbad224dd18353424ad1",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：2026中国民营企业500强出炉（建筑篇）",
+  "url": "https://news.mysteel.com/a/26092210/2BDDF08DF94D5EFC.html",
+  "summary": "",
+  "pub_time": "2026-09-22T02:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "b0b78c94dc843f1aa57e19c5684d0ac0",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -508,25 +630,6 @@
    "原油"
   ],
   "en_title": "New U.S. Sanctions Law Threatens India’s Huge Russian Oil Trade"
- },
- {
-  "title": "Mysteel早读：黑色期货夜盘上涨",
-  "url": "https://news.mysteel.com/a/26092207/16554E0758CF2F94.html",
-  "summary": "",
-  "pub_time": "2026-09-21T23:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "88b7a62998b4badd715e66f3c02ea0ed",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  },
  {
   "title": "国际油价21日显著下跌",
@@ -1035,63 +1138,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年9月22日大连玉米期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/22/0642218590.shtml",
-  "summary": "",
-  "pub_time": "2026-09-21T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "2733e8a4e1f65b4d6b5cdef4c3d0fc95",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
-  "title": "美国玉米现货市场显著上涨",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/22/3936372325.shtml",
-  "summary": "",
-  "pub_time": "2026-09-21T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "8519afe0ca00ca6826f16c6fe564a65e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
-  "title": "CBOT玉米上涨，因降雨影响收获",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/22/0051684352.shtml",
-  "summary": "",
-  "pub_time": "2026-09-21T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "3693ad9c10c7fa942690b7b6d0a0e990",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年9月22日大连大豆期货行情午报",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/22/2829194908.shtml",
   "summary": "",
@@ -1370,6 +1416,63 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月22日大连玉米期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/22/0642218590.shtml",
+  "summary": "",
+  "pub_time": "2026-09-21T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "20c44b3def8a65adda76c1e30ab52551",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "美国玉米现货市场显著上涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/22/3936372325.shtml",
+  "summary": "",
+  "pub_time": "2026-09-21T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "918cf3097e435da60f1773117d1b7802",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT玉米上涨，因降雨影响收获",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/22/0051684352.shtml",
+  "summary": "",
+  "pub_time": "2026-09-21T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "139f098d82f9e175d18597486f0fc6fc",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "粮油首页"
@@ -1666,25 +1769,6 @@
   "en_title": "Capstone Copper to sell Mexican mine to Luca Mining for $385M"
  },
  {
-  "title": "三宝集团坤宝股份2号锡退机组成功投产",
-  "url": "https://news.mysteel.com/a/26092120/832017F280B7B908.html",
-  "summary": "",
-  "pub_time": "2026-09-21T12:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "9c26364ad0b219bf33e0c00278f495fb",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "金矿商 $18.2B 的支出掩盖了不断上升的 ESG 压力",
   "url": "",
   "summary": "创纪录的政府付款和更安全的矿山与主要黄金生产商不断上升的排放和能源强度形成鲜明对比。",
@@ -1906,25 +1990,6 @@
   "topic": "国内/金融政策",
   "tags": [
    "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "广期所：国庆节假期调整相关期货合约涨跌停板幅度和交易保证金标准",
-  "url": "https://news.mysteel.com/a/26092116/75A8EB28F163E98A.html",
-  "summary": "",
-  "pub_time": "2026-09-21T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "294b973a38858f123794f265218fd0c3",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -2358,25 +2423,6 @@
   "en_title": "Hogan portfolio, Roundhay, Warrawee list; Kilnyana drops $5M"
  },
  {
-  "title": "Mysteel早读：中美经贸磋商在纽约举行，长治沁源累计复产8座煤矿",
-  "url": "https://news.mysteel.com/a/26092107/A5B60F3B969FDA20.html",
-  "summary": "",
-  "pub_time": "2026-09-20T23:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "f0340ab4dfb3e25427ec7f21c6b20153",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "【独家】玉米大幅下跌，还要继续跌吗？",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/21/2037481104.shtml",
   "summary": "",
@@ -2403,25 +2449,6 @@
   "source": "粮油豆粕",
   "_cn": true,
   "dedup_key": "5a34cfad154dd742176a313fa7e4f11d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油豆粕"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月21日大连豆粕期货行情午报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/21/3239654910.shtml",
-  "summary": "",
-  "pub_time": "2026-09-20T16:00:00Z",
-  "source": "粮油豆粕",
-  "_cn": true,
-  "dedup_key": "608aa8c83671b2d486ae7afebae2650b",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -2764,6 +2791,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "08a2652702dcc2044ed445618d1f8e9a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月21日大连豆粕期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/21/3239654910.shtml",
+  "summary": "",
+  "pub_time": "2026-09-20T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "a94b9a29241aa1133b85a9a9949cd86f",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
