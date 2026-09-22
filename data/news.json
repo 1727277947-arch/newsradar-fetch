@@ -1,5 +1,86 @@
 [
  {
+  "title": "Military Metals获得新斯科舍省West Gore锑金项目勘探补助金",
+  "url": "",
+  "summary": "西戈尔是第一次世界大战期间重要的锑生产商，为盟军战争的历史生产做出了重大贡献。",
+  "pub_time": "2026-09-22T20:04:45Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "0565908ed1f99a6b63bc752933efcdf4",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "金属"
+  ],
+  "en_title": "Military Metals gets exploration grant for West Gore antimony-gold project in Nova Scotia"
+ },
+ {
+  "title": "挪威液体产量反弹近 10 万桶/日，但仍落后于 2025 年水平",
+  "url": "",
+  "summary": "周二公布的初步数据显示，8月份挪威原油产量升至188.2万桶/日，超出了挪威近海管理局的预测，但仍低于去年同月的水平。液体总产量，包括原油",
+  "pub_time": "2026-09-22T20:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "97e1f36911134b907c672510e7fcf258",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "产量"
+  ],
+  "en_title": "Norway’s Liquids Output Rebounds by Nearly 100,000 Bpd—but Still Trails 2025"
+ },
+ {
+  "title": "油价连续第五天下跌",
+  "url": "",
+  "summary": "(RTTNews) - 油价周二下跌，连续第五个交易日下跌，因希望结束美国和伊朗之间冲突的外交努力将导致霍尔木兹海峡早日重新开放。",
+  "pub_time": "2026-09-22T19:26:42Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "8e2ff120b382920e0a44708ce012c43e",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "下跌"
+  ],
+  "en_title": "Oil Prices Drop For 5th Straight Day"
+ },
+ {
   "title": "专家：矿业公司在危险地区建立“迷你军队”",
   "url": "",
   "summary": "随着整个西非政府权威的削弱，矿业公司依靠私人保安来维持运营。",
@@ -50,6 +131,32 @@
    "上涨"
   ],
   "en_title": "Gold Extends Weakness As Dollar Rises On Rate Hike Bets"
+ },
+ {
+  "title": "巴里克 (Barrick) 和 Equinox 是 TD Cowen 的最佳股票选择",
+  "url": "",
+  "summary": "现有的估值差距、产量的提高和未来的增长项目是加拿大矿商的主要驱动力。",
+  "pub_time": "2026-09-22T18:25:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "7f9f76108ba94cdd9e69f5cadfa44c34",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "库存"
+  ],
+  "en_title": "Barrick, Equinox among TD Cowen’s best stock picks"
  },
  {
   "title": "巴里克 (Barrick) 和 Equinox 是 TD Cowen 的最佳股票选择",
@@ -649,32 +756,6 @@
    "供应"
   ],
   "en_title": "ING: Supply-Side Risks Stay Elevated Even as Oil Prices Pull Back"
- },
- {
-  "title": "沙特石油生命线可能会重新开放，阿美公司着眼于延布重启",
-  "url": "",
-  "summary": "知情交易员周二告诉彭博社，沙特阿美官员已非正式地告诉至少三家亚洲炼油商，他们很快就能在红海延布港接收原油货物。沙特阿拉伯已停止在其关键港口延布港装货",
-  "pub_time": "2026-09-22T10:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "29535245d396b24fbb4b038b863184c3",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Saudi Oil Lifeline May Reopen as Aramco Eyes Yanbu Restart"
  },
  {
   "title": "黄金因加息担忧而走低",
@@ -2599,32 +2680,6 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "Silverco 的 La Negra 公布价值 3.29 亿美元，成本超过 2100 万美元",
-  "url": "",
-  "summary": "经过一个多世纪的间歇性开采，这旨在恢复过去生产的拉内格拉的持续生产。",
-  "pub_time": "2026-09-21T14:58:34Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "c9b7999ced4a60428c3bf02a7e2f0244",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "白银"
-  ],
-  "en_title": "Silverco’s La Negra posts $329M value over $21M costs"
  },
  {
   "title": "Larvotto 开始在 Hillgrove 生产黄金和锑",
