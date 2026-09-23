@@ -1,22 +1,289 @@
 [
  {
-  "title": "甘肃高台辣椒地里“长”出旅游线路 农文旅融合庆丰收",
-  "url": "https://www.chinanews.com.cn/cj/2026/09-23/10702345.shtml",
-  "summary": "杨娜)金秋时节的祁连山北麓，辣椒红透田垄，玉米堆满晒场。23日，正值第九个中国农民丰收节，甘肃省张掖市高台县骆驼城镇，各乡镇农民代表带着各自的特色农产品，在舞龙舞狮中拉开丰收庆典序幕",
-  "pub_time": "2026-09-23T10:39:57Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "45afada664ed469b4dd7b32de94f25f9",
-  "score": 80,
+  "title": "气候初创公司与三个美国石油生产商签署二氧化碳协议",
+  "url": "",
+  "summary": "美国联邦对碳捕获项目激励措施的削减以及未来不确定的监管环境促使一些初创企业从仅仅捕获和储存二氧化碳转向将其出售给石油公司以帮助他们提高石油采收率。碳管理工程公司",
+  "pub_time": "2026-09-23T14:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "9441535da1638423b4e8ccdab439c40a",
+  "score": 84,
   "priority": "P1",
-  "topic": "国内/财经",
+  "topic": "能源",
   "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
   ],
-  "is_elite": false
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Climate Startup Signs CO2 Deals With Three U.S. Oil Producers"
+ },
+ {
+  "title": "中国对伊朗石油的80%控制权在特习峰会上显现",
+  "url": "",
+  "summary": "在计划于 9 月 24 日在白宫举行的高风险美中峰会之前，北京方面似乎正在强调其对伊朗的影响力，以便在与其主要地缘政治对手的谈判中获得影响力。期待美中即将在华盛顿举行的峰会在伊朗问题上取得突破",
+  "pub_time": "2026-09-23T14:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "abb7dbd98f667fe3fe7792423f33a1ea",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "China's 80% Grip on Iranian Oil Looms Over Trump-Xi Summit"
+ },
+ {
+  "title": "Selkirk Copper 的 Minto 价值 4.94 亿美元，几乎是其建造成本的三倍",
+  "url": "",
+  "summary": "Selkirk Copper 位于育空地区的 Minto 项目的 PEA 估值几乎是其 1.86 亿美元初始资本成本的三倍。",
+  "pub_time": "2026-09-23T13:57:33Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "28add59abfc17a11b19eb87a728b8f05",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜"
+  ],
+  "en_title": "Selkirk Copper’s Minto posts $494M value, nearly triple its build costs"
+ },
+ {
+  "title": "Beaver Creek：采矿业的下一代掌舵",
+  "url": "",
+  "summary": "随着经验丰富的创始人和交易撮合者开始退出，矿业正在进入代际交接，留下一批年轻的高管来证明他们可以通过改变商品来建立持久的公司……《海狸溪：矿业的下一代掌舵》一文首先出现在《The North》上",
+  "pub_time": "2026-09-23T13:36:41Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "cf703d865e9ffb8a030607908a8510eb",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Beaver Creek: Mining’s next generation takes the wheel"
+ },
+ {
+  "title": "TotalEnergies 将开发海上气田以增加尼日利亚液化天然气供应",
+  "url": "",
+  "summary": "法国超级能源公司周三表示，TotalEnergies 已决定投资尼日利亚近海伊马气田的开发，以增加尼日利亚液化天然气出口工厂扩建的供应。作为 Ima 气田 40% 权益的运营商和持有者，TotalEnergies 及其当地合作伙伴 AMNI",
+  "pub_time": "2026-09-23T13:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "0dd07d5453b611c6107b014344c9efe4",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气",
+   "供应"
+  ],
+  "en_title": "TotalEnergies to Develop Offshore Gas Field to Boost Nigeria LNG Supply"
+ },
+ {
+  "title": "霍尔木兹交通量比 10 天平均水平低 80%",
+  "url": "",
+  "summary": "周三，Kpler 的初步油轮跟踪数据显示，过去一天只有三艘商品船通过霍尔木兹海峡，石油市场正在权衡美伊重启谈判的可能性与中东局势的持续混乱。这三艘商船分别位于",
+  "pub_time": "2026-09-23T12:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "6c0011f67a4ceaa5aee0fa7a0b1b8e77",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Hormuz Traffic Running 80% Below Its 10-Day Average"
+ },
+ {
+  "title": "嘉能可将通过 5 亿美元政府融资帮助建立美国矿物库存",
+  "url": "",
+  "summary": "瑞士矿业和大宗商品贸易商嘉能可（伦敦证券交易所股票代码：GLEN）在收到美国进出口银行 5 亿美元的承诺后，将帮助建立美国关键矿产储备……嘉能可以 5 亿美元政府融资帮助建立美国矿产库存的帖子首次出现",
+  "pub_time": "2026-09-23T11:53:00Z",
+  "source": "NorthernMiner",
+  "_cat": "综合",
+  "dedup_key": "83e32858dec1c4030d44fcd53f040961",
+  "score": 84,
+  "priority": "P1",
+  "topic": "综合",
+  "tags": [
+   "综合",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "综合",
+   "库存"
+  ],
+  "en_title": "Glencore to help build US minerals stockpile with $500M government financing"
+ },
+ {
+  "title": "播客：彭博资讯的格兰特表示，铜关税决定可能会引发放松",
+  "url": "",
+  "summary": "本周的节目由 Bloomberg Intelligence 金属和矿业全球主管 Grant Sporre 与主持人 Adrian Pocobelli 就铜市场进行对话。 Sporre 研究了驱动力......后播客：铜关税决定可能会引发放松，ft Bloomberg Intelligence 的 Gra",
+  "pub_time": "2026-09-23T11:39:50Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "8e8d871d9f50889aaaeb6a7096e65ba6",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜"
+  ],
+  "en_title": "Podcast: Copper tariff decision could trigger unwind, ft Bloomberg Intelligence’s Grant Sporre"
+ },
+ {
+  "title": "美国计划向阿根廷矿业和能源投资70亿美元",
+  "url": "",
+  "summary": "随着华盛顿寻求安全的矿产供应，拟议的美国进出口银行融资将帮助当地公司购买美国设备。",
+  "pub_time": "2026-09-23T11:13:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "431d033e71b2fb95f3e8abd780d8865e",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "能源",
+   "锡"
+  ],
+  "en_title": "US eyes up to $7 billion for Argentina mining, energy"
+ },
+ {
+  "title": "亚洲原油进口量创伊朗战争爆发以来最高水平",
+  "url": "",
+  "summary": "亚洲9月份的原油进口量将达到今年2月份以来的最高水平，当时伊朗战争爆发，中东供应受到削弱，并迫使亚洲买家削减采购量。根据数据，本月亚洲预计进口 2,396 万桶/日原油",
+  "pub_time": "2026-09-23T11:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "d5afee6ee8adde6a542dee35251dfdb6",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "进口"
+  ],
+  "en_title": "Asia's Crude Imports Hit Highest Level Since the Iran War Began"
+ },
+ {
+  "title": "Savannah 融资 3000 万美元推进 Barroso 锂项目",
+  "url": "",
+  "summary": "随着萨凡纳走向开发，新的资金将推动巴罗佐完成工程、许可和早期工作。",
+  "pub_time": "2026-09-23T10:47:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "876042cf1629cec3aced85918bfbe778",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Savannah raises $30M to advance Barroso lithium project"
  },
  {
   "title": "油价将录得自 2025 年 8 月以来最长连跌",
@@ -43,25 +310,6 @@
    "原油"
   ],
   "en_title": "Oil Set for Longest Losing Streak Since August 2025"
- },
- {
-  "title": "机构：中国银行业未来竞争更多是价值创造能力之争",
-  "url": "https://www.chinanews.com.cn/cj/2026/09-23/10702273.shtml",
-  "summary": "钟余)中国银行业的竞争未来将走向何处？麦肯锡全球资深董事合伙人、中国区金融机构咨询业务负责人周宁人日前在采访中指出，对于中国银行业而言，未来的竞争不仅仅是规模竞争，将更多体现为价值创造能力的竞争。“未来，能够将科技能力、客户洞察、财富管理和国际化服务有效结合的机构，将更有机会在新一轮竞争中脱颖而出。”",
-  "pub_time": "2026-09-23T09:52:06Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "34d276677bb942423c30d76dd7355d09",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
  },
  {
   "title": "黄金因加息担忧而暴跌",
@@ -1054,13 +1302,13 @@
   "en_title": "Meridian’s Cabaçal value doubles on higher prices"
  },
  {
-  "title": "Selkirk Copper 对 Minto 矿的价值为 4.94 亿美元，几乎是其成本的三倍",
+  "title": "Selkirk Copper 的 Minto 价值 4.94 亿美元，几乎是其建造成本的三倍",
   "url": "",
-  "summary": "Selkirk Copper Mines（TSXV：SCMI；US-OTC：SKRKF）位于育空地区的棕地 Minto 项目的初步经济评估 (PEA) 给出的价值为 4.94 亿美元（3.53 亿美元），几乎是其三倍......Selkirk Copper 为 Minto 矿创造的价值为 4.94 亿美元，几乎是其成本的三倍。",
+  "summary": "塞尔柯克铜矿 (TSXV: SCMI; US-OTC: SKRKF) 育空棕地 Minto 项目的初步经济评估 (PEA) 给出的价值为 4.94 亿美元（合 3.53 亿美元），几乎是其三倍……最先出现的帖子是塞尔柯克铜矿的 Minto 价值 4.94 亿美元，几乎是其建造成本的三倍",
   "pub_time": "2026-09-22T21:20:01Z",
   "source": "NorthernMiner",
   "_cat": "基本金属",
-  "dedup_key": "467b7f0e9891fdee28fa6ab5964e4976",
+  "dedup_key": "b777ee74ccd74c507c9aa5898a1efa31",
   "score": 84,
   "priority": "P2",
   "topic": "基本金属",
@@ -1077,7 +1325,7 @@
    "基本金属",
    "铜"
   ],
-  "en_title": "Selkirk Copper’s $494M value for Minto mine nearly triple its costs"
+  "en_title": "Selkirk Copper’s Minto posts $494M value, nearly triple its build costs"
  },
  {
   "title": "马里的挫折迫使Resolute下调Syama前景",
@@ -1189,32 +1437,6 @@
    "金属"
   ],
   "en_title": "Military Metals gets exploration grant for West Gore antimony-gold project in Nova Scotia"
- },
- {
-  "title": "挪威液体产量反弹近 10 万桶/日，但仍落后于 2025 年水平",
-  "url": "",
-  "summary": "周二公布的初步数据显示，8月份挪威原油产量升至188.2万桶/日，超出了挪威近海管理局的预测，但仍低于去年同月的水平。液体总产量，包括原油",
-  "pub_time": "2026-09-22T20:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "97e1f36911134b907c672510e7fcf258",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "产量"
-  ],
-  "en_title": "Norway’s Liquids Output Rebounds by Nearly 100,000 Bpd—but Still Trails 2025"
  },
  {
   "title": "油价连续第五天下跌",
@@ -1376,32 +1598,6 @@
   "en_title": "Copper price closes in on new record as Shanghai, London warehouses empty out"
  },
  {
-  "title": "核安全让美国参与俄罗斯乌兹别克能源项目",
-  "url": "",
-  "summary": "乌兹别克斯坦仍然希望俄罗斯建造其第一座核电站，但在安全方面，塔什干正在转向美国。最近在维也纳举行的国际原子能机构大会期间举行的会议期间，美国和乌兹别克斯坦官员签署了一份备忘录",
-  "pub_time": "2026-09-22T18:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "de3bdfedff9418f053e0ae354674288b",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "能源"
-  ],
-  "en_title": "Nuclear Safety Brings America Into Russia's Uzbek Energy Project"
- },
- {
   "title": "USGBC 探索美国在尼日利亚的饲料谷物机会",
   "url": "",
   "summary": "",
@@ -1426,59 +1622,6 @@
    "谷物"
   ],
   "en_title": "USGBC Explores U.S. Feed Grain Opportunities in Nigeria"
- },
- {
-  "title": "随着炼油厂寻找替代品，印度对俄罗斯石油的进口量下滑",
-  "url": "",
-  "summary": "印度8月份从俄罗斯原油的进口量下降了16.5%，预计9月份将再次下降，恰逢美国新制裁法赋予华盛顿对俄罗斯主要石油买家征收高达100%关税的权力。 8月份俄罗斯对印度的出口量下降至约210万桶/日",
-  "pub_time": "2026-09-22T17:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "ca087ee6224561f7ca46cee587021ee1",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "下滑",
-   "进口"
-  ],
-  "en_title": "India’s Russian Oil Imports Slide as Refiners Hunt for Alternatives"
- },
- {
-  "title": "北京在与特朗普的华盛顿峰会前收紧稀土供应",
-  "url": "",
-  "summary": "中国国家主席习近平和美国总统唐纳德·特朗普定于周四在华盛顿会面。瑞银分析师援引首席中国经济学家宋宇的话说，两个全球超级大国领导人之间的会晤主要是关于战略稳定和关税方面的适度进展，这是罕见的。",
-  "pub_time": "2026-09-22T17:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "a91a26fae76a9ad1cbee19e6f6f4eb00",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Beijing Tightens Rare Earth Flow Ahead Of Washington Summit With Trump"
  },
  {
   "title": "尽管大宗商品价格上涨，农民仍对农业经济感到担忧",
@@ -2351,32 +2494,6 @@
   "is_elite": false
  },
  {
-  "title": "Selkirk Copper 对 Minto 的价值为 4.94 亿美元，几乎是其成本的三倍",
-  "url": "",
-  "summary": "该矿在 13 年的使用寿命内可通过露天和地下作业生产 1840 万吨。",
-  "pub_time": "2026-09-22T15:26:01Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "236a6fcb229cfe4f4ec1388b907b68dd",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "Selkirk Copper’s $494M value for Minto nearly triple its costs"
- },
- {
   "title": "淡水河谷以 1.9 亿美元收购 Ligga 铁矿石股份",
   "url": "",
   "summary": "淡水河谷（纽约证券交易所股票代码：VALE）确认将收购 Ligga 30% 的股权以增加铁矿石产量，此前该国证券交易所质疑为何该交易未向投资者披露。淡水河谷以 1.9 亿美元收购 Ligga 铁矿石股份的消息首先出现在《北方矿工》上。",
@@ -2844,59 +2961,6 @@
    "贵金属"
   ],
   "en_title": "Capstone sells Mexican mine to Luca for up to $385M"
- },
- {
-  "title": "Silverco 的 La Negra 公布价值 3.29 亿美元，成本超过 2100 万美元",
-  "url": "",
-  "summary": "Silverco 矿业 (TSXV: SICO; US-OTC: SICOF) 位于墨西哥中部的 La Negra 矿的初步经济评估 (PEA) 表明，与成本相比，该矿具有非常高的价值和回报，因为…… Silverco 的 La Negra 价值 3.29 亿美元，成本 2100 万美元，首先出现在《北方矿工》上。",
-  "pub_time": "2026-09-21T21:10:34Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "e649198927c0ae9413e3231942348c0f",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "白银"
-  ],
-  "en_title": "Silverco’s La Negra posts $329M value over $21M costs"
- },
- {
-  "title": "澳大利亚黄金产量接近十年平均水平",
-  "url": "",
-  "summary": "截至 6 月的一年，澳大利亚黄金产量保持在过去十年平均水平左右，尽管纽蒙特 (NYSE、ASX: NEM; TSX:...) 地震中断，澳大利亚黄金产量保持在接近十年平均水平的位置首先出现在《北方矿业》杂志上。",
-  "pub_time": "2026-09-21T21:05:43Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "17b9db4efc8f7de1aaca56064aed2dc9",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "产量"
-  ],
-  "en_title": "Australia gold output holds near decade average"
  },
  {
   "title": "石油公司将亏损延伸至连续第四个交易日，亏损幅度超过4%",
@@ -3615,32 +3679,5 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "Larvotto 开始在 Hillgrove 生产黄金和锑",
-  "url": "",
-  "summary": "Larvotto Resources (ASX: LRV) 在新南威尔士州的 Hillgrove 矿生产出了第一批金和锑精矿，推进了一个预计将成为澳大利亚最大锑生产商的项目...Larvotto 开始开采黄金后，Hillgrove 的锑产量首先出现在 The Northern Mine 上",
-  "pub_time": "2026-09-21T10:53:00Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "901a8bfd9be1a9c8d831a099422f0110",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "产量"
-  ],
-  "en_title": "Larvotto begins gold, antimony output at Hillgrove"
  }
 ]
