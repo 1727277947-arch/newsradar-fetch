@@ -1,5 +1,52 @@
 [
  {
+  "title": "高盛称布伦特原油价格100美元将抑制中国的石油购买",
+  "url": "",
+  "summary": "高盛表示，如果油价保持高位，第四季度中国原油出口量将仅比第三季度小幅增长，​​这可能缓解基准原油价格的上行压力。炼油厂转产 中国8月原油进口量连续第二个月增长",
+  "pub_time": "2026-09-23T09:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "贵金属",
+  "dedup_key": "e86b37d24898dd7a2afc1df450cd39d7",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "原油",
+   "布伦特油价"
+  ],
+  "en_title": "$100 Brent Keeping China's Oil Buying in Check, Goldman Says"
+ },
+ {
+  "title": "关键矿产日报：淡水河谷拟入股Ligga，印尼IMIP确认镍冶炼厂减产",
+  "url": "https://news.mysteel.com/a/26092317/0B756D1D1D0117ED.html",
+  "summary": "",
+  "pub_time": "2026-09-23T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "4f441737e6270340f1d991436034e4be",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "江苏至墨西哥集装箱新航线开通",
   "url": "https://www.chinanews.com.cn/cj/2026/09-23/10702288.shtml",
   "summary": "中新社江苏无锡9月23日电 (米秋健 朱晓颖)满载524个特种集装箱的海轮“翡翠”轮23日从江苏江阴离港，驶往墨西哥曼萨尼约港，江苏至墨西哥集装箱新航线由此开通",
@@ -44,25 +91,6 @@
    "走强"
   ],
   "en_title": "Michigan Judge Tosses State's Antitrust Suit Against Big Oil"
- },
- {
-  "title": "黑色持仓日报：银河期货减持超1.2万手螺纹钢多单",
-  "url": "https://news.mysteel.com/a/26092316/EEB05424AC65A5C8.html",
-  "summary": "",
-  "pub_time": "2026-09-23T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "0111968132f05a82de907ac69ff8d9f6",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  },
  {
   "title": "有色持仓日报：沪铜飘绿，中信期货减持4.2千手多单",
@@ -237,25 +265,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "3082ed4a1da776907a59c2cec6295fd1",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：9月煤焦双节前市场复盘及节后行情预测",
-  "url": "https://news.mysteel.com/a/26092314/8BF5DD94598514A3.html",
-  "summary": "",
-  "pub_time": "2026-09-23T06:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "eb03a724251dbcd353f79bccdc45d71e",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -711,25 +720,6 @@
   "is_elite": false
  },
  {
-  "title": "李毅仁：国产钢材完全满足钢结构建筑发展的现实需要",
-  "url": "https://news.mysteel.com/a/26092309/538130BEB9F84EEA.html",
-  "summary": "",
-  "pub_time": "2026-09-23T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "cd0e01441639997a2fb54e2fec3ce9f1",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "广发期货：消息及资金面情绪反复，贵金属盘中跳水后回升收涨",
   "url": "https://news.mysteel.com/a/26092309/0602D72CFFC62B95.html",
   "summary": "",
@@ -780,6 +770,25 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "李毅仁：国产钢材完全满足钢结构建筑发展的现实需要",
+  "url": "https://news.mysteel.com/a/26092309/148D81FBD75FE85C.html",
+  "summary": "",
+  "pub_time": "2026-09-23T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "cd0e01441639997a2fb54e2fec3ce9f1",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -1413,32 +1422,6 @@
    "原油"
   ],
   "en_title": "Saudi Pipeline Restart Fails to End Oil Market Tightness"
- },
- {
-  "title": "沙特阿拉伯重启东西石油管道",
-  "url": "",
-  "summary": "沙特阿拉伯已重新启动其东西向石油管道，恢复了至少部分每日400万桶石油管道的流量，该管道已成为该国霍尔木兹海峡周围的主要逃生口。据路透社消息人士称，该管道目前运行速度较低，沙特阿美正在运营",
-  "pub_time": "2026-09-22T16:02:24Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "0e757dc8f1a30845677e60906763070d",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Saudi Arabia Restarts East-West Oil Pipeline"
  },
  {
   "title": "2026年9月23日大连豆粕期货高开收跌",
@@ -2528,25 +2511,6 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：2026中国民营企业500强出炉（汽车篇）",
-  "url": "https://news.mysteel.com/a/26092214/59A622B7284310C9.html",
-  "summary": "",
-  "pub_time": "2026-09-22T06:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "e1b1c10421084801a4cc50615e80c5b2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/产业经济",
-  "tags": [
-   "产业经济",
    "中文",
    "国内",
    "上海钢联Mysteel"
