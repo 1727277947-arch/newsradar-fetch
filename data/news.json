@@ -1,5 +1,86 @@
 [
  {
+  "title": "KSU 表示，农民应开始评估 2026 年 ARC 和 PLC 选项",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-09-23T18:46:00Z",
+  "source": "Grainnet",
+  "_cat": "基本金属",
+  "dedup_key": "3d83257203a743e711ba445fd810e9f0",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡"
+  ],
+  "en_title": "Farmers Should Begin Evaluating 2026 ARC And PLC Options, Says KSU"
+ },
+ {
+  "title": "随着美元因加息押注而上涨，金价再次下跌",
+  "url": "",
+  "summary": "(RTTNews) - 由于押注美联储今年将宣布再次加息，美元保持坚挺，金价周三下跌。",
+  "pub_time": "2026-09-23T18:35:41Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "2da9e1cfcfc7ad4e22f974256fea2dec",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "上涨",
+   "走强",
+   "下跌"
+  ],
+  "en_title": "Gold Falls Again As Dollar Rises On Rate Hike Bets"
+ },
+ {
+  "title": "帝国石油成为阿尔伯塔省第一家反对分裂主义的主要能源公司",
+  "url": "",
+  "summary": "据《金融邮报》援引彭博社报道，帝国石油公司首席执行官约翰·惠兰表示反对阿尔伯塔省分离主义，这使其成为该省第一家对该运动采取公开立场的大型能源公司。 “作为一家全国性公司，我们相信团结的加拿大才是最强大的",
+  "pub_time": "2026-09-23T17:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "f8d3ba6c26d48e659596bdca1b60fd3f",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "原油",
+   "能源"
+  ],
+  "en_title": "Imperial Oil Becomes First Major Alberta Energy Company to Oppose Separatism"
+ },
+ {
   "title": "美国谷物和生物产品委员会主办日本玉米产业之旅",
   "url": "",
   "summary": "",
@@ -364,6 +445,59 @@
    "原油"
   ],
   "en_title": "Climate Startup Signs CO2 Deals With Three U.S. Oil Producers"
+ },
+ {
+  "title": "美国计划向阿根廷矿业和能源投资70亿美元",
+  "url": "",
+  "summary": "随着华盛顿寻求安全的矿产供应，拟议的美国进出口银行融资将帮助当地公司购买美国设备。",
+  "pub_time": "2026-09-23T14:17:37Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "431d033e71b2fb95f3e8abd780d8865e",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "能源",
+   "锡"
+  ],
+  "en_title": "US eyes up to $7 billion for Argentina mining, energy"
+ },
+ {
+  "title": "Gold Fields 前首席执行官瞄准 10 亿美元非洲矿业基金",
+  "url": "",
+  "summary": "前 Gold Fields (JSE、NYSE: GFI) 首席执行官 Chris Griffith 在离开四年后加入了一家私募股权投资公司，寻求筹集 10 亿美元投资非洲关键矿产。这位前 Gold Fields 首席执行官的目标是 10 亿美元的非洲矿业基金，该基金首先出现在《The Northern Miner》上。",
+  "pub_time": "2026-09-23T14:08:18Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "d87a57001dc907b70b456d371bbf6707",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Ex-Gold Fields CEO targets $1B Africa mining fund"
  },
  {
   "title": "中国对伊朗石油的80%控制权在特习峰会上显现",
@@ -846,33 +980,6 @@
   "is_elite": false
  },
  {
-  "title": "密歇根州法官驳回该州针对大型石油公司的反垄断诉讼",
-  "url": "",
-  "summary": "大急流城的一名地区法官驳回了针对几家石油巨头提起的诉讼，这些公司指控这些公司合谋干扰替代能源和电动汽车的竞争。该诉讼由密歇根州总检察长 Dan Nessel 提起，指控埃克森美孚、雪佛龙、她",
-  "pub_time": "2026-09-23T08:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "7430fab6c22232edd3013c7c7beac845",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "走强"
-  ],
-  "en_title": "Michigan Judge Tosses State's Antitrust Suit Against Big Oil"
- },
- {
   "title": "有色持仓日报：沪铜飘绿，中信期货减持4.2千手多单",
   "url": "https://news.mysteel.com/a/26092316/88CC3D69F4EB0A6F.html",
   "summary": "",
@@ -991,32 +1098,6 @@
    "能源"
   ],
   "en_title": "Daily Market Wire 23 September 2026"
- },
- {
-  "title": "韩国计划到 2035 年将中东原油依赖度降低至 50%",
-  "url": "",
-  "summary": "路透社援引韩国工业部的消息称，韩国将努力到 2035 年将对中东原油进口的依赖程度降低至 50%。该部起草了一项为期十年的自然资源安全计划，其中设想韩国采购进口的方式发生“根本性转变”。这",
-  "pub_time": "2026-09-23T06:29:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "ef8a16be7626055bdd14aee6e75ba66f",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "South Korea Aims to Cut Middle East Crude Reliance to 50% by 2035"
  },
  {
   "title": "甘孜稻城嘎通一期光伏发电项目220千伏送出工程环评文件受理公示",
@@ -1825,33 +1906,6 @@
    "库存"
   ],
   "en_title": "Barrick, Equinox among TD Cowen’s best stock picks"
- },
- {
-  "title": "上海、伦敦仓库空空如也，铜价收创新高",
-  "url": "",
-  "summary": "登陆中国的进口铜将直接进入制造商并跳过仓库，上海股市自 6 月以来已下跌 70%。",
-  "pub_time": "2026-09-22T18:21:09Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "7948e40ee1d4e65c374f8465c28ef1ed",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "价"
-  ],
-  "en_title": "Copper price closes in on new record as Shanghai, London warehouses empty out"
  },
  {
   "title": "USGBC 探索美国在尼日利亚的饲料谷物机会",
@@ -3113,83 +3167,5 @@
    "下跌"
   ],
   "en_title": "Pakistan turns importer to satisfy domestic wheat shortfall"
- },
- {
-  "title": "Artemis 将在澳大利亚以 4.27 亿美元收购 Vista",
-  "url": "",
-  "summary": "Artemis Gold (TSXV: ARTG) 同意以 4.27 亿美元（5.98 亿加元）的全股交易收购 Vista Gold (TSX, NYSE-A: VGZ)，这将增加不列颠哥伦比亚省 Blackwater 之外的另一项主要开发资产... Artemis 在澳大利亚以 4.27 亿美元收购 Vista 的消息首先出现在《The Northern Miner》上",
-  "pub_time": "2026-09-21T21:30:39Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "2599f96d7592e9eb9a97b0ae77e45e93",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "Artemis to buy Vista for $427M in Australia push"
- },
- {
-  "title": "石油公司将亏损延伸至连续第四个交易日，亏损幅度超过4%",
-  "url": "",
-  "summary": "（ RTTNews ） -油价周一大幅下跌，连续第四个交易日下跌，人们希望外交努力将有助于缓和中东的紧张局势。",
-  "pub_time": "2026-09-21T18:58:49Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "de2d4175a684a9bb716329e5644c6673",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Oil Extends Losses To 4th Straight Session, Sheds Over 4%"
- },
- {
-  "title": "随着加息押注美元上涨，黄金抢占3天连胜纪录",
-  "url": "",
-  "summary": "（ RTTNews ） -周一金价下跌，连续三天连胜，因美元走强和利润承压黄金。",
-  "pub_time": "2026-09-21T18:36:20Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "f27382046125a73b6fbfd70541f271e3",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "上涨"
-  ],
-  "en_title": "Gold Snaps 3-day Winning Streak As Dollar Rises On Rate Hike Bets"
  }
 ]
