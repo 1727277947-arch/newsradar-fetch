@@ -103,6 +103,25 @@
   "is_elite": false
  },
  {
+  "title": "任务成本相差30倍！麦肯锡警示：AI智能体将进一步增加企业开支",
+  "url": "https://news.mysteel.com/a/26092316/17DF5BB01E8534A1.html",
+  "summary": "",
+  "pub_time": "2026-09-23T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "22b738a1ea02b2d9299431ede56608ac",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "现货黄金失守4320美元/盎司",
   "url": "https://news.mysteel.com/a/26092315/9637235188F075D9.html",
   "summary": "",
@@ -1688,6 +1707,25 @@
   "is_elite": false
  },
  {
+  "title": "9月23日进口油菜籽到国内港口CF报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/23/5152104000.shtml",
+  "summary": "",
+  "pub_time": "2026-09-22T16:00:00Z",
+  "source": "粮油菜籽",
+  "_cn": true,
+  "dedup_key": "221c3de8989a47b34dd62e5ea14bb10f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "ICE油菜籽追随外部市场下跌",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/23/0112411991.shtml",
   "summary": "",
@@ -1703,6 +1741,25 @@
    "中文",
    "国内",
    "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "9月23日进口阿根廷豆油及加拿大菜籽油CF报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/23/5020760727.shtml",
+  "summary": "",
+  "pub_time": "2026-09-22T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "c168fc15401f0a577ab0d07dd24b606b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "粮油首页"
   ],
   "is_elite": false
  },
@@ -3621,43 +3678,5 @@
    "下滑"
   ],
   "en_title": "Oil Extends Slide As US-Iran Diplomacy Gathers Pace"
- },
- {
-  "title": "关键矿产日报：NMDC铁矿石拟增产，中蒙口岸双节闭关",
-  "url": "https://news.mysteel.com/a/26092117/57DE17EC7109E65E.html",
-  "summary": "",
-  "pub_time": "2026-09-21T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "30247c7a8129369ee572cab22a4c8ea9",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "上海钢联总裁助理魏波一行拜访武钢集团昆明钢铁股份有限公司",
-  "url": "https://news.mysteel.com/a/26092117/04BAA16E12CF376B.html",
-  "summary": "",
-  "pub_time": "2026-09-21T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "ea9b2aa3f548a5aa1c026079202be377",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  }
 ]
