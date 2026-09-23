@@ -1,5 +1,122 @@
 [
  {
+  "title": "甘肃高台辣椒地里“长”出旅游线路 农文旅融合庆丰收",
+  "url": "https://www.chinanews.com.cn/cj/2026/09-23/10702345.shtml",
+  "summary": "杨娜)金秋时节的祁连山北麓，辣椒红透田垄，玉米堆满晒场。23日，正值第九个中国农民丰收节，甘肃省张掖市高台县骆驼城镇，各乡镇农民代表带着各自的特色农产品，在舞龙舞狮中拉开丰收庆典序幕",
+  "pub_time": "2026-09-23T10:39:57Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "45afada664ed469b4dd7b32de94f25f9",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "油价将录得自 2025 年 8 月以来最长连跌",
+  "url": "",
+  "summary": "周三亚洲交易时段，油价下跌，并有望连续第六天下跌，因为美国与伊朗数月来的首次会谈重燃了达成协议的希望，并缓解了对中东石油供应的担忧。周三亚洲交易中，布伦特原油价格下跌约 1%，至 98.3 美元",
+  "pub_time": "2026-09-23T10:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "0027981e82b50cca56e4f17ff632c6aa",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Oil Set for Longest Losing Streak Since August 2025"
+ },
+ {
+  "title": "机构：中国银行业未来竞争更多是价值创造能力之争",
+  "url": "https://www.chinanews.com.cn/cj/2026/09-23/10702273.shtml",
+  "summary": "钟余)中国银行业的竞争未来将走向何处？麦肯锡全球资深董事合伙人、中国区金融机构咨询业务负责人周宁人日前在采访中指出，对于中国银行业而言，未来的竞争不仅仅是规模竞争，将更多体现为价值创造能力的竞争。“未来，能够将科技能力、客户洞察、财富管理和国际化服务有效结合的机构，将更有机会在新一轮竞争中脱颖而出。”",
+  "pub_time": "2026-09-23T09:52:06Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "34d276677bb942423c30d76dd7355d09",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/金融政策",
+  "tags": [
+   "金融政策",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "黄金因加息担忧而暴跌",
+  "url": "",
+  "summary": "(RTTNews) - 周三金价大幅下跌，因投资者密切关注美国和伊朗之间的事态发展，并期待周四举行关键的美中峰会，在竞争升级和先进技术限制的情况下，这可能会导致新的贸易协定",
+  "pub_time": "2026-09-23T09:49:36Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "afc45fb8272899d5f60f5ec7108ff47c",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "暴跌"
+  ],
+  "en_title": "Gold Tumbles On Rate Hike Fears"
+ },
+ {
+  "title": "油价在近期下跌后保持稳定",
+  "url": "",
+  "summary": "(RTTNews) - 油价周三保持稳定，此前因美伊谈判取得进展的希望而导致近期一系列下跌。",
+  "pub_time": "2026-09-23T09:29:00Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "edc73db8dbd4184dfcc2e3aeb23e0118",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Oil Holds Steady After Recent Losses"
+ },
+ {
   "title": "高盛称布伦特原油价格100美元将抑制中国的石油购买",
   "url": "",
   "summary": "高盛表示，如果油价保持高位，第四季度中国原油出口量将仅比第三季度小幅增长，​​这可能缓解基准原油价格的上行压力。炼油厂转产 中国8月原油进口量连续第二个月增长",
@@ -28,6 +145,44 @@
   "en_title": "$100 Brent Keeping China's Oil Buying in Check, Goldman Says"
  },
  {
+  "title": "Mysteel晚餐：唐山钢坯亏损扩大",
+  "url": "https://news.mysteel.com/a/26092317/7CBB957242F2FB16.html",
+  "summary": "",
+  "pub_time": "2026-09-23T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "5456f00e8e213cd5111e17f55ef4a45a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel晚餐：唐山钢坯亏损扩大，本期中国钢材出口发运增长",
+  "url": "https://news.mysteel.com/a/26092317/A68A3DCA9FD70C32.html",
+  "summary": "",
+  "pub_time": "2026-09-23T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "2cd35bd0d3b1ed4cb9b5e211245b6375",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "关键矿产日报：淡水河谷拟入股Ligga，印尼IMIP确认镍冶炼厂减产",
   "url": "https://news.mysteel.com/a/26092317/0B756D1D1D0117ED.html",
   "summary": "",
@@ -47,13 +202,32 @@
   "is_elite": false
  },
  {
-  "title": "江苏至墨西哥集装箱新航线开通",
-  "url": "https://www.chinanews.com.cn/cj/2026/09-23/10702288.shtml",
-  "summary": "中新社江苏无锡9月23日电 (米秋健 朱晓颖)满载524个特种集装箱的海轮“翡翠”轮23日从江苏江阴离港，驶往墨西哥曼萨尼约港，江苏至墨西哥集装箱新航线由此开通",
-  "pub_time": "2026-09-23T08:27:13Z",
-  "source": "中国新闻网-财经",
+  "title": "Mysteel国际金融量化论坛·香港站回顾——模型不再是护城河，量化的edge在哪里？",
+  "url": "https://news.mysteel.com/a/26092317/DF35CF98CF26B45F.html",
+  "summary": "",
+  "pub_time": "2026-09-23T09:00:00Z",
+  "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "65c76f23304db0259939618f01028e76",
+  "dedup_key": "34aa9b1e6ebc96514d5fb4666cbb1d2c",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "油价飙升，欧洲柴油车每天多“烧”逾2亿欧元",
+  "url": "https://news.mysteel.com/a/26092317/2EF2C0D7CE21C8D2.html",
+  "summary": "",
+  "pub_time": "2026-09-23T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "eb9dc6cddf03cd04f52f84e090ea01d4",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -61,7 +235,26 @@
    "财经",
    "中文",
    "国内",
-   "中国新闻网-财经"
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel日报：黑色金属期货价格震荡下跌运行",
+  "url": "https://news.mysteel.com/a/26092317/C656DCD649AE3951.html",
+  "summary": "",
+  "pub_time": "2026-09-23T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "31f834ba0a5f271cd4cbd0126e13ded0",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
   ],
   "is_elite": false
  },
@@ -113,7 +306,7 @@
  },
  {
   "title": "黑色持仓日报：期螺飘绿，银河期货减持超1.2万手多单",
-  "url": "https://news.mysteel.com/a/26092316/D041B9E9C96A2F41.html",
+  "url": "https://news.mysteel.com/a/26092316/EEB05424AC65A5C8.html",
   "summary": "",
   "pub_time": "2026-09-23T08:00:00Z",
   "source": "上海钢联Mysteel",
@@ -237,44 +430,6 @@
    "原油"
   ],
   "en_title": "South Korea Aims to Cut Middle East Crude Reliance to 50% by 2035"
- },
- {
-  "title": "Mysteel：国庆节后云贵废钢价格趋弱概率或增加",
-  "url": "https://news.mysteel.com/a/26092314/6D3ACFEA1EE1C9C0.html",
-  "summary": "",
-  "pub_time": "2026-09-23T06:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "9971d4b0abce73242062c581ad5bf8ab",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：武汉 “十五五” 城市更新规划解读及用钢需求测算",
-  "url": "https://news.mysteel.com/a/26092314/8387E4D205F940A9.html",
-  "summary": "",
-  "pub_time": "2026-09-23T06:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "3082ed4a1da776907a59c2cec6295fd1",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  },
  {
   "title": "甘孜稻城嘎通一期光伏发电项目220千伏送出工程环评文件受理公示",
@@ -512,25 +667,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "15c709c09b3726657d4f3e2d74bdbe7d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel算力：节前部署窗口收窄，紧缺芯片整机价格加速上行",
-  "url": "https://news.mysteel.com/a/26092310/24DD8F9F280AEB64.html",
-  "summary": "",
-  "pub_time": "2026-09-23T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "4a7aff8779c55ef76fdc433f0aaf8349",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -1398,32 +1534,6 @@
   "en_title": "Vale takes 30% of Ligga iron ore mine in $190M deal"
  },
  {
-  "title": "沙特管道重启未能结束石油市场紧张状况",
-  "url": "",
-  "summary": "沙特管道运输恢复，但运费和柴油价格飙升表明石油市场持续紧张。海湾风险困扰VLCC船队，石油货运成本激增——随着VLCC油轮成本持续上涨，美伊冲突的最终摊牌似乎正在货运市场展开",
-  "pub_time": "2026-09-22T16:10:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "497e8d910753032e761e542a747b9d2b",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Saudi Pipeline Restart Fails to End Oil Market Tightness"
- },
- {
   "title": "2026年9月23日大连豆粕期货高开收跌",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/23/0445346208.shtml",
   "summary": "",
@@ -1496,25 +1606,6 @@
    "中文",
    "国内",
    "粮油豆粕"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月23日大连玉米期货收盘高开收涨",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/23/0536566100.shtml",
-  "summary": "",
-  "pub_time": "2026-09-22T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "b870cf455d6f8fa19682d9d9cba4048b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
   ],
   "is_elite": false
  },
@@ -2013,6 +2104,25 @@
   "is_elite": false
  },
  {
+  "title": "2026年9月23日大连玉米期货收盘高开收涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/23/0536566100.shtml",
+  "summary": "",
+  "pub_time": "2026-09-22T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "06d062db3a32f341bff735ce33eb4dc0",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "美国玉米现货价格下跌",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/23/2057281184.shtml",
   "summary": "",
@@ -2404,13 +2514,13 @@
   "is_elite": false
  },
  {
-  "title": "关键矿产日报：印尼IMIP园区镍铁减产，Kitumba铜矿项目试生产",
-  "url": "https://news.mysteel.com/a/26092216/FF20827D94B53610.html",
+  "title": "国际油价跳水：WTI原油跌超2%，布油跌超1%",
+  "url": "https://news.mysteel.com/a/26092216/7CC88F5CA3CA3AED.html",
   "summary": "",
   "pub_time": "2026-09-22T08:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "c153303b95eaa83876f375dd7ce2a56a",
+  "dedup_key": "287daa0ab9774003acdbae3067559710",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -2423,13 +2533,13 @@
   "is_elite": false
  },
  {
-  "title": "国际油价跳水：WTI原油跌超2%，布油跌超1%",
-  "url": "https://news.mysteel.com/a/26092216/7CC88F5CA3CA3AED.html",
+  "title": "关键矿产日报：印尼IMIP园区镍铁减产，Kitumba铜矿项目试生产",
+  "url": "https://news.mysteel.com/a/26092216/79E4C73B51F212E2.html",
   "summary": "",
   "pub_time": "2026-09-22T08:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "287daa0ab9774003acdbae3067559710",
+  "dedup_key": "c153303b95eaa83876f375dd7ce2a56a",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -2492,25 +2602,6 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：2026中国民营企业500强出炉（电力篇）",
-  "url": "https://news.mysteel.com/a/26092214/88FE45E89F17A0AD.html",
-  "summary": "",
-  "pub_time": "2026-09-22T06:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "fdd76915f27c7be915cf78d8891b96c3",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -3051,25 +3142,6 @@
   "is_elite": false
  },
  {
-  "title": "9月22日马来西亚棕榈油10月船期FOB报价",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/22/5252352667.shtml",
-  "summary": "",
-  "pub_time": "2026-09-21T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "73c9c6b8fe7e904a228b9637da468017",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年9月22日郑州菜油期货收盘高开收涨",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/22/0535118906.shtml",
   "summary": "",
@@ -3570,77 +3642,5 @@
    "产量"
   ],
   "en_title": "Larvotto begins gold, antimony output at Hillgrove"
- },
- {
-  "title": "Mysteel黑色金属例会：本周钢价或区间震荡，涨跌空间有限",
-  "url": "https://news.mysteel.com/a/26092118/3050150425C1EABF.html",
-  "summary": "",
-  "pub_time": "2026-09-21T10:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "8edb434ccfda38f2688b6be98bd88fe9",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黄金的加息担忧有所缓解",
-  "url": "",
-  "summary": "(RTTNews) - 由于美联储进一步加息的预期，黄金价格周一走低。",
-  "pub_time": "2026-09-21T09:35:20Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "0f04b6b1d333db81dd5c62632bdf63bc",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Gold Edges Lower On Rate Hike Concerns"
- },
- {
-  "title": "随着美伊外交步伐加快，石油价格继续下滑",
-  "url": "",
-  "summary": "(RTTNews) - 由于希望外交努力有助于缓解西亚紧张局势，周一油价继续下滑至一周多来的最低水平。",
-  "pub_time": "2026-09-21T09:17:43Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "30ac9668f78532084d697fa68efc02a3",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "下滑"
-  ],
-  "en_title": "Oil Extends Slide As US-Iran Diplomacy Gathers Pace"
  }
 ]
