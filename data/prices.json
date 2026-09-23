@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-23T06:58:18",
+ "updated_at": "2026-09-23T08:00:49",
  "spot_meta": {
   "policy": "stale_never_fill",
   "spot_page_used": "2026-09-22",
@@ -14,7 +14,7 @@
    "category": "贵金属",
    "market": "国际",
    "kind": "spot",
-   "spot": 4363.5,
+   "spot": 4363.8999,
    "future": null,
    "basis": null,
    "basis_pct": null,
@@ -32,7 +32,7 @@
    "category": "贵金属",
    "market": "国际",
    "kind": "spot",
-   "spot": 67.411,
+   "spot": 67.501,
    "future": null,
    "basis": null,
    "basis_pct": null,
@@ -50,7 +50,7 @@
    "category": "贵金属",
    "market": "国际",
    "kind": "spot",
-   "spot": 1842.0,
+   "spot": 1846.0,
    "future": null,
    "basis": null,
    "basis_pct": null,
@@ -68,7 +68,7 @@
    "category": "贵金属",
    "market": "国际",
    "kind": "spot",
-   "spot": 1333.0,
+   "spot": 1334.0,
    "future": null,
    "basis": null,
    "basis_pct": null,
@@ -1227,11 +1227,11 @@
    "market": "国际",
    "kind": "future",
    "spot": null,
-   "future": 89.7,
+   "future": 89.62,
    "basis": null,
    "basis_pct": null,
-   "change": -0.82,
-   "change_pct": -0.91,
+   "change": -0.9,
+   "change_pct": -0.99,
    "trend": "down",
    "source": "oilprice.com(期货)",
    "note": "期货价格(延迟)"
@@ -1263,11 +1263,11 @@
    "market": "国际",
    "kind": "future",
    "spot": null,
-   "future": 3.024,
+   "future": 3.027,
    "basis": null,
    "basis_pct": null,
-   "change": 0.059,
-   "change_pct": 1.99,
+   "change": 0.062,
+   "change_pct": 2.09,
    "trend": "up",
    "source": "oilprice.com(期货)",
    "note": "期货价格(延迟)"
@@ -1281,11 +1281,11 @@
    "market": "国际",
    "kind": "future",
    "spot": null,
-   "future": 3.4639,
+   "future": 3.464,
    "basis": null,
    "basis_pct": null,
    "change": -0.024,
-   "change_pct": -0.68,
+   "change_pct": -0.67,
    "trend": "down",
    "source": "oilprice.com(期货)",
    "note": "期货价格(延迟)"
@@ -1299,11 +1299,11 @@
    "market": "国际",
    "kind": "future",
    "spot": null,
-   "future": 4.8534,
+   "future": 4.8525,
    "basis": null,
    "basis_pct": null,
-   "change": -0.089,
-   "change_pct": -1.79,
+   "change": -0.09,
+   "change_pct": -1.81,
    "trend": "down",
    "source": "oilprice.com(期货)",
    "note": "期货价格(延迟)"
@@ -4883,8 +4883,8 @@
    "today_open": 5808.0,
    "prev_close": 5808.0,
    "gap_pct": 0.0,
-   "session": "night",
-   "has_night": true,
+   "session": "day",
+   "has_night": false,
    "direction": 1,
    "label": "做多",
    "strength": 1,
@@ -4927,7 +4927,7 @@
     "hit_rate": 0.183,
     "tested": 60
    },
-   "reason": "锰硅今开5808 vs 昨结5808，+0.00%偏强看多（含夜盘：夜盘开盘5808 vs 昨结5808）；打板分24(一般/观望)：涨0.48%/收高68%/放量0.53x/连涨0日；预测次日开盘≈5837.26，区间[5825.19, 5849.33]"
+   "reason": "锰硅今开5808 vs 昨结5808，+0.00%偏强看多；打板分24(一般/观望)：涨0.48%/收高68%/放量0.53x/连涨0日；预测次日开盘≈5837.26，区间[5825.19, 5849.33]"
   },
   {
    "symbol": "nf_LU0",
@@ -5153,8 +5153,8 @@
    "today_open": 3441.0,
    "prev_close": 3505.0,
    "gap_pct": -1.83,
-   "session": "night",
-   "has_night": true,
+   "session": "day",
+   "has_night": false,
    "direction": -1,
    "label": "做空",
    "strength": 3,
@@ -5197,7 +5197,7 @@
     "hit_rate": 0.217,
     "tested": 60
    },
-   "reason": "甲醇今开3441 vs 昨结3505，-1.83%偏弱看空（含夜盘：夜盘开盘3441 vs 昨结3505）；打板分19(一般/观望)：涨-2.00%/收高35%/放量0.59x/连涨2日；预测次日开盘≈3399.81，区间[3380.29, 3419.33]"
+   "reason": "甲醇今开3441 vs 昨结3505，-1.83%偏弱看空；打板分19(一般/观望)：涨-2.00%/收高35%/放量0.59x/连涨2日；预测次日开盘≈3399.81，区间[3380.29, 3419.33]"
   },
   {
    "symbol": "nf_HC0",
@@ -5963,8 +5963,8 @@
    "today_open": 6030.0,
    "prev_close": 5990.0,
    "gap_pct": 0.67,
-   "session": "night",
-   "has_night": true,
+   "session": "day",
+   "has_night": false,
    "direction": 0,
    "label": "观望",
    "strength": 0,
@@ -6007,7 +6007,7 @@
     "hit_rate": 0.167,
     "tested": 60
    },
-   "reason": "硅铁今开6030 vs 昨结5990，+0.67%观望（含夜盘：夜盘开盘6030 vs 昨结5990）；打板分6(一般/观望)：涨0.07%/收高24%/放量0.34x/连涨0日；预测次日开盘≈6017.14，区间[5994.31, 6039.98]"
+   "reason": "硅铁今开6030 vs 昨结5990，+0.67%观望；打板分6(一般/观望)：涨0.07%/收高24%/放量0.34x/连涨0日；预测次日开盘≈6017.14，区间[5994.31, 6039.98]"
   },
   {
    "symbol": "nf_SH0",
