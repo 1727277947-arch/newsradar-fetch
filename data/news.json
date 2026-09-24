@@ -1,5 +1,32 @@
 [
  {
+  "title": "运费飙升使日本原油进口成为全球最贵",
+  "url": "",
+  "summary": "石油在到达炼油厂之前就变得越来越贵。目前，运费约占原油货物成本的五分之一，使油轮市场成为买家支付价格的主要驱动力。处于挤压中心的是超大型原油运输船，即 VLCC，超级油轮。",
+  "pub_time": "2026-09-24T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "8c2b345efc32d59947e29a6d71bbc47e",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "进口"
+  ],
+  "en_title": "Soaring Freight Costs Make Japan’s Crude Imports the World’s Most Expensive"
+ },
+ {
   "title": "为什么美国柴油出口禁令不会降低燃油价格",
   "url": "",
   "summary": "随着全国平均柴油价格飙升至创纪录的每加仑 6.52 美元，特朗普政府本周发出了关于限制美国柴油出口的复杂信号。白宫否认正在制定出口禁令，即使唐纳德·特朗普总统和财政部长斯科特·贝森特已同意实施出口禁令。",
@@ -682,34 +709,6 @@
    "原油"
   ],
   "en_title": "Saudi Arabia Sells 100 Million Barrels of Crude to Asia via Hormuz"
- },
- {
-  "title": "霍尔木兹海峡僵局持续，欧洲天然气价格上涨",
-  "url": "",
-  "summary": "周四在阿姆斯特丹开盘时，欧洲基准天然气价格上涨了 4%，因为美国和伊朗在如何结束战争和结束霍尔木兹海峡液化天然气运输受阻问题上仍存在分歧。开盘飙升 4% 后，荷兰产权转让机构的近月价格",
-  "pub_time": "2026-09-24T12:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "e24ea74bca2a72c9fb9d7f01ba055dbd",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气",
-   "价",
-   "跳涨"
-  ],
-  "en_title": "Europe’s Gas Prices Jump as Hormuz Standoff Drags On"
  },
  {
   "title": "力拓将金属贸易扩大到自身产量之外",
@@ -1477,13 +1476,13 @@
   "en_title": "Daily Market Wire 24 September 2026"
  },
  {
-  "title": "瑞达期货：铁矿石短线行情陷入区间整理",
-  "url": "https://news.mysteel.com/a/26092409/D38327A3362BAD86.html",
+  "title": "瑞达期货：焦煤主力2701合约震荡运行",
+  "url": "https://news.mysteel.com/a/26092409/27DA9D484F6079B7.html",
   "summary": "",
   "pub_time": "2026-09-24T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "729f3da340ad40b41481d1c9a1e5ce66",
+  "dedup_key": "764bd8afeea439bfcadbc0668aa8cda8",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1496,13 +1495,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：焦煤主力2701合约震荡运行",
-  "url": "https://news.mysteel.com/a/26092409/27DA9D484F6079B7.html",
+  "title": "瑞达期货：铁矿石短线行情陷入区间整理",
+  "url": "https://news.mysteel.com/a/26092409/D38327A3362BAD86.html",
   "summary": "",
   "pub_time": "2026-09-24T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "764bd8afeea439bfcadbc0668aa8cda8",
+  "dedup_key": "729f3da340ad40b41481d1c9a1e5ce66",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
