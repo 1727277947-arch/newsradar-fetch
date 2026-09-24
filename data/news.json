@@ -1,5 +1,88 @@
 [
  {
+  "title": "Tungsten West 与 Elmet 签署价值 18 亿美元的 Hemerdon 矿承购协议",
+  "url": "",
+  "summary": "该矿在第一次世界大战和第二次世界大战期间为军事和国防工作提供了至关重要的钨。",
+  "pub_time": "2026-09-23T23:43:58Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "e90a2c6e8d2f91f9e93f4c9d9ccbbaba",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "伦敦金属交易所"
+  ],
+  "en_title": "Tungsten West, Elmet ink $1.8 billion offtake deal for Hemerdon mine"
+ },
+ {
+  "title": "Mysteel早读：央行加码流动性投放",
+  "url": "https://news.mysteel.com/a/26092407/D845AA38F3A6FA41.html",
+  "summary": "",
+  "pub_time": "2026-09-23T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "5a77c875b5f89008a13c533dffbba07f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/金融政策",
+  "tags": [
+   "金融政策",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "油价涨、美债跌！美联储10月加息概率逼近七成",
+  "url": "https://news.mysteel.com/a/26092407/21129550E35AE116.html",
+  "summary": "",
+  "pub_time": "2026-09-23T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "3e5e16dfba0a857b7d3b4e8c0e412f59",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel早读：央行加码流动性投放，安泽低硫主焦降104元/吨",
+  "url": "https://news.mysteel.com/a/26092407/E43005C3EE1BA578.html",
+  "summary": "",
+  "pub_time": "2026-09-23T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "3df50976b909925e7c76484734d153a5",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/金融政策",
+  "tags": [
+   "金融政策",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "Beaver Creek：采矿业的下一代掌舵",
   "url": "",
   "summary": "随着经验丰富的创始人和交易撮合者开始退出，矿业正在进入代际交接，留下一批年轻的高管来证明他们可以通过改变商品来建立持久的公司……《海狸溪：矿业的下一代掌舵》一文首先出现在《The North》上",
@@ -392,6 +475,139 @@
   "en_title": "Higher Santa Cruz capital costs weigh on Ivanhoe Electric"
  },
  {
+  "title": "CBOT豆粕大多期约下跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/24/0140897477.shtml",
+  "summary": "",
+  "pub_time": "2026-09-23T16:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "23531f1d7017f0f297f5622f14b36da4",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT玉米下跌，基准期约收低1.5%",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/24/0258121360.shtml",
+  "summary": "",
+  "pub_time": "2026-09-23T16:00:00Z",
+  "source": "粮油玉米",
+  "_cn": true,
+  "dedup_key": "37462ac58f717135ea86ac33fd70b594",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油玉米"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT大豆下跌，市场静候中美峰会",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/24/0102213882.shtml",
+  "summary": "",
+  "pub_time": "2026-09-23T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "290ea2e88a53806f9dc3c2fcf75743d7",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT小麦下跌，因黑海局势或缓和",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/24/0340463857.shtml",
+  "summary": "",
+  "pub_time": "2026-09-23T16:00:00Z",
+  "source": "粮油小麦",
+  "_cn": true,
+  "dedup_key": "b2b5ce0ec999b4c4cafa1b51fbf34227",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油小麦"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "ICE油菜籽小幅上涨，追随原油涨势",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/24/0451370737.shtml",
+  "summary": "",
+  "pub_time": "2026-09-23T16:00:00Z",
+  "source": "粮油菜籽",
+  "_cn": true,
+  "dedup_key": "8e474001e97c3b49c7baf58ec95de656",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "马来西亚棕榈油日评：因担忧库存高企，棕榈油价格跌至七周低点",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/24/0551592690.shtml",
+  "summary": "",
+  "pub_time": "2026-09-23T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "2adeb7e41edf26aa095075d2a0763669",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT豆油下跌，基准期约收低0.2%",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/24/0219293561.shtml",
+  "summary": "",
+  "pub_time": "2026-09-23T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "5850d466524520f3cd325588d65ace47",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "NexGold 在安大略省 Goldlund 达到 14 克",
   "url": "",
   "summary": "Goldlund 是该公司规模更大的 Goliath 黄金综合体的一部分，产能为 90,000 盎司。每年黄金。",
@@ -682,31 +898,6 @@
   "en_title": "TotalEnergies to Develop Offshore Gas Field to Boost Nigeria LNG Supply"
  },
  {
-  "title": "霍尔木兹交通量比 10 天平均水平低 80%",
-  "url": "",
-  "summary": "周三，Kpler 的初步油轮跟踪数据显示，过去一天只有三艘商品船通过霍尔木兹海峡，石油市场正在权衡美伊重启谈判的可能性与中东局势的持续混乱。这三艘商船分别位于",
-  "pub_time": "2026-09-23T12:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "6c0011f67a4ceaa5aee0fa7a0b1b8e77",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Hormuz Traffic Running 80% Below Its 10-Day Average"
- },
- {
   "title": "嘉能可通过 5 亿美元 EXIM 融资帮助建立美国矿物库存",
   "url": "",
   "summary": "这家矿业公司和大宗商品贸易商将为美国库存采购和交付材料，旨在保护制造商免受短缺之苦。",
@@ -837,27 +1028,8 @@
   "en_title": "Oil Holds Steady After Recent Losses"
  },
  {
-  "title": "Mysteel晚餐：唐山钢坯亏损扩大",
-  "url": "https://news.mysteel.com/a/26092317/7CBB957242F2FB16.html",
-  "summary": "",
-  "pub_time": "2026-09-23T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "5456f00e8e213cd5111e17f55ef4a45a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel晚餐：唐山钢坯亏损扩大，本期中国钢材出口发运增长",
-  "url": "https://news.mysteel.com/a/26092317/A68A3DCA9FD70C32.html",
+  "url": "https://news.mysteel.com/a/26092317/76595878B2D264B7.html",
   "summary": "",
   "pub_time": "2026-09-23T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -876,7 +1048,7 @@
  },
  {
   "title": "关键矿产日报：淡水河谷拟入股Ligga，印尼IMIP确认镍冶炼厂减产",
-  "url": "https://news.mysteel.com/a/26092317/0B756D1D1D0117ED.html",
+  "url": "https://news.mysteel.com/a/26092317/9BE0492FA36A59C9.html",
   "summary": "",
   "pub_time": "2026-09-23T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -951,25 +1123,6 @@
   "is_elite": false
  },
  {
-  "title": "有色持仓日报：沪铜飘绿，中信期货减持4.2千手多单",
-  "url": "https://news.mysteel.com/a/26092316/88CC3D69F4EB0A6F.html",
-  "summary": "",
-  "pub_time": "2026-09-23T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "931722343357b3840bd0f075607dddbe",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "黑色持仓日报：期螺飘绿，银河期货减持超1.2万手多单",
   "url": "https://news.mysteel.com/a/26092316/EEB05424AC65A5C8.html",
   "summary": "",
@@ -1001,6 +1154,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "有色持仓日报：沪铜飘绿，中信期货减持4.2千手多单",
+  "url": "https://news.mysteel.com/a/26092316/3AFCD7E0BC61D214.html",
+  "summary": "",
+  "pub_time": "2026-09-23T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "931722343357b3840bd0f075607dddbe",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -1775,31 +1947,6 @@
   "en_title": "Oil Prices Drop For 5th Straight Day"
  },
  {
-  "title": "专家：矿业公司在危险地区建立“迷你军队”",
-  "url": "",
-  "summary": "随着整个西非政府权威的削弱，矿业公司依靠私人保安来维持运营。",
-  "pub_time": "2026-09-22T19:00:17Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "6ac72e56d8c69ab3a1a38ce5f8e90007",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Mining companies built ‘mini armies’ in risky regions: expert"
- },
- {
   "title": "随着美元因加息押注而上涨，金价延续弱势",
   "url": "",
   "summary": "(RTTNews) - 周二金价下跌，延续了近期的疲软势头，因多位美联储官员表示美联储将在更长时间内维持较高利率，美元走强。",
@@ -2088,25 +2235,6 @@
   "is_elite": false
  },
  {
-  "title": "CBOT大豆略微下跌，交易商静候中美峰会",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/23/5740306188.shtml",
-  "summary": "",
-  "pub_time": "2026-09-22T16:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "698ef00dc310e17487ff91beb73c6704",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
   "title": "美国小麦下跌，因交易商评估黑海出口前景",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/23/2006284735.shtml",
   "summary": "",
@@ -2160,6 +2288,25 @@
    "中文",
    "国内",
    "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT大豆略微下跌，交易商静候中美峰会",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/23/5740306188.shtml",
+  "summary": "",
+  "pub_time": "2026-09-22T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "76fcd64f23e0a4be1c1c619ab1553140",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
   ],
   "is_elite": false
  },
@@ -2392,44 +2539,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年9月23日郑州菜油期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/23/0234113281.shtml",
-  "summary": "",
-  "pub_time": "2026-09-22T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "cb1fb9d0a27426844cce7dd51000809d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月23日大连豆油期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/23/0127713923.shtml",
-  "summary": "",
-  "pub_time": "2026-09-22T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "662bc073d37c67c094dff5423b1f9efb",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "马来西亚棕榈油日评：棕榈油连续第四日下跌",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/23/0148684497.shtml",
   "summary": "",
@@ -2442,6 +2551,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月23日郑州菜油期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/23/0234113281.shtml",
+  "summary": "",
+  "pub_time": "2026-09-22T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "cb1fb9d0a27426844cce7dd51000809d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "粮油首页"
@@ -2677,13 +2805,13 @@
   "is_elite": false
  },
  {
-  "title": "CBOT豆油追随原油下跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/23/5841498315.shtml",
+  "title": "2026年9月23日大连豆油期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/23/0127713923.shtml",
   "summary": "",
   "pub_time": "2026-09-22T16:00:00Z",
   "source": "粮油首页",
   "_cn": true,
-  "dedup_key": "ef979eb2cbca9235191b26e089eba7c2",
+  "dedup_key": "662bc073d37c67c094dff5423b1f9efb",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -2749,25 +2877,6 @@
   "en_title": "Oil Prices Edge Lower In Volatile Trade"
  },
  {
-  "title": "Mysteel晚餐：74家钢企上榜中国民企500强，澳巴铁矿港库增加",
-  "url": "https://news.mysteel.com/a/26092217/42C6B92AD1D87FDD.html",
-  "summary": "",
-  "pub_time": "2026-09-22T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "9b45fc36b379f6b078e0f5204651ba4a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "每日钢市：3家钢厂涨价，成交下滑，钢价反弹力度或有限",
   "url": "https://news.mysteel.com/a/26092217/1FE36B49034924BC.html",
   "summary": "",
@@ -2787,18 +2896,18 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel日报：黑色金属期货震荡下跌运行",
-  "url": "https://news.mysteel.com/a/26092217/034C8ECD922E583A.html",
+  "title": "Mysteel晚餐：74家钢企上榜中国民企500强，澳巴铁矿港库增加",
+  "url": "https://news.mysteel.com/a/26092217/D4C29918C2AFA377.html",
   "summary": "",
   "pub_time": "2026-09-22T09:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "35e731dc1bfbf7b43450d8d00de0dc41",
+  "dedup_key": "9b45fc36b379f6b078e0f5204651ba4a",
   "score": 80,
   "priority": "P1",
-  "topic": "国内/大宗商品",
+  "topic": "国内/财经",
   "tags": [
-   "大宗商品",
+   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -2806,13 +2915,13 @@
   "is_elite": false
  },
  {
-  "title": "国际油价跳水：WTI原油跌超2%，布油跌超1%",
-  "url": "https://news.mysteel.com/a/26092216/7CC88F5CA3CA3AED.html",
+  "title": "Mysteel日报：黑色金属期货震荡下跌运行",
+  "url": "https://news.mysteel.com/a/26092217/034C8ECD922E583A.html",
   "summary": "",
-  "pub_time": "2026-09-22T08:00:00Z",
+  "pub_time": "2026-09-22T09:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "287daa0ab9774003acdbae3067559710",
+  "dedup_key": "35e731dc1bfbf7b43450d8d00de0dc41",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -3013,51 +3122,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "大晓机器人进入中石油便利店，首个机器人履约项目试运营",
-  "url": "https://news.mysteel.com/a/26092208/1D2A3905F399D0DB.html",
-  "summary": "",
-  "pub_time": "2026-09-22T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "e34858cdc680e5ae53ebcfc3d909c9b2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "巴基斯坦转向进口国以满足国内小麦短缺",
-  "url": "",
-  "summary": "巴基斯坦已招标进口最多 75 万吨小麦，预计将进一步进口 18.5 万吨，因为未能吸引农民在收获时出售小麦以支撑国内库存。",
-  "pub_time": "2026-09-21T23:41:40Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "771c66ae1fa0d37a5cfc5017176f1c18",
-  "score": 84,
-  "priority": "P1",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "小麦",
-   "下跌"
-  ],
-  "en_title": "Pakistan turns importer to satisfy domestic wheat shortfall"
  }
 ]

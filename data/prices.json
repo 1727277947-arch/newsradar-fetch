@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-24T06:57:59",
+ "updated_at": "2026-09-24T08:14:26",
  "spot_meta": {
   "policy": "stale_never_fill",
   "spot_page_used": "2026-09-23",
@@ -14,7 +14,7 @@
    "category": "贵金属",
    "market": "国际",
    "kind": "spot",
-   "spot": 4289.5,
+   "spot": 4290.5,
    "future": null,
    "basis": null,
    "basis_pct": null,
@@ -32,7 +32,7 @@
    "category": "贵金属",
    "market": "国际",
    "kind": "spot",
-   "spot": 64.59,
+   "spot": 64.359,
    "future": null,
    "basis": null,
    "basis_pct": null,
@@ -50,7 +50,7 @@
    "category": "贵金属",
    "market": "国际",
    "kind": "spot",
-   "spot": 1760.0,
+   "spot": 1756.0,
    "future": null,
    "basis": null,
    "basis_pct": null,
@@ -68,7 +68,7 @@
    "category": "贵金属",
    "market": "国际",
    "kind": "spot",
-   "spot": 1290.0,
+   "spot": 1286.0,
    "future": null,
    "basis": null,
    "basis_pct": null,
@@ -182,7 +182,7 @@
    "category": "基本金属",
    "market": "国际",
    "kind": "spot",
-   "spot": 6.6791,
+   "spot": 6.6785,
    "future": null,
    "basis": null,
    "basis_pct": null,
@@ -1227,12 +1227,12 @@
    "market": "国际",
    "kind": "future",
    "spot": null,
-   "future": 92.41,
+   "future": 92.12,
    "basis": null,
    "basis_pct": null,
-   "change": 0.25,
-   "change_pct": 0.27,
-   "trend": "up",
+   "change": -0.04,
+   "change_pct": -0.04,
+   "trend": "down",
    "source": "oilprice.com(期货)",
    "note": "期货价格(延迟)"
   },
@@ -1281,11 +1281,11 @@
    "market": "国际",
    "kind": "future",
    "spot": null,
-   "future": 3.5987,
+   "future": 3.5974,
    "basis": null,
    "basis_pct": null,
-   "change": 0.012,
-   "change_pct": 0.33,
+   "change": 0.01,
+   "change_pct": 0.29,
    "trend": "up",
    "source": "oilprice.com(期货)",
    "note": "期货价格(延迟)"
@@ -1299,11 +1299,11 @@
    "market": "国际",
    "kind": "future",
    "spot": null,
-   "future": 4.8321,
+   "future": 4.7764,
    "basis": null,
    "basis_pct": null,
-   "change": 0.056,
-   "change_pct": 1.17,
+   "change": 0.01,
+   "change_pct": 0.3,
    "trend": "up",
    "source": "oilprice.com(期货)",
    "note": "期货价格(延迟)"
@@ -4775,8 +4775,8 @@
    "today_open": 3388.0,
    "prev_close": 3349.0,
    "gap_pct": 1.16,
-   "session": "night",
-   "has_night": true,
+   "session": "day",
+   "has_night": false,
    "direction": 1,
    "label": "做多",
    "strength": 3,
@@ -4819,7 +4819,7 @@
     "hit_rate": 0.233,
     "tested": 60
    },
-   "reason": "甲醇今开3388 vs 昨结3349，+1.16%偏强看多（含夜盘：夜盘开盘3388 vs 昨结3349）；打板分23(一般/观望)：涨1.67%/收高53%/放量0.69x/连涨0日；预测次日开盘≈3431.13，区间[3411.6, 3450.66]"
+   "reason": "甲醇今开3388 vs 昨结3349，+1.16%偏强看多；打板分23(一般/观望)：涨1.67%/收高53%/放量0.69x/连涨0日；预测次日开盘≈3431.13，区间[3411.6, 3450.66]"
   },
   {
    "symbol": "nf_I0",
@@ -5045,8 +5045,8 @@
    "today_open": 5852.0,
    "prev_close": 5836.0,
    "gap_pct": 0.27,
-   "session": "night",
-   "has_night": true,
+   "session": "day",
+   "has_night": false,
    "direction": 1,
    "label": "做多",
    "strength": 1,
@@ -5089,7 +5089,7 @@
     "hit_rate": 0.2,
     "tested": 60
    },
-   "reason": "锰硅今开5852 vs 昨结5836，+0.27%偏强看多（含夜盘：夜盘开盘5852 vs 昨结5836）；打板分15(一般/观望)：涨0.27%/收高24%/放量0.76x/连涨1日；预测次日开盘≈5863.41，区间[5851.33, 5875.49]"
+   "reason": "锰硅今开5852 vs 昨结5836，+0.27%偏强看多；打板分15(一般/观望)：涨0.27%/收高24%/放量0.76x/连涨1日；预测次日开盘≈5863.41，区间[5851.33, 5875.49]"
   },
   {
    "symbol": "nf_Y0",
@@ -5315,8 +5315,8 @@
    "today_open": 6000.0,
    "prev_close": 5994.0,
    "gap_pct": 0.1,
-   "session": "night",
-   "has_night": true,
+   "session": "day",
+   "has_night": false,
    "direction": 0,
    "label": "观望",
    "strength": 0,
@@ -5359,7 +5359,7 @@
     "hit_rate": 0.167,
     "tested": 60
    },
-   "reason": "硅铁今开6000 vs 昨结5994，+0.10%观望（含夜盘：夜盘开盘6000 vs 昨结5994）；打板分10(一般/观望)：涨-0.03%/收高39%/放量0.45x/连涨0日；预测次日开盘≈5995.52，区间[5972.99, 6018.05]"
+   "reason": "硅铁今开6000 vs 昨结5994，+0.10%观望；打板分10(一般/观望)：涨-0.03%/收高39%/放量0.45x/连涨0日；预测次日开盘≈5995.52，区间[5972.99, 6018.05]"
   },
   {
    "symbol": "nf_CS0",
