@@ -1,5 +1,315 @@
 [
  {
+  "title": "一个“保养”做了177天 西南油气田天然气净化总厂年度大修收官",
+  "url": "https://www.chinanews.com.cn/cj/2026/09-24/10703399.shtml",
+  "summary": "题：一个“保养”做了177天 西南油气田天然气净化总厂年度大修收官",
+  "pub_time": "2026-09-24T14:22:38Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "1df1a4575aaeef7f335dcd6035b19c64",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "韩国效仿日本，押注 223 亿美元德克萨斯州天然气",
+  "url": "",
+  "summary": "十个月后，在一次关税威胁和几个“不眠之夜”之后，韩国终于找到了地方，将其承诺的 3500 亿美元投资的第一笔资金投入美国。获胜者是德克萨斯州恩西纳尔市的一个燃气发电综合体（人口 540 人，那里的房地产即将暴涨）",
+  "pub_time": "2026-09-24T14:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "f13531b59b9035647e7460cb59eb4799",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气"
+  ],
+  "en_title": "South Korea Follows Japan's Playbook With $22.3 Billion Texas Gas Bet"
+ },
+ {
+  "title": "金罗斯黄金公司削减产量，提高股东派息",
+  "url": "",
+  "summary": "由于智利的天气问题和内华达州的表现疲软，Kinross 将 2026-2027 年的产量预期下调了 8%。",
+  "pub_time": "2026-09-24T13:52:59Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "1a9a303678cbe1e933da58f2407c9bb0",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "产量"
+  ],
+  "en_title": "Kinross Gold cuts output, boosts shareholder payout"
+ },
+ {
+  "title": "金罗斯黄金公司削减产量，提高股东派息",
+  "url": "",
+  "summary": "由于 La Coipa 的天气和冶金问题，Kinross Gold（多伦多证券交易所股票代码：K；纽约证券交易所股票代码：KGC）已将 2026 年和 2027 年的产量预期较之前的指导中点下调约 8%。《The Northern Miner》首先报道了 Kinross Gold 减产、提高股东派息的消息。",
+  "pub_time": "2026-09-24T13:44:20Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "dc55676f4d2cebf5060356f14a2521f3",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "产量"
+  ],
+  "en_title": "Kinross Gold cuts output, boosts shareholder payout"
+ },
+ {
+  "title": "沙特阿拉伯通过霍尔木兹海峡向亚洲出售1亿桶原油",
+  "url": "",
+  "summary": "自上周中旬以来，沙特阿拉伯已通过霍尔木兹海峡向亚洲买家出售了近1亿桶原油，当时该国转向红海的东西方管道，转向其希望避免的阻塞点。随着管道停止服务，沙特已售出1亿桶石油",
+  "pub_time": "2026-09-24T13:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "0d1acf1835c078660adab7631a7155e2",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Saudi Arabia Sells 100 Million Barrels of Crude to Asia via Hormuz"
+ },
+ {
+  "title": "霍尔木兹海峡僵局持续，欧洲天然气价格上涨",
+  "url": "",
+  "summary": "周四在阿姆斯特丹开盘时，欧洲基准天然气价格上涨了 4%，因为美国和伊朗在如何结束战争和结束霍尔木兹海峡液化天然气运输受阻问题上仍存在分歧。开盘飙升 4% 后，荷兰产权转让机构的近月价格",
+  "pub_time": "2026-09-24T12:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "e24ea74bca2a72c9fb9d7f01ba055dbd",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气",
+   "价",
+   "跳涨"
+  ],
+  "en_title": "Europe’s Gas Prices Jump as Hormuz Standoff Drags On"
+ },
+ {
+  "title": "力拓将金属贸易扩大到自身产量之外",
+  "url": "",
+  "summary": "矿业巨头瞄准了第三方交易和衍生品，其首席执行官西蒙·特洛特(Simon Trott)希望从其全球资产基础中寻求更多价值。",
+  "pub_time": "2026-09-24T11:46:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "3b084c8602b7f62a2232715b83df8a66",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡",
+   "金属",
+   "产量"
+  ],
+  "en_title": "Rio Tinto to expand metals trading beyond own output"
+ },
+ {
+  "title": "周三只有一艘商品船离开霍尔木兹海峡",
+  "url": "",
+  "summary": "由于美国和伊朗在如何结束战争方面仍存在分歧，周三观察到进出霍尔木兹海峡的商品船数量仍然很低，低于 10 日移动平均线。周三，只有十艘商品船通过该海峡，其中包括",
+  "pub_time": "2026-09-24T11:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "综合",
+  "dedup_key": "cfa653f6a93ecd9ffeb33cb3a8a4cdf5",
+  "score": 84,
+  "priority": "P2",
+  "topic": "综合",
+  "tags": [
+   "综合",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "综合"
+  ],
+  "en_title": "Just One Commodity Vessel Left the Strait of Hormuz on Wednesday"
+ },
+ {
+  "title": "嘉能可 (Glencore) 定于 10 月 14 日在澳大利亚上市",
+  "url": "",
+  "summary": "其目标是利用澳大利亚 4.4 万亿澳元的养老金市场进行铜矿扩张和收购。",
+  "pub_time": "2026-09-24T10:49:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "97f7eb3909cde6118e0a07d4f50ca925",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Glencore sets Oct. 14 date for Australian market debut"
+ },
+ {
+  "title": "美元走强、收益率上升，金价下跌",
+  "url": "",
+  "summary": "(RTTNews) - 油价隔夜大幅上涨后，周四金价交投于每盎司 4,300 美元下方，美债收益率跃升至近二十年来的最高水平，主要源于长期西甲期间全球能源价格飙升引发的通胀担忧。",
+  "pub_time": "2026-09-24T10:10:02Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "88df6094d03fc7c50c754cde51edfb60",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Gold Dips On Stronger Dollar, Rising Yields"
+ },
+ {
+  "title": "美国将提供 60 亿美元贷款支持阿根廷首个液化天然气出口项目",
+  "url": "",
+  "summary": "美国政府准备支持阿根廷的关键液化天然气项目，向阿根廷能源集团 YPF 与意大利埃尼集团和阿联酋能源公司 XRG 合作牵头的项目提供高达 60 亿美元的贷款。作为新启动的安第斯山脉-大西洋走廊的一部分，这是美国和阿根廷联合发起的一项倡议，旨在",
+  "pub_time": "2026-09-24T10:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "14fd5aad0450717dadddc3c1a0564863",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡"
+  ],
+  "en_title": "U.S. to Back Argentina’s First LNG Export Project With $6 Billion Loan"
+ },
+ {
+  "title": "美伊紧张局势再度紧张，油价延续涨势",
+  "url": "",
+  "summary": "(RTTNews) - 周四油价大幅走高，延续前一交易日的涨幅，因投资者权衡沙特出口流量改善的前景与进一步供应中断的可能性。",
+  "pub_time": "2026-09-24T09:42:33Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "204d05961c35501121ad94b1806ecba9",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "走强"
+  ],
+  "en_title": "Oil Extends Gains On Renewed US-Iran Tensions"
+ },
+ {
   "title": "摩根士丹利：柴油出口禁令将推高美国天然气价格",
   "url": "",
   "summary": "摩根士丹利分析师表示，如果特朗普政府禁止柴油出口，美国汽油价格将进一步飙升，因为在美国柴油价格创历史新高的情况下，限制措施仍然是一个争论。 “如果美国炼油商",
@@ -27,13 +337,13 @@
   "en_title": "Morgan Stanley: Diesel Export Ban Would Push U.S. Gas Prices Higher"
  },
  {
-  "title": "福建三明：一粒稻种撬动70亿产业链，“中国稻种基地”加速迈向育种强市",
-  "url": "https://www.chinanews.com.cn/cj/2026/09-24/10703039.shtml",
-  "summary": "雷朝良)福建省杂交水稻制种产业发展联盟23日在“中国杂交水稻制种第一大县”建宁县正式启动。在当天举行的2026年三明市推进中国稻种基地高质量发展会议期间，华谷高科、湖南兴隆、中种集团等种业企业代表发布杂交水稻新品种，集中展示育种创新最新成果",
-  "pub_time": "2026-09-24T08:58:33Z",
-  "source": "中国新闻网-财经",
+  "title": "Mysteel晚餐：钢材总库存下降",
+  "url": "https://news.mysteel.com/a/26092417/9E55DE43094D521E.html",
+  "summary": "",
+  "pub_time": "2026-09-24T09:00:00Z",
+  "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "d288f940ffcc88577e5016b862e21d8d",
+  "dedup_key": "082095dd49df4a6a35b6e65010e271e2",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -41,7 +351,45 @@
    "财经",
    "中文",
    "国内",
-   "中国新闻网-财经"
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel晚餐：钢材总库存下降，云南钢厂调整规格组距价差",
+  "url": "https://news.mysteel.com/a/26092417/AC2F5D2DD8BC3ECC.html",
+  "summary": "",
+  "pub_time": "2026-09-24T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "fc0763906d85cdc720aa766a75355333",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "每日钢市：钢厂亏损减产，节前备货趋弱，钢价或涨跌有限",
+  "url": "https://news.mysteel.com/a/26092417/3DA067FAC08F9D59.html",
+  "summary": "",
+  "pub_time": "2026-09-24T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "9a5370a1e02938cbb7bbcca4faaad00f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
   ],
   "is_elite": false
  },
@@ -150,31 +498,12 @@
  },
  {
   "title": "布伦特原油期货重新站上100美元/桶",
-  "url": "https://news.mysteel.com/a/26092416/27EDCD379539DD95.html",
+  "url": "https://news.mysteel.com/a/26092416/C604BC36472D130E.html",
   "summary": "",
   "pub_time": "2026-09-24T08:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "318cb221890efd8cdaaa0eb2b789f77d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "有色持仓日报：沪铝飘绿，高盛期货减持4.7千手多单",
-  "url": "https://news.mysteel.com/a/26092416/0A6D834DBFAAB56E.html",
-  "summary": "",
-  "pub_time": "2026-09-24T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "4e24fcfe1ee414ca2e0792223ff4141f",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -213,6 +542,44 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "c51700f79b14a56874aad7444f96b27d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel日报：黑色金属期货震荡上涨运行",
+  "url": "https://news.mysteel.com/a/26092416/13F77C1CAA3EE89E.html",
+  "summary": "",
+  "pub_time": "2026-09-24T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "d89484a3a42740ff8b8ff0df79437318",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "有色持仓日报：沪铝飘绿，高盛期货减持4.7千手多单",
+  "url": "https://news.mysteel.com/a/26092416/0952416C5F4B02DE.html",
+  "summary": "",
+  "pub_time": "2026-09-24T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "4e24fcfe1ee414ca2e0792223ff4141f",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1166,32 +1533,6 @@
   "en_title": "Gold Falls Again As Dollar Rises On Rate Hike Bets"
  },
  {
-  "title": "帝国石油成为阿尔伯塔省第一家反对分裂主义的主要能源公司",
-  "url": "",
-  "summary": "据《金融邮报》援引彭博社报道，帝国石油公司首席执行官约翰·惠兰表示反对阿尔伯塔省分离主义，这使其成为该省第一家对该运动采取公开立场的大型能源公司。 “作为一家全国性公司，我们相信团结的加拿大才是最强大的",
-  "pub_time": "2026-09-23T17:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "f8d3ba6c26d48e659596bdca1b60fd3f",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "原油",
-   "能源"
-  ],
-  "en_title": "Imperial Oil Becomes First Major Alberta Energy Company to Oppose Separatism"
- },
- {
   "title": "美国谷物和生物产品委员会主办日本玉米产业之旅",
   "url": "",
   "summary": "",
@@ -1217,59 +1558,6 @@
    "谷物"
   ],
   "en_title": "U.S. Grains & BioProducts Council Hosts Japan Corn Industry Tour"
- },
- {
-  "title": "美国能源部长：禁止柴油出口的钝器不起作用",
-  "url": "",
-  "summary": "美国能源部长克里斯·赖特周三公开反对禁止美国柴油出口的呼吁，他认为该措施将导致汽油和航空燃油价格上涨，适得其反。赖特在纽约的一次活动中表示：“禁止柴油出口的生硬手段肯定行不通。”",
-  "pub_time": "2026-09-23T17:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "2e52beed7ad53d64007aad7672ec47b1",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "出口"
-  ],
-  "en_title": "U.S. Energy Secretary: Blunt Tool of Banning Diesel Exports Doesn't Work"
- },
- {
-  "title": "丹格特的肯尼亚炼油厂项目本周启动，价格高达 $20B",
-  "url": "",
-  "summary": "肯尼亚丹格特支持的拉穆东非炼油厂于9月30日破土动工，该项目肯尼亚官员耗资170亿美元，阿利科·丹格特本人耗资200亿美元，设计在拉穆深水港每天加工70万桶原油。它将服务于肯尼亚、乌干达、南",
-  "pub_time": "2026-09-23T16:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "ed5a50c23b4f79c36f00cfb9c3d69beb",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "炼厂",
-   "周"
-  ],
-  "en_title": "Dangote's Kenya Refinery Project Launches This Week at Up to $20B"
  },
  {
   "title": "圣克鲁斯资本成本上升给艾芬豪电气带来压力",
@@ -2102,31 +2390,6 @@
   "en_title": "NexGold hits 14g at Goldlund in Ontario"
  },
  {
-  "title": "Glencore 加入 Project Vault 并承诺提供 5 亿美元钴",
-  "url": "",
-  "summary": "据路透社周三报道，嘉能可 (Glencore) 向 VaultCo 承诺提供 5 亿美元，VaultCo 是一家进出口银行公私合作伙伴关系，为美国政府库存采购关键矿产。这一承诺使 Glencore 成为继 Hartree Partners、Mercuria Americas 和",
-  "pub_time": "2026-09-23T15:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "综合",
-  "dedup_key": "4d4b7df274c6ea3cf49870771917c57d",
-  "score": 84,
-  "priority": "P1",
-  "topic": "综合",
-  "tags": [
-   "综合",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "综合"
-  ],
-  "en_title": "Glencore Joins Project Vault With $500 Million Cobalt Commitment"
- },
- {
   "title": "Highlander 筹集了 3.3 亿美元的 Corani 白银项目债务",
   "url": "",
   "summary": "此次融资使 Highlander 距离资助 Corani 建设又近了一步，Corani 是秘鲁普诺地区完全获准的项目。",
@@ -2151,33 +2414,6 @@
    "白银"
   ],
   "en_title": "Highlander lines up $330M Corani silver project debt"
- },
- {
-  "title": "上海库存跌至三年低点，铜价消除关税抛售",
-  "url": "",
-  "summary": "铜价周二收盘略低于历史高点，连续六个交易日上涨，原因是中国买家在连续假期前补货，而上海和伦敦的仓库库存持续减少。伦敦金属交易所三个月期铜结算价为每公制 14,783 美元",
-  "pub_time": "2026-09-23T15:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "f3ecbf9c9a4b043b18bafe17a8047c75",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "库存"
-  ],
-  "en_title": "Copper Erases Tariff Selloff as Shanghai Stockpiles Hit Three-Year Low"
  },
  {
   "title": "Gold Fields 前首席执行官瞄准 10 亿美元非洲关键矿产基金",
@@ -2206,13 +2442,13 @@
   "en_title": "Ex-Gold Fields CEO targets $1B Africa critical minerals fund"
  },
  {
-  "title": "美国计划向阿根廷矿业和能源投资70亿美元",
+  "title": "美国、阿根廷推出“安第斯山脉-大西洋走廊”，并获得高达 70 亿美元的 EXIM 支持",
   "url": "",
-  "summary": "随着华盛顿寻求安全的矿产供应，拟议的美国进出口银行融资将帮助当地公司购买美国设备。",
+  "summary": "随着华盛顿寻求安全的矿产供应，融资计划旨在帮助当地公司购买美国设备。",
   "pub_time": "2026-09-23T14:17:37Z",
   "source": "Mining.com",
   "_cat": "基本金属",
-  "dedup_key": "431d033e71b2fb95f3e8abd780d8865e",
+  "dedup_key": "4033d4c3edf8106d52ebe63948ad964a",
   "score": 84,
   "priority": "P2",
   "topic": "基本金属",
@@ -2227,10 +2463,9 @@
   "is_elite": false,
   "keywords": [
    "基本金属",
-   "能源",
    "锡"
   ],
-  "en_title": "US eyes up to $7 billion for Argentina mining, energy"
+  "en_title": "US, Argentina launch ‘Andes-Atlantic Corridor” with up to $7B EXIM backing"
  },
  {
   "title": "Selkirk Copper 的 Minto 价值 4.94 亿美元，几乎是其建造成本的三倍",
@@ -2259,32 +2494,6 @@
   "en_title": "Selkirk Copper’s Minto posts $494M value, nearly triple its build costs"
  },
  {
-  "title": "嘉能可通过 5 亿美元 EXIM 融资帮助建立美国矿物库存",
-  "url": "",
-  "summary": "这家矿业公司和大宗商品贸易商将为美国库存采购和交付材料，旨在保护制造商免受短缺之苦。",
-  "pub_time": "2026-09-23T11:53:00Z",
-  "source": "Mining.com",
-  "_cat": "综合",
-  "dedup_key": "ce8744b390355f9859c8854e5d6572c0",
-  "score": 84,
-  "priority": "P1",
-  "topic": "综合",
-  "tags": [
-   "综合",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "综合",
-   "库存"
-  ],
-  "en_title": "Glencore to help build US minerals stockpile with $500M EXIM financing"
- },
- {
   "title": "播客：彭博资讯的格兰特表示，铜关税决定可能会引发放松",
   "url": "",
   "summary": "本周的节目由 Bloomberg Intelligence 金属和矿业全球主管 Grant Sporre 与主持人 Adrian Pocobelli 就铜市场进行对话。 Sporre 研究了驱动力......后播客：铜关税决定可能会引发放松，ft Bloomberg Intelligence 的 Gra",
@@ -2309,31 +2518,6 @@
    "铜"
   ],
   "en_title": "Podcast: Copper tariff decision could trigger unwind, ft Bloomberg Intelligence’s Grant Sporre"
- },
- {
-  "title": "Savannah 融资 3000 万美元推进 Barroso 锂项目",
-  "url": "",
-  "summary": "随着萨凡纳走向开发，新的资金将推动巴罗佐完成工程、许可和早期工作。",
-  "pub_time": "2026-09-23T10:47:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "876042cf1629cec3aced85918bfbe778",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Savannah raises $30M to advance Barroso lithium project"
  },
  {
   "title": "黄金因加息担忧而暴跌",
@@ -2598,44 +2782,6 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel午报：钢价涨跌互现，焦煤期货跌逾1%",
-  "url": "https://news.mysteel.com/a/26092311/A6E576E6F0D9AEA6.html",
-  "summary": "",
-  "pub_time": "2026-09-23T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "5e73cad9967cb898e881606441ddc296",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：全国电力现货市场正式运行地区将增至10个",
-  "url": "https://news.mysteel.com/a/26092311/B1CBC015C68981EC.html",
-  "summary": "",
-  "pub_time": "2026-09-23T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "1b24349e7cd881f0b145f9d5c6736608",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "螺纹钢期货下跌，节前钢价涨跌有限",
   "url": "https://news.mysteel.com/a/26092311/10C9719709CF57D1.html",
   "summary": "",
@@ -2879,59 +3025,6 @@
   "en_title": "Selkirk Copper’s Minto posts $494M value, nearly triple its build costs"
  },
  {
-  "title": "马里的挫折迫使Resolute下调Syama前景",
-  "url": "",
-  "summary": "Resolute Mining (ASX、LSE: RSG) 将其位于马里的 Syama 金矿 2026 年产量预期下调了约四分之一，原因是供应中断和采矿限制限制了...",
-  "pub_time": "2026-09-22T21:17:00Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "df6f122e50c7dad3ad8d0f5a47616b08",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "展望"
-  ],
-  "en_title": "Mali setbacks force Resolute to cut Syama outlook"
- },
- {
-  "title": "Military Metals获得新斯科舍省West Gore锑金项目勘探补助金",
-  "url": "",
-  "summary": "西戈尔是第一次世界大战期间重要的锑生产商，为盟军战争的历史生产做出了重大贡献。",
-  "pub_time": "2026-09-22T20:04:45Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "0565908ed1f99a6b63bc752933efcdf4",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "金属"
-  ],
-  "en_title": "Military Metals gets exploration grant for West Gore antimony-gold project in Nova Scotia"
- },
- {
   "title": "油价连续第五天下跌",
   "url": "",
   "summary": "(RTTNews) - 油价周二下跌，连续第五个交易日下跌，因希望结束美国和伊朗之间冲突的外交努力将导致霍尔木兹海峡早日重新开放。",
@@ -3058,25 +3151,6 @@
   "is_elite": false
  },
  {
-  "title": "9月23日进口大豆港口分销价持平",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/23/3322579818.shtml",
-  "summary": "",
-  "pub_time": "2026-09-22T16:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "747a8da4b18b190ae2da249a1fcb79f9",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
   "title": "9月23日进口油菜籽到国内港口CF报价",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/23/5152104000.shtml",
   "summary": "",
@@ -3111,6 +3185,25 @@
    "中文",
    "国内",
    "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "9月23日进口大豆港口分销价持平",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/23/3322579818.shtml",
+  "summary": "",
+  "pub_time": "2026-09-22T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "6bde60b84a3b21231705284db7a6ef0d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
   ],
   "is_elite": false
  },
@@ -3683,58 +3776,5 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "黄金因加息担忧而走低",
-  "url": "",
-  "summary": "(RTTNews) - 由于美联储进一步加息的预期，金价周二跌向每盎司 4,300 美元。",
-  "pub_time": "2026-09-22T09:39:07Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "af72cdfdf24b25b45eebc49526b9d0a2",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Gold Edges Lower On Rate Hike Fears"
- },
- {
-  "title": "贸易波动导致油价小幅走低",
-  "url": "",
-  "summary": "(RTTNews) - 由于希望通过外交努力结束美伊战争以及沙特石油出口复苏的迹象，周二油价在波动的交易中走低。",
-  "pub_time": "2026-09-22T09:23:57Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "28264c49d919e7705682dc73bad7a284",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价"
-  ],
-  "en_title": "Oil Prices Edge Lower In Volatile Trade"
  }
 ]
