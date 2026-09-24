@@ -1,5 +1,58 @@
 [
  {
+  "title": "CNIKF 股票挤满卖家",
+  "url": "",
+  "summary": "在周四的交易中，加拿大镍业公司（代码：CNIKF）的股票进入超卖区域，易手低至每股 0.9241 美元。我们使用相对强弱指数（RSI）来定义超卖区域，这是一种用于衡量超卖趋势的技术分析指标。",
+  "pub_time": "2026-09-24T20:07:22Z",
+  "source": "Nasdaq商品",
+  "_cat": "基本金属",
+  "dedup_key": "6da76a499e109956658d6fc97381498e",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "库存"
+  ],
+  "en_title": "CNIKF Stock Crowded With Sellers"
+ },
+ {
+  "title": "球库存变得非常超卖",
+  "url": "",
+  "summary": "在周四的交易中，鲍尔公司（股票代码：BALL）的股票进入超卖区域，换手价低至每股 56.57 美元。我们使用相对强弱指数 (RSI) 定义超卖区域，这是一种技术分析指标，用于衡量市场动量",
+  "pub_time": "2026-09-24T20:06:10Z",
+  "source": "Nasdaq商品",
+  "_cat": "基本金属",
+  "dedup_key": "05b83718374f97347dc165c9d2cfcf79",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡",
+   "库存"
+  ],
+  "en_title": "Ball Stock Getting Very Oversold"
+ },
+ {
   "title": "原油价格从高位回落，但仍大幅走高",
   "url": "",
   "summary": "(RTTNews) - 原油价格在盘初飙升后有所回落，但在周四交易期间仍大幅走高。",
@@ -736,32 +789,6 @@
   "en_title": "Gold Dips On Stronger Dollar, Rising Yields"
  },
  {
-  "title": "美国将提供 60 亿美元贷款支持阿根廷首个液化天然气出口项目",
-  "url": "",
-  "summary": "美国政府准备支持阿根廷的关键液化天然气项目，向阿根廷能源集团 YPF 与意大利埃尼集团和阿联酋能源公司 XRG 合作牵头的项目提供高达 60 亿美元的贷款。作为新启动的安第斯山脉-大西洋走廊的一部分，这是美国和阿根廷联合发起的一项倡议，旨在",
-  "pub_time": "2026-09-24T10:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "14fd5aad0450717dadddc3c1a0564863",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡"
-  ],
-  "en_title": "U.S. to Back Argentina’s First LNG Export Project With $6 Billion Loan"
- },
- {
   "title": "美伊紧张局势再度紧张，油价延续涨势",
   "url": "",
   "summary": "(RTTNews) - 周四油价大幅走高，延续前一交易日的涨幅，因投资者权衡沙特出口流量改善的前景与进一步供应中断的可能性。",
@@ -787,33 +814,6 @@
    "走强"
   ],
   "en_title": "Oil Extends Gains On Renewed US-Iran Tensions"
- },
- {
-  "title": "摩根士丹利：柴油出口禁令将推高美国天然气价格",
-  "url": "",
-  "summary": "摩根士丹利分析师表示，如果特朗普政府禁止柴油出口，美国汽油价格将进一步飙升，因为在美国柴油价格创历史新高的情况下，限制措施仍然是一个争论。 “如果美国炼油商",
-  "pub_time": "2026-09-24T09:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "a476bbda5eb90cd99ca31d718c386468",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气",
-   "价"
-  ],
-  "en_title": "Morgan Stanley: Diesel Export Ban Would Push U.S. Gas Prices Higher"
  },
  {
   "title": "Mysteel晚餐：钢材总库存下降",
