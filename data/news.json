@@ -1,5 +1,51 @@
 [
  {
+  "title": "摩根士丹利：柴油出口禁令将推高美国天然气价格",
+  "url": "",
+  "summary": "摩根士丹利分析师表示，如果特朗普政府禁止柴油出口，美国汽油价格将进一步飙升，因为在美国柴油价格创历史新高的情况下，限制措施仍然是一个争论。 “如果美国炼油商",
+  "pub_time": "2026-09-24T09:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "a476bbda5eb90cd99ca31d718c386468",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气",
+   "价"
+  ],
+  "en_title": "Morgan Stanley: Diesel Export Ban Would Push U.S. Gas Prices Higher"
+ },
+ {
+  "title": "福建三明：一粒稻种撬动70亿产业链，“中国稻种基地”加速迈向育种强市",
+  "url": "https://www.chinanews.com.cn/cj/2026/09-24/10703039.shtml",
+  "summary": "雷朝良)福建省杂交水稻制种产业发展联盟23日在“中国杂交水稻制种第一大县”建宁县正式启动。在当天举行的2026年三明市推进中国稻种基地高质量发展会议期间，华谷高科、湖南兴隆、中种集团等种业企业代表发布杂交水稻新品种，集中展示育种创新最新成果",
+  "pub_time": "2026-09-24T08:58:33Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "d288f940ffcc88577e5016b862e21d8d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "霍尔木兹海峡堵塞导致进口受阻，印度炼油商将液化石油气产量提高近 20%",
   "url": "",
   "summary": "印度国营炼油厂正在提高液化石油气的产量，因为该国进入节日，而来自中东的进口仍然受到抑制，导致需求季节性激增。据印度媒体报道，9月份到目前为止，当地液化石油气日均产量为44,000吨，",
@@ -27,18 +73,18 @@
   "en_title": "Indian Refiners Lift LPG Output Nearly 20% as Hormuz Blockage Chokes Imports"
  },
  {
-  "title": "黑色持仓日报：华泰期货增持超1.2万手螺纹钢多单",
-  "url": "https://news.mysteel.com/a/26092416/B11A58C076A1DAFA.html",
+  "title": "关键矿产日报：国内油价上调",
+  "url": "https://news.mysteel.com/a/26092416/8977E81D8986B968.html",
   "summary": "",
   "pub_time": "2026-09-24T08:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "fc2acc89aaef397258a2e1aa69eca00d",
+  "dedup_key": "1d6b76dd68b82534166e2129ac3718b7",
   "score": 80,
   "priority": "P1",
-  "topic": "国内/大宗商品",
+  "topic": "国内/财经",
   "tags": [
-   "大宗商品",
+   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -58,6 +104,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "关键矿产日报：国内油价上调，Minto铜矿公布重启计划",
+  "url": "https://news.mysteel.com/a/26092416/12D5FCFBC926D1D2.html",
+  "summary": "",
+  "pub_time": "2026-09-24T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "f6e86951102373de84cdb50fa904b2c4",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -123,12 +188,31 @@
  },
  {
   "title": "黑色持仓日报：期螺飘红，华泰期货增持超1.2万手多单",
-  "url": "https://news.mysteel.com/a/26092416/560EB8326F7BB105.html",
+  "url": "https://news.mysteel.com/a/26092416/B11A58C076A1DAFA.html",
   "summary": "",
   "pub_time": "2026-09-24T08:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "5f02e0f420033ebb6471d7184879f4bb",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "山东黄金：调整2026年生产经营计划，矿产金产量目标下调至36-38吨",
+  "url": "https://news.mysteel.com/a/26092416/415B56AC8C1AAF16.html",
+  "summary": "",
+  "pub_time": "2026-09-24T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "c51700f79b14a56874aad7444f96b27d",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -167,25 +251,6 @@
   "en_title": "Southeast Asia Keeps Building Gas Plants Despite Hormuz LNG Shock"
  },
  {
-  "title": "2026年9月焦煤长协煤钢联动浮动值",
-  "url": "https://news.mysteel.com/a/26092415/FC56C9F72F214D60.html",
-  "summary": "",
-  "pub_time": "2026-09-24T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "25f51cfed05dc8679d4f48ff813525d9",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "沙特大举出售1亿桶原油，缓解亚洲石油紧缺",
   "url": "https://news.mysteel.com/a/26092415/CD9AE5BD7D764AAA.html",
   "summary": "",
@@ -217,6 +282,25 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年9月焦煤长协煤钢联动浮动值",
+  "url": "https://news.mysteel.com/a/26092415/BBDF00F01B4D12F9.html",
+  "summary": "",
+  "pub_time": "2026-09-24T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "25f51cfed05dc8679d4f48ff813525d9",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -2122,34 +2206,6 @@
   "en_title": "Ex-Gold Fields CEO targets $1B Africa critical minerals fund"
  },
  {
-  "title": "EIA 报告 3M 桶原油产量增加，因为馏分油库存低于平均水平 12%",
-  "url": "",
-  "summary": "美国能源信息署(EIA)周三公布的最新数据显示，截至9月18日当周，美国原油库存增加300万桶。政府表示，这一增加使商业库存达到 4.264 亿桶",
-  "pub_time": "2026-09-23T14:47:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "1725a99e5ec546347f76f5ab811b5e1e",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "下跌",
-   "库存"
-  ],
-  "en_title": "EIA Reports 3M Barrel Crude Build as Distillate Stocks Fall 12% Below Average"
- },
- {
   "title": "美国计划向阿根廷矿业和能源投资70亿美元",
   "url": "",
   "summary": "随着华盛顿寻求安全的矿产供应，拟议的美国进出口银行融资将帮助当地公司购买美国设备。",
@@ -3680,43 +3736,5 @@
    "价"
   ],
   "en_title": "Oil Prices Edge Lower In Volatile Trade"
- },
- {
-  "title": "每日钢市：3家钢厂涨价，成交下滑，钢价反弹力度或有限",
-  "url": "https://news.mysteel.com/a/26092217/1FE36B49034924BC.html",
-  "summary": "",
-  "pub_time": "2026-09-22T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "89088e9c6de076350251a73168bb7cbf",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel日报：黑色金属期货震荡下跌运行",
-  "url": "https://news.mysteel.com/a/26092217/034C8ECD922E583A.html",
-  "summary": "",
-  "pub_time": "2026-09-22T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "35e731dc1bfbf7b43450d8d00de0dc41",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  }
 ]
