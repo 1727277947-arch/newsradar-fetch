@@ -1,5 +1,114 @@
 [
  {
+  "title": "原油价格从高位回落，但仍大幅走高",
+  "url": "",
+  "summary": "(RTTNews) - 原油价格在盘初飙升后有所回落，但在周四交易期间仍大幅走高。",
+  "pub_time": "2026-09-24T18:31:10Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "f32530f63ce207d9ace2654834552a7c",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价"
+  ],
+  "en_title": "Crude Oil Prices Pull Back Off Highs But Remain Sharply Higher"
+ },
+ {
+  "title": "红海风险加剧沙特石油出口成本飙升",
+  "url": "",
+  "summary": "沙特阿拉伯针对霍尔木兹海峡的解决方案现在带来了战争风险保险费用，几乎与通过霍尔木兹海峡派遣油轮一样昂贵。停靠红海延布港的沙特关联油轮报价保费已从年初的不到 1% 增至船舶价值的 3% 左右",
+  "pub_time": "2026-09-24T18:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "166b3ab79b3cab71e8bd7a1e6f835709",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "大涨"
+  ],
+  "en_title": "Saudi Oil Export Costs Surge as Red Sea Risks Mount"
+ },
+ {
+  "title": "随着原油价格继续飙升，金价进一步下跌",
+  "url": "",
+  "summary": "(RTTNews) - 继前一交易日大幅下跌后，金价在周四交易中进一步下跌。",
+  "pub_time": "2026-09-24T18:16:44Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "f4b10f8a25aa6e5e668c66ea2eb2cd5d",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "原油",
+   "价",
+   "大涨"
+  ],
+  "en_title": "Gold Seeing Further Downside As Crude Oil Prices Extend Surge"
+ },
+ {
+  "title": "柴油价格为何如此之高？",
+  "url": "",
+  "summary": "社交媒体上流传的一些说法始于一个基本正确的观察：2022 年俄罗斯入侵乌克兰后，原油价格比现在更高，但现在柴油价格更高。这种比较经常得出的结论是，炼油厂一定在哄抬物价。",
+  "pub_time": "2026-09-24T18:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "b8583575892091ce06a23f90d953bc1f",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "价"
+  ],
+  "en_title": "Why Are Diesel Prices So High?"
+ },
+ {
   "title": "伊朗警告美国袭击可能将战争推向印度洋",
   "url": "",
   "summary": "就在本月，伊朗冲突升级为沙特联军与也门胡塞武装之间的新一轮战斗。现在伊朗威胁要进一步扩大战斗范围，甚至进入印度洋。伊朗最高领袖莫杰塔巴·哈梅内伊的顾问叶海亚·拉希姆·萨法维警告说",
@@ -764,33 +873,6 @@
   "is_elite": false
  },
  {
-  "title": "霍尔木兹海峡堵塞导致进口受阻，印度炼油商将液化石油气产量提高近 20%",
-  "url": "",
-  "summary": "印度国营炼油厂正在提高液化石油气的产量，因为该国进入节日，而来自中东的进口仍然受到抑制，导致需求季节性激增。据印度媒体报道，9月份到目前为止，当地液化石油气日均产量为44,000吨，",
-  "pub_time": "2026-09-24T08:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "98eafa9b1fdebaa3986cf240f99b890f",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "产量",
-   "进口"
-  ],
-  "en_title": "Indian Refiners Lift LPG Output Nearly 20% as Hormuz Blockage Chokes Imports"
- },
- {
   "title": "关键矿产日报：国内油价上调",
   "url": "https://news.mysteel.com/a/26092416/8977E81D8986B968.html",
   "summary": "",
@@ -962,32 +1044,6 @@
   "is_elite": false
  },
  {
-  "title": "尽管霍尔木兹液化天然气受到冲击，东南亚仍在继续建设天然气工厂",
-  "url": "",
-  "summary": "尽管中东战争导致天然气价格上涨，东南亚国家仍在建设天然气发电厂。据全球能源监测报告称，亚洲国家也在建设更多液化天然气进口能力。净零智囊团表示，新的燃气网络容量约为 100 吉瓦",
-  "pub_time": "2026-09-24T07:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "1d83bb8140c9731b11c970d57fd1130d",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气"
-  ],
-  "en_title": "Southeast Asia Keeps Building Gas Plants Despite Hormuz LNG Shock"
- },
- {
   "title": "沙特大举出售1亿桶原油，缓解亚洲石油紧缺",
   "url": "https://news.mysteel.com/a/26092415/CD9AE5BD7D764AAA.html",
   "summary": "",
@@ -1145,32 +1201,6 @@
    "谷物"
   ],
   "en_title": "Feedgrain Focus: North gets nervous over freight, dry"
- },
- {
-  "title": "伊朗关于霍尔木兹海峡条件的谈判陷入僵局，布伦特原油价格维持在 102 美元以上",
-  "url": "",
-  "summary": "由于有报道称冲突双方都愿意在中东实现和平，原油价格今日下跌。油价下跌部分抵消了本周早些时候的涨幅，使石油基准保持在高位。截至撰写本文时，布伦特原油交易价格为每桶 102.20 美元，W",
-  "pub_time": "2026-09-24T05:08:03Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "8ea072905869ab01021139d26a2c38e8",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "布伦特油价"
-  ],
-  "en_title": "Brent Holds Above $102 as Iran Talks Stall Over Hormuz Conditions"
  },
  {
   "title": "报告：欧洲柴油价格比年初上涨超过40%，柴油车每天多烧超2亿欧元",
@@ -1445,13 +1475,13 @@
   "en_title": "Daily Market Wire 24 September 2026"
  },
  {
-  "title": "瑞达期货：焦煤主力2701合约震荡运行",
-  "url": "https://news.mysteel.com/a/26092409/27DA9D484F6079B7.html",
+  "title": "瑞达期货：铁矿石短线行情陷入区间整理",
+  "url": "https://news.mysteel.com/a/26092409/D38327A3362BAD86.html",
   "summary": "",
   "pub_time": "2026-09-24T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "764bd8afeea439bfcadbc0668aa8cda8",
+  "dedup_key": "729f3da340ad40b41481d1c9a1e5ce66",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1464,13 +1494,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：铁矿石短线行情陷入区间整理",
-  "url": "https://news.mysteel.com/a/26092409/D38327A3362BAD86.html",
+  "title": "瑞达期货：焦煤主力2701合约震荡运行",
+  "url": "https://news.mysteel.com/a/26092409/27DA9D484F6079B7.html",
   "summary": "",
   "pub_time": "2026-09-24T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "729f3da340ad40b41481d1c9a1e5ce66",
+  "dedup_key": "764bd8afeea439bfcadbc0668aa8cda8",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -3185,86 +3215,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "油价连续第五天下跌",
-  "url": "",
-  "summary": "(RTTNews) - 油价周二下跌，连续第五个交易日下跌，因希望结束美国和伊朗之间冲突的外交努力将导致霍尔木兹海峡早日重新开放。",
-  "pub_time": "2026-09-22T19:26:42Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "8e2ff120b382920e0a44708ce012c43e",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "下跌"
-  ],
-  "en_title": "Oil Prices Drop For 5th Straight Day"
- },
- {
-  "title": "随着美元因加息押注而上涨，金价延续弱势",
-  "url": "",
-  "summary": "(RTTNews) - 周二金价下跌，延续了近期的疲软势头，因多位美联储官员表示美联储将在更长时间内维持较高利率，美元走强。",
-  "pub_time": "2026-09-22T18:57:58Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "47d3077c724d6ac4eea79a80163681ce",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "上涨"
-  ],
-  "en_title": "Gold Extends Weakness As Dollar Rises On Rate Hike Bets"
- },
- {
-  "title": "USGBC 探索美国在尼日利亚的饲料谷物机会",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-22T17:42:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "f632d2a2b64189a21ecaa7c1e1a75712",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "谷物"
-  ],
-  "en_title": "USGBC Explores U.S. Feed Grain Opportunities in Nigeria"
  }
 ]
