@@ -1,5 +1,32 @@
 [
  {
+  "title": "为什么美国柴油出口禁令不会降低燃油价格",
+  "url": "",
+  "summary": "随着全国平均柴油价格飙升至创纪录的每加仑 6.52 美元，特朗普政府本周发出了关于限制美国柴油出口的复杂信号。白宫否认正在制定出口禁令，即使唐纳德·特朗普总统和财政部长斯科特·贝森特已同意实施出口禁令。",
+  "pub_time": "2026-09-24T22:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "9389e0820e80bbcd555bfae5e555cc7d",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "燃料",
+   "价"
+  ],
+  "en_title": "Why a U.S. Diesel Export Ban Won’t Lower Fuel Prices"
+ },
+ {
   "title": "CNIKF 股票挤满卖家",
   "url": "",
   "summary": "在周四的交易中，加拿大镍业公司（代码：CNIKF）的股票进入超卖区域，易手低至每股 0.9241 美元。我们使用相对强弱指数（RSI）来定义超卖区域，这是一种用于衡量超卖趋势的技术分析指标。",
@@ -711,31 +738,6 @@
    "产量"
   ],
   "en_title": "Rio Tinto to expand metals trading beyond own output"
- },
- {
-  "title": "周三只有一艘商品船离开霍尔木兹海峡",
-  "url": "",
-  "summary": "由于美国和伊朗在如何结束战争方面仍存在分歧，周三观察到进出霍尔木兹海峡的商品船数量仍然很低，低于 10 日移动平均线。周三，只有十艘商品船通过该海峡，其中包括",
-  "pub_time": "2026-09-24T11:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "综合",
-  "dedup_key": "cfa653f6a93ecd9ffeb33cb3a8a4cdf5",
-  "score": 84,
-  "priority": "P2",
-  "topic": "综合",
-  "tags": [
-   "综合",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "综合"
-  ],
-  "en_title": "Just One Commodity Vessel Left the Strait of Hormuz on Wednesday"
  },
  {
   "title": "嘉能可 (Glencore) 定于 10 月 14 日在澳大利亚上市",
