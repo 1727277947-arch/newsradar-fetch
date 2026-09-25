@@ -1,12 +1,82 @@
 [
  {
-  "title": "随着阿曼转运能力达到极限，VLCC 运价创下每天 127 万美元的纪录",
+  "title": "“十五五”期间全国碳市场覆盖范围将进一步扩大",
+  "url": "https://www.chinanews.com.cn/cj/2026/09-25/10703757.shtml",
+  "summary": "记者 阮煜琳)国际电力碳排放核算规则交流会日前在河北崇礼举办。清华大学能源环境经济研究所所长张希良在会上表示，目前，中国碳市场已经纳入发电、钢铁、水泥、铝冶炼四个行业，到2030年以前，全国碳市场将进一步扩大覆盖范围，还将纳入化工、石化等行业。届时，中国碳市场覆盖二氧化碳排放量，将占全国碳排放总量的75%以上",
+  "pub_time": "2026-09-25T08:58:16Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "a964ad6d8d6cad92d03ca5f860f85231",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "印度表示将继续出口柴油",
+  "url": "",
+  "summary": "印度石油部长哈迪普·普里表示，印度将继续出口柴油，以帮助满足全球需求并缓解燃料短缺。这位部长在新德里举行的一次行业活动上表示：“我们履行我们的承诺。”他指出，由于多年的投资，印度的炼油能力持续扩大。印度的裁判",
+  "pub_time": "2026-09-25T08:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "7e6fab7e1f7c91b0a86946370fd22194",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "锡"
+  ],
+  "en_title": "India Says It Will Keep Exporting Diesel"
+ },
+ {
+  "title": "随着危机加深，霍尔木兹油轮事故数量已降至个位数",
+  "url": "",
+  "summary": "据路透社在其海峡油轮数量定期更新中报道，周四只有九艘商品运输船通过霍尔木兹海峡，其中八艘离开该水道。周四的总数比本已低迷的数字进一步下降，目前已从双倍变为单倍",
+  "pub_time": "2026-09-25T07:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "da29bb6ededcdddd4df59ff37ff3b63d",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Hormuz Tanker Transits Crash to Single Digits as Crisis Deepens"
+ },
+ {
+  "title": "VLCC 运价创下每天 127 万美元的纪录",
   "url": "",
   "summary": "路透社援引未透露姓名的贸易消息人士和分析师的话说，在沙特阿拉伯因胡塞武装袭击而将原油从延布港转移后，阿曼沿海船对船的原油转运能力已达到极限。报告称沙特阿拉伯已售出约 6000 万条金条",
   "pub_time": "2026-09-25T06:17:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
-  "dedup_key": "476b50aa41a563c3ad340752c9b93c19",
+  "dedup_key": "f4cf581981c2e1e9af0a7bdf65b5e68e",
   "score": 84,
   "priority": "P1",
   "topic": "能源",
@@ -22,7 +92,7 @@
   "keywords": [
    "能源"
   ],
-  "en_title": "VLCC Rates Hit Record $1.27 Million a Day as Oman Transfer Capacity Maxes Out"
+  "en_title": "VLCC Rates Hit Record $1.27 Million a Day"
  },
  {
   "title": "胡塞武装袭击破坏沙特石油供应，布伦特原油本周上涨",
@@ -491,33 +561,6 @@
   "is_elite": false
  },
  {
-  "title": "俄罗斯开始从其巨型东方北极项目出口石油",
-  "url": "",
-  "summary": "在经历了多年的制裁、投资者退出和施工延误后，俄罗斯石油公司的东方石油项目已开始商业原油出口，从其新的北极码头将桶装进水中。三艘冰级油轮从 Bukhta Sever 码头装载约 25 万吨原油",
-  "pub_time": "2026-09-24T15:35:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "59bd1b57485591066cfc0675542e4f42",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "出口"
-  ],
-  "en_title": "Russia Begins Oil Exports From Its Giant Vostok Arctic Project"
- },
- {
   "title": "美国和阿根廷启动“安第斯山脉-大西洋走廊”，获得高达 70 亿美元的支持",
   "url": "",
   "summary": "美国进出口银行 (EXIM) 将为阿根廷关键矿产和能源项目提供高达 70 亿美元的融资，华盛顿寻求加强对该地区资源的获取，...美国、阿根廷推出“安第斯山脉-大西洋走廊”，获得高达 70 亿美元的支持",
@@ -596,34 +639,6 @@
    "基本金属"
   ],
   "en_title": "Tungsten West signs £1.4B offtake from UK"
- },
- {
-  "title": "随着库存暴跌，中国可能削减十月份燃料出口",
-  "url": "",
-  "summary": "由于国内汽油和柴油库存已降至多年低点，中国可能在 10 月份再次降低燃料出口，从而可能进一步收紧全球燃料市场。 8月份中国燃料出口恢复，炼厂出口石油产品601万吨，增长12.7%",
-  "pub_time": "2026-09-24T15:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "3d8706300981114b407193150211b7c3",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "燃料",
-   "库存",
-   "出口"
-  ],
-  "en_title": "China Could Cut Fuel Exports in October as Inventories Plunge"
  },
  {
   "title": "PlantArcBio 报告首次露天玉米试验产量强劲",
@@ -1733,25 +1748,6 @@
   "topic": "国内/金融政策",
   "tags": [
    "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "油价涨、美债跌！美联储10月加息概率逼近七成",
-  "url": "https://news.mysteel.com/a/26092407/E492A2AC07B15C51.html",
-  "summary": "",
-  "pub_time": "2026-09-23T23:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "3e5e16dfba0a857b7d3b4e8c0e412f59",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -2954,119 +2950,5 @@
    "原油"
   ],
   "en_title": "Oil Holds Steady After Recent Losses"
- },
- {
-  "title": "Mysteel晚餐：唐山钢坯亏损扩大，本期中国钢材出口发运增长",
-  "url": "https://news.mysteel.com/a/26092317/76595878B2D264B7.html",
-  "summary": "",
-  "pub_time": "2026-09-23T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "2cd35bd0d3b1ed4cb9b5e211245b6375",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel国际金融量化论坛·香港站回顾——模型不再是护城河，量化的edge在哪里？",
-  "url": "https://news.mysteel.com/a/26092317/DF35CF98CF26B45F.html",
-  "summary": "",
-  "pub_time": "2026-09-23T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "34aa9b1e6ebc96514d5fb4666cbb1d2c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "关键矿产日报：淡水河谷拟入股Ligga，印尼IMIP确认镍冶炼厂减产",
-  "url": "https://news.mysteel.com/a/26092317/24E9675ED2027187.html",
-  "summary": "",
-  "pub_time": "2026-09-23T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "4f441737e6270340f1d991436034e4be",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel日报：黑色金属期货价格震荡下跌运行",
-  "url": "https://news.mysteel.com/a/26092317/C656DCD649AE3951.html",
-  "summary": "",
-  "pub_time": "2026-09-23T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "31f834ba0a5f271cd4cbd0126e13ded0",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "有色持仓日报：沪铜飘绿，中信期货减持4.2千手多单",
-  "url": "https://news.mysteel.com/a/26092316/3AFCD7E0BC61D214.html",
-  "summary": "",
-  "pub_time": "2026-09-23T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "931722343357b3840bd0f075607dddbe",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色持仓日报：期螺飘绿，银河期货减持超1.2万手多单",
-  "url": "https://news.mysteel.com/a/26092316/97DC7C1E83D73BD5.html",
-  "summary": "",
-  "pub_time": "2026-09-23T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "374a403421688292774bbb9fa1dcc38a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  }
 ]
