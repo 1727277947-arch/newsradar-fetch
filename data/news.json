@@ -1,5 +1,49 @@
 [
  {
+  "title": "国际油价深夜坐上“过山车”：沙特再度遭袭 美伊谈判又有新传闻",
+  "url": "https://news.mysteel.com/a/26092509/0746D07110D7DC2D.html",
+  "summary": "",
+  "pub_time": "2026-09-25T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "bb184287501a4bb0718dbce6cd7ce601",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "每日市场快讯 2026 年 9 月 25 日",
+  "url": "",
+  "summary": "谷物在一夜之间变软。原油集会。加拿大草原和爱荷华州潮湿；西澳周末有大雨，总决赛比赛结束在东部。",
+  "pub_time": "2026-09-25T00:52:06Z",
+  "source": "GrainCentral",
+  "_cat": "能源",
+  "dedup_key": "3b85f4c19465aa9d4aa1531ebb81d93b",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Daily Market Wire 25 September 2026"
+ },
+ {
   "title": "5只能源股为长期伊朗战争做好准备",
   "url": "",
   "summary": "自伊朗战争爆发以来，摩根大通首次表示，对于石油市场如何摆脱战争，它不再有明确的基线。该银行此前的假设是，油价上涨及其造成的经济损失最终将限制冲突的发展程度",
@@ -855,6 +899,25 @@
   "is_elite": false
  },
  {
+  "title": "Mysteel：从配额锁定到全面围网——盟情咨文后的中国钢铁对欧出口再评估",
+  "url": "https://news.mysteel.com/a/26092417/5EA9BAC9BD023604.html",
+  "summary": "",
+  "pub_time": "2026-09-24T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "dd03c43e032418fbd572ba428c981b2e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "Mysteel：预防式加息下的类滞胀交易：从加息到中美元首会晤",
   "url": "https://news.mysteel.com/a/26092417/CF794A6E1B3DB72C.html",
   "summary": "",
@@ -932,7 +995,7 @@
  },
  {
   "title": "关键矿产日报：国内油价上调，Minto铜矿公布重启计划",
-  "url": "https://news.mysteel.com/a/26092416/12D5FCFBC926D1D2.html",
+  "url": "https://news.mysteel.com/a/26092416/F9BF99025ABDBCA5.html",
   "summary": "",
   "pub_time": "2026-09-24T08:00:00Z",
   "source": "上海钢联Mysteel",
@@ -943,25 +1006,6 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "中钢协：9月中旬重点钢企钢材库存量1708万吨",
-  "url": "https://news.mysteel.com/a/26092416/D6020E409C3320E6.html",
-  "summary": "",
-  "pub_time": "2026-09-24T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "ff0a442f33863be6b111f26f1e261bbf",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -981,6 +1025,25 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "中钢协：9月中旬重点钢企钢材库存量1708万吨",
+  "url": "https://news.mysteel.com/a/26092416/96674876F505CCC0.html",
+  "summary": "",
+  "pub_time": "2026-09-24T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "ff0a442f33863be6b111f26f1e261bbf",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -1468,31 +1531,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "每日市场快讯 2026 年 9 月 24 日",
-  "url": "",
-  "summary": "小麦仍面临压力。马尼托巴省的收成达到 43%，质量等级几乎处于平均水平。西澳南部预计将有降雨。",
-  "pub_time": "2026-09-24T01:21:46Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "ad51982eb7deaf7f1c458703c30b05fd",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品"
-  ],
-  "en_title": "Daily Market Wire 24 September 2026"
  },
  {
   "title": "瑞达期货：铁矿石短线行情陷入区间整理",
@@ -3143,88 +3181,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "15c709c09b3726657d4f3e2d74bdbe7d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "昆士兰州尚未决定磷化氢限制，新南威尔士州提高了认识",
-  "url": "",
-  "summary": "昆士兰州尚未承诺支持从 12 月起降低磷化氢 WEL 的法规，但新南威尔士州似乎正在为这一变化做好准备。",
-  "pub_time": "2026-09-23T01:25:39Z",
-  "source": "GrainCentral",
-  "_cat": "基本金属",
-  "dedup_key": "6cf9a26622397cc6eef11920ffd8ab07",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Qld yet to decide on phosphine limits, NSW ramps up awareness"
- },
- {
-  "title": "Mysteel数据：中国钢材发运量统计（9.15-9.21）",
-  "url": "https://news.mysteel.com/a/26092309/DA2E3BD67F642259.html",
-  "summary": "",
-  "pub_time": "2026-09-23T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "e34276be65d3ebd586319a884e887788",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色期货早报：各品种涨跌不一，多机构料铁矿石震荡运行",
-  "url": "https://news.mysteel.com/a/26092309/F90D1D2D65F160BC.html",
-  "summary": "",
-  "pub_time": "2026-09-23T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "0a35dc883ed0b5965c20224d3bb4b7b2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "李毅仁：国产钢材完全满足钢结构建筑发展的现实需要",
-  "url": "https://news.mysteel.com/a/26092309/148D81FBD75FE85C.html",
-  "summary": "",
-  "pub_time": "2026-09-23T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "cd0e01441639997a2fb54e2fec3ce9f1",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
