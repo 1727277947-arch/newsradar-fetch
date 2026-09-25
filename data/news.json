@@ -1,5 +1,32 @@
 [
  {
+  "title": "为什么创纪录的热量未能提振美国天然气价格",
+  "url": "",
+  "summary": "从6月到8月， Henry Hub天然气的平均价格为每百万英热单位293 $ ，比去年同期低6% ，尽管下48区创下了有史以来最热的7月。根据美国国家海洋和大气管理局（ NOAA ）的数据， 7月份美国48州下游的平均气温达到77°F ，推动了电力需求",
+  "pub_time": "2026-09-25T20:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "773ce21465091aa12752e1126b28097a",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气",
+   "价"
+  ],
+  "en_title": "Why Record Heat Failed to Lift U.S. Natural Gas Prices"
+ },
+ {
   "title": "密歇根州玉米报道新发叶斑病",
   "url": "",
   "summary": "",
@@ -656,32 +683,6 @@
    "罢工"
   ],
   "en_title": "Ukraine Drone Strike Knocks Out Russia's Novoshakhtinsk Refinery"
- },
- {
-  "title": "荷兰在 11.4 亿美元法案后推动废除欧盟天然气储存授权",
-  "url": "",
-  "summary": "荷兰认为，欧盟现行的冬季前储气目标体系不够充分，给政府带来了负担，而政府必须为履行欧盟范围内的义务付费。仅今年夏季，荷兰政府就已花费近 11.4 亿美元（10 亿欧元）建设 u",
-  "pub_time": "2026-09-25T10:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "d3064eed4a375738b5f496d801d0cf7b",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气"
-  ],
-  "en_title": "Netherlands Pushes to Scrap EU Gas Storage Mandate After $1.14 Billion Bill"
  },
  {
   "title": "随着油价和收益率下降，金价小幅走高",
@@ -1980,13 +1981,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：焦煤主力2701合约震荡运行",
-  "url": "https://news.mysteel.com/a/26092409/27DA9D484F6079B7.html",
+  "title": "瑞达期货：铁矿石短线行情陷入区间整理",
+  "url": "https://news.mysteel.com/a/26092409/D38327A3362BAD86.html",
   "summary": "",
   "pub_time": "2026-09-24T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "764bd8afeea439bfcadbc0668aa8cda8",
+  "dedup_key": "729f3da340ad40b41481d1c9a1e5ce66",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1999,13 +2000,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：铁矿石短线行情陷入区间整理",
-  "url": "https://news.mysteel.com/a/26092409/D38327A3362BAD86.html",
+  "title": "瑞达期货：焦煤主力2701合约震荡运行",
+  "url": "https://news.mysteel.com/a/26092409/27DA9D484F6079B7.html",
   "summary": "",
   "pub_time": "2026-09-24T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "729f3da340ad40b41481d1c9a1e5ce66",
+  "dedup_key": "764bd8afeea439bfcadbc0668aa8cda8",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
