@@ -1,5 +1,32 @@
 [
  {
+  "title": "世界黄金协会称人工智能繁荣未能提振黄金需求",
+  "url": "",
+  "summary": "人工智能（AI）的激增尚未提高科技行业对黄金的总体需求，因为制造商试图减少黄金的使用（价格仍然很高）……世界黄金协会表示，后人工智能繁荣未能提振黄金需求。",
+  "pub_time": "2026-09-25T17:15:57Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "c59e4095213cee24b7968b629969f9b5",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "需求"
+  ],
+  "en_title": "AI boom fails to lift gold demand, WGC says"
+ },
+ {
   "title": "随着压力上升，美国石油、天然气钻探活动活跃起来",
   "url": "",
   "summary": "贝克休斯周五公布的最新数据显示，本周美国活跃的石油和天然气钻机总数有所增加，美国总钻机数量增至 599 座，比去年同期增加 50 座。其第二活跃石油钻井平台数量增加了3个，",
@@ -25,6 +52,60 @@
    "天然气"
   ],
   "en_title": "U.S. Oil, Gas Drilling Perks Up As Pressure Mounts"
+ },
+ {
+  "title": "必和必拓的 Escondida 重启缓解了铜供应紧张的困境",
+  "url": "",
+  "summary": "矿山停产、中国库存较低以及即将到来的假期休市使得铜市场几乎没有供应中断的空间。必和必拓 (BHP) 的 Escondida 重启后缓解了铜供应紧张的困境。",
+  "pub_time": "2026-09-25T17:10:00Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "563a05a74c24e09c85740a6e7f003874",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜",
+   "走软",
+   "供应"
+  ],
+  "en_title": "BHP’s Escondida restart eases tight copper supply woes"
+ },
+ {
+  "title": "Lundin Gold 在厄瓜多尔创下 1035 克的纪录",
+  "url": "",
+  "summary": "Lundin Gold（多伦多证券交易所代码：LUG；美国场外交易代码：LUGDF）在厄瓜多尔的 Fruta del Norte 矿区进行的新钻探提高了延长矿山运营寿命的可能性。孔 BLP-2026-483-D2...Lundin Gold 在厄瓜多尔创下 1035 克纪录后首次出现在《北方矿工》上。",
+  "pub_time": "2026-09-25T17:05:33Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "eed0d69b5bb4a2900abe943668b98bbb",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Lundin Gold hits record 1035 g in Ecuador"
  },
  {
   "title": "世界黄金协会称人工智能繁荣未能提振黄金需求",
@@ -132,32 +213,6 @@
   "en_title": "Lundin Gold hits record 1035g in Ecuador"
  },
  {
-  "title": "Lundin Gold 在厄瓜多尔创下 1035 克的纪录",
-  "url": "",
-  "summary": "Lundin Gold（多伦多证券交易所代码：LUG；美国场外交易代码：LUGDF）在厄瓜多尔的 Fruta del Norte 矿区进行的新钻探提高了延长矿山运营寿命的可能性。孔 BLP-2026-483-D2...Lundin Gold 在厄瓜多尔创下 1035 克纪录后首次出现在《北方矿工》上。",
-  "pub_time": "2026-09-25T15:30:33Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "eed0d69b5bb4a2900abe943668b98bbb",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Lundin Gold hits record 1035 g in Ecuador"
- },
- {
   "title": "尽管储存水平较低，欧盟仍摆脱了对天然气供应的担忧",
   "url": "",
   "summary": "天然气协调小组表示，欧盟的天然气供应保持稳定，该小组就在欧盟或地区紧急情况下协调供应安全措施向欧盟委员会提供建议。天然气协调小组本周再次开会，盘点当前的情况",
@@ -183,33 +238,6 @@
    "供应"
   ],
   "en_title": "EU Shrugs Off Gas Supply Fears Despite Low Storage Levels"
- },
- {
-  "title": "世界黄金协会称人工智能繁荣未能提振黄金需求",
-  "url": "",
-  "summary": "人工智能（AI）的激增尚未提高科技行业对黄金的总体需求，因为制造商试图减少黄金的使用（价格仍然很高）……世界黄金协会表示，后人工智能繁荣未能提振黄金需求。",
-  "pub_time": "2026-09-25T15:15:57Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "c59e4095213cee24b7968b629969f9b5",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "需求"
-  ],
-  "en_title": "AI boom fails to lift gold demand, WGC says"
  },
  {
   "title": "道明银行预计铑供应过剩将结束四年紧缩局面",
@@ -494,34 +522,6 @@
    "走软"
   ],
   "en_title": "BHP’s Escondida restart eases tight copper market"
- },
- {
-  "title": "必和必拓的 Escondida 重启缓解了铜供应紧张的困境",
-  "url": "",
-  "summary": "矿山停产、中国库存较低以及即将到来的假期休市使得铜市场几乎没有供应中断的空间。必和必拓 (BHP) 的 Escondida 重启后缓解了铜供应紧张的困境。",
-  "pub_time": "2026-09-25T12:13:00Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "563a05a74c24e09c85740a6e7f003874",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "走软",
-   "供应"
-  ],
-  "en_title": "BHP’s Escondida restart eases tight copper supply woes"
  },
  {
   "title": "工人死亡导致世界最大铜矿关闭",
