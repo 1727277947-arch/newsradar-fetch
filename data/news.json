@@ -1,5 +1,60 @@
 [
  {
+  "title": "随着阿曼转运能力达到极限，VLCC 运价创下每天 127 万美元的纪录",
+  "url": "",
+  "summary": "路透社援引未透露姓名的贸易消息人士和分析师的话说，在沙特阿拉伯因胡塞武装袭击而将原油从延布港转移后，阿曼沿海船对船的原油转运能力已达到极限。报告称沙特阿拉伯已售出约 6000 万条金条",
+  "pub_time": "2026-09-25T06:17:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "476b50aa41a563c3ad340752c9b93c19",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "VLCC Rates Hit Record $1.27 Million a Day as Oman Transfer Capacity Maxes Out"
+ },
+ {
+  "title": "胡塞武装袭击破坏沙特石油供应，布伦特原油本周上涨",
+  "url": "",
+  "summary": "今天早些时候，原油价格较周四收盘价有所下跌，但由于对中东供应安全的持续担忧，布伦特原油有望每周上涨。尽管有报道称美国和伊朗之间可能达成协议，并且对石油的估计，但这种担忧仍然存在",
+  "pub_time": "2026-09-25T05:04:32Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "d041fae229e9793170468ea6424764a2",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "布伦特油价",
+   "走强",
+   "供应",
+   "周"
+  ],
+  "en_title": "Brent Set for Weekly Gain as Houthi Attacks Rattle Saudi Oil Supply"
+ },
+ {
   "title": "国际油价深夜坐上“过山车”：沙特再度遭袭 美伊谈判又有新传闻",
   "url": "https://news.mysteel.com/a/26092509/0746D07110D7DC2D.html",
   "summary": "",
@@ -21,7 +76,7 @@
  {
   "title": "每日市场快讯 2026 年 9 月 25 日",
   "url": "",
-  "summary": "谷物在一夜之间变软。原油集会。加拿大草原和爱荷华州潮湿；西澳周末有大雨，总决赛比赛结束在东部。",
+  "summary": "谷物在一夜之间变软。原油集会。加拿大草原和美国爱荷华州潮湿；西澳大利亚周末迎来春雨，总决赛将在东部举行。",
   "pub_time": "2026-09-25T00:52:06Z",
   "source": "GrainCentral",
   "_cat": "能源",
@@ -417,6 +472,25 @@
   "en_title": "U.S. Invites Putin To G20 Summit In Miami"
  },
  {
+  "title": "【独家】逐步转战新粮，小麦价格略涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/25/5445723225.shtml",
+  "summary": "",
+  "pub_time": "2026-09-24T16:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "f0a985c0b5d07bd35a8e8fdba2c2ee14",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "俄罗斯开始从其巨型东方北极项目出口石油",
   "url": "",
   "summary": "在经历了多年的制裁、投资者退出和施工延误后，俄罗斯石油公司的东方石油项目已开始商业原油出口，从其新的北极码头将桶装进水中。三艘冰级油轮从 Bukhta Sever 码头装载约 25 万吨原油",
@@ -657,25 +731,6 @@
   "en_title": "Glencore sets Oct. 14 for Australian market debut"
  },
  {
-  "title": "一个“保养”做了177天 西南油气田天然气净化总厂年度大修收官",
-  "url": "https://www.chinanews.com.cn/cj/2026/09-24/10703399.shtml",
-  "summary": "题：一个“保养”做了177天 西南油气田天然气净化总厂年度大修收官",
-  "pub_time": "2026-09-24T14:22:38Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "1df1a4575aaeef7f335dcd6035b19c64",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
   "title": "美洲稀土在荷马遭遇磁铁金属",
   "url": "",
   "summary": "Rare Earths Americas（纽约证券交易所股票代码：REA）表示，其位于巴西的 Homer 项目的初步钻探返回了广泛的、富含镝和铽的近地表稀土矿化体，促使该公司将产量翻倍。",
@@ -700,32 +755,6 @@
    "金属"
   ],
   "en_title": "Rare Earths Americas hits magnet metals at Homer"
- },
- {
-  "title": "韩国效仿日本，押注 223 亿美元德克萨斯州天然气",
-  "url": "",
-  "summary": "十个月后，在一次关税威胁和几个“不眠之夜”之后，韩国终于找到了地方，将其承诺的 3500 亿美元投资的第一笔资金投入美国。获胜者是德克萨斯州恩西纳尔市的一个燃气发电综合体（人口 540 人，那里的房地产即将暴涨）",
-  "pub_time": "2026-09-24T14:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "f13531b59b9035647e7460cb59eb4799",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气"
-  ],
-  "en_title": "South Korea Follows Japan's Playbook With $22.3 Billion Texas Gas Bet"
  },
  {
   "title": "金罗斯黄金公司削减产量，提高股东派息",
@@ -881,7 +910,7 @@
  },
  {
   "title": "Mysteel晚餐：钢材总库存下降，云南钢厂调整规格组距价差",
-  "url": "https://news.mysteel.com/a/26092417/AC2F5D2DD8BC3ECC.html",
+  "url": "https://news.mysteel.com/a/26092417/1B4DD1574BEE8BD8.html",
   "summary": "",
   "pub_time": "2026-09-24T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -918,13 +947,13 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel：预防式加息下的类滞胀交易：从加息到中美元首会晤",
+  "title": "Mysteel：预防式加息下的类滞胀交易——从加息到中美元首会晤",
   "url": "https://news.mysteel.com/a/26092417/CF794A6E1B3DB72C.html",
   "summary": "",
   "pub_time": "2026-09-24T09:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "948f4a81296cb179e74458d7411f0c9c",
+  "dedup_key": "01ac5bf03e7e71ef453eb51ae0ae8bb2",
   "score": 80,
   "priority": "P1",
   "topic": "国内/贸易外经",
@@ -1533,13 +1562,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：铁矿石短线行情陷入区间整理",
-  "url": "https://news.mysteel.com/a/26092409/D38327A3362BAD86.html",
+  "title": "瑞达期货：焦煤主力2701合约震荡运行",
+  "url": "https://news.mysteel.com/a/26092409/27DA9D484F6079B7.html",
   "summary": "",
   "pub_time": "2026-09-24T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "729f3da340ad40b41481d1c9a1e5ce66",
+  "dedup_key": "764bd8afeea439bfcadbc0668aa8cda8",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1552,13 +1581,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：焦煤主力2701合约震荡运行",
-  "url": "https://news.mysteel.com/a/26092409/27DA9D484F6079B7.html",
+  "title": "瑞达期货：铁矿石短线行情陷入区间整理",
+  "url": "https://news.mysteel.com/a/26092409/D38327A3362BAD86.html",
   "summary": "",
   "pub_time": "2026-09-24T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "764bd8afeea439bfcadbc0668aa8cda8",
+  "dedup_key": "729f3da340ad40b41481d1c9a1e5ce66",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -2946,25 +2975,6 @@
   "is_elite": false
  },
  {
-  "title": "关键矿产日报：淡水河谷拟入股Ligga，印尼IMIP确认镍冶炼厂减产",
-  "url": "https://news.mysteel.com/a/26092317/9BE0492FA36A59C9.html",
-  "summary": "",
-  "pub_time": "2026-09-23T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "4f441737e6270340f1d991436034e4be",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel国际金融量化论坛·香港站回顾——模型不再是护城河，量化的edge在哪里？",
   "url": "https://news.mysteel.com/a/26092317/DF35CF98CF26B45F.html",
   "summary": "",
@@ -2984,18 +2994,18 @@
   "is_elite": false
  },
  {
-  "title": "油价飙升，欧洲柴油车每天多“烧”逾2亿欧元",
-  "url": "https://news.mysteel.com/a/26092317/2EF2C0D7CE21C8D2.html",
+  "title": "关键矿产日报：淡水河谷拟入股Ligga，印尼IMIP确认镍冶炼厂减产",
+  "url": "https://news.mysteel.com/a/26092317/24E9675ED2027187.html",
   "summary": "",
   "pub_time": "2026-09-23T09:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "eb9dc6cddf03cd04f52f84e090ea01d4",
+  "dedup_key": "4f441737e6270340f1d991436034e4be",
   "score": 80,
   "priority": "P1",
-  "topic": "国内/财经",
+  "topic": "国内/大宗商品",
   "tags": [
-   "财经",
+   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -3053,139 +3063,6 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "现货黄金失守4320美元/盎司",
-  "url": "https://news.mysteel.com/a/26092315/9637235188F075D9.html",
-  "summary": "",
-  "pub_time": "2026-09-23T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "fa93973b0613e8b36cd8a850dc847c7e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "铜价再破11万，排产八连降，空调行业还好吗？",
-  "url": "https://news.mysteel.com/a/26092315/655F7E36B02123AB.html",
-  "summary": "",
-  "pub_time": "2026-09-23T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "cb253dc09dad8ad759e2365202a5377d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "富达投资：黄金的公允价值已达到每盎司5000美元",
-  "url": "https://news.mysteel.com/a/26092313/D028ED45162C2EF6.html",
-  "summary": "",
-  "pub_time": "2026-09-23T05:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "b818937afed2e38add2876161c84dacc",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "盛宝银行：金价正与利率逐步脱钩，黄金ETF持仓量升至七个月来最高水平",
-  "url": "https://news.mysteel.com/a/26092313/562D0DEBF43A466B.html",
-  "summary": "",
-  "pub_time": "2026-09-23T05:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "84b5283948dd42503c2eef5cca2d98c8",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "螺纹钢期货下跌，节前钢价涨跌有限",
-  "url": "https://news.mysteel.com/a/26092311/10C9719709CF57D1.html",
-  "summary": "",
-  "pub_time": "2026-09-23T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "036217c503c330069a8924d60c2b25cf",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "【证券时报】隆众资讯李彦：供应忧虑有所缓和，国际油价有下跌空间",
-  "url": "https://news.mysteel.com/a/26092311/38F262D3D8B85FFD.html",
-  "summary": "",
-  "pub_time": "2026-09-23T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "20c998a4c3254ee7059fdc25b99ac84d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "纽约金价22日小幅上涨",
-  "url": "https://news.mysteel.com/a/26092310/6DF522ED0E9D96CA.html",
-  "summary": "",
-  "pub_time": "2026-09-23T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "15c709c09b3726657d4f3e2d74bdbe7d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
