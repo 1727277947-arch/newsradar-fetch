@@ -1,12 +1,147 @@
 [
  {
-  "title": "“十五五”期间全国碳市场覆盖范围将进一步扩大",
-  "url": "https://www.chinanews.com.cn/cj/2026/09-25/10703757.shtml",
-  "summary": "记者 阮煜琳)国际电力碳排放核算规则交流会日前在河北崇礼举办。清华大学能源环境经济研究所所长张希良在会上表示，目前，中国碳市场已经纳入发电、钢铁、水泥、铝冶炼四个行业，到2030年以前，全国碳市场将进一步扩大覆盖范围，还将纳入化工、石化等行业。届时，中国碳市场覆盖二氧化碳排放量，将占全国碳排放总量的75%以上",
-  "pub_time": "2026-09-25T08:58:16Z",
-  "source": "中国新闻网-财经",
+  "title": "工人死亡导致世界最大铜矿关闭",
+  "url": "",
+  "summary": "周四，必和必拓（ASX，纽约证券交易所代码：BHP）关闭了全球最大的铜矿，此前一名员工在智利北部埃斯孔迪达矿场的维护工作中丧生，监管机构对此进行了调查。",
+  "pub_time": "2026-09-25T11:00:57Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "06ea223145d5aa447a8592c166bb3fff",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜"
+  ],
+  "en_title": "Worker death keeps world’s largest copper mine shut"
+ },
+ {
+  "title": "乌克兰无人机袭击摧毁俄罗斯新沙赫金斯克炼油厂",
+  "url": "",
+  "summary": "周五，乌克兰无人机袭击后，另一家俄罗斯炼油厂被关闭，这表明乌克兰和俄罗斯继续对能源基础设施进行攻击，尽管在纽约与美国官员举行了旨在缓和局势的单独会谈。罗斯南部的新沙赫金斯克炼油厂",
+  "pub_time": "2026-09-25T11:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "7a9ec4e88df936537b6adc7b9413e059",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "炼厂",
+   "锡",
+   "罢工"
+  ],
+  "en_title": "Ukraine Drone Strike Knocks Out Russia's Novoshakhtinsk Refinery"
+ },
+ {
+  "title": "荷兰在 11.4 亿美元法案后推动废除欧盟天然气储存授权",
+  "url": "",
+  "summary": "荷兰认为，欧盟现行的冬季前储气目标体系不够充分，给政府带来了负担，而政府必须为履行欧盟范围内的义务付费。仅今年夏季，荷兰政府就已花费近 11.4 亿美元（10 亿欧元）建设 u",
+  "pub_time": "2026-09-25T10:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "d3064eed4a375738b5f496d801d0cf7b",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气"
+  ],
+  "en_title": "Netherlands Pushes to Scrap EU Gas Storage Mandate After $1.14 Billion Bill"
+ },
+ {
+  "title": "随着油价和收益率下降，金价小幅走高",
+  "url": "",
+  "summary": "(RTTNews) - 周五金价上涨至每盎司 4,300 美元，因有报道称伊朗已向美国提交了结束战争并在七年内重新开放霍尔木兹海峡的提案，政府债务抛售有所缓解，油价从近期高位回落。",
+  "pub_time": "2026-09-25T09:48:26Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "34051c99b27608b8ba0224656b8cccf4",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "原油",
+   "价"
+  ],
+  "en_title": "Gold Edges Higher As Oil Prices And Yields Ease"
+ },
+ {
+  "title": "美伊关系取得突破性希望，油价下跌",
+  "url": "",
+  "summary": "(RTTNews) - 周五，有报道称伊朗已向美国提出结束战争并在 7 天内重新开放霍尔木兹海峡的提案，油价从近期高位回落。",
+  "pub_time": "2026-09-25T09:35:08Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "b4f893aaddf2d3e701eb09b716d29f35",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价"
+  ],
+  "en_title": "Oil Prices Ease On US-Iran Breakthrough Hopes"
+ },
+ {
+  "title": "Mysteel：中秋假期热点速递（9月25日）",
+  "url": "https://news.mysteel.com/a/26092517/0F2DECFA88CFBFC0.html",
+  "summary": "",
+  "pub_time": "2026-09-25T09:00:00Z",
+  "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "a964ad6d8d6cad92d03ca5f860f85231",
+  "dedup_key": "a889bf97698fc19f77edd99396b0e722",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -14,7 +149,7 @@
    "财经",
    "中文",
    "国内",
-   "中国新闻网-财经"
+   "上海钢联Mysteel"
   ],
   "is_elite": false
  },
@@ -126,7 +261,7 @@
  },
  {
   "title": "国际油价深夜坐上“过山车”：沙特再度遭袭 美伊谈判又有新传闻",
-  "url": "https://news.mysteel.com/a/26092509/0746D07110D7DC2D.html",
+  "url": "https://news.mysteel.com/a/26092509/6D9C019BA86AAF24.html",
   "summary": "",
   "pub_time": "2026-09-25T01:00:00Z",
   "source": "上海钢联Mysteel",
@@ -411,32 +546,6 @@
   "en_title": "Why Are Diesel Prices So High?"
  },
  {
-  "title": "伊朗警告美国袭击可能将战争推向印度洋",
-  "url": "",
-  "summary": "就在本月，伊朗冲突升级为沙特联军与也门胡塞武装之间的新一轮战斗。现在伊朗威胁要进一步扩大战斗范围，甚至进入印度洋。伊朗最高领袖莫杰塔巴·哈梅内伊的顾问叶海亚·拉希姆·萨法维警告说",
-  "pub_time": "2026-09-24T17:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "e4511fdc86b97d379ca155fe83588e7b",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "罢工"
-  ],
-  "en_title": "Iran Warns U.S. Strikes Could Push War Into Indian Ocean"
- },
- {
   "title": "OceanaGold 的 97 克重回了 Waihi 扩张",
   "url": "",
   "summary": "OceanaGold（多伦多证券交易所，纽约证券交易所股票代码：OGC）在钻探了 Wharekirauponga 迄今为止最丰富的一些洞（包括 6.3 米等级 97.2）后，正在研究将其位于新西兰的 Waihi 加工厂扩建 50%。",
@@ -514,32 +623,6 @@
    "黄金"
   ],
   "en_title": "Collective hits gold-tungsten beyond Apollo model"
- },
- {
-  "title": "美国邀请普京出席迈阿密 G20 峰会",
-  "url": "",
-  "summary": "美国国务卿马可·卢比奥 9 月 23 日表示，美国已邀请俄罗斯总统弗拉基米尔·普京出席 12 月在迈阿密举行的 20 国集团峰会，特朗普政府正在寻求采取措施减少乌克兰的战斗。卢比奥表示：“我们已邀请普京总统参加 G20 峰会”",
-  "pub_time": "2026-09-24T16:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "b76ea6aad98ee69b1028f6ad27dcfe6f",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡"
-  ],
-  "en_title": "U.S. Invites Putin To G20 Summit In Miami"
  },
  {
   "title": "【独家】逐步转战新粮，小麦价格略涨",
@@ -903,25 +986,6 @@
    "走强"
   ],
   "en_title": "Oil Extends Gains On Renewed US-Iran Tensions"
- },
- {
-  "title": "Mysteel晚餐：钢材总库存下降",
-  "url": "https://news.mysteel.com/a/26092417/9E55DE43094D521E.html",
-  "summary": "",
-  "pub_time": "2026-09-24T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "082095dd49df4a6a35b6e65010e271e2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  },
  {
   "title": "Mysteel晚餐：钢材总库存下降，云南钢厂调整规格组距价差",
@@ -1577,13 +1641,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：铁矿石短线行情陷入区间整理",
-  "url": "https://news.mysteel.com/a/26092409/D38327A3362BAD86.html",
+  "title": "瑞达期货：焦煤主力2701合约震荡运行",
+  "url": "https://news.mysteel.com/a/26092409/27DA9D484F6079B7.html",
   "summary": "",
   "pub_time": "2026-09-24T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "729f3da340ad40b41481d1c9a1e5ce66",
+  "dedup_key": "764bd8afeea439bfcadbc0668aa8cda8",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1596,13 +1660,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：焦煤主力2701合约震荡运行",
-  "url": "https://news.mysteel.com/a/26092409/27DA9D484F6079B7.html",
+  "title": "瑞达期货：铁矿石短线行情陷入区间整理",
+  "url": "https://news.mysteel.com/a/26092409/D38327A3362BAD86.html",
   "summary": "",
   "pub_time": "2026-09-24T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "764bd8afeea439bfcadbc0668aa8cda8",
+  "dedup_key": "729f3da340ad40b41481d1c9a1e5ce66",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -2897,32 +2961,5 @@
    "黄金"
   ],
   "en_title": "Ex-Gold Fields CEO targets $1B Africa critical minerals fund"
- },
- {
-  "title": "黄金因加息担忧而暴跌",
-  "url": "",
-  "summary": "(RTTNews) - 周三金价大幅下跌，因投资者密切关注美国和伊朗之间的事态发展，并期待周四举行关键的美中峰会，在竞争升级和先进技术限制的情况下，这可能会导致新的贸易协定",
-  "pub_time": "2026-09-23T09:49:36Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "afc45fb8272899d5f60f5ec7108ff47c",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "暴跌"
-  ],
-  "en_title": "Gold Tumbles On Rate Hike Fears"
  }
 ]
