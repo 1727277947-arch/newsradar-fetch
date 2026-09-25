@@ -1,5 +1,31 @@
 [
  {
+  "title": "5只能源股为长期伊朗战争做好准备",
+  "url": "",
+  "summary": "自伊朗战争爆发以来，摩根大通首次表示，对于石油市场如何摆脱战争，它不再有明确的基线。该银行此前的假设是，油价上涨及其造成的经济损失最终将限制冲突的发展程度",
+  "pub_time": "2026-09-25T00:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "80cc294d41c7d7c4885d0b09677a4db7",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "库存"
+  ],
+  "en_title": "5 Energy Stocks Positioned for a Prolonged Iran War"
+ },
+ {
   "title": "运费飙升使日本原油进口成为全球最贵",
   "url": "",
   "summary": "石油在到达炼油厂之前就变得越来越贵。目前，运费约占原油货物成本的五分之一，使油轮市场成为买家支付价格的主要驱动力。处于挤压中心的是超大型原油运输船，即 VLCC，超级油轮。",
@@ -685,32 +711,6 @@
   "en_title": "Kinross Gold cuts output, boosts shareholder payout"
  },
  {
-  "title": "沙特阿拉伯通过霍尔木兹海峡向亚洲出售1亿桶原油",
-  "url": "",
-  "summary": "自上周中旬以来，沙特阿拉伯已通过霍尔木兹海峡向亚洲买家出售了近1亿桶原油，当时该国转向红海的东西方管道，转向其希望避免的阻塞点。随着管道停止服务，沙特已售出1亿桶石油",
-  "pub_time": "2026-09-24T13:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "0d1acf1835c078660adab7631a7155e2",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Saudi Arabia Sells 100 Million Barrels of Crude to Asia via Hormuz"
- },
- {
   "title": "力拓将金属贸易扩大到自身产量之外",
   "url": "",
   "summary": "矿业巨头瞄准了第三方交易和衍生品，其首席执行官西蒙·特洛特(Simon Trott)希望从其全球资产基础中寻求更多价值。",
@@ -848,6 +848,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：预防式加息下的类滞胀交易：从加息到中美元首会晤",
+  "url": "https://news.mysteel.com/a/26092417/CF794A6E1B3DB72C.html",
+  "summary": "",
+  "pub_time": "2026-09-24T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "948f4a81296cb179e74458d7411f0c9c",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -1476,13 +1495,13 @@
   "en_title": "Daily Market Wire 24 September 2026"
  },
  {
-  "title": "瑞达期货：焦煤主力2701合约震荡运行",
-  "url": "https://news.mysteel.com/a/26092409/27DA9D484F6079B7.html",
+  "title": "瑞达期货：铁矿石短线行情陷入区间整理",
+  "url": "https://news.mysteel.com/a/26092409/D38327A3362BAD86.html",
   "summary": "",
   "pub_time": "2026-09-24T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "764bd8afeea439bfcadbc0668aa8cda8",
+  "dedup_key": "729f3da340ad40b41481d1c9a1e5ce66",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1495,13 +1514,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：铁矿石短线行情陷入区间整理",
-  "url": "https://news.mysteel.com/a/26092409/D38327A3362BAD86.html",
+  "title": "瑞达期货：焦煤主力2701合约震荡运行",
+  "url": "https://news.mysteel.com/a/26092409/27DA9D484F6079B7.html",
   "summary": "",
   "pub_time": "2026-09-24T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "729f3da340ad40b41481d1c9a1e5ce66",
+  "dedup_key": "764bd8afeea439bfcadbc0668aa8cda8",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
