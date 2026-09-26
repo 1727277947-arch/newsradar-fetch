@@ -1,5 +1,33 @@
 [
  {
+  "title": "尽管石油产量攀升，巴西的能源结构仍走向绿色",
+  "url": "",
+  "summary": "得益于有利的国家政策和外国投资者的支持，巴西正在继续扩大其可再生能源产能。近年来，这家南美巨头发展了令人印象深刻的绿色能源产业，扩大了石油和天然气生产，以加强能源安全和经济发展。",
+  "pub_time": "2026-09-26T19:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "01b0b9b9e82f572086e5f0f9b9258123",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "原油",
+   "能源",
+   "走高",
+   "产量"
+  ],
+  "en_title": "Brazil's Energy Mix Goes Green Even As Oil Production Climbs"
+ },
+ {
   "title": "北卡罗来纳州监管机构拒绝杜克能源天然气发电厂",
   "url": "",
   "summary": "随着美国提高产量并寻求填补霍尔木兹海峡能源贸易限制造成的缺口，预计美国天然气产量将在 2026 年和 2027 年创下历史新高。然而，随着美国加倍加大其天然气野心，一名法官裁定，",
@@ -614,31 +642,6 @@
   "en_title": "U.S.-Iran Talks Revive June Plan for Ending Hormuz Standoff"
  },
  {
-  "title": "随着战争风险逼近延布，阿美公司恢复东西管道",
-  "url": "",
-  "summary": "沙特阿美石油公司(Saudi Aramco)在袭击摧毁了每天700万桶的系统后不到两周就重新启动了其东西向管道(Petroline)，至少恢复了自战争开始以来在霍尔木兹海峡周围运输大部分沙特原油的部分路线。泵送已以较低的速率恢复，w",
-  "pub_time": "2026-09-25T13:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "a7439603914e676b8d51509f20e7ac29",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Aramco Restores East-West Pipeline as War Risk Closes In on Yanbu"
- },
- {
   "title": "必和必拓凭借 Island Copper 荣获 BC 省最高填海奖",
   "url": "",
   "summary": "必和必拓（ASX、LSE、NYSE：BHP）因其在温哥华岛北部的岛铜矿关闭后三十多年的持续工作而荣获不列颠哥伦比亚省最高矿山复垦奖。必和必拓凭借 Island Copper 荣获 BC 省最高填海奖，该消息首先出现在《The Northern Miner》上。",
@@ -950,61 +953,5 @@
    "库存"
   ],
   "en_title": "Ball Stock Getting Very Oversold"
- },
- {
-  "title": "原油价格从高位回落，但仍大幅走高",
-  "url": "",
-  "summary": "(RTTNews) - 原油价格在盘初飙升后有所回落，但在周四交易期间仍大幅走高。",
-  "pub_time": "2026-09-24T18:31:10Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "f32530f63ce207d9ace2654834552a7c",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价"
-  ],
-  "en_title": "Crude Oil Prices Pull Back Off Highs But Remain Sharply Higher"
- },
- {
-  "title": "随着原油价格继续飙升，金价进一步下跌",
-  "url": "",
-  "summary": "(RTTNews) - 继前一交易日大幅下跌后，金价在周四交易中进一步下跌。",
-  "pub_time": "2026-09-24T18:16:44Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "f4b10f8a25aa6e5e668c66ea2eb2cd5d",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "原油",
-   "价",
-   "大涨"
-  ],
-  "en_title": "Gold Seeing Further Downside As Crude Oil Prices Extend Surge"
  }
 ]
