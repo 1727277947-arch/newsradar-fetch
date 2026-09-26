@@ -1,5 +1,24 @@
 [
  {
+  "title": "Mysteel：中秋假期热点速递（9月26日）",
+  "url": "https://news.mysteel.com/a/26092617/A4D220D17C6BC2F3.html",
+  "summary": "",
+  "pub_time": "2026-09-26T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "c06daf27185cb151d3123eacf5978537",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "每日钢市：本周螺纹钢小涨，钢坯亏损扩大，下周钢价或窄幅震荡",
   "url": "https://news.mysteel.com/a/26092614/73F7591A87E2CAF0.html",
   "summary": "",
@@ -15,25 +34,6 @@
    "中文",
    "国内",
    "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "锚定“三区三地” 海南保亭绘就高质量发展新布局",
-  "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704049.shtml",
-  "summary": "张月和)“‘十五五’时期是海南保亭把握重大政策机遇、实现进位争先的黄金窗口期。”因此，地处海南中南部、离三亚不远的这个黎族苗族自治县，紧扣中欧绿色数字创新合作区功能布局，绘就了今后五年高质量发展的“新蓝图”“新布局”",
-  "pub_time": "2026-09-26T04:38:54Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "7a2035d712816ca2b83758a5ba1c2f83",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
   ],
   "is_elite": false
  },
@@ -778,25 +778,6 @@
   "en_title": "Oil Prices Ease On US-Iran Breakthrough Hopes"
  },
  {
-  "title": "Mysteel：中秋假期热点速递（9月25日）",
-  "url": "https://news.mysteel.com/a/26092517/0F2DECFA88CFBFC0.html",
-  "summary": "",
-  "pub_time": "2026-09-25T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "a889bf97698fc19f77edd99396b0e722",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "钢材下游周报：白电10月排产出炉",
   "url": "https://news.mysteel.com/a/26092517/B9317BBEC68B0D2C.html",
   "summary": "",
@@ -823,6 +804,25 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "b1e156eb9da5e8cfaf804bb95093154d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：中秋假期热点速递（9月25日）",
+  "url": "https://news.mysteel.com/a/26092517/F86518E1057F0440.html",
+  "summary": "",
+  "pub_time": "2026-09-25T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "a889bf97698fc19f77edd99396b0e722",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -1324,83 +1324,5 @@
    "产量"
   ],
   "en_title": "Rio Tinto to expand metals trading beyond own output"
- },
- {
-  "title": "嘉能可 (Glencore) 定于 10 月 14 日在澳大利亚上市",
-  "url": "",
-  "summary": "其目标是利用澳大利亚 4.4 万亿澳元的养老金市场进行铜矿扩张和收购。",
-  "pub_time": "2026-09-24T10:49:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "97f7eb3909cde6118e0a07d4f50ca925",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Glencore sets Oct. 14 date for Australian market debut"
- },
- {
-  "title": "美元走强、收益率上升，金价下跌",
-  "url": "",
-  "summary": "(RTTNews) - 油价隔夜大幅上涨后，周四金价交投于每盎司 4,300 美元下方，美债收益率跃升至近二十年来的最高水平，主要源于长期西甲期间全球能源价格飙升引发的通胀担忧。",
-  "pub_time": "2026-09-24T10:10:02Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "88df6094d03fc7c50c754cde51edfb60",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Gold Dips On Stronger Dollar, Rising Yields"
- },
- {
-  "title": "美伊紧张局势再度紧张，油价延续涨势",
-  "url": "",
-  "summary": "(RTTNews) - 周四油价大幅走高，延续前一交易日的涨幅，因投资者权衡沙特出口流量改善的前景与进一步供应中断的可能性。",
-  "pub_time": "2026-09-24T09:42:33Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "204d05961c35501121ad94b1806ecba9",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "走强"
-  ],
-  "en_title": "Oil Extends Gains On Renewed US-Iran Tensions"
  }
 ]
