@@ -900,58 +900,5 @@
    "能源"
   ],
   "en_title": "Daily Market Wire 25 September 2026"
- },
- {
-  "title": "CNIKF 股票挤满卖家",
-  "url": "",
-  "summary": "在周四的交易中，加拿大镍业公司（代码：CNIKF）的股票进入超卖区域，易手低至每股 0.9241 美元。我们使用相对强弱指数（RSI）来定义超卖区域，这是一种用于衡量超卖趋势的技术分析指标。",
-  "pub_time": "2026-09-24T20:07:22Z",
-  "source": "Nasdaq商品",
-  "_cat": "基本金属",
-  "dedup_key": "6da76a499e109956658d6fc97381498e",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "库存"
-  ],
-  "en_title": "CNIKF Stock Crowded With Sellers"
- },
- {
-  "title": "球库存变得非常超卖",
-  "url": "",
-  "summary": "在周四的交易中，鲍尔公司（股票代码：BALL）的股票进入超卖区域，换手价低至每股 56.57 美元。我们使用相对强弱指数 (RSI) 定义超卖区域，这是一种技术分析指标，用于衡量市场动量",
-  "pub_time": "2026-09-24T20:06:10Z",
-  "source": "Nasdaq商品",
-  "_cat": "基本金属",
-  "dedup_key": "05b83718374f97347dc165c9d2cfcf79",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡",
-   "库存"
-  ],
-  "en_title": "Ball Stock Getting Very Oversold"
  }
 ]
