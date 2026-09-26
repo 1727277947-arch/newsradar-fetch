@@ -360,6 +360,25 @@
   "en_title": "Why WTI Is Suddenly Trading $12 Below Brent"
  },
  {
+  "title": "【独家】玉米下跌结束了吗？",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/26/3258455016.shtml",
+  "summary": "",
+  "pub_time": "2026-09-25T16:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "b28c841d5f2a459c6734528bd6467b81",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "Lundin Gold 在厄瓜多尔创下 1035 克的纪录",
   "url": "",
   "summary": "分析师表示：“Bonza Sur 正在进行的钻探继续支持修订后的地质解释，重点是高品位矿化。”",
@@ -1269,60 +1288,5 @@
    "基本金属"
   ],
   "en_title": "Glencore sets Oct. 14 for Australian market debut"
- },
- {
-  "title": "金罗斯黄金公司削减产量，提高股东派息",
-  "url": "",
-  "summary": "由于智利的天气问题和内华达州的表现疲软，Kinross 将 2026-2027 年的产量预期下调了 8%。",
-  "pub_time": "2026-09-24T13:52:59Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "1a9a303678cbe1e933da58f2407c9bb0",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "产量"
-  ],
-  "en_title": "Kinross Gold cuts output, boosts shareholder payout"
- },
- {
-  "title": "力拓将金属贸易扩大到自身产量之外",
-  "url": "",
-  "summary": "矿业巨头瞄准了第三方交易和衍生品，其首席执行官西蒙·特洛特(Simon Trott)希望从其全球资产基础中寻求更多价值。",
-  "pub_time": "2026-09-24T11:46:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "3b084c8602b7f62a2232715b83df8a66",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡",
-   "金属",
-   "产量"
-  ],
-  "en_title": "Rio Tinto to expand metals trading beyond own output"
  }
 ]
