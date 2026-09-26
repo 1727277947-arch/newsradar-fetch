@@ -759,6 +759,44 @@
   "is_elite": false
  },
  {
+  "title": "钢材下游周报：白电10月排产出炉",
+  "url": "https://news.mysteel.com/a/26092517/B9317BBEC68B0D2C.html",
+  "summary": "",
+  "pub_time": "2026-09-25T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "ffd2f139b2aa98efe26213d39673265c",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "钢材下游周报：白电10月排产出炉，住房公积金新政施行",
+  "url": "https://news.mysteel.com/a/26092517/E768B12DA8CDD767.html",
+  "summary": "",
+  "pub_time": "2026-09-25T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "b1e156eb9da5e8cfaf804bb95093154d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "国际油价深夜坐上“过山车”：沙特再度遭袭 美伊谈判又有新传闻",
   "url": "https://news.mysteel.com/a/26092509/6D9C019BA86AAF24.html",
   "summary": "",
@@ -1981,13 +2019,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：焦煤主力2701合约震荡运行",
-  "url": "https://news.mysteel.com/a/26092409/27DA9D484F6079B7.html",
+  "title": "瑞达期货：铁矿石短线行情陷入区间整理",
+  "url": "https://news.mysteel.com/a/26092409/D38327A3362BAD86.html",
   "summary": "",
   "pub_time": "2026-09-24T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "764bd8afeea439bfcadbc0668aa8cda8",
+  "dedup_key": "729f3da340ad40b41481d1c9a1e5ce66",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -2000,13 +2038,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：铁矿石短线行情陷入区间整理",
-  "url": "https://news.mysteel.com/a/26092409/D38327A3362BAD86.html",
+  "title": "瑞达期货：焦煤主力2701合约震荡运行",
+  "url": "https://news.mysteel.com/a/26092409/27DA9D484F6079B7.html",
   "summary": "",
   "pub_time": "2026-09-24T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "729f3da340ad40b41481d1c9a1e5ce66",
+  "dedup_key": "764bd8afeea439bfcadbc0668aa8cda8",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -2045,63 +2083,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "164112d4f91968f3c8a52a7f6f304627",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "俄乌冲突加剧全球小麦涨价",
-  "url": "https://news.mysteel.com/a/26092408/F823A1761D6A26B3.html",
-  "summary": "",
-  "pub_time": "2026-09-24T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "811d48461271fb7d997c155655e4c938",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "几乎没有黑海小麦进入亚洲！俄乌冲突加剧全球小麦涨价",
-  "url": "https://news.mysteel.com/a/26092408/F823A1761D6A26B3.html",
-  "summary": "",
-  "pub_time": "2026-09-24T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "06b313553e0cd63c60370ca18d1b15a2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "全球低碳项目大面积推迟，中国钢铁低碳转型有哪些破局路径？",
-  "url": "https://news.mysteel.com/a/26092408/B150D7FA9647E907.html",
-  "summary": "",
-  "pub_time": "2026-09-24T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "24f1798fc0624d1109c8ef56b7cd3558",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
