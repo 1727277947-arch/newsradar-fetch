@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-26T09:57:51",
+ "updated_at": "2026-09-26T15:02:21",
  "spot_meta": {
   "policy": "stale_never_fill",
   "spot_page_used": "2026-09-24",
@@ -6677,7 +6677,8 @@
    "reason": "今日打板 · 方向做空 · 实时-3.48% / 波幅4.81% / 打板分15: 进场≈123196, 止损127889, 止盈114268",
    "tier": 1,
    "rank": 2,
-   "is_today": false
+   "is_today": false,
+   "plan_basis": "alt_symbol"
   }
  ],
  "hf_pool": [
@@ -6753,8 +6754,57 @@
   "date": "2026-09-26",
   "session": "afternoon",
   "ruleset": 3,
-  "name": "",
-  "symbol": ""
+  "symbol": "LC0",
+  "name": "碳酸锂",
+  "category": "基本金属",
+  "unit": "元/吨",
+  "price": 124420.0,
+  "direct": -1,
+  "dir_label": "做空",
+  "day_range_pct": 4.81,
+  "limit_score": 15,
+  "board": "一般/观望",
+  "dual": {
+   "st": "break_a",
+   "ref": 128600.0
+  },
+  "plan": {
+   "dir": "short",
+   "dir_label": "做空",
+   "entry": 123195.714,
+   "entry_alt": null,
+   "entry_alt_kind": null,
+   "sl": 127889.471,
+   "tp": 114268.5,
+   "sl_pct": 3.81,
+   "rr": 2.0,
+   "basis": "live_break",
+   "note": "跌破现价确认位才空(条件式); 止损ATR自适应, 2R落袋; 进场后立刻反向即离场"
+  },
+  "real_open": 128600.0,
+  "day_bias": "bear",
+  "day_ma": [
+   130828.0,
+   141115.0,
+   146632.67
+  ],
+  "est_margin": 14930.4,
+  "hands_in_100k": 6,
+  "volume": 429402,
+  "open_interest": 288475,
+  "mode": "追跌做空",
+  "anchor": 124420.0,
+  "tp": 114268.5,
+  "sl": 127889.471,
+  "pullback": null,
+  "src_conflict": false,
+  "board_score": 0.906,
+  "day_conflict": null,
+  "reason": "今日打板 · 方向做空 · 实时-3.48% / 波幅4.81% / 打板分15: 进场≈123196, 止损127889, 止盈114268",
+  "tier": 1,
+  "rank": 2,
+  "is_today": false,
+  "plan_basis": "alt_symbol"
  },
  "trading_rules": [
   {
