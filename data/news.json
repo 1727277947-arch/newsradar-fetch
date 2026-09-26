@@ -1,5 +1,31 @@
 [
  {
+  "title": "北卡罗来纳州监管机构拒绝杜克能源天然气发电厂",
+  "url": "",
+  "summary": "随着美国提高产量并寻求填补霍尔木兹海峡能源贸易限制造成的缺口，预计美国天然气产量将在 2026 年和 2027 年创下历史新高。然而，随着美国加倍加大其天然气野心，一名法官裁定，",
+  "pub_time": "2026-09-26T15:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "290974804240ea8d611932e43170ccab",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "天然气",
+   "能源"
+  ],
+  "en_title": "North Carolina Regulators Reject Duke Energy Gas Power Plant"
+ },
+ {
   "title": "Mysteel：中秋假期热点速递（9月26日）",
   "url": "https://news.mysteel.com/a/26092617/A4D220D17C6BC2F3.html",
   "summary": "",
@@ -1005,288 +1031,5 @@
    "大涨"
   ],
   "en_title": "Gold Seeing Further Downside As Crude Oil Prices Extend Surge"
- },
- {
-  "title": "OceanaGold 的 97 克重回了 Waihi 扩张",
-  "url": "",
-  "summary": "OceanaGold（多伦多证券交易所，纽约证券交易所股票代码：OGC）在钻探了 Wharekirauponga 迄今为止最丰富的一些洞（包括 6.3 米等级 97.2）后，正在研究将其位于新西兰的 Waihi 加工厂扩建 50%。",
-  "pub_time": "2026-09-24T16:20:23Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "220a953630736a1e74144f83e41bdf99",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "OceanaGold’s 97-gram hit backs Waihi expansion"
- },
- {
-  "title": "金罗斯黄金公司削减产量，提高股东派息",
-  "url": "",
-  "summary": "由于 La Coipa 的天气和冶金问题，Kinross Gold（多伦多证券交易所股票代码：K；纽约证券交易所股票代码：KGC）已将 2026 年和 2027 年的产量预期较之前的指导中点下调约 8%。《The Northern Miner》首先报道了 Kinross Gold 减产、提高股东派息的消息。",
-  "pub_time": "2026-09-24T16:10:20Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "dc55676f4d2cebf5060356f14a2521f3",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "产量"
-  ],
-  "en_title": "Kinross Gold cuts output, boosts shareholder payout"
- },
- {
-  "title": "集体击中金钨超越阿波罗模型",
-  "url": "",
-  "summary": "Collective Mining（多伦多证券交易所，纳斯达克股票代码：CNL）在哥伦比亚阿波罗角砾岩南缘外的片岩中发现了高品位金和钨，开辟了一个新的钻探目标。",
-  "pub_time": "2026-09-24T16:00:40Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "81e31c49b5cd9e1601cd61c96defdcc5",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Collective hits gold-tungsten beyond Apollo model"
- },
- {
-  "title": "【独家】逐步转战新粮，小麦价格略涨",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/25/5445723225.shtml",
-  "summary": "",
-  "pub_time": "2026-09-24T16:00:00Z",
-  "source": "粮油豆粕",
-  "_cn": true,
-  "dedup_key": "f0a985c0b5d07bd35a8e8fdba2c2ee14",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油豆粕"
-  ],
-  "is_elite": false
- },
- {
-  "title": "美国和阿根廷启动“安第斯山脉-大西洋走廊”，获得高达 70 亿美元的支持",
-  "url": "",
-  "summary": "美国进出口银行 (EXIM) 将为阿根廷关键矿产和能源项目提供高达 70 亿美元的融资，华盛顿寻求加强对该地区资源的获取，...美国、阿根廷推出“安第斯山脉-大西洋走廊”，获得高达 70 亿美元的支持",
-  "pub_time": "2026-09-24T15:30:54Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "4b5f60770ce9649edcae3fdffbcf4e0f",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡"
-  ],
-  "en_title": "US, Argentina launch ‘Andes-Atlantic Corridor” with up to $7B backing"
- },
- {
-  "title": "油价下跌，美联储加息担忧提振美元",
-  "url": "",
-  "summary": "随着能源价格上涨以及美联储考虑加息，黄金在不确定的市场中付出了代价。",
-  "pub_time": "2026-09-24T15:08:38Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "8844ee670d0f1fefd525b7bbf10787cb",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "原油",
-   "价",
-   "下滑"
-  ],
-  "en_title": "Gold price slides as oil, Fed rate concerns lift dollar"
- },
- {
-  "title": "Tungsten West 签署 1.4B 英镑的英国承购协议",
-  "url": "",
-  "summary": "Tungsten West (LSE-A: TUN) 已签署一项具有约束力的八年协议，从其位于英格兰西南部的 Hemerdon 矿向美国钨生产商 The Elmet Group (纳斯达克股票代码：ELMT) 供货，该协议... Tungsten West 签署从英国购买 1.4 亿英镑的订单后首先出现在《北方矿工》上。",
-  "pub_time": "2026-09-24T15:00:49Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "a968a513c05786439736a3c05b096df7",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Tungsten West signs £1.4B offtake from UK"
- },
- {
-  "title": "PlantArcBio 报告首次露天玉米试验产量强劲",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-24T14:47:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "18afdcf239d37ee2bcd8dc9fbec49c0e",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "玉米"
-  ],
-  "en_title": "PlantArcBio Reports Strong Yield From First Open-Field Corn Trial"
- },
- {
-  "title": "力拓将金属贸易扩大到自身产量之外",
-  "url": "",
-  "summary": "力拓（澳大利亚证券交易所、纽约证券交易所、伦敦证券交易所代码：RIO）计划将其金属交易业务扩展到第三方材料和衍生品，首席执行官西蒙·特罗特（Simon Trott）寻求从该领域榨取更多价值。",
-  "pub_time": "2026-09-24T14:46:00Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "314ba458b5352df5fdb9da29543555c6",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡",
-   "金属",
-   "产量"
-  ],
-  "en_title": "Rio Tinto to expand metals trading beyond own output"
- },
- {
-  "title": "OceanaGold 的 97 克重回了 Waihi 扩张",
-  "url": "",
-  "summary": "在 Wharekirauponga 发现丰富的金矿后，OceanaGold 计划将其 Waihi 工厂扩建 50%。",
-  "pub_time": "2026-09-24T14:43:23Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "9f3e1c7eb95df831f37821bd5680a0cf",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "OceanaGold’s 97-gram hit backs Waihi expansion"
- },
- {
-  "title": "嘉能可定于 10 月 14 日在澳大利亚上市",
-  "url": "",
-  "summary": "嘉能可 (LSE: GLEN) 预计将于 10 月 14 日开始在澳大利亚证券交易所 (ASX) 进行交易，利用该国 4.4 万亿澳元（3.1 万亿美元）的养老金市场来支持其铜矿扩张和潜力...嘉能可定于 10 月 14 日在澳大利亚上市的消息首先出现在 Th 上。",
-  "pub_time": "2026-09-24T14:30:00Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "5f2ad4ce5b1ee3682b4dfa3dfbde26dd",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Glencore sets Oct. 14 for Australian market debut"
  }
 ]
