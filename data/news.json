@@ -1,5 +1,24 @@
 [
  {
+  "title": "中国北方钢城新变",
+  "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704459.shtml",
+  "summary": "记者 陈林 牛琳 艾广德)世界钢铁看中国，中国钢铁看唐山。在钢铁产业基本告别粗放式规模扩张、正处于“减量提质”攻坚阶段的当下，钢城如何发展，受到外界关注",
+  "pub_time": "2026-09-27T08:23:43Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "ae52c2aeaba2cbbfde652207a5bfa266",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "潮州港首艘运载粮食外轮顺利直靠",
   "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704422.shtml",
   "summary": "陈楚红 邓景文)从新加坡起航，装载6.9万吨黄豆的希腊籍外轮“阿尔法骄傲”轮26日顺利直靠潮州亚太燃油仓储公共通用码头(配送基地)。据悉，这是该码头自今年8月份获批粤东、闽西首个进境粮食指定监管场地以来，首次接靠直接进口大豆的外贸船舶，标志着进口粮食在潮州港“远洋直达”迎来新突破",
@@ -81,25 +100,6 @@
    "天然气"
   ],
   "en_title": "Global Gas Squeeze Could Last Through Next Summer"
- },
- {
-  "title": "4条高铁将同日开通 多地迈入高铁时代",
-  "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704309.shtml",
-  "summary": "记者今天从中国国家铁路集团有限公司获悉，京港高铁雄安至商丘段、西渝高铁西安至安康段、宜昌至兴山高铁、哈尔滨至伊春高铁将于9月28日集中开通运营。4条线路横跨南北、纵贯东西，覆盖华北、东北、西北、华中四大区域，以350公里、250公里不同时速等级的钢铁动脉，打破地域时空壁垒，让多地正式迈入高铁时代",
-  "pub_time": "2026-09-26T22:41:54Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "dc6ea6070947e8073b8bb4844f4d9c05",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
  },
  {
   "title": "尽管石油产量攀升，巴西的能源结构仍走向绿色",
@@ -914,62 +914,5 @@
    "价"
   ],
   "en_title": "Oil Prices Ease On US-Iran Breakthrough Hopes"
- },
- {
-  "title": "钢材下游周报：白电10月排产出炉",
-  "url": "https://news.mysteel.com/a/26092517/B9317BBEC68B0D2C.html",
-  "summary": "",
-  "pub_time": "2026-09-25T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "ffd2f139b2aa98efe26213d39673265c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "钢材下游周报：白电10月排产出炉，住房公积金新政施行",
-  "url": "https://news.mysteel.com/a/26092517/82818174A99EC004.html",
-  "summary": "",
-  "pub_time": "2026-09-25T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "b1e156eb9da5e8cfaf804bb95093154d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：中秋假期热点速递（9月25日）",
-  "url": "https://news.mysteel.com/a/26092517/F86518E1057F0440.html",
-  "summary": "",
-  "pub_time": "2026-09-25T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "a889bf97698fc19f77edd99396b0e722",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  }
 ]
