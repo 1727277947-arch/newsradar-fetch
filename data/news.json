@@ -1,5 +1,31 @@
 [
  {
+  "title": "全球天然气紧缩可能持续到明年夏天",
+  "url": "",
+  "summary": "至少到明年夏天，全球天然气供应可能仍将比应有的紧张，这可能会导致长期的需求破坏。如果这种情况成为现实，将对欧洲造成严重打击，因为在官方宣布之前，欧洲已经难以满足冬季天然气需求。",
+  "pub_time": "2026-09-26T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "074218f0f96c34cd3b97f5adbc4afd55",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气"
+  ],
+  "en_title": "Global Gas Squeeze Could Last Through Next Summer"
+ },
+ {
   "title": "4条高铁将同日开通 多地迈入高铁时代",
   "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704309.shtml",
   "summary": "记者今天从中国国家铁路集团有限公司获悉，京港高铁雄安至商丘段、西渝高铁西安至安康段、宜昌至兴山高铁、哈尔滨至伊春高铁将于9月28日集中开通运营。4条线路横跨南北、纵贯东西，覆盖华北、东北、西北、华中四大区域，以350公里、250公里不同时速等级的钢铁动脉，打破地域时空壁垒，让多地正式迈入高铁时代",
@@ -73,8 +99,46 @@
   "en_title": "North Carolina Regulators Reject Duke Energy Gas Power Plant"
  },
  {
+  "title": "Mysteel宏观周报：中美达成八点成果共识",
+  "url": "https://news.mysteel.com/a/26092622/61FF39245B908DBA.html",
+  "summary": "",
+  "pub_time": "2026-09-26T14:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "2a1931a5eaf7f284539bc084b33a9ce2",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel宏观周报：中美达成八点成果共识，美方拒绝伊朗“七天计划”",
+  "url": "https://news.mysteel.com/a/26092622/837C3AC95F6E47F1.html",
+  "summary": "",
+  "pub_time": "2026-09-26T14:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "4b6c23a0b9720ad9e864c63ad24f43e6",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "Mysteel：中秋假期热点速递（9月26日）",
-  "url": "https://news.mysteel.com/a/26092617/A4D220D17C6BC2F3.html",
+  "url": "https://news.mysteel.com/a/26092617/D253F4A2B0206109.html",
   "summary": "",
   "pub_time": "2026-09-26T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -634,31 +698,6 @@
    "WTI油价"
   ],
   "en_title": "WTI Whipsaws as Hormuz Hopes Collide With Diesel Crunch"
- },
- {
-  "title": "美伊会谈重启结束霍尔木兹对峙的六月计划",
-  "url": "",
-  "summary": "政治、地缘政治与冲突 美国和伊朗重新就六月份短暂结束战争的基本协议进行谈判：重新开放霍尔木兹海峡，放松美国的封锁，并利用临时停火来谈判他们现在无法解决的一切。纽约最新讨论焦点",
-  "pub_time": "2026-09-25T13:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "55f432e3ea51ac7a325be783d8377dc7",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "U.S.-Iran Talks Revive June Plan for Ending Hormuz Standoff"
  },
  {
   "title": "必和必拓凭借 Island Copper 荣获 BC 省最高填海奖",
