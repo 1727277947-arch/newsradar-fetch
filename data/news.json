@@ -119,7 +119,7 @@
  },
  {
   "title": "Mysteel宏观周报：中美达成八点成果共识，美方拒绝伊朗“七天计划”",
-  "url": "https://news.mysteel.com/a/26092622/837C3AC95F6E47F1.html",
+  "url": "https://news.mysteel.com/a/26092622/9C554AEC7E2AA866.html",
   "summary": "",
   "pub_time": "2026-09-26T14:00:00Z",
   "source": "上海钢联Mysteel",
@@ -138,7 +138,7 @@
  },
  {
   "title": "Mysteel：中秋假期热点速递（9月26日）",
-  "url": "https://news.mysteel.com/a/26092617/D253F4A2B0206109.html",
+  "url": "https://news.mysteel.com/a/26092617/CB8CC12671ED5063.html",
   "summary": "",
   "pub_time": "2026-09-26T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -157,7 +157,7 @@
  },
  {
   "title": "每日钢市：本周螺纹钢小涨，钢坯亏损扩大，下周钢价或窄幅震荡",
-  "url": "https://news.mysteel.com/a/26092614/73F7591A87E2CAF0.html",
+  "url": "https://news.mysteel.com/a/26092614/7F005CA0BBC79B57.html",
   "summary": "",
   "pub_time": "2026-09-26T06:00:00Z",
   "source": "上海钢联Mysteel",
@@ -914,49 +914,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "国际油价深夜坐上“过山车”：沙特再度遭袭 美伊谈判又有新传闻",
-  "url": "https://news.mysteel.com/a/26092509/6D9C019BA86AAF24.html",
-  "summary": "",
-  "pub_time": "2026-09-25T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "bb184287501a4bb0718dbce6cd7ce601",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "每日市场快讯 2026 年 9 月 25 日",
-  "url": "",
-  "summary": "谷物在一夜之间变软。原油集会。加拿大草原和美国爱荷华州潮湿；西澳大利亚周末迎来春雨，总决赛将在东部举行。",
-  "pub_time": "2026-09-25T00:52:06Z",
-  "source": "GrainCentral",
-  "_cat": "能源",
-  "dedup_key": "3b85f4c19465aa9d4aa1531ebb81d93b",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Daily Market Wire 25 September 2026"
  }
 ]
