@@ -1,5 +1,24 @@
 [
  {
+  "title": "中国信通院何阳：我国初步具备开展算力期货研究条件",
+  "url": "https://news.mysteel.com/a/26092720/E37B89EF5A53CAF3.html",
+  "summary": "",
+  "pub_time": "2026-09-27T12:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "14e8140305554481f7a6e344615ccd78",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "中国北方钢城新变",
   "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704459.shtml",
   "summary": "记者 陈林 牛琳 艾广德)世界钢铁看中国，中国钢铁看唐山。在钢铁产业基本告别粗放式规模扩张、正处于“减量提质”攻坚阶段的当下，钢城如何发展，受到外界关注",
@@ -34,44 +53,6 @@
    "中文",
    "国内",
    "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
-  "title": "数贸会观察：耐心资本如何托举创新浙江？",
-  "url": "https://www.chinanews.com.cn/cj/2026/09-27/10704418.shtml",
-  "summary": "郭其钰)一只仿生灵巧手可以感知捏碎一枚鸡蛋所需的力度；一幅低轨卫星星座图编织着一张几乎覆盖全球的物联网；一枚可重复使用火箭写下中国商业航天新注脚……",
-  "pub_time": "2026-09-27T06:01:26Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "5bc9f93e994cdcebd00c3b346ebe7526",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
-  "title": "利比亚主要输油管道恢复输送原油",
-  "url": "https://news.mysteel.com/a/26092710/4656497D1D7C3B89.html",
-  "summary": "",
-  "pub_time": "2026-09-27T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "a371ffafa079efec572791b459064b14",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
   ],
   "is_elite": false
  },
@@ -624,240 +605,5 @@
    "供应"
   ],
   "en_title": "EU Shrugs Off Gas Supply Fears Despite Low Storage Levels"
- },
- {
-  "title": "道明银行预计铑供应过剩将结束四年紧缩局面",
-  "url": "",
-  "summary": "汽车需求疲软可能会使铑在 2027 年出现过剩，但库存稀缺导致价格容易飙升。",
-  "pub_time": "2026-09-25T14:33:00Z",
-  "source": "Mining.com",
-  "_cat": "综合",
-  "dedup_key": "c92bb478af2c04362f5be2807176b680",
-  "score": 84,
-  "priority": "P1",
-  "topic": "综合",
-  "tags": [
-   "综合",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "综合"
-  ],
-  "en_title": "TD sees rhodium surplus ending four-year squeeze"
- },
- {
-  "title": "意大利推动炼油厂在价格飙升之际提高燃料产量",
-  "url": "",
-  "summary": "意大利工业和能源安全部长将于十月初会见意大利炼油行业高管，讨论炼油厂如何提高柴油和汽油产量，以帮助降低创纪录的高油价。工业部长阿道夫·乌尔索和他的环境与能源部长",
-  "pub_time": "2026-09-25T14:15:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "9790320f6473c23f08a296cd21dd83ba",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "燃料",
-   "价",
-   "大涨",
-   "产量"
-  ],
-  "en_title": "Italy Pushes Refineries to Raise Fuel Output Amid Price Surge"
- },
- {
-  "title": "北京的伊朗石油贸易招致国会山的新批评",
-  "url": "",
-  "summary": "美国议员和国家安全专家正在敦促唐纳德·特朗普总统对被指控在卫星情报、武器零部件和石油收入方面帮助伊朗的中国实体采取更严厉的行动。随着中国国家主席习近平周五访问白宫，这种呼声愈演愈烈。",
-  "pub_time": "2026-09-25T14:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "f921158ea1f0a499da3ed1f4187112d1",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Beijing's Iran Oil Trade Draws Fresh Criticism From Capitol Hill"
- },
- {
-  "title": "SuperCritical 测试海水铀系统",
-  "url": "",
-  "summary": "超临界材料公司与密歇根大学合作，测试从海水中提取铀的技术是否能够满足工业规模海洋部署的机械需求。该研究将...超临界试验后海水铀系统首次出现",
-  "pub_time": "2026-09-25T13:15:56Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "40676c69e7e8a467879d7ad1a802ebf9",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "SuperCritical tests seawater uranium system"
- },
- {
-  "title": "霍尔木兹希望与柴油紧缩相撞，WTI 遭受重创",
-  "url": "",
-  "summary": "11 月 WTI 原油期货本周交易霍尔木兹海峡可能重新开放，以应对航运状况尚未正常化的风险。有报道称伊朗可能在 7 天内重新开放海峡后，该合约周二跌至 88.67 美元，周四又回升至 96.78 美元。",
-  "pub_time": "2026-09-25T13:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "c9a043346613352fda264ece7e446795",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "WTI油价"
-  ],
-  "en_title": "WTI Whipsaws as Hormuz Hopes Collide With Diesel Crunch"
- },
- {
-  "title": "必和必拓凭借 Island Copper 荣获 BC 省最高填海奖",
-  "url": "",
-  "summary": "必和必拓（ASX、LSE、NYSE：BHP）因其在温哥华岛北部的岛铜矿关闭后三十多年的持续工作而荣获不列颠哥伦比亚省最高矿山复垦奖。必和必拓凭借 Island Copper 荣获 BC 省最高填海奖，该消息首先出现在《The Northern Miner》上。",
-  "pub_time": "2026-09-25T12:30:46Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "27cf383be275a62250032a058638b37b",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "BHP wins top BC reclamation award for Island Copper"
- },
- {
-  "title": "必和必拓的 Escondida 重启缓解铜市紧张",
-  "url": "",
-  "summary": "矿山停产、中国库存较低以及即将到来的假期休市使得铜市场几乎没有供应中断的空间。",
-  "pub_time": "2026-09-25T12:13:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "c684ee45b7ae15c5f2bbfe8f9feacc21",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "走软"
-  ],
-  "en_title": "BHP’s Escondida restart eases tight copper market"
- },
- {
-  "title": "道明银行预计铑供应过剩将结束四年紧缩局面",
-  "url": "",
-  "summary": "由于汽车催化剂需求疲软，明年市场将出现过剩，铑价预计将下跌，尽管库存异常稀少，使得这种稀有金属容易受到供应驱动的大幅上涨的影响，... TD 认为铑过剩结束四年紧缩的消息首先出现在 Northe 上",
-  "pub_time": "2026-09-25T11:05:00Z",
-  "source": "NorthernMiner",
-  "_cat": "综合",
-  "dedup_key": "6c97f08631bcbca83cb4676b98c548ea",
-  "score": 84,
-  "priority": "P1",
-  "topic": "综合",
-  "tags": [
-   "综合",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "综合"
-  ],
-  "en_title": "TD sees rhodium surplus ending four-year squeeze"
- },
- {
-  "title": "工人死亡导致世界最大铜矿关闭",
-  "url": "",
-  "summary": "周四，必和必拓（ASX，纽约证券交易所代码：BHP）关闭了全球最大的铜矿，此前一名员工在智利北部埃斯孔迪达矿场的维护工作中丧生，监管机构对此进行了调查。",
-  "pub_time": "2026-09-25T11:00:57Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "06ea223145d5aa447a8592c166bb3fff",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "Worker death keeps world’s largest copper mine shut"
  }
 ]
