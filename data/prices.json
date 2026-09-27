@@ -1,29 +1,11 @@
 {
- "updated_at": "2026-09-27T09:47:19",
+ "updated_at": "2026-09-27T15:32:21",
  "spot_meta": {
   "policy": "stale_never_fill",
   "spot_page_used": "2026-09-24",
   "note": "现货归属日见各品种 spot_as_of；缺失 None 即当日/最近已收盘昨日现货未取到，宁缺不誊旧"
  },
  "prices": [
-  {
-   "symbol": "XAU",
-   "name": "黄金",
-   "unit": "美元/盎司",
-   "quote_ccy": "USD",
-   "category": "贵金属",
-   "market": "国际",
-   "kind": "spot",
-   "spot": 4286.2002,
-   "future": null,
-   "basis": null,
-   "basis_pct": null,
-   "change": 0.0,
-   "change_pct": 0.0,
-   "trend": "flat",
-   "source": "gold-api.com(伦敦现货)",
-   "note": "伦敦现货"
-  },
   {
    "symbol": "XAG",
    "name": "白银",
@@ -1303,11 +1285,11 @@
    "market": "国际",
    "kind": "future",
    "spot": null,
-   "future": 92.82,
+   "future": 92.41,
    "basis": null,
    "basis_pct": null,
-   "change": -1.79,
-   "change_pct": -1.89,
+   "change": -2.2,
+   "change_pct": -2.33,
    "trend": "down",
    "source": "oilprice.com(期货)",
    "note": "期货价格(延迟)"
@@ -1339,11 +1321,11 @@
    "market": "国际",
    "kind": "future",
    "spot": null,
-   "future": 3.183,
+   "future": 3.196,
    "basis": null,
    "basis_pct": null,
-   "change": -0.114,
-   "change_pct": -3.46,
+   "change": -0.101,
+   "change_pct": -3.06,
    "trend": "down",
    "source": "oilprice.com(期货)",
    "note": "期货价格(延迟)"
@@ -1357,11 +1339,11 @@
    "market": "国际",
    "kind": "future",
    "spot": null,
-   "future": 3.4109,
+   "future": 3.3934,
    "basis": null,
    "basis_pct": null,
-   "change": -0.154,
-   "change_pct": -4.31,
+   "change": -0.171,
+   "change_pct": -4.8,
    "trend": "down",
    "source": "oilprice.com(期货)",
    "note": "期货价格(延迟)"
@@ -1375,12 +1357,12 @@
    "market": "国际",
    "kind": "future",
    "spot": null,
-   "future": 4.8339,
+   "future": 4.6847,
    "basis": null,
    "basis_pct": null,
-   "change": 0.104,
-   "change_pct": 2.19,
-   "trend": "up",
+   "change": -0.046,
+   "change_pct": -0.96,
+   "trend": "down",
    "source": "oilprice.com(期货)",
    "note": "期货价格(延迟)"
   },
@@ -6677,7 +6659,8 @@
    "reason": "今日打板 · 方向做空 · 实时-3.48% / 波幅4.81% / 打板分15: 进场≈123196, 止损127889, 止盈114268",
    "tier": 1,
    "rank": 2,
-   "is_today": false
+   "is_today": false,
+   "plan_basis": "alt_symbol"
   }
  ],
  "hf_pool": [
@@ -6753,8 +6736,57 @@
   "date": "2026-09-27",
   "session": "afternoon",
   "ruleset": 3,
-  "name": "",
-  "symbol": ""
+  "symbol": "LC0",
+  "name": "碳酸锂",
+  "category": "基本金属",
+  "unit": "元/吨",
+  "price": 124420.0,
+  "direct": -1,
+  "dir_label": "做空",
+  "day_range_pct": 4.81,
+  "limit_score": 15,
+  "board": "一般/观望",
+  "dual": {
+   "st": "break_a",
+   "ref": 128600.0
+  },
+  "plan": {
+   "dir": "short",
+   "dir_label": "做空",
+   "entry": 123195.714,
+   "entry_alt": null,
+   "entry_alt_kind": null,
+   "sl": 127889.471,
+   "tp": 114268.5,
+   "sl_pct": 3.81,
+   "rr": 2.0,
+   "basis": "live_break",
+   "note": "跌破现价确认位才空(条件式); 止损ATR自适应, 2R落袋; 进场后立刻反向即离场"
+  },
+  "real_open": 128600.0,
+  "day_bias": "bear",
+  "day_ma": [
+   130828.0,
+   141115.0,
+   146632.67
+  ],
+  "est_margin": 14930.4,
+  "hands_in_100k": 6,
+  "volume": 429402,
+  "open_interest": 288475,
+  "mode": "追跌做空",
+  "anchor": 124420.0,
+  "tp": 114268.5,
+  "sl": 127889.471,
+  "pullback": null,
+  "src_conflict": false,
+  "board_score": 0.906,
+  "day_conflict": null,
+  "reason": "今日打板 · 方向做空 · 实时-3.48% / 波幅4.81% / 打板分15: 进场≈123196, 止损127889, 止盈114268",
+  "tier": 1,
+  "rank": 2,
+  "is_today": false,
+  "plan_basis": "alt_symbol"
  },
  "trading_rules": [
   {
