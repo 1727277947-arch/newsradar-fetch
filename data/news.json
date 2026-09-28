@@ -1,5 +1,59 @@
 [
  {
+  "title": "美联储加息押注金价跌破$ 4200",
+  "url": "",
+  "summary": "（ RTTNews ） -周一金价大幅下跌，因为油价飙升和债券收益率上升加剧了人们对美联储下个月将继续加息的担忧。",
+  "pub_time": "2026-09-28T09:56:52Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "a399c53fbfe35e86793d88559be125c4",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Gold Dips Below $4200 On Fed Hike Bets"
+ },
+ {
+  "title": "美伊僵局中油价飙升",
+  "url": "",
+  "summary": "（ RTTNews ） -由于美国总统唐纳德·特朗普（ Donald Trump ）拒绝了伊朗重新开放霍尔木兹海峡的最新提议，并暗示可能在中期选举后进行新的军事打击，油价周一上涨超过3 ％。",
+  "pub_time": "2026-09-28T09:33:53Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "25cf97285bf144faebb32f1aa52e0d85",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "大涨"
+  ],
+  "en_title": "Oil Prices Surge Amid US-Iran Stalemate"
+ },
+ {
   "title": "德国天然气储存量为 57%，但 VNG 表示冬季供应已得到保障",
   "url": "",
   "summary": "德国最大的天然气进口商之一 VNG 表示，由于进口能力多样化，尽管储存地点的天然气水平创历史新低，但德国并未面临天然气供应短缺的问题。 “与 2022 年相比，该系统整体更加稳健。我们有更多机会获得液化天然能源。",
@@ -25,6 +79,44 @@
    "供应"
   ],
   "en_title": "Germany's Gas Storage Sits at 57%, but VNG Says Winter Supply Is Covered"
+ },
+ {
+  "title": "Mysteel晚餐：华北带钢库存逼近100万吨",
+  "url": "https://news.mysteel.com/a/26092817/AC731651B0FA4236.html",
+  "summary": "",
+  "pub_time": "2026-09-28T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "2a98b356a920cfc08fd2b12e8b965e16",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel晚餐：华北带钢库存逼近100万吨，全球铁矿石发运减少",
+  "url": "https://news.mysteel.com/a/26092817/A12AE5F5F01ECCE2.html",
+  "summary": "",
+  "pub_time": "2026-09-28T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "1e191ad8c819d25426013648facf0305",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
  },
  {
   "title": "关键矿产日报：中美煤炭贸易迎来新进展，鼎盛鑫锌锗项目设计签约",
@@ -132,6 +224,25 @@
   "is_elite": false
  },
  {
+  "title": "Mysteel日报：黑色金属期货震荡下跌运行",
+  "url": "https://news.mysteel.com/a/26092816/55944858CA056757.html",
+  "summary": "",
+  "pub_time": "2026-09-28T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "35e731dc1bfbf7b43450d8d00de0dc41",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "9月28日“农产品批发价格200指数”比节前下降0.17个点",
   "url": "https://www.chinanews.com.cn/cj/2026/09-28/10704866.shtml",
   "summary": "据农业农村部网站消息，据农业农村部监测，9月28日“农产品批发价格200指数”为115.80，比节前(9月24日，下同)下降0.17个点，“菜篮子”产品批发价格指数为116.11，比节前下降0.44个点。截至今日14:00时，全国农产品批发市场猪肉平均价格为16.44元/公斤，比节前上升0.6%；牛肉72.02元/公斤，比节前下降0.5%；羊肉66.99元/公斤，比节前下降0.4%；鸡蛋10.67元/公斤，比节前下降3.1%；白条鸡17.28元/公斤，比节前下降0.5%。重点监测的28种蔬菜平均价格为4.40元/公斤，比节前下降2.2%；重点监测的6种水果平均价格为6.66",
@@ -178,6 +289,25 @@
   "en_title": "Middle East Oil Exports Rebound to 12.8 Million Bpd"
  },
  {
+  "title": "Mysteel：国庆节后广东废钢市场或延续弱势行情",
+  "url": "https://news.mysteel.com/a/26092815/AB5EB10B165DD2E8.html",
+  "summary": "",
+  "pub_time": "2026-09-28T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "004e8429a3be2cfe1bad0d54808788d0",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "黑色持仓日报：焦煤跌2.44%，中信期货增持3.7千手空单",
   "url": "https://news.mysteel.com/a/26092815/4439C0E83A213916.html",
   "summary": "",
@@ -190,44 +320,6 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "有色持仓日报：沪铜跌0.7%，高盛期货减持超3.3千手多单",
-  "url": "https://news.mysteel.com/a/26092815/74E70D2F3027F7A9.html",
-  "summary": "",
-  "pub_time": "2026-09-28T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "2bffb3dd1f048c27fd23118383b81bc4",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel解读：国内废钢库存持续增加 供需双增小幅调整",
-  "url": "https://news.mysteel.com/a/26092815/2F4BE8D544991747.html",
-  "summary": "",
-  "pub_time": "2026-09-28T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "102e5ca386e0ebd3621ec16fb366037d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -292,6 +384,25 @@
   "is_elite": false
  },
  {
+  "title": "有色持仓日报：沪铜跌0.7%，高盛期货减持超3.3千手多单",
+  "url": "https://news.mysteel.com/a/26092815/E241DBC48171F560.html",
+  "summary": "",
+  "pub_time": "2026-09-28T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "2bffb3dd1f048c27fd23118383b81bc4",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "GrainGrowers 2026 财年投资组合达到 1.4 亿美元",
   "url": "",
   "summary": "GrainGrowers 的投资组合在 2026 财年达到 1.4 亿美元，当时该公司解散了 ESG 委员会，并批准了七项指向其重点领域的政策立场。",
@@ -318,13 +429,13 @@
   "en_title": "GrainGrowers investment portfolio hits $140M in FY26"
  },
  {
-  "title": "战争恐惧重燃，油价走高",
+  "title": "重新点燃战争恐惧的石油价格上涨3 ％",
   "url": "",
   "summary": "在特朗普总统上周拒绝了伊朗在联合国大会上提出的和平协议提案后，原油价格本周开始上涨。截至撰写本文时，布伦特原油交易价格为每桶 107.24 美元，西德克萨斯中质原油价格为每桶 94.10 美元，后者受到新的压力。",
   "pub_time": "2026-09-28T05:37:00Z",
   "source": "Oilprice.com",
   "_cat": "能源",
-  "dedup_key": "5cf01240b38fa2880afb05cda24725db",
+  "dedup_key": "97fc91404658f8f66336bd1cd1a82f07",
   "score": 84,
   "priority": "P1",
   "topic": "能源",
@@ -339,9 +450,11 @@
   "is_elite": false,
   "keywords": [
    "能源",
-   "原油"
+   "原油",
+   "价",
+   "跳涨"
   ],
-  "en_title": "Oil Moves Higher on Rekindled War Fears"
+  "en_title": "Oil Prices Jump 3% on Rekindled War Fears"
  },
  {
   "title": "全球钢铁亟待公平竞争——对话土耳其钢协秘书长维塞尔·亚彦",
