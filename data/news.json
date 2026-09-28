@@ -1,5 +1,69 @@
 [
  {
+  "title": "委内瑞拉石油复苏可能花费超过1000亿美元",
+  "url": "",
+  "summary": "特朗普政府将委内瑞拉的新石油订单视为重振全球最大原油资源持有国该行业的巨大机遇。美国主导的该行业重组将俄罗斯和中国公司排除在先前授予的特许权之外，并刺激了",
+  "pub_time": "2026-09-27T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "e6c509063a41095ccac4edc3d24aeb30",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Venezuela’s Oil Comeback Could Cost More Than $100 Billion"
+ },
+ {
+  "title": "Mysteel早读：特朗普预计美伊将重启谈判",
+  "url": "https://news.mysteel.com/a/26092807/968B293888A9D8AF.html",
+  "summary": "",
+  "pub_time": "2026-09-27T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "fd915902c612a52c258a3119fa1c8e29",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel早读：特朗普预计美伊将重启谈判，山西推进煤炭稳产稳供",
+  "url": "https://news.mysteel.com/a/26092807/80F1E8CF4DBFC2B3.html",
+  "summary": "",
+  "pub_time": "2026-09-27T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "cda0e551a83afd14c2c107f033b705a7",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "下一次全球能源危机不会仅来自一个方向",
   "url": "",
   "summary": "下一次全球能源危机即将来临。如果说过去四年教会了我们什么的话，那就是能源危机可能是由多种因素（通常是同时出现）意外引发的。不断变化的天气模式、增加的电网压力、地缘政治紧张局势和冲突",
@@ -192,25 +256,6 @@
    "能源"
   ],
   "en_title": "North Carolina Regulators Reject Duke Energy Gas Power Plant"
- },
- {
-  "title": "Mysteel宏观周报：中美达成八点成果共识",
-  "url": "https://news.mysteel.com/a/26092622/61FF39245B908DBA.html",
-  "summary": "",
-  "pub_time": "2026-09-26T14:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "2a1931a5eaf7f284539bc084b33a9ce2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  },
  {
   "title": "Mysteel宏观周报：中美达成八点成果共识，美方拒绝伊朗“七天计划”",
