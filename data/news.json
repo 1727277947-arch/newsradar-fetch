@@ -1,5 +1,70 @@
 [
  {
+  "title": "为什么阻止美国柴油出口可能会使燃料更加昂贵",
+  "url": "",
+  "summary": "分析师警告称，有关可能禁止美国柴油出口以遏制油价飙升的言论最终可能会推高所有燃油价格，并因库存装满而导致炼油厂开工量减少。此举可能导致美国燃料过剩，而世界其他地区则陷入困境",
+  "pub_time": "2026-09-28T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "2eb14512a4ba56172d03fac77f32e3a5",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "燃料",
+   "出口"
+  ],
+  "en_title": "Why Blocking U.S. Diesel Exports Could Make Fuel More Expensive"
+ },
+ {
+  "title": "Mysteel早读：华北带钢库存创5年同期新高",
+  "url": "https://news.mysteel.com/a/26092907/A8F39400611D2301.html",
+  "summary": "",
+  "pub_time": "2026-09-28T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "7ad6ab31469523dedeb024e2c43b2bf2",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel早读：华北带钢库存创5年同期新高，唐山钢坯跌破3000",
+  "url": "https://news.mysteel.com/a/26092907/0F214163FEC4937A.html",
+  "summary": "",
+  "pub_time": "2026-09-28T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "5b75d9f05aff81841fab6ab6eb06f20f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "渣打银行：创纪录的 CTA 多头押注限制了石油的上涨空间",
   "url": "",
   "summary": "由于担心美伊关系升级，油价从最近的下跌中反弹，此前外交尝试取得了好坏参半的结果，双方领导人的​​讲话都充满了威胁和好战情绪。下午 4:30 11 月交割的布伦特原油价格上涨 1.70%，至每桶 106.09 美元。蒸发量",
@@ -658,34 +723,6 @@
   "en_title": "Hudbay boosts Snow Lake gold output 60% to 2.8M oz"
  },
  {
-  "title": "印尼煤炭出口下滑23% ，全球需求创历史新高",
-  "url": "",
-  "summary": "由于中东危机扼杀了液化天然气供应，亚洲从天然气转向煤炭，全球最大的动力煤出口国印度尼西亚并未受益于全球煤炭市场的收紧。印尼动力煤出口今年受到政府产量配额的限制，",
-  "pub_time": "2026-09-28T13:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "d0afd6cef7f189a713ce2da3a7d80adf",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "煤炭",
-   "需求",
-   "出口"
-  ],
-  "en_title": "Indonesia's Coal Exports Sink 23% as Global Demand Heads for a Record"
- },
- {
   "title": "Mysteel黑色金属例会：节前钢价或平稳过渡",
   "url": "https://news.mysteel.com/a/26092818/5809DD2C51FF1557.html",
   "summary": "",
@@ -778,25 +815,6 @@
   "en_title": "Oil Prices Surge Amid US-Iran Stalemate"
  },
  {
-  "title": "Mysteel晚餐：华北带钢库存逼近100万吨",
-  "url": "https://news.mysteel.com/a/26092817/AC731651B0FA4236.html",
-  "summary": "",
-  "pub_time": "2026-09-28T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "2a98b356a920cfc08fd2b12e8b965e16",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel晚餐：华北带钢库存逼近100万吨，全球铁矿石发运减少",
   "url": "https://news.mysteel.com/a/26092817/A12AE5F5F01ECCE2.html",
   "summary": "",
@@ -817,7 +835,7 @@
  },
  {
   "title": "关键矿产日报：中美煤炭贸易迎来新进展，鼎盛鑫锌锗项目设计签约",
-  "url": "https://news.mysteel.com/a/26092817/1EA3E0987F42A26A.html",
+  "url": "https://news.mysteel.com/a/26092817/1C14F689EA55069A.html",
   "summary": "",
   "pub_time": "2026-09-28T09:00:00Z",
   "source": "上海钢联Mysteel",
