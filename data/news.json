@@ -1,5 +1,85 @@
 [
  {
+  "title": "ASA欢迎中国大豆采购承诺并敦促减免关税",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-09-28T19:02:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "80a63f4bdc905f840a3b51da807920be",
+  "score": 84,
+  "priority": "P1",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "大豆"
+  ],
+  "en_title": "ASA Welcomes China’s Soybean Purchase Commitments, Urges Tariff Relief"
+ },
+ {
+  "title": "欧洲的天然气预测不是能源战略",
+  "url": "",
+  "summary": "能源模型具有非凡的才能。无论现在多么混乱，未来几乎总是会变得异常平静。战争结束。航线重新开放。液化天然气接收站按计划运行。冬季仍然可控。生产者交付。市场重新平衡。天然气价格逐渐回归正常水平",
+  "pub_time": "2026-09-28T19:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "096dc49b3983e9c2bed994847666a491",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "天然气",
+   "能源",
+   "预测"
+  ],
+  "en_title": "Europe’s Gas Forecasts Are Not an Energy Strategy"
+ },
+ {
+  "title": "美国战略石油储备跌至1982年以来最低水平",
+  "url": "",
+  "summary": "根据能源情报署的数据，截至 9 月 18 日当周，美国战略石油储备的原油库存为 2.846 亿桶，低于前一周的 2.85 亿桶和去年同期的 4.060 亿桶。能源部数据显示储备进一步下降",
+  "pub_time": "2026-09-28T18:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "5fadc995c28ca49d9a9d2041e91404a7",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "石油",
+   "下跌"
+  ],
+  "en_title": "U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982"
+ },
+ {
   "title": "FEFAC 呼吁欧盟制定应急计划以保障牲畜饲料供应",
   "url": "",
   "summary": "",
@@ -191,7 +271,7 @@
  {
   "title": "蒙太奇提前在科内夺得第一枚金牌",
   "url": "",
-  "summary": "蒙太奇的目标是在年底前实现商业化生产，科特迪瓦矿山已提前几个月开始生产",
+  "summary": "蒙太奇的目标是在年底前实现商业化生产，科特迪瓦矿山已提前几个月开始生产。",
   "pub_time": "2026-09-28T15:55:54Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -571,33 +651,6 @@
   "en_title": "Oil Prices Surge Amid US-Iran Stalemate"
  },
  {
-  "title": "德国天然气储存量为 57%，但 VNG 表示冬季供应已得到保障",
-  "url": "",
-  "summary": "德国最大的天然气进口商之一 VNG 表示，由于进口能力多样化，尽管储存地点的天然气水平创历史新低，但德国并未面临天然气供应短缺的问题。 “与 2022 年相比，该系统整体更加稳健。我们有更多机会获得液化天然能源。",
-  "pub_time": "2026-09-28T09:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "b2a5a74afa2d785d80a91db6e4df146b",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气",
-   "供应"
-  ],
-  "en_title": "Germany's Gas Storage Sits at 57%, but VNG Says Winter Supply Is Covered"
- },
- {
   "title": "Mysteel晚餐：华北带钢库存逼近100万吨",
   "url": "https://news.mysteel.com/a/26092817/AC731651B0FA4236.html",
   "summary": "",
@@ -674,35 +727,6 @@
   "is_elite": false
  },
  {
-  "title": "高盛警告柴油出口禁令将推高汽油价格",
-  "url": "",
-  "summary": "高盛分析师估计，如果美国实施柴油出口禁令，最初会压低价格。然而，该银行警告称，这种影响只会持续到存储空间填满为止。有报道称华盛顿可能暂停柴油出口",
-  "pub_time": "2026-09-28T08:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "贵金属",
-  "dedup_key": "17f76eb1814fd329b99191d12863f5c4",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "汽油",
-   "天然气",
-   "价"
-  ],
-  "en_title": "Goldman Warns Diesel Export Ban Would Send Gasoline Prices Higher"
- },
- {
   "title": "布伦特原油期货向上触及100美元/桶",
   "url": "https://news.mysteel.com/a/26092816/70D833B09A95080E.html",
   "summary": "",
@@ -758,33 +782,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "中东石油出口反弹至 1280 万桶/日",
-  "url": "",
-  "summary": "路透社援引 Kpler 的初步数据显示，本月中东原油出口量已增至 1280 万桶/日。反弹由沙特阿拉伯引领，该国将石油流从西方转向东方，在阿曼湾的油轮上装载原油。",
-  "pub_time": "2026-09-28T07:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "18b02985bad58464e2fc173c56c4f596",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "出口"
-  ],
-  "en_title": "Middle East Oil Exports Rebound to 12.8 Million Bpd"
  },
  {
   "title": "Mysteel周报：建筑原材料价格监测（9.18-9.24）",
