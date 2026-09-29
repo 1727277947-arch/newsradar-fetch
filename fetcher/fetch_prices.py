@@ -1929,9 +1929,17 @@ if __name__ == "__main__":
         _pr = _row_by_sym.get(_ps) if _ps else None
         if not _pr:
             continue
-        for _k in ("est_margin", "hands_in_100k", "contract_value", "last_settle", "change_pct"):
+        for _k in ("est_margin", "contract_value", "last_settle", "change_pct"):
             if _pr.get(_k) is not None:
                 _p[_k] = _pr.get(_k)
+        # 手数必须跟着刷新后的保证金重算（hands_in_100k 只存在于 pick，不在行情行里，
+        # 直接复制会漏刷，出现「保证金 3336 却写 33 手」这种自相矛盾）
+        try:
+            _mg2 = float(_p.get("est_margin") or 0.0)
+            if _mg2 > 0:
+                _p["hands_in_100k"] = int(100000.0 / _mg2)
+        except (TypeError, ValueError):
+            pass
     today_s = now_date
     obj = {
         "updated_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
