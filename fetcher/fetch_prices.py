@@ -88,6 +88,26 @@ DOMESTIC = [
     ("nf_SI0", "工业硅", "元/吨", "基本金属"),
     ("nf_LC0", "碳酸锂", "元/吨", "基本金属"),
 ]
+# ============ 打板范围配置（用户口径：目前打板只做甲醇；贵的一律不看）============
+# 可在仓库根目录放 board_config.json 覆盖，无需改代码：
+#   {"symbols": ["MA0"], "max_margin": 33333}   # symbols 为空 = 不限制品种
+BOARD_CFG = {"symbols": ["MA0"], "max_margin": 33333.0}
+try:
+    with open(os.path.join(BASE, "..", "board_config.json"), encoding="utf-8") as _cf:
+        _cc = json.load(_cf)
+    if isinstance(_cc, dict):
+        for _k in list(BOARD_CFG.keys()):
+            if _k in _cc:
+                BOARD_CFG[_k] = _cc[_k]
+except Exception:
+    pass
+BOARD_SYMBOLS = [str(x) for x in (BOARD_CFG.get("symbols") or [])]
+try:
+    BOARD_MAX_MARGIN = float(BOARD_CFG.get("max_margin") or 0.0)
+except (TypeError, ValueError):
+    BOARD_MAX_MARGIN = 0.0
+
+
 # ============ 高频推荐：合约乘数 / 保证金率 / 交易所（公开交易所标准规格，仅用于估算）============
 CONTRACT_MULT = {
     # 沪银单位是元/千克，乘数必须是 15（千克/手）；原 15000 把“克”当单位，保证金放大 1000 倍
@@ -316,6 +336,8 @@ def fetch_domestic_futures():
             "volume": int(vol), "open_interest": int(oi),
             "contract_mult": mult, "contract_value": round(cval, 2),
             "est_margin": round(est_margin, 2), "margin_rate": mrate,
+            # 供界面把“贵”的品种折叠掉（用户口径：贵的一律不看）
+            "expensive": bool(BOARD_MAX_MARGIN > 0 and est_margin > BOARD_MAX_MARGIN),
             "source": "新浪财经(期货)", "note": "国内期货",
         }
     return out
@@ -1315,6 +1337,12 @@ def build_hf_picks(items, preds=None, pool_out=None):
         if direct == -1 and fut and fut <= _bdn:
             continue
 
+        # 打板范围：只做白名单品种（用户口径=只做甲醇），且贵的一律不看。
+        # 白名单为空表示不限制品种，仅受保证金上限约束。
+        if BOARD_SYMBOLS and sym not in BOARD_SYMBOLS:
+            continue
+        if BOARD_MAX_MARGIN > 0 and mg > BOARD_MAX_MARGIN:
+            continue        # 贵：一手保证金超过上限的品种整条不看
         # funds gate: with 100k you should open >=3 lots (margin/lot <=~33k) so crude/gold/silver can't be main pick
         if mg > 0 and (100000.0 / mg) < 3.0:
             continue        # 资金：越便宜越“绰绰有余”。10万能开>=3手(即一手保证金<=约3.3万)算宽裕；越贵评分越低
