@@ -1,5 +1,83 @@
 [
  {
+  "title": "随着霍尔木兹危机威胁供应，印度希望促进勘探",
+  "url": "",
+  "summary": "国有勘探和生产公司印度石油有限公司（ OIL ）的一名高级官员表示，在供应中断推高能源价格的情况下，印度需要加强国内石油和天然气勘探，以加强其能源安全。“全球供应链和主要能源的中断",
+  "pub_time": "2026-09-29T11:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "e4fd2f4a336e7565bfccba8a1d548613",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "供应"
+  ],
+  "en_title": "India Looks to Boost Exploration as Hormuz Crisis Threatens Supply"
+ },
+ {
+  "title": "视频：矿业的下一代面临考验",
+  "url": "",
+  "summary": "随着资深高管准备移交控制权，采矿业的年轻领导者正着手建立能够在下一次经济衰退中生存的公司。上周在贵金属峰会上... POST视频：矿业的下一代面临测试首次出现在北方矿工。",
+  "pub_time": "2026-09-29T11:00:28Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "62804b4c3ad1b9adc1ab2839f8309c62",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Video: Mining’s next generation faces the test"
+ },
+ {
+  "title": "拉丁美洲矿业风险标价540 $",
+  "url": "",
+  "summary": "允许延误、社会冲突和安全威胁正在改变矿工在矿产资源丰富的地区部署资本的方式。",
+  "pub_time": "2026-09-29T10:53:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "4ac6af0a500fc9789e569cd8fe103a27",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡",
+   "价"
+  ],
+  "en_title": "Latin America mining risks carry $54B price tag"
+ },
+ {
   "title": "沙特阿拉伯重新启动红海原油装载",
   "url": "",
   "summary": "路透社周二援引船舶跟踪数据和贸易消息来源报道称，在东西向管道恢复部分服务后，沙特阿拉伯已重新开始在红海延布港装载原油。无人机袭击后，沙特阿拉伯将东西向陆上管道关闭两周",
@@ -24,82 +102,6 @@
    "原油"
   ],
   "en_title": "Saudi Arabia Restarts Red Sea Crude Oil Loadings"
- },
- {
-  "title": "太原机场国庆假期预计执行航班2230架次 运送约31万人次",
-  "url": "https://www.chinanews.com.cn/cj/2026/09-29/10705704.shtml",
-  "summary": "记者 李庭耀)随着2026年国庆黄金周临近，探亲流与旅游流叠加释放。记者29日从山西航空产业集团获悉，国庆假期，太原机场预计执行航班2230架次，运送旅客约31万人次",
-  "pub_time": "2026-09-29T10:13:32Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "cb9a348b8c77c2d8e4ce830aa02be2a4",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
-  "title": "从“增人数”到“增效益” 湖南岳阳以“真金白银”激活文旅体商融合消费",
-  "url": "https://www.chinanews.com.cn/cj/2026/09-29/10705715.shtml",
-  "summary": "冯军)9月29日，正在举行的第四届岳阳市旅游发展大会上公布《岳阳市文旅体商融合促进消费提质若干措施(试行)》(简称《若干措施》)，以“真金白银”的政策礼包，推动当地文旅产业从“盛会效应”向“常态繁荣”转变",
-  "pub_time": "2026-09-29T09:57:36Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "4fd0b714ab9a4d00906f675dcb460beb",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
-  "title": "“要想富，先修路” 浙江如何让“老话”历久弥新？",
-  "url": "https://www.chinanews.com.cn/cj/2026/09-29/10705671.shtml",
-  "summary": "周健)甬舟铁路富翅门公铁两用大桥20号主塔顺利封顶，金塘海底隧道舟山侧盾构段迈入100米冲刺……9月以来，浙江甬舟铁路建设频频传来好消息，这条穿山海的钢铁巨龙，正加速从图纸驶入现实，“千岛之城”舟山的发展新动能，即将激活",
-  "pub_time": "2026-09-29T09:44:38Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "d79eb021bb18e1006110edf573635ab0",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
-  "title": "“彩钢之乡”河北阜城集成房屋出口海外 单场活动签约超3亿元",
-  "url": "https://www.chinanews.com.cn/cj/2026/09-29/10705669.shtml",
-  "summary": "中新社河北雄安9月29日电 (裴国荣 韩冰 王鹏)“阜城县集成房屋产业发展暨‘出海’战略启动大会”29日在河北雄安新区举办，现场签约海外订单超3亿元(人民币，下同)，涵盖民宿苹果舱、文旅太空舱、双翼拓展房等产品，将出口至美国、哈萨克斯坦、俄罗斯等国家",
-  "pub_time": "2026-09-29T09:41:42Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "eb311647e308484b5807b8b85d24f4cd",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
  },
  {
   "title": "尽管特朗普发出 100% 关税威胁，印度不太可能放弃俄罗斯石油",
@@ -1365,33 +1367,6 @@
   "en_title": "Russia Tightens Secrecy On Energy Exports"
  },
  {
-  "title": "水力压裂能扭转哥伦比亚石油和天然气的颓势吗？",
-  "url": "",
-  "summary": "哥伦比亚对经济至关重要的石油工业正陷入死亡螺旋。尽管努力提高产量和提高效率，但石油和天然气产量仍在下降。新任总统阿韦拉多·德拉埃斯普里埃拉（Abelardo de la Espriella）曾是一名刑事辩护律师，他将能源安全和水力压裂置于更好的位置。",
-  "pub_time": "2026-09-28T17:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "291d558289ff9c039f18f4c624a8b221",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "天然气"
-  ],
-  "en_title": "Can Fracking Reverse Colombia’s Oil and Gas Decline?"
- },
- {
   "title": "韩国玉米买家参观美国谷物供应链",
   "url": "",
   "summary": "",
@@ -2500,25 +2475,6 @@
   "is_elite": false
  },
  {
-  "title": "关键矿产日报：中美煤炭贸易迎来新进展，鼎盛鑫锌锗项目设计签约",
-  "url": "https://news.mysteel.com/a/26092817/1C14F689EA55069A.html",
-  "summary": "",
-  "pub_time": "2026-09-28T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "c5e2875a500f52242eb680d1171d004d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "特朗普拒绝伊朗提议令油价上涨，债市抛售潮卷土重来",
   "url": "https://news.mysteel.com/a/26092817/5ED96699173DC9C5.html",
   "summary": "",
@@ -2531,6 +2487,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "关键矿产日报：中美煤炭贸易迎来新进展，鼎盛鑫锌锗项目设计签约",
+  "url": "https://news.mysteel.com/a/26092817/79A8B6FDDE5740B4.html",
+  "summary": "",
+  "pub_time": "2026-09-28T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "c5e2875a500f52242eb680d1171d004d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
