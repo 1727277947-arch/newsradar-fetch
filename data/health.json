@@ -1,7 +1,7 @@
 {
- "checked_at": "2026-09-29T15:49:52",
+ "checked_at": "2026-09-29T18:54:16",
  "source": "origin/main",
- "data_updated_at": "2026-09-29T15:47:51",
+ "data_updated_at": "2026-09-29T18:42:15",
  "ok": false,
  "anomaly_count": 4,
  "anomalies": [
@@ -288,6 +288,13 @@
    "anomaly_count": 4,
    "summary": "发现 4 项异常：定时漏档",
    "data_updated_at": "2026-09-29T15:47:51"
+  },
+  {
+   "checked_at": "2026-09-29T18:54:16",
+   "ok": false,
+   "anomaly_count": 4,
+   "summary": "发现 4 项异常：定时漏档",
+   "data_updated_at": "2026-09-29T18:42:15"
   }
  ]
 }
