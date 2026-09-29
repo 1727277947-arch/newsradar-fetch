@@ -1,5 +1,31 @@
 [
  {
+  "title": "沙特阿拉伯重新启动红海原油装载",
+  "url": "",
+  "summary": "路透社周二援引船舶跟踪数据和贸易消息来源报道称，在东西向管道恢复部分服务后，沙特阿拉伯已重新开始在红海延布港装载原油。无人机袭击后，沙特阿拉伯将东西向陆上管道关闭两周",
+  "pub_time": "2026-09-29T10:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "5bf17c001a6bcebaf2fa8ce8b40e7805",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Saudi Arabia Restarts Red Sea Crude Oil Loadings"
+ },
+ {
   "title": "太原机场国庆假期预计执行航班2230架次 运送约31万人次",
   "url": "https://www.chinanews.com.cn/cj/2026/09-29/10705704.shtml",
   "summary": "记者 李庭耀)随着2026年国庆黄金周临近，探亲流与旅游流叠加释放。记者29日从山西航空产业集团获悉，国庆假期，太原机场预计执行航班2230架次，运送旅客约31万人次",
@@ -136,25 +162,6 @@
    "中文",
    "国内",
    "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "报告预计“十五五”时期中国石油消费逐步进入峰值平台期",
-  "url": "https://www.chinanews.com.cn/cj/2026/09-29/10705647.shtml",
-  "summary": "中新社北京9月29日电 (记者 王梦瑶)中国电力规划设计总院29日在北京发布的《中国能源发展报告2026》指出，随着电动汽车迅猛发展，预计“十五五”时期，中国石油消费逐步进入峰值平台期",
-  "pub_time": "2026-09-29T08:47:52Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "85b5038ad8f718569d64128dc1a1ab83",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
   ],
   "is_elite": false
  },
@@ -722,13 +729,13 @@
   "is_elite": false
  },
  {
-  "title": "广发期货：金银跌至8月来低位",
-  "url": "https://news.mysteel.com/a/26092909/EE53C7695BBB22C1.html",
+  "title": "瑞达期货：锰硅2611合约震荡运行",
+  "url": "https://news.mysteel.com/a/26092909/2588B12BE4D5260F.html",
   "summary": "",
   "pub_time": "2026-09-29T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "da7fb3dde168fba3eddc8f6ecab114d9",
+  "dedup_key": "079edb7105ab6e437adbd1198da46059",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -741,13 +748,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：锰硅2611合约震荡运行",
-  "url": "https://news.mysteel.com/a/26092909/2588B12BE4D5260F.html",
+  "title": "广发期货：金银跌至8月来低位",
+  "url": "https://news.mysteel.com/a/26092909/EE53C7695BBB22C1.html",
   "summary": "",
   "pub_time": "2026-09-29T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "079edb7105ab6e437adbd1198da46059",
+  "dedup_key": "da7fb3dde168fba3eddc8f6ecab114d9",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
