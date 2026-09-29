@@ -1,5 +1,31 @@
 [
  {
+  "title": "德克萨斯州初创公司筹集 1.33 亿美元建设稀土磁铁级铁厂",
+  "url": "",
+  "summary": "这笔资金将用于建设 Hertha Chalyx，年产 10,000 吨钢和磁铁级高纯铁。",
+  "pub_time": "2026-09-29T23:35:08Z",
+  "source": "Mining.com",
+  "_cat": "黑色系",
+  "dedup_key": "ad9da773d9b31e386158dcd59db2e6a3",
+  "score": 84,
+  "priority": "P2",
+  "topic": "黑色系",
+  "tags": [
+   "黑色系",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "黑色系",
+   "生铁"
+  ],
+  "en_title": "Texas startup raises $133M to build rare earth magnet-grade iron plant"
+ },
+ {
   "title": "霍尔木兹液化天然气紧缩推高价格，欧洲天然气危机加剧",
   "url": "",
   "summary": "自从伊朗战争将世界五分之一的液化天然气供应量困在霍尔木兹海峡之后，欧洲天然气价格急剧飙升。由于家庭能源费用飙升和工业能源成本飙升，高价格让政府头疼不已。",
@@ -25,6 +51,25 @@
    "价"
   ],
   "en_title": "Europe’s Gas Crisis Deepens as Hormuz LNG Crunch Drives Prices Higher"
+ },
+ {
+  "title": "美国计划通过“互换”释放4000万桶战略石油储备",
+  "url": "https://news.mysteel.com/a/26093007/89642A2C0D7FA5BB.html",
+  "summary": "",
+  "pub_time": "2026-09-29T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "df9b8349d22c545c93a0948c109c6c30",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
  },
  {
   "title": "阿特拉斯锂库存超卖",
