@@ -1916,6 +1916,22 @@ if __name__ == "__main__":
             if _fa and not _p.get('day_bias'):
                 _p['day_bias'] = _fa.get('day_bias') or 'mix'
                 _p['day_ma'] = _fa.get('day_ma')
+    # 晨/午板是当天锁定的快照（plan 的进场/止损/止盈按设计不动），
+    # 但“一手保证金/手数/昨结”这类随行情与口径变化的展示字段必须用当轮最新值刷新：
+    # 否则同一张卡上会出现「晨板保证金 2963、午后板 3336」这种自相矛盾的数（甲醇曾如此）。
+    _row_by_sym = {}
+    for _x in items:
+        _s = _x.get("symbol")
+        if _s:
+            _row_by_sym[_s] = _x
+    for _p in (morning_pick, afternoon_pick):
+        _ps = _p.get("symbol")
+        _pr = _row_by_sym.get(_ps) if _ps else None
+        if not _pr:
+            continue
+        for _k in ("est_margin", "hands_in_100k", "contract_value", "last_settle", "change_pct"):
+            if _pr.get(_k) is not None:
+                _p[_k] = _pr.get(_k)
     today_s = now_date
     obj = {
         "updated_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
