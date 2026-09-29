@@ -1,5 +1,32 @@
 [
  {
+  "title": "霍尔木兹液化天然气紧缩推高价格，欧洲天然气危机加剧",
+  "url": "",
+  "summary": "自从伊朗战争将世界五分之一的液化天然气供应量困在霍尔木兹海峡之后，欧洲天然气价格急剧飙升。由于家庭能源费用飙升和工业能源成本飙升，高价格让政府头疼不已。",
+  "pub_time": "2026-09-29T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "f57f79b4ec60f25a9fe94c1c93d96ecd",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气",
+   "价"
+  ],
+  "en_title": "Europe’s Gas Crisis Deepens as Hormuz LNG Crunch Drives Prices Higher"
+ },
+ {
   "title": "阿特拉斯锂库存超卖",
   "url": "",
   "summary": "在周二的交易中， Atlas Lithium Corp （代号： ATLX ）的股票进入超卖区域，易手低至每股2.388 $。我们使用相对强弱指数（ RSI ）来定义超卖区域， RSI是用于衡量动量的技术分析指标",
@@ -683,58 +710,6 @@
   "en_title": "LNG Canada to Double Export Capacity After Shell Approves Phase 2"
  },
  {
-  "title": "阿联酋下一个 250 亿美元的赌注包括能源行业",
-  "url": "",
-  "summary": "印度商工部长皮尤什·戈亚尔在孟买举行的一次高级别会议上表示，阿拉伯联合酋长国已表示有意向印度再投资 250 亿美元，其中包括能源领域。阿联酋已向印度投资约250亿美元，并已表示有意投资",
-  "pub_time": "2026-09-29T12:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "8312b4e47f4f8765e4debb2858ea4b0e",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "能源"
-  ],
-  "en_title": "UAE's Next $25 Billion Bet On India Includes Energy Sector"
- },
- {
-  "title": "随着霍尔木兹危机威胁供应，印度希望促进勘探",
-  "url": "",
-  "summary": "国有勘探和生产公司印度石油有限公司（ OIL ）的一名高级官员表示，在供应中断推高能源价格的情况下，印度需要加强国内石油和天然气勘探，以加强其能源安全。“全球供应链和主要能源的中断",
-  "pub_time": "2026-09-29T11:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "e4fd2f4a336e7565bfccba8a1d548613",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "供应"
-  ],
-  "en_title": "India Looks to Boost Exploration as Hormuz Crisis Threatens Supply"
- },
- {
   "title": "视频：矿业的下一代面临考验",
   "url": "",
   "summary": "随着资深高管准备移交控制权，采矿业的年轻领导者正着手建立能够在下一次经济衰退中生存的公司。上周在贵金属峰会上... POST视频：矿业的下一代面临测试首次出现在北方矿工。",
@@ -1307,13 +1282,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：锰硅2611合约震荡运行",
-  "url": "https://news.mysteel.com/a/26092909/2588B12BE4D5260F.html",
+  "title": "广发期货：金银跌至8月来低位",
+  "url": "https://news.mysteel.com/a/26092909/EE53C7695BBB22C1.html",
   "summary": "",
   "pub_time": "2026-09-29T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "079edb7105ab6e437adbd1198da46059",
+  "dedup_key": "da7fb3dde168fba3eddc8f6ecab114d9",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1326,13 +1301,13 @@
   "is_elite": false
  },
  {
-  "title": "广发期货：金银跌至8月来低位",
-  "url": "https://news.mysteel.com/a/26092909/EE53C7695BBB22C1.html",
+  "title": "瑞达期货：锰硅2611合约震荡运行",
+  "url": "https://news.mysteel.com/a/26092909/2588B12BE4D5260F.html",
   "summary": "",
   "pub_time": "2026-09-29T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "da7fb3dde168fba3eddc8f6ecab114d9",
+  "dedup_key": "079edb7105ab6e437adbd1198da46059",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -2691,32 +2666,6 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "蒙太奇提前在科内夺得第一枚金牌",
-  "url": "",
-  "summary": "蒙太奇的目标是在年底前实现商业化生产，科特迪瓦矿山已提前几个月开始生产。",
-  "pub_time": "2026-09-28T15:55:54Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "34dc857bfabd6601c850f0dcdbd83304",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Montage pours first gold at Koné ahead of schedule"
  },
  {
   "title": "分析师最爱：力拓被列为首选金属",
