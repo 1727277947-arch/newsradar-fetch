@@ -967,6 +967,14 @@ def build(out_path):
         if sp and last_settle:
             item["basis"] = round(sp - last_settle, 2)
             item["basis_pct"] = pct(last_settle, sp)
+            # 基差口径体检：生意社现货与期货常不是同一规格（甲醇现货4600/期货3336=42%，
+            # 燃料油 73%，焦煤 62%），超过 15% 基本只说明不可比，必须标记出来。
+            try:
+                if abs(float(item["basis_pct"])) > 15.0:
+                    item["basis_suspect"] = True
+                    item["basis_note"] = "现货与期货可能不是同一规格/地区，基差不可比"
+            except (TypeError, ValueError):
+                pass
             item["kind"] = "both"
             item["note"] = "现货vs昨日结算(基差)"
             item["source"] = "新浪财经+生意社"
