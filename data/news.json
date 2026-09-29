@@ -1,5 +1,113 @@
 [
  {
+  "title": "阿特拉斯锂库存超卖",
+  "url": "",
+  "summary": "在周二的交易中， Atlas Lithium Corp （代号： ATLX ）的股票进入超卖区域，易手低至每股2.388 $。我们使用相对强弱指数（ RSI ）来定义超卖区域， RSI是用于衡量动量的技术分析指标",
+  "pub_time": "2026-09-29T21:13:44Z",
+  "source": "Nasdaq商品",
+  "_cat": "基本金属",
+  "dedup_key": "1c9107907af162e24294523e4885063b",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡",
+   "库存"
+  ],
+  "en_title": "Atlas Lithium Stock Getting Very Oversold"
+ },
+ {
+  "title": "随着原油库存增加，美国馏分油库存继续下降",
+  "url": "",
+  "summary": "美国石油协会（ API ）估计，截至9月25日的一周，美国原油库存增加了101.9万桶。分析师此前预计将减产190万桶。前一周，美国原油库存增长178.6万桶，商业原油",
+  "pub_time": "2026-09-29T21:02:23Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "3ea4f10fc4195e96cbce206051bb86da",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "锡",
+   "下跌",
+   "库存"
+  ],
+  "en_title": "US Distillate Stocks Continue to Fall As Crude Inventories Build"
+ },
+ {
+  "title": "随着燃油价格飙升，白宫称红色柴油救济",
+  "url": "",
+  "summary": "美国联邦政府已经提出了柴油燃料出口禁令的替代方案，可以通过提高免税柴油的可用性来缓解泵的价格痛苦。这是根据路透社本周引用的未透露姓名的消息来源。目前尚不清楚该创意是否可以替换",
+  "pub_time": "2026-09-29T21:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "54d6f8ca1009c2c82902d13e07e50acc",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "燃料",
+   "价"
+  ],
+  "en_title": "White House Weighs Red-Dyed Diesel Relief as Fuel Prices Soar"
+ },
+ {
+  "title": "TNM揭示了最新的奖金寻宝线索",
+  "url": "",
+  "summary": "北方矿工很高兴地分享，最新的奖金线索已通过电子邮件发送给所有订阅者！我们正在进行的加拿大大寻宝的最新一期增加了... TNM帖子揭示了最新的奖金寻宝线索，首次出现在北方矿工。",
+  "pub_time": "2026-09-29T20:34:13Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "67847bfad8f65abf4af2f2ebd8ccfc26",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "TNM reveals latest bonus prize Treasure Hunt clue"
+ },
+ {
   "title": "特朗普对委内瑞拉黄金的推动遇到了炼油厂的障碍：纽约时报",
   "url": "",
   "summary": "一些进入供应链的黄金与矿工向委内瑞拉南部金矿周围的犯罪团伙支付保护费有关。",
@@ -105,7 +213,7 @@
   "en_title": "Iran Threatens Middle East Energy Infrastructure as Hormuz Standoff Deepens"
  },
  {
-  "title": "Crude Oil Prices Pulling Back Sharply After Early Surge",
+  "title": "原油价格在早期飙升后大幅回落",
   "url": "",
   "summary": "(RTTNews) - 原油价格在当天早些时候大幅上涨后，在周二的交易时段中出现了大幅下跌。",
   "pub_time": "2026-09-29T18:30:04Z",
@@ -679,58 +787,6 @@
   "en_title": "Latin America mining risks carry $54B price tag"
  },
  {
-  "title": "沙特阿拉伯重新启动红海原油装载",
-  "url": "",
-  "summary": "路透社周二援引船舶跟踪数据和贸易消息来源报道称，在东西向管道恢复部分服务后，沙特阿拉伯已重新开始在红海延布港装载原油。无人机袭击后，沙特阿拉伯将东西向陆上管道关闭两周",
-  "pub_time": "2026-09-29T10:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "5bf17c001a6bcebaf2fa8ce8b40e7805",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Saudi Arabia Restarts Red Sea Crude Oil Loadings"
- },
- {
-  "title": "尽管特朗普发出 100% 关税威胁，印度不太可能放弃俄罗斯石油",
-  "url": "",
-  "summary": "分析师表示，尽管美国威胁对其产品征收 100% 关税，但印度不能也可能不会取代其进口的所有俄罗斯原油。本月早些时候，美国总统唐纳德·特朗普签署了《林赛·格雷厄姆制裁俄罗斯和伊朗法案》。",
-  "pub_time": "2026-09-29T09:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "da2cf34a987759f38731001b38974246",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "India Unlikely to Ditch Russian Oil Despite Trump's 100% Tariff Threat"
- },
- {
   "title": "Mysteel晚餐：焦炭首轮提降开启",
   "url": "https://news.mysteel.com/a/26092917/AA8FA44078642CA7.html",
   "summary": "",
@@ -1251,13 +1307,13 @@
   "is_elite": false
  },
  {
-  "title": "广发期货：金银跌至8月来低位",
-  "url": "https://news.mysteel.com/a/26092909/EE53C7695BBB22C1.html",
+  "title": "瑞达期货：锰硅2611合约震荡运行",
+  "url": "https://news.mysteel.com/a/26092909/2588B12BE4D5260F.html",
   "summary": "",
   "pub_time": "2026-09-29T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "da7fb3dde168fba3eddc8f6ecab114d9",
+  "dedup_key": "079edb7105ab6e437adbd1198da46059",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1270,13 +1326,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：锰硅2611合约震荡运行",
-  "url": "https://news.mysteel.com/a/26092909/2588B12BE4D5260F.html",
+  "title": "广发期货：金银跌至8月来低位",
+  "url": "https://news.mysteel.com/a/26092909/EE53C7695BBB22C1.html",
   "summary": "",
   "pub_time": "2026-09-29T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "079edb7105ab6e437adbd1198da46059",
+  "dedup_key": "da7fb3dde168fba3eddc8f6ecab114d9",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1464,6 +1520,32 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
+ },
+ {
+  "title": "Royal Gold在会议上详细介绍了转型投资组合的转变、增长管道",
+  "url": "",
+  "summary": "Gold正在测试其200天的SMA -这3只矿业股是PlayRoyal Gold （纳斯达克股票代码： RGLD ）在收购Sandstorm和Kansanshi交易后重塑了其投资组合，强调降低资产集中度、更长的储备寿命和更广泛的开发渠道",
+  "pub_time": "2026-09-28T21:02:12Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "24049b7fd53f828c818484efc8e4050f",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Royal Gold Details Transformational Portfolio Shift, Growth Pipeline at Conference"
  },
  {
   "title": "Northern Star 拒绝了低估的 A$38.7B Gold Fields 出价",
@@ -2688,33 +2770,6 @@
    "谷物"
   ],
   "en_title": "BranValt’s New Dual Narrow Pan Improves Grain Loss Measurement in Heavy Stubble Crops"
- },
- {
-  "title": "Hudbay 将 Snow Lake 黄金产量提高 60% 至 280 万盎司",
-  "url": "",
-  "summary": "Hudbay Minerals（多伦多证券交易所、纽约证券交易所股票代码：HBM）已将其曼尼托巴省 Snow Lake 业务的矿山寿命黄金产量预测提高了 60%，达到 280 万盎司。根据更新的采矿计划。 Hudbay 后将 Snow Lake 黄金产量提高 60% 至 280 万盎司，首先出现在《The Northern Miner》上。",
-  "pub_time": "2026-09-28T14:46:21Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "656eb4fe12a953764e9174e2764c50b6",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "产量"
-  ],
-  "en_title": "Hudbay boosts Snow Lake gold output 60% to 2.8M oz"
  },
  {
   "title": "Mysteel黑色金属例会：节前钢价或平稳过渡",
