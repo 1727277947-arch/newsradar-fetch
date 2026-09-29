@@ -23,6 +23,7 @@
 import argparse
 import json
 import os
+import re
 import subprocess
 import sys
 import urllib.error
@@ -293,6 +294,105 @@ def check_afternoon_switch(data):
     return []
 
 
+def check_quote_truth(data, row_index):
+    """外部核验：拿「同一合约」的新浪报价复核我们发出去的现价与昨结算。
+
+    这是本项目最容易出错的地方——历史上出过：
+      · 用错合约（甲醇连续=MA2701，主力其实是 MA2611，差 13%）
+      · 昨结算取了东财主连的 f60（那是前收，不是结算价）
+      · 合约乘数写错（沪银 15000，应为 15），保证金放大 1000 倍
+    仅靠“内部自洽”永远查不出来，所以这里必须对外部真实行情。"""
+    issues = []
+    rows = [r for r in (data.get("prices") or []) if isinstance(r, dict)]
+    # ---- 1) 合约乘数/保证金合理性（用交易所公开规格做区间判断）----
+    MARGIN_LO, MARGIN_HI = 500.0, 200000.0
+    for r in rows:
+        if r.get("market") != "国内":
+            continue
+        try:
+            mult = float(r.get("contract_mult") or 0)
+            mg = float(r.get("est_margin") or 0)
+            fut = float(r.get("future") or 0)
+        except (TypeError, ValueError):
+            continue
+        if mg and not (MARGIN_LO <= mg <= MARGIN_HI):
+            issues.append(anomaly(
+                "外部核验",
+                "%s 一手保证金=%s 元，超出合理区间 [%s, %s]"
+                % (r.get("name") or r.get("symbol"), fmt(mg), fmt(MARGIN_LO), fmt(MARGIN_HI)),
+                "保证金算错会让“十万内能开几手”完全失真",
+                "核对 CONTRACT_MULT 与 MARGIN_RATE（沪银应为 15 千克/手）",
+            ))
+        if mult > 1000 and r.get("name") not in ("沪金", "上海原油"):
+            issues.append(anomaly(
+                "外部核验",
+                "%s 合约乘数=%s 明显偏大（现价 %s）" % (r.get("name") or r.get("symbol"), fmt(mult), fmt(fut)),
+                "乘数量纲错误（元/千克写成元/克之类）会导致保证金整体放大",
+                "按交易所规格改正 CONTRACT_MULT",
+            ))
+    # ---- 2) 逐合约向新浪复核现价与昨结算 ----
+    targets = []
+    for r in rows:
+        c = r.get("quote_contract")
+        if c:
+            targets.append((r.get("name") or c, c, r))
+    if not targets:
+        return issues
+    syms = ["nf_" + c for _, c, _ in targets]
+    live = {}
+    try:
+        for i in range(0, len(syms), 30):
+            chunk = syms[i:i+30]
+            req = urllib.request.Request("https://hq.sinajs.cn/list=" + ",".join(chunk),
+                                         headers={"User-Agent": "Mozilla/5.0",
+                                                  "Referer": "https://finance.sina.com.cn/"})
+            txt = urllib.request.urlopen(req, timeout=20).read().decode("gbk", "replace")
+            for line in txt.splitlines():
+                m = re.match(r'var hq_str_(\w+)="(.*)";', line.strip())
+                if m and m.group(2):
+                    live[m.group(1)] = m.group(2).split(",")
+    except Exception as e:
+        return issues + [anomaly(
+            "外部核验", "取新浪逐合约行情失败：%s" % str(e)[:60],
+            "现价/昨结算无法与外部对账", "检查运行环境到 hq.sinajs.cn 的网络")]
+    if not live:
+        return issues + [anomaly(
+            "外部核验", "新浪逐合约行情返回为空",
+            "现价/昨结算无法与外部对账", "稍后重试或检查 hq.sinajs.cn 可用性")]
+    for name, c, r in targets:
+        f = live.get("nf_" + c)
+        if not f or len(f) < 11:
+            continue
+        try:
+            ext_last = float(f[8]); ext_settle = float(f[10])
+        except (ValueError, IndexError):
+            continue
+        if ext_settle <= 0:
+            ext_settle = float(f[9]) if len(f) > 9 and f[9] else 0.0
+        try:
+            our_last = float(r.get("future") or 0); our_settle = float(r.get("last_settle") or 0)
+        except (TypeError, ValueError):
+            continue
+        if our_last > 0 and ext_last > 0:
+            d = abs(our_last - ext_last) / ext_last * 100.0
+            if d > 0.5:
+                issues.append(anomaly(
+                    "外部核验",
+                    "%s 现价 我们=%s 新浪(%s)=%s 偏差 %.2f%%" % (name, fmt(our_last), c, fmt(ext_last), d),
+                    "推送的现价与外部行情对不上，进场价不可信",
+                    "检查该合约的绑定/取数链路",
+                ))
+        if our_settle > 0 and ext_settle > 0:
+            d = abs(our_settle - ext_settle) / ext_settle * 100.0
+            if d > 0.5:
+                issues.append(anomaly(
+                    "外部核验",
+                    "%s 昨结算 我们=%s 新浪(%s)=%s 偏差 %.2f%%" % (name, fmt(our_settle), c, fmt(ext_settle), d),
+                    "昨结错会让涨跌幅/基差/方向判定整体偏",
+                    "昨结算必须取该合约的结算价，不能用前收替代",
+                ))
+    return issues
+
 def check_cross_source(data, row_index):
     issues = []
     picks = []
@@ -505,6 +605,7 @@ def build_report(data, source, now, skip_schedule=False, dispatch_if_stale=False
     issues += check_pick_precision(data)
     issues += check_afternoon_switch(data)
     issues += check_cross_source(data, row_index)
+    issues += check_quote_truth(data, row_index)
     notes = []
     if not skip_schedule:
         sched_issues, sched_notes = check_schedule(now)

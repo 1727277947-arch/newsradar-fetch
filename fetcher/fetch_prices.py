@@ -90,7 +90,8 @@ DOMESTIC = [
 ]
 # ============ 高频推荐：合约乘数 / 保证金率 / 交易所（公开交易所标准规格，仅用于估算）============
 CONTRACT_MULT = {
-    "AU":1000, "AG":15000, "CU":5, "AL":5, "ZN":5, "NI":1, "PB":5, "SN":1,
+    # 沪银单位是元/千克，乘数必须是 15（千克/手）；原 15000 把“克”当单位，保证金放大 1000 倍
+    "AU":1000, "AG":15, "CU":5, "AL":5, "ZN":5, "NI":1, "PB":5, "SN":1,
     "RB":10, "HC":10, "WR":10, "RU":10, "FU":10, "BU":10, "SS":5, "SP":10,
     "A":10, "B":10, "M":10, "C":10, "CS":10, "Y":10, "P":10, "JD":10,
     "J":100, "JM":60, "I":100, "LH":16, "L":5, "PP":5, "EG":10, "EB":5, "PG":20, "V":5,
@@ -488,8 +489,8 @@ EM_SECID = {"LC0": ("225", "lcm"), "SI0": ("225", "sim"),
 EM_REF = {}          # key -> 东财行情 + {sina_sym, sina_price, sina_dev_pct}
 
 
-def _sina_month_prices(prefix, months=20):
-    """一次请求取该品种未来 N 个月的新敤报价，返回 {nf_代码: 最新价}。"""
+def _sina_month_rows(prefix, months=20):
+    """一次请求取该品种未来 N 个月的新敤报价，返回 {nf_代码: 整行字段}。"""
     import datetime as _dt
     today = _dt.date.today()
     y, m = today.year, today.month
@@ -508,14 +509,18 @@ def _sina_month_prices(prefix, months=20):
             mm = re.match(r'var hq_str_(\w+)="(.*)";', line.strip())
             if not mm or not mm.group(2):
                 continue
-            f = mm.group(2).split(",")
-            try:
-                out[mm.group(1)] = float(f[7])      # 第8列=最新价
-            except (IndexError, ValueError):
-                continue
+            out[mm.group(1)] = mm.group(2).split(",")
     except Exception:
         pass
     return out
+
+
+def _fnum(row, i):
+    """从新浪行情整行里安全取第 i 列。"""
+    try:
+        return float(row[i])
+    except (IndexError, TypeError, ValueError):
+        return None
 
 
 def _bind_em_ref_contracts(boards):
@@ -531,17 +536,23 @@ def _bind_em_ref_contracts(boards):
             continue
         prefix = key[:-1] if key.endswith("0") else key
         best = None
-        for sym, px in (_sina_month_prices(prefix) or {}).items():
+        for sym, row in (_sina_month_rows(prefix) or {}).items():
+            try:
+                px = float(row[7])                  # 第8列=最新价
+            except (IndexError, ValueError):
+                continue
             if px <= 0:
                 continue
             dev = abs(px - latest) / latest * 100.0
             if dev <= 2.0 and (best is None or dev < best[1]):
-                best = (sym, dev, px)
+                best = (sym, dev, px, row)
         rec = dict(b)
         if best:
             rec["sina_sym"] = best[0]
             rec["sina_price"] = best[2]
             rec["sina_dev_pct"] = round(best[1], 2)
+            rec["sina_row"] = best[3]      # 同合约整行：f[10]=真昨结算
+            rec["sina_settle"] = _fnum(best[3], 10)
         EM_REF[key] = rec
     if EM_REF:
         print("em contract bind:", {k: (v.get("sina_sym"), v.get("sina_dev_pct")) for k, v in EM_REF.items()})
@@ -607,13 +618,22 @@ def _realtime_head(key):
     不会再出现“日线用 MA2701、实时用 MA2610”这种 13% 的错位。"""
     rec = EM_REF.get(key) or {}
     if rec.get("latest"):
+        row = rec.get("sina_row") or []
         try:
+            # 优先用「绑定的同一个合约」的新敤整行：f[2]开 f[8]最新 f[10]昨结算
+            _o, _l, _s = _fnum(row, 2), _fnum(row, 8), _fnum(row, 10)
+            if _s and _s > 0:
+                return (_o,
+                        _s,
+                        _l or float(rec["latest"]),
+                        str(row[1]) if len(row) > 1 else "",
+                        str(row[0]) if row else (rec.get("name") or ""))
             return (float(rec.get("real_open") or 0.0) or None,
                     float(rec.get("last_settle") or 0.0) or None,
                     float(rec["latest"]),
                     _bjt_hhmmss(rec.get("ts")),
                     rec.get("name") or "")
-        except (TypeError, ValueError):
+        except (TypeError, ValueError, IndexError):
             pass
     sym = key if key.startswith("nf_") else "nf_" + key
     try:
@@ -1580,23 +1600,43 @@ def _apply_em_quotes(items, boards):
             it["day_high"] = round(float(b["day_high"]), 4)
         if b.get("day_low"):
             it["day_low"] = round(float(b["day_low"]), 4)
-        if b.get("last_settle"):
+        # 昨结算必须取「绑定合约」的新浪 f[10]：东财主连的 f60 是前一日收盘，不是结算价
+        # （甲醇 09-28 真结算 3233，东财 f60 给的是 3249），直接用会让涨跌幅/基差系统性偏一点。
+        _ss = _refb.get("sina_settle")
+        if _ss and float(_ss) > 0:
+            it["last_settle"] = round(float(_ss), 4)
+        elif b.get("last_settle"):
             it["last_settle"] = round(float(b["last_settle"]), 4)
         it["quote_source"] = "eastmoney"
+        # 写下这份报价对应的具体合约（如 MA2611），体检/排查可据此向新浪逐合约复核；
+        # 没有它就只能拿“连续”去比，永远比不明白。
+        _bsym = (_refb.get("sina_sym") or "")
+        if _bsym:
+            it["quote_contract"] = _bsym[3:] if _bsym.startswith("nf_") else _bsym
+        # 合约值/保证金/涨跌幅/波幅/基差全部按「同一个合约、同一个价」重算：
+        # 否则会出现“现价 3315 但合约值按 2934 算”这种串合约（甲醇原有此病）。
         try:
             h2 = float(it.get("day_high") or 0); l2 = float(it.get("day_low") or 0)
             st = float(it.get("last_settle") or 0); last = float(it.get("future") or 0)
+            mult = float(it.get("contract_mult") or 0); mrate = float(it.get("margin_rate") or 0)
+            if last > 0 and mult > 0 and mrate > 0:
+                it["contract_value"] = round(last * mult, 2)
+                it["est_margin"] = round(last * mult * mrate, 2)
             if h2 > 0 and l2 > 0 and st > 0:
                 it["day_range_pct"] = round((h2 - l2) / st * 100.0, 2)
                 it["change"] = round(last - st, 4)
                 it["change_pct"] = round((last - st) / st * 100.0, 2)
                 it["trend"] = "up" if last > st else ("down" if last < st else "flat")
-                # 基差必须跟着同源昨结走：并入东财昨结后若沿用旧 basis，
-                # 会出现"基差 620.67 但 现货-昨结 只有 306.67"这种自相矛盾的展示。
-                _sp2 = float(it.get("spot") or 0.0)
-                if _sp2 > 0:
-                    it["basis"] = round(_sp2 - st, 2)
-                    it["basis_pct"] = round((_sp2 - st) / st * 100.0, 2)
+            _sp2 = float(it.get("spot") or 0.0)
+            if _sp2 > 0 and st > 0:
+                it["basis"] = round(_sp2 - st, 2)
+                _bp = round((_sp2 - st) / st * 100.0, 2)
+                it["basis_pct"] = _bp
+                # 生意社“现货”与期货常不是同一规格(甲醇现货 4600 而主力期货 3336，基差 42%)，
+                # 超过 15% 基本只说明两者不可比，必须标记出来，不能当可交易基差展示。
+                if abs(_bp) > 15.0:
+                    it["basis_suspect"] = True
+                    it["basis_note"] = "现货与期货可能不是同一规格/地区，基差不可比"
         except Exception:
             pass
         n_ok += 1
