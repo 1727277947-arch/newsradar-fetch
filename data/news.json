@@ -1,5 +1,31 @@
 [
  {
+  "title": "Grain Central 2026 年 9 月新闻问答",
+  "url": "",
+  "summary": "及时了解 Grain Central 测验的最新进展……",
+  "pub_time": "2026-09-29T07:29:07Z",
+  "source": "GrainCentral",
+  "_cat": "农产品",
+  "dedup_key": "7dd1e460a543ea4c5efd7f27d76c2212",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "谷物"
+  ],
+  "en_title": "Grain Central September 2026 news quiz"
+ },
+ {
   "title": "中国液化天然气进口量将连续第二个月下降",
   "url": "",
   "summary": "由于中东战争导致价格大幅上涨，中国液化天然气进口量将连续第二个月下降。彭博社今天引用的 Kpler 数据显示，9 月份流向中国的液化天然气预计为 530 万吨。这会",
@@ -245,7 +271,7 @@
  },
  {
   "title": "螺纹钢期货高开低走，钢价涨跌有限",
-  "url": "https://news.mysteel.com/a/26092911/CA96A085E652A2E6.html",
+  "url": "https://news.mysteel.com/a/26092911/310798C8CF226F0C.html",
   "summary": "",
   "pub_time": "2026-09-29T03:00:00Z",
   "source": "上海钢联Mysteel",
@@ -2237,25 +2263,6 @@
   "is_elite": false
  },
  {
-  "title": "国家能源局组织召开2026—2027年采暖季天然气保供形势研判专题会议",
-  "url": "https://news.mysteel.com/a/26092815/960D013C85411A18.html",
-  "summary": "",
-  "pub_time": "2026-09-28T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "9ce740622bfe30003d13cc37cb76e9b8",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "现货白银跌幅扩大至5%",
   "url": "https://news.mysteel.com/a/26092815/1043ED385EEC0DA7.html",
   "summary": "",
@@ -2570,25 +2577,6 @@
   "en_title": "Gold draws investors seeking a ‘trustless’ asset: Phair"
  },
  {
-  "title": "9月28日进口大豆到国内港口CF及升贴水报价",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/28/0626938256.shtml",
-  "summary": "",
-  "pub_time": "2026-09-27T16:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "ffaebfb55eadade50417b2bf7a5348c2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
   "title": "9月28日进口油菜籽到国内港口CF报价",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/28/1110621033.shtml",
   "summary": "",
@@ -2620,6 +2608,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "9月28日进口大豆到国内港口CF及升贴水报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/28/0626938256.shtml",
+  "summary": "",
+  "pub_time": "2026-09-27T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "1fc5e9b511fedea5c3723df36676984e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "粮油首页"
