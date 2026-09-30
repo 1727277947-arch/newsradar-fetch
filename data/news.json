@@ -1,5 +1,89 @@
 [
  {
+  "title": "随着石油价格回升，外国投资者从印度市场撤资 32 亿美元",
+  "url": "",
+  "summary": "布伦特原油价格重新上涨至每桶100美元以上，促使外国投资者以自3月份以来最快的速度从印度股票和债券市场撤资，当时伊朗战争的爆发和亚洲石油供应紧缩引发了亚洲资产的大规模撤离。继",
+  "pub_time": "2026-09-30T09:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "e733e8c2b1242dbecc31c305d7097425",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "上涨"
+  ],
+  "en_title": "Foreign Investors Pull $3.2 Billion From Indian Markets as Oil Rally Returns"
+ },
+ {
+  "title": "Mysteel晚餐：焦炭首轮提降落地",
+  "url": "https://news.mysteel.com/a/26093017/F30620D15B5ACAE0.html",
+  "summary": "",
+  "pub_time": "2026-09-30T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "312bc87fbd64ac12a7a27493c1fdc5b7",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "每日钢市：2家钢厂涨价，节后钢价或“上有顶、下有底”",
+  "url": "https://news.mysteel.com/a/26093017/5BDB751BC2BFA64B.html",
+  "summary": "",
+  "pub_time": "2026-09-30T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "12873e634a4614accc285f39b0acd3cd",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel晚餐：焦炭首轮提降落地，唐山钢坯亏损仍大",
+  "url": "https://news.mysteel.com/a/26093017/1396EF837700481A.html",
+  "summary": "",
+  "pub_time": "2026-09-30T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "592745dc8a6d89e938320c8359bcf733",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "关键矿产日报：沁源县累计复产煤矿9座，9月铜、锂项目进展",
   "url": "https://news.mysteel.com/a/26093017/D929BB5BE9A39532.html",
   "summary": "",
@@ -84,21 +168,21 @@
   "is_elite": false
  },
  {
-  "title": "山西吉县苹果跨区域推介 推动黄河中游农文旅融合",
-  "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706236.shtml",
-  "summary": "近日，山西吉县苹果集中上市。图为吉县苹果。高雨晴 摄 中新网太原9月30日电 (高雨晴)近日，山西吉县在苹果集中上市期开展跨区域推介，先后走进广西、北京、山西晋中等地，并在吉县举办“果香吉州 产销共赢——吉县苹果品牌推介暨产销对接会”，签约果品6065万斤、总金额3.03亿元，助力黄河中游农文旅融合发展",
-  "pub_time": "2026-09-30T07:11:29Z",
-  "source": "中国新闻网-财经",
+  "title": "Mysteel日报：黑色金属期货价格震荡下跌",
+  "url": "https://news.mysteel.com/a/26093016/3D23F7B04C19B9B6.html",
+  "summary": "",
+  "pub_time": "2026-09-30T08:00:00Z",
+  "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "a5e57cc3e8a339fd7d807452123a040f",
+  "dedup_key": "62c08c94827648b6df25c5fbb5e11329",
   "score": 80,
   "priority": "P1",
-  "topic": "国内/财经",
+  "topic": "国内/大宗商品",
   "tags": [
-   "财经",
+   "大宗商品",
    "中文",
    "国内",
-   "中国新闻网-财经"
+   "上海钢联Mysteel"
   ],
   "is_elite": false
  },
@@ -149,27 +233,8 @@
   "is_elite": false
  },
  {
-  "title": "黑色持仓日报：期螺飘红，高盛期货增持1万手多单",
-  "url": "https://news.mysteel.com/a/26093015/2B4ACB2876CCA212.html",
-  "summary": "",
-  "pub_time": "2026-09-30T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "9fa7ac8838f18d5646c6c99e4676b532",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel：2026年9月国内锂电相关项目进展汇总",
-  "url": "https://news.mysteel.com/a/26093015/61F2F3C1D95274CB.html",
+  "url": "https://news.mysteel.com/a/26093015/657F385AB59FBC4F.html",
   "summary": "",
   "pub_time": "2026-09-30T07:00:00Z",
   "source": "上海钢联Mysteel",
@@ -180,6 +245,25 @@
   "topic": "国内/产业经济",
   "tags": [
    "产业经济",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "黑色持仓日报：期螺飘红，高盛期货增持1万手多单",
+  "url": "https://news.mysteel.com/a/26093015/38C6083F8C658491.html",
+  "summary": "",
+  "pub_time": "2026-09-30T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "9fa7ac8838f18d5646c6c99e4676b532",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -451,7 +535,7 @@
  },
  {
   "title": "Mysteel：9月河北省6个铁矿石项目获批",
-  "url": "https://news.mysteel.com/a/26093011/FBB57E7D3630427B.html",
+  "url": "https://news.mysteel.com/a/26093011/63ED7F1C1615A3ED.html",
   "summary": "",
   "pub_time": "2026-09-30T03:00:00Z",
   "source": "上海钢联Mysteel",
@@ -2266,33 +2350,6 @@
   "en_title": "Golden Cariboo outlines nearly 1M oz inferred in BC"
  },
  {
-  "title": "伊朗谈判平息了石油涨势",
-  "url": "",
-  "summary": "随着伊朗谈判重启和沙特出口复苏缓解了供应担忧，油价回落。欧洲液化天然气购买热潮随着时间的推移而到来——继夏季交付量仅为 30% 令人失望之后，欧洲终于在冬季供暖季节之前增加了液化天然气的进口",
-  "pub_time": "2026-09-29T15:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "e945cdb5309e0a83057cf2681383cb90",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "上涨"
-  ],
-  "en_title": "Iran Talks Take the Heat Out of the Oil Rally"
- },
- {
   "title": "智利罢工风险增加，铜价维持在 14,400 美元上方",
   "url": "",
   "summary": "安托法加斯塔 Centinela 的工资报价被拒绝，加剧了供应担忧，金属有望连续第三个月上涨。",
@@ -2476,25 +2533,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "cd5b546dcfbd152b802c3a8eec1456ba",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：国庆节后湖北市场建材价格呈先抑后扬震荡运行",
-  "url": "https://news.mysteel.com/a/26092916/6AFC4AFA31D4BC28.html",
-  "summary": "",
-  "pub_time": "2026-09-29T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "4b6087ab3043b84c75906b2493f4871c",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -3107,25 +3145,6 @@
   "is_elite": false
  },
  {
-  "title": "9月29日进口大豆到国内港口CF及升贴水报价",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/29/0217312026.shtml",
-  "summary": "",
-  "pub_time": "2026-09-28T16:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "4d391c9e94d3fd1ebee10b3488a2e9bc",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
   "title": "9月29日进口油菜籽到国内港口CF报价",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/29/0539167339.shtml",
   "summary": "",
@@ -3160,6 +3179,25 @@
    "中文",
    "国内",
    "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "9月29日进口大豆到国内港口CF及升贴水报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/29/0217312026.shtml",
+  "summary": "",
+  "pub_time": "2026-09-28T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "756d7408355718e95b0f75b0f1c5b3ab",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
   ],
   "is_elite": false
  },
@@ -3271,44 +3309,6 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "9月29日24度棕榈油国内各港口交货价格下跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/29/0339879291.shtml",
-  "summary": "",
-  "pub_time": "2026-09-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "c56f8e6e655e2768420dd26d43ef3ba5",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年9月29日大连棕榈油期货低开收跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/09/29/0620870756.shtml",
-  "summary": "",
-  "pub_time": "2026-09-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "ec121b37aabdf0cb8c5c647f7ac4ad43",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "粮油首页"
@@ -3734,6 +3734,25 @@
   "is_elite": false
  },
  {
+  "title": "2026年9月29日大连棕榈油期货低开收跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/09/29/0620870756.shtml",
+  "summary": "",
+  "pub_time": "2026-09-28T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "ec121b37aabdf0cb8c5c647f7ac4ad43",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "ICE期棉上涨，受油价上涨提振",
   "url": "http://www.chinagrain.cn/axfwnh/2026/09/29/0939550607.shtml",
   "summary": "",
@@ -3861,59 +3880,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "美联储加息押注金价跌破$ 4200",
-  "url": "",
-  "summary": "（ RTTNews ） -周一金价大幅下跌，因为油价飙升和债券收益率上升加剧了人们对美联储下个月将继续加息的担忧。",
-  "pub_time": "2026-09-28T09:56:52Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "a399c53fbfe35e86793d88559be125c4",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Gold Dips Below $4200 On Fed Hike Bets"
- },
- {
-  "title": "美伊僵局中油价飙升",
-  "url": "",
-  "summary": "（ RTTNews ） -由于美国总统唐纳德·特朗普（ Donald Trump ）拒绝了伊朗重新开放霍尔木兹海峡的最新提议，并暗示可能在中期选举后进行新的军事打击，油价周一上涨超过3 ％。",
-  "pub_time": "2026-09-28T09:33:53Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "25cf97285bf144faebb32f1aa52e0d85",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "大涨"
-  ],
-  "en_title": "Oil Prices Surge Amid US-Iran Stalemate"
  }
 ]
