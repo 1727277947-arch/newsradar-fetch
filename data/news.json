@@ -1,12 +1,353 @@
 [
  {
+  "title": "智能谷物电梯：为什么人工智能正在重塑谷物处理",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-09-30T20:37:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "a3d199bed56c86470c00ee0d1ae9a9db",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "谷物"
+  ],
+  "en_title": "The Smart Grain Elevator: Why Artificial Intelligence Is Reshaping Grain Handling"
+ },
+ {
+  "title": "非洲大规模水泥扩张可能推动能源繁荣",
+  "url": "",
+  "summary": "几十年来，非洲的能源消耗一直落后于世界，尽管拥有世界五分之一的人口，但其能源供应量仅占全球能源供应量的不到5%。非洲大陆的制造业产出仅占全球的 2%，大多数非洲国家出口原材料",
+  "pub_time": "2026-09-30T20:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "ff1614380c37ca59e258b4d068546b02",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "能源"
+  ],
+  "en_title": "Africa’s Massive Cement Expansion Could Drive An Energy Boom"
+ },
+ {
   "title": "由于魁北克许可证失效，金矿公司停止了 Windfall 工作",
   "url": "",
   "summary": "科罗拉多州科罗拉多斯普林斯 – 南非 Gold Fields（纽约证券交易所、JSE：GFI）在勘探工作许可证到期后暂停了魁北克 Windfall 的地下开发，留下了拟议的 19 亿美元（2.7 加元）……由于魁北克许可证失效，Gold Fields 停止了 Windfall 工作。",
-  "pub_time": "2026-09-30T17:57:50Z",
+  "pub_time": "2026-09-30T19:55:50Z",
   "source": "NorthernMiner",
   "_cat": "贵金属",
   "dedup_key": "92b0796e576b4dca7e2e3fe97539be2f",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "下跌"
+  ],
+  "en_title": "Gold Fields halts Windfall work as Quebec permit lapses"
+ },
+ {
+  "title": "演员迪卡普里奥与 Belo Sun 价值 3 亿美元的巴西矿展开斗争",
+  "url": "",
+  "summary": "莱昂纳多·迪卡普里奥 (Leonardo DiCaprio) 大力支持 Belo Sun Mining (TSX: BSX) 提议的价值 3 亿美元的巴西 Volta Grande 金矿项目的反对者，为这场长期的斗争增添了高调的声音......",
+  "pub_time": "2026-09-30T19:35:18Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "71c951fc401fbeda6d4feaf99dbc2c3d",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Actor DiCaprio fights Belo Sun’s $300M Brazil mine"
+ },
+ {
+  "title": "粮食设施如何重新考虑设备可靠性",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-09-30T19:35:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "f0bb8ff8b2a434707f6dadb8fb73e7e5",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "谷物"
+  ],
+  "en_title": "How Grain Facilities Are Rethinking Equipment Reliability"
+ },
+ {
+  "title": "Miata 在苏里南 Sela Creek 钻探出 3.4 克黄金",
+  "url": "",
+  "summary": "Miata Metals（多伦多证券交易所代码：MMET；美国场外交易代码：MMETF）位于苏里南的 Sela Creek 项目的钻探已在 Jons Trend 中返回堆积的高品位截获物，赋予其露天采矿的潜力，该公司... Miata 在苏里南 Sela Creek 钻探了 3.4 克黄金，该项目首先出现在 The Northern Mi 上",
+  "pub_time": "2026-09-30T19:30:23Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "9aaba4eb0ee20933106b0973f0f913a6",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Miata drills 3.4 g gold at Sela Creek in Suriname"
+ },
+ {
+  "title": "亚利桑那黄金公司在主要项目中找到了高品位区域",
+  "url": "",
+  "summary": "亚利桑那金银公司（TSXV：AZS；美国场外交易代码：AZASF）在亚利桑那州费城项目的新钻探遇到了将金矿化延伸至红山目标以下的高品位带。亚利桑那黄金公司在主要项目中发现高品位带的帖子首先出现在《北方矿工》上。",
+  "pub_time": "2026-09-30T19:25:49Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "0389c89e45258e06ba95390089de9f3f",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Arizona Gold finds high-grade zones at main project"
+ },
+ {
+  "title": "赫拉克勒斯扩大了爱达荷州铜矿的发现范围",
+  "url": "",
+  "summary": "Hercules Metals（多伦多证券交易所代码：BIG；美国场外交易代码：BADEF）扩大了其在爱达荷州的 Southern Flats 铜矿发现范围，将可能与利维坦系统连接到北部的目标区域扩大。 HER-26-01 洞...后赫拉克勒斯扩展爱达荷州铜矿发现首先出现在《北方矿工》上。",
+  "pub_time": "2026-09-30T19:15:18Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "b6dc42d9c59294efa3a0651d7dff468e",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜"
+  ],
+  "en_title": "Hercules extends Idaho copper discovery"
+ },
+ {
+  "title": "汉考克对稀土纸张损失的报道提出异议",
+  "url": "",
+  "summary": "澳大利亚汉考克勘探公司正在对《澳大利亚金融评论报》的一份报告提出异议，该报告称 MP Materials (NYSE: MP) 和 Lynas Rare Earths (ASX: LYC) 股价下跌已经降低了价值……汉考克对稀土账面损失的报道提出异议后，首先出现在《北方矿业》(The Northern Miner) 上。",
+  "pub_time": "2026-09-30T19:10:00Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "b7484cc4df4fb77d683f204b1c9da590",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Hancock disputes report of rare-earths paper loss"
+ },
+ {
+  "title": "特朗普对委内瑞拉黄金的推动遇到了炼油厂的障碍：纽约时报",
+  "url": "",
+  "summary": "据《纽约时报》报道，运至美国的价值数亿美元的委内瑞拉黄金金币仍被困在仓库中，因为炼油厂不愿意处理这些黄金。",
+  "pub_time": "2026-09-30T19:05:36Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "2cae622a7bd66cdcc74858fc941969e2",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Trump’s Venezuela gold push hits refiner snag: NYT"
+ },
+ {
+  "title": "圭亚那丰富的石油资源正在以惊人的速度改变其经济",
+  "url": "",
+  "summary": "圭亚那开始从其迅速扩张的石油业务中获得巨额利润，预计还会有更多利润。 2015 年，Stabroek 区块近海首次发现石油，不久后开始开发，并于 2019 年 12 月开始生产。这改变了圭亚那的国际形象。",
+  "pub_time": "2026-09-30T19:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "d4baccd47949bd9541eaf62550033c87",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Guyana’s Oil Riches Are Transforming Its Economy at Breakneck Speed"
+ },
+ {
+  "title": "原油价格在昨天大幅下跌后重新站稳脚跟",
+  "url": "",
+  "summary": "(RTTNews) - 原油价格在周三交易中强劲回升，继前一交易日大幅下跌后收复失地。",
+  "pub_time": "2026-09-30T18:45:24Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "aaa63edb40c2a8d6b778a203026b2c88",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "走强"
+  ],
+  "en_title": "Crude Oil Prices Regaining Ground After Yesterday's Significant Downturn"
+ },
+ {
+  "title": "金价在早盘飙升后回落至不变线附近",
+  "url": "",
+  "summary": "(RTTNews) - 周三早盘金价飙升，但在整个交易日中有所回落。",
+  "pub_time": "2026-09-30T18:23:21Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "5ea1fbd4042c304d196c05ab437e8346",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "价",
+   "大涨"
+  ],
+  "en_title": "Gold Prices Pull Back Near Unchanged Line After Early Surge"
+ },
+ {
+  "title": "由于魁北克许可证失效，金矿公司停止了 Windfall 工作",
+  "url": "",
+  "summary": "勘探许可证到期后，其拟建的耗资 19 亿美元的金矿正在等待单独的省级环境审批。",
+  "pub_time": "2026-09-30T18:02:33Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "6e1a53e86cf9306a0579f86ff4b40b21",
   "score": 84,
   "priority": "P1",
   "topic": "贵金属",
@@ -55,32 +396,6 @@
    "产量"
   ],
   "en_title": "U.S. Oil and Gas Production Climbs Despite Extreme Oil Price Volatility"
- },
- {
-  "title": "赞助问答：额尔登从金矿建设转向地区规模勘探",
-  "url": "",
-  "summary": "额尔登资源开发公司 (Erdene Resource Development) 位于蒙古的 Bayan Khundii 金矿已投入商业生产，并将注意力重新转向更广泛的 Khundii 矿产区的勘探......后赞助问答：额尔登从金矿建设转向地区规模勘探",
-  "pub_time": "2026-09-30T17:27:21Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "4178fa7d872a845f5c37a067f5390a08",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Sponsored Q&A: Erdene shifts from gold mine build to district-scale exploration"
  },
  {
   "title": "欧洲再次遭受能源驱动型通胀冲击",
@@ -244,32 +559,6 @@
   "en_title": "Arizona Gold finds high-grade zones at main project"
  },
  {
-  "title": "亚利桑那黄金公司在主要项目中找到了高品位区域",
-  "url": "",
-  "summary": "亚利桑那金银公司（TSXV：AZS；美国场外交易代码：AZASF）在亚利桑那州费城项目的新钻探遇到了将金矿化延伸至红山目标以下的高品位带。亚利桑那黄金公司在主要项目中发现高品位带的帖子首先出现在《北方矿工》上。",
-  "pub_time": "2026-09-30T15:25:49Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "0389c89e45258e06ba95390089de9f3f",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Arizona Gold finds high-grade zones at main project"
- },
- {
   "title": "Miata 在苏里南 Sela Creek 钻探出 3.4 克黄金",
   "url": "",
   "summary": "结果使 Sela Creek 成为苏里南几个新兴黄金项目之一。",
@@ -296,13 +585,13 @@
   "en_title": "Miata drills 3.4 g gold at Sela Creek in Suriname"
  },
  {
-  "title": "Miata 在苏里南 Sela Creek 钻探出 3.4 克黄金",
+  "title": "赞助问答：额尔登从金矿建设转向地区规模勘探",
   "url": "",
-  "summary": "Miata Metals（多伦多证券交易所代码：MMET；美国场外交易代码：MMETF）位于苏里南的 Sela Creek 项目的钻探已在 Jons Trend 中返回堆积的高品位截获物，赋予其露天采矿的潜力，该公司... Miata 在苏里南 Sela Creek 钻探了 3.4 克黄金，该项目首先出现在 The Northern Mi 上",
-  "pub_time": "2026-09-30T15:19:23Z",
+  "summary": "额尔登资源开发公司 (Erdene Resource Development) 位于蒙古的 Bayan Khundii 金矿已投入商业生产，并将注意力重新转向更广泛的 Khundii 矿产区的勘探......后赞助问答：额尔登从金矿建设转向地区规模勘探",
+  "pub_time": "2026-09-30T15:00:21Z",
   "source": "NorthernMiner",
   "_cat": "贵金属",
-  "dedup_key": "9aaba4eb0ee20933106b0973f0f913a6",
+  "dedup_key": "4178fa7d872a845f5c37a067f5390a08",
   "score": 84,
   "priority": "P2",
   "topic": "贵金属",
@@ -319,7 +608,7 @@
    "贵金属",
    "黄金"
   ],
-  "en_title": "Miata drills 3.4 g gold at Sela Creek in Suriname"
+  "en_title": "Sponsored Q&A: Erdene shifts from gold mine build to district-scale exploration"
  },
  {
   "title": "美国原油库存意外小幅上升",
@@ -500,32 +789,6 @@
   "en_title": "OPEC+ Expected to Keep Oil Production Quotas Unchanged"
  },
  {
-  "title": "赫拉克勒斯扩大了爱达荷州铜矿的发现范围",
-  "url": "",
-  "summary": "Hercules Metals（多伦多证券交易所代码：BIG；美国场外交易代码：BADEF）扩大了其在爱达荷州的 Southern Flats 铜矿发现范围，将可能与利维坦系统连接到北部的目标区域扩大。 HER-26-01 洞...后赫拉克勒斯扩展爱达荷州铜矿发现首先出现在《北方矿工》上。",
-  "pub_time": "2026-09-30T13:00:18Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "b6dc42d9c59294efa3a0651d7dff468e",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "Hercules extends Idaho copper discovery"
- },
- {
   "title": "俄罗斯将柴油出口禁令延长至10月31日",
   "url": "",
   "summary": "俄罗斯政府周三将所有燃料生产商的柴油、船用燃料和瓦斯油出口禁令延长至 10 月 31 日，这实际上将全球市场紧缩的时间延长了一个月。政府采取了",
@@ -576,57 +839,6 @@
    "预测"
   ],
   "en_title": "Analysts Cut China's Q4 Crude Import Forecasts by 400,000 Bpd"
- },
- {
-  "title": "汉考克对稀土纸张损失的报道提出异议",
-  "url": "",
-  "summary": "澳大利亚汉考克勘探公司正在对《澳大利亚金融评论报》的一份报告提出异议，该报告称 MP Materials (NYSE: MP) 和 Lynas Rare Earths (ASX: LYC) 股价下跌已经降低了价值……汉考克对稀土账面损失的报道提出异议后，首先出现在《北方矿业》(The Northern Miner) 上。",
-  "pub_time": "2026-09-30T11:00:00Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "b7484cc4df4fb77d683f204b1c9da590",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Hancock disputes report of rare-earths paper loss"
- },
- {
-  "title": "特朗普对委内瑞拉黄金的推动遇到了炼油厂的障碍：纽约时报",
-  "url": "",
-  "summary": "据《纽约时报》报道，运至美国的价值数亿美元的委内瑞拉黄金金币仍被困在仓库中，因为炼油厂不愿意处理这些黄金。",
-  "pub_time": "2026-09-30T10:36:36Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "2cae622a7bd66cdcc74858fc941969e2",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Trump’s Venezuela gold push hits refiner snag: NYT"
  },
  {
   "title": "中国动力煤价格飙升至三年高位",
@@ -761,33 +973,6 @@
   "is_elite": false
  },
  {
-  "title": "印度增加中东石油进口，减少俄罗斯流量",
-  "url": "",
-  "summary": "印度媒体援引 Kpler 的数据报道称，印度增加了从中东的原油进口，同时减少了对俄罗斯原油的购买。然而，尽管美国威胁征收 100% 关税，该国并不打算完全停止从俄罗斯进口石油。从中东进口石油",
-  "pub_time": "2026-09-30T08:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "8a08ff65e6323d88645b3319688f535b",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "进口"
-  ],
-  "en_title": "India Boosts Middle East Oil Imports, Cuts Russian Flows"
- },
- {
   "title": "新疆公布2026年10月电解铝企业自备电厂系统备用费标准",
   "url": "https://news.mysteel.com/a/26093016/6494F3C8C274A319.html",
   "summary": "",
@@ -824,33 +1009,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "摩根大通和高盛对霍尔木兹石油流量的估计存在分歧",
-  "url": "",
-  "summary": "摩根大通表示，中东的原油出口几乎已完全恢复至战前水平，该公司还表示，燃料出口正在增加。该银行分析师预计 9 月份日均石油流量为 1,750 万桶，为战前水平的 98%，燃料出口量为 3",
-  "pub_time": "2026-09-30T07:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "贵金属",
-  "dedup_key": "5fd58804f4b03585338d4583fadf70d9",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "原油"
-  ],
-  "en_title": "JP Morgan, Goldman Diverge on Hormuz Oil Flow Estimates"
  },
  {
   "title": "Mysteel：2026年9月国内锂电相关项目进展汇总",
@@ -1806,32 +1964,6 @@
   "en_title": "Gold Moving Modestly Higher Following Yesterday's Nosedive"
  },
  {
-  "title": "Copper Intelligence 与 CoTec 合作开展刚果尾矿加工",
-  "url": "",
-  "summary": "他们的目标是在刚果民主共和国的铜矿区开发铜尾矿机会，这些铜矿区自 1950 年代以来一直在建设。",
-  "pub_time": "2026-09-29T16:14:11Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "eb4144b67ba74679161a0559fe4865ca",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "Copper Intelligence, CoTec partner for DRC tailings processing"
- },
- {
   "title": "分析师最爱：金罗斯黄金 (Kinross Gold) 成为首选金属",
   "url": "",
   "summary": "根据 Metals Channel 的数据，对主要经纪公司的分析师推荐进行的研究显示，Kinross Gold Corp.（代码：KGC）在组成 Metals Channel 全球矿业巨头指数的 50 只股票中平均排名第 10。全球金属频道",
@@ -2695,58 +2827,6 @@
   "is_elite": false
  },
  {
-  "title": "Golden Cariboo 概述了 BC 省推断的近 100 万盎司",
-  "url": "",
-  "summary": "该公司报告产量为 175,000 盎司。所示为 995,000 盎司。其 Quesnelle 矿区推断出黄金。",
-  "pub_time": "2026-09-29T15:43:59Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "8f2717906287f0e270e6c9c925fdf4e9",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Golden Cariboo outlines nearly 1M oz inferred in BC"
- },
- {
-  "title": "Golden Cariboo 概述了 BC 省推断的近 100 万盎司",
-  "url": "",
-  "summary": "Golden Cariboo Resources（CSE：GCC；US-OTC：GCCFF）已概述了 175,000 盎司的初始资源量。黄金和 995,000 推断盎司。在其过去生产的位于不列颠哥伦比亚省中部的 Quesnelle 矿区，... 后 Golden Cariboo 概述了 BC 推断的近 100 万盎司，首先出现在 The North",
-  "pub_time": "2026-09-29T14:43:59Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "6222fccfb9e01eb9d16d64e77e104e50",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Golden Cariboo outlines nearly 1M oz inferred in BC"
- },
- {
   "title": "GEAPS 将于 2026 年 12 月举办新兴领袖研讨会",
   "url": "",
   "summary": "为来到堪萨斯州和爱荷华州的一线领导者提供高价值的专业发展",
@@ -3127,134 +3207,5 @@
    "黄金"
   ],
   "en_title": "Royal Gold Details Transformational Portfolio Shift, Growth Pipeline at Conference"
- },
- {
-  "title": "HMY 显着交叉低于关键移动平均线",
-  "url": "",
-  "summary": "在周一的交易中，Harmony Gold Mining Co. Ltd.（代码：HMY）的股价跌破 18.40 美元的 200 日移动平均线，易手低至每股 17.60 美元。 Harmony Gold Mining Co. Ltd. 的股价当天下跌约 6.3%。如下图所示",
-  "pub_time": "2026-09-28T20:10:00Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "edc07e04c1ce79e0029f6acda3ea7dbd",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "HMY Makes Notable Cross Below Critical Moving Average"
- },
- {
-  "title": "AngloGold Ashanti 跌破 200 日移动平均线 - 澳大利亚值得注意",
-  "url": "",
-  "summary": "在周一的交易中，AngloGold Ashanti plc（代码：AU）的股价跌破 96.58 美元的 200 日移动平均线，易手低至每股 91.85 美元。 AngloGold Ashanti plc 股价当天下跌约 6.2%。下图显示了一年的情况",
-  "pub_time": "2026-09-28T20:09:57Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "2315ba72ff58efca06ce4e68f6bb2eee",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "AngloGold Ashanti Breaks Below 200-Day Moving Average - Notable for AU"
- },
- {
-  "title": "ATI 股票严重超卖",
-  "url": "",
-  "summary": "在周一的交易中，ATI Inc（代码：ATI）的股票进入超卖区域，易手低至每股 178.26 美元。我们使用相对强度指数 (RSI) 定义超卖区域，这是一种用于衡量动量规模的技术分析指标",
-  "pub_time": "2026-09-28T20:06:27Z",
-  "source": "Nasdaq商品",
-  "_cat": "基本金属",
-  "dedup_key": "f9d4bb83b51f8605c73606dee357b30b",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡",
-   "库存"
-  ],
-  "en_title": "ATI Stock Getting Very Oversold"
- },
- {
-  "title": "AUST 穿越关键技术指标",
-  "url": "",
-  "summary": "在周一的交易中，奥斯汀黄金公司（股票代码：AUST）的股票进入超卖区域，易手低至每股 1.02 美元。我们使用相对强弱指数（RSI）来定义超卖区域，这是一种技术分析指标，用于衡量超卖动量",
-  "pub_time": "2026-09-28T20:05:34Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "129287246eca53a967648b3373a5ef55",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "AUST Crosses Critical Technical Indicator"
- },
- {
-  "title": "ASA欢迎中国大豆采购承诺并敦促减免关税",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-28T19:02:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "80a63f4bdc905f840a3b51da807920be",
-  "score": 84,
-  "priority": "P1",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "大豆"
-  ],
-  "en_title": "ASA Welcomes China’s Soybean Purchase Commitments, Urges Tariff Relief"
  }
 ]
