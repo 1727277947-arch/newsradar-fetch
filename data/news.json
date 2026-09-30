@@ -1,5 +1,80 @@
 [
  {
+  "title": "分析师将中国第四季度原油进口预测下调 40 万桶/日",
+  "url": "",
+  "summary": "由于油价再次飙升至每桶 100 美元以上，且在伊朗原油几近消失的情况下，独立炼油厂难以获得更便宜的供应，预计中国到今年年底不会大幅增加原油进口。中国有望进口大致相同的数量",
+  "pub_time": "2026-09-30T11:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "b03015dd00cd3a3c3ae6dfca9ba5ca11",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "预测"
+  ],
+  "en_title": "Analysts Cut China's Q4 Crude Import Forecasts by 400,000 Bpd"
+ },
+ {
+  "title": "江西红谷滩发算力券“礼包” 单家企业年度最高可获50万元支持",
+  "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706461.shtml",
+  "summary": "熊锦阳)9月30日，江西省南昌市红谷滩区印发《红谷滩区算力券(词元券)实施方案》，年度设置总额600万元的算力券(词元券)，其中算力券额度200万元、词元(Token)券额度400万元，以真金白银助企发展，激发区域数智创新活力",
+  "pub_time": "2026-09-30T11:29:57Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "f0c47f5a746bd07afadf8207d11504e1",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "中国动力煤价格飙升至三年高位",
+  "url": "",
+  "summary": "由于国内产量下降和最大煤炭出口国印度尼西亚的进口减少，中国动力煤基准价格连续 11 周上涨，本周触及三年来的最高水平。中国价格基准秦皇岛动力煤现货价格跃升至98",
+  "pub_time": "2026-09-30T10:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "97d14ec1d56acd35a62a7d88130fd914",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "煤炭",
+   "价",
+   "大涨",
+   "年内新高"
+  ],
+  "en_title": "China’s Thermal Coal Prices Surge to Three-Year High"
+ },
+ {
   "title": "随着石油价格回升，外国投资者从印度市场撤资 32 亿美元",
   "url": "",
   "summary": "布伦特原油价格重新上涨至每桶100美元以上，促使外国投资者以自3月份以来最快的速度从印度股票和债券市场撤资，当时伊朗战争的爆发和亚洲石油供应紧缩引发了亚洲资产的大规模撤离。继",
@@ -103,25 +178,6 @@
   "is_elite": false
  },
  {
-  "title": "时隔13年中国石油西南油气田原油日产再上200吨",
-  "url": "https://www.chinanews.com.cn/cj/2026/09-30/10706311.shtml",
-  "summary": "朱讯 黄东 李正勇)9月30日，中国石油西南油气田公司(以下简称西南油气田)原油勘探开发战场再传捷报：顺庆油田S102平台排采效果持续向好，日产突破50吨，至此西南油气田原油日产时隔13年再上200吨台阶，标志着西南油气田“油气并举”发展格局正从规划蓝图加速向看得见的发展实效转化",
-  "pub_time": "2026-09-30T08:51:23Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "2384f6923d29ad67380cc7e54d1673f6",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
   "title": "印度增加中东石油进口，减少俄罗斯流量",
   "url": "",
   "summary": "印度媒体援引 Kpler 的数据报道称，印度增加了从中东的原油进口，同时减少了对俄罗斯原油的购买。然而，尽管美国威胁征收 100% 关税，该国并不打算完全停止从俄罗斯进口石油。从中东进口石油",
@@ -214,25 +270,6 @@
   "en_title": "JP Morgan, Goldman Diverge on Hormuz Oil Flow Estimates"
  },
  {
-  "title": "有色持仓日报：沪铜涨0.35%，中信期货减持超1.8千手多单",
-  "url": "https://news.mysteel.com/a/26093015/93858A1BCB9E7FE1.html",
-  "summary": "",
-  "pub_time": "2026-09-30T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "aa10ab5a5d152f8f474acd8a27e3f43f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel：2026年9月国内锂电相关项目进展汇总",
   "url": "https://news.mysteel.com/a/26093015/657F385AB59FBC4F.html",
   "summary": "",
@@ -278,6 +315,25 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "5415df52f2fe28adadd36bf84f93e63e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "有色持仓日报：沪铜涨0.35%，中信期货减持超1.8千手多单",
+  "url": "https://news.mysteel.com/a/26093015/E57E7A3F862F6F28.html",
+  "summary": "",
+  "pub_time": "2026-09-30T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "aa10ab5a5d152f8f474acd8a27e3f43f",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -515,25 +571,6 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel：五大建筑央企前8月新签合同总额超4.3万亿元",
-  "url": "https://news.mysteel.com/a/26093011/3C36711F37A14359.html",
-  "summary": "",
-  "pub_time": "2026-09-30T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "88e671db248954c85caaa066f9288016",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel：9月河北省6个铁矿石项目获批",
   "url": "https://news.mysteel.com/a/26093011/63ED7F1C1615A3ED.html",
   "summary": "",
@@ -603,6 +640,25 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：五大建筑央企前8月新签合同总额超4.3万亿元",
+  "url": "https://news.mysteel.com/a/26093011/6A72959CAD91CCEC.html",
+  "summary": "",
+  "pub_time": "2026-09-30T03:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "88e671db248954c85caaa066f9288016",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -1407,32 +1463,6 @@
    "黄金"
   ],
   "en_title": "Gold Moving Modestly Higher Following Yesterday's Nosedive"
- },
- {
-  "title": "随着冬季能源风险上升，欧盟考虑将甲烷规则推迟一年",
-  "url": "",
-  "summary": "由于燃料供应紧张和价格上涨与布鲁塞尔的气候议程相冲突，欧盟正在考虑将进口石油和天然气的甲烷报告规则推迟一年。该规则将于 2027 年 1 月 1 日生效。向欧盟供应的外国石油和天然气生产商将",
-  "pub_time": "2026-09-29T17:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "34cbea4a06e4c00eb23840b657755719",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "上涨"
-  ],
-  "en_title": "EU Weighs One-Year Delay to Methane Rules as Winter Energy Risks Rise"
  },
  {
   "title": "Copper Intelligence 与 CoTec 合作开展刚果尾矿加工",
