@@ -1,5 +1,32 @@
 [
  {
+  "title": "量子计算能抑制人工智能的能源需求吗？",
+  "url": "",
+  "summary": "美国能源部 (DoE) 提供 2.15 亿美元资金，帮助国内企业开发世界上第一台可靠的量子计算机。随着下一代技术作为潘多拉魔盒的潜在解决方案的出现，解锁量子计算的竞赛已经升温",
+  "pub_time": "2026-09-30T21:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "a7f74150c1187910973b94dafa9c86bb",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "能源",
+   "锡"
+  ],
+  "en_title": "Can Quantum Computing Tame AI's Energy Appetite?"
+ },
+ {
   "title": "智能谷物电梯：为什么人工智能正在重塑谷物处理",
   "url": "",
   "summary": "",
@@ -504,6 +531,32 @@
   "en_title": "Deadly Blast Hits Major Indian Refinery as Fuel Markets Tighten"
  },
  {
+  "title": "赫拉克勒斯扩大了爱达荷州铜矿的发现范围",
+  "url": "",
+  "summary": "钻探必须先确定矿化的范围和品位，然后 Hercules 才能评估其开发潜力。",
+  "pub_time": "2026-09-30T16:07:02Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "12749a880034175d517d1d9531d4f6c0",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜"
+  ],
+  "en_title": "Hercules extends Idaho copper discovery"
+ },
+ {
   "title": "随着霍尔木兹中断的持续，石油价格预测大幅上涨",
   "url": "",
   "summary": "随着霍尔木兹海峡航运快速正常化的希望逐渐消退，分析师大幅上调了 2026 年油价预测。路透最新调查显示，今年布伦特原油平均价格为每桶 89.05 美元，高于一个月前的 85.08 美元。 9月30个经济体调查",
@@ -868,33 +921,6 @@
    "年内新高"
   ],
   "en_title": "China’s Thermal Coal Prices Surge to Three-Year High"
- },
- {
-  "title": "随着石油价格回升，外国投资者从印度市场撤资 32 亿美元",
-  "url": "",
-  "summary": "布伦特原油价格重新上涨至每桶100美元以上，促使外国投资者以自3月份以来最快的速度从印度股票和债券市场撤资，当时伊朗战争的爆发和亚洲石油供应紧缩引发了亚洲资产的大规模撤离。继",
-  "pub_time": "2026-09-30T09:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "e733e8c2b1242dbecc31c305d7097425",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "上涨"
-  ],
-  "en_title": "Foreign Investors Pull $3.2 Billion From Indian Markets as Oil Rally Returns"
  },
  {
   "title": "Mysteel晚餐：焦炭首轮提降落地",
@@ -1909,33 +1935,6 @@
    "大涨"
   ],
   "en_title": "Crude Oil Prices Pulling Back Sharply After Early Surge"
- },
- {
-  "title": "Lake Resources 阿根廷卡奇锂项目获得环境绿灯",
-  "url": "",
-  "summary": "这家澳大利亚锂开发商现在将将该地点过渡到前端工程设计阶段。",
-  "pub_time": "2026-09-29T17:41:50Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "5aa21be0e333d7c4943550e35f62234b",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡",
-   "生铁"
-  ],
-  "en_title": "Lake Resources gets environmental green light for Kachi lithium project in Argentina"
  },
  {
   "title": "黄金继昨天暴跌后小幅走高",
@@ -3181,31 +3180,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "Royal Gold在会议上详细介绍了转型投资组合的转变、增长管道",
-  "url": "",
-  "summary": "Gold正在测试其200天的SMA -这3只矿业股是PlayRoyal Gold （纳斯达克股票代码： RGLD ）在收购Sandstorm和Kansanshi交易后重塑了其投资组合，强调降低资产集中度、更长的储备寿命和更广泛的开发渠道",
-  "pub_time": "2026-09-28T21:02:12Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "24049b7fd53f828c818484efc8e4050f",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Royal Gold Details Transformational Portfolio Shift, Growth Pipeline at Conference"
  }
 ]
