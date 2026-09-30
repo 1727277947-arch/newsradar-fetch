@@ -1,5 +1,57 @@
 [
  {
+  "title": "OPEC+预计将保持石油生产配额不变",
+  "url": "",
+  "summary": "熟悉该计划的匿名消息人士周三告诉路透社，OPEC+主要产油国将在本周末的会议上保持当前 11 月原油产量配额不变。自伊朗战争以来，OPEC+ 中的海湾产油国的生产和出口量一直低得多。",
+  "pub_time": "2026-09-30T13:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "996190008ca82d09ba597ca397de374e",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "产量"
+  ],
+  "en_title": "OPEC+ Expected to Keep Oil Production Quotas Unchanged"
+ },
+ {
+  "title": "俄罗斯将柴油出口禁令延长至10月31日",
+  "url": "",
+  "summary": "俄罗斯政府周三将所有燃料生产商的柴油、船用燃料和瓦斯油出口禁令延长至 10 月 31 日，这实际上将全球市场紧缩的时间延长了一个月。政府采取了",
+  "pub_time": "2026-09-30T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "846edef52a1e2307473d5e762d7798a2",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Russia Extends Diesel Export Ban Through Oct. 31"
+ },
+ {
   "title": "分析师将中国第四季度原油进口预测下调 40 万桶/日",
   "url": "",
   "summary": "由于油价再次飙升至每桶 100 美元以上，且在伊朗原油几近消失的情况下，独立炼油厂难以获得更便宜的供应，预计中国到今年年底不会大幅增加原油进口。中国有望进口大致相同的数量",
@@ -1119,6 +1171,31 @@
   "is_elite": false
  },
  {
+  "title": "汉考克对稀土纸张损失的报道提出异议",
+  "url": "",
+  "summary": "澳大利亚汉考克勘探公司正在对《澳大利亚金融评论报》的一份报告提出异议，该报告称 MP Materials (NYSE: MP) 和 Lynas Rare Earths (ASX: LYC) 股价下跌已经降低了价值……汉考克对稀土账面损失的报道提出异议后，首先出现在《北方矿业》(The Northern Miner) 上。",
+  "pub_time": "2026-09-29T21:25:00Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "b7484cc4df4fb77d683f204b1c9da590",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Hancock disputes report of rare-earths paper loss"
+ },
+ {
   "title": "阿特拉斯锂库存超卖",
   "url": "",
   "summary": "在周二的交易中， Atlas Lithium Corp （代号： ATLX ）的股票进入超卖区域，易手低至每股2.388 $。我们使用相对强弱指数（ RSI ）来定义超卖区域， RSI是用于衡量动量的技术分析指标",
@@ -1358,58 +1435,6 @@
    "大涨"
   ],
   "en_title": "Crude Oil Prices Pulling Back Sharply After Early Surge"
- },
- {
-  "title": "柴油价格突破 6 美元 美国再次动用战略石油储备",
-  "url": "",
-  "summary": "由于伊朗战争近七个月后汽油和柴油价格仍然居高不下，美国能源部将从战略石油储备中再提供 4000 万桶原油。这些桶将通过交易所出售，标志着 1.72 亿桶的最后一批",
-  "pub_time": "2026-09-29T18:20:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "32d862291d0dbc03d4cb6fe788560d6f",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "走强"
-  ],
-  "en_title": "U.S. Taps Strategic Oil Reserve Again as Diesel Tops $6"
- },
- {
-  "title": "特朗普和习近平争取了时间，但几乎没有解决任何问题",
-  "url": "",
-  "summary": "中美之间的许多问题有很多话要说，在习近平上周对唐纳德·特朗普进行为期三天的访问期间，两国领导人在美国和中国官员之间举行的多次会晤中几乎没有说什么。豪维",
-  "pub_time": "2026-09-29T18:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "e1b416431ef46db696a66e5c3e045db7",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Trump and Xi Buy Time, But Solve Almost Nothing"
  },
  {
   "title": "Lake Resources 阿根廷卡奇锂项目获得环境绿灯",
@@ -2944,32 +2969,6 @@
    "罢工"
   ],
   "en_title": "B2Gold strikes new Goose gold zone"
- },
- {
-  "title": "蒙太奇提前在科内夺得第一枚金牌",
-  "url": "",
-  "summary": "蒙太奇黄金公司（多伦多证券交易所股票代码：MAU；美国场外交易市场代码：MAUTF）已在其位于科特迪瓦的旗舰矿 Kone 开采出第一批黄金，随着开发商转入生产，进度加快。蒙太奇提前在科内浇注第一金的帖子首先出现在《北方矿工》上。",
-  "pub_time": "2026-09-28T20:35:05Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "77cac982a5270adc29e5e54ff241f643",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Montage pours first gold at Koné ahead of schedule"
  },
  {
   "title": "HMY 显着交叉低于关键移动平均线",
