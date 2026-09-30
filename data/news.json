@@ -1,5 +1,113 @@
 [
  {
+  "title": "尽管油价剧烈波动，美国石油和天然气产量仍攀升",
+  "url": "",
+  "summary": "达拉斯联储第三季度调查的公司中，美国石油和天然气产量有所增加，但原油价格在不到三个月的时间内从每桶 67 美元波动至 107 美元，导致生产商难以决定价格走向。本季度石油和天然气产量在勘探和生产中有所增长",
+  "pub_time": "2026-09-30T17:31:07Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "99aa4fd036dd6480f122923c1960295e",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "天然气",
+   "价",
+   "走高",
+   "产量"
+  ],
+  "en_title": "U.S. Oil and Gas Production Climbs Despite Extreme Oil Price Volatility"
+ },
+ {
+  "title": "赞助问答：额尔登从金矿建设转向地区规模勘探",
+  "url": "",
+  "summary": "额尔登资源开发公司 (Erdene Resource Development) 位于蒙古的 Bayan Khundii 金矿已投入商业生产，并将注意力重新转向更广泛的 Khundii 矿产区的勘探......后赞助问答：额尔登从金矿建设转向地区规模勘探",
+  "pub_time": "2026-09-30T17:27:21Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "4178fa7d872a845f5c37a067f5390a08",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Sponsored Q&A: Erdene shifts from gold mine build to district-scale exploration"
+ },
+ {
+  "title": "欧洲再次遭受能源驱动型通胀冲击",
+  "url": "",
+  "summary": "欧洲最新的能源冲击正在迅速影响消费者价格，欧元区一些最大经济体的通胀加速，使欧洲​​央行面临越来越令人不安的政策困境。 9月数据显示南部地区增长尤为强劲",
+  "pub_time": "2026-09-30T17:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "2340fc875d25a5725b9143c20956fea8",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "能源"
+  ],
+  "en_title": "Europe Gets Hit by Another Energy-Driven Inflation Shock"
+ },
+ {
+  "title": "USGBC 带领东南亚宠物食品代表参加泰国大师班",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-09-30T16:54:00Z",
+  "source": "Grainnet",
+  "_cat": "基本金属",
+  "dedup_key": "389c320739b6af4d24d2cff9bfe7b691",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铅"
+  ],
+  "en_title": "USGBC Leads Southeast Asian Pet Food Representatives at Thailand Masterclass"
+ },
+ {
   "title": "及时播种小麦仍然是保护产量潜力的关键",
   "url": "",
   "summary": "",
@@ -85,6 +193,32 @@
  {
   "title": "亚利桑那黄金公司在主要项目中找到了高品位区域",
   "url": "",
+  "summary": "该项目位于历史悠久的奥特曼矿区，该矿区的产量超过 250 万盎司。黄金。",
+  "pub_time": "2026-09-30T15:25:49Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "04101f99a6708cc2351098780d73f206",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Arizona Gold finds high-grade zones at main project"
+ },
+ {
+  "title": "亚利桑那黄金公司在主要项目中找到了高品位区域",
+  "url": "",
   "summary": "亚利桑那金银公司（TSXV：AZS；美国场外交易代码：AZASF）在亚利桑那州费城项目的新钻探遇到了将金矿化延伸至红山目标以下的高品位带。亚利桑那黄金公司在主要项目中发现高品位带的帖子首先出现在《北方矿工》上。",
   "pub_time": "2026-09-30T15:25:49Z",
   "source": "NorthernMiner",
@@ -107,6 +241,32 @@
    "黄金"
   ],
   "en_title": "Arizona Gold finds high-grade zones at main project"
+ },
+ {
+  "title": "Miata 在苏里南 Sela Creek 钻探出 3.4 克黄金",
+  "url": "",
+  "summary": "结果使 Sela Creek 成为苏里南几个新兴黄金项目之一。",
+  "pub_time": "2026-09-30T15:19:23Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "424accfbd5438759027321a55c141057",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Miata drills 3.4 g gold at Sela Creek in Suriname"
  },
  {
   "title": "Miata 在苏里南 Sela Creek 钻探出 3.4 克黄金",
@@ -818,34 +978,6 @@
   "is_elite": false
  },
  {
-  "title": "特朗普排除放松对伊朗制裁的可能性，油价攀升",
-  "url": "",
-  "summary": "原油价格继周二下跌后今天小幅走高，此前有报道称特朗普总统无意放松对伊朗的制裁压力，伊朗已导致欧佩克最大产油国之一的出口大幅下降。截至撰写本文时，布伦特原油交易价格为每桶 103.13 美元，我们",
-  "pub_time": "2026-09-30T05:37:03Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "e9053f0494cf02321fbdd25e05269a9c",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "走高"
-  ],
-  "en_title": "Oil Prices Climb as Trump Rules Out Easing Iran Sanctions"
- },
- {
   "title": "谷物粉尘暴露限值变化存在不确定性",
   "url": "",
   "summary": "将于 12 月 1 日生效的新工作场所谷物粉尘接触限制将对维多利亚州以外的农业经营产生何种影响，存在很大的不确定性。",
@@ -1359,33 +1491,6 @@
   "en_title": "Daily Market Wire 30 September 2026"
  },
  {
-  "title": "石油的新常态是价格上涨",
-  "url": "",
-  "summary": "由于投资者权衡中东生产商出口复苏的迹象与围绕伊朗战争命运的不确定性，油价周二回落，扭转了近期涨幅。美国东部时间下午 1 点 10 分，11 月交割的布伦特原油价格下跌 1.5%，至每桶 103.72 美元，而西德克萨斯中质原油价格",
-  "pub_time": "2026-09-30T00:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "b127c3adbd8f13eb3b3ff6a34abd43d3",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价"
-  ],
-  "en_title": "Oil's New Normal Is Higher Prices"
- },
- {
   "title": "Mysteel钢铁市场月度观察：十月钢市——负反馈未止，黑色系重心续降但空间有限",
   "url": "https://news.mysteel.com/a/26093008/C2939F6418D1CD76.html",
   "summary": "",
@@ -1448,33 +1553,6 @@
    "生铁"
   ],
   "en_title": "Texas startup raises $133M to build rare earth magnet-grade iron plant"
- },
- {
-  "title": "霍尔木兹液化天然气紧缩推高价格，欧洲天然气危机加剧",
-  "url": "",
-  "summary": "自从伊朗战争将世界五分之一的液化天然气供应量困在霍尔木兹海峡之后，欧洲天然气价格急剧飙升。由于家庭能源费用飙升和工业能源成本飙升，高价格让政府头疼不已。",
-  "pub_time": "2026-09-29T23:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "f57f79b4ec60f25a9fe94c1c93d96ecd",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气",
-   "价"
-  ],
-  "en_title": "Europe’s Gas Crisis Deepens as Hormuz LNG Crunch Drives Prices Higher"
  },
  {
   "title": "Mysteel早读：居民房贷贴息政策来了，焦炭首轮提降100-110元",
@@ -2616,34 +2694,6 @@
   "en_title": "Golden Cariboo outlines nearly 1M oz inferred in BC"
  },
  {
-  "title": "智利罢工风险增加，铜价维持在 14,400 美元上方",
-  "url": "",
-  "summary": "安托法加斯塔 Centinela 的工资报价被拒绝，加剧了供应担忧，金属有望连续第三个月上涨。",
-  "pub_time": "2026-09-29T14:50:47Z",
-  "source": "Mining.com",
-  "_cat": "能源",
-  "dedup_key": "13803a0b967b007106bf4912698dcdc2",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "铜",
-   "价",
-   "罢工"
-  ],
-  "en_title": "Copper price holds above $14,400 as Chile strike risk grows"
- },
- {
   "title": "Golden Cariboo 概述了 BC 省推断的近 100 万盎司",
   "url": "",
   "summary": "Golden Cariboo Resources（CSE：GCC；US-OTC：GCCFF）已概述了 175,000 盎司的初始资源量。黄金和 995,000 推断盎司。在其过去生产的位于不列颠哥伦比亚省中部的 Quesnelle 矿区，... 后 Golden Cariboo 概述了 BC 推断的近 100 万盎司，首先出现在 The North",
@@ -2668,31 +2718,6 @@
    "黄金"
   ],
   "en_title": "Golden Cariboo outlines nearly 1M oz inferred in BC"
- },
- {
-  "title": "美国矿产开发开始削弱中国的控制力：《华尔街日报》",
-  "url": "",
-  "summary": "由于中国自 2025 年 4 月以来实施稀土出口管制，华盛顿正在加大对矿山和加工的支持力度。",
-  "pub_time": "2026-09-29T14:19:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "88f521a9ea982803eb202f6695e8d8c0",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "US minerals push starts to dent China’s grip: WSJ"
  },
  {
   "title": "GEAPS 将于 2026 年 12 月举办新兴领袖研讨会",
@@ -3204,60 +3229,5 @@
    "大豆"
   ],
   "en_title": "ASA Welcomes China’s Soybean Purchase Commitments, Urges Tariff Relief"
- },
- {
-  "title": "FEFAC 呼吁欧盟制定应急计划以保障牲畜饲料供应",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-28T17:33:00Z",
-  "source": "Grainnet",
-  "_cat": "基本金属",
-  "dedup_key": "b3303a117116ea985fe4e4f6a1170dc7",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡",
-   "库存"
-  ],
-  "en_title": "FEFAC Calls for EU Contingency Plan to Safeguard Livestock Feed Supplies"
- },
- {
-  "title": "韩国玉米买家参观美国谷物供应链",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-28T16:50:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "fd931fb440748868041cc1cdab515a95",
-  "score": 84,
-  "priority": "P1",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "玉米",
-   "谷物",
-   "供应"
-  ],
-  "en_title": "South Korean Corn Buyers Tour U.S. Grain Supply Chain"
  }
 ]
