@@ -1,5 +1,82 @@
 [
  {
+  "title": "欧盟天然气紧缩迫使人们重新思考甲烷规则",
+  "url": "",
+  "summary": "欧盟委员会已表示，由于乌克兰和中东战争导致天然气持续短缺，将推迟其有争议的甲烷法规的生效。这可能不足以抵消紧缩的影响——因为该规定尚未生效",
+  "pub_time": "2026-09-30T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "f71251c42246dbdb3999e5a37ae8cefa",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气"
+  ],
+  "en_title": "EU Gas Crunch Forces Rethink of Methane Rules"
+ },
+ {
+  "title": "美国能源部为 17 个国家实验室采矿技术项目拨款 2950 万美元",
+  "url": "",
+  "summary": "项目重点是将下一代采矿、提取和加工技术从实验室转向现场测试和商业部署。",
+  "pub_time": "2026-09-30T22:10:50Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "d632a54ecfcd1d8177dbde3039c4ed69",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "US DOE awards $29.5M for 17 National Lab mining tech projects"
+ },
+ {
+  "title": "随着外国公司回归，委内瑞拉石油复兴加速",
+  "url": "",
+  "summary": "本周，数百名石油高管涌向委内瑞拉首都加拉加斯，参加该国数十年来的首次重大行业活动。委内瑞拉国际石油和天然气峰会是在美国抓获尼古拉斯·马杜罗并设立亲美政府九个月后举行的",
+  "pub_time": "2026-09-30T22:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "0e3137ebe75a9e385c2bc380b94e6146",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Venezuela’s Oil Revival Accelerates as Foreign Companies Return"
+ },
+ {
   "title": "量子计算能抑制人工智能的能源需求吗？",
   "url": "",
   "summary": "美国能源部 (DoE) 提供 2.15 亿美元资金，帮助国内企业开发世界上第一台可靠的量子计算机。随着下一代技术作为潘多拉魔盒的潜在解决方案的出现，解锁量子计算的竞赛已经升温",
@@ -865,62 +942,6 @@
    "能源"
   ],
   "en_title": "Russia Extends Diesel Export Ban Through Oct. 31"
- },
- {
-  "title": "分析师将中国第四季度原油进口预测下调 40 万桶/日",
-  "url": "",
-  "summary": "由于油价再次飙升至每桶 100 美元以上，且在伊朗原油几近消失的情况下，独立炼油厂难以获得更便宜的供应，预计中国到今年年底不会大幅增加原油进口。中国有望进口大致相同的数量",
-  "pub_time": "2026-09-30T11:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "b03015dd00cd3a3c3ae6dfca9ba5ca11",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "预测"
-  ],
-  "en_title": "Analysts Cut China's Q4 Crude Import Forecasts by 400,000 Bpd"
- },
- {
-  "title": "中国动力煤价格飙升至三年高位",
-  "url": "",
-  "summary": "由于国内产量下降和最大煤炭出口国印度尼西亚的进口减少，中国动力煤基准价格连续 11 周上涨，本周触及三年来的最高水平。中国价格基准秦皇岛动力煤现货价格跃升至98",
-  "pub_time": "2026-09-30T10:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "97d14ec1d56acd35a62a7d88130fd914",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "煤炭",
-   "价",
-   "大涨",
-   "年内新高"
-  ],
-  "en_title": "China’s Thermal Coal Prices Surge to Three-Year High"
  },
  {
   "title": "Mysteel晚餐：焦炭首轮提降落地",
@@ -2824,32 +2845,6 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "GEAPS 将于 2026 年 12 月举办新兴领袖研讨会",
-  "url": "",
-  "summary": "为来到堪萨斯州和爱荷华州的一线领导者提供高价值的专业发展",
-  "pub_time": "2026-09-29T14:00:00Z",
-  "source": "Grainnet",
-  "_cat": "基本金属",
-  "dedup_key": "4c9a3e2f375375c7a598c06d63312e3c",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铅"
-  ],
-  "en_title": "GEAPS to Host Emerging Leaders Workshops in December 2026"
  },
  {
   "title": "Mysteel解读：国庆钢铁市场回顾与展望",
