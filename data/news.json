@@ -1,5 +1,81 @@
 [
  {
+  "title": "中国的目标是到 2030 年在固态电池方面占据主导地位",
+  "url": "",
+  "summary": "中国已经在全球锂离子电池市场占据主导地位，并计划将这一地位扩大到固态电池。北京政府将寻求降低固态电池成本、提高其性能，并在 2030 年之前开始商业化生产。“未来五年，新型固态电池将在",
+  "pub_time": "2026-10-01T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "849460ea55d71729d576a5bfa2ce93b7",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "China Targets Solid-State Battery Dominance by 2030"
+ },
+ {
+  "title": "格陵兰矿业公司在斯卡尔加德发现镓和钒",
+  "url": "",
+  "summary": "潜在的含钒钛磁铁矿、铁和镓价值流正在与钯-铂-金流程一起进行评估。",
+  "pub_time": "2026-10-01T22:54:06Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "87a042f9f878d420fda9f5e2d66fd368",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Greenland Mines makes gallium, vanadium discovery at Skaergaard"
+ },
+ {
+  "title": "粮食设施如何重新考虑设备可靠性",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-10-01T22:40:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "f0bb8ff8b2a434707f6dadb8fb73e7e5",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "谷物"
+  ],
+  "en_title": "How Grain Facilities Are Rethinking Equipment Reliability"
+ },
+ {
   "title": "人工智能如何重塑粮食供应链和电梯运营",
   "url": "",
   "summary": "",
@@ -343,6 +419,32 @@
   "en_title": "Canada Fast-Tracks 1 Million-Bpd Pacific Link Oil Pipeline to Asia"
  },
  {
+  "title": "Beaver Creek：黄金债券断裂让初级投资者参与其中",
+  "url": "",
+  "summary": "这种分歧给矿业投资者提出了问题。",
+  "pub_time": "2026-10-01T16:00:00Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "1e86c69efa0e1a43a7e645b9037bec56",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Beaver Creek: Gold’s bond break puts juniors in play"
+ },
+ {
   "title": "伯纳姆承诺采取“务实”的北海方针",
   "url": "",
   "summary": "安迪·伯纳姆在会议演讲中承诺对北海钻探采取“务实”态度。阿伯丁的居民表示，刻不容缓。米亚塔·范布拉 (Miatta Fanbulleh) 身穿必备的高反光夹克，周围都是辛苦劳作的石油和天然气工人，她的第一次部长级访问是一次艰难的经历。",
@@ -504,32 +606,6 @@
    "库存"
   ],
   "en_title": "U.S. Threatens Diesel Export Ban Unless Europe Releases Stockpiles"
- },
- {
-  "title": "印度炼油商为霍尔木兹石油寻找油轮",
-  "url": "",
-  "summary": "据彭博社援引未具名消息人士的报道，印度炼油公司正在寻找租用油轮，通过霍尔木兹海峡将石油运出波斯湾。消息人士告诉彭博社，两家航运公司赢得了波斯湾石油招标，另外两家公司也提交了投标",
-  "pub_time": "2026-10-01T12:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "632cf036e88ec68196067fb7d3420ac0",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Indian Refiners Seek Tankers for Hormuz Oil"
  },
  {
   "title": "Beaver Creek 视频：黄金相对于债券获得新作用",
@@ -927,32 +1003,6 @@
    "下跌"
   ],
   "en_title": "Gold Fields halts Windfall work as Quebec permit lapses"
- },
- {
-  "title": "赫拉克勒斯扩大了爱达荷州铜矿的发现范围",
-  "url": "",
-  "summary": "钻探必须先确定矿化的范围和品位，然后 Hercules 才能评估其开发潜力。",
-  "pub_time": "2026-09-30T16:07:02Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "12749a880034175d517d1d9531d4f6c0",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "Hercules extends Idaho copper discovery"
  },
  {
   "title": "【独家】节后新季糯稻价格或有一跌",
@@ -1862,44 +1912,6 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel早读：居民房贷贴息政策来了，焦炭首轮提降100-110元",
-  "url": "https://news.mysteel.com/a/26093007/8925B3D479117D63.html",
-  "summary": "",
-  "pub_time": "2026-09-29T23:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "3e29b5e1c2756a0ba02e8da4df1c70de",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "美国计划通过“互换”释放4000万桶战略石油储备",
-  "url": "https://news.mysteel.com/a/26093007/4C114CE20D98BB57.html",
-  "summary": "",
-  "pub_time": "2026-09-29T23:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "df9b8349d22c545c93a0948c109c6c30",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
