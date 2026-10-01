@@ -1,5 +1,32 @@
 [
  {
+  "title": "中国暂停燃料出口，直至另行通知",
+  "url": "",
+  "summary": "多位知情人士周四告诉路透社，中国炼油厂已停止燃料出口，直至另行通知，这一进展可能进一步收紧全球燃料市场。国有石油巨头中石油取消了部分汽油和航空燃油货物，这些货物原本预计将被运走。",
+  "pub_time": "2026-10-01T10:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "a160de576b48b83f16ad4f14a8fc7922",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "燃料",
+   "出口"
+  ],
+  "en_title": "China Halts Fuel Exports Until Further Notice"
+ },
+ {
   "title": "台湾拨款 130 亿美元帮助消费者免受高能源成本的影响",
   "url": "",
   "summary": "据路透社报道，台湾正在拨款 130 亿美元，为国有发电公司台电和炼油厂 CPC 提供能源成本支持，以抵消中东战争造成的成本急剧上涨。台湾已经开始补贴消费者的能源成本，以避免",
@@ -187,25 +214,6 @@
    "谷物"
   ],
   "en_title": "Feedgrain Focus: Southern rain shows up in time"
- },
- {
-  "title": "北疆国门钢铁驼队不息 百年边陲小站筑就欧亚通衢",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706661.shtml",
-  "summary": "题：北疆国门钢铁驼队不息 百年边陲小站筑就欧亚通衢",
-  "pub_time": "2026-10-01T05:26:41Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "fe4dda39201be20ab0aa37d53098994a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
  },
  {
   "title": "海湾石油流量反弹，布伦特原油跌至 96 美元",
@@ -921,35 +929,6 @@
   "en_title": "Hercules extends Idaho copper discovery"
  },
  {
-  "title": "随着霍尔木兹中断的持续，石油价格预测大幅上涨",
-  "url": "",
-  "summary": "随着霍尔木兹海峡航运快速正常化的希望逐渐消退，分析师大幅上调了 2026 年油价预测。路透最新调查显示，今年布伦特原油平均价格为每桶 89.05 美元，高于一个月前的 85.08 美元。 9月30个经济体调查",
-  "pub_time": "2026-09-30T16:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "b82c2c990c3386be1967892e0de9602f",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "跳涨",
-   "预测"
-  ],
-  "en_title": "Oil Price Forecasts Jump as Hormuz Disruption Drags On"
- },
- {
   "title": "【独家】节后新季糯稻价格或有一跌",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/01/5716733187.shtml",
   "summary": "",
@@ -1252,7 +1231,7 @@
  },
  {
   "title": "Mysteel：前三季度国内钢铁产能置换情况",
-  "url": "https://news.mysteel.com/a/26093016/798EC8D17D318376.html",
+  "url": "https://news.mysteel.com/a/26093016/D1A699FFC54563AC.html",
   "summary": "",
   "pub_time": "2026-09-30T08:00:00Z",
   "source": "上海钢联Mysteel",
