@@ -1,5 +1,110 @@
 [
  {
+  "title": "亚马逊从 Constellation 获得 20 年核电服务",
+  "url": "",
+  "summary": "高盛分析师卡莉·达文波特 (Carly Davenport) 认为，亚马逊与 Constellation Energy 的核电交易“对整个行业都有积极影响”，因为随着大型科技公司争相寻求最清洁的稳定电力来为数据中心芯片组提供燃料，“为美国供电”主题和核主题仍在继续。达文波特说公司",
+  "pub_time": "2026-10-01T18:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "贵金属",
+  "dedup_key": "b96bd4d19d1ec94314ff60f76872ca4e",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Amazon Secures 20 Years of Nuclear Power From Constellation"
+ },
+ {
+  "title": "随着收益率大幅回落，黄金价格上涨",
+  "url": "",
+  "summary": "(RTTNews) - 金价在前一交易日小幅上涨但远低于最高水平后，在周四的交易中出现了进一步上涨。",
+  "pub_time": "2026-10-01T17:43:56Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "74507ace1995a664166e8c1e7394f0f7",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "价"
+  ],
+  "en_title": "Gold Prices Moving To The Upside As Yields Pull Back Sharply"
+ },
+ {
+  "title": "Frostic 开始担任全国玉米种植者协会主席",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-10-01T17:41:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "c9e8f57f69ff92fdd2bde57b2aac9bf6",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "玉米"
+  ],
+  "en_title": "Frostic Begins Term as National Corn Growers Association President"
+ },
+ {
+  "title": "IL Corn 发布工具来探索农场碳强度得分",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-10-01T17:04:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "e1048bcbaaef4963a610b273fceeecba",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "玉米",
+   "走软"
+  ],
+  "en_title": "IL Corn Releases Tool to Explore Farm Carbon Intensity Scores"
+ },
+ {
   "title": "加拿大加快建设通往亚洲的每日 100 万桶太平洋连接石油管道",
   "url": "",
   "summary": "加拿大正在快速推进一条通往太平洋沿岸的每日100万桶石油管道的建设计划，这为艾伯塔省提供了另一条通往亚洲买家的路线，并为其摆脱对美国市场的过度依赖提供了另一种途径。总理马克·卡尼周四表示，渥太华将将该项目列为国家重点项目之一",
@@ -134,31 +239,6 @@
    "供应"
   ],
   "en_title": "India Emphasizes That Shipping Chaos, Not Supply, Is Driving High Oil Prices"
- },
- {
-  "title": "Codelco 的 Radomiro Tomic 工厂发生事故，工人死亡",
-  "url": "",
-  "summary": "智利当局正在调查这名工人在铜矿作业传送带相关区域的死亡事件。",
-  "pub_time": "2026-10-01T14:09:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "8db6e7c4b39dd010bbcd7c4f9caf883d",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Worker dies in accident at Codelco’s Radomiro Tomic"
  },
  {
   "title": "Mayfair 为安大略黄金项目筹集 3.1 亿美元",
@@ -584,34 +664,6 @@
   "en_title": "Feedgrain Focus: Southern rain shows up in time"
  },
  {
-  "title": "海湾石油流量反弹，布伦特原油跌至 96 美元",
-  "url": "",
-  "summary": "原油价格在 9 月份大幅上涨后，周三显着走低，并于今天早些时候保持在该水平。摩根大通、高盛和克普勒的报告表明，波斯湾的石油流量实际上已恢复到战前水平，导致石油产量下降。当时",
-  "pub_time": "2026-10-01T05:17:00Z",
-  "source": "Oilprice.com",
-  "_cat": "贵金属",
-  "dedup_key": "aa65673539c4219518ec9d5700821f63",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "原油",
-   "布伦特油价",
-   "暴跌"
-  ],
-  "en_title": "Brent Tumbles to $96 as Gulf Oil Flows Bounce Back"
- },
- {
   "title": "每日市场快线 2026 年 10 月 1 日",
   "url": "",
   "summary": "美国农业部库存报告打破第三季度谷物涨势；玉米坑的秋天冲刷着农田。宏观消息、战争担忧、持续的市场推/拉。 Aust rain hope rises.",
@@ -635,32 +687,6 @@
    "基本金属"
   ],
   "en_title": "Daily Market Wire 1 October 2026"
- },
- {
-  "title": "伊朗石油的消失正成为每个人的问题",
-  "url": "",
-  "summary": "伊朗石油正在从市场上消失，而其最大买家又回来购买更多石油。中国复苏的原油需求与支撑其独立炼油厂度过危机的供应商的流失相冲突，迫使它们争夺日益昂贵的替代品。后果",
-  "pub_time": "2026-10-01T00:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "9ec930c01d74cbcce51464586a835183",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Iran’s Disappearing Oil Is Becoming Everyone’s Problem"
  },
  {
   "title": "美国能源部为 17 个国家实验室采矿技术项目拨款 2950 万美元",
@@ -842,57 +868,6 @@
    "黄金"
   ],
   "en_title": "Arizona Gold finds high-grade zones at main project"
- },
- {
-  "title": "赫拉克勒斯扩大了爱达荷州铜矿的发现范围",
-  "url": "",
-  "summary": "Hercules Metals（多伦多证券交易所代码：BIG；美国场外交易代码：BADEF）扩大了其在爱达荷州的 Southern Flats 铜矿发现范围，将可能与利维坦系统连接到北部的目标区域扩大。 HER-26-01 洞...后赫拉克勒斯扩展爱达荷州铜矿发现首先出现在《北方矿工》上。",
-  "pub_time": "2026-09-30T19:15:18Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "b6dc42d9c59294efa3a0651d7dff468e",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "Hercules extends Idaho copper discovery"
- },
- {
-  "title": "汉考克对稀土纸张损失的报道提出异议",
-  "url": "",
-  "summary": "澳大利亚汉考克勘探公司正在对《澳大利亚金融评论报》的一份报告提出异议，该报告称 MP Materials (NYSE: MP) 和 Lynas Rare Earths (ASX: LYC) 股价下跌已经降低了价值……汉考克对稀土账面损失的报道提出异议后，首先出现在《北方矿业》(The Northern Miner) 上。",
-  "pub_time": "2026-09-30T19:10:00Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "b7484cc4df4fb77d683f204b1c9da590",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Hancock disputes report of rare-earths paper loss"
  },
  {
   "title": "原油价格在昨天大幅下跌后重新站稳脚跟",
@@ -1153,31 +1128,6 @@
    "库存"
   ],
   "en_title": "U.S. Crude Oil Inventories Unexpectedly Edge Modestly Higher"
- },
- {
-  "title": "迪卡普里奥加入反对 Belo Sun 价值 3 亿美元的巴西矿山的行列",
-  "url": "",
-  "summary": "莱昂纳多·迪卡普里奥 (Leonardo DiCaprio) 为 Belo Sun 计划在帕拉州的 Volta Grande 金矿项目表达了原住民和环境抵制的声音。",
-  "pub_time": "2026-09-30T13:35:19Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "13bf613aa58ca90ddf00db8a64b9461f",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "DiCaprio joins opposition to Belo Sun’s $300M Brazil mine"
  },
  {
   "title": "Mysteel晚餐：焦炭首轮提降落地",
@@ -2139,31 +2089,5 @@
    "大涨"
   ],
   "en_title": "Crude Oil Prices Pulling Back Sharply After Early Surge"
- },
- {
-  "title": "黄金继昨天暴跌后小幅走高",
-  "url": "",
-  "summary": "(RTTNews) - 金价在周二交易中小幅走高，继前一交易日暴跌后收复失地。",
-  "pub_time": "2026-09-29T17:34:41Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "25e0bf4edd18d36adc05df77eb67b8b1",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Gold Moving Modestly Higher Following Yesterday's Nosedive"
  }
 ]
