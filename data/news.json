@@ -1,5 +1,138 @@
 [
  {
+  "title": "随着全球柴油紧缩加剧，中国暂停十月份燃料出口",
+  "url": "",
+  "summary": "由于北京优先考虑国内供应安全，中国主要炼油厂已暂停十月份大部分精炼燃料出口，从而从本已严重受限的全球市场中消除了柴油、汽油和航空燃油的另一个来源。中石油取消了多批汽油和航空燃油货物运输",
+  "pub_time": "2026-10-01T20:40:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "da92e9b789bfbb0490c95fe259446dd9",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "燃料",
+   "出口"
+  ],
+  "en_title": "China Halts October Fuel Exports as Global Diesel Crunch Deepens"
+ },
+ {
+  "title": "安赛乐米塔尔股票严重超卖",
+  "url": "",
+  "summary": "在周四的交易中，ArcelorMittal SA（股票代码：MT）的股票进入超卖区域，换手价低至每股 63.50 美元。我们使用相对强弱指数（RSI）来定义超卖区域，这是一种用于衡量超卖动量的技术分析指标。",
+  "pub_time": "2026-10-01T20:13:03Z",
+  "source": "Nasdaq商品",
+  "_cat": "基本金属",
+  "dedup_key": "f5eeec3fa50143a2ea2374f35e2a80d3",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡",
+   "库存"
+  ],
+  "en_title": "ArcelorMittal Stock Getting Very Oversold"
+ },
+ {
+  "title": "Beaver Creek：黄金债券断裂让初级投资者参与其中",
+  "url": "",
+  "summary": "科罗拉多州比弗河自 2022 年初以来，尽管美国债券收益率攀升，黄金价格仍上涨了一倍多，贵金属峰会上的投资者表示，这一突破可能预示着金价......",
+  "pub_time": "2026-10-01T19:00:17Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "7590e02b504261761e47cc1d27adc7a4",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Beaver Creek: Gold’s bond break puts juniors in play"
+ },
+ {
+  "title": "中东石油出口显着回升",
+  "url": "",
+  "summary": "行业观察家对航运和大宗商品市场数据的分析显示，尽管伊朗袭击了霍尔木兹海峡的航运，但中东的原油出口在9月份达到了与伊朗战争开始以来的最高水平，强化了供应增加的趋势。但",
+  "pub_time": "2026-10-01T19:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "3ea0be440c93cfb3f71ffc6de5329a15",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "出口"
+  ],
+  "en_title": "Middle East Oil Exports Stage a Remarkable Comeback"
+ },
+ {
+  "title": "原油再次显着上涨",
+  "url": "",
+  "summary": "(RTTNews) - 继前一交易日大幅反弹后，周四交易期间原油价格再次大幅上涨。",
+  "pub_time": "2026-10-01T18:32:16Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "5a3359cc319ce12b0fac89c714689bca",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Crude Oil Showing Another Significant Move To The Upside"
+ },
+ {
   "title": "亚马逊从 Constellation 获得 20 年核电服务",
   "url": "",
   "summary": "高盛分析师卡莉·达文波特 (Carly Davenport) 认为，亚马逊与 Constellation Energy 的核电交易“对整个行业都有积极影响”，因为随着大型科技公司争相寻求最清洁的稳定电力来为数据中心芯片组提供燃料，“为美国供电”主题和核主题仍在继续。达文波特说公司",
@@ -76,6 +209,31 @@
    "玉米"
   ],
   "en_title": "Frostic Begins Term as National Corn Growers Association President"
+ },
+ {
+  "title": "Elevra 启动 NAL 锂矿扩建",
+  "url": "",
+  "summary": "Elevra Lithium（澳大利亚证券交易所股票代码：ELV；纳斯达克股票代码：ELVR）已开始对其位于魁北克省的北美锂矿进行价值 3.66 亿美元（约合 2.71 亿美元）的扩建，并正在就其搬迁过程中的另一项价格保护承购事宜进行谈判...",
+  "pub_time": "2026-10-01T17:30:00Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "5e4f929640d60045581baeb611a82e28",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Elevra fires up NAL lithium mine expansion"
  },
  {
   "title": "IL Corn 发布工具来探索农场碳强度得分",
@@ -294,57 +452,6 @@
   "en_title": "U.S. Threatens Diesel Export Ban Unless Europe Releases Stockpiles"
  },
  {
-  "title": "Elevra 启动 NAL 锂矿扩建",
-  "url": "",
-  "summary": "Elevra Lithium（澳大利亚证券交易所股票代码：ELV；纳斯达克股票代码：ELVR）已开始对其位于魁北克省的北美锂矿进行价值 3.66 亿美元（约合 2.71 亿美元）的扩建，并正在就其搬迁过程中的另一项价格保护承购事宜进行谈判...",
-  "pub_time": "2026-10-01T13:30:00Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "5e4f929640d60045581baeb611a82e28",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Elevra fires up NAL lithium mine expansion"
- },
- {
-  "title": "Beaver Creek：黄金债券断裂让初级投资者参与其中",
-  "url": "",
-  "summary": "科罗拉多州比弗河自 2022 年初以来，尽管美国债券收益率攀升，黄金价格仍上涨了一倍多，贵金属峰会上的投资者表示，这一突破可能预示着金价......",
-  "pub_time": "2026-10-01T12:36:17Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "7590e02b504261761e47cc1d27adc7a4",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Beaver Creek: Gold’s bond break puts juniors in play"
- },
- {
   "title": "印度炼油商为霍尔木兹石油寻找油轮",
   "url": "",
   "summary": "据彭博社援引未具名消息人士的报道，印度炼油公司正在寻找租用油轮，通过霍尔木兹海峡将石油运出波斯湾。消息人士告诉彭博社，两家航运公司赢得了波斯湾石油招标，另外两家公司也提交了投标",
@@ -513,32 +620,6 @@
   "en_title": "China Halts Fuel Exports Until Further Notice"
  },
  {
-  "title": "台湾拨款 130 亿美元帮助消费者免受高能源成本的影响",
-  "url": "",
-  "summary": "据路透社报道，台湾正在拨款 130 亿美元，为国有发电公司台电和炼油厂 CPC 提供能源成本支持，以抵消中东战争造成的成本急剧上涨。台湾已经开始补贴消费者的能源成本，以避免",
-  "pub_time": "2026-10-01T09:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "38a16acba4976860ebe6ba083ae908d7",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "能源"
-  ],
-  "en_title": "Taiwan Allocates $13 Billion to Shield Consumers From High Energy Costs"
- },
- {
   "title": "Mysteel：国庆假期热点速递（10月1日）",
   "url": "https://news.mysteel.com/a/26100117/91F54BD20A708C47.html",
   "summary": "",
@@ -556,33 +637,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "巴基斯坦考虑为发电厂直接进口液化天然气以缓解能源危机",
-  "url": "",
-  "summary": "巴基斯坦政府正在考虑允许发电厂和私营公司直接进口在现货市场采购的液化天然气，因为自伊朗战争削弱卡塔尔的定期供应以来，该国一直在能源危机中挣扎。巴基斯坦能源部提议放宽现有监管",
-  "pub_time": "2026-10-01T08:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "e5bc5c35496da9d0a96ca83fd03f6699",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "能源",
-   "进口"
-  ],
-  "en_title": "Pakistan Weighs Direct LNG Imports for Power Plants to Ease Energy Crisis"
  },
  {
   "title": "新的推动力，扩大昆士兰州的乙醇授权",
@@ -608,34 +662,6 @@
    "基本金属"
   ],
   "en_title": "New push to back, expand ethanol mandate in Qld"
- },
- {
-  "title": "特朗普承认美国柴油出口禁令可能会提高汽油价格",
-  "url": "",
-  "summary": "美国总统唐纳德·特朗普周三晚间表示，对美国柴油出口的潜在禁令可能“对汽油产生负面影响”，不过他并不排除政府采取这一举措。总统在椭圆形办公室告诉记者，他和政府将继续讨论这一问题。",
-  "pub_time": "2026-10-01T07:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "b89d062aef244f12efdec27d6092156e",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "汽油",
-   "天然气",
-   "价"
-  ],
-  "en_title": "Trump Admits Diesel U.S. Export Ban Could Raise Gasoline Prices"
  },
  {
   "title": "饲料粮焦点：南方雨季及时出现",
@@ -790,32 +816,6 @@
    "贵金属"
   ],
   "en_title": "Actor DiCaprio fights Belo Sun’s $300M Brazil mine"
- },
- {
-  "title": "粮食设施如何重新考虑设备可靠性",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-09-30T19:35:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "f0bb8ff8b2a434707f6dadb8fb73e7e5",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "谷物"
-  ],
-  "en_title": "How Grain Facilities Are Rethinking Equipment Reliability"
  },
  {
   "title": "Miata 在苏里南 Sela Creek 钻探出 3.4 克黄金",
