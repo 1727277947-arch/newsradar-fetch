@@ -1008,13 +1008,13 @@
   "is_elite": false
  },
  {
-  "title": "每日钢市：2家钢厂涨价，节后钢价或“上有顶、下有底”",
-  "url": "https://news.mysteel.com/a/26093017/5BDB751BC2BFA64B.html",
+  "title": "Mysteel：9月31城松绑楼市，京沪广落地商品房销售制度改革细则",
+  "url": "https://news.mysteel.com/a/26093017/75BDBB62DFC327B2.html",
   "summary": "",
   "pub_time": "2026-09-30T09:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "12873e634a4614accc285f39b0acd3cd",
+  "dedup_key": "2696da900b59f88d2c176a42598e77bf",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -1028,7 +1028,7 @@
  },
  {
   "title": "Mysteel晚餐：焦炭首轮提降落地，唐山钢坯亏损仍大",
-  "url": "https://news.mysteel.com/a/26093017/1396EF837700481A.html",
+  "url": "https://news.mysteel.com/a/26093017/4B277B5C34C879CB.html",
   "summary": "",
   "pub_time": "2026-09-30T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1065,6 +1065,44 @@
   "is_elite": false
  },
  {
+  "title": "每日钢市：2家钢厂涨价，节后钢价或“上有顶、下有底”",
+  "url": "https://news.mysteel.com/a/26093017/E1B70B30FF349924.html",
+  "summary": "",
+  "pub_time": "2026-09-30T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "12873e634a4614accc285f39b0acd3cd",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "国外对华钢铁产品反倾销情况",
+  "url": "https://news.mysteel.com/a/26093016/7951AF5DE4F24A64.html",
+  "summary": "",
+  "pub_time": "2026-09-30T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "12f4bb55f83e2bbab3aa0d17db035f5a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "国内钢铁产能置换情况",
   "url": "https://news.mysteel.com/a/26093016/23F829EE67F467FD.html",
   "summary": "",
@@ -1072,6 +1110,25 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "22467c5e846fd19f5d15d248580257e9",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：前三季度国外对华钢铁产品反倾销情况",
+  "url": "https://news.mysteel.com/a/26093016/4EA52B45A6C244EF.html",
+  "summary": "",
+  "pub_time": "2026-09-30T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "5edafcde7d5566b2bcbf162c7c4bcf60",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1319,44 +1376,6 @@
   "en_title": "Uncertainty looms over grain dust exposure limit changes"
  },
  {
-  "title": "Mysteel：9月有色金属行业大事记",
-  "url": "https://news.mysteel.com/a/26093013/A54888AFD1EA7854.html",
-  "summary": "",
-  "pub_time": "2026-09-30T05:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "96420a7a7244f9f8905e1e29b715964f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：2026年9月国内铜项目进展汇总",
-  "url": "https://news.mysteel.com/a/26093013/B64148E1A1EF4801.html",
-  "summary": "",
-  "pub_time": "2026-09-30T05:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "3a82c09c493dcbc2057b85a840b82d8f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "韩国央行将于12月重启实物黄金购买，为13年来首次",
   "url": "https://news.mysteel.com/a/26093013/C3DC28CC38781FD0.html",
   "summary": "",
@@ -1570,6 +1589,25 @@
    "基本金属"
   ],
   "en_title": "QDPI research finds market potential for sorghum foods"
+ },
+ {
+  "title": "Mysteel月报：家电行业月报（2026-9）",
+  "url": "https://news.mysteel.com/a/26093009/954DB90110263C21.html",
+  "summary": "",
+  "pub_time": "2026-09-30T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "f5bde40832a8d2ee377486e247f853e6",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/产业经济",
+  "tags": [
+   "产业经济",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
  },
  {
   "title": "广发期货：焦炭短期偏弱走势",
@@ -3026,6 +3064,25 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "95933b2df8a20de74ab925ad5e3187e0",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel月报：船舶行业月报（2026-9）",
+  "url": "https://news.mysteel.com/a/26092911/13FE98319022CFB2.html",
+  "summary": "",
+  "pub_time": "2026-09-29T03:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "4e869d9ae73adcf994958beacdb3fd4e",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
