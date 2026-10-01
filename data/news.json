@@ -1,5 +1,82 @@
 [
  {
+  "title": "Elevra 启动 NAL 锂矿扩建",
+  "url": "",
+  "summary": "Elevra Lithium（澳大利亚证券交易所股票代码：ELV；纳斯达克股票代码：ELVR）已开始对其位于魁北克省的北美锂矿进行价值 3.66 亿美元（约合 2.71 亿美元）的扩建，并正在就其搬迁过程中的另一项价格保护承购事宜进行谈判...",
+  "pub_time": "2026-10-01T13:30:00Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "5e4f929640d60045581baeb611a82e28",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Elevra fires up NAL lithium mine expansion"
+ },
+ {
+  "title": "Beaver Creek：黄金债券断裂让初级投资者参与其中",
+  "url": "",
+  "summary": "科罗拉多州比弗河自 2022 年初以来，尽管美国债券收益率攀升，黄金价格仍上涨了一倍多，贵金属峰会上的投资者表示，这一突破可能预示着金价......",
+  "pub_time": "2026-10-01T12:36:17Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "7590e02b504261761e47cc1d27adc7a4",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Beaver Creek: Gold’s bond break puts juniors in play"
+ },
+ {
+  "title": "印度炼油商为霍尔木兹石油寻找油轮",
+  "url": "",
+  "summary": "据彭博社援引未具名消息人士的报道，印度炼油公司正在寻找租用油轮，通过霍尔木兹海峡将石油运出波斯湾。消息人士告诉彭博社，两家航运公司赢得了波斯湾石油招标，另外两家公司也提交了投标",
+  "pub_time": "2026-10-01T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "632cf036e88ec68196067fb7d3420ac0",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Indian Refiners Seek Tankers for Hormuz Oil"
+ },
+ {
   "title": "Beaver Creek 视频：黄金相对于债券获得新作用",
   "url": "",
   "summary": "Sprott 管理合伙人 John Hathaway 表示，黄金作为政府债券和美元的货币替代品的作用日益增强，可能标志着结构性转变，而不是另一个周期性牛市。",
@@ -90,6 +167,31 @@
   "is_elite": false
  },
  {
+  "title": "DPM 的 Vareš 矿仍在运营，特许权面临审查",
+  "url": "",
+  "summary": "波斯尼亚当局有六个月的时间审查有争议的土地协议，使采矿投资面临法律审查。",
+  "pub_time": "2026-10-01T10:49:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "a618a3b142d097284bf4996ad8558f06",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "DPM’s Vareš mine keeps running as concession faces review"
+ },
+ {
   "title": "中国暂停燃料出口，直至另行通知",
   "url": "",
   "summary": "多位知情人士周四告诉路透社，中国炼油厂已停止燃料出口，直至另行通知，这一进展可能进一步收紧全球燃料市场。国有石油巨头中石油取消了部分汽油和航空燃油货物，这些货物原本预计将被运走。",
@@ -158,25 +260,6 @@
    "中文",
    "国内",
    "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "冬闲田变身“增收田” 湖南双牌小萝卜拓宽致富路",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706758.shtml",
-  "summary": "赵李明 伍国银)连日来，湖南双牌县打鼓坪乡单江村抢抓秋冬农业生产有利时机，依托本地传统种植优势，推广稻萝轮作模式，发展特色萝卜种植，把冬闲田变成“增收田”",
-  "pub_time": "2026-10-01T08:53:08Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "5373680d1b4e75da26e0fc851cc8d091",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
   ],
   "is_elite": false
  },
@@ -836,62 +919,6 @@
    "下跌"
   ],
   "en_title": "Gold Fields halts Windfall work as Quebec permit lapses"
- },
- {
-  "title": "尽管油价剧烈波动，美国石油和天然气产量仍攀升",
-  "url": "",
-  "summary": "达拉斯联储第三季度调查的公司中，美国石油和天然气产量有所增加，但原油价格在不到三个月的时间内从每桶 67 美元波动至 107 美元，导致生产商难以决定价格走向。本季度石油和天然气产量在勘探和生产中有所增长",
-  "pub_time": "2026-09-30T17:31:07Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "99aa4fd036dd6480f122923c1960295e",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "天然气",
-   "价",
-   "走高",
-   "产量"
-  ],
-  "en_title": "U.S. Oil and Gas Production Climbs Despite Extreme Oil Price Volatility"
- },
- {
-  "title": "欧洲再次遭受能源驱动型通胀冲击",
-  "url": "",
-  "summary": "欧洲最新的能源冲击正在迅速影响消费者价格，欧元区一些最大经济体的通胀加速，使欧洲​​央行面临越来越令人不安的政策困境。 9月数据显示南部地区增长尤为强劲",
-  "pub_time": "2026-09-30T17:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "2340fc875d25a5725b9143c20956fea8",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "能源"
-  ],
-  "en_title": "Europe Gets Hit by Another Energy-Driven Inflation Shock"
  },
  {
   "title": "USGBC 带领东南亚宠物食品代表参加泰国大师班",
@@ -1990,32 +2017,6 @@
   "is_elite": false
  },
  {
-  "title": "德克萨斯州初创公司筹集 1.33 亿美元建设稀土磁铁级铁厂",
-  "url": "",
-  "summary": "这笔资金将用于建设 Hertha Chalyx，年产 10,000 吨钢和磁铁级高纯铁。",
-  "pub_time": "2026-09-29T23:35:08Z",
-  "source": "Mining.com",
-  "_cat": "黑色系",
-  "dedup_key": "ad9da773d9b31e386158dcd59db2e6a3",
-  "score": 84,
-  "priority": "P2",
-  "topic": "黑色系",
-  "tags": [
-   "黑色系",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "黑色系",
-   "生铁"
-  ],
-  "en_title": "Texas startup raises $133M to build rare earth magnet-grade iron plant"
- },
- {
   "title": "Mysteel早读：居民房贷贴息政策来了，焦炭首轮提降100-110元",
   "url": "https://news.mysteel.com/a/26093007/8925B3D479117D63.html",
   "summary": "",
@@ -2079,31 +2080,6 @@
    "库存"
   ],
   "en_title": "Atlas Lithium Stock Getting Very Oversold"
- },
- {
-  "title": "TNM揭示了最新的奖金寻宝线索",
-  "url": "",
-  "summary": "北方矿工很高兴地分享，最新的奖金线索已通过电子邮件发送给所有订阅者！我们正在进行的加拿大大寻宝的最新一期增加了... TNM帖子揭示了最新的奖金寻宝线索，首次出现在北方矿工。",
-  "pub_time": "2026-09-29T20:34:13Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "67847bfad8f65abf4af2f2ebd8ccfc26",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "TNM reveals latest bonus prize Treasure Hunt clue"
  },
  {
   "title": "USW 发布 2026 年软红冬小麦质量调查",
