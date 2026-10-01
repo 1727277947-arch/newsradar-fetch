@@ -1,5 +1,56 @@
 [
  {
+  "title": "每日市场快线 2026 年 10 月 1 日",
+  "url": "",
+  "summary": "美国农业部库存报告打破第三季度谷物涨势；玉米坑的秋天冲刷着农田。宏观消息、战争担忧、持续的市场推/拉。 Aust rain hope rises.",
+  "pub_time": "2026-10-01T00:48:47Z",
+  "source": "GrainCentral",
+  "_cat": "基本金属",
+  "dedup_key": "96e983ca2a12497722bc7d8853003ac3",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Daily Market Wire 1 October 2026"
+ },
+ {
+  "title": "伊朗石油的消失正成为每个人的问题",
+  "url": "",
+  "summary": "伊朗石油正在从市场上消失，而其最大买家又回来购买更多石油。中国复苏的原油需求与支撑其独立炼油厂度过危机的供应商的流失相冲突，迫使它们争夺日益昂贵的替代品。后果",
+  "pub_time": "2026-10-01T00:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "9ec930c01d74cbcce51464586a835183",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Iran’s Disappearing Oil Is Becoming Everyone’s Problem"
+ },
+ {
   "title": "欧盟天然气紧缩迫使人们重新思考甲烷规则",
   "url": "",
   "summary": "欧盟委员会已表示，由于乌克兰和中东战争导致天然气持续短缺，将推迟其有争议的甲烷法规的生效。这可能不足以抵消紧缩的影响——因为该规定尚未生效",
@@ -663,6 +714,25 @@
   "en_title": "Oil Price Forecasts Jump as Hormuz Disruption Drags On"
  },
  {
+  "title": "【独家】节后新季糯稻价格或有一跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/01/5716733187.shtml",
+  "summary": "",
+  "pub_time": "2026-09-30T16:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "f2f48774804a5eed9246f383c802cd8a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "亚利桑那黄金公司在主要项目中找到了高品位区域",
   "url": "",
   "summary": "该项目位于历史悠久的奥特曼矿区，该矿区的产量超过 250 万盎司。黄金。",
@@ -919,31 +989,6 @@
   "en_title": "OPEC+ Expected to Keep Oil Production Quotas Unchanged"
  },
  {
-  "title": "俄罗斯将柴油出口禁令延长至10月31日",
-  "url": "",
-  "summary": "俄罗斯政府周三将所有燃料生产商的柴油、船用燃料和瓦斯油出口禁令延长至 10 月 31 日，这实际上将全球市场紧缩的时间延长了一个月。政府采取了",
-  "pub_time": "2026-09-30T12:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "846edef52a1e2307473d5e762d7798a2",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Russia Extends Diesel Export Ban Through Oct. 31"
- },
- {
   "title": "Mysteel晚餐：焦炭首轮提降落地",
   "url": "https://news.mysteel.com/a/26093017/F30620D15B5ACAE0.html",
   "summary": "",
@@ -1002,12 +1047,50 @@
  },
  {
   "title": "关键矿产日报：沁源县累计复产煤矿9座，9月铜、锂项目进展",
-  "url": "https://news.mysteel.com/a/26093017/D929BB5BE9A39532.html",
+  "url": "https://news.mysteel.com/a/26093017/6A8556DC8804A80A.html",
   "summary": "",
   "pub_time": "2026-09-30T09:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "b61d58df6a3aa5aa0de6c421728de3a1",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "国内钢铁产能置换情况",
+  "url": "https://news.mysteel.com/a/26093016/23F829EE67F467FD.html",
+  "summary": "",
+  "pub_time": "2026-09-30T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "22467c5e846fd19f5d15d248580257e9",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：前三季度国内钢铁产能置换情况",
+  "url": "https://news.mysteel.com/a/26093016/798EC8D17D318376.html",
+  "summary": "",
+  "pub_time": "2026-09-30T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "6a6fa0478785ff0989065ea24fc74b58",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1313,7 +1396,7 @@
  },
  {
   "title": "Mysteel午报：钢价局部上涨，黑色期货普涨",
-  "url": "https://news.mysteel.com/a/26093011/885FB20268CEE605.html",
+  "url": "https://news.mysteel.com/a/26093011/61662912CA2E9C63.html",
   "summary": "",
   "pub_time": "2026-09-30T03:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1438,25 +1521,6 @@
   "topic": "国内/贸易外经",
   "tags": [
    "贸易外经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "福州市工信局发布关于《福州市钢铁产业发展专项规划（2025-2030年）（优化调整版）》的采购项目成交公告",
-  "url": "https://news.mysteel.com/a/26093010/60547278FABF3B81.html",
-  "summary": "",
-  "pub_time": "2026-09-30T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "f595f0e56ffd9da977512d5de5e2aa37",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -1698,31 +1762,6 @@
   "is_elite": false
  },
  {
-  "title": "每日市场快讯 2026 年 9 月 30 日",
-  "url": "",
-  "summary": "大豆带动油籽综合体走强。 Matif 油菜籽、WCE 油菜籽在草原天气复杂的情况下坚挺。在美国农业部公布美国报告之前，芝商所和明尼小麦已摆脱风险。",
-  "pub_time": "2026-09-30T00:36:27Z",
-  "source": "GrainCentral",
-  "_cat": "能源",
-  "dedup_key": "a510308bcb4967e31edb4916e31f7fe4",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Daily Market Wire 30 September 2026"
- },
- {
   "title": "Mysteel钢铁市场月度观察：十月钢市——负反馈未止，黑色系重心续降但空间有限",
   "url": "https://news.mysteel.com/a/26093008/C2939F6418D1CD76.html",
   "summary": "",
@@ -1875,32 +1914,6 @@
    "基本金属"
   ],
   "en_title": "TNM reveals latest bonus prize Treasure Hunt clue"
- },
- {
-  "title": "特朗普对委内瑞拉黄金的推动遇到了炼油厂的障碍：纽约时报",
-  "url": "",
-  "summary": "一些进入供应链的黄金与矿工向委内瑞拉南部金矿周围的犯罪团伙支付保护费有关。",
-  "pub_time": "2026-09-29T19:47:24Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "e9fb9950c62245ab9dcdeb79365319b2",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Trump’s Venezuela gold push hits refiner snag: NYT"
  },
  {
   "title": "USW 发布 2026 年软红冬小麦质量调查",
@@ -3032,139 +3045,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "65a58901490acdeec0941028581a1a51",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "郭大勇当选上海黄金交易所理事会新一任理事长",
-  "url": "https://news.mysteel.com/a/26092909/8AB1C50D3993679C.html",
-  "summary": "",
-  "pub_time": "2026-09-29T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "e029703deaae1a1db229260cc2b07886",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "9月28日SPDR黄金持仓量较前一日增加4.277吨",
-  "url": "https://news.mysteel.com/a/26092909/0FD51F7AD5981BFC.html",
-  "summary": "",
-  "pub_time": "2026-09-29T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "a67c29be59aa051de17633becef86684",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色期货早报：各品种涨跌不一，多机构料螺纹钢震荡运行",
-  "url": "https://news.mysteel.com/a/26092909/CED761CD0A3E2F24.html",
-  "summary": "",
-  "pub_time": "2026-09-29T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "18a107d81240c1106a79b0345c7fa4b6",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "9月28日iShares白银持仓量较前一日减少14.05吨",
-  "url": "https://news.mysteel.com/a/26092908/88F06A278E820138.html",
-  "summary": "",
-  "pub_time": "2026-09-29T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "41ce942751dbbbbe6b1ed8d2ea91bceb",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "油价反弹强化加息预期，纽约金价28日承压大跌",
-  "url": "https://news.mysteel.com/a/26092908/6F25E03ECCF84854.html",
-  "summary": "",
-  "pub_time": "2026-09-29T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "9356f8aa6efcb627c4c94bbb08865e54",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "赤峰黄金：控制权变更交割期限延长至11月30日",
-  "url": "https://news.mysteel.com/a/26092908/4DA20B6213702FB6.html",
-  "summary": "",
-  "pub_time": "2026-09-29T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "5b2521aa65749515162c9f9e2e719f3f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "紫金矿业：签署补充协议延长赤峰黄金收购交割期限",
-  "url": "https://news.mysteel.com/a/26092908/3E109952B45B2075.html",
-  "summary": "",
-  "pub_time": "2026-09-29T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "a980a39abd832d3057c129911fa91854",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
