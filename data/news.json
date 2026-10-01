@@ -1,5 +1,88 @@
 [
  {
+  "title": "台湾拨款 130 亿美元帮助消费者免受高能源成本的影响",
+  "url": "",
+  "summary": "据路透社报道，台湾正在拨款 130 亿美元，为国有发电公司台电和炼油厂 CPC 提供能源成本支持，以抵消中东战争造成的成本急剧上涨。台湾已经开始补贴消费者的能源成本，以避免",
+  "pub_time": "2026-10-01T09:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "38a16acba4976860ebe6ba083ae908d7",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "能源"
+  ],
+  "en_title": "Taiwan Allocates $13 Billion to Shield Consumers From High Energy Costs"
+ },
+ {
+  "title": "Mysteel：国庆假期热点速递（10月1日）",
+  "url": "https://news.mysteel.com/a/26100117/91F54BD20A708C47.html",
+  "summary": "",
+  "pub_time": "2026-10-01T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "777078ebb3faa3bf3e3498f7f480b845",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "冬闲田变身“增收田” 湖南双牌小萝卜拓宽致富路",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706758.shtml",
+  "summary": "赵李明 伍国银)连日来，湖南双牌县打鼓坪乡单江村抢抓秋冬农业生产有利时机，依托本地传统种植优势，推广稻萝轮作模式，发展特色萝卜种植，把冬闲田变成“增收田”",
+  "pub_time": "2026-10-01T08:53:08Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "5373680d1b4e75da26e0fc851cc8d091",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "湖南江永千年唐代贡米开镰 种质保护让老稻种重焕活力",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706738.shtml",
+  "summary": "田海忠 毛文涛)时下，在湖南江永县源口瑶族乡香米园内，有着千年历史的唐代贡米老稻种迎来开镰",
+  "pub_time": "2026-10-01T08:25:02Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "64617a2b718e839f1b1542eb1bb58685",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "巴基斯坦考虑为发电厂直接进口液化天然气以缓解能源危机",
   "url": "",
   "summary": "巴基斯坦政府正在考虑允许发电厂和私营公司直接进口在现货市场采购的液化天然气，因为自伊朗战争削弱卡塔尔的定期供应以来，该国一直在能源危机中挣扎。巴基斯坦能源部提议放宽现有监管",
@@ -991,34 +1074,6 @@
   "en_title": "U.S. Crude Oil Inventories Unexpectedly Edge Modestly Higher"
  },
  {
-  "title": "EIA 报告原油库存增加，柴油库存低于平均水平 14%",
-  "url": "",
-  "summary": "美国能源情报署(EIA)周三公布的最新数据显示，截至9月25日当周，美国原油库存增加90万桶。州长表示，这一增加使商业库存达到 4.273 亿桶",
-  "pub_time": "2026-09-30T14:43:18Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "d2e760ded854cb02a1877edd410040bb",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "下跌",
-   "库存"
-  ],
-  "en_title": "EIA Reports Crude Build as Diesel Stocks Fall 14% Below Average"
- },
- {
   "title": "迪卡普里奥加入反对 Belo Sun 价值 3 亿美元的巴西矿山的行列",
   "url": "",
   "summary": "莱昂纳多·迪卡普里奥 (Leonardo DiCaprio) 为 Belo Sun 计划在帕拉州的 Volta Grande 金矿项目表达了原住民和环境抵制的声音。",
@@ -1367,25 +1422,6 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel：2026年9月汽车行业大事记",
-  "url": "https://news.mysteel.com/a/26093014/E08B5A0245B3D822.html",
-  "summary": "",
-  "pub_time": "2026-09-30T06:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "65a090acf4eb3f8581f7a5d809f7a24f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/产业经济",
-  "tags": [
-   "产业经济",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel月报：10月生铁市场价格或震荡下行",
   "url": "https://news.mysteel.com/a/26093014/655521EBD7971D2D.html",
   "summary": "",
@@ -1398,6 +1434,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：2026年9月汽车行业大事记",
+  "url": "https://news.mysteel.com/a/26093014/200F997C5CBCC046.html",
+  "summary": "",
+  "pub_time": "2026-09-30T06:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "65a090acf4eb3f8581f7a5d809f7a24f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/产业经济",
+  "tags": [
+   "产业经济",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -2987,44 +3042,6 @@
    "中文",
    "国内",
    "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel解读：国庆钢铁市场回顾与展望",
-  "url": "https://news.mysteel.com/a/26092917/EC795BE517C2C853.html",
-  "summary": "",
-  "pub_time": "2026-09-29T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "d5f470fc44c2ceb463cd984cac21b22c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel晚餐：焦炭首轮提降开启，特朗普宣布将建美国史上最大钢厂",
-  "url": "https://news.mysteel.com/a/26092917/AA8FA44078642CA7.html",
-  "summary": "",
-  "pub_time": "2026-09-29T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "cd5b546dcfbd152b802c3a8eec1456ba",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
   ],
   "is_elite": false
  }
