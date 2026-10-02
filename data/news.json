@@ -1,5 +1,58 @@
 [
  {
+  "title": "特朗普称韩国协议包括价值84亿美元的美国石油项目",
+  "url": "",
+  "summary": "美国总统唐纳德·特朗普周五表示，韩国与美国的投资协议现在包括用于提高石油采收率项目的 84 亿美元。首尔表示不同意这样的事情。 “韩国协议不断完善！84 亿美元用于提高石油采收率",
+  "pub_time": "2026-10-02T21:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "d7737307407534eb0fc75daab12b9cd3",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Trump Says South Korea Deal Includes $8.4 Billion U.S. Oil Project"
+ },
+ {
+  "title": "嘉能可 (Glencore) 获得 RIGI 批准 4B 美元阿根廷铜项目",
+  "url": "",
+  "summary": "嘉能可 (LSE: GLEN) 已获得阿根廷政府批准，根据该国特别投资激励计划，其价值 40 亿美元（合 57 亿加元）的阿瓜里卡铜矿项目，扫清了重大障碍……嘉能可获得 RIGI 批准的 4B 美元阿根廷铜项目首先出现在",
+  "pub_time": "2026-10-02T20:30:04Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "c3967d08718204fa9a975886ab4b38c5",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜",
+   "锡"
+  ],
+  "en_title": "Glencore gets RIGI nod for $4B Argentina copper project"
+ },
+ {
   "title": "为什么储存的谷物昆虫在热处理后仍能存活",
   "url": "",
   "summary": "",
@@ -77,33 +130,6 @@
    "原油"
   ],
   "en_title": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk"
- },
- {
-  "title": "嘉能可 (Glencore) 获得 RIGI 批准 4B 美元阿根廷铜项目",
-  "url": "",
-  "summary": "嘉能可 (LSE: GLEN) 已获得阿根廷政府批准，根据该国特别投资激励计划，其价值 40 亿美元（合 57 亿加元）的阿瓜里卡铜矿项目，扫清了重大障碍……嘉能可获得 RIGI 批准的 4B 美元阿根廷铜项目首先出现在",
-  "pub_time": "2026-10-02T18:45:04Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "c3967d08718204fa9a975886ab4b38c5",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "锡"
-  ],
-  "en_title": "Glencore gets RIGI nod for $4B Argentina copper project"
  },
  {
   "title": "原油价格从最糟糕水平回升，但仍大幅走低",
@@ -652,32 +678,6 @@
   "en_title": "Oil Prices Headed For Weekly Loss As Supply Fears Ease"
  },
  {
-  "title": "联合国称全球燃料补贴可能突破1万亿美元",
-  "url": "",
-  "summary": "联合国表示，今年油价冲击下的燃料补贴可能超过 1 万亿美元，并警告说，许多国家政府正在耗尽财政资源来维持补贴、燃油税削减或价格上限。联合国开发计划署 (UNDP) 报告中的估计表明",
-  "pub_time": "2026-10-02T09:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "254e12f4e835cab9fea44f8899e816ef",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "燃料"
-  ],
-  "en_title": "UN Says Global Fuel Subsidies Could Top $1 Trillion"
- },
- {
   "title": "Mysteel：国庆假期热点速递（10月2日）",
   "url": "https://news.mysteel.com/a/26100216/C2441824C3C58196.html",
   "summary": "",
@@ -979,32 +979,6 @@
   "en_title": "Gold Prices Moving To The Upside As Yields Pull Back Sharply"
  },
  {
-  "title": "Frostic 开始担任全国玉米种植者协会主席",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-10-01T17:41:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "c9e8f57f69ff92fdd2bde57b2aac9bf6",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "玉米"
-  ],
-  "en_title": "Frostic Begins Term as National Corn Growers Association President"
- },
- {
   "title": "Elevra 启动 NAL 锂矿扩建",
   "url": "",
   "summary": "Elevra Lithium（澳大利亚证券交易所股票代码：ELV；纳斯达克股票代码：ELVR）已开始对其位于魁北克省的北美锂矿进行价值 3.66 亿美元（约合 2.71 亿美元）的扩建，并正在就其搬迁过程中的另一项价格保护承购事宜进行谈判...",
@@ -1028,33 +1002,6 @@
    "基本金属"
   ],
   "en_title": "Elevra fires up NAL lithium mine expansion"
- },
- {
-  "title": "IL Corn 发布工具来探索农场碳强度得分",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-10-01T17:04:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "e1048bcbaaef4963a610b273fceeecba",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "玉米",
-   "走软"
-  ],
-  "en_title": "IL Corn Releases Tool to Explore Farm Carbon Intensity Scores"
  },
  {
   "title": "Beaver Creek：黄金债券断裂让初级投资者参与其中",
@@ -1119,31 +1066,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "DPM 的 Vareš 矿仍在运营，特许权面临审查",
-  "url": "",
-  "summary": "波斯尼亚当局有六个月的时间审查有争议的土地协议，使采矿投资面临法律审查。",
-  "pub_time": "2026-10-01T10:49:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "a618a3b142d097284bf4996ad8558f06",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "DPM’s Vareš mine keeps running as concession faces review"
  },
  {
   "title": "Mysteel：国庆假期热点速递（10月1日）",
