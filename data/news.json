@@ -1,5 +1,30 @@
 [
  {
+  "title": "每日市场电讯2026年10月2日",
+  "url": "",
+  "summary": "一夜之间，由于黑海供应紧张，小麦价格有所回升，股市传言使玉米价格小幅反弹，大豆价格下跌。",
+  "pub_time": "2026-10-02T02:35:57Z",
+  "source": "GrainCentral",
+  "_cat": "农产品",
+  "dedup_key": "d6de0762f21405d85bded3722e125139",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品"
+  ],
+  "en_title": "Daily Market Wire 2 October 2026"
+ },
+ {
   "title": "棉花种植开始，种植者面临旱季",
   "url": "",
   "summary": "干旱天气意味着澳大利亚目前正在种植的棉花产量预计为 270 万包，比去年下降 40%。",
@@ -28,7 +53,7 @@
  },
  {
   "title": "亨里克・亚当就任世界钢铁协会总干事",
-  "url": "https://news.mysteel.com/a/26100208/86F1E5CA70DDDE08.html",
+  "url": "https://news.mysteel.com/a/26100208/A1ABBD4456092016.html",
   "summary": "",
   "pub_time": "2026-10-02T00:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1452,139 +1477,6 @@
   "topic": "国内/金融政策",
   "tags": [
    "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "河北省6个铁矿石项目获批",
-  "url": "https://news.mysteel.com/a/26093011/63ED7F1C1615A3ED.html",
-  "summary": "",
-  "pub_time": "2026-09-30T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "d21441467db5b899a086b23d7b5bf39b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel午报：钢价局部上涨，黑色期货普涨",
-  "url": "https://news.mysteel.com/a/26093011/61662912CA2E9C63.html",
-  "summary": "",
-  "pub_time": "2026-09-30T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "dce8f85bfd2d4d4b4ec5384f8c98d529",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：9月河北省6个铁矿石项目获批",
-  "url": "https://news.mysteel.com/a/26093011/63ED7F1C1615A3ED.html",
-  "summary": "",
-  "pub_time": "2026-09-30T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "8fe48921d523d50d1335d74d0e0628d5",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel数据：全球钢材到港量统计（9.22-9.28）",
-  "url": "https://news.mysteel.com/a/26093011/0DCCFE5C40F3FC48.html",
-  "summary": "",
-  "pub_time": "2026-09-30T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "542f3d4680245a45dfa6382dd1b15191",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel数据：中国钢材发运量统计（9.22-9.28）",
-  "url": "https://news.mysteel.com/a/26093011/4D7C4B77373612B2.html",
-  "summary": "",
-  "pub_time": "2026-09-30T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "c1daf55cb9f8be0aca253a21c3f809c7",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "螺纹钢期货反弹，节后钢价或区间震荡",
-  "url": "https://news.mysteel.com/a/26093011/4D910714E563B49A.html",
-  "summary": "",
-  "pub_time": "2026-09-30T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "d61ee5b8bccde82f77a6ca9af5cbe239",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：五大建筑央企前8月新签合同总额超4.3万亿元",
-  "url": "https://news.mysteel.com/a/26093011/6A72959CAD91CCEC.html",
-  "summary": "",
-  "pub_time": "2026-09-30T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "88e671db248954c85caaa066f9288016",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
