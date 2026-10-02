@@ -1,5 +1,59 @@
 [
  {
+  "title": "伊利诺伊州玉米种植者寻求收获柴油成本减免",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-10-02T17:42:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "6db401a93e36f8e0fa2414d222ab5722",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "玉米"
+  ],
+  "en_title": "Illinois Corn Growers Seek Diesel Cost Relief for Harvest"
+ },
+ {
+  "title": "随着价格下跌，美国石油钻探规模不断增加",
+  "url": "",
+  "summary": "贝克休斯周五公布的最新数据显示，本周美国活跃的石油和天然气钻机总数有所下降，美国总钻机数量降至 598 座，较去年同期增加 49 座。活跃石油钻井平台数量增加1个，达到456个",
+  "pub_time": "2026-10-02T17:16:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "6a2c70bec769f041eb6be03ab02444e4",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "下跌"
+  ],
+  "en_title": "U.S. Oil Drilling Inches Up As Prices Fall"
+ },
+ {
   "title": "即期布伦特原油价格突破 120 美元预示着石油严重紧缩",
   "url": "",
   "summary": "尽管 ICE 布伦特原油价格跌至 101 美元，但即期布伦特原油价格仍飙升至 120 美元以上，实物石油市场急剧收紧。 2026 年 10 月 2 日，星期五 欧洲柴油库存释放、霍尔木兹海峡无人油轮以及中国恢复成品油出口禁令都在这场危机中发挥了作用。",
@@ -534,31 +588,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "康菲石油公司与 Venture Global 签署为期 20 年的液化天然气协议",
-  "url": "",
-  "summary": "康菲石油公司和 Venture Global 签署了一项协议，将从 2030 年开始向康菲石油公司主要供应 100 万吨液化天然气。该协议是卡塔尔能源公司遭遇不可抗力事件后，能源领域扩大液化天然气业务的更广泛趋势的一部分，液化天然气需求前景仍然乐观。",
-  "pub_time": "2026-10-02T07:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "ba7cb7df296aab1de578f52ff4f92272",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "ConocoPhillips Signs 20-Year LNG Deal With Venture Global"
  },
  {
   "title": "每日市场电讯2026年10月2日",
