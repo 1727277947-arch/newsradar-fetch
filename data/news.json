@@ -1,5 +1,141 @@
 [
  {
+  "title": "奥西斯科计划为加斯佩大幅增加资源",
+  "url": "",
+  "summary": "Osisko Metals（多伦多证交所代码：OM；美国场外交易代码：OMZNF）预计，随着新钻探填补资源缺口以及更深矿化的增加，其位于魁北克省的 Gaspé 铜矿项目将变得更大……《Osisko 计划增加 Gaspé 资源量》的文章首先出现在《北方矿工》上。",
+  "pub_time": "2026-10-02T11:30:37Z",
+  "source": "NorthernMiner",
+  "_cat": "能源",
+  "dedup_key": "00a86b0c8fe6051498049f2568a16042",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气"
+  ],
+  "en_title": "Osisko plots major resource increase for Gaspé"
+ },
+ {
+  "title": "欧盟考虑紧急释放库存，WTI 下跌近 4%",
+  "url": "",
+  "summary": "在特朗普政府的压力下，欧洲距离再次紧急库存发布越来越近，周五油价大幅下跌，WTI 下跌近 4%，布伦特原油跌破 100 美元。美国东部时间上午 6:54，WTI 交易价格为 89.36 美元，下跌 3.78%，布伦特交易价格为 99.79 美元/桶，下跌 2",
+  "pub_time": "2026-10-02T11:02:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "0a9a0e53669f0abe0a116741ed2d816c",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "WTI油价",
+   "库存"
+  ],
+  "en_title": "WTI Sinks Nearly 4% as EU Weighs Emergency Stockpile Release"
+ },
+ {
+  "title": "新的 8.5 亿美元债务协议使 Troilus 铜金项目更接近全额融资",
+  "url": "",
+  "summary": "新的债务融资协议使 Troilus Mining（多伦多证券交易所代码：TLG；美国场外交易代码：CHXMF）更接近获得在魁北克开发同名铜金项目所需的全部资金。德国 KfW IPEX 银行和法国...新的 8.5 亿美元债务协议使 Troilus 铜金项目更接近全额融资",
+  "pub_time": "2026-10-02T10:45:08Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "359db21d337dfac5caa71e4c8f652859",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "原油",
+   "铜"
+  ],
+  "en_title": "New $850M debt deal moves Troilus copper-gold project closer to full funding"
+ },
+ {
+  "title": "黄金在美国就业报告发布前小幅上涨",
+  "url": "",
+  "summary": "(RTTNews) - 周五黄金小幅上涨，因债券和货币市场的剧烈波动在当天晚些时候发布的最重要的美国就业报告之前有所缓解。",
+  "pub_time": "2026-10-02T09:54:46Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "daae3be4216f1812fff2f572c526d233",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Gold Edges Up Ahead Of US Jobs Report"
+ },
+ {
+  "title": "随着供应担忧缓解，油价将每周下跌",
+  "url": "",
+  "summary": "(RTTNews) - 由于中东供应恢复至战前水平的迹象，油价周五暴跌，并每周下跌。",
+  "pub_time": "2026-10-02T09:38:59Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "82f3002c1bde8dc2f675e3ea6b59f1dc",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "供应",
+   "周"
+  ],
+  "en_title": "Oil Prices Headed For Weekly Loss As Supply Fears Ease"
+ },
+ {
   "title": "联合国称全球燃料补贴可能突破1万亿美元",
   "url": "",
   "summary": "联合国表示，今年油价冲击下的燃料补贴可能超过 1 万亿美元，并警告说，许多国家政府正在耗尽财政资源来维持补贴、燃油税削减或价格上限。联合国开发计划署 (UNDP) 报告中的估计表明",
@@ -625,32 +761,6 @@
   "en_title": "IL Corn Releases Tool to Explore Farm Carbon Intensity Scores"
  },
  {
-  "title": "加拿大加快建设通往亚洲的每日 100 万桶太平洋连接石油管道",
-  "url": "",
-  "summary": "加拿大正在快速推进一条通往太平洋沿岸的每日100万桶石油管道的建设计划，这为艾伯塔省提供了另一条通往亚洲买家的路线，并为其摆脱对美国市场的过度依赖提供了另一种途径。总理马克·卡尼周四表示，渥太华将将该项目列为国家重点项目之一",
-  "pub_time": "2026-10-01T16:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "7e170df7ddc2ad675ccb7c3a02be0081",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Canada Fast-Tracks 1 Million-Bpd Pacific Link Oil Pipeline to Asia"
- },
- {
   "title": "Beaver Creek：黄金债券断裂让初级投资者参与其中",
   "url": "",
   "summary": "这种分歧给矿业投资者提出了问题。",
@@ -969,57 +1079,6 @@
    "下跌"
   ],
   "en_title": "Gold Fields halts Windfall work as Quebec permit lapses"
- },
- {
-  "title": "演员迪卡普里奥与 Belo Sun 价值 3 亿美元的巴西矿展开斗争",
-  "url": "",
-  "summary": "莱昂纳多·迪卡普里奥 (Leonardo DiCaprio) 大力支持 Belo Sun Mining (TSX: BSX) 提议的价值 3 亿美元的巴西 Volta Grande 金矿项目的反对者，为这场长期的斗争增添了高调的声音......",
-  "pub_time": "2026-09-30T19:35:18Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "71c951fc401fbeda6d4feaf99dbc2c3d",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "Actor DiCaprio fights Belo Sun’s $300M Brazil mine"
- },
- {
-  "title": "Miata 在苏里南 Sela Creek 钻探出 3.4 克黄金",
-  "url": "",
-  "summary": "Miata Metals（多伦多证券交易所代码：MMET；美国场外交易代码：MMETF）位于苏里南的 Sela Creek 项目的钻探已在 Jons Trend 中返回堆积的高品位截获物，赋予其露天采矿的潜力，该公司... Miata 在苏里南 Sela Creek 钻探了 3.4 克黄金，该项目首先出现在 The Northern Mi 上",
-  "pub_time": "2026-09-30T19:30:23Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "9aaba4eb0ee20933106b0973f0f913a6",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Miata drills 3.4 g gold at Sela Creek in Suriname"
  },
  {
   "title": "原油价格在昨天大幅下跌后重新站稳脚跟",
