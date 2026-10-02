@@ -1,5 +1,32 @@
 [
  {
+  "title": "高盛：美国柴油出口禁令将对拉丁美洲造成最严重打击",
+  "url": "",
+  "summary": "高盛表示，美国可能禁止出口柴油，这对拉丁美洲影响最大，尽管有报道称欧洲因此类禁令而遭受的痛苦最大。美国柴油进口量占墨西哥、厄瓜多尔、中国燃料消耗量的 50%",
+  "pub_time": "2026-10-02T08:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "贵金属",
+  "dedup_key": "b3db9d8ce36774221d48132dc0072017",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "锡"
+  ],
+  "en_title": "U.S. Diesel Export Ban Would Hit Latin America Hardest: Goldman"
+ },
+ {
   "title": "“十·一”黄金周，为什么越来越多人涌向主题公园？",
   "url": "https://www.chinanews.com.cn/cj/2026/10-02/10707145.shtml",
   "summary": "记者 孙晨慧)这几天，客流集中涌入。游玩、吃饭、购物、看演出，在园区里待上一整天，成为不少人的假期安排",
@@ -660,33 +687,6 @@
   "en_title": "Corn Stocks Rise 35%, Wheat Stocks Fall 14%"
  },
  {
-  "title": "铀产量创历史新高，而核库存下滑",
-  "url": "",
-  "summary": "如果你只看燃料的价格，你会认为核贸易从未如此美好。长期铀价目前处于 96 美元/磅，创历史新高，年初至今上涨约 12%，超越了 2007 年中期上一次铀热热潮高峰期创下的 95 美元/磅高位（根据 TD Cowen 编制的 UxC 数据）。",
-  "pub_time": "2026-10-01T15:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "0c84fd16edf68ed51e6963f0392f48e3",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "下滑",
-   "库存"
-  ],
-  "en_title": "Uranium Hits Record High While Nuclear Stocks Slide"
- },
- {
   "title": "Mayfair 为安大略黄金项目筹集 3.1 亿美元",
   "url": "",
   "summary": "Mayfair Gold（TSXV：MFG；NYSE-A：MINE）已与澳大利亚麦格理银行达成高达 3.1 亿美元（合 2.18 亿美元）的初步融资协议，以帮助开发其 Fenn-Gib 黄金项目... Mayfair 为安大略黄金项目筹集 3.1 亿美元的消息首先出现在《北方矿工》上。",
@@ -1219,120 +1219,6 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "国外对华钢铁产品反倾销情况",
-  "url": "https://news.mysteel.com/a/26093016/7951AF5DE4F24A64.html",
-  "summary": "",
-  "pub_time": "2026-09-30T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "12f4bb55f83e2bbab3aa0d17db035f5a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "国内钢铁产能置换情况",
-  "url": "https://news.mysteel.com/a/26093016/23F829EE67F467FD.html",
-  "summary": "",
-  "pub_time": "2026-09-30T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "22467c5e846fd19f5d15d248580257e9",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：前三季度国外对华钢铁产品反倾销情况",
-  "url": "https://news.mysteel.com/a/26093016/46116E2C1292EDAC.html",
-  "summary": "",
-  "pub_time": "2026-09-30T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "5edafcde7d5566b2bcbf162c7c4bcf60",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：前三季度国内钢铁产能置换情况",
-  "url": "https://news.mysteel.com/a/26093016/D1A699FFC54563AC.html",
-  "summary": "",
-  "pub_time": "2026-09-30T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "6a6fa0478785ff0989065ea24fc74b58",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "新疆公布2026年10月电解铝企业自备电厂系统备用费标准",
-  "url": "https://news.mysteel.com/a/26093016/6494F3C8C274A319.html",
-  "summary": "",
-  "pub_time": "2026-09-30T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "b06775b9032b3521c672c013d3722ebb",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel日报：黑色金属期货价格震荡下跌",
-  "url": "https://news.mysteel.com/a/26093016/3D23F7B04C19B9B6.html",
-  "summary": "",
-  "pub_time": "2026-09-30T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "62c08c94827648b6df25c5fbb5e11329",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
