@@ -1,5 +1,51 @@
 [
  {
+  "title": "棉花种植开始，种植者面临旱季",
+  "url": "",
+  "summary": "干旱天气意味着澳大利亚目前正在种植的棉花产量预计为 270 万包，比去年下降 40%。",
+  "pub_time": "2026-10-02T01:46:30Z",
+  "source": "GrainCentral",
+  "_cat": "基本金属",
+  "dedup_key": "8f52863d94460ec943ec3e54f527d345",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡",
+   "棉花"
+  ],
+  "en_title": "Cotton planting starts as growers face drier season"
+ },
+ {
+  "title": "亨里克・亚当就任世界钢铁协会总干事",
+  "url": "https://news.mysteel.com/a/26100208/86F1E5CA70DDDE08.html",
+  "summary": "",
+  "pub_time": "2026-10-02T00:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "aaf5d6ceef254a0b7ec44f1940c454e5",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "中国的目标是到 2030 年在固态电池方面占据主导地位",
   "url": "",
   "summary": "中国已经在全球锂离子电池市场占据主导地位，并计划将这一地位扩大到固态电池。北京政府将寻求降低固态电池成本、提高其性能，并在 2030 年之前开始商业化生产。“未来五年，新型固态电池将在",
@@ -699,7 +745,7 @@
  },
  {
   "title": "Mysteel：国庆假期热点速递（10月1日）",
-  "url": "https://news.mysteel.com/a/26100117/91F54BD20A708C47.html",
+  "url": "https://news.mysteel.com/a/26100117/A7349804930DB600.html",
   "summary": "",
   "pub_time": "2026-10-01T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -766,31 +812,6 @@
    "谷物"
   ],
   "en_title": "Feedgrain Focus: Southern rain shows up in time"
- },
- {
-  "title": "每日市场快线 2026 年 10 月 1 日",
-  "url": "",
-  "summary": "美国农业部库存报告打破第三季度谷物涨势；玉米坑的秋天冲刷着农田。宏观消息、战争担忧、持续的市场推/拉。 Aust rain hope rises.",
-  "pub_time": "2026-10-01T00:48:47Z",
-  "source": "GrainCentral",
-  "_cat": "基本金属",
-  "dedup_key": "96e983ca2a12497722bc7d8853003ac3",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Daily Market Wire 1 October 2026"
  },
  {
   "title": "美国能源部为 17 个国家实验室采矿技术项目拨款 2950 万美元",
@@ -1559,354 +1580,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "88e671db248954c85caaa066f9288016",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel解读：2026年1-8月钢材出口：直接出口缓慢修复，间接出口高增形成对冲",
-  "url": "https://news.mysteel.com/a/26093010/27915C38C70D711F.html",
-  "summary": "",
-  "pub_time": "2026-09-30T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "bcfd22b17a53253a5ca19f9d1b75f80d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：机构点评居民房贷贴息政策，精准惠及刚需群体",
-  "url": "https://news.mysteel.com/a/26093010/F7AFD1D6CC3CDEBF.html",
-  "summary": "",
-  "pub_time": "2026-09-30T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "25ac93b46b0ebc0aed6515f1ca2ca931",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "QDPI 研究发现高粱食品的市场潜力",
-  "url": "",
-  "summary": "昆士兰州 DPI 根据高粱和小米食品的健康益处和无麸质状况确定了其国内营销机会。",
-  "pub_time": "2026-09-30T01:00:36Z",
-  "source": "GrainCentral",
-  "_cat": "基本金属",
-  "dedup_key": "ad8b3fa41a44ee845e850758457b35ff",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "QDPI research finds market potential for sorghum foods"
- },
- {
-  "title": "Mysteel月报：汽车行业月报（2026-9）",
-  "url": "https://news.mysteel.com/a/26093009/E0ABA85EAF59860A.html",
-  "summary": "",
-  "pub_time": "2026-09-30T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "14d0472d4e24df5be18e016a07466c66",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/产业经济",
-  "tags": [
-   "产业经济",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel月报：机械行业月报（2026-9）",
-  "url": "https://news.mysteel.com/a/26093009/71257493489CCC20.html",
-  "summary": "",
-  "pub_time": "2026-09-30T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "bc31eccee2893c368df77223fbcc97c1",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel月报：家电行业月报（2026-9）",
-  "url": "https://news.mysteel.com/a/26093009/954DB90110263C21.html",
-  "summary": "",
-  "pub_time": "2026-09-30T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "f5bde40832a8d2ee377486e247f853e6",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/产业经济",
-  "tags": [
-   "产业经济",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "广发期货：焦炭短期偏弱走势",
-  "url": "https://news.mysteel.com/a/26093009/F7A722DA6109C01F.html",
-  "summary": "",
-  "pub_time": "2026-09-30T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "32542b8fe4dcdc67a5c26a39fe714623",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "广发期货：焦煤建议空单持有",
-  "url": "https://news.mysteel.com/a/26093009/C788009F456CD089.html",
-  "summary": "",
-  "pub_time": "2026-09-30T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "0f83adff790b5fd705ad051fe4d9480e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "广发期货：铁矿石01合约逢高布局空单为主",
-  "url": "https://news.mysteel.com/a/26093009/8F731778EC839A75.html",
-  "summary": "",
-  "pub_time": "2026-09-30T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "85e67ae295aba9596a93a07750ecab5a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "广发期货：钢材操作上前期高位空单持有",
-  "url": "https://news.mysteel.com/a/26093009/CB6C62A916E34786.html",
-  "summary": "",
-  "pub_time": "2026-09-30T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "c953566abc27900f69f047f78096f0ef",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "瑞达期货：焦炭主力2701合约震荡运行",
-  "url": "https://news.mysteel.com/a/26093009/898B983DD02D1232.html",
-  "summary": "",
-  "pub_time": "2026-09-30T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "e4cb6a38e244898746041dcc4215a9f1",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "瑞达期货：热卷行情或陷区间整理",
-  "url": "https://news.mysteel.com/a/26093009/4CC60D0DD3D0E401.html",
-  "summary": "",
-  "pub_time": "2026-09-30T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "3c98822d5124f6ff8e4dd31fd51212f6",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "瑞达期货：锰硅2611合约震荡偏弱",
-  "url": "https://news.mysteel.com/a/26093009/BA238191945556D5.html",
-  "summary": "",
-  "pub_time": "2026-09-30T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "4ecc955f9302e5dd170af17b7d6d9414",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "一德期货：隔夜外盘贵金属多数小幅反弹",
-  "url": "https://news.mysteel.com/a/26093009/126093856C81BDBD.html",
-  "summary": "",
-  "pub_time": "2026-09-30T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "a54e79fb7dcb87d5dfb2319f44d69a71",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "广州期货：金银价格小幅反弹",
-  "url": "https://news.mysteel.com/a/26093009/AC7B1650C517C9D6.html",
-  "summary": "",
-  "pub_time": "2026-09-30T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "dcc6f99801fa1046c20a59d94d1adcb2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色期货早报：各品种多数上涨，多机构料铁矿石震荡运行",
-  "url": "https://news.mysteel.com/a/26093009/41667897D44F23C1.html",
-  "summary": "",
-  "pub_time": "2026-09-30T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "101a24dae64b9a202098cdbd498f6459",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel钢铁市场月度观察：十月钢市——负反馈未止，黑色系重心续降但空间有限",
-  "url": "https://news.mysteel.com/a/26093008/C2939F6418D1CD76.html",
-  "summary": "",
-  "pub_time": "2026-09-30T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "195add167978f68d095095d15a48b3e8",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "纽约金价29日涨超1%，重回4200美元上方",
-  "url": "https://news.mysteel.com/a/26093008/8D519F512DAA7F43.html",
-  "summary": "",
-  "pub_time": "2026-09-30T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "65fb3e333dc5f38aed5d46a7e9585e72",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
