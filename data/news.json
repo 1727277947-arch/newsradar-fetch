@@ -1,5 +1,31 @@
 [
  {
+  "title": "债券对冲减弱，养老基金开始使用黄金",
+  "url": "",
+  "summary": "对于因大宗商品价格波动而对矿业股票持谨慎态度的养老基金来说，金条提供了对黄金行业的投资，而无需承担拥有矿业公司的特定风险。",
+  "pub_time": "2026-10-02T23:22:00Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "0e9c99e21143ab6b1913400296f91fc3",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Pension funds use gold as bond hedge weakens"
+ },
+ {
   "title": "特朗普称韩国协议包括价值84亿美元的美国石油项目",
   "url": "",
   "summary": "美国总统唐纳德·特朗普周五表示，韩国与美国的投资协议现在包括用于提高石油采收率项目的 84 亿美元。首尔表示不同意这样的事情。 “韩国协议不断完善！84 亿美元用于提高石油采收率",
@@ -77,6 +103,33 @@
    "谷物"
   ],
   "en_title": "Why Stored Grain Insects Survive Heat Treatments"
+ },
+ {
+  "title": "泥石流过后，弗里波特的 Grasberg 铜厂产能达到 67%",
+  "url": "",
+  "summary": "该公司预计到明年年底将接近满负荷生产。",
+  "pub_time": "2026-10-02T19:07:49Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "13c841a6070bd38ce130adb487bd959f",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜",
+   "下滑"
+  ],
+  "en_title": "Freeport’s Grasberg copper mill reaches 67% after mudslide"
  },
  {
   "title": "自由港的 Grasberg 铜厂在去年的泥石流之后产能达到 67%",
