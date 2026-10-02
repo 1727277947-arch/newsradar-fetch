@@ -1,5 +1,193 @@
 [
  {
+  "title": "为什么储存的谷物昆虫在热处理后仍能存活",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-10-02T19:50:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "d2f8e1fa323909c10a07e6f4cfb79d64",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "谷物"
+  ],
+  "en_title": "Why Stored Grain Insects Survive Heat Treatments"
+ },
+ {
+  "title": "自由港的 Grasberg 铜厂在去年的泥石流之后产能达到 67%",
+  "url": "",
+  "summary": "自由港麦克莫兰公司（纽约证券交易所股票代码：FCX）第三季度其位于印度尼西亚的 Grasberg 铜金矿综合体的平均铣削率接近正常值的三分之二，一年前，一场泥石流导致 7 名工人死亡……去年泥石流首次出现后，自由港麦克莫兰铜金公司的 Grasberg 铜矿厂的铣削率达到了 67%",
+  "pub_time": "2026-10-02T19:07:49Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "55d60e0095f912e4b7e94b01112860dc",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "铜",
+   "下滑"
+  ],
+  "en_title": "Freeport’s Grasberg copper mill reaches 67% after last year’s mudslide"
+ },
+ {
+  "title": "尽管面临美国制裁风险，伊朗石油仍开始流向塔吉克斯坦",
+  "url": "",
+  "summary": "塔吉克斯坦宣布，目前正在从伊朗接收石油和石油产品，为这个燃料供应长期由俄罗斯主导的国家开辟了潜在的新能源来源。塔吉克斯坦能源和水资源部告诉 Asia-Plus 新消息，交付工作于 8 月底开始。",
+  "pub_time": "2026-10-02T19:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "ad5b68b45dad7b5ee3ee44c95a6a3703",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk"
+ },
+ {
+  "title": "嘉能可 (Glencore) 获得 RIGI 批准 4B 美元阿根廷铜项目",
+  "url": "",
+  "summary": "嘉能可 (LSE: GLEN) 已获得阿根廷政府批准，根据该国特别投资激励计划，其价值 40 亿美元（合 57 亿加元）的阿瓜里卡铜矿项目，扫清了重大障碍……嘉能可获得 RIGI 批准的 4B 美元阿根廷铜项目首先出现在",
+  "pub_time": "2026-10-02T18:45:04Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "c3967d08718204fa9a975886ab4b38c5",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜",
+   "锡"
+  ],
+  "en_title": "Glencore gets RIGI nod for $4B Argentina copper project"
+ },
+ {
+  "title": "原油价格从最糟糕水平回升，但仍大幅走低",
+  "url": "",
+  "summary": "(RTTNews) - 原油价格在当天早些时候暴跌后，在周五的交易时段中收复了一些失地，但仍大幅走低。",
+  "pub_time": "2026-10-02T18:40:11Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "d0e3955e7b910720efd848035c7cb6e8",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "走高"
+  ],
+  "en_title": "Crude Oil Prices Climb Well Off Worst Levels But Remain Sharply Lower"
+ },
+ {
+  "title": "奥西斯科计划为加斯佩大幅增加资源",
+  "url": "",
+  "summary": "Osisko Metals（多伦多证交所代码：OM；美国场外交易代码：OMZNF）预计，随着新钻探填补资源缺口以及更深矿化的增加，其位于魁北克省的 Gaspé 铜矿项目将变得更大……《Osisko 计划增加 Gaspé 资源量》的文章首先出现在《北方矿工》上。",
+  "pub_time": "2026-10-02T18:30:37Z",
+  "source": "NorthernMiner",
+  "_cat": "能源",
+  "dedup_key": "00a86b0c8fe6051498049f2568a16042",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气"
+  ],
+  "en_title": "Osisko plots major resource increase for Gaspé"
+ },
+ {
+  "title": "新的 8.5 亿美元债务协议使 Troilus 铜金项目更接近全额融资",
+  "url": "",
+  "summary": "新的债务融资协议使 Troilus Mining（多伦多证券交易所代码：TLG；美国场外交易代码：CHXMF）更接近获得在魁北克开发同名铜金项目所需的全部资金。德国 KfW IPEX 银行和法国...新的 8.5 亿美元债务协议使 Troilus 铜金项目更接近全额融资",
+  "pub_time": "2026-10-02T18:00:08Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "359db21d337dfac5caa71e4c8f652859",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "原油",
+   "铜"
+  ],
+  "en_title": "New $850M debt deal moves Troilus copper-gold project closer to full funding"
+ },
+ {
   "title": "伊利诺伊州玉米种植者寻求收获柴油成本减免",
   "url": "",
   "summary": "",
@@ -24,6 +212,33 @@
    "玉米"
   ],
   "en_title": "Illinois Corn Growers Seek Diesel Cost Relief for Harvest"
+ },
+ {
+  "title": "随着美国国债收益率从最初的暴跌中反弹，黄金价格走低",
+  "url": "",
+  "summary": "(RTTNews) - 黄金价格在周五交易日早些时候飙升，但在整个交易过程中表现出大幅下滑。",
+  "pub_time": "2026-10-02T17:38:09Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "03bda78c04d32b500f55de5daea46919",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "价"
+  ],
+  "en_title": "Gold Prices Turn Lower As Treasury Yields Rebound From Initial Slump"
  },
  {
   "title": "随着价格下跌，美国石油钻探规模不断增加",
@@ -211,33 +426,6 @@
   "en_title": "U.S. Deploys Patriots to Shield Saudi Oil and Qatari Gas Facilities"
  },
  {
-  "title": "嘉能可 (Glencore) 获得 RIGI 批准 4B 美元阿根廷铜项目",
-  "url": "",
-  "summary": "嘉能可 (LSE: GLEN) 已获得阿根廷政府批准，根据该国特别投资激励计划，其价值 40 亿美元（合 57 亿加元）的阿瓜里卡铜矿项目，扫清了重大障碍……嘉能可获得 RIGI 批准的 4B 美元阿根廷铜项目首先出现在",
-  "pub_time": "2026-10-02T14:24:04Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "c3967d08718204fa9a975886ab4b38c5",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "锡"
-  ],
-  "en_title": "Glencore gets RIGI nod for $4B Argentina copper project"
- },
- {
   "title": "TNM 深入研究：斐济的 Lion One 引领 8 月至 9 月的黄金检测",
   "url": "",
   "summary": "斐济、厄瓜多尔和美国的钻探报告了 8 月 17 日至 9 月 15 日期间的最高黄金结果，其中包括 Lion One Metals (TSXV: LIO)、Auro... TNM 后钻探：斐济的 Lion One 领先 8 月至 9 月的黄金分析结果，首先出现在《The Northern Miner》上。",
@@ -356,32 +544,6 @@
   "is_elite": false
  },
  {
-  "title": "奥西斯科计划为加斯佩大幅增加资源",
-  "url": "",
-  "summary": "Osisko Metals（多伦多证交所代码：OM；美国场外交易代码：OMZNF）预计，随着新钻探填补资源缺口以及更深矿化的增加，其位于魁北克省的 Gaspé 铜矿项目将变得更大……《Osisko 计划增加 Gaspé 资源量》的文章首先出现在《北方矿工》上。",
-  "pub_time": "2026-10-02T11:30:37Z",
-  "source": "NorthernMiner",
-  "_cat": "能源",
-  "dedup_key": "00a86b0c8fe6051498049f2568a16042",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气"
-  ],
-  "en_title": "Osisko plots major resource increase for Gaspé"
- },
- {
   "title": "世界银行为智利铜业巨头解锁14亿美元资金$",
   "url": "",
   "summary": "智利、赞比亚和阿根廷展示了矿产财富如何吸引资本、创造就业机会并建立矿山以外的经济。",
@@ -433,34 +595,6 @@
    "库存"
   ],
   "en_title": "WTI Sinks Nearly 4% as EU Weighs Emergency Stockpile Release"
- },
- {
-  "title": "新的 8.5 亿美元债务协议使 Troilus 铜金项目更接近全额融资",
-  "url": "",
-  "summary": "新的债务融资协议使 Troilus Mining（多伦多证券交易所代码：TLG；美国场外交易代码：CHXMF）更接近获得在魁北克开发同名铜金项目所需的全部资金。德国 KfW IPEX 银行和法国...新的 8.5 亿美元债务协议使 Troilus 铜金项目更接近全额融资",
-  "pub_time": "2026-10-02T10:45:08Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "359db21d337dfac5caa71e4c8f652859",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "原油",
-   "铜"
-  ],
-  "en_title": "New $850M debt deal moves Troilus copper-gold project closer to full funding"
  },
  {
   "title": "黄金在美国就业报告发布前小幅上涨",
@@ -542,33 +676,6 @@
    "燃料"
   ],
   "en_title": "UN Says Global Fuel Subsidies Could Top $1 Trillion"
- },
- {
-  "title": "高盛：美国柴油出口禁令将对拉丁美洲造成最严重打击",
-  "url": "",
-  "summary": "高盛表示，美国可能禁止出口柴油，这对拉丁美洲影响最大，尽管有报道称欧洲因此类禁令而遭受的痛苦最大。美国柴油进口量占墨西哥、厄瓜多尔、中国燃料消耗量的 50%",
-  "pub_time": "2026-10-02T08:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "贵金属",
-  "dedup_key": "b3db9d8ce36774221d48132dc0072017",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "锡"
-  ],
-  "en_title": "U.S. Diesel Export Ban Would Hit Latin America Hardest: Goldman"
  },
  {
   "title": "Mysteel：国庆假期热点速递（10月2日）",
@@ -742,7 +849,7 @@
  {
   "title": "BC First Nation 终止与Spanish Mountain Gold 的协议，股价暴跌",
   "url": "",
-  "summary": "SMG 正在该省的卡里布地区推进同名项目。",
+  "summary": "SMG 正在该省卡里布地区推进其同名项目。",
   "pub_time": "2026-10-01T20:56:11Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -976,62 +1083,6 @@
   "en_title": "Beaver Creek: Gold’s bond break puts juniors in play"
  },
  {
-  "title": "玉米库存上涨 35%，小麦库存下跌 14%",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-10-01T15:56:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "9bd60d6e22191f449e91fb402c2b0352",
-  "score": 84,
-  "priority": "P1",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "玉米",
-   "小麦",
-   "上涨",
-   "下跌",
-   "库存"
-  ],
-  "en_title": "Corn Stocks Rise 35%, Wheat Stocks Fall 14%"
- },
- {
-  "title": "Mayfair 为安大略黄金项目筹集 3.1 亿美元",
-  "url": "",
-  "summary": "Mayfair Gold（TSXV：MFG；NYSE-A：MINE）已与澳大利亚麦格理银行达成高达 3.1 亿美元（合 2.18 亿美元）的初步融资协议，以帮助开发其 Fenn-Gib 黄金项目... Mayfair 为安大略黄金项目筹集 3.1 亿美元的消息首先出现在《北方矿工》上。",
-  "pub_time": "2026-10-01T14:00:11Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "32b2156b1185bdf9f2dc2dc972c10f85",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Mayfair lines up $310M for Ontario gold project"
- },
- {
   "title": "纽约金价30日小幅上涨",
   "url": "https://news.mysteel.com/a/26100119/BF391D64DA3F2C1D.html",
   "summary": "",
@@ -1163,61 +1214,5 @@
    "谷物"
   ],
   "en_title": "Feedgrain Focus: Southern rain shows up in time"
- },
- {
-  "title": "原油价格在昨天大幅下跌后重新站稳脚跟",
-  "url": "",
-  "summary": "(RTTNews) - 原油价格在周三交易中强劲回升，继前一交易日大幅下跌后收复失地。",
-  "pub_time": "2026-09-30T18:45:24Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "aaa63edb40c2a8d6b778a203026b2c88",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "走强"
-  ],
-  "en_title": "Crude Oil Prices Regaining Ground After Yesterday's Significant Downturn"
- },
- {
-  "title": "金价在早盘飙升后回落至不变线附近",
-  "url": "",
-  "summary": "(RTTNews) - 周三早盘金价飙升，但在整个交易日中有所回落。",
-  "pub_time": "2026-09-30T18:23:21Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "5ea1fbd4042c304d196c05ab437e8346",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "价",
-   "大涨"
-  ],
-  "en_title": "Gold Prices Pull Back Near Unchanged Line After Early Surge"
  }
 ]
