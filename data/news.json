@@ -1,5 +1,31 @@
 [
  {
+  "title": "联合国称全球燃料补贴可能突破1万亿美元",
+  "url": "",
+  "summary": "联合国表示，今年油价冲击下的燃料补贴可能超过 1 万亿美元，并警告说，许多国家政府正在耗尽财政资源来维持补贴、燃油税削减或价格上限。联合国开发计划署 (UNDP) 报告中的估计表明",
+  "pub_time": "2026-10-02T09:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "254e12f4e835cab9fea44f8899e816ef",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "燃料"
+  ],
+  "en_title": "UN Says Global Fuel Subsidies Could Top $1 Trillion"
+ },
+ {
   "title": "高盛：美国柴油出口禁令将对拉丁美洲造成最严重打击",
   "url": "",
   "summary": "高盛表示，美国可能禁止出口柴油，这对拉丁美洲影响最大，尽管有报道称欧洲因此类禁令而遭受的痛苦最大。美国柴油进口量占墨西哥、厄瓜多尔、中国燃料消耗量的 50%",
@@ -25,6 +51,25 @@
    "锡"
   ],
   "en_title": "U.S. Diesel Export Ban Would Hit Latin America Hardest: Goldman"
+ },
+ {
+  "title": "Mysteel：国庆假期热点速递（10月2日）",
+  "url": "https://news.mysteel.com/a/26100216/C2441824C3C58196.html",
+  "summary": "",
+  "pub_time": "2026-10-02T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "d01276f89137784bc0e28a2fb02c4afe",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
  },
  {
   "title": "“十·一”黄金周，为什么越来越多人涌向主题公园？",
@@ -632,31 +677,6 @@
   "en_title": "Beaver Creek: Gold’s bond break puts juniors in play"
  },
  {
-  "title": "伯纳姆承诺采取“务实”的北海方针",
-  "url": "",
-  "summary": "安迪·伯纳姆在会议演讲中承诺对北海钻探采取“务实”态度。阿伯丁的居民表示，刻不容缓。米亚塔·范布拉 (Miatta Fanbulleh) 身穿必备的高反光夹克，周围都是辛苦劳作的石油和天然气工人，她的第一次部长级访问是一次艰难的经历。",
-  "pub_time": "2026-10-01T16:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "13424e893ac336043b66ca47cda2951f",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Burnham Promises “Pragmatic” North Sea Approach"
- },
- {
   "title": "玉米库存上涨 35%，小麦库存下跌 14%",
   "url": "",
   "summary": "",
@@ -1129,100 +1149,5 @@
    "库存"
   ],
   "en_title": "U.S. Crude Oil Inventories Unexpectedly Edge Modestly Higher"
- },
- {
-  "title": "Mysteel晚餐：焦炭首轮提降落地",
-  "url": "https://news.mysteel.com/a/26093017/F30620D15B5ACAE0.html",
-  "summary": "",
-  "pub_time": "2026-09-30T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "312bc87fbd64ac12a7a27493c1fdc5b7",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：9月31城松绑楼市，京沪广落地商品房销售制度改革细则",
-  "url": "https://news.mysteel.com/a/26093017/E31EBF8380C62133.html",
-  "summary": "",
-  "pub_time": "2026-09-30T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "2696da900b59f88d2c176a42598e77bf",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel晚餐：焦炭首轮提降落地，唐山钢坯亏损仍大",
-  "url": "https://news.mysteel.com/a/26093017/4B277B5C34C879CB.html",
-  "summary": "",
-  "pub_time": "2026-09-30T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "592745dc8a6d89e938320c8359bcf733",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "关键矿产日报：沁源县累计复产煤矿9座，9月铜、锂项目进展",
-  "url": "https://news.mysteel.com/a/26093017/6A8556DC8804A80A.html",
-  "summary": "",
-  "pub_time": "2026-09-30T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "b61d58df6a3aa5aa0de6c421728de3a1",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "每日钢市：2家钢厂涨价，节后钢价或“上有顶、下有底”",
-  "url": "https://news.mysteel.com/a/26093017/E1B70B30FF349924.html",
-  "summary": "",
-  "pub_time": "2026-09-30T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "12873e634a4614accc285f39b0acd3cd",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  }
 ]
