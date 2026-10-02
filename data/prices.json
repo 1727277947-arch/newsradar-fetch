@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03T05:46:02",
+ "updated_at": "2026-10-03T07:16:50",
  "spot_meta": {
   "policy": "stale_never_fill",
   "spot_page_used": "2026-09-30",
@@ -1234,12 +1234,12 @@
    "market": "国际",
    "kind": "future",
    "spot": null,
-   "future": 102.61,
+   "future": 102.25,
    "basis": null,
    "basis_pct": null,
-   "change": 0.3,
-   "change_pct": 0.29,
-   "trend": "up",
+   "change": -0.06,
+   "change_pct": -0.06,
+   "trend": "down",
    "source": "oilprice.com(期货)",
    "note": "期货价格(延迟)"
   },
