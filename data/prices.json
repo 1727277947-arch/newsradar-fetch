@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03T08:56:17",
+ "updated_at": "2026-10-03T10:21:14",
  "spot_meta": {
   "policy": "stale_never_fill",
   "spot_page_used": "2026-09-30",
@@ -6648,10 +6648,7 @@
    "reason": "今日打板 · 方向做多 · 实时+1.77% / 波幅3.67% / 打板分80: 进场≈3412.89, 止损3352.82, 止盈3533.02",
    "tier": 1,
    "rank": 1,
-   "is_today": true,
-   "contract_value": 33840.0,
-   "last_settle": 3325.0,
-   "change_pct": 1.77
+   "is_today": true
   }
  ],
  "hf_pool": [
@@ -6724,8 +6721,68 @@
   "date": "2026-10-03",
   "session": "afternoon",
   "ruleset": 3,
-  "name": "",
-  "symbol": ""
+  "symbol": "MA0",
+  "name": "甲醇",
+  "category": "化工",
+  "unit": "元/吨",
+  "price": 3384.0,
+  "direct": 1,
+  "dir_label": "做多",
+  "day_range_pct": 3.67,
+  "limit_score": 80,
+  "board": "疑似打板候选",
+  "dual": {
+   "st": "break_a",
+   "ref": 3275.0
+  },
+  "plan": {
+   "dir": "long",
+   "dir_label": "做多",
+   "entry": 3412.886,
+   "entry_alt": null,
+   "entry_alt_kind": null,
+   "sl": 3326.229,
+   "tp": 3586.2,
+   "sl_pct": 1.71,
+   "rr": 2.0,
+   "basis": "afternoon_last",
+   "k": 0.4,
+   "hit_rate": 0.233,
+   "note": "午后重算·转强确认进多; 止损ATR自适应, 2R落袋; 进场后立刻反向即离场"
+  },
+  "real_open": 3275.0,
+  "day_bias": "bull",
+  "day_ma": [
+   3194.8,
+   3170.15,
+   2814.97
+  ],
+  "est_margin": 3384.0,
+  "hands_in_100k": 29,
+  "volume": 660568,
+  "open_interest": 617789,
+  "mode": "追强做多",
+  "anchor": 3384.0,
+  "tp": 3586.2,
+  "sl": 3326.229,
+  "pullback": null,
+  "src_conflict": false,
+  "board_score": 0.983,
+  "day_conflict": null,
+  "reason": "午后重算 · 方向做多 · 现价3384: 进场≈3412.89, 止损3326.23, 止盈3586.2",
+  "tier": 1,
+  "rank": 1,
+  "is_today": true,
+  "plan_basis": "afternoon_last",
+  "afternoon_meta": {
+   "basis_price": 3384.0,
+   "atr": 144.43,
+   "k": 0.4,
+   "hit_rate": 0.233
+  },
+  "contract_value": 33840.0,
+  "last_settle": 3325.0,
+  "change_pct": 1.77
  },
  "trading_rules": [
   {
