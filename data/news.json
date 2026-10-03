@@ -768,32 +768,6 @@
   "en_title": "Europe's Soaring Gas Bill Is Sending Utilities Back to Coal"
  },
  {
-  "title": "日本的JERA成立石油储存公司来管理国家储备地点",
-  "url": "",
-  "summary": "随着中东危机颠覆了资源匮乏的日本七国集团经济中的石油采购市场，日本能源公司JERA正在创建一家石油储存公司，该公司将专门管理JERA目前运营的国家石油储存基地的运营。JERA Co., Inc.",
-  "pub_time": "2026-10-02T13:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "6b7c1c72ac8c0db6ddb23bbf74193a77",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Japan’s JERA Creates Oil Storage Firm to Manage National Reserve Sites"
- },
- {
   "title": "9月非农不及预期！美股指期货、黄金、白银直线拉升",
   "url": "https://news.mysteel.com/a/26100221/0C50E13C4ACEA6B8.html",
   "summary": "",
@@ -1033,59 +1007,5 @@
    "谷物"
   ],
   "en_title": "How Grain Facilities Are Rethinking Equipment Reliability"
- },
- {
-  "title": "人工智能如何重塑粮食供应链和电梯运营",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-10-01T21:03:00Z",
-  "source": "Grainnet",
-  "_cat": "基本金属",
-  "dedup_key": "3339d5d1cb988372a348fd3ad835486b",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡",
-   "谷物",
-   "供应"
-  ],
-  "en_title": "How AI Is Reinventing Grain Supply Chains and Elevator Operations"
- },
- {
-  "title": "BC First Nation 终止与Spanish Mountain Gold 的协议，股价暴跌",
-  "url": "",
-  "summary": "SMG 正在该省卡里布地区推进其同名项目。",
-  "pub_time": "2026-10-01T20:56:11Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "65b57227e00c807d86f224d441152743",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "BC First Nation terminates agreements with Spanish Mountain Gold, shares plunge"
  }
 ]
