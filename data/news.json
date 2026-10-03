@@ -1195,56 +1195,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "新的推动力，扩大昆士兰州的乙醇授权",
-  "url": "",
-  "summary": "昆士兰州议员正在寻求彻底修改该州的乙醇法律，其改革旨在通过规定最低水平、加强合规性和堵住漏洞来增加需求。",
-  "pub_time": "2026-10-01T07:00:42Z",
-  "source": "GrainCentral",
-  "_cat": "基本金属",
-  "dedup_key": "addd5d62e13bd3dd086e0da3af577b99",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "New push to back, expand ethanol mandate in Qld"
- },
- {
-  "title": "饲料粮焦点：南方雨季及时出现",
-  "url": "",
-  "summary": "大麦价格下跌了 10 美元/吨，因为适度的新作物产量开始渗透到饥饿的北方市场，而零星降雨有助于支撑南方的产量前景。",
-  "pub_time": "2026-10-01T06:50:41Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "58578c7396022048cab7ec903e379d71",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "谷物"
-  ],
-  "en_title": "Feedgrain Focus: Southern rain shows up in time"
  }
 ]
