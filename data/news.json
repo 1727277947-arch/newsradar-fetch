@@ -1,5 +1,50 @@
 [
  {
+  "title": "到 2035 年，拉丁美洲陆上风电容量可能增加一倍",
+  "url": "",
+  "summary": "拉丁美洲的一些国家一直在迅速扩大其风能产能，以实现能源结构多样化并加强能源安全，并计划在未来十年进行更多的扩张。巴西和墨西哥处于领先地位，该地区的其他几个国家也处于领先地位。",
+  "pub_time": "2026-10-03T15:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "318b79ff34359ba5d9f8613824961ce8",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡"
+  ],
+  "en_title": "Latin America Could Double Its Onshore Wind Capacity by 2035"
+ },
+ {
+  "title": "国际能源署：已释放约3.25亿桶战略石油储备",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707668.shtml",
+  "summary": "国际能源署日前发布公告显示，该机构今年3月宣布计划释放的4亿桶战略石油储备中，目前已释放约3.25亿桶",
+  "pub_time": "2026-10-03T14:27:56Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "0d578a21132e077c96180e1c70e46fdc",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "“北大仓”百余台农机昼夜不停抢收水稻 确保秋粮归仓",
   "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707632.shtml",
   "summary": "王妮娜 高鹏飞)3日，黑龙江水稻秋收进入割晒收获关键期，北大荒集团建三江分公司所属八五九农场、大兴农场、前进农场等多个农场开启昼夜抢收模式，防范降温、降雨造成粮食倒伏、霉变，确保秋粮归仓",
@@ -1150,31 +1195,5 @@
    "基本金属"
   ],
   "en_title": "Elevra fires up NAL lithium mine expansion"
- },
- {
-  "title": "Beaver Creek：黄金债券断裂让初级投资者参与其中",
-  "url": "",
-  "summary": "这种分歧给矿业投资者提出了问题。",
-  "pub_time": "2026-10-01T16:00:00Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "1e86c69efa0e1a43a7e645b9037bec56",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Beaver Creek: Gold’s bond break puts juniors in play"
  }
 ]
