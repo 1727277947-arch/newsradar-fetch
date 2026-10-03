@@ -1,5 +1,62 @@
 [
  {
+  "title": "西部陆海新通道核心物流节点柳州铁路港国庆假期调车忙",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707590.shtml",
+  "summary": "李德 赵波 张艺霖)国庆假期，广西柳州铁路港里门吊起落，装卸繁忙。作为西部陆海新通道核心物流节点，柳州铁路港依托“铁江海”联运模式，日均300余车货物从这里集结始发，将钢材、机械、新能源汽车等货品送往全球各地",
+  "pub_time": "2026-10-03T11:37:19Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "b0b0cb7598a66d27fbbfe9783997afe1",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "“星辰+黄金”碰撞出新火花 吉林博物馆游持续升温",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707581.shtml",
+  "summary": "记者 苍雁 石洪宇)今年国庆假期，位于吉林省桦甸市夹皮沟镇的黄金博物馆热度持续攀升。凭借深厚的黄金文化底蕴，该馆成为吉林地区文旅热门打卡地。随着“吉林五号”陨石在馆内开展巡展，前来感受“星辰+黄金”独特魅力的游客已近2万人次",
+  "pub_time": "2026-10-03T11:10:40Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "563852d5e0c7e9fa81402ca7778fb2d3",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：国庆假期热点速递（10月3日）",
+  "url": "https://news.mysteel.com/a/26100318/FE1FAD01C0CE5BF9.html",
+  "summary": "",
+  "pub_time": "2026-10-03T10:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "9c26db19f2b63d42ede48da8a0bcf713",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "债券对冲减弱，养老基金开始使用黄金",
   "url": "",
   "summary": "对于因大宗商品价格波动而对矿业股票持谨慎态度的养老基金来说，金条提供了对黄金行业的投资，而无需承担拥有矿业公司的特定风险。",
@@ -1100,43 +1157,5 @@
    "黄金"
   ],
   "en_title": "Beaver Creek: Gold’s bond break puts juniors in play"
- },
- {
-  "title": "纽约金价30日小幅上涨",
-  "url": "https://news.mysteel.com/a/26100119/BF391D64DA3F2C1D.html",
-  "summary": "",
-  "pub_time": "2026-10-01T11:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "09e7aaa57fd7e06e37ac82786be5b414",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "西部黄金：全资子公司新疆美盛临时停产",
-  "url": "https://news.mysteel.com/a/26100119/39C5A13BFB452176.html",
-  "summary": "",
-  "pub_time": "2026-10-01T11:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "56716586c7456f08e4f2357a7366fa01",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  }
 ]
