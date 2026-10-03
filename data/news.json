@@ -1,5 +1,30 @@
 [
  {
+  "title": "伊朗正在失去对霍尔木兹海峡的部分影响力",
+  "url": "",
+  "summary": "来自波斯湾的原油流量已恢复到接近战前的水平，但最新数据显示，大部分石油正在通过战前不存在的航线和运输安排到达市场，这引发了伊朗是否正在失去在霍尔海峡的影响力的问题",
+  "pub_time": "2026-10-03T19:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "38b5a5ef150a044b89a6349de67626db",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Iran Is Losing Some of Its Leverage Over the Strait of Hormuz"
+ },
+ {
   "title": "新研究加强了变暖与极端天气之间的联系",
   "url": "",
   "summary": "越来越多的证据将气候变化与恶劣天气事件联系起来。 2004 年，一组研究人员发表了首批研究之一，将人为造成的气候变化与特定的极端天气事件联系起来——2003 年欧洲夏季热浪，导致 70,000 多人死亡",
@@ -1089,109 +1114,5 @@
    "库存"
   ],
   "en_title": "ArcelorMittal Stock Getting Very Oversold"
- },
- {
-  "title": "Beaver Creek：黄金债券断裂让初级投资者参与其中",
-  "url": "",
-  "summary": "科罗拉多州比弗河自 2022 年初以来，尽管美国债券收益率攀升，黄金价格仍上涨了一倍多，贵金属峰会上的投资者表示，这一突破可能预示着金价......",
-  "pub_time": "2026-10-01T19:00:17Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "7590e02b504261761e47cc1d27adc7a4",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Beaver Creek: Gold’s bond break puts juniors in play"
- },
- {
-  "title": "原油再次显着上涨",
-  "url": "",
-  "summary": "(RTTNews) - 继前一交易日大幅反弹后，周四交易期间原油价格再次大幅上涨。",
-  "pub_time": "2026-10-01T18:32:16Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "5a3359cc319ce12b0fac89c714689bca",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Crude Oil Showing Another Significant Move To The Upside"
- },
- {
-  "title": "随着收益率大幅回落，黄金价格上涨",
-  "url": "",
-  "summary": "(RTTNews) - 金价在前一交易日小幅上涨但远低于最高水平后，在周四的交易中出现了进一步上涨。",
-  "pub_time": "2026-10-01T17:43:56Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "74507ace1995a664166e8c1e7394f0f7",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "价"
-  ],
-  "en_title": "Gold Prices Moving To The Upside As Yields Pull Back Sharply"
- },
- {
-  "title": "Elevra 启动 NAL 锂矿扩建",
-  "url": "",
-  "summary": "Elevra Lithium（澳大利亚证券交易所股票代码：ELV；纳斯达克股票代码：ELVR）已开始对其位于魁北克省的北美锂矿进行价值 3.66 亿美元（约合 2.71 亿美元）的扩建，并正在就其搬迁过程中的另一项价格保护承购事宜进行谈判...",
-  "pub_time": "2026-10-01T17:30:00Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "5e4f929640d60045581baeb611a82e28",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Elevra fires up NAL lithium mine expansion"
  }
 ]
