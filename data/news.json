@@ -1,5 +1,32 @@
 [
  {
+  "title": "黄金交易平息、锂股退出，50 家矿业公司损失 2640 亿美元",
+  "url": "",
+  "summary": "黄金股下跌，铜矿商无视创纪录的价格，只有一家锂生产商幸免于难，这是该排名历史上第二糟糕的一个月。",
+  "pub_time": "2026-10-04T20:00:34Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "f7a5dfac7a6af13297d7a588c5df837a",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "库存"
+  ],
+  "en_title": "Top 50 mining companies take $264 billion hit as gold trade unwinds, lithium stocks exit"
+ },
+ {
   "title": "浮动电厂正在开辟新能源前沿",
   "url": "",
   "summary": "可再生能源革命的空间已经耗尽。公用事业规模的太阳能和风电场占用大量土地，并且面临着来自计划开发社区的越来越多的法律阻力。然而，清洁能源资源仍需大量扩张",
@@ -89,6 +116,31 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
+ },
+ {
+  "title": "全球最大的 50 家矿业公司",
+  "url": "",
+  "summary": "黄金股下跌，铜矿商无视创纪录的价格，只有一家锂生产商幸免于难，这是该排名历史上第二糟糕的一个月。",
+  "pub_time": "2026-10-04T07:01:00Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "60ff97299d49e3aedb4f4cd90562a364",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "The top 50 biggest mining companies in the world"
  },
  {
   "title": "伊拉克将200万桶原油运出霍尔木兹海峡交货",
@@ -293,58 +345,5 @@
    "原油"
   ],
   "en_title": "Trump Says South Korea Deal Includes $8.4 Billion U.S. Oil Project"
- },
- {
-  "title": "嘉能可 (Glencore) 获得 RIGI 批准 4B 美元阿根廷铜项目",
-  "url": "",
-  "summary": "嘉能可 (LSE: GLEN) 已获得阿根廷政府批准，根据该国特别投资激励计划，其价值 40 亿美元（合 57 亿加元）的阿瓜里卡铜矿项目，扫清了重大障碍……嘉能可获得 RIGI 批准的 4B 美元阿根廷铜项目首先出现在",
-  "pub_time": "2026-10-02T20:30:04Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "c3967d08718204fa9a975886ab4b38c5",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "锡"
-  ],
-  "en_title": "Glencore gets RIGI nod for $4B Argentina copper project"
- },
- {
-  "title": "为什么储存的谷物昆虫在热处理后仍能存活",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-10-02T19:50:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "d2f8e1fa323909c10a07e6f4cfb79d64",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "谷物"
-  ],
-  "en_title": "Why Stored Grain Insects Survive Heat Treatments"
  }
 ]
