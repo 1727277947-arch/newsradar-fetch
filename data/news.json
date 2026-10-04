@@ -1,5 +1,68 @@
 [
  {
+  "title": "马来西亚将从11月起取消部分黄金产品的10%关税",
+  "url": "https://news.mysteel.com/a/26100408/84AE5ABA51CBAE36.html",
+  "summary": "",
+  "pub_time": "2026-10-04T00:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "ee8663145d54e424d5bdd93b27101f48",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "伊朗战争展示了阿布扎比国家石油公司的人工智能真正能做什么",
+  "url": "",
+  "summary": "石油公司多年来一直在使用人工智能来加快钻探速度、预测设备故障并从现有油田中榨取更多产量。阿联酋国营石油巨头阿布扎比国家石油公司(ADNOC)现在正在研究当问题不是效率而是一场最初削减阿联酋石油出口的战争时，同样的技术可以发挥什么作用。",
+  "pub_time": "2026-10-03T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "c07901ed77fb25b94e2594ef5a47606b",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "The Iran War Is Showing What ADNOC’s AI Can Really Do"
+ },
+ {
+  "title": "国际能源署：已释放约3.25亿桶战略石油储备",
+  "url": "https://news.mysteel.com/a/26100407/8CA48076441CA5A4.html",
+  "summary": "",
+  "pub_time": "2026-10-03T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "58c0f4d9f099d005f906b724cb72e3e3",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "伊朗正在失去对霍尔木兹海峡的部分影响力",
   "url": "",
   "summary": "来自波斯湾的原油流量已恢复到接近战前的水平，但最新数据显示，大部分石油正在通过战前不存在的航线和运输安排到达市场，这引发了伊朗是否正在失去在霍尔海峡的影响力的问题",
@@ -91,6 +154,25 @@
    "中文",
    "国内",
    "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel宏观周报：央行加码结构性工具宽松，G7将释放1亿桶战略石油储备",
+  "url": "https://news.mysteel.com/a/26100322/8FCB3D1418C4FAC1.html",
+  "summary": "",
+  "pub_time": "2026-10-03T14:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "b83d7317572f7c3af50441ebfdc01062",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/金融政策",
+  "tags": [
+   "金融政策",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
   ],
   "is_elite": false
  },
@@ -617,7 +699,7 @@
  },
  {
   "title": "钢材下游周报：首套房贷贴息落地，车企9月销量集中公布",
-  "url": "https://news.mysteel.com/a/26100223/24E17A9F0ECE26D2.html",
+  "url": "https://news.mysteel.com/a/26100223/971FCFB33BF52C82.html",
   "summary": "",
   "pub_time": "2026-10-02T15:00:00Z",
   "source": "上海钢联Mysteel",
@@ -741,35 +823,8 @@
   "en_title": "TNM Drill Down: Lion One in Fiji leads gold assays for August-September"
  },
  {
-  "title": "欧洲飙升的天然气费用使公用事业公司重新转向煤炭",
-  "url": "",
-  "summary": "欧洲的能源危机尚未结束。随着欧洲人面临漫长的冬季，整个非洲大陆的天然气价格仍然居高不下。应对欧洲持续依赖进口液化天然气而引发的能源危机",
-  "pub_time": "2026-10-02T14:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "a17ef4f0d1ed9cb2ecc06d66237ae99a",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气",
-   "煤炭"
-  ],
-  "en_title": "Europe's Soaring Gas Bill Is Sending Utilities Back to Coal"
- },
- {
   "title": "9月非农不及预期！美股指期货、黄金、白银直线拉升",
-  "url": "https://news.mysteel.com/a/26100221/0C50E13C4ACEA6B8.html",
+  "url": "https://news.mysteel.com/a/26100221/590637CAF8E496ED.html",
   "summary": "",
   "pub_time": "2026-10-02T13:00:00Z",
   "source": "上海钢联Mysteel",
@@ -937,49 +992,5 @@
    "棉花"
   ],
   "en_title": "Cotton planting starts as growers face drier season"
- },
- {
-  "title": "亨里克・亚当就任世界钢铁协会总干事",
-  "url": "https://news.mysteel.com/a/26100208/A1ABBD4456092016.html",
-  "summary": "",
-  "pub_time": "2026-10-02T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "aaf5d6ceef254a0b7ec44f1940c454e5",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "格陵兰矿业公司在斯卡尔加德发现镓和钒",
-  "url": "",
-  "summary": "潜在的含钒钛磁铁矿、铁和镓价值流正在与钯-铂-金流程一起进行评估。",
-  "pub_time": "2026-10-01T22:54:06Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "87a042f9f878d420fda9f5e2d66fd368",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "Greenland Mines makes gallium, vanadium discovery at Skaergaard"
  }
 ]
