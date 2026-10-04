@@ -215,25 +215,6 @@
   "is_elite": false
  },
  {
-  "title": "“星辰+黄金”碰撞出新火花 吉林博物馆游持续升温",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707581.shtml",
-  "summary": "记者 苍雁 石洪宇)今年国庆假期，位于吉林省桦甸市夹皮沟镇的黄金博物馆热度持续攀升。凭借深厚的黄金文化底蕴，该馆成为吉林地区文旅热门打卡地。随着“吉林五号”陨石在馆内开展巡展，前来感受“星辰+黄金”独特魅力的游客已近2万人次",
-  "pub_time": "2026-10-03T11:10:40Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "563852d5e0c7e9fa81402ca7778fb2d3",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel：国庆假期热点速递（10月3日）",
   "url": "https://news.mysteel.com/a/26100318/FE1FAD01C0CE5BF9.html",
   "summary": "",
@@ -940,57 +921,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "每日市场电讯2026年10月2日",
-  "url": "",
-  "summary": "一夜之间，由于黑海供应紧张，小麦价格有所回升，股市传言使玉米价格小幅反弹，大豆价格下跌。",
-  "pub_time": "2026-10-02T02:35:57Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "d6de0762f21405d85bded3722e125139",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品"
-  ],
-  "en_title": "Daily Market Wire 2 October 2026"
- },
- {
-  "title": "棉花种植开始，种植者面临旱季",
-  "url": "",
-  "summary": "干旱天气意味着澳大利亚目前正在种植的棉花产量预计为 270 万包，比去年下降 40%。",
-  "pub_time": "2026-10-02T01:46:30Z",
-  "source": "GrainCentral",
-  "_cat": "基本金属",
-  "dedup_key": "8f52863d94460ec943ec3e54f527d345",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡",
-   "棉花"
-  ],
-  "en_title": "Cotton planting starts as growers face drier season"
  }
 ]
