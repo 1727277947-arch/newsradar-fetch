@@ -1,5 +1,77 @@
 [
  {
+  "title": "OPEC+ 11 月配额维持在 3101 万桶/日",
+  "url": "",
+  "summary": "欧佩克+周日同意维持下个月的石油产量配额不变，符合预期，此前该组织取消了今年早些时候的减产措施，以抵消中东日益严重的供应短缺。 10 月和 11 月的总数为 31.01",
+  "pub_time": "2026-10-05T07:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "81c277caa99c4a48ea67c9db8b65d6e9",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "OPEC+ Holds November Quota at 31.01 Million Barrels Daily"
+ },
+ {
+  "title": "9月中国大宗商品价格指数创四年半新高",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-05/10708105.shtml",
+  "summary": "中新社北京10月5日电 (记者 阮煜琳)中国物流与采购联合会5日发布数据显示，9月份，中国大宗商品价格指数为137.6点，环比上涨4.1%，同比上涨22.9%，创四年半新高",
+  "pub_time": "2026-10-05T06:03:37Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "c6c028969099697f2a5282113bd8ae03",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "报道称霍尔木兹原油流量达到战前水平，油价下跌",
+  "url": "",
+  "summary": "Kpler 的一份报告显示，流出霍尔木兹海峡的流量现已高于战前水平，原油价格早盘下跌，但布伦特原油价格仍高于 100 美元。该公司上周成为头条新闻，称尽管胡塞武装，但通过霍尔木兹的油轮运输量已接近战前水平",
+  "pub_time": "2026-10-05T05:26:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "a005c1d530512aa41f6b0b49da84220f",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "下跌"
+  ],
+  "en_title": "Oil Prices Fall as Reports Say Hormuz Crude Flows Top Pre-War Levels"
+ },
+ {
   "title": "OPEC+：对11月的石油产量配额不作任何调整",
   "url": "https://news.mysteel.com/a/26100508/2682733A40EC3D45.html",
   "summary": "",
@@ -116,25 +188,6 @@
    "燃料"
   ],
   "en_title": "Private Equity Firms Double Down on Fossil Fuels"
- },
- {
-  "title": "从“看一眼”到“买一单” 外国游客走进中国日常",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707968.shtml",
-  "summary": "中新社北京10月4日电 (记者 应妮)2026年国庆黄金周，中国的城市街头和机场不时可见：外国游客拖着空行李箱落地，离境时塞满了无人机、运动相机、国潮服饰、中医艾灸盒......甚至额外再买几个新箱子装“战利品”",
-  "pub_time": "2026-10-04T13:04:17Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "0d8ee2e8bc632dcfee26ff32170c65a7",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
  },
  {
   "title": "Mysteel：国庆假期热点速递（10月4日）",
