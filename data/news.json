@@ -1,5 +1,374 @@
 [
  {
+  "title": "东南亚油气并购市场升温",
+  "url": "",
+  "summary": "东南亚的上游并购 (M&A) 话题已从国际石油公司 (IOC) 退出转向谁买入进入。Rystad Energy 的研究显示，未来将出现一个竞争周期，在剩余时间内将提供 96 亿美元的上游资产",
+  "pub_time": "2026-10-05T19:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "184854d38a01623bccc23013a441306e",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "天然气",
+   "锡"
+  ],
+  "en_title": "Southeast Asia’s Oil and Gas M&A Market Is Heating Up"
+ },
+ {
+  "title": "自由港液化天然气 (LNG) 在 2 号列车停运后增加天然气摄入量",
+  "url": "",
+  "summary": "周五，自由港液化天然气公司 (Freeport LNG) 进行维护工作，关闭了三条液化列车中的一条，周一将天然气进口量恢复到正常水平，使美国天然气需求的主要来源有望恢复到正常水平。德克萨斯州液化天然气出口工厂的天然气流量有望达到",
+  "pub_time": "2026-10-05T18:45:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "0380181dca2034a4ff73706350ab48c8",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气"
+  ],
+  "en_title": "Freeport LNG Ramps Up Gas Intake After Train 2 Shutdown"
+ },
+ {
+  "title": "原油价格再次显着下跌",
+  "url": "",
+  "summary": "(RTTNews) - 原油价格在周一交易中大幅走低，加剧了上周五交易日的大幅下跌。",
+  "pub_time": "2026-10-05T18:36:21Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "9a00d16cdaa24c44f781dd5fb1b17852",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价"
+  ],
+  "en_title": "Crude Oil Prices Showing Another Significant Move To The Downside"
+ },
+ {
+  "title": "CHS 扩建解决美国粮食储存短缺问题",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-10-05T18:21:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "587a643824e76dad30f3177e06e82d6c",
+  "score": 84,
+  "priority": "P1",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "谷物",
+   "下跌"
+  ],
+  "en_title": "CHS Expansion Addresses U.S. Grain Storage Shortfall"
+ },
+ {
+  "title": "Cambria 计划于 2027 年底重启 Premier 工厂",
+  "url": "",
+  "summary": "坎布里亚金矿公司 (Cambria Gold Mines)（TSXV：CAMB；美国场外交易代码：CAMVF）计划在明年年底再次重启不列颠哥伦比亚省北部的 Premier 金厂，因为地下进料不足导致其脱轨。Cambria 的目标是 2027 年底重启 Premier 金厂，首先出现在《北方矿工》上。",
+  "pub_time": "2026-10-05T17:59:22Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "9f716932dbe249fad404c6d1bbcaefb8",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Cambria targets late 2027 Premier mill restart"
+ },
+ {
+  "title": "巴里克在坦桑尼亚获得 15 年期的 North Mara 许可证",
+  "url": "",
+  "summary": "坦桑尼亚已将巴里克矿业公司（Barrick Mining）（多伦多证券交易所股票代码：ABX；纽约证券交易所股票代码：B）的北马拉金矿许可证续签 15 年，在该公司考虑扩张之际确保了其经营权。北……巴里克在坦桑尼亚获得 15 年北马拉许可证的消息首先出现在《北方矿工》上。",
+  "pub_time": "2026-10-05T17:52:14Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "9a94a8e9cd26dbdf25e1519d271bc18a",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Barrick secures 15-year North Mara licences in Tanzania"
+ },
+ {
+  "title": "美元和国债收益率走高，金价小幅走低",
+  "url": "",
+  "summary": "(RTTNews) - 在当天早​​些时候出现一些走强之后，金价在周一交易时段小幅走低。",
+  "pub_time": "2026-10-05T17:44:40Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "1754b4d8c761ae56238181bf614f5e8e",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Gold Edging Lower Amid Higher U.S. Dollar, Treasury Yields"
+ },
+ {
+  "title": "由于美国封锁阻碍原油出口，伊朗石油部长辞职",
+  "url": "",
+  "summary": "由于美国的封锁将该国的原油出口和石油收入推向零，伊朗石油部长辞职，将伊朗最重要行业的控制权交给了伊朗国家石油公司负责人。总统马苏德·佩泽什基安 (Masoud Pezeshkian) 周日接受了莫森·帕克内贾德 (Mohsen Paknejad) 的辞职，并",
+  "pub_time": "2026-10-05T17:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "8e1102a30e0411c3b5768cab8b7757b5",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "出口"
+  ],
+  "en_title": "Iran’s Oil Minister Resigns as U.S. Blockade Chokes Crude Exports"
+ },
+ {
+  "title": "德银：2027年白银短缺可能转为过剩",
+  "url": "",
+  "summary": "德意志银行在一份新报告中表示，白银库存上升和工业需求下降最早可能在明年引发供应过剩。白银现货价格可能平均...后白银短缺可能会在 2027 年转为过剩：德意志银行首先出现在《北方矿工》上。",
+  "pub_time": "2026-10-05T17:10:59Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "1b40364b4fd62b2f815c13d1b09901d7",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "白银",
+   "短缺"
+  ],
+  "en_title": "Silver shortage could flip to surplus in 2027: Deutsche"
+ },
+ {
+  "title": "印度国营公司 BPCL 准备发行 30 亿美元债券为巴西石油项目提供资金",
+  "url": "",
+  "summary": "印度国有炼油商巴拉特石油公司 (BPCL) 准备发行 30 亿美元债券，为其在巴西大型海上石油开发项目中所占份额提供资金，印度公司正在向国际上游扩张，以确保原油供应。 BPCL，印度第二大邦",
+  "pub_time": "2026-10-05T16:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "e5d9dc025db221430f1290489479e588",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Indian State Firm BPCL Readies $3-Billion Bond to Fund Brazil oil Project"
+ },
+ {
+  "title": "袭击索赔传出，沙特炼油厂可能发生火灾",
+  "url": "",
+  "summary": "周一有报道称，沙特阿拉伯吉达北部的拉比格炼油和石化综合设施可能遭到袭击，但沙特当局迄今尚未证实发生了袭击。伊朗塔斯尼姆通讯社援引也门消息人士的话报道称，杰德的一座炼油厂",
+  "pub_time": "2026-10-05T15:31:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "c4bafc1760d1c167a7893d65c4e075ff",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "炼厂"
+  ],
+  "en_title": "Possible Fire Reported at Saudi Refinery as Attack Claims Circulate"
+ },
+ {
+  "title": "Surge Battery 提高内华达锂项目的回报并降低成本",
+  "url": "",
+  "summary": "PFS 概述了一项为期 42 年的露天开采作业，该作业将在不爆破的情况下开采粘土岩，并在现场工厂进行加工。",
+  "pub_time": "2026-10-05T15:13:28Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "cad513ce8b4ef2db734dd11fa8e084aa",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "大涨"
+  ],
+  "en_title": "Surge Battery boosts returns, cuts costs for Nevada lithium project"
+ },
+ {
+  "title": "最高法院对埃克森美孚和森科尔提起博尔德气候诉讼",
+  "url": "",
+  "summary": "今天，美国最高法院将听取关于向科罗拉多州法院提起的诉讼是否可以继续进行的争论，该诉讼要求两家主要石油公司就博尔德县遭受的气候变化相关损害进行赔偿。以下是简短版本：总部位于加拿大的 Suncor Energy Inc.",
+  "pub_time": "2026-10-05T15:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "5ee042f7b179020e47acc18c5e6a793b",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "走强"
+  ],
+  "en_title": "Supreme Court Takes Up Boulder Climate Suit Against Exxon and Suncor"
+ },
+ {
+  "title": "沙特阿美首席执行官警告石油库存“少得可怕”",
+  "url": "",
+  "summary": "沙特阿美首席执行官阿明·纳赛尔周一警告称，自伊朗战争爆发以来，全球石油供应总量已损失近30亿桶，相当于同期正常情况下通过霍尔木兹海峡运输的原油和产品的一半左右，导致全球库存“严重不足”。",
+  "pub_time": "2026-10-05T14:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "a3a8b700c4f6d298c2ad0b68cdb85304",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "库存"
+  ],
+  "en_title": "Aramco CEO Warns Oil Inventories Are ‘Scarily Thin’"
+ },
+ {
   "title": "卢比奥开启冰岛北约四天之行讨论北极安全",
   "url": "",
   "summary": "美国国务卿马可·卢比奥将于 10 月 5 日至 8 日前往冰岛、希腊和葡萄牙，就安全、国防、能源、经济合作和技术问题进行会谈，因为北约盟国面临着对俄罗斯军事活动和中东持续不稳定日益增长的安全担忧。卢比奥将会",
@@ -157,6 +526,32 @@
   "en_title": "Japan Rules Out More Reserve Releases After G7 Pledges 100 Million Barrels"
  },
  {
+  "title": "世界银行支持智利铜业巨头$1.4B",
+  "url": "",
+  "summary": "世界银行集团正在支持智利国有 Codelco 所使用的融资结构，作为矿产资源丰富的国家寻求吸引长期私人资本同时减少采矿业的模式......世界银行为智利铜业巨头提供 1.4B 美元支持的帖子首先出现在《北方矿业》上。",
+  "pub_time": "2026-10-05T11:03:00Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "a0856834b32dba85f91ebd6a2e9d7859",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜"
+  ],
+  "en_title": "World Bank backs $1.4B for Chile’s copper giant"
+ },
+ {
   "title": "随着美联储加息押注减弱，金价小幅走高",
   "url": "",
   "summary": "(RTTNews) - 由于投资者减少了对美联储激进政策紧缩周期的押注，金价周一走高，从早盘下跌中恢复过来。",
@@ -210,33 +605,6 @@
   "en_title": "Oil Prices Little Changed In Volatile Trade"
  },
  {
-  "title": "G7 宣布释放 1 亿桶库存，柴油利润下滑",
-  "url": "",
-  "summary": "七国集团宣布释放 1 亿桶原油和柴油，压低了上个月创下历史新高的中间馏分油炼油厂利润率。未来四个月开始释放库存以及美国柴油出口禁令的风险降低，导致 ICE 柴油价格上涨",
-  "pub_time": "2026-10-05T09:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "3ef2feb43c7a63cc9352f44ccbaa2339",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "下滑",
-   "库存"
-  ],
-  "en_title": "Diesel Margins Slide as G7 Announces 100 Million Barrel Stocks Release"
- },
- {
   "title": "Mysteel：国庆假期热点速递（10月5日）",
   "url": "https://news.mysteel.com/a/26100517/92AE6168F603AA48.html",
   "summary": "",
@@ -256,31 +624,6 @@
   "is_elite": false
  },
  {
-  "title": "OPEC+ 11 月配额维持在 3101 万桶/日",
-  "url": "",
-  "summary": "欧佩克+周日同意维持下个月的石油产量配额不变，符合预期，此前该组织取消了今年早些时候的减产措施，以抵消中东日益严重的供应短缺。 10 月和 11 月的总数为 31.01",
-  "pub_time": "2026-10-05T07:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "81c277caa99c4a48ea67c9db8b65d6e9",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "OPEC+ Holds November Quota at 31.01 Million Barrels Daily"
- },
- {
   "title": "9月中国大宗商品价格指数创四年半新高",
   "url": "https://www.chinanews.com.cn/cj/2026/10-05/10708105.shtml",
   "summary": "中新社北京10月5日电 (记者 阮煜琳)中国物流与采购联合会5日发布数据显示，9月份，中国大宗商品价格指数为137.6点，环比上涨4.1%，同比上涨22.9%，创四年半新高",
@@ -298,34 +641,6 @@
    "中国新闻网-财经"
   ],
   "is_elite": false
- },
- {
-  "title": "报道称霍尔木兹原油流量达到战前水平，油价下跌",
-  "url": "",
-  "summary": "Kpler 的一份报告显示，流出霍尔木兹海峡的流量现已高于战前水平，原油价格早盘下跌，但布伦特原油价格仍高于 100 美元。该公司上周成为头条新闻，称尽管胡塞武装，但通过霍尔木兹的油轮运输量已接近战前水平",
-  "pub_time": "2026-10-05T05:26:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "a005c1d530512aa41f6b0b49da84220f",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "下跌"
-  ],
-  "en_title": "Oil Prices Fall as Reports Say Hormuz Crude Flows Top Pre-War Levels"
  },
  {
   "title": "OPEC+：对11月的石油产量配额不作任何调整",
@@ -391,59 +706,6 @@
    "库存"
   ],
   "en_title": "Top 50 mining companies take $264 billion hit as gold trade unwinds, lithium stocks exit"
- },
- {
-  "title": "浮动电厂正在开辟新能源前沿",
-  "url": "",
-  "summary": "可再生能源革命的空间已经耗尽。公用事业规模的太阳能和风电场占用大量土地，并且面临着来自计划开发社区的越来越多的法律阻力。然而，清洁能源资源仍需大量扩张",
-  "pub_time": "2026-10-04T17:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "3df75a4487ea66f02b6416a1a5522ec4",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "能源",
-   "锡"
-  ],
-  "en_title": "Floating Power Plants Are Opening a New Energy Frontier"
- },
- {
-  "title": "私募股权公司加倍投资化石燃料",
-  "url": "",
-  "summary": "尽管一些政府和消费者对全球能源转型施加压力，私募股权公司仍继续对世界上一些最大的温室气体排放国进行大量投资。在 Covid-19 大流行之后，一些公司、银行甚至能源公司开始推出更强大的",
-  "pub_time": "2026-10-04T15:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "80bf02907b7f41668fe8a1467a6e2fdc",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "燃料"
-  ],
-  "en_title": "Private Equity Firms Double Down on Fossil Fuels"
  },
  {
   "title": "Mysteel：国庆假期热点速递（10月4日）",
