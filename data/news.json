@@ -1,5 +1,59 @@
 [
  {
+  "title": "随着沙特股价下滑，韩国计划将加拿大原油进口量增加两倍",
+  "url": "",
+  "summary": "随着资源匮乏的七国集团经济体在中东危机期间转向供应多元化，沙特原油在韩国石油进口中的份额自 2021 年以来首次跌至 30% 以下。 1-8月，沙特原油占韩国原油进口总量的29.9%",
+  "pub_time": "2026-10-05T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "bd394739327e4edfc009e7596bf91631",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "回落",
+   "进口"
+  ],
+  "en_title": "South Korea Plans to Triple Canadian Crude Imports as Saudi Share Slips"
+ },
+ {
+  "title": "G7 承诺释放 1 亿桶石油后，日本排除了释放更多储备的可能性",
+  "url": "",
+  "summary": "一位高级政府官员周一表示，日本不打算从其国家储备中额外释放原油，尽管七国集团周五宣布释放 1 亿桶库存。 “日本从储备中释放石油已经有一段时间了，但目前还没有",
+  "pub_time": "2026-10-05T11:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "95877aae9fd6c0f9d9770369fd3d4dcc",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "走软"
+  ],
+  "en_title": "Japan Rules Out More Reserve Releases After G7 Pledges 100 Million Barrels"
+ },
+ {
   "title": "随着美联储加息押注减弱，金价小幅走高",
   "url": "",
   "summary": "(RTTNews) - 由于投资者减少了对美联储激进政策紧缩周期的押注，金价周一走高，从早盘下跌中恢复过来。",
@@ -419,32 +473,6 @@
    "基本金属"
   ],
   "en_title": "New Research Strengthens the Link Between Warming and Extreme Weather"
- },
- {
-  "title": "到 2035 年，拉丁美洲陆上风电容量可能增加一倍",
-  "url": "",
-  "summary": "拉丁美洲的一些国家一直在迅速扩大其风能产能，以实现能源结构多样化并加强能源安全，并计划在未来十年进行更多的扩张。巴西和墨西哥处于领先地位，该地区的其他几个国家也处于领先地位。",
-  "pub_time": "2026-10-03T15:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "318b79ff34359ba5d9f8613824961ce8",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡"
-  ],
-  "en_title": "Latin America Could Double Its Onshore Wind Capacity by 2035"
  },
  {
   "title": "Mysteel宏观周报：央行加码结构性工具宽松，G7将释放1亿桶战略石油储备",
