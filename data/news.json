@@ -1,5 +1,104 @@
 [
  {
+  "title": "随着美联储加息押注减弱，金价小幅走高",
+  "url": "",
+  "summary": "(RTTNews) - 由于投资者减少了对美联储激进政策紧缩周期的押注，金价周一走高，从早盘下跌中恢复过来。",
+  "pub_time": "2026-10-05T10:04:26Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "d4b40255796b6e1d5c1cbeb4f4798df9",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Gold Edges Higher As Fed Rate Hike Bets Ease"
+ },
+ {
+  "title": "贸易波动中油价变化不大",
+  "url": "",
+  "summary": "(RTTNews) - 周一，油价在波动的交易中小幅上涨，因投资者权衡七国集团计划释放紧急石油和柴油库存的消息，以应对霍尔木兹海峡周围再次发生的袭击事件。",
+  "pub_time": "2026-10-05T09:36:15Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "d65c37cbe6c2a618d96e1fc48357e7b6",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价"
+  ],
+  "en_title": "Oil Prices Little Changed In Volatile Trade"
+ },
+ {
+  "title": "G7 宣布释放 1 亿桶库存，柴油利润下滑",
+  "url": "",
+  "summary": "七国集团宣布释放 1 亿桶原油和柴油，压低了上个月创下历史新高的中间馏分油炼油厂利润率。未来四个月开始释放库存以及美国柴油出口禁令的风险降低，导致 ICE 柴油价格上涨",
+  "pub_time": "2026-10-05T09:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "3ef2feb43c7a63cc9352f44ccbaa2339",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "下滑",
+   "库存"
+  ],
+  "en_title": "Diesel Margins Slide as G7 Announces 100 Million Barrel Stocks Release"
+ },
+ {
+  "title": "Mysteel：国庆假期热点速递（10月5日）",
+  "url": "https://news.mysteel.com/a/26100517/92AE6168F603AA48.html",
+  "summary": "",
+  "pub_time": "2026-10-05T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "fd422014fc14ca12a8454841436401f1",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "OPEC+ 11 月配额维持在 3101 万桶/日",
   "url": "",
   "summary": "欧佩克+周日同意维持下个月的石油产量配额不变，符合预期，此前该组织取消了今年早些时候的减产措施，以抵消中东日益严重的供应短缺。 10 月和 11 月的总数为 31.01",
@@ -360,25 +459,6 @@
   "topic": "国内/金融政策",
   "tags": [
    "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：国庆假期热点速递（10月3日）",
-  "url": "https://news.mysteel.com/a/26100318/FE1FAD01C0CE5BF9.html",
-  "summary": "",
-  "pub_time": "2026-10-03T10:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "9c26db19f2b63d42ede48da8a0bcf713",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
