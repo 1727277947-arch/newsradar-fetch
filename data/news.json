@@ -1,5 +1,100 @@
 [
  {
+  "title": "渣打银行称霍尔木兹石油流量远非正常",
+  "url": "",
+  "summary": "尽管通过霍尔木兹海峡的交通量仍远低于正常水平，但流经中东的石油流量出现了令人印象深刻的反弹，出口量恢复到接近战前的水平。渣打银行估计海湾地区的原油和凝析油出口量，不包括伊朗，包括byp",
+  "pub_time": "2026-10-06T00:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "092402e5581d3d92f3484a9552875d59",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Standard Chartered Says Hormuz Oil Flows Are Far From Normal"
+ },
+ {
+  "title": "每日市场快讯 2026 年 10 月 6 日",
+  "url": "",
+  "summary": "小麦价格飙升导致行情走强。澳大利亚北部收获季开始，现货需求低迷；所有的目光都转向南方供应链的表现。",
+  "pub_time": "2026-10-05T23:58:02Z",
+  "source": "GrainCentral",
+  "_cat": "基本金属",
+  "dedup_key": "a13c009bf56f4ed5d2f67c314c9685bc",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Daily Market Wire 6 October 2026"
+ },
+ {
+  "title": "沙特阿美CEO警告：全球石油供应“安全垫”已低得令人担忧",
+  "url": "https://news.mysteel.com/a/26100607/C91CA7B423E925B3.html",
+  "summary": "",
+  "pub_time": "2026-10-05T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "25f5ddd2084d409bf0eca904677611aa",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "灵活的前端受到合同收割机的青睐",
+  "url": "",
+  "summary": "灵活的 Geringhoff 割台前端正在提高基于 CQ 的 Deberi 合同收割机对一系列作物以及北部常见的超等高作物的效率。",
+  "pub_time": "2026-10-05T22:35:33Z",
+  "source": "GrainCentral",
+  "_cat": "基本金属",
+  "dedup_key": "445972c0ed787ee1e23a00623a0421ac",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Flexible front finds favour for contract harvester"
+ },
+ {
   "title": "南澳林地、西澳大南部和小麦带农场名单",
   "url": "",
   "summary": "西澳大利亚市场新上市的是大南部地区的两山 (Two Hills) 和波浪岩 (Wave Rock) 附近的索克克利夫 (Soakcliffe)，而在南澳大利亚，新森林 (New Forests) 已列出其 Wattle Range 投资组合中的 7 个区块。",
@@ -339,6 +434,33 @@
    "铜"
   ],
   "en_title": "World Bank backs $1.4B for Chile’s copper giant"
+ },
+ {
+  "title": "科罗拉多州峰会视频： Giustra表示黄金反弹缺少零售",
+  "url": "",
+  "summary": "“黄金是抵御人类所有愚蠢行为的对冲工具。”",
+  "pub_time": "2026-10-05T19:26:18Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "025da2ac3bb10c4dcc26b2855df305c1",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "上涨"
+  ],
+  "en_title": "Colorado summit video: Giustra says gold rally is missing retail"
  },
  {
   "title": "NCR-SARE 接受可持续农业拨款申请",
@@ -713,58 +835,6 @@
   "en_title": "Aramco CEO Warns Oil Inventories Are ‘Scarily Thin’"
  },
  {
-  "title": "卢比奥开启冰岛北约四天之行讨论北极安全",
-  "url": "",
-  "summary": "美国国务卿马可·卢比奥将于 10 月 5 日至 8 日前往冰岛、希腊和葡萄牙，就安全、国防、能源、经济合作和技术问题进行会谈，因为北约盟国面临着对俄罗斯军事活动和中东持续不稳定日益增长的安全担忧。卢比奥将会",
-  "pub_time": "2026-10-05T14:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "1f0c65980e58af1b043b9cec078ee846",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Rubio Opens 4-Day NATO Tour in Iceland to Discuss Arctic Security"
- },
- {
-  "title": "随着也门战斗升级，胡塞武装声称袭击了沙特阿美位于利雅得的设施",
-  "url": "",
-  "summary": "尽管有报道称霍尔木兹海峡的石油流量激增，但中东的紧张局势仍然高度紧张，因为沙特和胡塞武装的新升级可能会破坏最近在恢复石油出口方面取得的成功。本周末，与伊朗结盟的胡塞武装声称沙特的一处设施遭到导弹和无人机袭击",
-  "pub_time": "2026-10-05T13:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "592a1f25c98b4959bf54fc5dc2ad2c17",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "锡",
-   "罢工"
-  ],
-  "en_title": "Houthis Claim Strike on Aramco Facility in Riyadh as Yemen Fighting Escalates"
- },
- {
   "title": "力拓 (Rio Tinto) 和 Founders Factory 投资五家矿业初创公司",
   "url": "",
   "summary": "采矿技术加速器选择了铜勘探、地质灾害监测和金属加工初创公司。",
@@ -863,63 +933,6 @@
   "is_elite": false
  },
  {
-  "title": "9月中国大宗商品价格指数创四年半新高",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-05/10708105.shtml",
-  "summary": "中新社北京10月5日电 (记者 阮煜琳)中国物流与采购联合会5日发布数据显示，9月份，中国大宗商品价格指数为137.6点，环比上涨4.1%，同比上涨22.9%，创四年半新高",
-  "pub_time": "2026-10-05T06:03:37Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "c6c028969099697f2a5282113bd8ae03",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
-  "title": "OPEC+：对11月的石油产量配额不作任何调整",
-  "url": "https://news.mysteel.com/a/26100508/2682733A40EC3D45.html",
-  "summary": "",
-  "pub_time": "2026-10-05T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "48883abe97e69187c1e324a9467a26de",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "伊朗石油部长辞职，伊朗国家石油公司CEO任代理部长",
-  "url": "https://news.mysteel.com/a/26100508/EF38E9F70A27D4BA.html",
-  "summary": "",
-  "pub_time": "2026-10-05T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "6a7a2f002cf3c3cf7e2455d453e24f71",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "黄金交易平息、锂股退出，50 家矿业公司损失 2640 亿美元",
   "url": "",
   "summary": "黄金股下跌，铜矿商无视创纪录的价格，只有一家锂生产商幸免于难，这是该排名历史上第二糟糕的一个月。",
@@ -992,7 +1005,7 @@
  },
  {
   "title": "Mysteel：近5年国庆节后钢材市场走势",
-  "url": "https://news.mysteel.com/a/26100414/469571385B143E3D.html",
+  "url": "https://news.mysteel.com/a/26100414/E3019B6C58B7496B.html",
   "summary": "",
   "pub_time": "2026-10-04T06:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1003,25 +1016,6 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "马来西亚将从11月起取消部分黄金产品的10%关税",
-  "url": "https://news.mysteel.com/a/26100408/7B26473AC138BA48.html",
-  "summary": "",
-  "pub_time": "2026-10-04T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "ee8663145d54e424d5bdd93b27101f48",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
