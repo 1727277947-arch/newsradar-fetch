@@ -291,6 +291,32 @@
   "en_title": "Canterra grows Newfoundland copper-zinc resource 55% as grades fall"
  },
  {
+  "title": "发现银项目扫清了墨西哥的关键障碍",
+  "url": "",
+  "summary": "墨西哥环境部门的批准完成了该项目的联邦环境审批程序。",
+  "pub_time": "2026-10-06T14:48:40Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "ec630112aceef00a38c2dcff48b568cb",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "白银"
+  ],
+  "en_title": "Discovery silver project clears key Mexico hurdle"
+ },
+ {
   "title": "海湾生产商称进口商应分担霍尔木兹变通办法的成本",
   "url": "",
   "summary": "一些最大的海湾石油生产公司的高管呼吁外部投资绕过霍尔木兹海峡的新航线，并在该地区以外、更靠近消费者的地方建立和扩大原油和燃料储存能力。 “虽然王国有能力、有信心，",
@@ -1357,32 +1383,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "黄金交易平息、锂股退出，50 家矿业公司损失 2640 亿美元",
-  "url": "",
-  "summary": "黄金股下跌，铜矿商无视创纪录的价格，只有一家锂生产商幸免于难，这是该排名历史上第二糟糕的一个月。",
-  "pub_time": "2026-10-04T20:00:34Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "f7a5dfac7a6af13297d7a588c5df837a",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "库存"
-  ],
-  "en_title": "Top 50 mining companies take $264 billion hit as gold trade unwinds, lithium stocks exit"
  }
 ]
