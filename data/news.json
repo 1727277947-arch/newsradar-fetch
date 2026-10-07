@@ -1,5 +1,136 @@
 [
  {
+  "title": "GFI 股票挤满了卖家",
+  "url": "",
+  "summary": "在周三的交易中，Gold Fields Ltd.（代码：GFI）的股票进入超卖区域，换手价低至每股 34.53 美元。我们使用相对强度指数 (RSI) 定义超卖区域，这是一种用于衡量动量的技术分析指标",
+  "pub_time": "2026-10-07T20:16:14Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "13a6f1a2d21ebff2ff01bc297e29b565",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "库存"
+  ],
+  "en_title": "GFI Stock Crowded With Sellers"
+ },
+ {
+  "title": "EGO 跌破关键移动平均线水平",
+  "url": "",
+  "summary": "在周三的交易中，Eldorado Gold Corp（股票代码：EGO）的股价跌破 37.03 美元的 200 日移动平均线，易手低至每股 36.08 美元。埃尔多拉多黄金公司 (Eldorado Gold Corp) 股价当天下跌约 5.2%。下图显示了一年的p",
+  "pub_time": "2026-10-07T20:15:56Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "6b75ac120fb154560efe0ccd9ff9203f",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "EGO Crosses Below Key Moving Average Level"
+ },
+ {
+  "title": "密歇根州玉米干枯率预计将下降至 11 月",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-10-07T20:06:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "aec797bfcb7f5ade1603ee8126e6d8d6",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "玉米"
+  ],
+  "en_title": "Michigan Corn Dry-Down Rates Expected To Decline Through November"
+ },
+ {
+  "title": "GrainGrowers 成员批准宪法修正案",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-10-07T19:37:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "2bc1aa78f8a2933e8208aba12814aeec",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "谷物"
+  ],
+  "en_title": "GrainGrowers Members Approve Constitutional Changes"
+ },
+ {
+  "title": "原油价格在早期飙升后大幅回落",
+  "url": "",
+  "summary": "(RTTNews) - 周三交易日原油价格大幅下跌，在盘初飙升后大幅回落。",
+  "pub_time": "2026-10-07T18:46:05Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "4566e9175fa3e2cf5fe432b82a762d30",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "大涨"
+  ],
+  "en_title": "Crude Oil Prices Pull Back Sharply After Early Surge"
+ },
+ {
   "title": "美国海湾能源中心为应对 2 级飓风做好准备",
   "url": "",
   "summary": "热带风暴伊萨亚斯预计将增强为 2 级飓风，本周晚些时候将袭击美国墨西哥湾北部海岸。不确定性范围包括关键能源资产，例如海上石油钻井平台和主要炼油厂。伊萨亚斯位于墨西哥普罗格雷索以西约 285 英里处",
@@ -160,7 +291,7 @@
   "title": "黄金 ETF 热潮无视金价下跌 8.5%",
   "url": "",
   "summary": "上个季度，尽管黄金遭受了今年最大幅度的月度跌幅，投资者仍向黄金支持的交易所交易基金 (ETF) 注入了创纪录的资金量，突显出黄金 ETF 热潮无视金价 8.5% 下滑的不寻常分裂。",
-  "pub_time": "2026-10-07T15:39:26Z",
+  "pub_time": "2026-10-07T15:34:26Z",
   "source": "NorthernMiner",
   "_cat": "贵金属",
   "dedup_key": "ab1e5a38de1f21946eae53170aa71897",
@@ -183,6 +314,31 @@
    "下滑"
   ],
   "en_title": "Gold ETF rush defies 8.5% gold price slide"
+ },
+ {
+  "title": "Altius 在董事会斗争中竞购 TNR 其余股份",
+  "url": "",
+  "summary": "Altius Minerals (TSX: ALS) 主动提出了一项不具约束力的提议，收购其尚未拥有的 TNR Gold (TSXV: TNR; US-OTC: TRRXF) 87% 的股份，此举将... Altius 在董事会斗争中竞购 TNR 其余股份的帖子首先出现在《The Northern Miner》上。",
+  "pub_time": "2026-10-07T15:31:08Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "8119f6b315ec33814d07710c08b1a40d",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Altius makes bid for rest of TNR amid board fight"
  },
  {
   "title": "霍尔木兹中断导致石油收入枯竭，伊拉克第纳尔贬值 14.5%",
@@ -237,13 +393,13 @@
   "en_title": "Gold Mountain weighs revival of wartime Brazil tungsten mine"
  },
  {
-  "title": "Altius 在董事会斗争中竞购 TNR 其余股份",
+  "title": "Vizsla Copper 在阿拉斯加项目开采高品位白银",
   "url": "",
-  "summary": "Altius Minerals (TSX: ALS) 主动提出了一项不具约束力的提议，收购其尚未拥有的 TNR Gold (TSXV: TNR; US-OTC: TRRXF) 87% 的股份，此举将... Altius 在董事会斗争中竞购 TNR 其余股份的帖子首先出现在《The Northern Miner》上。",
-  "pub_time": "2026-10-07T15:00:08Z",
-  "source": "NorthernMiner",
+  "summary": "该场地受益于超过 1.16 亿美元的历史投资和约 96,000 米的钻探。",
+  "pub_time": "2026-10-07T14:59:50Z",
+  "source": "Mining.com",
   "_cat": "贵金属",
-  "dedup_key": "8119f6b315ec33814d07710c08b1a40d",
+  "dedup_key": "cc7313ff42a3dbf3f8fe453f6e1c269f",
   "score": 84,
   "priority": "P2",
   "topic": "贵金属",
@@ -257,9 +413,11 @@
   ],
   "is_elite": false,
   "keywords": [
-   "贵金属"
+   "贵金属",
+   "白银",
+   "铜"
   ],
-  "en_title": "Altius makes bid for rest of TNR amid board fight"
+  "en_title": "Vizsla Copper logs high-grade silver at Alaska project"
  },
  {
   "title": "维兹拉铜业 (Vizsla Copper) 在阿拉斯加开采高品位白银",
@@ -533,33 +691,6 @@
   "en_title": "Shell’s Refining Margin Jumps 75% as Fuel Supplies Dry Up"
  },
  {
-  "title": "欧洲的燃料紧缩正在为 Equinor 第三季度带来意外之财",
-  "url": "",
-  "summary": "Equinor 预计，由于炼油利润非常强劲以及石油和液化天然气贸易的高收益，其营销、中游和加工 (MMP) 部门第三季度的收入将超过公司指导的 4 亿美元。挪威主要能源公司和其他能源公司继续",
-  "pub_time": "2026-10-07T10:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "e9682dd264530bd661ea5c282b530f7a",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "燃料",
-   "下跌"
-  ],
-  "en_title": "Europe’s Fuel Squeeze Is Turning Into a Q3 Windfall for Equinor"
- },
- {
   "title": "随着石油和债券收益率上升，黄金下跌",
   "url": "",
   "summary": "(RTTNews) - 周三金价跌向每盎司 4,100 美元，因担心伊朗加大对霍尔木兹海峡油轮的攻击力度，油价攀升，收益率反弹。",
@@ -614,33 +745,6 @@
    "上涨"
   ],
   "en_title": "Oil Prices Rise Amid Houthi Attacks, US Storm Concerns"
- },
- {
-  "title": "由于液化天然气出口停滞，卡塔尔能源公司从中国银行获得 30 亿美元贷款",
-  "url": "",
-  "summary": "由于卡塔尔液化天然气出口商继续难以向国际市场运输大量液化天然气，国有的卡塔尔能源公司已从一家中国银行集团获得了为期五年的 30 亿美元贷款。卡塔尔能源公司已获得中国银行、中国工商银行股份有限公司（I",
-  "pub_time": "2026-10-07T09:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "e02a3b3887872c6189401a7a59be01aa",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "能源",
-   "出口"
-  ],
-  "en_title": "QatarEnergy Secures $3 Billion Loan From Chinese Banks as LNG Exports Stall"
  },
  {
   "title": "山东青岛工业旅游升温 老厂房解锁文旅新消费",
@@ -961,31 +1065,6 @@
   "en_title": "Westwin to build $502M nickel refinery in Mississippi"
  },
  {
-  "title": "Nuvau 认为 Matagami 资本支出较低",
-  "url": "",
-  "summary": "Nuvau Minerals（多伦多证券交易所股票代码：NMC）即将进行一项关于可能重新启动魁北克历史悠久的 Matagami 贱金属作业的研究，该研究将延长该项目的矿山寿命，同时降低预生产成本。 Nuvau 是... 后 Nuvau 看到 Matagami 资本支出较低的消息首先出现在《北方矿工》上。",
-  "pub_time": "2026-10-06T20:50:24Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "45c1c32f949870361940bbaebd55e725",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Nuvau sees lower capex for Matagami"
- },
- {
   "title": "原油跌至一个月最低水平后反弹",
   "url": "",
   "summary": "(RTTNews) - 原油价格在盘初延续近期跌势后，在周二交易日中收复失地。",
@@ -1167,32 +1246,6 @@
   "en_title": "Canterra grows Newfoundland copper resource 55% as grades fall"
  },
  {
-  "title": "发现银项目扫清了墨西哥的关键障碍",
-  "url": "",
-  "summary": "墨西哥环境部门的批准完成了该项目的联邦环境审批程序。",
-  "pub_time": "2026-10-06T14:48:40Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "ec630112aceef00a38c2dcff48b568cb",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "白银"
-  ],
-  "en_title": "Discovery silver project clears key Mexico hurdle"
- },
- {
   "title": "Mysteel：9月大宗商品价格指数上涨，后期或高位回落",
   "url": "https://news.mysteel.com/a/26100622/12F8CD31DEA64C25.html",
   "summary": "",
@@ -1238,35 +1291,6 @@
    "价"
   ],
   "en_title": "Gold Edges Higher As Oil Prices And Bond Yields Dip"
- },
- {
-  "title": "随着中东石油出口复苏，油价下滑",
-  "url": "",
-  "summary": "(RTTNews) - 周二油价大幅走低，布伦特原油价格跌破每桶 100 美元，原因是中东原油出口出现弹性迹象以及七国集团宣布启动 1 亿桶协调库存释放。",
-  "pub_time": "2026-10-06T09:46:10Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "bec0ddefe07e81fe2d55f9cf597f8fa4",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "下滑",
-   "出口"
-  ],
-  "en_title": "Oil Prices Slide As Middle East Oil Exports Recover"
  },
  {
   "title": "Mysteel：国庆假期热点速递（10月6日）",
@@ -1387,58 +1411,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "Westwin Elements 将在密西西比州建造 5.02 亿美元的镍精炼厂",
-  "url": "",
-  "summary": "公司已完成纳奇兹场地的可融资可行性研究。",
-  "pub_time": "2026-10-05T21:27:18Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "11593eba73bdc4566dea6ed6adf1b384",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "炼厂",
-   "镍"
-  ],
-  "en_title": "Westwin Elements to build $502M nickel refinery in Mississippi"
- },
- {
-  "title": "NCR-SARE 接受可持续农业拨款申请",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-10-05T19:18:00Z",
-  "source": "Grainnet",
-  "_cat": "基本金属",
-  "dedup_key": "e8c0c22bf9c361571fea33b6c892283d",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡"
-  ],
-  "en_title": "NCR-SARE Accepting Applications for Sustainable Agriculture Grants"
  }
 ]
