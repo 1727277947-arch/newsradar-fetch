@@ -1,5 +1,90 @@
 [
  {
+  "title": "Mysteel早读：假期钢市运行情况汇总",
+  "url": "https://news.mysteel.com/a/26100807/1F9D323093A4E546.html",
+  "summary": "",
+  "pub_time": "2026-10-07T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "9d950bafec2792fb49ccb36966907c3d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "IEA成员国将加快释放1亿桶石油储备，并优先投放柴油",
+  "url": "https://news.mysteel.com/a/26100807/44ED85D3713F9913.html",
+  "summary": "",
+  "pub_time": "2026-10-07T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "59432ffc29eb570ea8d326f48e1403dc",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel早读：假期钢市运行情况汇总，钢材总库存增85.5万吨",
+  "url": "https://news.mysteel.com/a/26100807/FDE05B5EBDE99924.html",
+  "summary": "",
+  "pub_time": "2026-10-07T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "076f6f5f9c2882e7b121872e40ff6343",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "枯竭的全球库存为油价设定了更高的下限",
+  "url": "",
+  "summary": "业内高管本周表示，全球几乎没有缓冲能力来缓冲伊朗战争造成的供应冲击，每当中东局势再次升级威胁到中东石油供应时，伊朗战争就会提高油价的下限。随着战争进入第八个月，全球石油库存已经耗尽，",
+  "pub_time": "2026-10-07T22:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "1f15bac062973d7c05c8d8ddf82bc8d3",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "库存"
+  ],
+  "en_title": "Depleted Global Stocks Set Higher Floor Under Oil Prices"
+ },
+ {
   "title": "GFI 股票挤满了卖家",
   "url": "",
   "summary": "在周三的交易中，Gold Fields Ltd.（代码：GFI）的股票进入超卖区域，换手价低至每股 34.53 美元。我们使用相对强度指数 (RSI) 定义超卖区域，这是一种用于衡量动量的技术分析指标",
@@ -608,32 +693,6 @@
   "en_title": "IEA Discusses G7's 100 Million-Barrel Oil and Diesel Release"
  },
  {
-  "title": "挪威计划 2027 年从石油基金中动用 637 亿美元",
-  "url": "",
-  "summary": "明年的公共支出财富基金将高于今年全球最大此类基金的支出。政府公布了 2027 年预算法案，其中包括一项从政府全球养老基金中提取和支出 6084 亿挪威克朗（约合 637 亿美元）的提议。和",
-  "pub_time": "2026-10-07T12:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "d6f72d6b11c8ad280f54aa71dba0866b",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Norway Plans to Tap $63.7 Billion From Its Oil Fund in 2027"
- },
- {
   "title": "安托法加斯塔的 Centinela 罢工增加了铜供应风险",
   "url": "",
   "summary": "随着铜价接近历史最高水平，智利一家主要矿山的劳工骚乱加剧了人们对全球金属供应的担忧。",
@@ -662,33 +721,6 @@
    "罢工"
   ],
   "en_title": "Antofagasta’s Centinela strike adds copper supply risk"
- },
- {
-  "title": "随着燃料供应枯竭，壳牌炼油利润猛增 75%",
-  "url": "",
-  "summary": "壳牌第三季度的炼油利润率环比增长近一倍，创下历史新高，这与强劲的交易业绩和高石油和天然气变现相结合，将继续为这家超级巨头带来意外利润。壳牌预计第三季度炼油利润率",
-  "pub_time": "2026-10-07T11:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "1741e8ec2b5a1b6c06303e2465dccd12",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "燃料",
-   "跳涨"
-  ],
-  "en_title": "Shell’s Refining Margin Jumps 75% as Fuel Supplies Dry Up"
  },
  {
   "title": "随着石油和债券收益率上升，黄金下跌",
@@ -837,7 +869,7 @@
  },
  {
   "title": "国庆假期热点汇总：大宗商品运行情况及节后展望",
-  "url": "https://news.mysteel.com/a/26100712/CF853FA67D67443C.html",
+  "url": "https://news.mysteel.com/a/26100712/87317ECBD09450B8.html",
   "summary": "",
   "pub_time": "2026-10-07T04:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1219,33 +1251,6 @@
   "en_title": "See How Worthington Steel Ranks Among Analysts' Top Metals Picks"
  },
  {
-  "title": "随着品位下降，Canterra 纽芬兰铜资源增长 55%",
-  "url": "",
-  "summary": "自 2024 年收购 Buchans 以来，Canterra 已钻探了近 4,800 米，随后 Lundberg 进行了扩建。",
-  "pub_time": "2026-10-06T14:48:59Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "8be798cfb50f0438598f0ed06e44e0f0",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "下跌"
-  ],
-  "en_title": "Canterra grows Newfoundland copper resource 55% as grades fall"
- },
- {
   "title": "Mysteel：9月大宗商品价格指数上涨，后期或高位回落",
   "url": "https://news.mysteel.com/a/26100622/12F8CD31DEA64C25.html",
   "summary": "",
@@ -1387,25 +1392,6 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "沙特阿美CEO警告：全球石油供应“安全垫”已低得令人担忧",
-  "url": "https://news.mysteel.com/a/26100607/3A258C3D5A4DF15C.html",
-  "summary": "",
-  "pub_time": "2026-10-05T23:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "25f5ddd2084d409bf0eca904677611aa",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
