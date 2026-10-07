@@ -1,25 +1,13 @@
 {
- "checked_at": "2026-10-07T10:40:10",
+ "checked_at": "2026-10-07T19:20:32",
  "source": "origin/main",
- "data_updated_at": "2026-10-07T07:49:15",
+ "data_updated_at": "2026-10-07T19:06:15",
  "ok": false,
- "anomaly_count": 8,
+ "anomaly_count": 6,
  "anomalies": [
-  {
-   "item": "新鲜度",
-   "evidence": "updated_at=2026-10-07T07:49:15，距今 171 分钟（盘中阈值 75 分钟）",
-   "impact": "手机端看到的是旧行情，打板进场价会失真",
-   "action": "手动触发 fetch.yml 重跑，并查看上一次 run 的失败源"
-  },
   {
    "item": "定时漏档",
    "evidence": "早盘打板 计划 10-07 03:37，但到 04:37 仍没有任何 run（最近一次 10-07 02:38）",
-   "impact": "该场没有新数据，手机端这轮推送是旧行情（进场价可能已失效）",
-   "action": "手动触发 fetch.yml 补跑；若反复出现需降低 cron 频率或改用兜底触发"
-  },
-  {
-   "item": "定时漏档",
-   "evidence": "午后板 计划 10-06 11:43，但到 12:43 仍没有任何 run（最近一次 10-06 10:01）",
    "impact": "该场没有新数据，手机端这轮推送是旧行情（进场价可能已失效）",
    "action": "手动触发 fetch.yml 补跑；若反复出现需降低 cron 频率或改用兜底触发"
   },
@@ -43,7 +31,7 @@
   },
   {
    "item": "定时漏档",
-   "evidence": "常规档 10-06 14:00 起 90 分钟内没有任何 run（最近一次 10-06 10:01）",
+   "evidence": "常规档 10-07 14:00 起 90 分钟内没有任何 run（最近一次 10-07 11:49）",
    "impact": "这一档整体丢失，期间数据不会刷新（数据变旧）",
    "action": "手动触发 fetch.yml 补跑，并观察该时段 GitHub 队列情况"
   },
@@ -54,11 +42,9 @@
    "action": "手动触发 fetch.yml 补跑，并观察该时段 GitHub 队列情况"
   }
  ],
- "notes": [
-  "常规档 10-06 18:00，实际 18:45 启动（晚 45 分钟）"
- ],
- "auto_heal": "已自动触发补抓（HTTP 204）",
- "summary": "发现 8 项异常：定时漏档、新鲜度",
+ "notes": [],
+ "auto_heal": null,
+ "summary": "发现 6 项异常：定时漏档",
  "history": [
   {
    "checked_at": "2026-09-14T17:41:51",
@@ -423,6 +409,13 @@
    "anomaly_count": 8,
    "summary": "发现 8 项异常：定时漏档、新鲜度",
    "data_updated_at": "2026-10-07T07:49:15"
+  },
+  {
+   "checked_at": "2026-10-07T19:20:32",
+   "ok": false,
+   "anomaly_count": 6,
+   "summary": "发现 6 项异常：定时漏档",
+   "data_updated_at": "2026-10-07T19:06:15"
   }
  ]
 }
