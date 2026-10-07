@@ -986,32 +986,6 @@
   "en_title": "Nuvau sees lower capex for Matagami"
  },
  {
-  "title": "TNM 深入分析：上个月的银价探查中，期货溢价位居榜首",
-  "url": "",
-  "summary": "《北方矿工》汇编的数据显示，8 月 17 日至 9 月 15 日期间，加拿大、美国和墨西哥的白银业绩最好。白银和黄金期货溢价的漏洞... TNM 深入分析后的报告：上个月期货溢价位居白银分析榜首，首次出现在《北方矿工》上。",
-  "pub_time": "2026-10-06T20:40:55Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "cd9213d834a6ece1e6bab81d9d71ed56",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "白银"
-  ],
-  "en_title": "TNM Drill Down: Contango tops silver assays for past month"
- },
- {
   "title": "原油跌至一个月最低水平后反弹",
   "url": "",
   "summary": "(RTTNews) - 原油价格在盘初延续近期跌势后，在周二交易日中收复失地。",
@@ -1041,7 +1015,7 @@
  {
   "title": "Beaver Creek 视频：黄金相对于债券获得新作用",
   "url": "",
-  "summary": "黄金作为政府债券和美元的货币替代品的作用日益增强，可能标志着一种结构性转变，而不是另一种转变[...]",
+  "summary": "黄金作为政府债券和美元的货币替代品的作用日益增强，可能标志着结构性转变，而不是另一个周期性牛市。",
   "pub_time": "2026-10-06T17:51:03Z",
   "source": "Mining.com",
   "_cat": "贵金属",
@@ -1466,59 +1440,5 @@
    "锡"
   ],
   "en_title": "NCR-SARE Accepting Applications for Sustainable Agriculture Grants"
- },
- {
-  "title": "原油价格再次显着下跌",
-  "url": "",
-  "summary": "(RTTNews) - 原油价格在周一交易中大幅走低，加剧了上周五交易日的大幅下跌。",
-  "pub_time": "2026-10-05T18:36:21Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "9a00d16cdaa24c44f781dd5fb1b17852",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价"
-  ],
-  "en_title": "Crude Oil Prices Showing Another Significant Move To The Downside"
- },
- {
-  "title": "CHS 扩建解决美国粮食储存短缺问题",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-10-05T18:21:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "587a643824e76dad30f3177e06e82d6c",
-  "score": 84,
-  "priority": "P1",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "谷物",
-   "下跌"
-  ],
-  "en_title": "CHS Expansion Addresses U.S. Grain Storage Shortfall"
  }
 ]
