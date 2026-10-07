@@ -1,5 +1,127 @@
 [
  {
+  "title": "中国央行连续第23个月增持黄金",
+  "url": "https://news.mysteel.com/a/26100710/09D0175801269FCA.html",
+  "summary": "",
+  "pub_time": "2026-10-07T02:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "1d7e81b90ac9856cb4f4118b92043100",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/金融政策",
+  "tags": [
+   "金融政策",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "每日市场快讯 2026 年 10 月 7 日",
+  "url": "",
+  "summary": "由于美元疲软和玉米状况评级下调，粮食在 WASDE 之前上涨。 SNSW 大麦收获即将到来。马里油菜籽割晒机估计还有两周时间就能完成。",
+  "pub_time": "2026-10-07T01:21:13Z",
+  "source": "GrainCentral",
+  "_cat": "基本金属",
+  "dedup_key": "4798280198af409b3408f22009ee9af7",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Daily Market Wire 7 October 2026"
+ },
+ {
+  "title": "澳大利亚8月小麦出口166吨，较7月下降16%",
+  "url": "",
+  "summary": "根据ABS的最新数据，澳大利亚8月份小麦出口量为166吨，较7月份的198吨下降16%。",
+  "pub_time": "2026-10-07T01:00:56Z",
+  "source": "GrainCentral",
+  "_cat": "农产品",
+  "dedup_key": "5b104545dc6a0d7c470ac313ac0f6f3a",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "小麦",
+   "出口"
+  ],
+  "en_title": "Australia exports 1.66Mt wheat in August, down 16pc from July"
+ },
+ {
+  "title": "CHS Broadbent 将在莫里区购买土地进行扩张",
+  "url": "",
+  "summary": "CHS Broadbent在莫里特别激活区购买了14.6公顷的土地，以提高其粮食、棉花和化肥的储存、仓储和进出口能力。",
+  "pub_time": "2026-10-07T00:12:43Z",
+  "source": "GrainCentral",
+  "_cat": "农产品",
+  "dedup_key": "d44e12bb69afcdc070db46969d979f32",
+  "score": 84,
+  "priority": "P1",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品"
+  ],
+  "en_title": "CHS Broadbent to expand with land purchase in Moree precinct"
+ },
+ {
+  "title": "为什么100美元的石油难以消灭",
+  "url": "",
+  "summary": "尽管最近几周油轮跟踪服务机构和投资银行发布了大量报告和数据，显示来自霍尔木兹海峡的原油流量已经恢复，甚至超过了战前水平，但布伦特原油价格在过去一个月的大部分时间里一直保持在每桶 100 美元以上。但如果是这样的话",
+  "pub_time": "2026-10-07T00:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "1156ef360e7dcc1f07013b6c200e21d4",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Why $100 Oil Is Hard to Kill"
+ },
+ {
   "title": "5从霍尔木兹海峡对峙中获利的天然气库存",
   "url": "",
   "summary": "当伊朗在3月份袭击卡塔尔的拉斯拉凡综合体并淘汰了该国17%的液化天然气出口能力时，贸易似乎相当简单。购买美国出口商，坐下来等待欧洲和亚洲来敲门，寻找不需要通过霍尔木兹海峡的货物",
@@ -634,33 +756,6 @@
   "en_title": "Gulf Producers Say Importers Should Share the Cost of Hormuz Workarounds"
  },
  {
-  "title": "能源冲击使全球顶级矿业股蒸发 2,640 亿美元",
-  "url": "",
-  "summary": "9月份，全球50家最有价值的矿业公司市值损失了2640亿美元，原因是石油驱动的通胀担忧将债券收益率推至2008年以来的最高水平，美联储三年来首次加息，拖累黄金和与之相关的股票大幅走低。团体",
-  "pub_time": "2026-10-06T14:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "贵金属",
-  "dedup_key": "0e87cc3ef92ea19ecd7d5da4fd0d1d68",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "能源",
-   "库存"
-  ],
-  "en_title": "Energy Shock Wipes $264 Billion Off the World's Top Mining Stocks"
- },
- {
   "title": "Mysteel：9月大宗商品价格指数上涨，后期或高位回落",
   "url": "https://news.mysteel.com/a/26100622/5F78B7F098A3B62F.html",
   "summary": "",
@@ -756,27 +851,8 @@
   "is_elite": false
  },
  {
-  "title": "（走进中国乡村）黄土高原苹果迎丰收季 香飘海内外",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-06/10708419.shtml",
-  "summary": "中新社陕西延安10月6日电 题：黄土高原苹果迎丰收季 香飘海内外",
-  "pub_time": "2026-10-06T06:31:00Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "3dbfe293d58a963751aa4c7ef7ba6b6c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
   "title": "布伦特原油期货跌破100美元/桶",
-  "url": "https://news.mysteel.com/a/26100614/4100006536B07488.html",
+  "url": "https://news.mysteel.com/a/26100614/B9EAE2E7268D89C7.html",
   "summary": "",
   "pub_time": "2026-10-06T06:00:00Z",
   "source": "上海钢联Mysteel",
@@ -820,7 +896,7 @@
  },
  {
   "title": "俄罗斯：将大幅增加黄金购买量",
-  "url": "https://news.mysteel.com/a/26100613/38B5BDDD20FE13C7.html",
+  "url": "https://news.mysteel.com/a/26100613/8313C0A478B29385.html",
   "summary": "",
   "pub_time": "2026-10-06T05:00:00Z",
   "source": "上海钢联Mysteel",
@@ -881,31 +957,6 @@
    "产量"
   ],
   "en_title": "Japan rice production recovery overshoots"
- },
- {
-  "title": "每日市场快讯 2026 年 10 月 6 日",
-  "url": "",
-  "summary": "小麦价格飙升导致行间作物综合体走强。澳大利亚北部收获季开始，现货需求低迷；所有的目光都转向南方供应链的表现。",
-  "pub_time": "2026-10-05T23:58:02Z",
-  "source": "GrainCentral",
-  "_cat": "基本金属",
-  "dedup_key": "a13c009bf56f4ed5d2f67c314c9685bc",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Daily Market Wire 6 October 2026"
  },
  {
   "title": "沙特阿美CEO警告：全球石油供应“安全垫”已低得令人担忧",
@@ -1003,34 +1054,6 @@
    "镍"
   ],
   "en_title": "Westwin Elements to build $502M nickel refinery in Mississippi"
- },
- {
-  "title": "BOM 2026 年 10 月 6 日每周降雨量更新 + 展望",
-  "url": "",
-  "summary": "预计下周澳大利亚大部分谷物带将出现降雨，近期以维多利亚州为中心的增产降雨将持续到下周。",
-  "pub_time": "2026-10-05T21:19:13Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "b949bfdd9ba8fed908ced57aac9d4cc5",
-  "score": 84,
-  "priority": "P1",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "下跌",
-   "周",
-   "展望"
-  ],
-  "en_title": "BOM weekly rainfall update 6 October 2026 + outlook"
  },
  {
   "title": "《北方矿工》授予肖恩·博伊德 (Sean Boyd) 奖项，他以“心灵文化”打造了 Agnico Eagle",
