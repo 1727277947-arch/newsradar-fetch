@@ -1,5 +1,190 @@
 [
  {
+  "title": "美国海湾能源中心为应对 2 级飓风做好准备",
+  "url": "",
+  "summary": "热带风暴伊萨亚斯预计将增强为 2 级飓风，本周晚些时候将袭击美国墨西哥湾北部海岸。不确定性范围包括关键能源资产，例如海上石油钻井平台和主要炼油厂。伊萨亚斯位于墨西哥普罗格雷索以西约 285 英里处",
+  "pub_time": "2026-10-07T18:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "269965f52c8da0464724c9a67297bfb6",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "U.S. Gulf Energy Hub Braces for Category 2 Hurricane"
+ },
+ {
+  "title": "金价显着回落",
+  "url": "",
+  "summary": "(RTTNews) - 继周二交易时段的上涨之后，金价在周三的交易中显着回落。",
+  "pub_time": "2026-10-07T17:49:36Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "45c4e048c7b1f894983217e77f9a9be2",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "价"
+  ],
+  "en_title": "Gold Prices Showing Significant Move Back To The Downside"
+ },
+ {
+  "title": "了解 B2Gold 如何跻身分析师首选金属之列",
+  "url": "",
+  "summary": "根据 Metals Channel 的数据，对主要经纪公司分析师推荐的研究显示，在组成 Metals Channel 全球矿业巨头指数的 50 只股票中，B2Gold Corp（股票代码：BTG）在经纪商分析师中平均排名第 38。金属频道全球矿业",
+  "pub_time": "2026-10-07T17:14:17Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "5b25e83f2e376c5a5c9ecd13c0d0ee1b",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "金属"
+  ],
+  "en_title": "See How B2Gold Ranks Among Analysts' Top Metals Picks"
+ },
+ {
+  "title": "数据中心现在正在为芬兰的新电源提供资金",
+  "url": "",
+  "summary": "数据中心已成为芬兰新电力容量的主要资助者。合同正在从可再生能源转向提供基荷供应的能源，正如 Google 与 Fortum 在 Loviisa 签订的 507 兆瓦 (MW) 协议中所看到的那样。该交易是芬兰首个核电采购协议（PPA）",
+  "pub_time": "2026-10-07T17:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "49ea857df1ffb9c43c5974f0bf737d51",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "供应"
+  ],
+  "en_title": "Data Centers Are Now Bankrolling Finland's New Power Supply"
+ },
+ {
+  "title": "荷兰央行将86吨黄金转移到离家更近的地方",
+  "url": "",
+  "summary": "DNB 将部分黄金储备从美国和加拿大转移至伦敦，以降低风险。",
+  "pub_time": "2026-10-07T16:55:35Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "8fff4afc93cf14c7fa7931384f7ea439",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Dutch central bank transfers 86 tonnes of gold closer to home"
+ },
+ {
+  "title": "SpaceX 寻求批准 32 英里佛罗里达天然气管道",
+  "url": "",
+  "summary": "SpaceX 正在寻求批准在佛罗里达州建设一条 32.4 英里长的天然气管道，该管道将直接连接到州际天然气网络，并为该公司在卡纳维拉尔角不断扩大的发射业务提供供应。拟议的 16 英寸管道将穿过布里瓦德县并连接 SpaceX 运营公司",
+  "pub_time": "2026-10-07T16:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "a0ef1005b2904b340a9baa2f8e7d8873",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气"
+  ],
+  "en_title": "SpaceX Seeks Approval for 32-Mile Florida Natural Gas Pipeline"
+ },
+ {
+  "title": "黄金 ETF 热潮无视金价下跌 8.5%",
+  "url": "",
+  "summary": "上个季度，尽管黄金遭受了今年最大幅度的月度跌幅，投资者仍向黄金支持的交易所交易基金 (ETF) 注入了创纪录的资金量，突显出黄金 ETF 热潮无视金价 8.5% 下滑的不寻常分裂。",
+  "pub_time": "2026-10-07T15:39:26Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "ab1e5a38de1f21946eae53170aa71897",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "价",
+   "下滑"
+  ],
+  "en_title": "Gold ETF rush defies 8.5% gold price slide"
+ },
+ {
   "title": "霍尔木兹中断导致石油收入枯竭，伊拉克第纳尔贬值 14.5%",
   "url": "",
   "summary": "伊拉克第纳尔贬值 14.5%，将第纳尔兑美元汇率定为 1,520 美元，此前数月霍尔木兹海峡石油出口中断，切断了政府的主要收入来源。内阁周二通过了新的汇率结构，变化如下：",
@@ -24,6 +209,57 @@
    "原油"
   ],
   "en_title": "Iraq Devalues Dinar 14.5% as Hormuz Disruption Drains Oil Revenue"
+ },
+ {
+  "title": "金山考虑复兴战时巴西钨矿",
+  "url": "",
+  "summary": "随着战略钨需求的增长，巴西塞里多区的历史资产为金山提供了潜在的立足点。",
+  "pub_time": "2026-10-07T15:03:00Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "b2d47c13fe872ffd5adb53516ae1d598",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Gold Mountain weighs revival of wartime Brazil tungsten mine"
+ },
+ {
+  "title": "Altius 在董事会斗争中竞购 TNR 其余股份",
+  "url": "",
+  "summary": "Altius Minerals (TSX: ALS) 主动提出了一项不具约束力的提议，收购其尚未拥有的 TNR Gold (TSXV: TNR; US-OTC: TRRXF) 87% 的股份，此举将... Altius 在董事会斗争中竞购 TNR 其余股份的帖子首先出现在《The Northern Miner》上。",
+  "pub_time": "2026-10-07T15:00:08Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "8119f6b315ec33814d07710c08b1a40d",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Altius makes bid for rest of TNR amid board fight"
  },
  {
   "title": "维兹拉铜业 (Vizsla Copper) 在阿拉斯加开采高品位白银",
@@ -137,11 +373,11 @@
  {
   "title": "黄金 ETF 热潮无视金价下跌 8.5%",
   "url": "",
-  "summary": "上个季度，尽管黄金遭受了今年最大幅度的月度跌幅，投资者仍向黄金支持的交易所交易基金 (ETF) 注入了创纪录的资金量，突显出黄金 ETF 热潮无视金价 8.5% 下滑的不寻常分裂。",
+  "summary": "这种差异似乎主要是由期货抛售造成的，而不是投资者放弃黄金。",
   "pub_time": "2026-10-07T14:13:26Z",
-  "source": "NorthernMiner",
+  "source": "Mining.com",
   "_cat": "贵金属",
-  "dedup_key": "ab1e5a38de1f21946eae53170aa71897",
+  "dedup_key": "b8b77faad8fdbe4bfcec969ed56d8e4f",
   "score": 84,
   "priority": "P1",
   "topic": "贵金属",
@@ -445,57 +681,6 @@
   "is_elite": false
  },
  {
-  "title": "雪佛龙、壳牌和英国石油公司在飓风来临前将工人从海湾撤离",
-  "url": "",
-  "summary": "由于气象学家警告称热带风暴正在逼近该地区，雪佛龙正在从其位于墨西哥湾的所有平台上撤离工人。据路透社报道，目前雪佛龙仅撤离非必要人员，并称该设施的石油生产保持正常。然而一些分析师",
-  "pub_time": "2026-10-07T06:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "002135be08870f698dd6062e041155d6",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Chevron, Shell and BP Pull Workers From the Gulf Ahead of Hurricane"
- },
- {
-  "title": "胡塞武装袭击沙特基础设施，布伦特原油价格重回 100 美元上方",
-  "url": "",
-  "summary": "周二下跌的原油价格逆转了方向，在胡塞武装袭击沙特能源基础设施的报道之后，今天早些时候布伦特原油价格再次突破 100 美元。截至撰写本文时，布伦特原油价格为每桶 101.49 美元，西德克萨斯中质原油价格为每桶",
-  "pub_time": "2026-10-07T05:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "1375c3b768197f66475ab8ef7b065de1",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "布伦特油价"
-  ],
-  "en_title": "Brent Back Above $100 as Houthis Hit Saudi Infrastructure"
- },
- {
   "title": "维多利亚工作安全局对男子被困筒仓进行调查",
   "url": "",
   "summary": "维州工作安全局正在调查周二发生的一起事件，一名男子被困在筒仓里的谷物中后被救出。",
@@ -667,86 +852,6 @@
    "农产品"
   ],
   "en_title": "CHS Broadbent to expand with land purchase in Moree precinct"
- },
- {
-  "title": "为什么100美元的石油难以消灭",
-  "url": "",
-  "summary": "尽管最近几周油轮跟踪服务机构和投资银行发布了大量报告和数据，显示来自霍尔木兹海峡的原油流量已经恢复，甚至超过了战前水平，但布伦特原油价格在过去一个月的大部分时间里一直保持在每桶 100 美元以上。但如果是这样的话",
-  "pub_time": "2026-10-07T00:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "1156ef360e7dcc1f07013b6c200e21d4",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Why $100 Oil Is Hard to Kill"
- },
- {
-  "title": "5从霍尔木兹海峡对峙中获利的天然气库存",
-  "url": "",
-  "summary": "当伊朗在3月份袭击卡塔尔的拉斯拉凡综合体并淘汰了该国17%的液化天然气出口能力时，贸易似乎相当简单。购买美国出口商，坐下来等待欧洲和亚洲来敲门，寻找不需要通过霍尔木兹海峡的货物",
-  "pub_time": "2026-10-06T23:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "51d38136a8bd859caef4106b6c032b3e",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气",
-   "锡",
-   "库存"
-  ],
-  "en_title": "5 Natural Gas Stocks Profiting From the Strait of Hormuz Standoff"
- },
- {
-  "title": "G7 的 1 亿桶发行量大部分已计入价格",
-  "url": "",
-  "summary": "在美国总统唐纳德·特朗普的压力下，七国集团领导人周五宣布通过国际能源署协调释放 1 亿桶紧急石油库存，立即开始并在四个月内完成。此前，特朗普威胁要禁止美国柴油出口，以降低",
-  "pub_time": "2026-10-06T22:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "608ba10226da2d231fac095091363112",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "价"
-  ],
-  "en_title": "G7’s 100 Million Barrel Release Is Mostly Already Priced In"
  },
  {
   "title": "发现银项目扫清了墨西哥的关键障碍",
@@ -1337,83 +1442,6 @@
   "en_title": "Westwin Elements to build $502M nickel refinery in Mississippi"
  },
  {
-  "title": "《北方矿工》授予肖恩·博伊德 (Sean Boyd) 奖项，他以“心灵文化”打造了 Agnico Eagle",
-  "url": "",
-  "summary": "1983 年，年轻的审计员肖恩·博伊德 (Sean Boyd) 第一次见到 Agnico Eagle Mines（多伦多证交所、纽约证券交易所代码：AEM）创始人时，肖恩·博伊德 (Sean Boyd) 称赞保罗·佩纳 (Paul Penna) 的公文包。佩纳将其放在​​小小的……《北方矿工》杂志授予肖恩·博伊德 (Sean Boyd)，他以“心灵文化”打造了 Agnico Eagle，并首次出现在《北方矿工》上。",
-  "pub_time": "2026-10-05T20:40:54Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "ad7c8ccfcf25055bf16497c9c0e1c5f5",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Northern Miner awards Sean Boyd who built Agnico Eagle on ‘culture of the heart’"
- },
- {
-  "title": "顾问：投资者需要采取步枪式决策方法",
-  "url": "",
-  "summary": "Feneck Consulting Group 首席执行官表示，投资者在做出决定之前需要了解正在发生的所有情况。",
-  "pub_time": "2026-10-05T20:06:33Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "ffc129ffbe3a2cd175827860cf8b93b5",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Investors need to take a rifle approach to decision making: consultant"
- },
- {
-  "title": "科罗拉多州峰会视频： Giustra表示黄金反弹缺少零售",
-  "url": "",
-  "summary": "“黄金是抵御人类所有愚蠢行为的对冲工具。”",
-  "pub_time": "2026-10-05T19:26:18Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "025da2ac3bb10c4dcc26b2855df305c1",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "上涨"
-  ],
-  "en_title": "Colorado summit video: Giustra says gold rally is missing retail"
- },
- {
   "title": "NCR-SARE 接受可持续农业拨款申请",
   "url": "",
   "summary": "",
@@ -1492,77 +1520,5 @@
    "下跌"
   ],
   "en_title": "CHS Expansion Addresses U.S. Grain Storage Shortfall"
- },
- {
-  "title": "美元和国债收益率走高，金价小幅走低",
-  "url": "",
-  "summary": "(RTTNews) - 在当天早​​些时候出现一些走强之后，金价在周一交易时段小幅走低。",
-  "pub_time": "2026-10-05T17:44:40Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "1754b4d8c761ae56238181bf614f5e8e",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Gold Edging Lower Amid Higher U.S. Dollar, Treasury Yields"
- },
- {
-  "title": "尽管黄金亮点为 6.05 克/吨，斯旺森结果仍达不到要求",
-  "url": "",
-  "summary": "尽管其中一些洞取得了令人鼓舞的成绩，但结果并没有表现出很强的连续性。",
-  "pub_time": "2026-10-05T17:32:38Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "000f262e709fc383ae21f84048c3479a",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "下跌"
-  ],
-  "en_title": "Swanson results fall short despite 6.05-g/t gold highlight"
- },
- {
-  "title": "【独家】涨价动力不足，小麦又要走弱？",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/06/1815658474.shtml",
-  "summary": "",
-  "pub_time": "2026-10-05T16:00:00Z",
-  "source": "粮油豆粕",
-  "_cn": true,
-  "dedup_key": "ce38644b810f3ae8cb0e8f7364632fb2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油豆粕"
-  ],
-  "is_elite": false
  }
 ]
