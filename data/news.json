@@ -1,5 +1,31 @@
 [
  {
+  "title": "古巴的燃料危机使该岛成为太阳能试验场",
+  "url": "",
+  "summary": "由于美国海上封锁阻止燃料到达古巴，古巴正在变成一个太阳能岛屿。尽管美国对古巴实施了数十年的禁运，但来自美国的太阳能技术进口仍在激增，并在没有任何替代方案的情况下加强了太阳能的需求。",
+  "pub_time": "2026-10-08T22:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "7fbd14d3cd798ea44d46a1f289093a4f",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "燃料"
+  ],
+  "en_title": "Cuba’s Fuel Crisis Turns the Island Into a Solar Test Case"
+ },
+ {
   "title": "伊朗战争能源冲击使氢重新回到桌面上",
   "url": "",
   "summary": "今年的全球能源危机重新激发了国际社会对氢在从炼钢到航运等广泛工业应用中替代化石燃料的潜力的兴趣。绿色氢的生产成本仍然非常昂贵，降低了其商业规模化的潜力，而g",
@@ -1459,13 +1485,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：锰硅2611合约震荡运行",
-  "url": "https://news.mysteel.com/a/26100809/D46D810539705211.html",
+  "title": "瑞达期货：焦煤主力2701合约窄幅整理",
+  "url": "https://news.mysteel.com/a/26100809/B0B95B0625C1CEB5.html",
   "summary": "",
   "pub_time": "2026-10-08T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "079edb7105ab6e437adbd1198da46059",
+  "dedup_key": "63859b4905e9f531de01d136d4946120",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1478,13 +1504,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：焦煤主力2701合约窄幅整理",
-  "url": "https://news.mysteel.com/a/26100809/B0B95B0625C1CEB5.html",
+  "title": "瑞达期货：锰硅2611合约震荡运行",
+  "url": "https://news.mysteel.com/a/26100809/D46D810539705211.html",
   "summary": "",
   "pub_time": "2026-10-08T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "63859b4905e9f531de01d136d4946120",
+  "dedup_key": "079edb7105ab6e437adbd1198da46059",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
