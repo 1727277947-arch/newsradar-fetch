@@ -1,5 +1,69 @@
 [
  {
+  "title": "9月中国钢铁运营景气指数为54.1 钢材需求有望小幅回升",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709305.shtml",
+  "summary": "中新社北京10月8日电 (记者 阮煜琳)冶金工业信息标准研究院8日发布的数据显示，2026年9月份，中国钢铁运营景气指数(SOPI)为54.1，环比下降5.3。进入10月份，钢材需求有望小幅回升，带动钢企盈利水平有所修复",
+  "pub_time": "2026-10-08T12:12:06Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "ee1a1ebca3554da63f9daa71047594b8",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Sirios 计划在魁北克省每年生产 200,000 盎司黄金",
+  "url": "",
+  "summary": "Sirios Resources（多伦多证券交易所股票代码：SOI；美国场外交易代码：SIREF）正在将其 Cheechoo 项目规模调整为魁北克詹姆斯湾地区的一个大型独立黄金业务，首席执行官 Jean-Félix Lepage 将存款从...《Sirios 计划在魁北克每年开采 200,000 盎司黄金》一文首先出现在《北方矿工》上。",
+  "pub_time": "2026-10-08T12:00:45Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "225dcec3708d8914d8cdf2168c0c8c35",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Sirios eyes 200,000 oz gold a year in Quebec"
+ },
+ {
+  "title": "广西钢铁3800中厚板项目配套热处理线建安工程钢结构首吊圆满成功",
+  "url": "https://news.mysteel.com/a/26100820/8DA5EEAC97CD6F32.html",
+  "summary": "",
+  "pub_time": "2026-10-08T12:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "d41043b3b21d6ccb04e975aff8b8f6e2",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "智利铜矿中断导致 5% 的产量面临风险",
   "url": "",
   "summary": "新研究发现，劳资纠纷、天气、安全和地质威胁着智利最大铜矿的产量。",
@@ -107,25 +171,6 @@
   "en_title": "Gold Holds Steady In Cautious Trade As Treasury Yields Rise"
  },
  {
-  "title": "（乡村行·看振兴）福建尤溪4.1万亩杂交水稻制种迎丰收 全链条机械化助农增收",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709246.shtml",
-  "summary": "陈建荣 黄功兴)眼下，国家级制种大县福建省尤溪县4.1万亩杂交水稻制种基地全面进入收割旺季。田间收割机穿梭作业，一站式完成收割、脱粒、清杂工序；全县7处种子烘干中心全速运转，闭环保障稻种烘干储存，确保颗粒归仓",
-  "pub_time": "2026-10-08T10:05:19Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "17cf614b1036f5f1edeead2fa384b9de",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
   "title": "由于担心美伊局势升级和美国飓风威胁，油价飙升",
   "url": "",
   "summary": "(RTTNews) - 由于对美伊战争升级的担忧加剧，周四油价飙升近 4%。",
@@ -152,25 +197,6 @@
    "大涨"
   ],
   "en_title": "Oil Prices Surge On Fears Of US-Iran Escalation, US Hurricane Threat"
- },
- {
-  "title": "秋冬轮作不闲置 湖南新田特色种植助农增收",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709226.shtml",
-  "summary": "蒋军君 周林凤)时下，湖南新田县石羊镇宋家村的稻田迎来新一轮繁忙，收割后的水田经翻整，迅速变身特色种植基地",
-  "pub_time": "2026-10-08T09:39:20Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "cfdb47b68f2f225f305f40e1092fe083",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
  },
  {
   "title": "Mysteel晚餐：钢厂生产成本调研出炉",
@@ -868,13 +894,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：锰硅2611合约震荡运行",
-  "url": "https://news.mysteel.com/a/26100809/D46D810539705211.html",
+  "title": "瑞达期货：焦煤主力2701合约窄幅整理",
+  "url": "https://news.mysteel.com/a/26100809/B0B95B0625C1CEB5.html",
   "summary": "",
   "pub_time": "2026-10-08T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "079edb7105ab6e437adbd1198da46059",
+  "dedup_key": "63859b4905e9f531de01d136d4946120",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -887,13 +913,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：焦煤主力2701合约窄幅整理",
-  "url": "https://news.mysteel.com/a/26100809/B0B95B0625C1CEB5.html",
+  "title": "瑞达期货：锰硅2611合约震荡运行",
+  "url": "https://news.mysteel.com/a/26100809/D46D810539705211.html",
   "summary": "",
   "pub_time": "2026-10-08T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "63859b4905e9f531de01d136d4946120",
+  "dedup_key": "079edb7105ab6e437adbd1198da46059",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1560,32 +1586,6 @@
    "黄金"
   ],
   "en_title": "Dutch central bank transfers 86 tonnes of gold closer to home"
- },
- {
-  "title": "SpaceX 寻求批准 32 英里佛罗里达天然气管道",
-  "url": "",
-  "summary": "SpaceX 正在寻求批准在佛罗里达州建设一条 32.4 英里长的天然气管道，该管道将直接连接到州际天然气网络，并为该公司在卡纳维拉尔角不断扩大的发射业务提供供应。拟议的 16 英寸管道将穿过布里瓦德县并连接 SpaceX 运营公司",
-  "pub_time": "2026-10-07T16:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "a0ef1005b2904b340a9baa2f8e7d8873",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气"
-  ],
-  "en_title": "SpaceX Seeks Approval for 32-Mile Florida Natural Gas Pipeline"
  },
  {
   "title": "2026年10月8日大连豆粕期货高开收跌",
@@ -2908,33 +2908,6 @@
    "镍"
   ],
   "en_title": "Inomin cuts 420 metres at Lynx nickel discovery"
- },
- {
-  "title": "Westwin 将在密西西比州建造 5.02 亿美元的镍精炼厂",
-  "url": "",
-  "summary": "随着美国寻求扩大关键矿物的国内加工，Westwin Elements 计划在五年内投资 5.02 亿美元在密西西比州建造一座商业规模的高纯度镍精炼厂。...继 Westwin 计划在密西西比州建造 5.02 亿美元的镍精炼厂后，该公司首先出现在《The Northern》上",
-  "pub_time": "2026-10-06T20:55:06Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "dad7badc84ecd8ae226607d8aed5c5bd",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "炼厂",
-   "镍"
-  ],
-  "en_title": "Westwin to build $502M nickel refinery in Mississippi"
  },
  {
   "title": "原油跌至一个月最低水平后反弹",
