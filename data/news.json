@@ -1,22 +1,162 @@
 [
  {
-  "title": "9月中国钢铁运营景气指数为54.1 钢材需求有望小幅回升",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709305.shtml",
-  "summary": "中新社北京10月8日电 (记者 阮煜琳)冶金工业信息标准研究院8日发布的数据显示，2026年9月份，中国钢铁运营景气指数(SOPI)为54.1，环比下降5.3。进入10月份，钢材需求有望小幅回升，带动钢企盈利水平有所修复",
-  "pub_time": "2026-10-08T12:12:06Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "ee1a1ebca3554da63f9daa71047594b8",
-  "score": 80,
+  "title": "俄罗斯向印度的石油流量骤降至 31 万桶/日",
+  "url": "",
+  "summary": "印度正在减少从俄罗斯进口原油，但这主要不是因为美国对购买俄罗斯石油征收关税威胁。经济因素一直在推动印度炼油商的采购，过去几周也不例外。由于油价上涨，俄罗斯正在减少俄罗斯石油进口",
+  "pub_time": "2026-10-08T14:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "b788ad5d1c3dc2ac5038bd6f00e22e17",
+  "score": 84,
   "priority": "P1",
-  "topic": "国内/大宗商品",
+  "topic": "能源",
   "tags": [
+   "能源",
    "大宗商品",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
   ],
-  "is_elite": false
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Russian Oil Flows to India Plunge to 310,000 Bpd"
+ },
+ {
+  "title": "Equinor 在挪威拥有 40 年历史的 Gullfaks 气田发现新天然气",
+  "url": "",
+  "summary": "Equinor 在 Gullfaks 气田发现了天然气，这将有助于维持北海北部生产许可证的生产和活动。运营商 Equinor 周四表示，与其合作伙伴 Petoro 和 OMV 一起，在 Gullfaks South 油田发现了天然气，19",
+  "pub_time": "2026-10-08T14:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "63a1b31252775ca5fd777029c694a05f",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气"
+  ],
+  "en_title": "Equinor Finds New Gas at Norway’s 40-Year-Old Gullfaks Field"
+ },
+ {
+  "title": "超级油轮每日运价创下 140 万美元的纪录",
+  "url": "",
+  "summary": "石油危机已蔓延至航运业，大型油轮船队在霍尔木兹海峡以外进行船对船转运，推动全球运费创历史新高，并减少了其他航线的船舶可用性。最近几周超级油轮运价飙升，并达到了新的水平",
+  "pub_time": "2026-10-08T13:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "e418ed798c37d6c7f4899245c5531868",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Supertanker Rates Hit Record $1.4 Million a Day"
+ },
+ {
+  "title": "Wesdome 着眼于魁北克基耶纳的低成本黄金提振",
+  "url": "",
+  "summary": "Wesdome 金矿公司 (TSX: WDO; US-OTC: WDOFF) 位于魁北克 Val-d’Or 的 Kiena 矿无需新的重大资本支出即可将产量提高 10% 至 15%，而积极的钻探计划则……《The Northern Miner》首先出现在《The Northern Miner》上。",
+  "pub_time": "2026-10-08T13:00:31Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "05b01992dd39cfdad6e62ecedc501aa8",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Wesdome eyes low-cost gold boost at Quebec’s Kiena"
+ },
+ {
+  "title": "智利罢工威胁产量，铜价上涨",
+  "url": "",
+  "summary": "铜价周四攀升，因智利安托法加斯塔 (LSE: ANTO) Centinela 矿 700 多名工人举行罢工，引发了人们对生产中断可能变得更加严重的担忧……《北方矿业报》首先报道了因智利罢工威胁产量而导致铜价上涨的消息。",
+  "pub_time": "2026-10-08T12:30:00Z",
+  "source": "NorthernMiner",
+  "_cat": "能源",
+  "dedup_key": "1dc72cd719533211b21872ba7c98879c",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "铜",
+   "价",
+   "走强",
+   "产量",
+   "罢工"
+  ],
+  "en_title": "Copper price gains as Chile strike threatens output"
+ },
+ {
+  "title": "CleanTech Lithium 扩大在阿根廷的立足点",
+  "url": "",
+  "summary": "由于开发商计划在 2027 年进行勘探，Laguna Verde 附近的新锂卤矿资源具有增长潜力。",
+  "pub_time": "2026-10-08T12:03:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "40796c1b3f5b7d581fad31cebbd2ec4a",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡"
+  ],
+  "en_title": "CleanTech Lithium expands foothold in Argentina"
  },
  {
   "title": "Sirios 计划在魁北克省每年生产 200,000 盎司黄金",
@@ -1457,31 +1597,6 @@
   "en_title": "Crude Oil Prices Pull Back Sharply After Early Surge"
  },
  {
-  "title": "美国海湾能源中心为应对 2 级飓风做好准备",
-  "url": "",
-  "summary": "热带风暴伊萨亚斯预计将增强为 2 级飓风，本周晚些时候将袭击美国墨西哥湾北部海岸。不确定性范围包括关键能源资产，例如海上石油钻井平台和主要炼油厂。伊萨亚斯位于墨西哥普罗格雷索以西约 285 英里处",
-  "pub_time": "2026-10-07T18:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "269965f52c8da0464724c9a67297bfb6",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "U.S. Gulf Energy Hub Braces for Category 2 Hurricane"
- },
- {
   "title": "金价显着回落",
   "url": "",
   "summary": "(RTTNews) - 继周二交易时段的上涨之后，金价在周三的交易中显着回落。",
@@ -1534,32 +1649,6 @@
    "金属"
   ],
   "en_title": "See How B2Gold Ranks Among Analysts' Top Metals Picks"
- },
- {
-  "title": "数据中心现在正在为芬兰的新电源提供资金",
-  "url": "",
-  "summary": "数据中心已成为芬兰新电力容量的主要资助者。合同正在从可再生能源转向提供基荷供应的能源，正如 Google 与 Fortum 在 Loviisa 签订的 507 兆瓦 (MW) 协议中所看到的那样。该交易是芬兰首个核电采购协议（PPA）",
-  "pub_time": "2026-10-07T17:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "49ea857df1ffb9c43c5974f0bf737d51",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "供应"
-  ],
-  "en_title": "Data Centers Are Now Bankrolling Finland's New Power Supply"
  },
  {
   "title": "荷兰央行将86吨黄金转移到离家更近的地方",
@@ -2856,60 +2945,6 @@
   "en_title": "Discovery silver project clears key Mexico hurdle"
  },
  {
-  "title": "随着品位下降，坎特拉将纽芬兰铜锌资源增长了 55%",
-  "url": "",
-  "summary": "Canterra Minerals（TSXV：CTM；US-OTC：CTMCF）已将其位于纽芬兰的 Lundberg 铜锌矿床的指示资源量增加了 55%，即使在品位下降的情况下仍能实现其所寻求的“更高可信度吨数”...随着品位下降，Canterra 后将纽芬兰铜锌资源量增加了 55%",
-  "pub_time": "2026-10-06T21:05:59Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "9da7a69832ad12c7d50987d6977aa36f",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "锌",
-   "下跌"
-  ],
-  "en_title": "Canterra grows Newfoundland copper-zinc resource 55% as grades fall"
- },
- {
-  "title": "Inomin 在 Lynx 镍矿发现处切割了 420 米",
-  "url": "",
-  "summary": "位于不列颠哥伦比亚省中部的 Inomin Mines (TSXV: MINE) Lynx 矿区的首次钻探将近地表镍镁矿化层切割了 420 米，标志着 Beaver 以南 10 公里处的第二个发现区。... Inomin 在 Lynx 镍矿发现区切割了 420 米，首次出现在《The Northern M》上。",
-  "pub_time": "2026-10-06T21:00:57Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "9e3b24b33fcfe017cbc758e58631175e",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "镍"
-  ],
-  "en_title": "Inomin cuts 420 metres at Lynx nickel discovery"
- },
- {
   "title": "原油跌至一个月最低水平后反弹",
   "url": "",
   "summary": "(RTTNews) - 原油价格在盘初延续近期跌势后，在周二交易日中收复失地。",
@@ -2935,33 +2970,6 @@
    "走强"
   ],
   "en_title": "Crude Oil Regains Ground After Slumping To Lowest Level In A Month"
- },
- {
-  "title": "Beaver Creek 视频：黄金相对于债券获得新作用",
-  "url": "",
-  "summary": "黄金作为政府债券和美元的货币替代品的作用日益增强，可能标志着结构性转变，而不是另一个周期性牛市。",
-  "pub_time": "2026-10-06T17:51:03Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "83851dc83ed3e3348b3451a882cd398d",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "走强"
-  ],
-  "en_title": "Beaver Creek video: Gold gains new role vs bonds"
  },
  {
   "title": "美元回调期间金价走高",
@@ -3033,25 +3041,6 @@
    "中文",
    "国内",
    "粮油豆粕"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：9月大宗商品价格指数上涨，后期或高位回落",
-  "url": "https://news.mysteel.com/a/26100622/12F8CD31DEA64C25.html",
-  "summary": "",
-  "pub_time": "2026-10-06T14:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "febf6b0326b19f48c554e006ee77af48",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
   ],
   "is_elite": false
  }
