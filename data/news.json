@@ -1,5 +1,88 @@
 [
  {
+  "title": "SigraFi 融资 3500 万美元，将手工黄金与机构市场连接起来",
+  "url": "",
+  "summary": "英国公司根据多年合同从有组织的手工和小型金矿合作社购买黄金。",
+  "pub_time": "2026-10-08T23:25:07Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "d5294c84dc0bd29a45edf2a5b5a04767",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "SigraFi raises $35M to connect artisanal gold to institutional markets"
+ },
+ {
+  "title": "超60家企业发涨价函！汽车重要部件，原料价格暴涨",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709435.shtml",
+  "summary": "今年以来，橡胶价格持续走高，截至10月8日收盘，上海期货交易所橡胶主力合约价格为每吨20145元，年内累计涨幅超28%，处于九年以来的高位",
+  "pub_time": "2026-10-08T23:21:57Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "cc5e7682853aa546dc417e73a0cb82ab",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/产业经济",
+  "tags": [
+   "产业经济",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel早读：安泽低硫主焦累降370",
+  "url": "https://news.mysteel.com/a/26100907/84571C0B6795F2DB.html",
+  "summary": "",
+  "pub_time": "2026-10-08T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "7159e72b19791e84fb7b1df2663e14b3",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel早读：安泽低硫主焦累降370，特朗普称中期选举前不会攻击伊朗",
+  "url": "https://news.mysteel.com/a/26100907/624085245B92B990.html",
+  "summary": "",
+  "pub_time": "2026-10-08T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "92ecefcbfc0b223b3cd742c51680cb20",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "古巴的燃料危机使该岛成为太阳能试验场",
   "url": "",
   "summary": "由于美国海上封锁阻止燃料到达古巴，古巴正在变成一个太阳能岛屿。尽管美国对古巴实施了数十年的禁运，但来自美国的太阳能技术进口仍在激增，并在没有任何替代方案的情况下加强了太阳能的需求。",
@@ -844,25 +927,6 @@
   "en_title": "Oil Prices Surge On Fears Of US-Iran Escalation, US Hurricane Threat"
  },
  {
-  "title": "Mysteel晚餐：钢厂生产成本调研出炉",
-  "url": "https://news.mysteel.com/a/26100817/5F07F503B37BCF29.html",
-  "summary": "",
-  "pub_time": "2026-10-08T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "e1634de4f01aeabb1ec96a619590d57e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "关键矿产日报：国际油价大涨",
   "url": "https://news.mysteel.com/a/26100817/D963EDC7C324A7C4.html",
   "summary": "",
@@ -902,7 +966,7 @@
  },
  {
   "title": "关键矿产日报：国际油价大涨，印尼拟收紧新建镍冶炼厂暂停令",
-  "url": "https://news.mysteel.com/a/26100817/4A58B0C78813BD3B.html",
+  "url": "https://news.mysteel.com/a/26100817/699731DD83EB2183.html",
   "summary": "",
   "pub_time": "2026-10-08T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -958,13 +1022,13 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel：9月工程机械行业大事记",
-  "url": "https://news.mysteel.com/a/26100816/C046871013F34804.html",
+  "title": "Mysteel：本周钢材社会库存增加49.80万吨（9月30日-10月7日）",
+  "url": "https://news.mysteel.com/a/26100816/A1C4AB2FD3FEEF9A.html",
   "summary": "",
   "pub_time": "2026-10-08T08:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "e7253bf648b39834dc2c9bb5b8c69b58",
+  "dedup_key": "e4117b1b6ca6915062d85b71d5bb2b1f",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -977,13 +1041,13 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel：本周钢材社会库存增加49.80万吨（9月30日-10月7日）",
-  "url": "https://news.mysteel.com/a/26100816/A1C4AB2FD3FEEF9A.html",
+  "title": "Mysteel：9月工程机械行业大事记",
+  "url": "https://news.mysteel.com/a/26100816/348BF524715EA6E9.html",
   "summary": "",
   "pub_time": "2026-10-08T08:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "e4117b1b6ca6915062d85b71d5bb2b1f",
+  "dedup_key": "e7253bf648b39834dc2c9bb5b8c69b58",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
