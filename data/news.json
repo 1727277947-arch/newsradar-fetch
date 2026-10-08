@@ -1,5 +1,69 @@
 [
  {
+  "title": "11个钢铁项目开工、投产",
+  "url": "https://news.mysteel.com/a/26100810/035E8F12E270DF20.html",
+  "summary": "",
+  "pub_time": "2026-10-08T02:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "6c0cf5d9d7d4e658fa478eaad5faa98d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：9月份11个钢铁项目开工、投产",
+  "url": "https://news.mysteel.com/a/26100810/AD3897B4E52BC320.html",
+  "summary": "",
+  "pub_time": "2026-10-08T02:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "91a316d287a80a6ebdd8782c448cbbe9",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "由于 SA 延迟转向降低磷化氢限值，粮食游说团体松了口气",
+  "url": "",
+  "summary": "与粮食游说团体协商后，南澳政府将实行更严格的磷化氢限制措施的时间从 2026 年 12 月推迟到 2028 年 7 月。",
+  "pub_time": "2026-10-08T01:38:23Z",
+  "source": "GrainCentral",
+  "_cat": "农产品",
+  "dedup_key": "0d2ba6483fcb23c1a4a4126ed8ea6f59",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "谷物"
+  ],
+  "en_title": "Grain lobby relieved as SA delays switch to lower phosphine limits"
+ },
+ {
   "title": "黄金储备“23连增” 背后的深意",
   "url": "https://www.chinanews.com.cn/cj/2026/10-08/10708871.shtml",
   "summary": "央行连续增持黄金，背后有何深意？央行最新数据显示，截至2026年9月末，我国黄金储备为7747万盎司，较8月末的7673万盎司增加74万盎司，已实现连续23个月增持。在全球经济不确定性加剧、国际货币体系深度调整的背景下，中国央行连续增持黄金，并非跟随市场行情的短期投机行为，而是立足国家金融安全、主动优化国际储备资产结构的战略性布局，清晰传递出我国应对外部风险、稳定宏观盘面的底气与定力",
@@ -15,6 +79,63 @@
    "中文",
    "国内",
    "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：9月以来钢厂检修信息汇总",
+  "url": "https://news.mysteel.com/a/26100809/F19E7D78DBCD6B30.html",
+  "summary": "",
+  "pub_time": "2026-10-08T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "c4ee5629daeb7fb31b4db13acdd2d7df",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：工业线材“普转优、优转特”的发展之路",
+  "url": "https://news.mysteel.com/a/26100809/3AE96963872E6CA0.html",
+  "summary": "",
+  "pub_time": "2026-10-08T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "1e7a0db112131e2aac54913f40d72e23",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/产业经济",
+  "tags": [
+   "产业经济",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "黑色期货早报：各品种涨跌不一，多机构料螺纹钢震荡偏弱",
+  "url": "https://news.mysteel.com/a/26100809/B59778460C721B87.html",
+  "summary": "",
+  "pub_time": "2026-10-08T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "40e6ac613ed1fabca2cdfc3da021ab6a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
   ],
   "is_elite": false
  },
@@ -57,13 +178,13 @@
   "is_elite": false
  },
  {
-  "title": "国信期货：宏观压制叠加工业属性 铂钯大幅回调",
-  "url": "https://news.mysteel.com/a/26100809/0F216A8FAEA02D50.html",
+  "title": "中州期货：双焦震荡偏弱",
+  "url": "https://news.mysteel.com/a/26100809/5FDC7ABF66566494.html",
   "summary": "",
   "pub_time": "2026-10-08T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "b4ce37ba0b0c20fcc6e0b70ed4eec0e6",
+  "dedup_key": "0cd3ca0f88ca85e09a920cb3eb4e8beb",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -76,18 +197,189 @@
   "is_elite": false
  },
  {
-  "title": "国信期货：美元美债高位压制，金银震荡走弱",
-  "url": "https://news.mysteel.com/a/26100809/3B304CB03F1BC9C8.html",
+  "title": "中州期货：唐山钢坯下跌10，钢材震荡偏弱",
+  "url": "https://news.mysteel.com/a/26100809/10C72CBE0D96B5E9.html",
   "summary": "",
   "pub_time": "2026-10-08T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "6c386c5166a87c9b116f0a09a336feb6",
+  "dedup_key": "83a45b1bd5d5814979d75b8f7f6416fb",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "瑞达期货：节后热卷或震荡偏弱",
+  "url": "https://news.mysteel.com/a/26100809/0B6DE8DE59A14776.html",
+  "summary": "",
+  "pub_time": "2026-10-08T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "f3f2f7b02f2c003863c49545172908c9",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "瑞达期货：铁矿石现货市场成交低迷",
+  "url": "https://news.mysteel.com/a/26100809/655203F6B59E1C0A.html",
+  "summary": "",
+  "pub_time": "2026-10-08T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "e7e6a236b914bd66901bafe1fbb789cb",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "瑞达期货：螺纹钢或陷入区间整理",
+  "url": "https://news.mysteel.com/a/26100809/B6415BD9C5D2A0EC.html",
+  "summary": "",
+  "pub_time": "2026-10-08T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "c757909da45deba3bbe03f02d840536f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "瑞达期货：焦煤主力2701合约窄幅整理",
+  "url": "https://news.mysteel.com/a/26100809/B0B95B0625C1CEB5.html",
+  "summary": "",
+  "pub_time": "2026-10-08T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "63859b4905e9f531de01d136d4946120",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "瑞达期货：锰硅2611合约震荡运行",
+  "url": "https://news.mysteel.com/a/26100809/D46D810539705211.html",
+  "summary": "",
+  "pub_time": "2026-10-08T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "079edb7105ab6e437adbd1198da46059",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "广发期货：锰硅底部震荡",
+  "url": "https://news.mysteel.com/a/26100809/203CD294234E1154.html",
+  "summary": "",
+  "pub_time": "2026-10-08T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "2c0d0ac50363cbe934de8e21f1af2897",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "广发期货：硅铁震荡运行为主",
+  "url": "https://news.mysteel.com/a/26100809/5E36044E992426C1.html",
+  "summary": "",
+  "pub_time": "2026-10-08T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "5a7c0d175e588c16c3117aee3fe29afa",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "广发期货：铁矿石震荡偏弱运行",
+  "url": "https://news.mysteel.com/a/26100809/9D22AE5790FAE98A.html",
+  "summary": "",
+  "pub_time": "2026-10-08T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "418bb3bb04e418321a5b7303511c34ec",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel数据：中国钢材发运量统计（9.29-10.5）",
+  "url": "https://news.mysteel.com/a/26100809/DCCF5191FA1F6D1B.html",
+  "summary": "",
+  "pub_time": "2026-10-08T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "113d5309e220595159172e673c3ade20",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -329,63 +621,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "24933ced18f8bd4d8217b15957350b22",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "广州期货：10月加息预期降温，金银价格区间震荡",
-  "url": "https://news.mysteel.com/a/26100808/9BE680431728190F.html",
-  "summary": "",
-  "pub_time": "2026-10-08T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "5832ed44a4f2e9a0cc1db1b88e1f41f7",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "瑞达期货：隔夜，伦敦铂钯市场显著走弱",
-  "url": "https://news.mysteel.com/a/26100808/B502C6289180BE5A.html",
-  "summary": "",
-  "pub_time": "2026-10-08T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "a85b53228f042525c25a1af764684d42",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "瑞达期货：节后国内上期所金银期货有小幅跳空低开的可能",
-  "url": "https://news.mysteel.com/a/26100808/088DB4F4E67D8F7E.html",
-  "summary": "",
-  "pub_time": "2026-10-08T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "99d79946592a8f583f6fcc48990bd6f9",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -929,25 +1164,6 @@
   "is_elite": false
  },
  {
-  "title": "CBOT小麦下跌，基准期约收低2.6%",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/08/0533270601.shtml",
-  "summary": "",
-  "pub_time": "2026-10-07T16:00:00Z",
-  "source": "粮油小麦",
-  "_cn": true,
-  "dedup_key": "472a7e6af8e909fe0d4572a81f9aadec",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油小麦"
-  ],
-  "is_elite": false
- },
- {
   "title": "ICE油菜籽追随外部市场下跌",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/08/0656691927.shtml",
   "summary": "",
@@ -1069,6 +1285,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "9b46bd65b231e7590553987507350b34",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT小麦下跌，基准期约收低2.6%",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/08/0533270601.shtml",
+  "summary": "",
+  "pub_time": "2026-10-07T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "a16f77583841ab784966d05575d347e9",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1480,44 +1715,6 @@
   "en_title": "Oil Prices Rise Amid Houthi Attacks, US Storm Concerns"
  },
  {
-  "title": "山东青岛工业旅游升温 老厂房解锁文旅新消费",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-07/10708732.shtml",
-  "summary": "王禹)国庆黄金周，青岛工业旅游市场热度攀升。百年酿造车间里沉浸式剧游轮番上演，老字号厂区科普园迎来研学热潮，老机车厂房变身高铁科技体验地……从传统工业遗存到文旅消费新场景，青岛工业旅游以互动体验、多业态融合的新形态，成为假期文旅消费的重要增长点",
-  "pub_time": "2026-10-07T09:12:07Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "4aaf615bc9f8e379cd18890a63ba0d2d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/产业经济",
-  "tags": [
-   "产业经济",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
-  "title": "中国央行连续23个月增持黄金",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-07/10708703.shtml",
-  "summary": "中新社北京10月7日电 (陶思阅)中国央行7日披露，9月末黄金储备达7747万盎司，环比增加74万盎司。这是中国央行连续第23个月增持黄金",
-  "pub_time": "2026-10-07T07:35:53Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "ab6f7cdfb2892ba95f3645207cde3478",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
   "title": "维多利亚工作安全局对男子被困筒仓进行调查",
   "url": "",
   "summary": "维州工作安全局正在调查周二发生的一起事件，一名男子被困在筒仓里的谷物中后被救出。",
@@ -1606,31 +1803,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "每日市场快讯 2026 年 10 月 7 日",
-  "url": "",
-  "summary": "由于美元疲软和玉米状况评级下调，粮食在 WASDE 之前上涨。 SNSW 大麦收获即将到来。马里油菜籽割晒机估计还有两周时间就能完成。",
-  "pub_time": "2026-10-07T01:21:13Z",
-  "source": "GrainCentral",
-  "_cat": "基本金属",
-  "dedup_key": "4798280198af409b3408f22009ee9af7",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Daily Market Wire 7 October 2026"
  },
  {
   "title": "澳大利亚8月小麦出口166吨，较7月下降16%",
