@@ -775,34 +775,6 @@
   "is_elite": false
  },
  {
-  "title": "大型石油公司开始关闭墨西哥湾的生产",
-  "url": "",
-  "summary": "壳牌和雪佛龙已开始关闭墨西哥湾的平台，以免本周末可能成为飓风的风暴逼近。壳牌正在撤离火星、奥林巴斯、Ursa、Vito和Appomattox等五个平台的所有人员，并停止生产活动",
-  "pub_time": "2026-10-08T08:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "ee57318eb323d5d34200afcc55889d8f",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "锡",
-   "产量"
-  ],
-  "en_title": "Big Oil Begins Shutting In Gulf of Mexico Production"
- },
- {
   "title": "Mysteel：9月工程机械行业大事记",
   "url": "https://news.mysteel.com/a/26100816/C046871013F34804.html",
   "summary": "",
@@ -1330,13 +1302,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：锰硅2611合约震荡运行",
-  "url": "https://news.mysteel.com/a/26100809/D46D810539705211.html",
+  "title": "瑞达期货：焦煤主力2701合约窄幅整理",
+  "url": "https://news.mysteel.com/a/26100809/B0B95B0625C1CEB5.html",
   "summary": "",
   "pub_time": "2026-10-08T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "079edb7105ab6e437adbd1198da46059",
+  "dedup_key": "63859b4905e9f531de01d136d4946120",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1349,13 +1321,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：焦煤主力2701合约窄幅整理",
-  "url": "https://news.mysteel.com/a/26100809/B0B95B0625C1CEB5.html",
+  "title": "瑞达期货：锰硅2611合约震荡运行",
+  "url": "https://news.mysteel.com/a/26100809/D46D810539705211.html",
   "summary": "",
   "pub_time": "2026-10-08T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "63859b4905e9f531de01d136d4946120",
+  "dedup_key": "079edb7105ab6e437adbd1198da46059",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
