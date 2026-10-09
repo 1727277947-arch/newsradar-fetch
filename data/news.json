@@ -1,5 +1,76 @@
 [
  {
+  "title": "国油计划将 2027 年马来西亚股息提高 19% 至 78 亿美元",
+  "url": "",
+  "summary": "随着油价飙升并提高公司利润，国有能源巨头马来西亚国家石油公司(Petronas)将在2027年将其欠马来西亚政府的股息提高19%。马来西亚财政部在周五公布的2027年预算中估计，明年政府收入预计将增长4.7%。一个",
+  "pub_time": "2026-10-09T13:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "098c7e2aa1a2a142272b218d75c718cd",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Petronas to Raise Malaysia Dividend 19% to $7.8 Billion for 2027"
+ },
+ {
+  "title": "中国财政政策展望：重点做好六大工作",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709912.shtml",
+  "summary": "中新社北京10月9日电 (记者 赵建华)中国财政部9日对外公布2026年上半年中国财政政策执行情况报告(下称报告)。谈及财政政策展望时，报告表示，充分发挥各项存量政策效能，根据宏观经济运行情况及时谋划出台务实管用的增量政策，重点做好六方面工作：有力有效实施更加积极的财政政策，支持全方位扩大国内需求，推动科技创新和产业创新，持续保障和改善民生，加强重点领域风险防范化解，深化财政管理改革",
+  "pub_time": "2026-10-09T13:18:40Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "447a2fb3556a779030703441acb56c01",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/金融政策",
+  "tags": [
+   "金融政策",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "能源方面称原油价格被低估",
+  "url": "",
+  "summary": "Energy Aspects 创始人兼市场情报总监 Amrita Sen 周五对 CNBC 表示，石油期货价格与中东实际情况脱节，部分实物原油价格应该接近每桶 150 美元。市场再次令人惊讶地自满",
+  "pub_time": "2026-10-09T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "2eb06385414a3bfea3c6c0b3fc7ce860",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "原油",
+   "能源",
+   "价"
+  ],
+  "en_title": "Crude Oil is Underpriced, Energy Aspects Says"
+ },
+ {
   "title": "CleanTech Lithium 扩大在阿根廷的立足点",
   "url": "",
   "summary": "CleanTech Lithium（伦敦证券交易所股票代码：CTL）已获得在阿根廷安托法拉盐沼（Salar de Antofalla）增加两处锂卤水资产的选择权，扩大其在旗舰 Laguna Verde 项目附近的足迹。该公司签署... CleanTech Lithium 扩大在阿根廷的立足点后首先出现在《北方矿工》上",
@@ -1461,34 +1532,6 @@
   "en_title": "NCI Plans Wheat-Specific Grain Procurement Course for 2027﻿"
  },
  {
-  "title": "特朗普排除伊朗在中期选举前发动袭击的可能性，油价暴跌",
-  "url": "",
-  "summary": "周四中午（东部），特朗普总统刚刚发布了一份新的《真相社会邮报》，其中他宣称“我们不会在 11 月中期选举之前的任何时候攻击伊朗”。声明发表后油价下跌（尽管当天仍然上涨）......下面是特朗普的完整帖子，其中",
-  "pub_time": "2026-10-08T18:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "4fdc415d2d16a97b8732209ea086a4db",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "罢工"
-  ],
-  "en_title": "Oil Prices Plunge as Trump Rules Out Iran Strikes Before Midterms"
- },
- {
   "title": "黄金价格缺乏方向",
   "url": "",
   "summary": "(RTTNews) - 周四交易时段黄金价格缺乏方向，在前一交易日大幅回调后在不变线附近来回反弹。",
@@ -1514,35 +1557,6 @@
    "价"
   ],
   "en_title": "Gold Prices Showing A Lack Of Direction"
- },
- {
-  "title": "尽管全国平均汽油价格下滑，但美国十月汽油价格仍创历史新高",
-  "url": "",
-  "summary": "美国汽油价格连续第二周下跌，但司机支付的加油费用仍高于 10 月份。周四，AAA 公布的全国平均价格为每加仑 4.36 美元，比一周前下跌约 5 美分。一年前，汽油平均价格为 3.12 美元。这是第一个十月",
-  "pub_time": "2026-10-08T17:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "d1e54494f5c374e26962eee72e198079",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "汽油",
-   "天然气",
-   "价",
-   "回落"
-  ],
-  "en_title": "U.S. Gasoline Prices Set October Record Even as National Average Slips"
  },
  {
   "title": "卡莫阿-卡库拉铜产量反弹，艾芬豪铜产量跃升 19%",
@@ -3792,34 +3806,6 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "黄金 ETF 热潮无视金价下跌 8.5%",
-  "url": "",
-  "summary": "上个季度，尽管黄金遭受了今年最大幅度的月度跌幅，投资者仍向黄金支持的交易所交易基金 (ETF) 注入了创纪录的资金量，突显出黄金 ETF 热潮无视金价 8.5% 下滑的不寻常分裂。",
-  "pub_time": "2026-10-07T15:34:26Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "ab1e5a38de1f21946eae53170aa71897",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "价",
-   "下滑"
-  ],
-  "en_title": "Gold ETF rush defies 8.5% gold price slide"
  },
  {
   "title": "金山考虑复兴战时巴西钨矿",
