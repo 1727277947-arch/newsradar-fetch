@@ -1,5 +1,58 @@
 [
  {
+  "title": "霍尔木兹危机导致欧盟天然气储存进入冬季的时间较短",
+  "url": "",
+  "summary": "美国能源经济与金融分析研究所 (IEEFA) 在周五的一份报告中表示，每年这个时候储存地点的天然气含量处于历史低位，可能导致欧盟在冬季出现天然气短缺，并可能迫使欧盟削减 7% 的需求。欧洲",
+  "pub_time": "2026-10-09T10:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "95d08a0b23d86a0dd155e66bc6449c0b",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气"
+  ],
+  "en_title": "Hormuz Crisis Leaves EU Gas Storage Short Heading Into Winter"
+ },
+ {
+  "title": "随着美元暂停，黄金价格上涨，收益率从 24 年高点回落",
+  "url": "",
+  "summary": "(RTTNews) - 由于油价下跌和债券收益率企稳，金价周五大幅走高，有助于缓解对通胀和利率的担忧。",
+  "pub_time": "2026-10-09T10:07:17Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "6ff9e03d0eafa4adb1f048c89c60e3d9",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "年内新高"
+  ],
+  "en_title": "Gold Rallies As Dollar Pauses, Yields Ease From 24-year Highs"
+ },
+ {
   "title": "特朗普对伊朗谈判发表评论后油价小幅下跌",
   "url": "",
   "summary": "(RTTNews) - 周五油价走低，收窄了前一交易日的涨幅，因美国总统唐纳德·特朗普发表评论称美国不会在下个月中期选举前攻击伊朗并讨论中东供应担忧有所缓解。",
@@ -172,27 +225,8 @@
   "is_elite": false
  },
  {
-  "title": "有色持仓日报：沪铜跌0.57%，金瑞期货增持超1.2千手多单",
-  "url": "https://news.mysteel.com/a/26100915/830EB8B77BD39F28.html",
-  "summary": "",
-  "pub_time": "2026-10-09T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "fb041601c8963014a5e63182af3cd41d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "黑色持仓日报：焦煤涨4.3%，国泰君安增持超4千手多单",
-  "url": "https://news.mysteel.com/a/26100915/A1BA8418A32E1802.html",
+  "url": "https://news.mysteel.com/a/26100915/FE13CFC9366B857D.html",
   "summary": "",
   "pub_time": "2026-10-09T07:00:00Z",
   "source": "上海钢联Mysteel",
@@ -203,6 +237,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "有色持仓日报：沪铜跌0.57%，金瑞期货增持超1.2千手多单",
+  "url": "https://news.mysteel.com/a/26100915/6ADA49B6A23C0579.html",
+  "summary": "",
+  "pub_time": "2026-10-09T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "fb041601c8963014a5e63182af3cd41d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -1471,32 +1524,6 @@
   "en_title": "Reliance Drives India’s Venezuelan Oil Imports to Seven-Year High"
  },
  {
-  "title": "Equinor 在 Gullfaks South 发现了多达 1030 万桶石油当量",
-  "url": "",
-  "summary": "Equinor 及其合作伙伴利用生产井作业期间钻探的勘探侧钻，在挪威 Gullfaks South 气田发现了估计 330 万至 1030 万桶可采油当量的天然气。 10 月 8 日宣布的这一发现凸显了 targ 的作用",
-  "pub_time": "2026-10-08T16:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "8c38443ff924e00164dc5d686cea5ba2",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Equinor Finds Up to 10.3 Million Barrels of Oil Equivalent at Gullfaks South"
- },
- {
   "title": "2026年10月9日大连豆粕期货低开收涨",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/09/0655315898.shtml",
   "summary": "",
@@ -1580,25 +1607,6 @@
   "source": "粮油玉米",
   "_cn": true,
   "dedup_key": "8d873dbbd7b92dbca49dc5a3557f66af",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
-  "title": "美国玉米现货价格下跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/09/2629290919.shtml",
-  "summary": "",
-  "pub_time": "2026-10-08T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "380df5aca033274fd6042d53782c3c9f",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -2117,6 +2125,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "美国玉米现货价格下跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/09/2629290919.shtml",
+  "summary": "",
+  "pub_time": "2026-10-08T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "393f00806bf756b781276b0cae56c01e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "粮油首页"
@@ -3075,33 +3102,6 @@
    "谷物"
   ],
   "en_title": "GrainGrowers Members Approve Constitutional Changes"
- },
- {
-  "title": "皇家黄金公司着眼于增长，收购延长了储备寿命并增加了现金流",
-  "url": "",
-  "summary": "黄金正在测试其 200 天移动平均线——这 3 只矿业股是 PlayRoyal Gold（纳斯达克股票代码：RGLD）战略和业务开发高级副总裁 Jason Hynes 表示，该公司的特许权使用费和流媒体投资组合正受益于强劲的贵金属价格、最近的收购",
-  "pub_time": "2026-10-07T19:02:21Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "ac395ae223200df8385c0faf150fb2b8",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "燃料"
-  ],
-  "en_title": "Royal Gold Eyes Growth as Acquisitions Extend Reserve Life and Fuel Cash Flow"
  },
  {
   "title": "荷兰央行将86吨黄金转移到离家更近的地方",
