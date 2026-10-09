@@ -1,5 +1,133 @@
 [
  {
+  "title": "特朗普对伊朗谈判发表评论后油价小幅下跌",
+  "url": "",
+  "summary": "(RTTNews) - 周五油价走低，收窄了前一交易日的涨幅，因美国总统唐纳德·特朗普发表评论称美国不会在下个月中期选举前攻击伊朗并讨论中东供应担忧有所缓解。",
+  "pub_time": "2026-10-09T09:46:24Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "fb71961c2f935beadcd43a3e47fd9916",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Oil Edges Lower After Trump Comments On Iran Talks"
+ },
+ {
+  "title": "澳大利亚即将敲定液化天然气出口商的天然气储备计划",
+  "url": "",
+  "summary": "澳大利亚政府将于下周提出一项法案，为所谓的国内天然气储备计划制定最终规则，该法案将要求液化天然气出口商将其总产量的20%保留在澳大利亚，预计澳大利亚东海岸将在本世纪末面临供应问题。",
+  "pub_time": "2026-10-09T09:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "8894b19df732790b0cdbb9ca035cffa7",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气"
+  ],
+  "en_title": "Australia Close to Finalizing Gas Reservation Plan for LNG Exporters"
+ },
+ {
+  "title": "Mysteel晚餐：焦炭开启第二轮提降",
+  "url": "https://news.mysteel.com/a/26100917/1CDA3207687AD17E.html",
+  "summary": "",
+  "pub_time": "2026-10-09T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "19716c817518e6602c456c8de4136cf1",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "每日钢市：钢坯上调10，焦炭提降100，钢价难涨",
+  "url": "https://news.mysteel.com/a/26100917/6E8008E700D5AEA6.html",
+  "summary": "",
+  "pub_time": "2026-10-09T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "41620767b810a50d2a2d667d822329d7",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel晚餐：焦炭开启第二轮提降，进口铁矿石港库增加",
+  "url": "https://news.mysteel.com/a/26100917/86E7575EE3A9A6B1.html",
+  "summary": "",
+  "pub_time": "2026-10-09T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "4e692114b4902dd4e4194fd7f4f518d6",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel日报：黑色金属期货震荡上涨运行",
+  "url": "https://news.mysteel.com/a/26100917/C61B8666BBBF373B.html",
+  "summary": "",
+  "pub_time": "2026-10-09T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "d89484a3a42740ff8b8ff0df79437318",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "Venture Global 输给葡萄牙 Galp 液化天然气仲裁",
   "url": "",
   "summary": "法院裁定 Venture Global 违反了与葡萄牙 Galp 的合同，这是对这家美国液化天然气巨头的第二次不利裁决。 Galp 是六家能源公司之一，它们起诉 Venture Global 违反其液化天然气长期供应合同，以实现更丰厚的利润。",
@@ -25,13 +153,13 @@
   "en_title": "Venture Global Loses LNG Arbitration to Portugal's Galp"
  },
  {
-  "title": "黑色持仓日报：国泰君安增持超4千手焦煤多单",
-  "url": "https://news.mysteel.com/a/26100915/FE13CFC9366B857D.html",
+  "title": "Mysteel：10月国内不锈钢粗钢计划排产同环比基本持平",
+  "url": "https://news.mysteel.com/a/26100915/4D305772DE44B23F.html",
   "summary": "",
   "pub_time": "2026-10-09T07:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "c00e3d1bcef2fb17454bad0eb7a724f3",
+  "dedup_key": "701cbed1ea3df23f7ec2902a135f8ece",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -349,25 +477,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "0dccb43b7d1b553952cc857d8c78849e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "中钢协：2026年8月“对标挖潜”企业钢铁原料采购成本分析",
-  "url": "https://news.mysteel.com/a/26100909/0CDA176D6A51FDCD.html",
-  "summary": "",
-  "pub_time": "2026-10-09T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "ff8744cb367d4c82550a3d7324d1cabe",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -2340,7 +2449,7 @@
  },
  {
   "title": "Mysteel晚餐：钢厂生产成本调研出炉，澳巴铁矿石港库下降",
-  "url": "https://news.mysteel.com/a/26100817/2BB65749BDD7939F.html",
+  "url": "https://news.mysteel.com/a/26100817/5F07F503B37BCF29.html",
   "summary": "",
   "pub_time": "2026-10-08T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -2351,25 +2460,6 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "关键矿产日报：国际油价大涨，印尼拟收紧新建镍冶炼厂暂停令",
-  "url": "https://news.mysteel.com/a/26100817/699731DD83EB2183.html",
-  "summary": "",
-  "pub_time": "2026-10-08T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "8816ef200b63731ba79b3bee2247858f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -2396,18 +2486,18 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel：本周钢材社会库存增加49.80万吨（9月30日-10月7日）",
-  "url": "https://news.mysteel.com/a/26100816/A1C4AB2FD3FEEF9A.html",
+  "title": "关键矿产日报：国际油价大涨，印尼拟收紧新建镍冶炼厂暂停令",
+  "url": "https://news.mysteel.com/a/26100817/D963EDC7C324A7C4.html",
   "summary": "",
-  "pub_time": "2026-10-08T08:00:00Z",
+  "pub_time": "2026-10-08T09:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "e4117b1b6ca6915062d85b71d5bb2b1f",
+  "dedup_key": "8816ef200b63731ba79b3bee2247858f",
   "score": 80,
   "priority": "P1",
-  "topic": "国内/财经",
+  "topic": "国内/大宗商品",
   "tags": [
-   "财经",
+   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -2460,25 +2550,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "ee24e5e21947290a505f7ed67c52e74b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "WTI原油期货涨幅扩大至3%",
-  "url": "https://news.mysteel.com/a/26100815/52D65056DFB0B765.html",
-  "summary": "",
-  "pub_time": "2026-10-08T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "c0c258da5b163537d9068de17a9d0212",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -2878,25 +2949,6 @@
   "is_elite": false
  },
  {
-  "title": "世界黄金协会：全球黄金ETF第三季度流入量达到创纪录的310亿美元",
-  "url": "https://news.mysteel.com/a/26100808/7339CCC9517AE5D7.html",
-  "summary": "",
-  "pub_time": "2026-10-08T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "24933ced18f8bd4d8217b15957350b22",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "美联储政府与 SunRice 一起资助新的 Leeton 工厂",
   "url": "",
   "summary": "美联储政府正在利顿投资一家年糕制造工厂，以缓冲 SunRice 8 月份宣布的裁员影响。",
@@ -3050,34 +3102,6 @@
    "燃料"
   ],
   "en_title": "Royal Gold Eyes Growth as Acquisitions Extend Reserve Life and Fuel Cash Flow"
- },
- {
-  "title": "原油价格在早期飙升后大幅回落",
-  "url": "",
-  "summary": "(RTTNews) - 周三交易日原油价格大幅下跌，在盘初飙升后大幅回落。",
-  "pub_time": "2026-10-07T18:46:05Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "4566e9175fa3e2cf5fe432b82a762d30",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "大涨"
-  ],
-  "en_title": "Crude Oil Prices Pull Back Sharply After Early Surge"
  },
  {
   "title": "荷兰央行将86吨黄金转移到离家更近的地方",
@@ -3277,25 +3301,6 @@
   "is_elite": false
  },
  {
-  "title": "10月8日马来西亚棕榈油10月船期FOB报价",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/08/2132721569.shtml",
-  "summary": "",
-  "pub_time": "2026-10-07T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "9a99ca4d0de00220a518ca912ab76614",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年10月8日郑州菜油期货收盘高开收涨",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/08/0512981828.shtml",
   "summary": "",
@@ -3322,25 +3327,6 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "46801ca3d112a7cb0037be1c3bd31ad8",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月8日郑州菜油期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/08/0142479218.shtml",
-  "summary": "",
-  "pub_time": "2026-10-07T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "510952bc02d58bccb8fbaf235ef3f19e",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
