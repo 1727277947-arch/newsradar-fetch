@@ -1,5 +1,31 @@
 [
  {
+  "title": "玉米种植者将获得美国农业部 50 亿美元安全网付款",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-10-09T19:51:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "bd3bf3e13092d96e66d9cf7215db8707",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "玉米"
+  ],
+  "en_title": "Corn Growers to Receive $5 Billion in USDA Safety Net Payments"
+ },
+ {
   "title": "原油价格继昨日飙升后小幅上涨",
   "url": "",
   "summary": "(RTTNews) - 继前一交易日大幅上涨后，周五交易日原油价格缺乏方向。",
@@ -818,32 +844,6 @@
   "is_elite": false
  },
  {
-  "title": "霍尔木兹油轮运输量创两个月低点，布伦特原油价格维持在 100 美元以上",
-  "url": "",
-  "summary": "由于霍尔木兹海峡及其以外的一系列油轮袭击事件，原油价格今天早些时候预计将录得每周上涨。有报道援引特朗普总统的话说，正在与伊朗进行富有成效的谈判，但这未能缓解推动基准走高的担忧。当时",
-  "pub_time": "2026-10-09T05:03:51Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "83f14bc39eb34eadd5de09cb312509d1",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "布伦特油价"
-  ],
-  "en_title": "Brent Holds Above $100 as Hormuz Tanker Traffic Hits Two-Month Low"
- },
- {
   "title": "埃德温·巴松：中国钢铁将在直面挑战中变得更具竞争力",
   "url": "https://news.mysteel.com/a/26100913/2F5E9923CEF1FDAD.html",
   "summary": "",
@@ -1586,32 +1586,6 @@
    "黄金"
   ],
   "en_title": "Gold Mountain targets WWII tungsten mine in Brazil"
- },
- {
-  "title": "Sirios 计划每年在魁北克生产 200,000 盎司黄金",
-  "url": "",
-  "summary": "Sirios Resources（多伦多证券交易所股票代码：SOI；美国场外交易代码：SIREF）正在将其 Cheechoo 项目规模调整为魁北克詹姆斯湾地区的一个大型独立黄金业务，首席执行官 Jean-Félix Lepage 将存款从...《Sirios 计划在魁北克每年生产 200,000 盎司黄金》一文首先出现在《北方矿工》上。",
-  "pub_time": "2026-10-08T20:00:45Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "38ea42475addc35c00eb851e9b879b4a",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Sirios plans 200,000 oz gold a year in Quebec"
  },
  {
   "title": "Levack重启使麦格纳进入安大略省的两矿轨道",
@@ -3248,108 +3222,5 @@
    "基本金属"
   ],
   "en_title": "Fed Govt joins SunRice in funding new Leeton plant"
- },
- {
-  "title": "GFI 股票挤满了卖家",
-  "url": "",
-  "summary": "在周三的交易中，Gold Fields Ltd.（代码：GFI）的股票进入超卖区域，换手价低至每股 34.53 美元。我们使用相对强度指数 (RSI) 定义超卖区域，这是一种用于衡量动量的技术分析指标",
-  "pub_time": "2026-10-07T20:16:14Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "13a6f1a2d21ebff2ff01bc297e29b565",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "库存"
-  ],
-  "en_title": "GFI Stock Crowded With Sellers"
- },
- {
-  "title": "EGO 跌破关键移动平均线水平",
-  "url": "",
-  "summary": "在周三的交易中，Eldorado Gold Corp（股票代码：EGO）的股价跌破 37.03 美元的 200 日移动平均线，易手低至每股 36.08 美元。埃尔多拉多黄金公司 (Eldorado Gold Corp) 股价当天下跌约 5.2%。下图显示了一年的p",
-  "pub_time": "2026-10-07T20:15:56Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "6b75ac120fb154560efe0ccd9ff9203f",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "EGO Crosses Below Key Moving Average Level"
- },
- {
-  "title": "密歇根州玉米干枯率预计将下降至 11 月",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-10-07T20:06:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "aec797bfcb7f5ade1603ee8126e6d8d6",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "玉米"
-  ],
-  "en_title": "Michigan Corn Dry-Down Rates Expected To Decline Through November"
- },
- {
-  "title": "GrainGrowers 成员批准宪法修正案",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-10-07T19:37:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "2bc1aa78f8a2933e8208aba12814aeec",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "谷物"
-  ],
-  "en_title": "GrainGrowers Members Approve Constitutional Changes"
  }
 ]
