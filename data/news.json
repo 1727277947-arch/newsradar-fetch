@@ -1,5 +1,58 @@
 [
  {
+  "title": "原油价格继昨日飙升后小幅上涨",
+  "url": "",
+  "summary": "(RTTNews) - 继前一交易日大幅上涨后，周五交易日原油价格缺乏方向。",
+  "pub_time": "2026-10-09T18:44:21Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "5baa47a84010a22e3be65848c9e12a72",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价"
+  ],
+  "en_title": "Crude Oil Prices Moderately Higher After Yesterday's Spike"
+ },
+ {
+  "title": "Baldwin Supply 开设第一家内布拉斯加州分公司",
+  "url": "",
+  "summary": "新地点扩大了区域库存和定制传送带能力",
+  "pub_time": "2026-10-09T18:40:00Z",
+  "source": "Grainnet",
+  "_cat": "基本金属",
+  "dedup_key": "72ed7bdb79f2c5f45fa67b2b866b2a13",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "供应"
+  ],
+  "en_title": "Baldwin Supply Opens First Nebraska Branch"
+ },
+ {
   "title": "尽管美元上涨，金价仍大幅走高",
   "url": "",
   "summary": "(RTTNews) - 在结束昨天的震荡交易后，金价在周五的交易中出现了更显着的上涨趋势。",
