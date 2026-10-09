@@ -1,5 +1,31 @@
 [
  {
+  "title": "世界顶级原油交易商尚未排除油价 200 美元的可能性",
+  "url": "",
+  "summary": "全球最大的独立石油贸易商维多集团首席执行官拉塞尔·哈迪表示，阿曼湾的船对船转运使中东石油持续流动，为海湾生产商和石油市场提供了生命线。 “没有它，你确实有 200 美元一桶",
+  "pub_time": "2026-10-09T00:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "370ae81c38ad1568fa41b6c6723ab85e",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "World’s Top Crude Trader Isn’t Ruling Out $200 Oil Just Yet"
+ },
+ {
   "title": "SigraFi 融资 3500 万美元，将手工黄金与机构市场连接起来",
   "url": "",
   "summary": "英国公司根据多年合同从有组织的手工和小型金矿合作社购买黄金。",
@@ -697,6 +723,120 @@
   "en_title": "Equinor Finds Up to 10.3 Million Barrels of Oil Equivalent at Gullfaks South"
  },
  {
+  "title": "CBOT豆粕下跌，因油粕套利活跃",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/09/0933832893.shtml",
+  "summary": "",
+  "pub_time": "2026-10-08T16:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "cb8a09cc9211ff8a8d35a8ebb825c398",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT玉米下跌，因收获步伐加快",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/09/1233503810.shtml",
+  "summary": "",
+  "pub_time": "2026-10-08T16:00:00Z",
+  "source": "粮油玉米",
+  "_cn": true,
+  "dedup_key": "a7946d4e5337931ba953c38a9f645eb0",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油玉米"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT大豆下跌，因收获加快，中国需求匮乏",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/09/0325523679.shtml",
+  "summary": "",
+  "pub_time": "2026-10-08T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "9cd3be79e82a663f5b3be82a08b6d4e4",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT小麦下跌，基准期约收低0.4%",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/09/1318153258.shtml",
+  "summary": "",
+  "pub_time": "2026-10-08T16:00:00Z",
+  "source": "粮油小麦",
+  "_cn": true,
+  "dedup_key": "eaf004da2320932b1e22a1085147c390",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油小麦"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "ICE油菜籽追随原油上涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/09/1607899387.shtml",
+  "summary": "",
+  "pub_time": "2026-10-08T16:00:00Z",
+  "source": "粮油菜籽",
+  "_cn": true,
+  "dedup_key": "5d3dbcb01774ec770e2b7d5fc9bd418b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT豆油追随原油上涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/09/1120136630.shtml",
+  "summary": "",
+  "pub_time": "2026-10-08T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "9e78fa0a854ab2f68f694b2c8f3da21b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "BMO：钼将连续第六次短缺，价格创历史新高",
   "url": "",
   "summary": "BMO 表示，由于短期内不存在可以提高产量的新项目，因此这一趋势应该会在 2027 年持续下去。",
@@ -773,31 +913,6 @@
    "天然气"
   ],
   "en_title": "Equinor Finds New Gas at Norway’s 40-Year-Old Gullfaks Field"
- },
- {
-  "title": "超级油轮每日运价创下 140 万美元的纪录",
-  "url": "",
-  "summary": "石油危机已蔓延至航运业，大型油轮船队在霍尔木兹海峡以外进行船对船转运，推动全球运费创历史新高，并减少了其他航线的船舶可用性。最近几周超级油轮运价飙升，并达到了新的水平",
-  "pub_time": "2026-10-08T13:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "e418ed798c37d6c7f4899245c5531868",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Supertanker Rates Hit Record $1.4 Million a Day"
  },
  {
   "title": "CleanTech Lithium 扩大在阿根廷的立足点",
@@ -947,7 +1062,7 @@
  },
  {
   "title": "Mysteel晚餐：钢厂生产成本调研出炉，澳巴铁矿石港库下降",
-  "url": "https://news.mysteel.com/a/26100817/E30D80ED16CE2E12.html",
+  "url": "https://news.mysteel.com/a/26100817/2BB65749BDD7939F.html",
   "summary": "",
   "pub_time": "2026-10-08T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -2682,25 +2797,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年10月8日大连豆油期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/08/0051130802.shtml",
-  "summary": "",
-  "pub_time": "2026-10-07T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "011ad81c5c68a24fbe51843da06ed65a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "马来西亚棕榈油日评：棕榈油继续下跌，因担忧库存创纪录",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/08/0740452418.shtml",
   "summary": "",
@@ -2746,25 +2842,6 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "6379005b31ae7a7facb1fb2b2539a00e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "CBOT玉米下跌，因收获步伐加快",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/08/0452558957.shtml",
-  "summary": "",
-  "pub_time": "2026-10-07T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "56ab8e33dbb0b43d5ee9bcad109f5de3",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -2879,6 +2956,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "286a01754ab12525d3f392489283d4c7",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年10月8日大连豆油期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/08/0051130802.shtml",
+  "summary": "",
+  "pub_time": "2026-10-07T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "011ad81c5c68a24fbe51843da06ed65a",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -3134,30 +3230,5 @@
    "出口"
   ],
   "en_title": "Australia exports 1.66Mt wheat in August, down 16pc from July"
- },
- {
-  "title": "CHS Broadbent 将在莫里区购买土地进行扩张",
-  "url": "",
-  "summary": "CHS Broadbent在莫里特别激活区购买了14.6公顷的土地，以提高其粮食、棉花和化肥的储存、仓储和进出口能力。",
-  "pub_time": "2026-10-07T00:12:43Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "d44e12bb69afcdc070db46969d979f32",
-  "score": 84,
-  "priority": "P1",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品"
-  ],
-  "en_title": "CHS Broadbent to expand with land purchase in Moree precinct"
  }
 ]
