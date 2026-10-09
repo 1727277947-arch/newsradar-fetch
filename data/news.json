@@ -1,5 +1,127 @@
 [
  {
+  "title": "CleanTech Lithium 扩大在阿根廷的立足点",
+  "url": "",
+  "summary": "CleanTech Lithium（伦敦证券交易所股票代码：CTL）已获得在阿根廷安托法拉盐沼（Salar de Antofalla）增加两处锂卤水资产的选择权，扩大其在旗舰 Laguna Verde 项目附近的足迹。该公司签署... CleanTech Lithium 扩大在阿根廷的立足点后首先出现在《北方矿工》上",
+  "pub_time": "2026-10-09T12:15:00Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "8500278012240a2ac51f030ad67a29a2",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡"
+  ],
+  "en_title": "CleanTech Lithium expands foothold in Argentina"
+ },
+ {
+  "title": "英国科学家转向生物学寻找更清洁的锂",
+  "url": "",
+  "summary": "伯明翰大学的研究人员正在领导一个耗资 620 万英镑（820 万美元）的项目，开发基于蛋白质的膜，使锂提取更具选择性，并可能降低能源密集度。这项为期三年的计划，......后英国科学家转向生物学寻找",
+  "pub_time": "2026-10-09T12:00:00Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "5149b0044ddb0d643453bca258d76a16",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "UK scientists turn to biology in search for cleaner lithium"
+ },
+ {
+  "title": "超级油轮运价高达 8200 万美元，亚洲炼油商放弃美国石油",
+  "url": "",
+  "summary": "炼油厂为从美国墨西哥湾沿岸接收原油船货必须支付创纪录的高运费，这实际上切断了对亚洲的套利，随着最大原油进口地区的炼油厂转向更多来自中东和南美的原油，船舶经纪人和贸易商不得不",
+  "pub_time": "2026-10-09T11:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "af472076981cc5d3472aea64ea2b5fb8",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Asian Refiners Ditch U.S. Oil as Supertanker Rates Hit $82 Million"
+ },
+ {
+  "title": "Mysteel：从《关于发展新质生产力的意见》看未来钢铁行业发展方向",
+  "url": "https://news.mysteel.com/a/26100919/DCB7D5748B431A9E.html",
+  "summary": "",
+  "pub_time": "2026-10-09T11:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "2d6bc2b3e48db5815ed32d5c9adebe80",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "欧盟将 KGHM 的 $2.4B 铜项目纳入快车道",
+  "url": "",
+  "summary": "随着欧洲寻求扩大国内金属供应和加工，布鲁塞尔给予波兰两项投资优先权。",
+  "pub_time": "2026-10-09T10:53:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "5bd9be9d80b874a029510b3d8217ff2f",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜"
+  ],
+  "en_title": "EU puts KGHM’s $2.4B copper projects on fast track"
+ },
+ {
   "title": "霍尔木兹危机导致欧盟天然气储存进入冬季的时间较短",
   "url": "",
   "summary": "美国能源经济与金融分析研究所 (IEEFA) 在周五的一份报告中表示，每年这个时候储存地点的天然气含量处于历史低位，可能导致欧盟在冬季出现天然气短缺，并可能迫使欧盟削减 7% 的需求。欧洲",
@@ -899,7 +1021,7 @@
  },
  {
   "title": "Mysteel早读：安泽低硫主焦累降370，特朗普称中期选举前不会攻击伊朗",
-  "url": "https://news.mysteel.com/a/26100907/970B9D965A50E1B2.html",
+  "url": "https://news.mysteel.com/a/26100907/84571C0B6795F2DB.html",
   "summary": "",
   "pub_time": "2026-10-08T23:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1475,34 +1597,6 @@
    "大豆"
   ],
   "en_title": "CHS Breaks Ground on $700 Million Wisconsin Soybean Processing Facility"
- },
- {
-  "title": "信实集团推动印度委内瑞拉石油进口量创七年新高",
-  "url": "",
-  "summary": "信实工业公司正在引领印度从委内瑞拉进口的原油大幅反弹，从这个南美国家进口的原油中有四分之三以上流向了印度最大的私营炼油厂。印度亿万富翁穆克什·安巴尼 (Mukesh Ambani) 旗下的信实工业公司 (Reliance Industries) 经营着全球最大的",
-  "pub_time": "2026-10-08T16:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "5ca11f06c56d7081c8438df5c14e2832",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "进口",
-   "年内新高"
-  ],
-  "en_title": "Reliance Drives India’s Venezuelan Oil Imports to Seven-Year High"
  },
  {
   "title": "2026年10月9日大连豆粕期货低开收涨",
@@ -3779,33 +3873,5 @@
    "铜"
   ],
   "en_title": "Vizsla Copper logs high-grade silver at Alaska project"
- },
- {
-  "title": "报告称，到 2035 年，铜、镍价格可能翻倍",
-  "url": "",
-  "summary": "科法斯表示，这些对能源转型至关重要的金属将无法满足未来十年的需求。",
-  "pub_time": "2026-10-07T14:22:16Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "60b35059c9f5a2a859a73d1e8759dc7d",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "镍",
-   "价"
-  ],
-  "en_title": "Copper, nickel prices could double by 2035: report"
  }
 ]
