@@ -1,5 +1,78 @@
 [
  {
+  "title": "Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis",
+  "url": "",
+  "summary": "The cost of shipping crude oil soared to record highs last month as the Iran war reshuffled trade routes and patterns and tied up more tankers in inefficient and lengthy voyages. Supertanker rates soared in September to above $1 million per day on the Persian Gulf to China route—a record high. The S",
+  "pub_time": "2026-10-10T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "6d7b8d148c7f65d937ba4f2d46fee440",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis"
+ },
+ {
+  "title": "Emergency Oil Releases Risk Draining the World’s Last Supply Cushion",
+  "url": "",
+  "summary": "Earlier this week, the International Energy Agency, after consulting with G7, said it would release another 100 million barrels of diesel, gasoline, and crude oil. The release is part of a plan announced in March to release 400 million barrels of oil in response to the Hormuz squeeze. But there is a",
+  "pub_time": "2026-10-10T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "417c05b37ec66962b649fdcccd9a0c8d",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "走软",
+   "供应"
+  ],
+  "en_title": "Emergency Oil Releases Risk Draining the World’s Last Supply Cushion"
+ },
+ {
+  "title": "姜维与韩国钢铁协会执行副会长李京镐举行会谈",
+  "url": "https://news.mysteel.com/a/26101107/E09A1868B9C8BACC.html",
+  "summary": "",
+  "pub_time": "2026-10-10T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "6cdaa76025b6601e5e9a3e89e85616d8",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "Pemex 需要近 1100 亿美元才能实现墨西哥的产量目标",
   "url": "",
   "summary": "尽管墨西哥国内化石燃料资源丰富，但其三分之二的能源消耗依赖石油和天然气进口。但墨西哥并没有最大限度地开发自己的生产能力，而是主要依赖其北部邻国",
@@ -166,7 +239,7 @@
  },
  {
   "title": "泰国对华热镀锌冷轧板卷作出反规避终裁",
-  "url": "https://news.mysteel.com/a/26101016/C6C2404EA3DB2128.html",
+  "url": "https://news.mysteel.com/a/26101016/BB6ECE3B39879E19.html",
   "summary": "",
   "pub_time": "2026-10-10T08:00:00Z",
   "source": "上海钢联Mysteel",
@@ -185,7 +258,7 @@
  },
  {
   "title": "韩国延长对华镀锌冷轧钢临时反倾销税期限",
-  "url": "https://news.mysteel.com/a/26101016/05E4205DAE17C8D4.html",
+  "url": "https://news.mysteel.com/a/26101016/8B7B0D42DF97F532.html",
   "summary": "",
   "pub_time": "2026-10-10T08:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1249,31 +1322,6 @@
   "en_title": "World Gold Council urges miners to name refiners"
  },
  {
-  "title": "国油计划将 2027 年马来西亚股息提高 19% 至 78 亿美元",
-  "url": "",
-  "summary": "随着油价飙升并提高公司利润，国有能源巨头马来西亚国家石油公司(Petronas)将在2027年将其欠马来西亚政府的股息提高19%。马来西亚财政部在周五公布的2027年预算中估计，明年政府收入预计将增长4.7%。一个",
-  "pub_time": "2026-10-09T13:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "098c7e2aa1a2a142272b218d75c718cd",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Petronas to Raise Malaysia Dividend 19% to $7.8 Billion for 2027"
- },
- {
   "title": "欧盟将 KGHM 的 $2.4B 铜项目纳入快车道",
   "url": "",
   "summary": "随着欧洲寻求扩大国内金属供应和加工，布鲁塞尔给予波兰两项投资优先权。",
@@ -1365,25 +1413,6 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel晚餐：焦炭开启第二轮提降，进口铁矿石港库增加",
-  "url": "https://news.mysteel.com/a/26100917/1CDA3207687AD17E.html",
-  "summary": "",
-  "pub_time": "2026-10-09T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "4e692114b4902dd4e4194fd7f4f518d6",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -1813,31 +1842,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "SigraFi 融资 3500 万美元，将手工黄金与机构市场连接起来",
-  "url": "",
-  "summary": "英国公司根据多年合同从有组织的手工和小型金矿合作社购买黄金。",
-  "pub_time": "2026-10-08T23:25:07Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "d5294c84dc0bd29a45edf2a5b5a04767",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "SigraFi raises $35M to connect artisanal gold to institutional markets"
  }
 ]
