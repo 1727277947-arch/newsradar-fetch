@@ -1,5 +1,43 @@
 [
  {
+  "title": "Mysteel早读：新质生产力顶层设计出炉",
+  "url": "https://news.mysteel.com/a/26101007/D1C4814BE98BD8C7.html",
+  "summary": "",
+  "pub_time": "2026-10-09T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "f72784629173fe0c32a96a8f042d87c1",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel早读：新质生产力顶层设计出炉，中欧贸易磋商形成16项成果共识",
+  "url": "https://news.mysteel.com/a/26101007/37F39C10B0F91856.html",
+  "summary": "",
+  "pub_time": "2026-10-09T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "4e3288103b7c8eb60ee9049c3ef5d87c",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "为什么创纪录的原油产量无法解决美国的柴油危机",
   "url": "",
   "summary": "美国的原油产量比以往任何时候都多。据美国能源情报署称，到 2026 年，美国原油产量有望达到创纪录的日均 1380 万桶，超过去年创下的纪录。然而柴油价格最近攀升至历史新高，",
@@ -771,25 +809,6 @@
    "原油"
   ],
   "en_title": "Oil Edges Lower After Trump Comments On Iran Talks"
- },
- {
-  "title": "Mysteel晚餐：焦炭开启第二轮提降",
-  "url": "https://news.mysteel.com/a/26100917/1CDA3207687AD17E.html",
-  "summary": "",
-  "pub_time": "2026-10-09T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "19716c817518e6602c456c8de4136cf1",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  },
  {
   "title": "每日钢市：钢坯上调10，焦炭提降100，钢价难涨",
@@ -2848,25 +2867,6 @@
   "is_elite": false
  },
  {
-  "title": "国内商品期货收盘，甲醇、PX、液化气、纯苯、苯乙烯主力合约涨停",
-  "url": "https://news.mysteel.com/a/26100815/78B57EFC7C87AC2C.html",
-  "summary": "",
-  "pub_time": "2026-10-08T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "ee24e5e21947290a505f7ed67c52e74b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "有色持仓日报：沪镍跌2.47%，国泰君安增持超2.6千手空单",
   "url": "https://news.mysteel.com/a/26100815/399BD196F9057C50.html",
   "summary": "",
@@ -3252,30 +3252,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "美联储政府与 SunRice 一起资助新的 Leeton 工厂",
-  "url": "",
-  "summary": "美联储政府正在利顿投资一家年糕制造工厂，以缓冲 SunRice 8 月份宣布的裁员影响。",
-  "pub_time": "2026-10-07T23:48:48Z",
-  "source": "GrainCentral",
-  "_cat": "基本金属",
-  "dedup_key": "51793501c42e239f79fdfece46e18b7c",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Fed Govt joins SunRice in funding new Leeton plant"
  }
 ]
