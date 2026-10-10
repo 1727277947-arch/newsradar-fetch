@@ -1,12 +1,50 @@
 [
  {
-  "title": "厄尔尼诺现象致雨季提前，坦桑尼亚水稻收割受影响",
-  "url": "https://news.mysteel.com/a/26101015/1FFAAB39C475EB6B.html",
+  "title": "营口港秋粮“北粮南运”首船发运",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710521.shtml",
+  "summary": "记者 杨毅)辽宁港口集团10日发布消息称，营口港秋粮“北粮南运”首船近日顺利发运，满载2万余吨玉米的“君恒”轮缓缓驶离营口港粮食码头，开启跨越山海的旅程",
+  "pub_time": "2026-10-10T09:27:29Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "71c4fa408b076d04c05bc2a1c8b28d0b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "重庆铜梁打造西部新型储能高地",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710514.shtml",
+  "summary": "马佳欣)10日，重庆市政府新闻办举行“开局起步十五五·建设现代化新重庆”系列主题新闻发布会铜梁专场。铜梁区委书记刘立武表示，未来五年，铜梁将坚持把新型储能作为首位产业，加快打造西部新型储能高地",
+  "pub_time": "2026-10-10T09:24:35Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "e7aa5fb2f25a08adde86bb8c1d20e965",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel晚餐：9月39家建材钢厂减产检修",
+  "url": "https://news.mysteel.com/a/26101017/CB38D97D42FCC9AA.html",
   "summary": "",
-  "pub_time": "2026-10-10T07:00:00Z",
+  "pub_time": "2026-10-10T09:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "1e063b2b0d87e85686700edbfe9010de",
+  "dedup_key": "bc23ee5baf8be9c56f26d7e67dcab09c",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -19,13 +57,146 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel：新质生产力导向下冷系产品的主攻方向",
-  "url": "https://news.mysteel.com/a/26101014/8958174B5C6BFE89.html",
+  "title": "关键矿产日报：我国北方最大铜冶炼单体项目投产",
+  "url": "https://news.mysteel.com/a/26101017/B0C25958F42F8154.html",
   "summary": "",
-  "pub_time": "2026-10-10T06:00:00Z",
+  "pub_time": "2026-10-10T09:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "4a353ac154a079212d1f0bd121fd6390",
+  "dedup_key": "6f71a28e08c9a1789a924d3ccdc8acf2",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel晚餐：9月39家建材钢厂减产检修，10月建筑企业钢材采购调研",
+  "url": "https://news.mysteel.com/a/26101017/485792B600CC47EB.html",
+  "summary": "",
+  "pub_time": "2026-10-10T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "b6b3c77b214171fa24ebe221e1831bac",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "每日钢市：3家钢厂涨价，成交一般，下周钢价或窄幅震荡",
+  "url": "https://news.mysteel.com/a/26101017/05A835307EE8D4D9.html",
+  "summary": "",
+  "pub_time": "2026-10-10T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "68c70a9a505b61f7827b96a4c2cdd008",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "关键矿产日报：我国北方最大铜冶炼单体项目投产，智利大型铜矿罢工",
+  "url": "https://news.mysteel.com/a/26101017/7753F48101CFC316.html",
+  "summary": "",
+  "pub_time": "2026-10-10T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "38b46711a6029c5536a41cdd0b432df2",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel全球板材周报：欧盟“熔炼浇铸”规则正式生效，节后市场进入修正阶段（9.24-10.10）",
+  "url": "https://news.mysteel.com/a/26101017/402464EC0FB4FB89.html",
+  "summary": "",
+  "pub_time": "2026-10-10T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "2cffaab7b8429d13725bf43ce3eda285",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "泰国对华热镀锌冷轧板卷作出反规避终裁",
+  "url": "https://news.mysteel.com/a/26101016/C6C2404EA3DB2128.html",
+  "summary": "",
+  "pub_time": "2026-10-10T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "12d847ebb46d3c0aedcadb2627a408a1",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "韩国延长对华镀锌冷轧钢临时反倾销税期限",
+  "url": "https://news.mysteel.com/a/26101016/05E4205DAE17C8D4.html",
+  "summary": "",
+  "pub_time": "2026-10-10T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "08da836c9a5fd6ef6ec49cc06647c529",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "厄尔尼诺现象致雨季提前，坦桑尼亚水稻收割受影响",
+  "url": "https://news.mysteel.com/a/26101015/1FFAAB39C475EB6B.html",
+  "summary": "",
+  "pub_time": "2026-10-10T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "1e063b2b0d87e85686700edbfe9010de",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -76,25 +247,6 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel午报：钢价多数上涨，原料价格持稳",
-  "url": "https://news.mysteel.com/a/26101011/9A95432EF775F380.html",
-  "summary": "",
-  "pub_time": "2026-10-10T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "2458d99003fbeeb5aabc6a2cc624bd42",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel：从《关于发展新质生产力的意见》看汽车行业发展方向",
   "url": "https://news.mysteel.com/a/26101011/C581848103B8B190.html",
   "summary": "",
@@ -107,6 +259,25 @@
   "topic": "国内/产业经济",
   "tags": [
    "产业经济",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel午报：钢价多数上涨，原料价格持稳",
+  "url": "https://news.mysteel.com/a/26101011/253CC76541FFB9D2.html",
+  "summary": "",
+  "pub_time": "2026-10-10T03:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "2458d99003fbeeb5aabc6a2cc624bd42",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -152,25 +323,6 @@
   "is_elite": false
  },
  {
-  "title": "包钢万腾钢铁高炉绿色低碳升级改造项目提前开工",
-  "url": "https://news.mysteel.com/a/26101011/C8318EC9970EA595.html",
-  "summary": "",
-  "pub_time": "2026-10-10T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "535d10b0204481f907c15498239bb0bd",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "纽约金价9日上涨，触及一周高位",
   "url": "https://news.mysteel.com/a/26101011/741ABC5D614532BE.html",
   "summary": "",
@@ -178,25 +330,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "63fd2754987d1487e3d5227bf895e997",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：八家头部车企公布9月海外销量",
-  "url": "https://news.mysteel.com/a/26101010/C66DD4AD75D38FAA.html",
-  "summary": "",
-  "pub_time": "2026-10-10T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "acf33ed5e81cf5677ae28c39f8da5d43",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -1461,25 +1594,6 @@
    "能源"
   ],
   "en_title": "Daily Market Wire 9 October 2026"
- },
- {
-  "title": "Mysteel：13家车企公布9月新能源汽车销量，12家环比增长",
-  "url": "https://news.mysteel.com/a/26100910/0619E2EE91C33F92.html",
-  "summary": "",
-  "pub_time": "2026-10-09T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "ddd316ef5cc2458a914f368a68b0e181",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  },
  {
   "title": "10月8日SPDR黄金持仓量较前一日减少5.702吨",
@@ -2989,109 +3103,5 @@
    "上涨"
   ],
   "en_title": "Gold Holds Steady In Cautious Trade As Treasury Yields Rise"
- },
- {
-  "title": "由于担心美伊局势升级和美国飓风威胁，油价飙升",
-  "url": "",
-  "summary": "(RTTNews) - 由于对美伊战争升级的担忧加剧，周四油价飙升近 4%。",
-  "pub_time": "2026-10-08T09:55:02Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "75aae5152e1bff36f93133a7457d2122",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "大涨"
-  ],
-  "en_title": "Oil Prices Surge On Fears Of US-Iran Escalation, US Hurricane Threat"
- },
- {
-  "title": "多国央行持续购金，黄金市场多空博弈加剧",
-  "url": "https://news.mysteel.com/a/26100817/86BD19635DEFDAB3.html",
-  "summary": "",
-  "pub_time": "2026-10-08T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "d7fb66d27faa1b50a81964a0aef8f1c5",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "关键矿产日报：国际油价大涨，印尼拟收紧新建镍冶炼厂暂停令",
-  "url": "https://news.mysteel.com/a/26100817/D963EDC7C324A7C4.html",
-  "summary": "",
-  "pub_time": "2026-10-08T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "8816ef200b63731ba79b3bee2247858f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel日报：黑色金属期货震荡下跌运行",
-  "url": "https://news.mysteel.com/a/26100816/51967CF956CAB83B.html",
-  "summary": "",
-  "pub_time": "2026-10-08T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "35e731dc1bfbf7b43450d8d00de0dc41",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：9月工程机械行业大事记",
-  "url": "https://news.mysteel.com/a/26100816/315407816FA91426.html",
-  "summary": "",
-  "pub_time": "2026-10-08T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "e7253bf648b39834dc2c9bb5b8c69b58",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  }
 ]
