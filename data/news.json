@@ -1,5 +1,43 @@
 [
  {
+  "title": "厄尔尼诺现象致雨季提前，坦桑尼亚水稻收割受影响",
+  "url": "https://news.mysteel.com/a/26101015/1FFAAB39C475EB6B.html",
+  "summary": "",
+  "pub_time": "2026-10-10T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "1e063b2b0d87e85686700edbfe9010de",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：新质生产力导向下冷系产品的主攻方向",
+  "url": "https://news.mysteel.com/a/26101014/8958174B5C6BFE89.html",
+  "summary": "",
+  "pub_time": "2026-10-10T06:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "4a353ac154a079212d1f0bd121fd6390",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "飓风来袭！美墨西哥湾紧急停工，原油产量损失预计达900万桶",
   "url": "https://news.mysteel.com/a/26101013/9CB7D7B2FD77E392.html",
   "summary": "",
@@ -58,7 +96,7 @@
  },
  {
   "title": "Mysteel：从《关于发展新质生产力的意见》看汽车行业发展方向",
-  "url": "https://news.mysteel.com/a/26101011/9F9155CC6F9CC929.html",
+  "url": "https://news.mysteel.com/a/26101011/C581848103B8B190.html",
   "summary": "",
   "pub_time": "2026-10-10T03:00:00Z",
   "source": "上海钢联Mysteel",
@@ -77,7 +115,7 @@
  },
  {
   "title": "Mysteel：从《关于发展新质生产力的意见》看未来低碳经济发展方向",
-  "url": "https://news.mysteel.com/a/26101011/45F27AF5FBBE0B9E.html",
+  "url": "https://news.mysteel.com/a/26101011/C53D809679C900DD.html",
   "summary": "",
   "pub_time": "2026-10-10T03:00:00Z",
   "source": "上海钢联Mysteel",
@@ -216,44 +254,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "17458b2a9ba4ad5efa78125b619415b3",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "二连浩特市锦裕矿业全力推进铁矿石加工项目建设",
-  "url": "https://news.mysteel.com/a/26101009/14FE3C9EE601214B.html",
-  "summary": "",
-  "pub_time": "2026-10-10T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "68978174c795d8a57a96b177d346ff9c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "唐山港：1-9月预计累计钢材吞吐量完成0.12亿吨",
-  "url": "https://news.mysteel.com/a/26101008/8FEF3DDDDF6577FA.html",
-  "summary": "",
-  "pub_time": "2026-10-10T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "7c7028db8a8c647d51626a76e4df40e0",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -783,6 +783,44 @@
   "is_elite": false
  },
  {
+  "title": "本周阿根廷大豆现货价格上涨1.2%",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/10/3029415709.shtml",
+  "summary": "",
+  "pub_time": "2026-10-09T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "f9f5b5158914fae4117fde091e926b01",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "周五美国大豆现货价格上涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/10/2942681855.shtml",
+  "summary": "",
+  "pub_time": "2026-10-09T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "00c88d57443b1bc61de52afb7619b030",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "CBOT大豆反弹,空头回补活跃，周线收高1.1%",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/10/2617973742.shtml",
   "summary": "",
@@ -798,6 +836,25 @@
    "中文",
    "国内",
    "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "美国小麦下跌，美国库存数据利空",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/10/2848711312.shtml",
+  "summary": "",
+  "pub_time": "2026-10-09T16:00:00Z",
+  "source": "粮油小麦",
+  "_cn": true,
+  "dedup_key": "95b6b8e9e8bcd1f4e0103b3f2934f8c6",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油小麦"
   ],
   "is_elite": false
  },
@@ -1406,25 +1463,6 @@
   "en_title": "Daily Market Wire 9 October 2026"
  },
  {
-  "title": "油市供应又生变：飓风直逼墨西哥湾，近三分之二石油生产关停",
-  "url": "https://news.mysteel.com/a/26100910/95FFD098F168E642.html",
-  "summary": "",
-  "pub_time": "2026-10-09T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "835f7b8c7dad03d10c1fcc023839e5e1",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel：13家车企公布9月新能源汽车销量，12家环比增长",
   "url": "https://news.mysteel.com/a/26100910/0619E2EE91C33F92.html",
   "summary": "",
@@ -1494,25 +1532,6 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "财政部征求气候披露准则配套应用指南意见，出台电力钢铁等9个重点行业专项指引",
-  "url": "https://news.mysteel.com/a/26100909/22B6EE5A66F86CA9.html",
-  "summary": "",
-  "pub_time": "2026-10-09T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "40b2a26b6d4668edcc7493b074ae59d3",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -2106,63 +2125,6 @@
   "is_elite": false
  },
  {
-  "title": "10月9日进口大豆到国内港口CF及升贴水报价",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/09/3914201419.shtml",
-  "summary": "",
-  "pub_time": "2026-10-08T16:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "5eb67bfa1befc0df9aa1bae336e8ad4d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
-  "title": "10月9日进口大豆港口分销价持平",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/09/3741906038.shtml",
-  "summary": "",
-  "pub_time": "2026-10-08T16:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "954352447af694054115d6b088bb252a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月9日大连大豆期货收盘低开收涨",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/09/0636197059.shtml",
-  "summary": "",
-  "pub_time": "2026-10-08T16:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "e982b772f67e7bbe5ce0bf2700a1f1b2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
   "title": "10月9日进口油菜籽到国内港口CF报价",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/09/4345825210.shtml",
   "summary": "",
@@ -2213,6 +2175,63 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "10月9日进口大豆到国内港口CF及升贴水报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/09/3914201419.shtml",
+  "summary": "",
+  "pub_time": "2026-10-08T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "9eef71843f4e2ff99d994a421723020d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "10月9日进口大豆港口分销价持平",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/09/3741906038.shtml",
+  "summary": "",
+  "pub_time": "2026-10-08T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "9f5a416dac3fb79d8dd5b090a24302a7",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年10月9日大连大豆期货收盘低开收涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/09/0636197059.shtml",
+  "summary": "",
+  "pub_time": "2026-10-08T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "7dfe424f343dc85e589cd97a72b51c74",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "粮油首页"
@@ -3074,69 +3093,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "有色持仓日报：沪镍跌2.47%，国泰君安增持超2.6千手空单",
-  "url": "https://news.mysteel.com/a/26100815/399BD196F9057C50.html",
-  "summary": "",
-  "pub_time": "2026-10-08T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "21acb189fb16013724d1b0d9918c5745",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色持仓日报：铁矿石跌3.12%，华泰期货增持超7千手多单",
-  "url": "https://news.mysteel.com/a/26100815/AE7F8DBD53AE122E.html",
-  "summary": "",
-  "pub_time": "2026-10-08T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "758e153f5cc83d5c5df8444c6cdb5bbe",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "饲料粮焦点：零星降雨喜忧参半",
-  "url": "",
-  "summary": "零星降雨带来的好处有好有坏，产量有所增加，但南部干草受到一些损害，收获进度放缓，但北部高粱种植的希望有所改善。",
-  "pub_time": "2026-10-08T06:15:29Z",
-  "source": "GrainCentral",
-  "_cat": "基本金属",
-  "dedup_key": "8ad1f4f320d24e7dfa463325808b73c1",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "谷物"
-  ],
-  "en_title": "Feedgrain Focus: Patchy rain a mixed blessing"
  }
 ]
