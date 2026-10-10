@@ -1,31 +1,12 @@
 [
  {
-  "title": "营口港秋粮“北粮南运”首船发运",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710521.shtml",
-  "summary": "记者 杨毅)辽宁港口集团10日发布消息称，营口港秋粮“北粮南运”首船近日顺利发运，满载2万余吨玉米的“君恒”轮缓缓驶离营口港粮食码头，开启跨越山海的旅程",
-  "pub_time": "2026-10-10T09:27:29Z",
+  "title": "铜吉铁路全线最长特大桥完成架梁",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710641.shtml",
+  "summary": "向倩 李猛 王全香)随着最后一片预制箱梁精准落位，连接贵州铜仁和湖南吉首的铜吉铁路全线最长特大桥——豹子营特大桥10日完成全部箱梁架设任务，标志着铜吉铁路(贵州段)上部结构施工取得实质性突破，为全线铺轨作业创造有利条件",
+  "pub_time": "2026-10-10T11:11:02Z",
   "source": "中国新闻网-财经",
   "_cn": true,
-  "dedup_key": "71c4fa408b076d04c05bc2a1c8b28d0b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
-  "title": "重庆铜梁打造西部新型储能高地",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710514.shtml",
-  "summary": "马佳欣)10日，重庆市政府新闻办举行“开局起步十五五·建设现代化新重庆”系列主题新闻发布会铜梁专场。铜梁区委书记刘立武表示，未来五年，铜梁将坚持把新型储能作为首位产业，加快打造西部新型储能高地",
-  "pub_time": "2026-10-10T09:24:35Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "e7aa5fb2f25a08adde86bb8c1d20e965",
+  "dedup_key": "b7ddac6268915cf8b5502f136b293dad",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -50,25 +31,6 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "关键矿产日报：我国北方最大铜冶炼单体项目投产",
-  "url": "https://news.mysteel.com/a/26101017/B0C25958F42F8154.html",
-  "summary": "",
-  "pub_time": "2026-10-10T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "6f71a28e08c9a1789a924d3ccdc8acf2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -361,13 +323,13 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel：八家头部车企公布9月海外销量，奇瑞再创单月纪录",
-  "url": "https://news.mysteel.com/a/26101010/08BF303C834A800F.html",
+  "title": "Mysteel：七日洞见——黑色金属市场一周热点回顾（9.30-10.9）",
+  "url": "https://news.mysteel.com/a/26101010/84A47094F8997846.html",
   "summary": "",
   "pub_time": "2026-10-10T02:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "26d498916dfdd8aa26593aa86718f50e",
+  "dedup_key": "17458b2a9ba4ad5efa78125b619415b3",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -380,13 +342,13 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel：七日洞见——黑色金属市场一周热点回顾（9.30-10.9）",
-  "url": "https://news.mysteel.com/a/26101010/84A47094F8997846.html",
+  "title": "Mysteel：八家头部车企公布9月海外销量，奇瑞再创单月纪录",
+  "url": "https://news.mysteel.com/a/26101010/C66DD4AD75D38FAA.html",
   "summary": "",
   "pub_time": "2026-10-10T02:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "17458b2a9ba4ad5efa78125b619415b3",
+  "dedup_key": "26d498916dfdd8aa26593aa86718f50e",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -3023,58 +2985,5 @@
    "价"
   ],
   "en_title": "Molybdenum heads for 6th straight deficit, record prices: BMO"
- },
- {
-  "title": "CleanTech Lithium 扩大在阿根廷的立足点",
-  "url": "",
-  "summary": "由于开发商计划在 2027 年进行勘探，Laguna Verde 附近的新锂卤矿资源具有增长潜力。",
-  "pub_time": "2026-10-08T12:03:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "40796c1b3f5b7d581fad31cebbd2ec4a",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡"
-  ],
-  "en_title": "CleanTech Lithium expands foothold in Argentina"
- },
- {
-  "title": "智利铜矿中断导致 5% 的产量面临风险",
-  "url": "",
-  "summary": "新研究发现，劳资纠纷、天气、安全和地质威胁着智利最大铜矿的产量。",
-  "pub_time": "2026-10-08T10:56:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "ac96f14857eaa1eb5d7f4b5017d3dcd5",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "产量"
-  ],
-  "en_title": "Chile copper mines disruptions put 5% of production at risk"
  }
 ]
