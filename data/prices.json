@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T21:48:54",
+ "updated_at": "2026-10-10T23:43:41",
  "spot_meta": {
   "policy": "stale_never_fill",
   "spot_page_used": "2026-10-09",
@@ -6574,60 +6574,6 @@
     "tested": 60
    },
    "reason": "对二甲苯今开9830 vs 昨结9918，-0.89%偏弱看空（含夜盘：夜盘开盘9830 vs 昨结9918）；打板分1(一般/观望)：涨-0.97%/收高6%/放量0.67x/连涨0日；预测次日开盘≈9772.7，区间[9722.31, 9823.1]"
-  },
-  {
-   "symbol": "nf_JD0",
-   "name": "鸡蛋",
-   "category": "农产品",
-   "date": "2026-10-09",
-   "today_open": 3743.0,
-   "prev_close": 3711.0,
-   "gap_pct": 0.86,
-   "session": "day",
-   "has_night": false,
-   "direction": -1,
-   "label": "做空",
-   "strength": 3,
-   "mean_gap": -0.12,
-   "std_gap": 0.41,
-   "today_close": 3616.0,
-   "pred_next_open": 3632.945,
-   "pred_low": 3625.557,
-   "pred_high": 3640.334,
-   "limit_score": 1,
-   "board": "一般/观望",
-   "limit_ru": -2.56,
-   "limit_pos": 0.01,
-   "limit_vol": 0.86,
-   "limit_streak": 0,
-   "day_ma": [
-    3763.4,
-    3802.55,
-    3949.85
-   ],
-   "day_bias": "bear",
-   "atr": 62.64,
-   "sl_long_pct": 2.01,
-   "sl_short_pct": 1.34,
-   "hit_long": 0.233,
-   "hit_short": 0.233,
-   "stop_detail_long": {
-    "atr": 62.64,
-    "k": 1.2,
-    "stop": 3667.829,
-    "stop_pct": 2.01,
-    "hit_rate": 0.233,
-    "tested": 60
-   },
-   "stop_detail_short": {
-    "atr": 62.64,
-    "k": 0.8,
-    "stop": 3793.114,
-    "stop_pct": 1.34,
-    "hit_rate": 0.233,
-    "tested": 60
-   },
-   "reason": "鸡蛋今开3743 vs 昨结3711，+0.86%偏弱看空；打板分1(一般/观望)：涨-2.56%/收高1%/放量0.86x/连涨0日；预测次日开盘≈3632.95，区间[3625.56, 3640.33]"
   }
  ],
  "hf_picks": [

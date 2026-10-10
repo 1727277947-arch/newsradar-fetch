@@ -1302,32 +1302,6 @@
   "en_title": "EU puts KGHM’s $2.4B copper projects on fast track"
  },
  {
-  "title": "霍尔木兹危机导致欧盟天然气储存进入冬季的时间较短",
-  "url": "",
-  "summary": "美国能源经济与金融分析研究所 (IEEFA) 在周五的一份报告中表示，每年这个时候储存地点的天然气含量处于历史低位，可能导致欧盟在冬季出现天然气短缺，并可能迫使欧盟削减 7% 的需求。欧洲",
-  "pub_time": "2026-10-09T10:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "95d08a0b23d86a0dd155e66bc6449c0b",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气"
-  ],
-  "en_title": "Hormuz Crisis Leaves EU Gas Storage Short Heading Into Winter"
- },
- {
   "title": "随着美元暂停，黄金价格上涨，收益率从 24 年高点回落",
   "url": "",
   "summary": "(RTTNews) - 由于油价下跌和债券收益率企稳，金价周五大幅走高，有助于缓解对通胀和利率的担忧。",
@@ -2959,31 +2933,5 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "BMO：钼将连续第六次短缺，价格创历史新高",
-  "url": "",
-  "summary": "BMO 表示，由于短期内不存在可以提高产量的新项目，因此这一趋势应该会在 2027 年持续下去。",
-  "pub_time": "2026-10-08T14:57:59Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "adabadfd6f7457e14f810f44add2bdc0",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "价"
-  ],
-  "en_title": "Molybdenum heads for 6th straight deficit, record prices: BMO"
  }
 ]
