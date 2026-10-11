@@ -1,17 +1,36 @@
 [
  {
-  "title": "（乡村行·看振兴）广东蓝口镇：茶枝柑结出“黄金果” 铺就富民新路",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-11/10710951.shtml",
-  "summary": "张璐 田红秀)近日，走进河源市东源县蓝口镇派头村的茶枝柑(陈皮桔)种植基地(简称“基地”)，只见成片茶枝柑树长势喜人，圆润饱满的柑果挂满枝头",
-  "pub_time": "2026-10-11T05:07:55Z",
+  "title": "“铜鼓黄精”区域公用品牌亮相江西南昌",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-11/10711037.shtml",
+  "summary": "付丽玲)11日上午，“铜鼓黄精”区域公用品牌品鉴推介会暨品牌战略发布会在江西南昌举行。会上正式发布了“铜鼓黄精”区域公用品牌体系和产业发展规划，并搭建集品牌发布、成果展示、专家赋能、产销对接、媒体宣传于一体的综合平台，进一步提升“铜鼓黄精”品牌影响力和市场竞争力",
+  "pub_time": "2026-10-11T09:30:15Z",
   "source": "中国新闻网-财经",
   "_cn": true,
-  "dedup_key": "0bce86095e3f72a47edfcb10767a6a64",
+  "dedup_key": "525e665b316bc85869c7981775778581",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "（乡村行·看振兴）福建宁化：杂交制种水稻开镰 金色稻田绘就丰收画卷",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-11/10711014.shtml",
+  "summary": "阴海林)近日，福建省宁化县曹坊镇黄坊村1200余亩杂交制种水稻迎来集中开镰收割，连片稻田金浪翻滚、机器轰鸣，田间地头迎来繁忙丰收景象。“今年全村水稻制种预计亩产400斤，总产值400余万元。”黄坊村党支部书记黄庆禧介绍",
+  "pub_time": "2026-10-11T08:58:06Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "37dab48db4f60eec5ee39851c9e2be3a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
    "中文",
    "国内",
    "中国新闻网-财经"
@@ -524,7 +543,7 @@
  },
  {
   "title": "Mysteel晚餐：9月39家建材钢厂减产检修，10月建筑企业钢材采购调研",
-  "url": "https://news.mysteel.com/a/26101017/485792B600CC47EB.html",
+  "url": "https://news.mysteel.com/a/26101017/108DBC171C3CDCA3.html",
   "summary": "",
   "pub_time": "2026-10-10T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -732,25 +751,6 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel：从《关于发展新质生产力的意见》看未来家电行业发展方向",
-  "url": "https://news.mysteel.com/a/26101011/AF9EF0BD87329017.html",
-  "summary": "",
-  "pub_time": "2026-10-10T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "3f95f422ebd2d36f2f1d384984ffff19",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/产业经济",
-  "tags": [
-   "产业经济",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "纽约金价9日上涨，触及一周高位",
   "url": "https://news.mysteel.com/a/26101011/741ABC5D614532BE.html",
   "summary": "",
@@ -763,6 +763,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：从《关于发展新质生产力的意见》看未来家电行业发展方向",
+  "url": "https://news.mysteel.com/a/26101011/E25E059BB9A50337.html",
+  "summary": "",
+  "pub_time": "2026-10-10T03:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "3f95f422ebd2d36f2f1d384984ffff19",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/产业经济",
+  "tags": [
+   "产业经济",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -1669,115 +1688,5 @@
    "铜"
   ],
   "en_title": "EU puts KGHM’s $2.4B copper projects on fast track"
- },
- {
-  "title": "随着美元暂停，黄金价格上涨，收益率从 24 年高点回落",
-  "url": "",
-  "summary": "(RTTNews) - 由于油价下跌和债券收益率企稳，金价周五大幅走高，有助于缓解对通胀和利率的担忧。",
-  "pub_time": "2026-10-09T10:07:17Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "6ff9e03d0eafa4adb1f048c89c60e3d9",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "年内新高"
-  ],
-  "en_title": "Gold Rallies As Dollar Pauses, Yields Ease From 24-year Highs"
- },
- {
-  "title": "特朗普对伊朗谈判发表评论后油价小幅下跌",
-  "url": "",
-  "summary": "(RTTNews) - 周五油价走低，收窄了前一交易日的涨幅，因美国总统唐纳德·特朗普发表评论称美国不会在下个月中期选举前攻击伊朗并讨论中东供应担忧有所缓解。",
-  "pub_time": "2026-10-09T09:46:24Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "fb71961c2f935beadcd43a3e47fd9916",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Oil Edges Lower After Trump Comments On Iran Talks"
- },
- {
-  "title": "每日钢市：钢坯上调10，焦炭提降100，钢价难涨",
-  "url": "https://news.mysteel.com/a/26100917/C07C0CDE8D5D8E57.html",
-  "summary": "",
-  "pub_time": "2026-10-09T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "41620767b810a50d2a2d667d822329d7",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel日报：黑色金属期货震荡上涨运行",
-  "url": "https://news.mysteel.com/a/26100917/C61B8666BBBF373B.html",
-  "summary": "",
-  "pub_time": "2026-10-09T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "d89484a3a42740ff8b8ff0df79437318",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "钢材下游周报：房地产进入存量时代，中国船企稳居全球新船订单第一",
-  "url": "https://news.mysteel.com/a/26100917/EA8AD26E1B041FE2.html",
-  "summary": "",
-  "pub_time": "2026-10-09T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "17d7c50f5d18db59861ef6bbb8baf3cb",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/产业经济",
-  "tags": [
-   "产业经济",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  }
 ]
