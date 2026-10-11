@@ -1,5 +1,89 @@
 [
  {
+  "title": "北海石油生产商推动伯纳姆废除暴利税",
+  "url": "",
+  "summary": "自上任以来，工党对在英国北海运营的石油和天然气公司征收重税，并限制了新化石燃料项目的开发。但是，如果该国新总理批准，仍有可能开发两个主要项目，以及",
+  "pub_time": "2026-10-11T15:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "50dd5c9976d143f9fabb71cf852738f7",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "下跌"
+  ],
+  "en_title": "North Sea Oil Producers Push Burnham to Scrap Windfall Tax"
+ },
+ {
+  "title": "9月下旬钢材库存量1565万吨",
+  "url": "https://news.mysteel.com/a/26101123/792DB17DCDAAB8AE.html",
+  "summary": "",
+  "pub_time": "2026-10-11T15:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "0285ed7bd1d95ef9709246b99e86f1c1",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "中钢协：9月下旬重点钢企钢材库存量1565万吨",
+  "url": "https://news.mysteel.com/a/26101123/D566D78CE51D3E02.html",
+  "summary": "",
+  "pub_time": "2026-10-11T15:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "a959a514dcd5e18bef21e1ac2b05c66c",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "张天福：当前钢铁行业彻底告别行情红利，全面进入深度竞争周期",
+  "url": "https://news.mysteel.com/a/26101121/4F6E8167222DFAEE.html",
+  "summary": "",
+  "pub_time": "2026-10-11T13:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "adda6856678127d09dfe0820c521629c",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "“铜鼓黄精”区域公用品牌亮相江西南昌",
   "url": "https://www.chinanews.com.cn/cj/2026/10-11/10711037.shtml",
   "summary": "付丽玲)11日上午，“铜鼓黄精”区域公用品牌品鉴推介会暨品牌战略发布会在江西南昌举行。会上正式发布了“铜鼓黄精”区域公用品牌体系和产业发展规划，并搭建集品牌发布、成果展示、专家赋能、产销对接、媒体宣传于一体的综合平台，进一步提升“铜鼓黄精”品牌影响力和市场竞争力",
@@ -131,7 +215,7 @@
  },
  {
   "title": "姜维与韩国钢铁协会执行副会长李京镐举行会谈",
-  "url": "https://news.mysteel.com/a/26101107/E09A1868B9C8BACC.html",
+  "url": "https://news.mysteel.com/a/26101107/1404A24BEDCB9622.html",
   "summary": "",
   "pub_time": "2026-10-10T23:00:00Z",
   "source": "上海钢联Mysteel",
@@ -226,25 +310,6 @@
   "source": "粮油玉米",
   "_cn": true,
   "dedup_key": "ab63bbc927cc85a0970c4defa1aad18e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月11日黑龙江鹤岗新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/11/1348602999.shtml",
-  "summary": "",
-  "pub_time": "2026-10-10T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "a2f1db9bd872eba1f3734ceb2f1cc3fc",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -447,6 +512,25 @@
   "is_elite": false
  },
  {
+  "title": "2026年10月11日黑龙江鹤岗新季玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/11/1348602999.shtml",
+  "summary": "",
+  "pub_time": "2026-10-10T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "9d7c1d9cde78c8e0ed632c632850c47b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年10月11日吉林德惠中科发五水稻价格行情",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/11/5158766162.shtml",
   "summary": "",
@@ -524,7 +608,7 @@
  },
  {
   "title": "Mysteel宏观周报：新质生产力意见落地，央行明确人民币汇率政策立场",
-  "url": "https://news.mysteel.com/a/26101023/8FD097E5A62CEB79.html",
+  "url": "https://news.mysteel.com/a/26101023/A34962A468A057EC.html",
   "summary": "",
   "pub_time": "2026-10-10T15:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1279,388 +1363,5 @@
    "罢工"
   ],
   "en_title": "Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply"
- },
- {
-  "title": "帕希尼扬的核大转变给莫斯科在亚美尼亚带来了机会",
-  "url": "",
-  "summary": "由于无法说服亚美尼亚放弃加入欧盟的努力，俄罗斯现在发出信号，表示将采取更强硬的路线。亚美尼亚总理尼科尔·帕希尼扬显然正在认真对待俄罗斯最近声明中的威胁语气。看来维持克里姆林宫的代价是",
-  "pub_time": "2026-10-09T16:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "1d01c702d03d8ce038732258e592becb",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Pashinyan’s Nuclear U-Turn Gives Moscow an Opening in Armenia"
- },
- {
-  "title": "【独家】节后大豆价格继续上涨",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/10/2200241996.shtml",
-  "summary": "",
-  "pub_time": "2026-10-09T16:00:00Z",
-  "source": "粮油豆粕",
-  "_cn": true,
-  "dedup_key": "4527e7f52d2a99590f4ed0851f0f6aa2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油豆粕"
-  ],
-  "is_elite": false
- },
- {
-  "title": "CBOT豆粕上涨,周线上涨5.2%",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/10/2218321105.shtml",
-  "summary": "",
-  "pub_time": "2026-10-09T16:00:00Z",
-  "source": "粮油豆粕",
-  "_cn": true,
-  "dedup_key": "190ea295ae4dad3b1118c346773cda43",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油豆粕"
-  ],
-  "is_elite": false
- },
- {
-  "title": "本周阿根廷大豆现货价格上涨1.2%",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/10/3029415709.shtml",
-  "summary": "",
-  "pub_time": "2026-10-09T16:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "f9f5b5158914fae4117fde091e926b01",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
-  "title": "周五美国大豆现货价格上涨",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/10/2942681855.shtml",
-  "summary": "",
-  "pub_time": "2026-10-09T16:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "00c88d57443b1bc61de52afb7619b030",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
-  "title": "美国小麦下跌，美国库存数据利空",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/10/2848711312.shtml",
-  "summary": "",
-  "pub_time": "2026-10-09T16:00:00Z",
-  "source": "粮油小麦",
-  "_cn": true,
-  "dedup_key": "95b6b8e9e8bcd1f4e0103b3f2934f8c6",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油小麦"
-  ],
-  "is_elite": false
- },
- {
-  "title": "ICE油菜籽大多期约收涨，追随芝加哥大豆涨势；周线收高0.2%",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/10/1730544625.shtml",
-  "summary": "",
-  "pub_time": "2026-10-09T16:00:00Z",
-  "source": "粮油菜籽",
-  "_cn": true,
-  "dedup_key": "0d8cf6062e0c5153a929fe99941cfed0",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油菜籽"
-  ],
-  "is_elite": false
- },
- {
-  "title": "CBOT大豆反弹,空头回补活跃，周线收高1.1%",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/10/2617973742.shtml",
-  "summary": "",
-  "pub_time": "2026-10-09T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "64833f0c516745525a5be6d6e58679e0",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "马来西亚棕榈油日评：周五棕榈油下跌，但周线仍上涨逾1%",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/10/2927193260.shtml",
-  "summary": "",
-  "pub_time": "2026-10-09T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "513f9bd39cf48ada890b67c61386747f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "CBOT豆油略微上涨,本周豆油下跌0.9%",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/10/2101218762.shtml",
-  "summary": "",
-  "pub_time": "2026-10-09T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "8416c9b581e826f91114080de0bc4148",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "CBOT玉米暴跌,周线收低3.6%",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/10/2002499049.shtml",
-  "summary": "",
-  "pub_time": "2026-10-09T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "606646a93be5565db2e2f6604b027836",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "CBOT小麦跌至两个月低点,周线收低1.8%",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/10/1911915254.shtml",
-  "summary": "",
-  "pub_time": "2026-10-09T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "a5f1c1b7ba2213a3eff9dc283a42f749",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "周五油价上涨，飓风袭击美湾导致更多油井停产",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/10/3048877977.shtml",
-  "summary": "",
-  "pub_time": "2026-10-09T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "93ca956c45e99a3cdbdb23197078c804",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "了解 Centerra Gold 如何跻身分析师首选金属之列",
-  "url": "",
-  "summary": "根据 Metals Channel 的数据，对主要经纪公司的分析师推荐进行的研究显示，Centerra Gold Inc（代码：CGAU）在构成 Metals Channel 全球矿业巨头指数的 50 只股票中平均排名第 47 名。全球金属频道",
-  "pub_time": "2026-10-09T15:53:52Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "20d410c9dbbbe71a4c3161ee800e51a5",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "金属"
-  ],
-  "en_title": "See How Centerra Gold Ranks Among Analysts' Top Metals Picks"
- },
- {
-  "title": "美国小麦运输通过粮食促进和平支持肯尼亚难民",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-10-09T15:31:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "f2b9877fd016db23ca8383b362abe0d4",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "小麦"
-  ],
-  "en_title": "U.S. Wheat Shipment Supports Refugees in Kenya Through Food for Peace"
- },
- {
-  "title": "激光能打败无人机群吗？五角大楼即将找出答案",
-  "url": "",
-  "summary": "无人机战争的巨大扩张迫使军队重新考虑他们可以向相对便宜的目标发射多少弹药。五角大楼押注其中一些弹药可以用电力替代，并选择四个定向能系统进行操作测试",
-  "pub_time": "2026-10-09T15:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "6a61163341304eeff542946dece2d93f",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Can Lasers Beat Drone Swarms? The Pentagon Is About to Find Out"
- },
- {
-  "title": "加拿大新石油管道受到冷湖原住民的挑战",
-  "url": "",
-  "summary": "冷湖原住民正在挑战加拿大联邦政府将加拿大通往西海岸的新石油管道项目指定为国家利益项目的决定。上周，联邦政府指定了通往西海岸的新石油管道，加拿大和阿尔伯塔省正在推进该管道的建设。",
-  "pub_time": "2026-10-09T14:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "e962d0f6f0aef25a9e9a5ed69409480a",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Canada’s New Oil Pipeline Challenged by Cold Lake First Nations"
- },
- {
-  "title": "世界黄金协会敦促矿商命名精炼厂",
-  "url": "",
-  "summary": "该框架遵循理事会成员于 2023 年 9 月承诺披露其炼油合作伙伴的承诺。",
-  "pub_time": "2026-10-09T14:06:41Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "8da41727bc908e8faa3ef12b7499a051",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "World Gold Council urges miners to name refiners"
  }
 ]
