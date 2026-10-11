@@ -1,5 +1,31 @@
 [
  {
+  "title": "战略石油储备实际上可以达到多低？",
+  "url": "",
+  "summary": "据路透社报道，截至9月底，美国战略石油储备仅持有2.83亿桶石油，这是自1982年10月以来的最低水平，当时该储备仍在首次充满。这是一个看起来很可怕的数字，大多数报道都是这样对待它的",
+  "pub_time": "2026-10-11T19:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "5dbfec2aa7e2e4c3ed42be3cdb5fb129",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "石油"
+  ],
+  "en_title": "How Low Can the Strategic Petroleum Reserve Actually Go?"
+ },
+ {
   "title": "地缘政治风险推动资本流向私营部门：分析师",
   "url": "",
   "summary": "市场周期分析师马丁•阿姆斯特朗(Martin Armstrong)警告称，政治不稳定可能会加速资本流动，并推动黄金反弹。",
@@ -1202,109 +1228,5 @@
    "锡"
   ],
   "en_title": "CleanTech Lithium expands foothold in Argentina"
- },
- {
-  "title": "水、化学挑战锂三角增长",
-  "url": "",
-  "summary": "阿根廷、玻利维亚和智利拥有约 43% 的全球已探明锂资源，但盐水化学和水资源可用性的差异使锂三角地质财富的转变变得复杂......后水、化学挑战锂三角增长首先出现在",
-  "pub_time": "2026-10-09T20:00:00Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "fd6b1bfaf528919617b98e3ecf9b8e96",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Water, chemistry challenge Lithium Triangle growth"
- },
- {
-  "title": "玉米种植者将获得美国农业部 50 亿美元安全网付款",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-10-09T19:51:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "bd3bf3e13092d96e66d9cf7215db8707",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "玉米"
-  ],
-  "en_title": "Corn Growers to Receive $5 Billion in USDA Safety Net Payments"
- },
- {
-  "title": "原油价格继昨日飙升后小幅上涨",
-  "url": "",
-  "summary": "(RTTNews) - 继前一交易日大幅上涨后，周五交易日原油价格缺乏方向。",
-  "pub_time": "2026-10-09T18:44:21Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "5baa47a84010a22e3be65848c9e12a72",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价"
-  ],
-  "en_title": "Crude Oil Prices Moderately Higher After Yesterday's Spike"
- },
- {
-  "title": "Baldwin Supply 开设第一家内布拉斯加州分公司",
-  "url": "",
-  "summary": "新地点扩大了区域库存和定制传送带能力",
-  "pub_time": "2026-10-09T18:40:00Z",
-  "source": "Grainnet",
-  "_cat": "基本金属",
-  "dedup_key": "72ed7bdb79f2c5f45fa67b2b866b2a13",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "供应"
-  ],
-  "en_title": "Baldwin Supply Opens First Nebraska Branch"
  }
 ]
