@@ -1,5 +1,77 @@
 [
  {
+  "title": "Falco 争取环境许可",
+  "url": "",
+  "summary": "经过八年的环境审查，Falco Resources (TSXV: FPC) 预计魁北克将在年底前批准 Horne 5，这一决定将释放黄金和关键...... Falco 争夺环境许可的帖子首先出现在《北方矿工》上。",
+  "pub_time": "2026-10-12T13:00:02Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "e4f2d3e4f8f7aeed8847d8ae48e4e892",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "生铁"
+  ],
+  "en_title": "Falco vies for environmental OK"
+ },
+ {
+  "title": "巴基斯坦寻求从利比亚进口原油以实现供应多元化",
+  "url": "",
+  "summary": "巴基斯坦石油部长阿里·佩尔瓦伊兹·马利克表示，巴基斯坦正在鼓励其炼油商考虑从利比亚购买原油，以使其石油供应多样化，以应对中东危机。阿里·佩尔瓦伊兹 (Ali Pervaiz) 在能源会议期间会见了利比亚石油和天然气部长哈利法·拉贾布·阿卜杜勒萨德克 (Khalifa Rajab Abdulsadek)",
+  "pub_time": "2026-10-12T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "c2f5947802c4ef5bf4553d57d4f46467",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "供应"
+  ],
+  "en_title": "Pakistan Looks to Import Crude Oil from Libya to Diversify Supply"
+ },
+ {
+  "title": "银川铁路物流中心首列粉煤灰进藏图定班列开行",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712251.shtml",
+  "summary": "记者 杨迪)10月12日凌晨2时42分，一列满载3979.5吨粉煤灰的货物列车从中国铁路兰州局银川铁路物流中心青铜峡货场驶出，跨越千里奔赴西藏林芝站，为当地工程建设输送高性能混凝土掺和原料",
+  "pub_time": "2026-10-12T12:28:32Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "4bc5656904fbf4b33ea49bc462c6d51f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "石油问题陷入中东局势升级与俄罗斯-乌克兰能源休战之间",
   "url": "",
   "summary": "由于美国总统特朗普宣布俄罗斯和乌克兰之间的“能源停火”抵消了本周末中东局势升级，周一欧洲油价略有下跌。布伦特原油价格为每桶104 $ ，美国基准， WTI原油， TRA",
@@ -1726,31 +1798,6 @@
    "产量"
   ],
   "en_title": "Pemex Needs Nearly $110 Billion to Hit Mexico's Output Targets"
- },
- {
-  "title": "东南亚需要更多电力，但其薄弱的电网可能是一个问题",
-  "url": "",
-  "summary": "伊朗战争暴露了东南亚能源市场的一个严重脆弱性。该地区严重依赖化石燃料进口，尽管全球原油价格仍然居高不下，但需求仍在继续急剧增长。尽管霍尔木兹海峡终于重新开放",
-  "pub_time": "2026-10-10T19:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "5ab647752a1864f1f08ef8949c3ea202",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Southeast Asia Needs More Power, But Its Weak Grid Could Be a Problem"
  },
  {
   "title": "2026年10月11日安徽省亳州涡阳县新季大豆价格行情",
