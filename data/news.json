@@ -1,5 +1,49 @@
 [
  {
+  "title": "每日市场快讯 2026 年 10 月 12 日",
+  "url": "",
+  "summary": "受美国农业部周五公布的 10 月份 WASDE 数据影响，玉米和小麦价格下跌，但大豆价格却坚挺。",
+  "pub_time": "2026-10-12T00:41:13Z",
+  "source": "GrainCentral",
+  "_cat": "农产品",
+  "dedup_key": "c712f146bebed7a3ad67c669ef852eb9",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品"
+  ],
+  "en_title": "Daily Market Wire 12 October 2026"
+ },
+ {
+  "title": "新船厂注册成立？中国民营钢铁巨头“下海”",
+  "url": "https://news.mysteel.com/a/26101208/DFBEEAE42FBB323B.html",
+  "summary": "",
+  "pub_time": "2026-10-12T00:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "4c5d0bd1ad6ecde32427131e966e39fd",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "Mysteel早读：重点钢企粗钢日产下降",
   "url": "https://news.mysteel.com/a/26101207/EF3B78A83D7F18EE.html",
   "summary": "",
@@ -19,13 +63,13 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel早读：重点钢企粗钢日产下降，永钢出台最新调价",
-  "url": "https://news.mysteel.com/a/26101207/9803918F9CB43257.html",
+  "title": "Mysteel早读：重点钢企粗钢日产下降，东北建材南下同比大减",
+  "url": "https://news.mysteel.com/a/26101207/6E9C0FE5CB0B34A4.html",
   "summary": "",
   "pub_time": "2026-10-11T23:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "a0adc3e6d8382fe92215f7c95b1798ca",
+  "dedup_key": "080f4854b478b9036b9e778b978c37db",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -136,7 +180,7 @@
  },
  {
   "title": "中钢协：9月下旬重点钢企钢材库存量1565万吨",
-  "url": "https://news.mysteel.com/a/26101123/D566D78CE51D3E02.html",
+  "url": "https://news.mysteel.com/a/26101123/792DB17DCDAAB8AE.html",
   "summary": "",
   "pub_time": "2026-10-11T15:00:00Z",
   "source": "上海钢联Mysteel",
@@ -155,7 +199,7 @@
  },
  {
   "title": "张天福：当前钢铁行业彻底告别行情红利，全面进入深度竞争周期",
-  "url": "https://news.mysteel.com/a/26101121/4F6E8167222DFAEE.html",
+  "url": "https://news.mysteel.com/a/26101121/D2E0C5C0A89F6C82.html",
   "summary": "",
   "pub_time": "2026-10-11T13:00:00Z",
   "source": "上海钢联Mysteel",
@@ -791,25 +835,6 @@
   "is_elite": false
  },
  {
-  "title": "韩国延长对华镀锌冷轧钢临时反倾销税期限",
-  "url": "https://news.mysteel.com/a/26101016/8B7B0D42DF97F532.html",
-  "summary": "",
-  "pub_time": "2026-10-10T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "08da836c9a5fd6ef6ec49cc06647c529",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "厄尔尼诺现象致雨季提前，坦桑尼亚水稻收割受影响",
   "url": "https://news.mysteel.com/a/26101015/1FFAAB39C475EB6B.html",
   "summary": "",
@@ -974,44 +999,6 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "瑞银：黄金短期或测试4000美元支撑位，回调即是加仓机会",
-  "url": "https://news.mysteel.com/a/26101008/C02335D6C579CFE2.html",
-  "summary": "",
-  "pub_time": "2026-10-10T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "223da49d57726b299163d83a3d44daf5",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "印度取消黄金进口关键税收优惠，推高主要进口渠道成本",
-  "url": "https://news.mysteel.com/a/26101008/30431F3AC07D48E2.html",
-  "summary": "",
-  "pub_time": "2026-10-10T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "a7ce3ccc4c5e1353378414af75a4181c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
