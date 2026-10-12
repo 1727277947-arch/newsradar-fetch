@@ -1,5 +1,77 @@
 [
  {
+  "title": "BMI预测布伦特原油将在数月内保持在100 $以上",
+  "url": "",
+  "summary": "BMI首席经济学家Cedric Chehab周一告诉CNBC ，未来几个月原油价格仍将相当高，布伦特原油价格将保持在每桶100 $以上，因为美国和伊朗在可能的协议上仍有距离。Chehab告诉CNBC的节目Squawk ，达成协议“可能需要几个月的时间”",
+  "pub_time": "2026-10-12T10:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "a456cf882fa8e0c09d3c21acc08dd49f",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "布伦特油价"
+  ],
+  "en_title": "BMI Predicts Brent Crude Will Remain Above $100 for Months"
+ },
+ {
+  "title": "Mysteel黑色金属例会：本周钢价或偏弱为主",
+  "url": "https://news.mysteel.com/a/26101218/E56D5517E2E44370.html",
+  "summary": "",
+  "pub_time": "2026-10-12T10:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "b7cf7da0363cc543996ad9b1c8f54b2e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "海湾动荡中的金边下游",
+  "url": "",
+  "summary": "（ RTTNews ） -周一金价小幅走低，因为投资者监测了石油市场的情况，并期待本周公布的美国消费者和生产者价格通胀数据，这可能会影响美联储对下一个货币政策的预期",
+  "pub_time": "2026-10-12T09:56:38Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "09bda5a90ed5e9604862b91b50fe2cea",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Gold Edges Lower Amid Gulf Unrest"
+ },
+ {
   "title": "贸易波动中油价上涨",
   "url": "",
   "summary": "（ RTTNews ） -油价周一走高，弥补了伊朗支持的胡塞武装分子对沙特阿拉伯航空基础设施发动新一轮袭击以及阿曼索哈尔锚地附近一艘油轮遭到无人机袭击后的早期损失。",
@@ -78,6 +150,25 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel周报：汽车原材料价格（10.5-10.11）",
+  "url": "https://news.mysteel.com/a/26101217/2AE377B39494927A.html",
+  "summary": "",
+  "pub_time": "2026-10-12T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "7e401b627b8d4bec6c530e13746ea6bb",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/产业经济",
+  "tags": [
+   "产业经济",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -1922,7 +2013,7 @@
  },
  {
   "title": "Mysteel宏观周报：新质生产力意见落地，央行明确人民币汇率政策立场",
-  "url": "https://news.mysteel.com/a/26101023/A34962A468A057EC.html",
+  "url": "https://news.mysteel.com/a/26101023/CE87F583459FD182.html",
   "summary": "",
   "pub_time": "2026-10-10T15:00:00Z",
   "source": "上海钢联Mysteel",
