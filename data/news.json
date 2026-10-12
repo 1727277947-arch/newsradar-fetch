@@ -1,5 +1,90 @@
 [
  {
+  "title": "贸易波动中油价上涨",
+  "url": "",
+  "summary": "（ RTTNews ） -油价周一走高，弥补了伊朗支持的胡塞武装分子对沙特阿拉伯航空基础设施发动新一轮袭击以及阿曼索哈尔锚地附近一艘油轮遭到无人机袭击后的早期损失。",
+  "pub_time": "2026-10-12T09:28:28Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "b6aed1d49b2f3e225a49bece9d1c1cdc",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "上涨"
+  ],
+  "en_title": "Oil Prices Rise In Choppy Trade"
+ },
+ {
+  "title": "Mysteel晚餐：沙钢中天最新调价",
+  "url": "https://news.mysteel.com/a/26101217/62642923294F7D74.html",
+  "summary": "",
+  "pub_time": "2026-10-12T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "a131cc120d620ca1db162d3ca9bf1530",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel晚餐：沙钢中天最新调价，焦炭第二轮提降落地",
+  "url": "https://news.mysteel.com/a/26101217/594E9DA5AF4295E0.html",
+  "summary": "",
+  "pub_time": "2026-10-12T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "4d2fdaa4cc2c079d822122d81db632b5",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "关键矿产日报：茜坑锂矿安全设施设计过审，国内电解铝库存下降",
+  "url": "https://news.mysteel.com/a/26101217/7878F17F4D1E63C1.html",
+  "summary": "",
+  "pub_time": "2026-10-12T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "4bcb0f394645e49a2f1d46a5ea91054a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "随着中东风险的增加，日本敦促亚洲建立石油储备",
   "url": "",
   "summary": "日本贸易大臣表示，石油生产商和消费者需要加强合作，亚洲国家特别需要增加石油库存和基础设施。在虚拟国际能源论坛上， Ryosei Akazawa表示，日本将寻求扮演“",
@@ -24,6 +109,63 @@
    "原油"
   ],
   "en_title": "Japan Urges Asia to Build Up Oil Reserves as Middle East Risks Mount"
+ },
+ {
+  "title": "天柱钢铁：750产线升级改造项目正式进入关键期",
+  "url": "https://news.mysteel.com/a/26101216/BB63FC5A8B16AEB9.html",
+  "summary": "",
+  "pub_time": "2026-10-12T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "ee0e56ec324a4764eff557019c5a84e0",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "中金黄金与敖汉旗人民政府签署战略合作框架协议",
+  "url": "https://news.mysteel.com/a/26101216/DAC514B603368B81.html",
+  "summary": "",
+  "pub_time": "2026-10-12T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "20870e0e4aa9255222e11099f38cb71e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel日报：黑色金属期货价格震荡上涨运行",
+  "url": "https://news.mysteel.com/a/26101216/7495FD2769867A06.html",
+  "summary": "",
+  "pub_time": "2026-10-12T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "26df882534f5f2c8e5048ce9a1760516",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
  },
  {
   "title": "超级油轮价格从创纪录高点下滑",
@@ -51,25 +193,6 @@
   "en_title": "Supertanker Rates Slip From Record Highs"
  },
  {
-  "title": "黑色持仓日报：东证期货增持2万手螺纹钢多单",
-  "url": "https://news.mysteel.com/a/26101215/CC2B560186640FD5.html",
-  "summary": "",
-  "pub_time": "2026-10-12T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "1ec1e88e408d9818f613fabb7d23c606",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "兰鑫钢铁产能出让方案公告",
   "url": "https://news.mysteel.com/a/26101215/1565735E739E0283.html",
   "summary": "",
@@ -89,27 +212,8 @@
   "is_elite": false
  },
  {
-  "title": "有色持仓日报：沪铜涨0.93%，中信期货增持1.4千手空单",
-  "url": "https://news.mysteel.com/a/26101215/DEBDE887C8581B78.html",
-  "summary": "",
-  "pub_time": "2026-10-12T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "cc49cf059fb1825eba90f4acca3b0f3d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "兰鑫钢铁集团炼钢产能出让方案公告",
-  "url": "https://news.mysteel.com/a/26101215/A6A3986DBBC9DFD6.html",
+  "url": "https://news.mysteel.com/a/26101215/1565735E739E0283.html",
   "summary": "",
   "pub_time": "2026-10-12T07:00:00Z",
   "source": "上海钢联Mysteel",
@@ -128,7 +232,7 @@
  },
  {
   "title": "黑色持仓日报：期螺飘红，东证期货增持2万手多单",
-  "url": "https://news.mysteel.com/a/26101215/E7935DA5523F28E9.html",
+  "url": "https://news.mysteel.com/a/26101215/CC2B560186640FD5.html",
   "summary": "",
   "pub_time": "2026-10-12T07:00:00Z",
   "source": "上海钢联Mysteel",
@@ -147,12 +251,31 @@
  },
  {
   "title": "世界钢铁协会预计2026年全球钢铁需求量为17.22亿吨",
-  "url": "https://news.mysteel.com/a/26101215/01B1C6FBD79777DC.html",
+  "url": "https://news.mysteel.com/a/26101215/61CE2E907564F798.html",
   "summary": "",
   "pub_time": "2026-10-12T07:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "082668860ba5f75b8e6d7daa5603879a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "有色持仓日报：沪铜涨0.93%，中信期货增持1.4千手空单",
+  "url": "https://news.mysteel.com/a/26101215/0EF2FB47AC3D8140.html",
+  "summary": "",
+  "pub_time": "2026-10-12T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "cc49cf059fb1825eba90f4acca3b0f3d",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1810,63 +1933,6 @@
   "topic": "国内/金融政策",
   "tags": [
    "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel晚餐：9月39家建材钢厂减产检修，10月建筑企业钢材采购调研",
-  "url": "https://news.mysteel.com/a/26101017/108DBC171C3CDCA3.html",
-  "summary": "",
-  "pub_time": "2026-10-10T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "b6b3c77b214171fa24ebe221e1831bac",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "每日钢市：3家钢厂涨价，成交一般，下周钢价或窄幅震荡",
-  "url": "https://news.mysteel.com/a/26101017/DABDB64CF9D03AE1.html",
-  "summary": "",
-  "pub_time": "2026-10-10T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "68c70a9a505b61f7827b96a4c2cdd008",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "关键矿产日报：我国北方最大铜冶炼单体项目投产，智利大型铜矿罢工",
-  "url": "https://news.mysteel.com/a/26101017/E669A185249B1BFB.html",
-  "summary": "",
-  "pub_time": "2026-10-10T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "38b46711a6029c5536a41cdd0b432df2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
