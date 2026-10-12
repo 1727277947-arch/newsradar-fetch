@@ -1,5 +1,57 @@
 [
  {
+  "title": "美国电池科技股严重超卖",
+  "url": "",
+  "summary": "在周一的交易中，American Battery Technology Co（股票代码：ABAT）的股票进入超卖区域，换手价低至每股 1.84 美元。我们使用相对强弱指数（RSI）来定义超卖区域，这是一种用于衡量超卖区域的技术分析指标。",
+  "pub_time": "2026-10-12T20:25:40Z",
+  "source": "Nasdaq商品",
+  "_cat": "基本金属",
+  "dedup_key": "0b8014f886d99b68c481ef7bd6245de8",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡",
+   "库存"
+  ],
+  "en_title": "American Battery Technology Stock Getting Very Oversold"
+ },
+ {
+  "title": "LAR 穿越关键技术指标",
+  "url": "",
+  "summary": "在周一的交易中，Lithium Argentina AG（代码：LAR）的股票进入超卖区域，换手价低至每股 4.86 美元。我们使用相对强度指数 (RSI) 定义超卖区域，这是一种用于衡量动量的技术分析指标",
+  "pub_time": "2026-10-12T20:25:23Z",
+  "source": "Nasdaq商品",
+  "_cat": "基本金属",
+  "dedup_key": "4adb1ee48c73d86dc98b8b6dee935456",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "LAR Crosses Critical Technical Indicator"
+ },
+ {
   "title": "4,000 美元的黄金可能是华尔街的下一个大买入机会",
   "url": "",
   "summary": "由于美元走强、美国国债收益率飙升以及美联储进一步收紧政策的预期打压金价，金价从 9 月份每盎司 4,400 美元以上的高位回落后，正努力重新站稳脚跟。但是，尽管投机投资者一直在减少风险敞口",
@@ -392,59 +444,6 @@
    "供应"
   ],
   "en_title": "Pakistan Looks to Import Crude Oil from Libya to Diversify Supply"
- },
- {
-  "title": "石油问题陷入中东局势升级与俄罗斯-乌克兰能源休战之间",
-  "url": "",
-  "summary": "由于美国总统特朗普宣布俄罗斯和乌克兰之间的“能源停火”抵消了本周末中东局势升级，周一欧洲油价略有下跌。布伦特原油价格为每桶104 $ ，美国基准， WTI原油， TRA",
-  "pub_time": "2026-10-12T11:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "b0fca85871233acfa36a3fdf8c42f35c",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "原油",
-   "能源"
-  ],
-  "en_title": "Oil Stuck Between Middle East Escalation and Russia-Ukraine Energy Truce"
- },
- {
-  "title": "BMI预测布伦特原油将在数月内保持在100 $以上",
-  "url": "",
-  "summary": "BMI首席经济学家Cedric Chehab周一告诉CNBC ，未来几个月原油价格仍将相当高，布伦特原油价格将保持在每桶100 $以上，因为美国和伊朗在可能的协议上仍有距离。Chehab告诉CNBC的节目Squawk ，达成协议“可能需要几个月的时间”",
-  "pub_time": "2026-10-12T10:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "a456cf882fa8e0c09d3c21acc08dd49f",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "布伦特油价"
-  ],
-  "en_title": "BMI Predicts Brent Crude Will Remain Above $100 for Months"
  },
  {
   "title": "Mysteel黑色金属例会：本周钢价或偏弱为主",
