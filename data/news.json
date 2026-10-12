@@ -1,5 +1,95 @@
 [
  {
+  "title": "超级油轮价格从创纪录高点下滑",
+  "url": "",
+  "summary": "根据路透社援引的波罗的海交易所数据，在本月早些时候触及历史新高后，超级油轮价格略有回落，从墨西哥湾沿岸到中国的租赁价格为每天634,974 $。相比之下，有超过$ 63的记录",
+  "pub_time": "2026-10-12T07:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "1da9232efae2a0b935b86b880cc713ff",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Supertanker Rates Slip From Record Highs"
+ },
+ {
+  "title": "GIWA论坛深入了解西澳大利亚州的小麦滑梯、油菜籽提升机",
+  "url": "",
+  "summary": "西澳大利亚州是澳大利亚粮食出口的强国，其不断变化的生产组合是上周三在珀斯举行的西澳大利亚州粮食工业协会论坛的主题。",
+  "pub_time": "2026-10-12T06:17:16Z",
+  "source": "GrainCentral",
+  "_cat": "农产品",
+  "dedup_key": "5f9656045bc84ab95eff0e42d61fd50e",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "小麦",
+   "下滑"
+  ],
+  "en_title": "GIWA forum looks into WA’s wheat slide, canola lift"
+ },
+ {
+  "title": "Mysteel：全国多地电网企业公布10月代理购电价格，广东居首",
+  "url": "https://news.mysteel.com/a/26101214/A10F6BB0E83F1E73.html",
+  "summary": "",
+  "pub_time": "2026-10-12T06:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "06e16b1089f75304b8737c2d76798add",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "盐城市联鑫钢铁优特钢升级改造项目审批公示",
+  "url": "https://news.mysteel.com/a/26101214/16A6B4B5CEBC5F60.html",
+  "summary": "",
+  "pub_time": "2026-10-12T06:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "66e158d868eb95a9d73345a5aba05395",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "霍尔木兹海峡附近又有两艘油轮遇袭",
   "url": "",
   "summary": "阿格斯援引船舶跟踪数据和印度航运部长的话报道，周日在霍尔木兹海峡附近又有两艘油轮遭到袭击，一艘在霍尔木兹，另一艘在阿曼海岸附近。其中一个目标是装满伊拉克原油的Suezmax ，它于10月8日启航，印度",
@@ -26,15 +116,15 @@
   "en_title": "Two More Oil Tankers Attacked Near Strait of Hormuz"
  },
  {
-  "title": "2026-27年全球棉花产量升至118Mb ： WASDE",
+  "title": "2026-27年全球棉花产量为118Mb ： WASDE",
   "url": "",
-  "summary": "USDA's October WASDE puts world cotton production at 118 million bales for 2026-27, 600,000b up on the September estimate due to upward revisions to the Brazilian and US crops.",
+  "summary": "美国农业部10月份的WASDE将2026-27年的世界棉花产量定为1.18亿包，由于巴西和美国作物的上调， 9月份的估计产量增加了60万包。",
   "pub_time": "2026-10-12T05:29:30Z",
   "source": "GrainCentral",
   "_cat": "农产品",
-  "dedup_key": "67fcec6a51e3b6892c3f925669275afa",
+  "dedup_key": "2cb1a211e6ce27605bb06aacb3a8b067",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "农产品",
   "tags": [
    "农产品",
@@ -48,10 +138,9 @@
   "keywords": [
    "农产品",
    "棉花",
-   "上涨",
    "产量"
   ],
-  "en_title": "Global cotton production rises to 118Mb in 2026-27: WASDE"
+  "en_title": "Global cotton production seen at 118Mb in 2026-27: WASDE"
  },
  {
   "title": "美国铁腕封锁伊朗港口：百艘船只折返、石油出海艰难",
@@ -69,25 +158,6 @@
    "中文",
    "国内",
    "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "培育赛事经济新增长极",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711892.shtml",
-  "summary": "今年国庆黄金周，体育赛事好戏连台。中国网球公开赛、世界乒乓球职业大联盟(WTT)中国大满贯赛等国际顶级职业赛事热度拉满；贵州村超国际友谊赛、村BA全国总决赛等草根赛事人气爆棚。从守着屏幕到跨城打卡，观看比赛、乐享运动，成为国庆假期大众休闲消费的新风尚",
-  "pub_time": "2026-10-12T03:04:43Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "dec555fb9d74740d5dd88daf06d1e21f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
   ],
   "is_elite": false
  },
@@ -177,7 +247,7 @@
  },
  {
   "title": "Mysteel：14家钢企领导研判钢铁行业形势",
-  "url": "https://news.mysteel.com/a/26101211/2A258B7FA0CB8E15.html",
+  "url": "https://news.mysteel.com/a/26101211/0EC21AEB41FCDD57.html",
   "summary": "",
   "pub_time": "2026-10-12T03:00:00Z",
   "source": "上海钢联Mysteel",
@@ -229,25 +299,6 @@
    "中文",
    "国内",
    "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "湖南杂交水稻育种迈入智能决策新阶段",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711879.shtml",
-  "summary": "唐小晴 刘维帅 李祺)10月11日下午，“袁稻思源”杂交水稻智能育种平台在长沙岳麓山实验室发布。这意味着湖南杂交水稻育种正式迈入数据驱动、智能决策的新阶段",
-  "pub_time": "2026-10-12T02:53:05Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "ce4bed64a7c2c0386403d63d3d85de4c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
   ],
   "is_elite": false
  },
@@ -639,6 +690,25 @@
   "is_elite": false
  },
  {
+  "title": "2026年10月12日大连豆粕期货高开收跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/12/0554983949.shtml",
+  "summary": "",
+  "pub_time": "2026-10-11T16:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "96c6b8a7f714f2c9e3b255575bacb511",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年10月12日大连豆粕期货行情午报",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/12/3451615752.shtml",
   "summary": "",
@@ -677,6 +747,25 @@
   "is_elite": false
  },
  {
+  "title": "2026年10月12日大连玉米期货收盘高开收涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/12/1043468179.shtml",
+  "summary": "",
+  "pub_time": "2026-10-11T16:00:00Z",
+  "source": "粮油玉米",
+  "_cn": true,
+  "dedup_key": "6d4ff1c90d1dba97f441947b1727dcf4",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油玉米"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年10月12日大连玉米期货行情午报",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/12/5234203198.shtml",
   "summary": "",
@@ -696,6 +785,25 @@
   "is_elite": false
  },
  {
+  "title": "2026年10月12日大连大豆期货收盘高开收涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/12/0532232553.shtml",
+  "summary": "",
+  "pub_time": "2026-10-11T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "6c2824dbc9b9de2d716e3c9702bcad1a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年10月12日大连大豆期货行情早报",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/12/0522991796.shtml",
   "summary": "",
@@ -711,6 +819,63 @@
    "中文",
    "国内",
    "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年10月12日大连棕榈油期货低开收跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/12/0612810658.shtml",
+  "summary": "",
+  "pub_time": "2026-10-11T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "e802da7b4d095be3a285263561c1b8ea",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年10月12日大连豆油期货高开收跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/12/0328241987.shtml",
+  "summary": "",
+  "pub_time": "2026-10-11T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "82ee7f42f9d91260e792436038c430da",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年10月12日郑州菜油期货收盘高开收涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/12/0155727189.shtml",
+  "summary": "",
+  "pub_time": "2026-10-11T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "e4c269b5fe681c15509225b6873ece74",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
   ],
   "is_elite": false
  },
@@ -848,6 +1013,25 @@
   "is_elite": false
  },
  {
+  "title": "2026年10月12日郑州菜粕收盘期货高开收跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/12/0031724094.shtml",
+  "summary": "",
+  "pub_time": "2026-10-11T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "2d42cfb72e41b88f1ee4a292d8397cea",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年10月12日郑州菜粕期货行情午报",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/12/3253716703.shtml",
   "summary": "",
@@ -886,13 +1070,32 @@
   "is_elite": false
  },
  {
-  "title": "2026年10月9日大连粳米期货行情午报",
+  "title": "2026年10月12日大连粳米期货收盘低开收涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/12/0349338646.shtml",
+  "summary": "",
+  "pub_time": "2026-10-11T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "6f793c5670c4fd75b2d55bd7763943ad",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年10月12日大连粳米期货行情午报",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/12/0428924335.shtml",
   "summary": "",
   "pub_time": "2026-10-11T16:00:00Z",
   "source": "粮油首页",
   "_cn": true,
-  "dedup_key": "d36a8deee79de95bc0cd8c62628b6af2",
+  "dedup_key": "b8b3f022de225ebb9f21c0d0a697c80a",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -968,44 +1171,6 @@
    "下跌"
   ],
   "en_title": "North Sea Oil Producers Push Burnham to Scrap Windfall Tax"
- },
- {
-  "title": "中钢协：9月下旬重点钢企钢材库存量1565万吨",
-  "url": "https://news.mysteel.com/a/26101123/792DB17DCDAAB8AE.html",
-  "summary": "",
-  "pub_time": "2026-10-11T15:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "a959a514dcd5e18bef21e1ac2b05c66c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "张天福：当前钢铁行业彻底告别行情红利，全面进入深度竞争周期",
-  "url": "https://news.mysteel.com/a/26101121/D2E0C5C0A89F6C82.html",
-  "summary": "",
-  "pub_time": "2026-10-11T13:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "adda6856678127d09dfe0820c521629c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  },
  {
   "title": "随着石油危机演变为航运危机，油轮费率飙升",
@@ -1486,25 +1651,6 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "厄尔尼诺现象致雨季提前，坦桑尼亚水稻收割受影响",
-  "url": "https://news.mysteel.com/a/26101015/1FFAAB39C475EB6B.html",
-  "summary": "",
-  "pub_time": "2026-10-10T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "1e063b2b0d87e85686700edbfe9010de",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
