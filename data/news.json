@@ -1,5 +1,78 @@
 [
  {
+  "title": "广东茂名港30万吨级原油码头工程通过交工验收",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712303.shtml",
+  "summary": "记者 梁盛)广东茂名港博贺新港区30万吨级原油码头工程12日通过交工验收，为码头后续投产运营筑牢硬件根基",
+  "pub_time": "2026-10-12T13:41:38Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "e3455b7614139f9dbf8044a35e0f9d76",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "沙特袭击和油轮袭击重燃霍尔木兹恐惧，油价上涨 2%",
+  "url": "",
+  "summary": "周一早上，沙特阿拉伯和霍尔木兹海峡附近的油轮遭受新的袭击，中东供应风险重新成为市场的中心，这盖过了唐纳德·特朗普总统宣布的额外俄罗斯柴油供应风险，油价攀升至近两周来的最高水平。",
+  "pub_time": "2026-10-12T13:35:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "c2183ff1df928c722bb8ed0651eee8f8",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "跳涨",
+   "罢工"
+  ],
+  "en_title": "Oil Jumps 2% as Saudi Attacks and Tanker Strikes Revive Hormuz Fears"
+ },
+ {
+  "title": "CREA：印度7月和8月削减了超过4%的太阳能发电量",
+  "url": "",
+  "summary": "印度创纪录的可再生能源发电和太阳能发电量因七月和八月印度经历电力供应短缺而受到限电的影响而黯然失色。芬兰国家电力局表示，由于电网和运营限制，7 月和 8 月超过 4% 的太阳能发电量不得不被削减。",
+  "pub_time": "2026-10-12T13:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "ce9e8ea32f0db9550429020e942158e5",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "产量"
+  ],
+  "en_title": "CREA: India Curtailed Over 4% of Its Solar Output in July and August"
+ },
+ {
   "title": "Falco 争取环境许可",
   "url": "",
   "summary": "经过八年的环境审查，Falco Resources (TSXV: FPC) 预计魁北克将在年底前批准 Horne 5，这一决定将释放黄金和关键...... Falco 争夺环境许可的帖子首先出现在《北方矿工》上。",
@@ -51,25 +124,6 @@
    "供应"
   ],
   "en_title": "Pakistan Looks to Import Crude Oil from Libya to Diversify Supply"
- },
- {
-  "title": "银川铁路物流中心首列粉煤灰进藏图定班列开行",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-12/10712251.shtml",
-  "summary": "记者 杨迪)10月12日凌晨2时42分，一列满载3979.5吨粉煤灰的货物列车从中国铁路兰州局银川铁路物流中心青铜峡货场驶出，跨越千里奔赴西藏林芝站，为当地工程建设输送高性能混凝土掺和原料",
-  "pub_time": "2026-10-12T12:28:32Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "4bc5656904fbf4b33ea49bc462c6d51f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
  },
  {
   "title": "石油问题陷入中东局势升级与俄罗斯-乌克兰能源休战之间",
@@ -1718,86 +1772,6 @@
    "下跌"
   ],
   "en_title": "North Sea Oil Producers Push Burnham to Scrap Windfall Tax"
- },
- {
-  "title": "随着石油危机演变为航运危机，油轮费率飙升",
-  "url": "",
-  "summary": "上个月，由于伊朗战争重组了贸易路线和模式，并将更多的油轮捆绑在低效和漫长的航程中，原油运输成本飙升至创纪录的高位。9月，波斯湾至中国航线的超级油轮费率飙升至每天100万美元以上，创历史新高。",
-  "pub_time": "2026-10-10T23:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "6d7b8d148c7f65d937ba4f2d46fee440",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis"
- },
- {
-  "title": "紧急石油释放风险耗尽了世界上最后的供应缓冲",
-  "url": "",
-  "summary": "本周早些时候，国际能源署在与七国集团磋商后表示，将再释放1亿桶柴油、汽油和原油。该释放是3月份宣布的计划的一部分，该计划旨在释放4亿桶石油以应对霍尔木兹的挤压。但是有一个",
-  "pub_time": "2026-10-10T23:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "417c05b37ec66962b649fdcccd9a0c8d",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "走软",
-   "供应"
-  ],
-  "en_title": "Emergency Oil Releases Risk Draining the World’s Last Supply Cushion"
- },
- {
-  "title": "Pemex 需要近 1100 亿美元才能实现墨西哥的产量目标",
-  "url": "",
-  "summary": "尽管墨西哥国内化石燃料资源丰富，但其三分之二的能源消耗依赖石油和天然气进口。但墨西哥并没有最大限度地开发自己的生产能力，而是主要依赖其北部邻国",
-  "pub_time": "2026-10-10T21:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "9fd454f9ee1ccb741f1ab903174f382c",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "产量"
-  ],
-  "en_title": "Pemex Needs Nearly $110 Billion to Hit Mexico's Output Targets"
  },
  {
   "title": "2026年10月11日安徽省亳州涡阳县新季大豆价格行情",
