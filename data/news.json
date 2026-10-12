@@ -1,5 +1,62 @@
 [
  {
+  "title": "随着液化天然气短缺加剧，全球煤炭需求上升",
+  "url": "",
+  "summary": "来自波斯湾的液化天然气流量仍比 2 月 28 日之前减少 75% 以上。然而，冬季到来之前，供暖需求正在上升。在欧洲，11 月天然气基准合约的交易价格超过每兆瓦时 81 欧元。在亚洲，现货市场液化天然气价格最高",
+  "pub_time": "2026-10-12T22:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "dc63079a75c8f8e97c04332f8f9e6d54",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "煤炭",
+   "上涨",
+   "需求",
+   "短缺"
+  ],
+  "en_title": "Global Coal Demand Rises as LNG Shortage Deepens"
+ },
+ {
+  "title": "BOM 2026 年 10 月 13 日每周降雨量更新 + 展望",
+  "url": "",
+  "summary": "在粮食种植地区经历了连续几天的干旱之后，预计下周收割和夏季作物地区将出现降雨。",
+  "pub_time": "2026-10-12T21:41:13Z",
+  "source": "GrainCentral",
+  "_cat": "基本金属",
+  "dedup_key": "08d3a38282b13c32103a7b21ed4762be",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "下跌",
+   "周",
+   "展望"
+  ],
+  "en_title": "BOM weekly rainfall update 13 October 2026 + outlook"
+ },
+ {
   "title": "美国电池科技股严重超卖",
   "url": "",
   "summary": "在周一的交易中，American Battery Technology Co（股票代码：ABAT）的股票进入超卖区域，换手价低至每股 1.84 美元。我们使用相对强弱指数（RSI）来定义超卖区域，这是一种用于衡量超卖区域的技术分析指标。",
@@ -417,33 +474,6 @@
    "生铁"
   ],
   "en_title": "Falco vies for environmental OK"
- },
- {
-  "title": "巴基斯坦寻求从利比亚进口原油以实现供应多元化",
-  "url": "",
-  "summary": "巴基斯坦石油部长阿里·佩尔瓦伊兹·马利克表示，巴基斯坦正在鼓励其炼油商考虑从利比亚购买原油，以使其石油供应多样化，以应对中东危机。阿里·佩尔瓦伊兹 (Ali Pervaiz) 在能源会议期间会见了利比亚石油和天然气部长哈利法·拉贾布·阿卜杜勒萨德克 (Khalifa Rajab Abdulsadek)",
-  "pub_time": "2026-10-12T12:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "c2f5947802c4ef5bf4553d57d4f46467",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "供应"
-  ],
-  "en_title": "Pakistan Looks to Import Crude Oil from Libya to Diversify Supply"
  },
  {
   "title": "Mysteel黑色金属例会：本周钢价或偏弱为主",
