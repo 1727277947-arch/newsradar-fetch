@@ -1,5 +1,78 @@
 [
  {
+  "title": "霍尔木兹海峡附近又有两艘油轮遇袭",
+  "url": "",
+  "summary": "阿格斯援引船舶跟踪数据和印度航运部长的话报道，周日在霍尔木兹海峡附近又有两艘油轮遭到袭击，一艘在霍尔木兹，另一艘在阿曼海岸附近。其中一个目标是装满伊拉克原油的Suezmax ，它于10月8日启航，印度",
+  "pub_time": "2026-10-12T05:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "4457926f004b85d74ca8f6f632230b64",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Two More Oil Tankers Attacked Near Strait of Hormuz"
+ },
+ {
+  "title": "2026-27年全球棉花产量升至118Mb ： WASDE",
+  "url": "",
+  "summary": "USDA's October WASDE puts world cotton production at 118 million bales for 2026-27, 600,000b up on the September estimate due to upward revisions to the Brazilian and US crops.",
+  "pub_time": "2026-10-12T05:29:30Z",
+  "source": "GrainCentral",
+  "_cat": "农产品",
+  "dedup_key": "67fcec6a51e3b6892c3f925669275afa",
+  "score": 84,
+  "priority": "P1",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "棉花",
+   "上涨",
+   "产量"
+  ],
+  "en_title": "Global cotton production rises to 118Mb in 2026-27: WASDE"
+ },
+ {
+  "title": "美国铁腕封锁伊朗港口：百艘船只折返、石油出海艰难",
+  "url": "https://news.mysteel.com/a/26101213/C9DC683CD9426E71.html",
+  "summary": "",
+  "pub_time": "2026-10-12T05:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "22cc936f94abc9c852ee2076c0f5e577",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "培育赛事经济新增长极",
   "url": "https://www.chinanews.com.cn/cj/2026/10-12/10711892.shtml",
   "summary": "今年国庆黄金周，体育赛事好戏连台。中国网球公开赛、世界乒乓球职业大联盟(WTT)中国大满贯赛等国际顶级职业赛事热度拉满；贵州村超国际友谊赛、村BA全国总决赛等草根赛事人气爆棚。从守着屏幕到跨城打卡，观看比赛、乐享运动，成为国庆假期大众休闲消费的新风尚",
@@ -123,7 +196,7 @@
  },
  {
   "title": "Mysteel周报：船舶原材料价格（9.24-10.10）",
-  "url": "https://news.mysteel.com/a/26101211/87D5BF41F861522B.html",
+  "url": "https://news.mysteel.com/a/26101211/DF9F00FB08AF906C.html",
   "summary": "",
   "pub_time": "2026-10-12T03:00:00Z",
   "source": "上海钢联Mysteel",
@@ -134,6 +207,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "【证券日报】上海钢联王红焱：四季度生猪行业扭转供强需弱的格局尚有难度",
+  "url": "https://news.mysteel.com/a/26101211/051D9E8BFB1EB9EA.html",
+  "summary": "",
+  "pub_time": "2026-10-12T03:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "65c8fe0e8526106397c5549202480b1e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/金融政策",
+  "tags": [
+   "金融政策",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -224,25 +316,6 @@
   "en_title": "Trump's Russia-Ukraine Energy Ceasefire May Only Cover Oil Refineries"
  },
  {
-  "title": "Mysteel解读：2026年10月份世界玉米供需情况分析",
-  "url": "https://news.mysteel.com/a/26101209/AE7BA66C1627B866.html",
-  "summary": "",
-  "pub_time": "2026-10-12T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "3e4acdb1f7719a8fdd686cf43780e729",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "盛达期货：焦炭套利交易体系如何构建",
   "url": "https://news.mysteel.com/a/26101209/536C21E9CA5A5C71.html",
   "summary": "",
@@ -274,25 +347,6 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "碳酸锂期货主力合约跌超5%",
-  "url": "https://news.mysteel.com/a/26101209/21135C27E13BB3AE.html",
-  "summary": "",
-  "pub_time": "2026-10-12T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "6930b3f9c423180a9d5c2cd7ce3974bf",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -820,6 +874,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "eb6e368fdc257302c883e9d34c7206f4",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年10月9日大连粳米期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/12/0428924335.shtml",
+  "summary": "",
+  "pub_time": "2026-10-11T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "d36a8deee79de95bc0cd8c62628b6af2",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1432,25 +1505,6 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "飓风来袭！美墨西哥湾紧急停工，原油产量损失预计达900万桶",
-  "url": "https://news.mysteel.com/a/26101013/9CB7D7B2FD77E392.html",
-  "summary": "",
-  "pub_time": "2026-10-10T05:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "d37201b36918605366555e08eb13d86c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
