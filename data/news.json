@@ -1,5 +1,185 @@
 [
  {
+  "title": "第三季度财报公布前值得关注的五只页岩股",
+  "url": "",
+  "summary": "二叠纪生产商今年大部分时间都在付钱给买家，以运走石油中产生的天然气。据路透社报道，瓦哈中心现货价格在 6 月 16 日转正之前连续 90 天创纪录地保持在零以下，该中心的平均价格为每百万英热值负 2.19 美元",
+  "pub_time": "2026-10-13T21:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "751b96a435d2e864cc38a2f78b8e0ea9",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "库存"
+  ],
+  "en_title": "Five Shale Stocks to Watch Before Third-Quarter Earnings"
+ },
+ {
+  "title": "USGBC 举办国际粮食采购课程和出口设施参观",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-10-13T20:25:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "4a69e5aa0c5d11e865cd192bb29cc350",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "谷物"
+  ],
+  "en_title": "USGBC Hosts International Grain Procurement Course and Export Facility Tours"
+ },
+ {
+  "title": "USAU 穿越关键技术指标",
+  "url": "",
+  "summary": "在周二的交易中，美国黄金公司（股票代码：USAU）的股票进入超卖区域，换手价低至每股 13.39 美元。我们使用相对强弱指数 (RSI) 来定义超卖区域，这是一种技术分析指标，用于衡量超卖动量",
+  "pub_time": "2026-10-13T20:23:31Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "34ff123200f038429cfb30b00a7d94fc",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "USAU Crosses Critical Technical Indicator"
+ },
+ {
+  "title": "WRN 股票现已超卖",
+  "url": "",
+  "summary": "在周二的交易中，Western Copper & Gold Corp.（代码：WRN）的股票进入超卖区域，易手低至每股 1.90 美元。我们使用相对强弱指数（RSI）来定义超卖区域，这是一种技术分析指标，用于衡量",
+  "pub_time": "2026-10-13T20:22:10Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "a5b66a2f329c948e8a36561132dd5916",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Shares of WRN Now Oversold"
+ },
+ {
+  "title": "SSR 以 4.64 亿美元收购 Roxmore，提升内华达金矿价值",
+  "url": "",
+  "summary": "SSR Mining（多伦多证券交易所，纳斯达克股票代码：SSRM）同意以 4.64 亿美元（多伦多证券交易所代码：RM）收购专注于内华达州的勘探公司 Roxmore Resources（多伦多证券交易所代码：RM），同时发布了附近 Marigold 矿的最新报告。",
+  "pub_time": "2026-10-13T20:10:12Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "e2a97724080734e84b72fb21ebe8fca5",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "SSR to buy Roxmore for $464M, boosts value of Nevada gold mine"
+ },
+ {
+  "title": "Niab 领导加速小麦改良的国际项目",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-10-13T19:44:00Z",
+  "source": "Grainnet",
+  "_cat": "基本金属",
+  "dedup_key": "cc5b1dbe3e5025606618686e04bf2409",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铅",
+   "小麦"
+  ],
+  "en_title": "Niab Leads International Project to Accelerate Wheat Improvement"
+ },
+ {
+  "title": "聚焦：魁北克探索",
+  "url": "",
+  "summary": "魁北克省的采矿产量约占加拿大的 20%，并且拥有北美最多样化的矿产资源。以下是四家拥有有趣项目的公司……《聚焦：魁北克勘探》一文首先出现在《北方矿工》上。",
+  "pub_time": "2026-10-13T19:25:54Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "8b0235b5847bd7db35e240d638bbec23",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Spotlight: Exploration in Quebec"
+ },
+ {
   "title": "科罗拉多峰会视频：海瑟薇将储备放在首位",
   "url": "",
   "summary": "Sprott Asset Management 管理合伙人 John Hathaway 表示，现金充裕的黄金生产商应将储备替代放在首位，并在投资增长时避免稀释股东权益。哈撒韦赞成股票回购，当……科罗拉多州峰会后视频：哈撒韦首先将储备金首先出现在",
@@ -23,6 +203,59 @@
    "贵金属"
   ],
   "en_title": "Colorado summit video: Hathaway puts reserves first"
+ },
+ {
+  "title": "雪崩加剧智利铜供应压力",
+  "url": "",
+  "summary": "周日发生的雪崩导致 Codelco El Teniente 矿的两名分包商工人丧生，这加剧了智利日益严重的供应担忧，因为极端天气、劳资纠纷和运营……雪崩增加了智利铜供应压力的帖子首先出现在《北方矿业报》上。",
+  "pub_time": "2026-10-13T19:10:00Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "6cf02b9ac423c9836748a282a0692906",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜",
+   "供应"
+  ],
+  "en_title": "Avalanche adds to Chile’s copper supply pressures"
+ },
+ {
+  "title": "Fortuna 在塞内加尔开采高品位黄金，扩大了矿床深度",
+  "url": "",
+  "summary": "Fortuna Mining（纽约证券交易所代码：FSM；多伦多证券交易所代码：FVI）在塞内加尔 Diamba Sud 项目的新钻探可能会扩大该矿产储量。南弧区的 DSR1149 孔被切割...《Fortuna》在塞内加尔发现了高品位黄金，扩大了矿床的深度，首先出现在《北方矿工》上。",
+  "pub_time": "2026-10-13T19:00:23Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "2385d9db469dd3ec4531aa5c9a2f96d2",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Fortuna logs high-grade gold in Senegal, extends deposit’s depth"
  },
  {
   "title": "圭亚那石油出口量将首次突破100万桶/日",
@@ -79,11 +312,11 @@
  {
   "title": "SSR 以 4.64 亿美元收购 Roxmore，提升内华达金矿价值",
   "url": "",
-  "summary": "SSR Mining（多伦多证券交易所，纳斯达克股票代码：SSRM）同意以 4.64 亿美元（多伦多证券交易所代码：RM）收购专注于内华达州的勘探公司 Roxmore Resources（多伦多证券交易所代码：RM），同时发布了附近 Marigold 矿的最新报告。",
+  "summary": "该交易将巩固 SSR 在美国最大黄金生产商中的地位，同时在内华达州建立长期生产中心。",
   "pub_time": "2026-10-13T17:59:12Z",
-  "source": "NorthernMiner",
+  "source": "Mining.com",
   "_cat": "贵金属",
-  "dedup_key": "e2a97724080734e84b72fb21ebe8fca5",
+  "dedup_key": "3f937731e6078a194a8b14bf48f0529b",
   "score": 84,
   "priority": "P2",
   "topic": "贵金属",
@@ -392,32 +625,6 @@
   "en_title": "Fortuna logs high-grade gold in Senegal, extends depth"
  },
  {
-  "title": "Fortuna 在塞内加尔开采高品位黄金，扩大了矿床深度",
-  "url": "",
-  "summary": "Fortuna Mining（纽约证券交易所代码：FSM；多伦多证券交易所代码：FVI）在塞内加尔 Diamba Sud 项目的新钻探可能会扩大该矿产储量。南弧区的 DSR1149 孔被切割...《Fortuna》在塞内加尔发现了高品位黄金，扩大了矿床的深度，首先出现在《北方矿工》上。",
-  "pub_time": "2026-10-13T15:02:23Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "2385d9db469dd3ec4531aa5c9a2f96d2",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Fortuna logs high-grade gold in Senegal, extends deposit’s depth"
- },
- {
   "title": "沙特阿拉伯成为石油市场最大的变数",
   "url": "",
   "summary": "胡塞武装的袭击威胁着沙特石油基础设施和海湾航运，布伦特原油价格徘徊在每桶 105 美元附近。特朗普的燃油价格问题正在成为一个政治问题——特朗普政府的俄罗斯柴油协议未能给美国燃油价格带来实质性改变，引发美国燃油价格下跌3-4%",
@@ -547,33 +754,6 @@
    "供应"
   ],
   "en_title": "Super El Niño Could Ease Asia’s LNG Supply Concerns"
- },
- {
-  "title": "雪崩加剧智利铜供应压力",
-  "url": "",
-  "summary": "周日发生的雪崩导致 Codelco El Teniente 矿的两名分包商工人丧生，这加剧了智利日益严重的供应担忧，因为极端天气、劳资纠纷和运营……雪崩增加了智利铜供应压力的帖子首先出现在《北方矿业报》上。",
-  "pub_time": "2026-10-13T13:01:00Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "6cf02b9ac423c9836748a282a0692906",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "供应"
-  ],
-  "en_title": "Avalanche adds to Chile’s copper supply pressures"
  },
  {
   "title": "Lux寻求700万美元推进魁北克黄金项目",
@@ -733,32 +913,6 @@
    "价"
   ],
   "en_title": "Oil Prices Decline Amid Russian Diesel Relief"
- },
- {
-  "title": "沙特阿拉伯计划大规模扩建石油管道以绕过霍尔木兹海峡",
-  "url": "",
-  "summary": "沙特能源部长阿卜杜勒阿齐兹·本·萨勒曼亲王在利雅得举行的 WPC 能源大会上表示，沙特阿拉伯计划在两到三年内将其东西向陆上石油管道的产能提高到每天 1000 万桶，以帮助其绕过霍尔木兹海峡。管道，其中 ret",
-  "pub_time": "2026-10-13T09:20:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "aab0929ff99a2ff708f0fef77a4331d9",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Saudi Arabia Plans Massive Expansion of Oil Pipeline to Bypass Hormuz"
  },
  {
   "title": "Mysteel晚餐：鞍钢本钢凌钢11月调价",
@@ -2536,31 +2690,6 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "聚焦：魁北克探索",
-  "url": "",
-  "summary": "魁北克省的采矿产量约占加拿大的 20%，并且拥有北美最多样化的矿产资源。以下是四家拥有有趣项目的公司……《聚焦：魁北克勘探》一文首先出现在《北方矿工》上。",
-  "pub_time": "2026-10-12T15:15:54Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "8b0235b5847bd7db35e240d638bbec23",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Spotlight: Exploration in Quebec"
  },
  {
   "title": "Falco 争取环境许可",
