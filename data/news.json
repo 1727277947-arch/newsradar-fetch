@@ -1,5 +1,78 @@
 [
  {
+  "title": "中国石化PBST全生物降解地膜在营口稻田应用成功",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713923.shtml",
+  "summary": "10月13日，记者从中国石化新闻办获悉，以“央地赋能良田，科技守护粮安”为主题的营口万亩水稻膜肥机一体化项目成果发布会在辽宁营口举行。中国石化完全自主知识产权的PBST全生物降解地膜在项目中成功应用，与传统种植模式相比，实现节水30%以上、节肥20%以上、零除草剂，提高了肥料利用率，减少了稻田甲烷等温室气体排放，水稻亩均增产10%以上，农户亩均综合收益提升200元以上，实现了生态与效益双赢",
+  "pub_time": "2026-10-13T10:20:07Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "066a1f8e99ba6e96f8f28bbfadc9988d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "随着石油和美元回落，金价上涨",
+  "url": "",
+  "summary": "(RTTNews) - 周二金价小幅走高，因油价回落以及美元在本周晚些时候公布的关键美国通胀数据之前从 18 个月高点回落，这可能会影响美联储的预期。",
+  "pub_time": "2026-10-13T10:17:55Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "840fbaf93da17269efb80f728b428f63",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "原油"
+  ],
+  "en_title": "Gold Inches Higher As Oil, Dollar Retreat"
+ },
+ {
+  "title": "俄罗斯柴油救济令油价下跌",
+  "url": "",
+  "summary": "(RTTNews) - 周二油价大幅下跌，因俄罗斯部分取消柴油出口限制，有助于缓解全球燃料市场的供应限制。",
+  "pub_time": "2026-10-13T10:00:19Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "92a67bead513fab63726adda561b20c9",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价"
+  ],
+  "en_title": "Oil Prices Decline Amid Russian Diesel Relief"
+ },
+ {
   "title": "沙特阿拉伯计划大规模扩建石油管道以绕过霍尔木兹海峡",
   "url": "",
   "summary": "沙特能源部长阿卜杜勒阿齐兹·本·萨勒曼亲王在利雅得举行的 WPC 能源大会上表示，沙特阿拉伯计划在两到三年内将其东西向陆上石油管道的产能提高到每天 1000 万桶，以帮助其绕过霍尔木兹海峡。管道，其中 ret",
@@ -26,6 +99,25 @@
   "en_title": "Saudi Arabia Plans Massive Expansion of Oil Pipeline to Bypass Hormuz"
  },
  {
+  "title": "Mysteel晚餐：鞍钢本钢凌钢11月调价",
+  "url": "https://news.mysteel.com/a/26101317/9602F7467EC55708.html",
+  "summary": "",
+  "pub_time": "2026-10-13T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "2b82072b2a391bd672c49bcb16a100a8",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "关键矿产日报：10月山西炼焦煤矿山复产加速",
   "url": "https://news.mysteel.com/a/26101317/DB644D3FB7C53A59.html",
   "summary": "",
@@ -33,6 +125,25 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "d6843aa0080c90a49b582f62c712d2c4",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel晚餐：鞍钢本钢凌钢11月调价，长三角水泥价格累涨60元",
+  "url": "https://news.mysteel.com/a/26101317/875B4C4B153E60D1.html",
+  "summary": "",
+  "pub_time": "2026-10-13T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "a8f9cb9eab5ade042192834c5e72f6f1",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -64,25 +175,6 @@
   "is_elite": false
  },
  {
-  "title": "大商所：7个化工品种期货期权日均成交量达641.6万手 增长112.4%",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-13/10713789.shtml",
-  "summary": "记者 杨毅)由大连商品交易所(简称大商所)、马来西亚交易所共同主办的第19届国际油脂油料大会暨农畜产业(衍生品)大会13日至14日在大连召开。作为大会配套的产业活动，衍生品与黑色产业论坛于13日率先拉开帷幕。记者从会上获悉，今年1至9月，大商所7个化工品种期货期权日均成交量达641.6万手、日均持仓量达533.6万手，同比分别增长112.4%和33.3%",
-  "pub_time": "2026-10-13T08:32:21Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "596266d51c51f6535c4eaebb51e0d9e0",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
   "title": "国际货币基金组织警告中东战争可能破坏全球经济增长",
   "url": "",
   "summary": "国际货币基金组织表示，中东战争引发的能源危机仍然是全球经济的最大风险，但对人工智能的投资提供了乐观的理由，预计明年全球经济增长为3.4%。 “全球经济一直保持弹性",
@@ -106,6 +198,25 @@
    "基本金属"
   ],
   "en_title": "IMF Warns Middle East War Could Derail Global Economic Growth"
+ },
+ {
+  "title": "Mysteel日报：黑色金属期货震荡分化运行",
+  "url": "https://news.mysteel.com/a/26101316/04C0D54BA9564A88.html",
+  "summary": "",
+  "pub_time": "2026-10-13T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "0f50639ee1a6d0a1cc6f1694813cf8ce",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
  },
  {
   "title": "壳牌猛烈抨击澳大利亚迫使液化天然气生产商供应国内市场的计划",
@@ -1256,33 +1367,6 @@
   "en_title": "Oil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound"
  },
  {
-  "title": "煤炭库存暴跌，印度小工厂面临停电",
-  "url": "",
-  "summary": "由于许多发电厂的煤炭库存大幅下降，而电力需求因天气变暖和水力发电量大幅下降而猛增，停电已开始影响印度家庭以及小型工厂和钢厂。最近几周需求一直超过供应，导致房屋停电",
-  "pub_time": "2026-10-12T16:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "8c451c237f36681659c02f675a9e4e39",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "煤炭",
-   "库存"
-  ],
-  "en_title": "Small Indian Factories Face Blackouts as Coal Stocks Plunge"
- },
- {
   "title": "【独家】小麦还涨得动吗？",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/13/2318514957.shtml",
   "summary": "",
@@ -2186,8 +2270,27 @@
   "en_title": "Oil Prices Rise In Choppy Trade"
  },
  {
+  "title": "Mysteel解读：双焦短期仍承压，四季度能否回升取决于供应恢复",
+  "url": "https://news.mysteel.com/a/26101217/794D0E7D87D9D20D.html",
+  "summary": "",
+  "pub_time": "2026-10-12T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "d871fa70cf4b0471ef23902336a934ed",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "Mysteel晚餐：沙钢中天最新调价，焦炭第二轮提降落地",
-  "url": "https://news.mysteel.com/a/26101217/8F102B2F43F51C35.html",
+  "url": "https://news.mysteel.com/a/26101217/62642923294F7D74.html",
   "summary": "",
   "pub_time": "2026-10-12T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -2206,7 +2309,7 @@
  },
  {
   "title": "关键矿产日报：茜坑锂矿安全设施设计过审，国内电解铝库存下降",
-  "url": "https://news.mysteel.com/a/26101217/5B5C4502CEFC7469.html",
+  "url": "https://news.mysteel.com/a/26101217/080E854A1041116D.html",
   "summary": "",
   "pub_time": "2026-10-12T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -2217,25 +2320,6 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel解读：双焦短期仍承压，四季度能否回升取决于供应恢复",
-  "url": "https://news.mysteel.com/a/26101217/794D0E7D87D9D20D.html",
-  "summary": "",
-  "pub_time": "2026-10-12T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "d871fa70cf4b0471ef23902336a934ed",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
