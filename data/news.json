@@ -1,5 +1,32 @@
 [
  {
+  "title": "圭亚那石油出口量将首次突破100万桶/日",
+  "url": "",
+  "summary": "圭亚那是世界上最新的石油出口国之一，预计今年 12 月原油出口量将首次超过每日 100 万桶，这标志着这个南美国家的又一个非凡里程碑。据彭博社报道，12 月份的初步装货时间表包括",
+  "pub_time": "2026-10-13T19:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "20982532c54caaef5a9084b3ae10f693",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "出口"
+  ],
+  "en_title": "Guyana Oil Exports Set to Surpass 1 Million Barrels per Day for First Time"
+ },
+ {
   "title": "摩根大通任命关键矿产主管，推动 1.5 吨推动",
   "url": "",
   "summary": "摩根大通（纽约证券交易所股票代码：JPM）已任命 Andrew Frame 领导其 1.5 万亿美元（2.1 万亿加元）安全与弹性计划 (SRI) 下的关键矿产投资工作，使他成为... 摩根大通任命关键矿产负责人以推动 1.5 吨投资的帖子首先出现在 The 上",
@@ -295,7 +322,7 @@
   "pub_time": "2026-10-13T15:04:30Z",
   "source": "Mining.com",
   "_cat": "基本金属",
-  "dedup_key": "a4d20df58fed1e42c518b637b29d1073",
+  "dedup_key": "49efb7611cb0bfa284d8d84f681d656f",
   "score": 84,
   "priority": "P1",
   "topic": "基本金属",
@@ -311,7 +338,7 @@
   "keywords": [
    "基本金属"
   ],
-  "en_title": "Explosives: The overlooked risk that could halt mines"
+  "en_title": "Explosives: the overlooked risk that could halt mines"
  },
  {
   "title": "Fortuna 在塞内加尔开采高品位黄金，拓展深度",
@@ -783,31 +810,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "国际货币基金组织警告中东战争可能破坏全球经济增长",
-  "url": "",
-  "summary": "国际货币基金组织表示，中东战争引发的能源危机仍然是全球经济的最大风险，但对人工智能的投资提供了乐观的理由，预计明年全球经济增长为3.4%。 “全球经济一直保持弹性",
-  "pub_time": "2026-10-13T08:15:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "ec3bfb295786d1c776d793113a8f0809",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "IMF Warns Middle East War Could Derail Global Economic Growth"
  },
  {
   "title": "Mysteel日报：黑色金属期货震荡分化运行",
