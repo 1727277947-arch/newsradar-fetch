@@ -26,6 +26,63 @@
   "en_title": "Record Tanker Rates Leave Heavy Crude Stranded in the Americas"
  },
  {
+  "title": "Mysteel早读：力拓三季度铁矿石产量公布",
+  "url": "https://news.mysteel.com/a/26101407/202232B0409ACF0E.html",
+  "summary": "",
+  "pub_time": "2026-10-13T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "8dd9f2d99928af44898e3655017ef756",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "沙特阿美总裁：全球原油库存逼近“危险低位”",
+  "url": "https://news.mysteel.com/a/26101407/1FC3CC59C74631B0.html",
+  "summary": "",
+  "pub_time": "2026-10-13T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "db20ea85f1b7f0f89d0dd2c00cd5e534",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel早读：力拓三季度铁矿石产量公布，山西煤矿复产加快",
+  "url": "https://news.mysteel.com/a/26101407/BA53338B4AABC20D.html",
+  "summary": "",
+  "pub_time": "2026-10-13T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "6d2555f85b044e6eaa1053fbfaa122c8",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "中东液化天然气供应搁浅颠覆天然气市场",
   "url": "",
   "summary": "伊朗战争导致霍尔木兹海峡的石油和天然气运输受阻，七个半月后，中东的液化天然气供应尚未以任何有意义的方式恢复。自三月份以来，一些偶尔的液化天然气货物已成功挤过阻塞点，全球五分之一的液化天然气",
@@ -943,25 +1000,6 @@
   "en_title": "Oil Prices Decline Amid Russian Diesel Relief"
  },
  {
-  "title": "Mysteel晚餐：鞍钢本钢凌钢11月调价",
-  "url": "https://news.mysteel.com/a/26101317/9602F7467EC55708.html",
-  "summary": "",
-  "pub_time": "2026-10-13T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "2b82072b2a391bd672c49bcb16a100a8",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "关键矿产日报：10月山西炼焦煤矿山复产加速",
   "url": "https://news.mysteel.com/a/26101317/DB644D3FB7C53A59.html",
   "summary": "",
@@ -1038,13 +1076,13 @@
   "is_elite": false
  },
  {
-  "title": "有色持仓日报：沪铜飘红，金瑞期货增持超1.4千手多单",
-  "url": "https://news.mysteel.com/a/26101315/C315E0714C2BED50.html",
+  "title": "黑色持仓日报：铁矿石跌1.1%，东证期货增持4千手空单",
+  "url": "https://news.mysteel.com/a/26101315/CE8F82D918D8F450.html",
   "summary": "",
   "pub_time": "2026-10-13T07:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "8c4e4e4f211f48c180c66ac631604d32",
+  "dedup_key": "6b7cf2ecd0eb3754289f2685955a0dc8",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1057,13 +1095,13 @@
   "is_elite": false
  },
  {
-  "title": "黑色持仓日报：铁矿石跌1.1%，东证期货增持4千手空单",
-  "url": "https://news.mysteel.com/a/26101315/412408512EAB2E2A.html",
+  "title": "有色持仓日报：沪铜飘红，金瑞期货增持超1.4千手多单",
+  "url": "https://news.mysteel.com/a/26101315/9DCA4669A216566F.html",
   "summary": "",
   "pub_time": "2026-10-13T07:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "6b7cf2ecd0eb3754289f2685955a0dc8",
+  "dedup_key": "8c4e4e4f211f48c180c66ac631604d32",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
