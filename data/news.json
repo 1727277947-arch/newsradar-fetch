@@ -1,5 +1,57 @@
 [
  {
+  "title": "阿美公司新的中国合资炼油厂收到第一批沙特原油货物",
+  "url": "",
+  "summary": "沙特石油巨头沙特石油巨头周三在给彭博社的一份声明中表示，沙特阿美在中国最新的合资炼油厂已收到第一批阿拉伯原油，正在为启动做准备，但没有提供启动商业运营的时间表。沙特阿拉伯及其国有石油公司",
+  "pub_time": "2026-10-14T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "179ec1e4b20eca9b0287d20af1281d2f",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "炼厂"
+  ],
+  "en_title": "Aramco’s New Chinese JV Refinery Gets First Saudi Crude Cargo"
+ },
+ {
+  "title": "聚焦：魁北克探索 — 第 2 部分",
+  "url": "",
+  "summary": "我们的《魁北克聚焦》第二期着眼于 Opus One Gold、Renforth Resources、TomaGold 和 Vior Gold，它们的项目范围从早期勘探目标到具有确定资源的矿床......《聚焦：魁北克勘探 — 第 2 部分》一文首先出现在《北方矿工》上。",
+  "pub_time": "2026-10-14T11:00:33Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "73dd1025f7309bba77374947d15a0811",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Spotlight: Exploration in Quebec — Part 2"
+ },
+ {
   "title": "中国商品期货成交量连续多年居世界前列",
   "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714570.shtml",
   "summary": "中新社大连10月14日电 (记者 杨毅)中国证监会期货监管司副司长王颖14日在辽宁大连举办的第19届国际油脂油料大会上表示，截至今年9月末，中国商品期货全市场有效客户达314.8万户，商品期货成交量已连续多年位居世界前列，市场深度和承载力持续增强",
@@ -540,6 +592,25 @@
   "topic": "国内/贸易外经",
   "tags": [
    "贸易外经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "海关总署：9月中国出口未锻轧铝及铝材65.6万吨",
+  "url": "https://news.mysteel.com/a/26101410/95FCB82B745F3E05.html",
+  "summary": "",
+  "pub_time": "2026-10-14T02:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "fc039a50e25594cc38d1e449f2c0a502",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -1492,33 +1563,6 @@
    "豆粕"
   ],
   "en_title": "K-State Research Examines Soybean Meal Quality and Testing Methods"
- },
- {
-  "title": "阿根廷将马岛石油纠纷诉诸国际法庭",
-  "url": "",
-  "summary": "阿根廷已将福克兰群岛石油争端从威胁转移到法庭，要求国际海事法庭停止开发该群岛第一个商业石油项目“海狮”。政府向国际海洋法法庭申请临时措施",
-  "pub_time": "2026-10-13T17:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "6792503bf6dd1ccdae35f7813de2888c",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "锡"
-  ],
-  "en_title": "Argentina Takes Falklands Oil Fight to International Tribunal"
  },
  {
   "title": "矿石战争：2002-2026 年的互动历史",
