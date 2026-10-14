@@ -1,5 +1,53 @@
 [
  {
+  "title": "美国汽油价格上涨引发新通胀担忧",
+  "url": "",
+  "summary": "预计能源成本的飙升将推动美国整体消费者通胀走高，路透社调查的经济学家认为9月份的数据为每月0.6%。9月份的官方CPI数据将于今天晚些时候公布。上个月美国汽油价格上涨了7.1% ，",
+  "pub_time": "2026-10-14T06:45:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "5a70bb0363a2e841d6ff57d559c66663",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "汽油",
+   "天然气",
+   "燃料",
+   "价"
+  ],
+  "en_title": "Rising Gasoline Prices Fuel Fresh Inflation Fears in the U.S."
+ },
+ {
+  "title": "大商所：加快推进再生钢铁原料、硫磺等新品种研发上市",
+  "url": "https://news.mysteel.com/a/26101414/E7B505BD47A29FCA.html",
+  "summary": "",
+  "pub_time": "2026-10-14T06:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "909b5a67b66db75fdecaf98f1bc20a32",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/金融政策",
+  "tags": [
+   "金融政策",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "伊朗威胁发动更多油轮袭击，油价攀升至 106 美元以上",
   "url": "",
   "summary": "伊朗官员告诉路透社，该国军队计划部署新战术，进一步加强对霍尔木兹海峡油轮的打击，之后原油价格今天早些时候走高。布伦特原油交易价格为每桶 106.37 美元，西德克萨斯中质原油交易价格为每桶 94.7 美元",
@@ -26,6 +74,25 @@
    "走高"
   ],
   "en_title": "Oil Prices Climb Above $106 as Iran Threatens More Tanker Attacks"
+ },
+ {
+  "title": "Mysteel：化工煤价分化运行 尿素企业利润承压",
+  "url": "https://news.mysteel.com/a/26101413/4FAC82115A80D0AF.html",
+  "summary": "",
+  "pub_time": "2026-10-14T05:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "9f6a06404a5a8730cac93dfc5bd67c45",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
  },
  {
   "title": "分析师：美俄柴油协议杯水车薪，难缓解美国高油价",
@@ -104,6 +171,25 @@
   "is_elite": false
  },
  {
+  "title": "Mysteel数据：全球钢材到港量统计（10.6-10.12）",
+  "url": "https://news.mysteel.com/a/26101411/8A0202F420A5E9DA.html",
+  "summary": "",
+  "pub_time": "2026-10-14T03:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "2cde313eb52def4276b849d3a9800765",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "IG-Bullseye 致力于提高新南威尔士州南部种植者的回报",
   "url": "",
   "summary": "InterGrain 推出了 IG-Bullseye，这是一种 APH 小麦品种，适合在新南威尔士州南部早期种植，具有出色的产量潜力和广泛的抗病性。",
@@ -148,25 +234,6 @@
   "is_elite": false
  },
  {
-  "title": "沙特阿美总部遭袭！特朗普指责胡塞武装：中期选举前蓄意推高油价",
-  "url": "https://news.mysteel.com/a/26101410/3B6E069D1586F794.html",
-  "summary": "",
-  "pub_time": "2026-10-14T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "59121e4850e4d8033cea19b89afb4b43",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "海关总署：9月中国出口未锻轧铝及铝材65.6万吨",
   "url": "https://news.mysteel.com/a/26101410/95FCB82B745F3E05.html",
   "summary": "",
@@ -198,6 +265,25 @@
   "topic": "国内/贸易外经",
   "tags": [
    "贸易外经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "沙特阿美总部遭袭！特朗普指责胡塞武装：中期选举前蓄意推高油价",
+  "url": "https://news.mysteel.com/a/26101410/7B2987376E4188D4.html",
+  "summary": "",
+  "pub_time": "2026-10-14T02:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "59121e4850e4d8033cea19b89afb4b43",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -491,25 +577,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "c8d06479a3d4e5a2f7979f03a424b298",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "齐盛期货：焦煤反弹而非反转",
-  "url": "https://news.mysteel.com/a/26101408/649EC9F773516432.html",
-  "summary": "",
-  "pub_time": "2026-10-14T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "5da999348e9d019b349c2e5d52d36f40",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1835,32 +1902,6 @@
   "en_title": "Fortuna logs high-grade gold in Senegal, extends depth"
  },
  {
-  "title": "沙特阿拉伯成为石油市场最大的变数",
-  "url": "",
-  "summary": "胡塞武装的袭击威胁着沙特石油基础设施和海湾航运，布伦特原油价格徘徊在每桶 105 美元附近。特朗普的燃油价格问题正在成为一个政治问题——特朗普政府的俄罗斯柴油协议未能给美国燃油价格带来实质性改变，引发美国燃油价格下跌3-4%",
-  "pub_time": "2026-10-13T15:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "35ed8d9d930648ba592c55de2f4d93a4",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Saudi Arabia Becomes the Oil Market’s Biggest Wild Card"
- },
- {
   "title": "埃尔多拉多的斯科里斯矿赢得欧盟战略地位",
   "url": "",
   "summary": "该铜金矿是选定的 46 个矿山之一，旨在加快审批速度并提供资金，以加强欧盟国内供应链。",
@@ -2173,25 +2214,6 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：18家车企公布9月产销数据，16家销量环比增长",
-  "url": "https://news.mysteel.com/a/26101311/A554D30A342F2E47.html",
-  "summary": "",
-  "pub_time": "2026-10-13T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "9a62f5881cfa5961c2b24901ec940e93",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -3541,70 +3563,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "有色持仓日报：沪铜涨0.93%，中信期货增持1.4千手空单",
-  "url": "https://news.mysteel.com/a/26101215/0EF2FB47AC3D8140.html",
-  "summary": "",
-  "pub_time": "2026-10-12T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "cc49cf059fb1825eba90f4acca3b0f3d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色持仓日报：期螺飘红，东证期货增持2万手多单",
-  "url": "https://news.mysteel.com/a/26101215/843884E5C71182C1.html",
-  "summary": "",
-  "pub_time": "2026-10-12T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "c24e1f0ec72f80f8b138e86048e64ee2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "GIWA论坛深入了解西澳大利亚州的小麦滑梯、油菜籽提升机",
-  "url": "",
-  "summary": "西澳大利亚州是澳大利亚粮食出口的强国，其不断变化的生产组合是上周三在珀斯举行的西澳大利亚州粮食工业协会论坛的主题。",
-  "pub_time": "2026-10-12T06:17:16Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "5f9656045bc84ab95eff0e42d61fd50e",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "小麦",
-   "下滑"
-  ],
-  "en_title": "GIWA forum looks into WA’s wheat slide, canola lift"
  }
 ]
