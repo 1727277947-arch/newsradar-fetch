@@ -1,5 +1,33 @@
 [
  {
+  "title": "美国原油库存大幅下降",
+  "url": "",
+  "summary": "美国石油协会(API)估计，截至10月9日当周，美国原油库存大幅减少1112万桶。此前一周，美国原油库存减少209万桶。不包括SPR的商业原油库存有所下降",
+  "pub_time": "2026-10-14T21:43:47Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "4a9ee381c4e2ad58cb24a1532b3d7cad",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "下跌",
+   "库存"
+  ],
+  "en_title": "US Crude Oil Inventories See Massive Drop Off"
+ },
+ {
   "title": "特朗普宣布 800 亿美元的台湾液化天然气交易",
   "url": "",
   "summary": "唐纳德·特朗普总统宣布与台湾达成一项大规模新能源协议，声称台湾将在未来二十年从阿拉斯加购买价值 700 亿至 800 亿美元的液化天然气，因为亚洲进口商争先恐后地确保供应超越日益危险的地区。",
@@ -666,33 +694,6 @@
   "en_title": "GEAPS Launches Young Professionals Network"
  },
  {
-  "title": "阿美公司新的中国合资炼油厂收到第一批沙特原油货物",
-  "url": "",
-  "summary": "沙特石油巨头沙特石油巨头周三在给彭博社的一份声明中表示，沙特阿美在中国最新的合资炼油厂已收到第一批阿拉伯原油，正在为启动做准备，但没有提供启动商业运营的时间表。沙特阿拉伯及其国有石油公司",
-  "pub_time": "2026-10-14T12:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "179ec1e4b20eca9b0287d20af1281d2f",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "炼厂"
-  ],
-  "en_title": "Aramco’s New Chinese JV Refinery Gets First Saudi Crude Cargo"
- },
- {
   "title": "必和必拓避免对全球最大铜矿进行罢工",
   "url": "",
   "summary": "智利运营部门达成的暂定劳动力协议缓解了当务之急的供应问题，因为全国范围内的采矿中断日益严重。",
@@ -1158,25 +1159,6 @@
   "topic": "国内/贸易外经",
   "tags": [
    "贸易外经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "海关总署：9月中国出口未锻轧铝及铝材65.6万吨",
-  "url": "https://news.mysteel.com/a/26101410/95FCB82B745F3E05.html",
-  "summary": "",
-  "pub_time": "2026-10-14T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "fc039a50e25594cc38d1e449f2c0a502",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -3160,33 +3142,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "BOM 2026 年 10 月 13 日每周降雨量更新 + 展望",
-  "url": "",
-  "summary": "在粮食种植地区经历了连续几天的干旱之后，预计下周收割和夏季作物地区将出现降雨。",
-  "pub_time": "2026-10-12T21:41:13Z",
-  "source": "GrainCentral",
-  "_cat": "基本金属",
-  "dedup_key": "08d3a38282b13c32103a7b21ed4762be",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "下跌",
-   "周",
-   "展望"
-  ],
-  "en_title": "BOM weekly rainfall update 13 October 2026 + outlook"
  }
 ]
