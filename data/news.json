@@ -1,5 +1,58 @@
 [
  {
+  "title": "胡塞武装誓言在沙特阿美总部遭到袭击后发动更多袭击",
+  "url": "",
+  "summary": "也门胡塞武装周三表示，他们将在“未来几天”恢复对沙特机场和石油设施的袭击，此前沙特当局报告称，周二晚上胡塞武装导弹袭击期间，沙特阿美位于达兰的办公大楼发生了有限火灾。胡塞武装声称袭击了沙特阿美石油公司位于D省的设施",
+  "pub_time": "2026-10-14T17:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "118514832bf5b776cfbe55296067f642",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "罢工"
+  ],
+  "en_title": "Houthis Vow More Attacks After Strike on Aramco Headquarters"
+ },
+ {
+  "title": "Sprott：黄金矿商盈利大幅增长，但估值滞后",
+  "url": "",
+  "summary": "斯普罗特资产管理公司表示，黄金生产商并未因利润增加和支出纪律收紧而获得投资者的充分信任。纽约证券交易所 Arca 黄金矿业指数的交易价格为预期的 5.7 倍……黄金矿业公司盈利飙升但估值滞后：Sprott 首次出现在 The Northern 上",
+  "pub_time": "2026-10-14T17:00:18Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "8ab5aa619fe1bdf0118d4220f5ecb647",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "大涨"
+  ],
+  "en_title": "Gold miners’ earnings surge but valuations lag: Sprott"
+ },
+ {
   "title": "南美铜矿繁荣面临的 5 大挑战",
   "url": "",
   "summary": "全球最大铜矿必和必拓 Escondida 的监管人员表示，在政府主导的调解未能达成合同后，他们将于当地时间周三上午 8 点举行罢工。该工会代表了一个矿场的约 1,020 名工人，该矿供应了智利约四分之一的铜，",
@@ -171,33 +224,6 @@
   "source": "Mining.com",
   "_cat": "贵金属",
   "dedup_key": "385d1d647248e9eaff931be22bb0f55e",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "大涨"
-  ],
-  "en_title": "Gold miners’ earnings surge but valuations lag: Sprott"
- },
- {
-  "title": "Sprott：黄金矿商盈利大幅增长，但估值滞后",
-  "url": "",
-  "summary": "斯普罗特资产管理公司表示，黄金生产商并未因利润增加和支出纪律收紧而获得投资者的充分信任。纽约证券交易所 Arca 黄金矿业指数的交易价格为预期的 5.7 倍……黄金矿业公司盈利飙升但估值滞后：Sprott 首次出现在 The Northern 上",
-  "pub_time": "2026-10-14T14:42:18Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "8ab5aa619fe1bdf0118d4220f5ecb647",
   "score": 84,
   "priority": "P1",
   "topic": "贵金属",
@@ -808,34 +834,6 @@
   "is_elite": false
  },
  {
-  "title": "伊朗威胁发动更多油轮袭击，油价攀升至 106 美元以上",
-  "url": "",
-  "summary": "伊朗官员告诉路透社，该国军队计划部署新战术，进一步加强对霍尔木兹海峡油轮的打击，之后原油价格今天早些时候走高。布伦特原油交易价格为每桶 106.37 美元，西德克萨斯中质原油交易价格为每桶 94.7 美元",
-  "pub_time": "2026-10-14T05:31:31Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "13221363614ce9099af58ad652a23832",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "走高"
-  ],
-  "en_title": "Oil Prices Climb Above $106 as Iran Threatens More Tanker Attacks"
- },
- {
   "title": "分析师：美俄柴油协议杯水车薪，难缓解美国高油价",
   "url": "https://news.mysteel.com/a/26101413/8BBB99AD04D720EF.html",
   "summary": "",
@@ -949,6 +947,25 @@
   "topic": "国内/贸易外经",
   "tags": [
    "贸易外经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "海关总署：9月中国出口未锻轧铝及铝材65.6万吨",
+  "url": "https://news.mysteel.com/a/26101410/95FCB82B745F3E05.html",
+  "summary": "",
+  "pub_time": "2026-10-14T02:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "fc039a50e25594cc38d1e449f2c0a502",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -3248,32 +3265,5 @@
    "锡"
   ],
   "en_title": "Farm Safety Report Highlights Ongoing Risk of Devastating Fires"
- },
- {
-  "title": "随着美元、原油上涨，金价下跌",
-  "url": "",
-  "summary": "(RTTNews) - 黄金价格在周一的交易日中开始下行，在前两个交易日走高后回落。",
-  "pub_time": "2026-10-12T17:31:02Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "62805ac6b3d24dc7a6f6c9fe3af10628",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "原油"
-  ],
-  "en_title": "Gold Moving To The Downside As U.S. Dollar, Crude Oil Increase"
  }
 ]
