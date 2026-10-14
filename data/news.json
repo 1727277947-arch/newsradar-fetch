@@ -1,5 +1,56 @@
 [
  {
+  "title": "Nord Stream破坏审判始于针对乌克兰的爆炸性指控",
+  "url": "",
+  "summary": "经过四年的猜测、泄露和匿名消息来源的简报，世界终于要听到在德国法庭上公开宣誓的证据，证明北溪天然气管道是如何被炸毁的--这一案件可能具有政治爆炸性。德国检察官有",
+  "pub_time": "2026-10-14T14:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "3f83238bd43052d4a3b36e816eb78478",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "走强"
+  ],
+  "en_title": "Nord Stream Sabotage Trial Begins With Explosive Allegations Against Ukraine"
+ },
+ {
+  "title": "GEAPS推出青年专业人士网络",
+  "url": "",
+  "summary": "为粮食领域的下一代领导者创建社区",
+  "pub_time": "2026-10-14T13:00:00Z",
+  "source": "Grainnet",
+  "_cat": "基本金属",
+  "dedup_key": "59eb0734087cf9b9c552385d7ca0a827",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "GEAPS Launches Young Professionals Network"
+ },
+ {
   "title": "阿美公司新的中国合资炼油厂收到第一批沙特原油货物",
   "url": "",
   "summary": "沙特石油巨头沙特石油巨头周三在给彭博社的一份声明中表示，沙特阿美在中国最新的合资炼油厂已收到第一批阿拉伯原油，正在为启动做准备，但没有提供启动商业运营的时间表。沙特阿拉伯及其国有石油公司",
@@ -52,23 +103,31 @@
   "en_title": "Spotlight: Exploration in Quebec — Part 2"
  },
  {
-  "title": "中国商品期货成交量连续多年居世界前列",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714570.shtml",
-  "summary": "中新社大连10月14日电 (记者 杨毅)中国证监会期货监管司副司长王颖14日在辽宁大连举办的第19届国际油脂油料大会上表示，截至今年9月末，中国商品期货全市场有效客户达314.8万户，商品期货成交量已连续多年位居世界前列，市场深度和承载力持续增强",
-  "pub_time": "2026-10-14T10:49:18Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "87586ea6917726fd83fd206782ae09f8",
-  "score": 80,
+  "title": "必和必拓避免对全球最大铜矿进行罢工",
+  "url": "",
+  "summary": "智利运营部门达成的暂定劳动力协议缓解了当务之急的供应问题，因为全国范围内的采矿中断日益严重。",
+  "pub_time": "2026-10-14T10:56:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "d9866d6890f54965c16bab503f2fd5fa",
+  "score": 84,
   "priority": "P1",
-  "topic": "国内/大宗商品",
+  "topic": "基本金属",
   "tags": [
+   "基本金属",
    "大宗商品",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
   ],
-  "is_elite": false
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜",
+   "罢工"
+  ],
+  "en_title": "BHP averts strike at world’s biggest copper mine"
  },
  {
   "title": "特朗普宣布“大规模”格陵兰石油勘探计划",
@@ -1404,33 +1463,6 @@
    "黄金"
   ],
   "en_title": "Fortuna logs high-grade gold in Senegal, extends deposit’s depth"
- },
- {
-  "title": "圭亚那石油出口量将首次突破100万桶/日",
-  "url": "",
-  "summary": "圭亚那是世界上最新的石油出口国之一，预计今年 12 月原油出口量将首次超过每日 100 万桶，这标志着这个南美国家的又一个非凡里程碑。据彭博社报道，12 月份的初步装货时间表包括",
-  "pub_time": "2026-10-13T19:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "20982532c54caaef5a9084b3ae10f693",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "出口"
-  ],
-  "en_title": "Guyana Oil Exports Set to Surpass 1 Million Barrels per Day for First Time"
  },
  {
   "title": "摩根大通任命关键矿产主管，推动 1.5 吨推动",
@@ -3882,31 +3914,5 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "Falco 争取环境许可",
-  "url": "",
-  "summary": "经过八年的环境审查，Falco Resources (TSXV: FPC) 预计魁北克将在年底前批准 Horne 5，这一决定将释放黄金和关键...... Falco 争夺环境许可的帖子首先出现在《北方矿工》上。",
-  "pub_time": "2026-10-12T13:00:02Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "e4f2d3e4f8f7aeed8847d8ae48e4e892",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "生铁"
-  ],
-  "en_title": "Falco vies for environmental OK"
  }
 ]
