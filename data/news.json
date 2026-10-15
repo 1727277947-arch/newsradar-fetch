@@ -1,5 +1,30 @@
 [
  {
+  "title": "6个国家承诺加快欧亚大陆桥货运",
+  "url": "",
+  "summary": "六个参与改善欧亚-欧洲贸易走廊倡议的国家已就减少沿线多式联运节点过境时间的措施达成一致。10月11日，来自阿塞拜疆、格鲁吉亚、吉尔吉斯斯坦、土耳其、土库曼斯坦和乌兹别克斯坦的铁路官员在塔什干举行会议",
+  "pub_time": "2026-10-15T20:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "80aef1585d23521620ae39a9de8b9ca1",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "6 Countries Pledge Faster Cargo Transfers on Eurasia-Europe Land Bridge"
+ },
+ {
   "title": "生物燃料政策不确定性导致大豆油期货下跌",
   "url": "",
   "summary": "",
@@ -783,32 +808,6 @@
    "基本金属"
   ],
   "en_title": "Richemont, Signet weigh joining De Beers consortium bid"
- },
- {
-  "title": "TotalEnergies关注巨额利润意外收获，炼油利润率飙升",
-  "url": "",
-  "summary": "这家法国石油和天然气巨头周四表示，由于中东冲突推高了牛市的炼油利润率和液化天然气价格，道达尔能源预计将在本月晚些时候公布强劲的第三季度业绩。道达尔能源在一份交易更新中表示，其欧洲炼油利润率飙升至",
-  "pub_time": "2026-10-15T10:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "44589658c848795462ed1a55c17d7514",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "下跌"
-  ],
-  "en_title": "TotalEnergies Eyes Massive Profit Windfall as Refining Margins Soar"
  },
  {
   "title": "每日钢市：期螺飘绿，焦炭存提降预期，钢价或偏弱运行",
@@ -2850,32 +2849,6 @@
   "en_title": "GEAPS Launches Young Professionals Network"
  },
  {
-  "title": "美国通胀数据公布前黄金扩大跌幅",
-  "url": "",
-  "summary": "(RTTNews) - 周三金价走低，连续第三个交易日扩大跌幅，因投资者评估美联储年底前再次加息的前景。",
-  "pub_time": "2026-10-14T09:59:13Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "d46d002252a730fa1256b864cc7806ad",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Gold Extends Losses Ahead Of US Inflation Data"
- },
- {
   "title": "Mysteel解读：AI算力金属的需求前置与供给瓶颈",
   "url": "https://news.mysteel.com/a/26101417/733014356B1C0BFC.html",
   "summary": "",
@@ -3203,31 +3176,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "USGBC 举办国际粮食采购课程和出口设施参观",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-10-13T20:25:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "4a69e5aa0c5d11e865cd192bb29cc350",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "谷物"
-  ],
-  "en_title": "USGBC Hosts International Grain Procurement Course and Export Facility Tours"
  }
 ]
