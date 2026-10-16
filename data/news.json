@@ -1,5 +1,57 @@
 [
  {
+  "title": "渣打银行：特朗普的俄罗斯柴油不会增加新的供应",
+  "url": "",
+  "summary": "在周四的交易会上，油价好坏参半，美国放松对俄罗斯原油限制的前景有助于缓解国际基准，而对中东船只的袭击则提供了支持。12月交割的布伦特原油下跌0.2% ，交易价为每桶106 $",
+  "pub_time": "2026-10-16T00:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "f689a355619188c0f96f3b05eadd1375",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "供应"
+  ],
+  "en_title": "Standard Chartered: Trump's Russian Diesel Won't Add New Supply"
+ },
+ {
+  "title": "Minnova地图$ 5300万重新启动马尼托巴金矿",
+  "url": "",
+  "summary": "该站点以前称为Puffy Lake ，从1987年到1989年运营。",
+  "pub_time": "2026-10-15T23:24:00Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "81c68a12795c32bfec1a5f8cf2386123",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Minnova maps $53M restart for Manitoba gold mine"
+ },
+ {
   "title": "柴油紧缩将持续到2027年",
   "url": "",
   "summary": "最近从霍尔木兹海峡流出的原油上涨并没有解决世界上最紧迫的燃料问题-柴油紧缩和创纪录的柴油价格开始为更广泛的经济提供资金。虽然中东原油流量接近战前水平，但全球柴油供应量要低得多。",
@@ -23,6 +75,44 @@
    "能源"
   ],
   "en_title": "The Diesel Crunch Will Persist Well into 2027"
+ },
+ {
+  "title": "Mysteel早读：五大钢材品种供降需增",
+  "url": "https://news.mysteel.com/a/26101607/4172FF13453507B4.html",
+  "summary": "",
+  "pub_time": "2026-10-15T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "ad5773c04f69721ce6f5b9f4349c7fe3",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel早读：五大钢材品种供降需增，美以就打击伊朗预案进行磋商",
+  "url": "https://news.mysteel.com/a/26101607/B2D82A71BF083B01.html",
+  "summary": "",
+  "pub_time": "2026-10-15T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "3efb634e2d5a3e998d2a3d2332bf5d90",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
  },
  {
   "title": "埃克森美孚的石油繁荣可能使圭亚那的天然气留在国内",
@@ -701,33 +791,6 @@
   "is_elite": false
  },
  {
-  "title": "随着油轮运输放缓，伊朗船只袭击威胁到中东石油出口",
-  "url": "",
-  "summary": "伊朗无人机对商船的袭击激增，似乎正在拖累通过霍尔木兹海峡的中东能源出口，本月迄今已报告了24起袭击事件。周三上午的最新报告显示，两艘阿联酋集装箱船在",
-  "pub_time": "2026-10-15T14:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "3a8d4882a0cefc08329f1d5e1655f7ff",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "出口"
-  ],
-  "en_title": "Iranian Ship Attacks Threaten Middle East Oil Exports as Tanker Traffic Slows"
- },
- {
   "title": "安托法加斯塔股价下跌， 2027年铜前景持平",
   "url": "",
   "summary": "智利矿业公司的产量预测低于预期，燃料成本上升，引发了对收益和扩张计划的担忧。",
@@ -855,25 +918,6 @@
   "en_title": "Oil Prices Fall As US Weighs Relief For Sanctioned Shadow Fleet Vessels"
  },
  {
-  "title": "Mysteel晚餐：钢材总库存下降",
-  "url": "https://news.mysteel.com/a/26101517/11790C63234387F5.html",
-  "summary": "",
-  "pub_time": "2026-10-15T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "082095dd49df4a6a35b6e65010e271e2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel晚餐：钢材总库存下降，炼焦煤矿山产量增加",
   "url": "https://news.mysteel.com/a/26101517/8BA18F9B603271D1.html",
   "summary": "",
@@ -894,7 +938,7 @@
  },
  {
   "title": "关键矿产日报：国内铜矿加工费TC/RC下跌，电解铝库存下降",
-  "url": "https://news.mysteel.com/a/26101517/170E04EE3C535E39.html",
+  "url": "https://news.mysteel.com/a/26101517/B63ECF753DDDF2C9.html",
   "summary": "",
   "pub_time": "2026-10-15T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1007,13 +1051,13 @@
   "is_elite": false
  },
  {
-  "title": "黑色持仓日报：焦煤跌3.19%，国泰君安减持超3千手空单",
-  "url": "https://news.mysteel.com/a/26101515/081B56CB9C85786E.html",
+  "title": "国家发改委：2026年10月15日国内成品油价格不作调整",
+  "url": "https://news.mysteel.com/a/26101515/D3865C405C236A68.html",
   "summary": "",
   "pub_time": "2026-10-15T07:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "11ca745d420a1d72fe69737f26b3cbfc",
+  "dedup_key": "8c35696b548804d6aeae1038b5ba80e8",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -1026,13 +1070,13 @@
   "is_elite": false
  },
  {
-  "title": "国家发改委：2026年10月15日国内成品油价格不作调整",
-  "url": "https://news.mysteel.com/a/26101515/D3865C405C236A68.html",
+  "title": "黑色持仓日报：焦煤跌3.19%，国泰君安减持超3千手空单",
+  "url": "https://news.mysteel.com/a/26101515/5FD24D31A6499573.html",
   "summary": "",
   "pub_time": "2026-10-15T07:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "8c35696b548804d6aeae1038b5ba80e8",
+  "dedup_key": "11ca745d420a1d72fe69737f26b3cbfc",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -2770,32 +2814,6 @@
   "en_title": "Gold miners’ earnings surge but valuations lag: Sprott"
  },
  {
-  "title": "ICSG：到 2027 年，全球铜过剩将增加两倍以上",
-  "url": "",
-  "summary": "随着新冶炼产能的投产，精炼金属产量明年将反弹，超过消费增长。",
-  "pub_time": "2026-10-14T14:26:34Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "204cfc06cb9328fdf122fd097586fa82",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "Global copper surplus to more than triple by 2027: ICSG"
- },
- {
   "title": "GEAPS推出青年专业人士网络",
   "url": "",
   "summary": "为粮食领域的下一代领导者创建社区",
@@ -3043,101 +3061,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "ab77985f59dbfecfa7f978c84cb41d98",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "正式定档！2027“我的钢铁”年会焕新启航，12月无锡见",
-  "url": "https://news.mysteel.com/a/26101408/7820ECE89E295258.html",
-  "summary": "",
-  "pub_time": "2026-10-14T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "c8d06479a3d4e5a2f7979f03a424b298",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "通胀担忧打压贵金属，纽约金价微跌银价跌近2%",
-  "url": "https://news.mysteel.com/a/26101408/66B2E59F18BB9FC9.html",
-  "summary": "",
-  "pub_time": "2026-10-14T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "89d48dab295f08edcf37dfdc414007bf",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "南非统计局：八月份黄金产量同比下降5.7%",
-  "url": "https://news.mysteel.com/a/26101408/DBB18429D1859966.html",
-  "summary": "",
-  "pub_time": "2026-10-14T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "38ccf0a66c61dc1b99928528f4568ee8",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "中信证券：金价底部或抬升，黄金板块有望先行",
-  "url": "https://news.mysteel.com/a/26101408/C3F3E76C10476D84.html",
-  "summary": "",
-  "pub_time": "2026-10-14T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "1629a9d70204cb06c686871207bbe92a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黄金何时触底反弹？美银：关注三大信号 Q4均价料在4000美元",
-  "url": "https://news.mysteel.com/a/26101408/741A085472B43AF4.html",
-  "summary": "",
-  "pub_time": "2026-10-14T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "7d0f8cc5e146d5ffe117dc4735fb31dc",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
