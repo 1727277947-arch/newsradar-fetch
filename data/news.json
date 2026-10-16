@@ -1257,6 +1257,44 @@
   "is_elite": false
  },
  {
+  "title": "10月16日进口大豆到国内港口CF及升贴水报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/16/5312363932.shtml",
+  "summary": "",
+  "pub_time": "2026-10-15T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "d7246bf6c5affeb32dfad9a9c7c169d2",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "10月16日进口大豆港口分销价持平",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/16/5050412231.shtml",
+  "summary": "",
+  "pub_time": "2026-10-15T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "1694384d75fc203e9fcae9ea9f056dda",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年10月16日大连大豆期货收盘低开收涨",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/16/0527548030.shtml",
   "summary": "",
@@ -1352,21 +1390,21 @@
   "is_elite": false
  },
  {
-  "title": "CBOT大豆跌至七周低点，因收获快速推进，压榨低于预期",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/16/0639242190.shtml",
+  "title": "10月16日进口油菜籽到国内港口CF报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/16/5626544430.shtml",
   "summary": "",
   "pub_time": "2026-10-15T16:00:00Z",
-  "source": "粮油大豆",
+  "source": "粮油菜籽",
   "_cn": true,
-  "dedup_key": "f7362c5783290b9efe1455e4a3b68774",
+  "dedup_key": "93e9da4cf50d8f9d1eebce39ed1feba1",
   "score": 80,
   "priority": "P1",
-  "topic": "国内/大宗商品",
+  "topic": "国内/贸易外经",
   "tags": [
-   "大宗商品",
+   "贸易外经",
    "中文",
    "国内",
-   "粮油大豆"
+   "粮油菜籽"
   ],
   "is_elite": false
  },
@@ -1402,6 +1440,82 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT大豆跌至七周低点，因收获快速推进，压榨低于预期",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/16/0639242190.shtml",
+  "summary": "",
+  "pub_time": "2026-10-15T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "8adcb401ee14d767a3fd0e0b3949fd67",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "10月16日进口阿根廷豆油及加拿大菜籽油CF报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/16/5542403504.shtml",
+  "summary": "",
+  "pub_time": "2026-10-15T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "31632688ce3bd37175daaa3c3a88c9fc",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "10月16日24度棕榈油国内各港口交货价格上涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/16/5426996297.shtml",
+  "summary": "",
+  "pub_time": "2026-10-15T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "ff0321abc2feedec66948d2047fe1931",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "10月16日进口豆油港口交货价格持平",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/16/5350493547.shtml",
+  "summary": "",
+  "pub_time": "2026-10-15T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "89817f7c8d717084058c13676de295d1",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
    "中文",
    "国内",
    "粮油首页"
@@ -1611,25 +1725,6 @@
   "topic": "国内/贸易外经",
   "tags": [
    "贸易外经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "CBOT豆油互有涨跌，基准期约收高0.1%",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/16/0807590075.shtml",
-  "summary": "",
-  "pub_time": "2026-10-15T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "fffef95269dde548476a924026332323",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
    "中文",
    "国内",
    "粮油首页"
@@ -1896,6 +1991,25 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT豆油互有涨跌，基准期约收高0.1%",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/16/0807590075.shtml",
+  "summary": "",
+  "pub_time": "2026-10-15T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "fffef95269dde548476a924026332323",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
    "中文",
    "国内",
    "粮油首页"
@@ -2919,25 +3033,6 @@
   "is_elite": false
  },
  {
-  "title": "美国大豆价格下跌，因收获快速推进",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/15/2441425087.shtml",
-  "summary": "",
-  "pub_time": "2026-10-14T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "25c5f19f2d6d450d4f0f55e1209a4ae3",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "10月15日24度棕榈油国内各港口交货价格上涨",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/15/5445801599.shtml",
   "summary": "",
@@ -2957,25 +3052,6 @@
   "is_elite": false
  },
  {
-  "title": "10月15日进口阿根廷豆油及加拿大菜籽油CF报价",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/15/3325522077.shtml",
-  "summary": "",
-  "pub_time": "2026-10-14T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "450a381b371b57907223ab34f1114696",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "10月15日马来西亚棕榈油10月船期FOB报价",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/15/3250570313.shtml",
   "summary": "",
@@ -2988,25 +3064,6 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月15日大连棕榈油期货低开收跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/15/0515974179.shtml",
-  "summary": "",
-  "pub_time": "2026-10-14T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "2e384daa3c32d5807360a314a19d6e22",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "粮油首页"
@@ -3242,25 +3299,6 @@
   "is_elite": false
  },
  {
-  "title": "10月15日进口豆油港口交货价格下跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/15/3205227983.shtml",
-  "summary": "",
-  "pub_time": "2026-10-14T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "c8bb3e1ec94571c953859bf7369230c4",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "美国冬小麦收涨，因黑海局势担忧，冬小麦播种进度落后",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/15/2659653161.shtml",
   "summary": "",
@@ -3394,6 +3432,25 @@
   "is_elite": false
  },
  {
+  "title": "2026年10月15日大连棕榈油期货低开收跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/15/0515974179.shtml",
+  "summary": "",
+  "pub_time": "2026-10-14T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "2e384daa3c32d5807360a314a19d6e22",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年10月15日大连豆油期货低开收跌",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/15/0454972138.shtml",
   "summary": "",
@@ -3401,6 +3458,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "964908e6049c570bc654620f12f0188d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "美国大豆价格下跌，因收获快速推进",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/15/2441425087.shtml",
+  "summary": "",
+  "pub_time": "2026-10-14T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "25c5f19f2d6d450d4f0f55e1209a4ae3",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
