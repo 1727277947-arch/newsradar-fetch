@@ -1,17 +1,17 @@
 [
  {
-  "title": "（乡村行·看振兴）“中国苹果梨之乡”吉林龙井：甜梨产业结出亿元硕果",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716144.shtml",
-  "summary": "题：“中国苹果梨之乡”吉林龙井：甜梨产业结出亿元硕果",
-  "pub_time": "2026-10-17T04:46:44Z",
+  "title": "欧洲采购商争当代理：要务实面对中国新能源汽车领跑",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716270.shtml",
+  "summary": "中新社广州10月17日电 (记者 程景伟)“我们现在要做的是与中国企业加强合作，赶在别人面前成为代理商，把中国新能源汽车卖回欧洲。”在正举行的第140届广交会新能源汽车及智慧出行展区，来自西班牙的采购商卡尔扎达·阿莫罗图·马丁(Calzada Amorrortu Martin)接受中新社记者采访时如是说",
+  "pub_time": "2026-10-17T08:58:32Z",
   "source": "中国新闻网-财经",
   "_cn": true,
-  "dedup_key": "3803a671623c4b6962cc23d27ef58335",
+  "dedup_key": "44bad99b3b9f8ee3a4b70487002d6b29",
   "score": 80,
   "priority": "P1",
-  "topic": "国内/财经",
+  "topic": "国内/大宗商品",
   "tags": [
-   "财经",
+   "大宗商品",
    "中文",
    "国内",
    "中国新闻网-财经"
@@ -3158,107 +3158,5 @@
    "基本金属"
   ],
   "en_title": "Richemont, Signet weigh joining De Beers consortium bid"
- },
- {
-  "title": "每日钢市：期螺飘绿，焦炭存提降预期，钢价或偏弱运行",
-  "url": "https://news.mysteel.com/a/26101518/67ED56DABBAC1224.html",
-  "summary": "",
-  "pub_time": "2026-10-15T10:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "1bf29fa67a1df292d97fe62eee3d62a1",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "随着鸽派美联储言论的收益率下降，黄金反弹",
-  "url": "",
-  "summary": "（ RTTNews ） -金价在上一交易日触及一周低点后，周四反弹。",
-  "pub_time": "2026-10-15T09:56:29Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "9bc08ebc3b2eac2b5349981b6afbee97",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Gold Rebounds As Yields Dip On Dovish Fed Comments"
- },
- {
-  "title": "中金黄金：预计前三季度净利同比增长50%-58%",
-  "url": "https://news.mysteel.com/a/26101517/EC4542216E7D1BEF.html",
-  "summary": "",
-  "pub_time": "2026-10-15T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "97ab8a9c7e4302aa15cfbbd9911908f1",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "关键矿产日报：国内铜矿加工费TC/RC下跌，电解铝库存下降",
-  "url": "https://news.mysteel.com/a/26101517/925468599632D41A.html",
-  "summary": "",
-  "pub_time": "2026-10-15T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "c33dd52b3b823f690eb021d419555679",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel日报：黑色金属期货价格震荡下跌运行",
-  "url": "https://news.mysteel.com/a/26101517/CB569E9F2EE7AC2E.html",
-  "summary": "",
-  "pub_time": "2026-10-15T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "31f834ba0a5f271cd4cbd0126e13ded0",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  }
 ]
