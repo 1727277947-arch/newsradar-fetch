@@ -1,5 +1,30 @@
 [
  {
+  "title": "尽管发生霍尔木兹危机，中东化学品仍保持成本优势",
+  "url": "",
+  "summary": "尽管经历了伊朗战争和霍尔木兹危机，中东的低成本化学品生产仍将保持相对于其他地区的长期优势。由于波斯湾工业基础目前的限制，聚合物采购的近期变化正在发生，这使美国受益。",
+  "pub_time": "2026-10-17T21:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "e8ed98e12370c7bb6ad217bf1e46c4c8",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Middle East Chemicals Keep Their Cost Edge Despite Hormuz Crisis"
+ },
+ {
   "title": "德克萨斯州研究人员称二叠纪废水可以冷却人工智能数据中心",
   "url": "",
   "summary": "人工智能的繁荣给世界水资源和能源带来了危险的压力。随着超大规模企业以极快的速度建设资源匮乏的数据中心，对这些有限资源的需求预测猛增的速度超出了政策制定者的跟上速度。但一项新研究",
@@ -1125,31 +1150,6 @@
   "en_title": "Ukraine Defies Trump With Renewed Attacks on Russian Oil Infrastructure"
  },
  {
-  "title": "伊朗战争将推动中石油贸易利润创纪录30亿美元",
-  "url": "",
-  "summary": "由于中东危机推高了原油价格并扰乱了全球燃料市场和贸易流，中国国有巨头中石油的贸易部门今年将获得创纪录的超过30亿美元（200亿元人民币）的贸易利润。中石油国际（PCI），该公司的交易工具",
-  "pub_time": "2026-10-16T13:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "0be9014a6e113778f228702fe13df381",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Iran War Set To Push PetroChina’s Trading Profit to Record $3 Billion"
- },
- {
   "title": "随着精炼产量反弹，铜过剩将扩大",
   "url": "",
   "summary": "尽管电气化、人工智能和数据中心、国际铜业的需求，但随着产量增长超过消费，明年全球精炼铜过剩预计将增加两倍以上...随着精炼产量的反弹，后铜过剩将扩大",
@@ -1962,111 +1962,5 @@
    "黄金"
   ],
   "en_title": "Royal Gold Highlights Record Results, Debt Paydown and Growth After Major Deals"
- },
- {
-  "title": "Erdene EYES 2031启动$ 687M蒙古MOLY项目",
-  "url": "",
-  "summary": "总裁兼首席执行官Erdene Resource Development (TSX: ERD; US-OTC: ERDCF)可能在五年内按照加快的时间表将其在蒙古的6.87亿美元（ 9.76亿加元）的Zuun Mod钼铜项目投入生产...... Erdene EYES 2031后将启动6.87亿美元的蒙古钼项目",
-  "pub_time": "2026-10-15T21:10:41Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "c4d2c466cd3256624281e9b3cd5a563d",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Erdene eyes 2031 start for $687M Mongolia moly project"
- },
- {
-  "title": "Bonterra将Barry黄金项目价值提升至6.65亿美元（ $ ）",
-  "url": "",
-  "summary": "一项新的研究将Bonterra Resources （ TSXV ： BTR ； US-OTC ： BONXF ）过去在魁北克生产的Barry金矿的价值提高了近14倍，并且更高... Bonterra将Barry黄金项目的价值提升至6.65亿美元最初出现在The Northern Miner上。",
-  "pub_time": "2026-10-15T21:05:30Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "33fbfdc0ab6b2b53eec660e0e1862a7e",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Bonterra lifts Barry gold project value to $665M"
- },
- {
-  "title": "安托法加斯塔下滑，铜前景令人失望",
-  "url": "",
-  "summary": "安托法加斯塔（ Antofagasta ，伦敦证券交易所代码： ANTO ）股价周四下跌逾6% ，此前这家智利铜矿商最初的2027年产量展望低于分析师预期，且柴油价格上涨……安托法加斯塔的股价下跌，原因是《北方矿工》（ The Northern Miner ）首次出现铜矿前景令人失望的情况。",
-  "pub_time": "2026-10-15T20:55:00Z",
-  "source": "NorthernMiner",
-  "_cat": "能源",
-  "dedup_key": "85074c032fdd2c3dfe120b58605fff9c",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气",
-   "铜",
-   "下滑",
-   "展望"
-  ],
-  "en_title": "Antofagasta slides as copper outlook disappoints"
- },
- {
-  "title": "构造钻探指向Flat项目的“大型黄金系统”",
-  "url": "",
-  "summary": "在阿拉斯加西南部的Tectonic Metals ’(TSXV: TECT; US-OTC: TETOF)平坦项目已经确定了Alpha Bowl和Adit主要目标地表附近的重大高品位金矿化，这表明......后构造钻探指向平坦项目Appea的“大规模金矿系统”",
-  "pub_time": "2026-10-15T20:50:27Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "a9b039f4db670becc6d904ec38a8bcef",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Tectonic drilling points to ‘large-scale gold system’ at Flat project"
  }
 ]
