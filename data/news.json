@@ -2334,25 +2334,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年10月16日大连玉米期货收盘高开收平",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/16/0335725356.shtml",
-  "summary": "",
-  "pub_time": "2026-10-15T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "bec6c32e4343fa5ddb5fe6d27a124e6b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
   "title": "10月16日进口大豆到国内港口CF及升贴水报价",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/16/5312363932.shtml",
   "summary": "",
@@ -2821,6 +2802,25 @@
   "topic": "国内/贸易外经",
   "tags": [
    "贸易外经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年10月16日大连玉米期货收盘高开收平",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/16/0335725356.shtml",
+  "summary": "",
+  "pub_time": "2026-10-15T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "9d84eda302a25ac57878ac61fc3bddf5",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "粮油首页"
