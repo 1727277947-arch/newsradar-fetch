@@ -1,5 +1,24 @@
 [
  {
+  "title": "Mysteel：七日洞见——黑色金属市场一周热点回顾（10.12-10.16）",
+  "url": "https://news.mysteel.com/a/26101711/212C690A5CF91914.html",
+  "summary": "",
+  "pub_time": "2026-10-17T03:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "f4d562a80e96449d72f395d0de9ec501",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "格陵兰岛将禁止海底采矿",
   "url": "",
   "summary": "这一消息发布前一天，美国总统唐纳德·特朗普宣布将在丹麦北极岛屿开始“大规模石油、天然气和矿产勘探”。",
@@ -446,6 +465,25 @@
    "价"
   ],
   "en_title": "Oil Prices Are Stuck at $105 as Geopolitical Risks Mount"
+ },
+ {
+  "title": "【独家】新季稻谷上市提速，稻强米弱格局难改",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/17/3809760862.shtml",
+  "summary": "",
+  "pub_time": "2026-10-16T16:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "fffb32672aec7245947415741f25bdbb",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/金融政策",
+  "tags": [
+   "金融政策",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
  },
  {
   "title": "2026年10月17日天津豆粕价格行情",
@@ -1207,7 +1245,7 @@
  },
  {
   "title": "钢材下游周报：9月房企、汽车销售环比回升",
-  "url": "https://news.mysteel.com/a/26101617/858FEC98268FDA32.html",
+  "url": "https://news.mysteel.com/a/26101617/A5FA7E49EB10DEC7.html",
   "summary": "",
   "pub_time": "2026-10-16T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1237,6 +1275,25 @@
   "topic": "国内/产业经济",
   "tags": [
    "产业经济",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "钢市大家谈：焦炭提降难度较大，钢价或将窄幅震荡",
+  "url": "https://news.mysteel.com/a/26101617/2DABC00E97AC83FA.html",
+  "summary": "",
+  "pub_time": "2026-10-16T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "752fc585972a4bf6a75f78f5df5decf9",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -1819,25 +1876,6 @@
    "黄金"
   ],
   "en_title": "Minnova maps $53M restart for Manitoba gold mine"
- },
- {
-  "title": "Mysteel早读：五大钢材品种供降需增，美以就打击伊朗预案进行磋商",
-  "url": "https://news.mysteel.com/a/26101607/5D7BC78DCD490DEE.html",
-  "summary": "",
-  "pub_time": "2026-10-15T23:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "3efb634e2d5a3e998d2a3d2332bf5d90",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  },
  {
   "title": "Royal Gold 凸显创纪录的业绩、债务偿还和重大交易后的增长",
@@ -3287,30 +3325,5 @@
    "走软"
   ],
   "en_title": "Feedgrain Focus: North firms, south eases as harvest ramps up"
- },
- {
-  "title": "GRDC 竭尽全力通过磷化氢变革来支持行业",
-  "url": "",
-  "summary": "GRDC 正在投资 470 万美元用于一项协调计划，以帮助澳大利亚种植者和粮食供应链为即将到来的磷化氢监管变化做好准备。",
-  "pub_time": "2026-10-15T03:51:06Z",
-  "source": "GrainCentral",
-  "_cat": "基本金属",
-  "dedup_key": "3555ddd72256c965a98b355d0bbeda34",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "GRDC stumps up to support industry through phosphine changes"
  }
 ]
