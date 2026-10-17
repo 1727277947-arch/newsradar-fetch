@@ -1,5 +1,33 @@
 [
  {
+  "title": "2027 年战争导致供应紧张，油价居高不下",
+  "url": "",
+  "summary": "在美国和以色列与伊朗战争的前三个月左右，石油市场的主导情绪是冲突随时都会结束。六月的短暂停火强化了这种乐观情绪，因此花了一段时间才面对事实：战争现在不会结束。可能是傍晚",
+  "pub_time": "2026-10-17T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "70e241871d9ad083c98a40db26fb855b",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "供应"
+  ],
+  "en_title": "Oil Prices Stay High as War Keeps Supply Tight Into 2027"
+ },
+ {
   "title": "尽管发生霍尔木兹危机，中东化学品仍保持成本优势",
   "url": "",
   "summary": "尽管经历了伊朗战争和霍尔木兹危机，中东的低成本化学品生产仍将保持相对于其他地区的长期优势。由于波斯湾工业基础目前的限制，聚合物采购的近期变化正在发生，这使美国受益。",
@@ -100,6 +128,25 @@
    "能源"
   ],
   "en_title": "Bolivia’s Energy Crisis Deepens as Natural Gas Reserves Run Dry"
+ },
+ {
+  "title": "Mysteel宏观周报：国常会部署深化“人工智能+”行动，山西加快煤矿复产保供",
+  "url": "https://news.mysteel.com/a/26101722/B7EA85EBFBD1BD6B.html",
+  "summary": "",
+  "pub_time": "2026-10-17T14:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "f7c8a99b62ab7f1e11e2a11c21425133",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
  },
  {
   "title": "从原料输出到加工增值 海南自贸港政策赋能屯昌橡胶产业升级",
@@ -1124,32 +1171,6 @@
   "en_title": "Global Gas Crunch Makes Europe’s Remaining Coal Plants Profitable"
  },
  {
-  "title": "乌克兰再次攻击俄罗斯石油基础设施，反抗特朗普",
-  "url": "",
-  "summary": "俄罗斯官员称，乌克兰军队袭击了俄罗斯梁赞地区的一家炼油厂。几小时前，乌克兰总统泽连斯基表示，乌克兰将恢复对俄罗斯能源设施的袭击，并对美国卫星情报受到“危险”干扰表示愤怒。德",
-  "pub_time": "2026-10-16T14:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "40f94b81bcc509af7017b47945ae652c",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Ukraine Defies Trump With Renewed Attacks on Russian Oil Infrastructure"
- },
- {
   "title": "随着精炼产量反弹，铜过剩将扩大",
   "url": "",
   "summary": "尽管电气化、人工智能和数据中心、国际铜业的需求，但随着产量增长超过消费，明年全球精炼铜过剩预计将增加两倍以上...随着精炼产量的反弹，后铜过剩将扩大",
@@ -1285,25 +1306,6 @@
   "en_title": "Oil Set For Weekly Gain With Focus On Mideast Supply Risks"
  },
  {
-  "title": "Mysteel晚餐：钢厂盈利率8.23%",
-  "url": "https://news.mysteel.com/a/26101617/058AFD677FEC8D90.html",
-  "summary": "",
-  "pub_time": "2026-10-16T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "3fbb25ae685d6bc794c8363ca2ad3456",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "钢材下游周报：9月房企、汽车销售环比回升",
   "url": "https://news.mysteel.com/a/26101617/858FEC98268FDA32.html",
   "summary": "",
@@ -1311,25 +1313,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "ce5e91b8c2e27cce378e4ae676dc37fa",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/产业经济",
-  "tags": [
-   "产业经济",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "钢材下游周报：9月房企、汽车销售环比回升，同比均降",
-  "url": "https://news.mysteel.com/a/26101617/83B7AA8D89EA7D51.html",
-  "summary": "",
-  "pub_time": "2026-10-16T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "c1a4c5d6bfdf55d3e7488214080ff3e0",
   "score": 80,
   "priority": "P1",
   "topic": "国内/产业经济",
@@ -1354,6 +1337,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "钢材下游周报：9月房企、汽车销售环比回升，同比均降",
+  "url": "https://news.mysteel.com/a/26101617/EDF7616DA354FDBE.html",
+  "summary": "",
+  "pub_time": "2026-10-16T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "c1a4c5d6bfdf55d3e7488214080ff3e0",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/产业经济",
+  "tags": [
+   "产业经济",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -1584,7 +1586,7 @@
  },
  {
   "title": "Mysteel午报：钢价局部上涨，黑色期货涨跌互现",
-  "url": "https://news.mysteel.com/a/26101611/956BF373F56F5365.html",
+  "url": "https://news.mysteel.com/a/26101611/40234F0B7830CEE1.html",
   "summary": "",
   "pub_time": "2026-10-16T03:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1910,31 +1912,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "Minnova地图$ 5300万重新启动马尼托巴金矿",
-  "url": "",
-  "summary": "该站点以前称为Puffy Lake ，从1987年到1989年运营。",
-  "pub_time": "2026-10-15T23:24:00Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "81c68a12795c32bfec1a5f8cf2386123",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Minnova maps $53M restart for Manitoba gold mine"
  }
 ]
