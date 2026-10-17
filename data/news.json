@@ -156,6 +156,34 @@
   "en_title": "Summit video: Vizsla puts Palmer copper project first in Alaska growth plan"
  },
  {
+  "title": "本周加拿大前 5 名矿业股：Lithium Africa 上涨超过 50%",
+  "url": "",
+  "summary": "欢迎收看投资新闻网每周对 TSX、TSXV 和 CSE 表现最佳的加拿大矿业股的关注，首先是影响资源行业的加拿大新闻综述。周五（10 月 16 日），Cabin Radio 报道称，西北地区正在推动 60 北部地区的上涨",
+  "pub_time": "2026-10-16T21:00:00Z",
+  "source": "Nasdaq商品",
+  "_cat": "基本金属",
+  "dedup_key": "44c53af1236ca92a5fb266d7c6be69cb",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "上涨",
+   "库存",
+   "周"
+  ],
+  "en_title": "Top 5 Canadian Mining Stocks This Week: Lithium Africa Rises Over 50 Percent on Assay Results"
+ },
+ {
   "title": "PZG 穿越关键技术指标",
   "url": "",
   "summary": "在周五的交易中，Paramount Gold Nevada Corp（股票代码：PZG）的股票进入超卖区域，易手低至每股 1.04 美元。我们使用相对强弱指数（RSI）来定义超卖区域，这是一种用于衡量超卖趋势的技术分析指标。",
@@ -760,8 +788,46 @@
   "is_elite": false
  },
  {
+  "title": "钢材下游周报：9月房企、汽车销售环比回升",
+  "url": "https://news.mysteel.com/a/26101617/858FEC98268FDA32.html",
+  "summary": "",
+  "pub_time": "2026-10-16T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "ce5e91b8c2e27cce378e4ae676dc37fa",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/产业经济",
+  "tags": [
+   "产业经济",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "钢材下游周报：9月房企、汽车销售环比回升，同比均降",
+  "url": "https://news.mysteel.com/a/26101617/83B7AA8D89EA7D51.html",
+  "summary": "",
+  "pub_time": "2026-10-16T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "c1a4c5d6bfdf55d3e7488214080ff3e0",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/产业经济",
+  "tags": [
+   "产业经济",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "Mysteel晚餐：钢厂盈利率8.23%，进口铁矿石港库增加",
-  "url": "https://news.mysteel.com/a/26101617/CCA3D7360A1D90FA.html",
+  "url": "https://news.mysteel.com/a/26101617/917737DE32D81557.html",
   "summary": "",
   "pub_time": "2026-10-16T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -780,7 +846,7 @@
  },
  {
   "title": "关键矿产日报：多部门部署山西煤矿复产保供，今年印尼加工镍产量预降",
-  "url": "https://news.mysteel.com/a/26101617/863C61DBE6C715CE.html",
+  "url": "https://news.mysteel.com/a/26101617/8F62BBA2EF9CF8F3.html",
   "summary": "",
   "pub_time": "2026-10-16T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -856,7 +922,7 @@
  },
  {
   "title": "Mysteel：9月16家重点房企销售额环比增长3.6%",
-  "url": "https://news.mysteel.com/a/26101615/53F0327C007ACB9C.html",
+  "url": "https://news.mysteel.com/a/26101615/B63357A8FC189739.html",
   "summary": "",
   "pub_time": "2026-10-16T07:00:00Z",
   "source": "上海钢联Mysteel",
@@ -2664,53 +2730,6 @@
   "en_title": "Gold Rebounds As Yields Dip On Dovish Fed Comments"
  },
  {
-  "title": "随着美国对受制裁的“影子舰队”船只施加压力，油价下跌",
-  "url": "",
-  "summary": "（ RTTNews ） -油价周四大幅下跌，原因是在最近的反弹之后获利减少，因为有报道称特朗普政府正在考虑放松对所谓影子船队的制裁，以降低创纪录的全球运费率。",
-  "pub_time": "2026-10-15T09:43:28Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "0b50c1457f2b542ba5236e6cbdefc01a",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "下跌"
-  ],
-  "en_title": "Oil Prices Fall As US Weighs Relief For Sanctioned Shadow Fleet Vessels"
- },
- {
-  "title": "Mysteel晚餐：钢材总库存下降，炼焦煤矿山产量增加",
-  "url": "https://news.mysteel.com/a/26101517/11790C63234387F5.html",
-  "summary": "",
-  "pub_time": "2026-10-15T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "adb9b4de2dc94188aac80dc4a397686c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "中金黄金：预计前三季度净利同比增长50%-58%",
   "url": "https://news.mysteel.com/a/26101517/EC4542216E7D1BEF.html",
   "summary": "",
@@ -3002,32 +3021,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "泰纳瑞斯为加拿大能源运营商生产新钢种",
-  "url": "",
-  "summary": "公司表示，自 2020 年以来，已在加拿大业务投资超过 3.55 亿加元，并于 2026 年 5 月宣布与联邦政府和安大略省政府联合投资 3.06 亿加元。",
-  "pub_time": "2026-10-14T22:50:28Z",
-  "source": "Mining.com",
-  "_cat": "黑色系",
-  "dedup_key": "baffed23933987b392450f993c9d7581",
-  "score": 84,
-  "priority": "P2",
-  "topic": "黑色系",
-  "tags": [
-   "黑色系",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "黑色系",
-   "能源",
-   "钢材"
-  ],
-  "en_title": "Tenaris produces new steel grade for Canadian energy operators"
  }
 ]
