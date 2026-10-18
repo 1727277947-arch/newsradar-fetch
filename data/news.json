@@ -1243,44 +1243,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年10月17日辽宁鞍山新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/17/3850339443.shtml",
-  "summary": "",
-  "pub_time": "2026-10-16T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "026cfce35f1abf93e94b182b6e3c3043",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月17日黑龙江齐齐哈尔新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/17/3834906824.shtml",
-  "summary": "",
-  "pub_time": "2026-10-16T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "eac2e120f03f4cfee36d9c3c187ef276",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年10月17日安徽淮北濉溪临涣新季大豆价格行情",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/17/2500695787.shtml",
   "summary": "",
@@ -1483,6 +1445,44 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年10月17日辽宁鞍山新季玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/17/3850339443.shtml",
+  "summary": "",
+  "pub_time": "2026-10-16T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "879dbc9ee57f48492f06a01098c4ede8",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年10月17日黑龙江齐齐哈尔新季玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/17/3834906824.shtml",
+  "summary": "",
+  "pub_time": "2026-10-16T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "3a61609ae3a802c2692510eba5f73c8b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "粮油首页"
