@@ -20,7 +20,7 @@
  },
  {
   "title": "海关总署：9月中国出口未锻轧铝及铝材66万吨，同比增25.9%",
-  "url": "https://news.mysteel.com/a/26101810/0F2A7B1D9444D248.html",
+  "url": "https://news.mysteel.com/a/26101810/BCC9E58611C20737.html",
   "summary": "",
   "pub_time": "2026-10-18T02:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1698,86 +1698,5 @@
    "生铁"
   ],
   "en_title": "Vale says soaring costs put 10% of iron ore in the red"
- },
- {
-  "title": "随着美元下跌，黄金在谨慎交易中走高",
-  "url": "",
-  "summary": "（ RTTNews ） -上周五，由于美元走弱和债券收益率下跌，金价在上一交易日上涨超过1% ，此后交易平稳。",
-  "pub_time": "2026-10-16T09:55:28Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "a291fb0d814a029c683d33159241d806",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Gold Edges Higher In Cautious Trade As Dollar Dips"
- },
- {
-  "title": "随着美元贬值，谨慎交易中的石油边缘更高",
-  "url": "",
-  "summary": "（ RTTNews ） -上周五，由于美元走弱和债券收益率下跌，金价在上一交易日上涨超过1% ，此后交易平稳。",
-  "pub_time": "2026-10-16T09:55:28Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "896ff0a6add5452ad6985fb4828bd08c",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "原油"
-  ],
-  "en_title": "Oil Edges Higher In Cautious Trade As Dollar Dips"
- },
- {
-  "title": "关注中东供应风险，实现每周增益",
-  "url": "",
-  "summary": "（ RTTNews ） -周五油价小幅走低，但由于中东供应担忧加剧，油价每周上涨。",
-  "pub_time": "2026-10-16T09:34:38Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "880752d020c0eafab6bb19e561b1ae54",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "走强",
-   "供应",
-   "周"
-  ],
-  "en_title": "Oil Set For Weekly Gain With Focus On Mideast Supply Risks"
  }
 ]
