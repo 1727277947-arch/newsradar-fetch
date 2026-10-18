@@ -706,30 +706,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "格陵兰岛将禁止海底采矿",
-  "url": "",
-  "summary": "这一消息发布前一天，美国总统唐纳德·特朗普宣布将在丹麦北极岛屿开始“大规模石油、天然气和矿产勘探”。",
-  "pub_time": "2026-10-16T22:19:25Z",
-  "source": "Mining.com",
-  "_cat": "能源",
-  "dedup_key": "5814f4fa937d2e6ca4959d6d10a74373",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Greenland to introduce ban on seabed mining"
  }
 ]
