@@ -130,13 +130,13 @@
   "en_title": "Bolivia’s Energy Crisis Deepens as Natural Gas Reserves Run Dry"
  },
  {
-  "title": "Mysteel宏观周报：国常会部署深化“人工智能+”行动，山西加快煤矿复产保供",
+  "title": "Mysteel宏观周报：习近平考察绿色算力产业，山西加快煤矿复产保供",
   "url": "https://news.mysteel.com/a/26101722/B7EA85EBFBD1BD6B.html",
   "summary": "",
   "pub_time": "2026-10-17T14:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "f7c8a99b62ab7f1e11e2a11c21425133",
+  "dedup_key": "630bffd0c2d7eeb656531d5fb83fe6f1",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -1750,158 +1750,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "570daeb8902cfb132f00c011a0271967",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "10月15日iShares白银持仓量较上日增加136.21吨",
-  "url": "https://news.mysteel.com/a/26101609/9E42E7666BC4EE5D.html",
-  "summary": "",
-  "pub_time": "2026-10-16T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "7df75b758bb325c2ecb319745b5cd6f7",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "10月15日SPDR黄金持仓量较上日减少0.285吨",
-  "url": "https://news.mysteel.com/a/26101609/0BBFC802DEA27EF7.html",
-  "summary": "",
-  "pub_time": "2026-10-16T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "cd29b26cc1ea0f3da2eedaa97e96ca8b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "美债收益率回落，纽约金价15日涨超2%",
-  "url": "https://news.mysteel.com/a/26101609/8F8788B3CD7150A6.html",
-  "summary": "",
-  "pub_time": "2026-10-16T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "b3ba5a49502bd069e414553019fa7e18",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "期货日报：美债收益率施压，黄金短期调整提供布局机会",
-  "url": "https://news.mysteel.com/a/26101609/1C458BBDAB513494.html",
-  "summary": "",
-  "pub_time": "2026-10-16T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "c51b71527debbc0b704c9ae7a99d6b1b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "中州期货：供需转弱预期升温，双焦震荡运行",
-  "url": "https://news.mysteel.com/a/26101609/B497376EC621D790.html",
-  "summary": "",
-  "pub_time": "2026-10-16T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "8524e22849b0599275857bc0cee17643",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "中州期货：五大材表需回升，高炉铁水微降",
-  "url": "https://news.mysteel.com/a/26101609/AFFBDFEA231471A5.html",
-  "summary": "",
-  "pub_time": "2026-10-16T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "6ea70b7e9923e52cb443d4cf116f488e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "瑞达期货：预计短期铂钯延续震荡格局",
-  "url": "https://news.mysteel.com/a/26101609/82C8A547E1FC74DF.html",
-  "summary": "",
-  "pub_time": "2026-10-16T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "10953228356c736951df3bec18f91503",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色期货早报：各品种涨跌不一，多机构料铁矿石震荡偏弱",
-  "url": "https://news.mysteel.com/a/26101609/96A4AD3483DE09EC.html",
-  "summary": "",
-  "pub_time": "2026-10-16T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "0e6a7b400414b5522cc130d752f4677f",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
