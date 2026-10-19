@@ -888,25 +888,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年10月19日大连玉米期货收盘低开收跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/19/0451391762.shtml",
-  "summary": "",
-  "pub_time": "2026-10-18T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "35d8bc25524042506b05e231edba99a9",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年10月19日大连大豆期货收盘高开收跌",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/19/0425368910.shtml",
   "summary": "",
@@ -1123,6 +1104,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "c3ac215184fa0aed0f5966542b66a367",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年10月19日大连玉米期货收盘低开收跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/19/0451391762.shtml",
+  "summary": "",
+  "pub_time": "2026-10-18T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "6b3ae9c7e3b298a484901c6d45ce76f8",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
