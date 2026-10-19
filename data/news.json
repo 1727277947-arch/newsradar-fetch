@@ -1,5 +1,134 @@
 [
  {
+  "title": "卡塔尔向黎巴嫩提供两座天然气厂和20年通过叙利亚管道输送的液化天然气",
+  "url": "",
+  "summary": "卡塔尔提出解决黎巴嫩的电力供应问题，而贝鲁特无需支付任何前期费用。路透社看到的一份计划草案要求卡塔尔在三年内建设两座燃气发电厂，卡塔尔能源公司根据一份为期 20 年的液化天然气合同提供天然气，并用私人融资代替黎巴嫩酒吧",
+  "pub_time": "2026-10-19T18:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "09d30cbfbfb590650ed473b8feddd173",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气"
+  ],
+  "en_title": "Qatar Offers Lebanon 2 Gas Plants and 20 Years of LNG Piped Through Syria"
+ },
+ {
+  "title": "世界黄金协会估计，到 2031 年，数字黄金可能会增加两倍",
+  "url": "",
+  "summary": "黄金行业的机会正在触及现有金条和交易所交易基金客户之外的买家。",
+  "pub_time": "2026-10-19T17:45:50Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "ccdf7e152d6d8664215dfd21b573652b",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Digital gold could triple by 2031, WGC estimates"
+ },
+ {
+  "title": "霍尔木兹危机打击工业，巴基斯坦经济增长放缓",
+  "url": "",
+  "summary": "中东危机正威胁着巴基斯坦在国际货币基金组织（IMF）帮助下从崩溃边缘试探性复苏，因为能源价格飙升和卡塔尔缺乏定期液化天然气供应导致国内生产总值（GDP）增长远低于分析师的预期。巴基斯坦欧共体",
+  "pub_time": "2026-10-19T17:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "5cfa8d70d3226760263958419128bddb",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Pakistan’s Growth Slows as Hormuz Crisis Hits Industry"
+ },
+ {
+  "title": "沃尔沃将成立采矿部门以满足全球设备需求",
+  "url": "",
+  "summary": "新部门将从 2027 年开始向该行业提供设备和自主技术。",
+  "pub_time": "2026-10-19T17:13:20Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "cb4010d03ab14a52cc7a147bb80b460d",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "需求"
+  ],
+  "en_title": "Volvo to launch mining division to meet global equipment demand"
+ },
+ {
+  "title": "为什么在全球原油飙升的情况下加拿大石油却表现落后",
+  "url": "",
+  "summary": "周五，在美国中央司令部（CENTCOM）确认伊朗革命卫队（IRGC）在霍尔木兹海峡进行炮弹袭击后，一艘悬挂新加坡国旗的集装箱船沉没后，油价恢复了上涨轨道。 Brent crude for December delivery jumped",
+  "pub_time": "2026-10-19T17:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "d8d0abfbbba5238e11115d5abc454e2b",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Why Canadian Oil Is Lagging Even As Global Crude Soars"
+ },
+ {
   "title": "燃油价格上涨 58%，加拿大通胀率升至 3.1%",
   "url": "",
   "summary": "加拿大统计局周一表示，由于中东战争导致燃油价格居高不下，汽油和燃料油导致加拿大 9 月份的年通胀率从 8 月份的 3.0% 上升至 3.1%。尽管转向更便宜的汽油价格，但汽油价格仍较上年同期上涨 27.8%，高于 8 月份的 22.8%",
@@ -58,6 +187,32 @@
   "en_title": "Analyst Favorites: Freeport-McMoran Copper & Gold Ranks As a Top Metals Pick"
  },
  {
+  "title": "坎布里亚的银币检测支持总理饲料计划",
+  "url": "",
+  "summary": "坎布里亚金矿 (TSXV: CAMB; US-OTC: CAMVF) 的高品位钻探结果支持了 Silver Coin 为明年重启闲置的 Premier 磨机而获得矿石的计划。",
+  "pub_time": "2026-10-19T16:03:48Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "4d9d72d088f1b46271d61d5670c7021a",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "白银"
+  ],
+  "en_title": "Cambria’s Silver Coin assays back Premier feed plan"
+ },
+ {
   "title": "世界黄金协会估计，到 2031 年，数字黄金可能会增加两倍",
   "url": "",
   "summary": "世界黄金协会和波士顿咨询集团估计，如果供应商能够赢得投资者的信任，到 2031 年，数字黄金可能会为金条带来 950 亿美元（1,350 亿加元）的新资金。世界黄金协会估计，到 2031 年，数字黄金可能会增加两倍。",
@@ -82,6 +237,32 @@
    "黄金"
   ],
   "en_title": "Digital gold could triple by 2031, WGC estimates"
+ },
+ {
+  "title": "战争推动采矿业，苏丹淘金热留下有毒遗产",
+  "url": "",
+  "summary": "由于汞和氰化物威胁农田、饮用水和公共健康，流离失所的平民转向非正式勘探。",
+  "pub_time": "2026-10-19T15:45:00Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "27500366dd418df0d47c46252c02c11f",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Sudan gold rush leaves toxic legacy as war drives mining"
  },
  {
   "title": "伊拉克10月石油出口量突破每日340万桶，接近战前水平",
@@ -111,6 +292,32 @@
   "en_title": "Iraq's October Oil Exports Top 3.4 Million Bpd, Nearing Pre-War Levels"
  },
  {
+  "title": "Military Metals 赢得斯洛伐克四年许可证生命线",
+  "url": "",
+  "summary": "在当局撤销取消其许可证的决定后，Military Metals（CSE：MILI；US-OTC：MILIF）获得了四年的时间来探索其在斯洛伐克的 Trojárová 锑金项目。股价上涨。 Military Metals 获得斯洛伐克四年许可证生命线后的消息首先出现在 The Norther 上",
+  "pub_time": "2026-10-19T15:07:20Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "797dc9c2b40eda859ac0fb3482f592c9",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "金属"
+  ],
+  "en_title": "Military Metals wins four-year Slovak licence lifeline"
+ },
+ {
   "title": "赖特表示，随着布伦特原油价格维持在 108 美元以上，天然气价格已见顶",
   "url": "",
   "summary": "布伦特原油期货在隔夜交易中短暂触及每桶 109.99 美元，然后在亚洲时段从五个月高点回落并进入欧洲交易，因为中东供应恢复的迹象抵消了对能源基础设施和关键海上航线的新攻击。使用",
@@ -137,6 +344,35 @@
    "价"
   ],
   "en_title": "Wright Says Gas Prices Peaked As Brent Holds Above $108"
+ },
+ {
+  "title": "美洲黄金创纪录的白银产量低于预期",
+  "url": "",
+  "summary": "截至 9 月 30 日的三个月白银产量达到创纪录的 800,458 盎司，较 2025 年同季度增长 4.6%。",
+  "pub_time": "2026-10-19T14:59:00Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "652cbf493b83a887b7d5c693e76e66dd",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "白银",
+   "产量",
+   "预测"
+  ],
+  "en_title": "Americas Gold’s record silver output misses forecasts"
  },
  {
   "title": "美洲黄金创纪录的白银产量低于预期",
@@ -603,33 +839,6 @@
   "is_elite": false
  },
  {
-  "title": "中东危机推高价格，印度原油进口额飙升 46%",
-  "url": "",
-  "summary": "由于中东紧张局势重燃，国际油价和印度进口原油篮子飙升，印度9月份进口原油154亿美元，比去年同期的105亿美元增长46%。印度是全球第三大原油进口国，原油进口量",
-  "pub_time": "2026-10-19T08:35:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "ec732b951970ea19c74171e1489b03c4",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价"
-  ],
-  "en_title": "India's Crude Oil Import Bill Soars 46% as Middle East Crisis Drives Up Prices"
- },
- {
   "title": "午后“双焦”期货突然跳水，什么情况？",
   "url": "https://news.mysteel.com/a/26101916/564FCA331B91D05E.html",
   "summary": "",
@@ -685,32 +894,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "绿色和平组织抗议伍德赛德125亿$天然气项目关闭",
-  "url": "",
-  "summary": "两名绿色和平组织活动人士在澳大利亚西澳大利亚海岸附近的伍德赛德能源斯卡伯勒液化天然气平台停止运营后被捕。地方当局在一份声明中说，两人被指控“干扰海上石油设施或作业”。",
-  "pub_time": "2026-10-19T07:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "18b79ebce5767d2a382d4248222afe01",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气"
-  ],
-  "en_title": "Greenpeace Protest Forces Shutdown at Woodside’s $12.5 Billion Gas Project"
  },
  {
   "title": "Mysteel周报：建筑原材料价格监测（10.9-10.16）",
@@ -787,35 +970,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "随着特朗普-普京柴油协议提高供应希望，油价下滑",
-  "url": "",
-  "summary": "原油价格本周开始时，交易商对根据俄罗斯和美国总统达成的协议提高柴油供应的预期有所下降。然而，油价基准的下跌幅度远高于一周前，导致油价明显上涨。",
-  "pub_time": "2026-10-19T05:25:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "e976a3ac22f7eb2e7cb8d0e39eeef097",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "锡",
-   "价",
-   "供应"
-  ],
-  "en_title": "Oil Prices Slip as Trump-Putin Diesel Deal Raises Supply Hopes"
  },
  {
   "title": "新金钢铁产能减量置换方案",
