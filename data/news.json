@@ -1,5 +1,60 @@
 [
  {
+  "title": "冬季供应担忧加剧，中国煤炭产量下降 6.8%",
+  "url": "",
+  "summary": "上月中国煤炭产量同比下降6.8%至3.85亿吨。然而，彭博社援引该国统计机构的话说，月度总数较 8 月有所增加。由于库存充足和煤炭需求下降，中国今年一直在限制煤炭产量",
+  "pub_time": "2026-10-19T09:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "cd0f2fcf2f58176ab6ebb8b6c222c966",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "煤炭",
+   "供应",
+   "产量"
+  ],
+  "en_title": "China's Coal Production Slumps 6.8% as Winter Supply Fears Grow"
+ },
+ {
+  "title": "俄罗斯制裁豁免后油价小幅走低",
+  "url": "",
+  "summary": "(RTTNews) - 美国总统唐纳德·特朗普放弃对俄罗斯的制裁和关税，此举可能为俄罗斯增加燃料出口铺平道路，周一油价走低。",
+  "pub_time": "2026-10-19T09:18:37Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "7a9816a6fad67035e24f54d444d7f217",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价"
+  ],
+  "en_title": "Oil Prices Edge Lower After Russia Sanctions Waiver"
+ },
+ {
   "title": "关键矿产日报：山西炼焦煤矿山复产加速",
   "url": "https://news.mysteel.com/a/26101917/99BB87F2C5284099.html",
   "summary": "",
@@ -894,9 +949,9 @@
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/19/0236840375.shtml",
   "summary": "",
   "pub_time": "2026-10-18T16:00:00Z",
-  "source": "粮油大豆",
+  "source": "粮油首页",
   "_cn": true,
-  "dedup_key": "1c40f670994a8421496f9060b7353b0d",
+  "dedup_key": "52ee427d23b68529fc7ce4bc82b780a1",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -904,7 +959,7 @@
    "大宗商品",
    "中文",
    "国内",
-   "粮油大豆"
+   "粮油首页"
   ],
   "is_elite": false
  },
