@@ -1,22 +1,143 @@
 [
  {
-  "title": "河南玉米新品种连续三年亩产超2000斤",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717396.shtml",
-  "summary": "李超庆 孙慧敏)河南农业大学19日消息称，经专家实打验收，由该校汤继华团队选育的玉米新品种YD268，在河北省石家庄市藁城区陈家庄120亩玉米示范田里，亩产2083.6斤",
-  "pub_time": "2026-10-19T12:19:48Z",
+  "title": "2026年前8个月黑龙江省进出口总额2320.1亿元 同比增11.1%",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717464.shtml",
+  "summary": "韩雪)19日，中共黑龙江省委宣传部、黑龙江省人民政府新闻办公室主办的开局起步“十五五” 奋力谱写中国式现代化黑龙江新篇章系列主题新闻发布会举行。黑龙江省商务厅在会上解读“十五五”时期提振消费、招商引资、外贸提质、自贸试验区建设的实施路径，发布发展部署及商务运行情况。黑龙江省商务厅党组书记、厅长李继刚介绍，2026年1月—8月，黑龙江省进出口总额2320.1亿元，同比增长11.1%",
+  "pub_time": "2026-10-19T13:50:09Z",
   "source": "中国新闻网-财经",
   "_cn": true,
-  "dedup_key": "6ddaf192a2e73ccd4958931cdaca27b0",
+  "dedup_key": "88c80db5fe21fe7ad3ec531cec028333",
   "score": 80,
   "priority": "P1",
-  "topic": "国内/大宗商品",
+  "topic": "国内/贸易外经",
   "tags": [
-   "大宗商品",
+   "贸易外经",
    "中文",
    "国内",
    "中国新闻网-财经"
   ],
   "is_elite": false
+ },
+ {
+  "title": "六盘山下的可生食鸡蛋：一枚“金蛋”孵化乡村共富路",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717460.shtml",
+  "summary": "题：六盘山下的可生食鸡蛋：一枚“金蛋”孵化乡村共富路",
+  "pub_time": "2026-10-19T13:44:25Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "6ab3e07b885b81b1f2f0fbb47f4ddbfc",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "随着与乌克兰的裂痕加深，特朗普捍卫俄罗斯制裁豁免",
+  "url": "",
+  "summary": "唐纳德·特朗普总统为自己放弃针对俄罗斯的全面制裁的决定辩护，认为这是为了让莫斯科留在谈判桌上，而基辅和一些美国议员强烈批评此举向克里姆林宫发出了错误的信息。特朗普于10月1日晚签署了一项行政命令",
+  "pub_time": "2026-10-19T13:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "092424bcd836413af5ef494c698415e1",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Trump Defends Russia Sanctions Waiver as Rift With Ukraine Deepens"
+ },
+ {
+  "title": "卡塔尔液化天然气货物罕见地穿越红海前往欧洲苏伊士运河",
+  "url": "",
+  "summary": "一艘卡塔尔液化天然气货物正在红海向北行驶，通过苏伊士运河向欧洲输送天然气，这是在红海南部和曼德海峡的油轮受到胡塞武装威胁的情况下，这是通往欧洲的最短但危险的航线上的罕见运输。该油轮于八月从卡塔尔装载液化天然气，目前正在",
+  "pub_time": "2026-10-19T13:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "c90ea84c1cd7c5111feb21770defac87",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Qatari LNG Cargo Heads Through Red Sea to Europe in Rare Suez Run"
+ },
+ {
+  "title": "世界黄金协会估计，到 2031 年，数字黄金可能会增加两倍",
+  "url": "",
+  "summary": "世界黄金协会和波士顿咨询集团估计，如果供应商能够赢得投资者的信任，到 2031 年，数字黄金可能会为金条带来 950 亿美元（1,350 亿加元）的新资金。世界黄金协会估计，到 2031 年，数字黄金可能会增加两倍。",
+  "pub_time": "2026-10-19T13:00:00Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "f659958deeea7aba33e6267bb56d556b",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Digital gold could triple by 2031, WGC estimates"
+ },
+ {
+  "title": "渴求铜的美国买家包围艾芬豪电气矿",
+  "url": "",
+  "summary": "随着人工智能和电网需求的加速，提前承购谈判可能有助于为亚利桑那州价值 14 亿美元的圣克鲁斯铜矿项目提供资金。",
+  "pub_time": "2026-10-19T12:03:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "63477611b0ef0ce6690773c602c91443",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜"
+  ],
+  "en_title": "Copper-hungry US buyers circle Ivanhoe Electric mine"
  },
  {
   "title": "工信部公开征求《钢铁行业 质量大数据分析系统技术要求》等69项行业标准计划项目意见",
@@ -289,7 +410,7 @@
  },
  {
   "title": "关键矿产日报：山西炼焦煤矿山复产加速，甘其毛都口岸通关车数将提升",
-  "url": "https://news.mysteel.com/a/26101917/4F28D4009841C880.html",
+  "url": "https://news.mysteel.com/a/26101917/EA9D693792DAD4EE.html",
   "summary": "",
   "pub_time": "2026-10-19T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1480,59 +1601,6 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "2027 年战争导致供应紧张，油价居高不下",
-  "url": "",
-  "summary": "在美国和以色列与伊朗战争的前三个月左右，石油市场的主导情绪是冲突随时都会结束。六月的短暂停火强化了这种乐观情绪，因此花了一段时间才面对事实：战争现在不会结束。可能是傍晚",
-  "pub_time": "2026-10-17T23:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "70e241871d9ad083c98a40db26fb855b",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "供应"
-  ],
-  "en_title": "Oil Prices Stay High as War Keeps Supply Tight Into 2027"
- },
- {
-  "title": "尽管发生霍尔木兹危机，中东化学品仍保持成本优势",
-  "url": "",
-  "summary": "尽管经历了伊朗战争和霍尔木兹危机，中东的低成本化学品生产仍将保持相对于其他地区的长期优势。由于波斯湾工业基础目前的限制，聚合物采购的近期变化正在发生，这使美国受益。",
-  "pub_time": "2026-10-17T21:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "e8ed98e12370c7bb6ad217bf1e46c4c8",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Middle East Chemicals Keep Their Cost Edge Despite Hormuz Crisis"
  },
  {
   "title": "【独家】大豆价格还能上涨多久？",
