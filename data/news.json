@@ -1,5 +1,62 @@
 [
  {
+  "title": "关键矿产日报：山西炼焦煤矿山复产加速",
+  "url": "https://news.mysteel.com/a/26101917/99BB87F2C5284099.html",
+  "summary": "",
+  "pub_time": "2026-10-19T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "56a96a7f04331c4be252af7c6509d958",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "广期所公布多晶硅期货PS2710合约、碳酸锂期货LC2710合约有关事项",
+  "url": "https://news.mysteel.com/a/26101917/DB7E2517A989BF57.html",
+  "summary": "",
+  "pub_time": "2026-10-19T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "7bb8abc343dad44fa0ba732027616844",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "关键矿产日报：山西炼焦煤矿山复产加速，甘其毛都口岸通关车数将提升",
+  "url": "https://news.mysteel.com/a/26101917/4F28D4009841C880.html",
+  "summary": "",
+  "pub_time": "2026-10-19T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "166ebca4a9d09956d655b7080a63e746",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "中东危机推高价格，印度原油进口额飙升 46%",
   "url": "",
   "summary": "由于中东紧张局势重燃，国际油价和印度进口原油篮子飙升，印度9月份进口原油154亿美元，比去年同期的105亿美元增长46%。印度是全球第三大原油进口国，原油进口量",
@@ -27,32 +84,13 @@
   "en_title": "India's Crude Oil Import Bill Soars 46% as Middle East Crisis Drives Up Prices"
  },
  {
-  "title": "黑色持仓日报：银河期货增持超4千手焦煤多单",
-  "url": "https://news.mysteel.com/a/26101916/0AE336804CEA2BF1.html",
+  "title": "午后“双焦”期货突然跳水，什么情况？",
+  "url": "https://news.mysteel.com/a/26101916/564FCA331B91D05E.html",
   "summary": "",
   "pub_time": "2026-10-19T08:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "6cfe06807bb5a9f851bb1a8f4c3a87da",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "有色持仓日报：沪铜飘红，中信期货减持超2千手空单",
-  "url": "https://news.mysteel.com/a/26101916/CFA40FED4E485A76.html",
-  "summary": "",
-  "pub_time": "2026-10-19T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "565ff2b526a3cbf04e210dfa44487b8b",
+  "dedup_key": "cb9b992dc5dbbd4d635378991aef5fd7",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -66,7 +104,7 @@
  },
  {
   "title": "黑色持仓日报：焦煤跌5.55%，银河期货增持超4千手多单",
-  "url": "https://news.mysteel.com/a/26101916/70AAE7495566CF9A.html",
+  "url": "https://news.mysteel.com/a/26101916/0AE336804CEA2BF1.html",
   "summary": "",
   "pub_time": "2026-10-19T08:00:00Z",
   "source": "上海钢联Mysteel",
@@ -84,13 +122,13 @@
   "is_elite": false
  },
  {
-  "title": "午后“双焦”期货突然跳水，什么情况？",
-  "url": "https://news.mysteel.com/a/26101916/564FCA331B91D05E.html",
+  "title": "有色持仓日报：沪铜飘红，中信期货减持超2千手空单",
+  "url": "https://news.mysteel.com/a/26101916/566D6633C341FF76.html",
   "summary": "",
   "pub_time": "2026-10-19T08:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "cb9b992dc5dbbd4d635378991aef5fd7",
+  "dedup_key": "565ff2b526a3cbf04e210dfa44487b8b",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
