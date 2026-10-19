@@ -1,5 +1,99 @@
 [
  {
+  "title": "随着液化天然气和煤炭成本飙升，日本电价飙升25 ％",
+  "url": "",
+  "summary": "由于液化天然气价格飙升和煤炭价格上涨，日本的平均电价在本周初较上周上涨了25%以上。彭博社援引日本电力公司的数据报道，周一全国电价上涨超过25% ，至每千瓦时$ 0.19 （ 31.15日元）",
+  "pub_time": "2026-10-19T10:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "3fab55b6541fc635df7fc2da591b80a0",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "煤炭",
+   "价",
+   "大涨"
+  ],
+  "en_title": "Japan’s Electricity Prices Surge 25% as LNG and Coal Costs Soar"
+ },
+ {
+  "title": "Mysteel黑色金属例会：本周钢价或偏弱为主",
+  "url": "https://news.mysteel.com/a/26101918/3BB43C77E2F1F23F.html",
+  "summary": "",
+  "pub_time": "2026-10-19T10:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "b7cf7da0363cc543996ad9b1c8f54b2e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel周报：汽车原材料价格（10.12-10.18)",
+  "url": "https://news.mysteel.com/a/26101918/DAFFB0B9B6070507.html",
+  "summary": "",
+  "pub_time": "2026-10-19T10:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "2e887e0fdf33a03c066b0a8d20c3f757",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/产业经济",
+  "tags": [
+   "产业经济",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "随着油价、收益率下跌，黄金边缘上升",
+  "url": "",
+  "summary": "（ RTTNews ） -由于市场对10月美联储加息的预期下降，周一黄金小幅上涨。",
+  "pub_time": "2026-10-19T09:36:12Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "94164a2b6480594d5bf241ce83ffcf71",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "原油",
+   "价"
+  ],
+  "en_title": "Gold Edges Up As Oil Prices, Yields Dip"
+ },
+ {
   "title": "冬季供应担忧加剧，中国煤炭产量下降 6.8%",
   "url": "",
   "summary": "上月中国煤炭产量同比下降6.8%至3.85亿吨。然而，彭博社援引该国统计机构的话说，月度总数较 8 月有所增加。由于库存充足和煤炭需求下降，中国今年一直在限制煤炭产量",
@@ -55,6 +149,25 @@
   "en_title": "Oil Prices Edge Lower After Russia Sanctions Waiver"
  },
  {
+  "title": "Mysteel晚餐：金融监管部门负责人发声，全球铁矿石发运量增加",
+  "url": "https://news.mysteel.com/a/26101917/1774EF9886487FF3.html",
+  "summary": "",
+  "pub_time": "2026-10-19T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "9ce15f1fb1bf3f0ea42d8cae547246c4",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "关键矿产日报：山西炼焦煤矿山复产加速",
   "url": "https://news.mysteel.com/a/26101917/99BB87F2C5284099.html",
   "summary": "",
@@ -62,6 +175,25 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "56a96a7f04331c4be252af7c6509d958",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "每日钢市：焦炭首轮提涨，期钢尾盘翻绿，钢价反弹受阻",
+  "url": "https://news.mysteel.com/a/26101917/8628A76B97055E3B.html",
+  "summary": "",
+  "pub_time": "2026-10-19T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "0fb82b79c328a6de9736709b933e9cdb",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -105,6 +237,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel日报：黑色金属期货震荡下跌运行",
+  "url": "https://news.mysteel.com/a/26101917/EA86B21BC876E216.html",
+  "summary": "",
+  "pub_time": "2026-10-19T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "35e731dc1bfbf7b43450d8d00de0dc41",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -1287,25 +1438,6 @@
   "is_elite": false
  },
  {
-  "title": "海关总署：9月中国进口未锻轧铜及铜材46万吨，同比降4.9%",
-  "url": "https://news.mysteel.com/a/26101810/C0D7BE31A35B8BF3.html",
-  "summary": "",
-  "pub_time": "2026-10-18T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "bc357f8f2d3e567c002946a10c6aa779",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "2027 年战争导致供应紧张，油价居高不下",
   "url": "",
   "summary": "在美国和以色列与伊朗战争的前三个月左右，石油市场的主导情绪是冲突随时都会结束。六月的短暂停火强化了这种乐观情绪，因此花了一段时间才面对事实：战争现在不会结束。可能是傍晚",
@@ -1864,31 +1996,5 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "天然气储量枯竭，玻利维亚能源危机加剧",
-  "url": "",
-  "summary": "玻利维亚天然气工业多年来投资不足，导致这个南美国家面临严重的燃料短缺，伊朗持续的战争导致能源价格不断上涨。能源短缺和经济危机是政府多年来决策失误造成的。 2006年，当时",
-  "pub_time": "2026-10-17T15:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "33c297c968fce0c2c8cd5699440321e3",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "天然气",
-   "能源"
-  ],
-  "en_title": "Bolivia’s Energy Crisis Deepens as Natural Gas Reserves Run Dry"
  }
 ]
