@@ -1,41 +1,197 @@
 [
  {
-  "title": "2026年前8个月黑龙江省进出口总额2320.1亿元 同比增11.1%",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717464.shtml",
-  "summary": "韩雪)19日，中共黑龙江省委宣传部、黑龙江省人民政府新闻办公室主办的开局起步“十五五” 奋力谱写中国式现代化黑龙江新篇章系列主题新闻发布会举行。黑龙江省商务厅在会上解读“十五五”时期提振消费、招商引资、外贸提质、自贸试验区建设的实施路径，发布发展部署及商务运行情况。黑龙江省商务厅党组书记、厅长李继刚介绍，2026年1月—8月，黑龙江省进出口总额2320.1亿元，同比增长11.1%",
-  "pub_time": "2026-10-19T13:50:09Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "88c80db5fe21fe7ad3ec531cec028333",
-  "score": 80,
+  "title": "燃油价格上涨 58%，加拿大通胀率升至 3.1%",
+  "url": "",
+  "summary": "加拿大统计局周一表示，由于中东战争导致燃油价格居高不下，汽油和燃料油导致加拿大 9 月份的年通胀率从 8 月份的 3.0% 上升至 3.1%。尽管转向更便宜的汽油价格，但汽油价格仍较上年同期上涨 27.8%，高于 8 月份的 22.8%",
+  "pub_time": "2026-10-19T16:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "309e2281b64e9153eb7539ac740d113e",
+  "score": 84,
   "priority": "P1",
-  "topic": "国内/贸易外经",
+  "topic": "能源",
   "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
   ],
-  "is_elite": false
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "燃料",
+   "价",
+   "上涨",
+   "跳涨"
+  ],
+  "en_title": "Canada's Inflation Rises to 3.1% as Fuel Oil Prices Jump 58%"
  },
  {
-  "title": "六盘山下的可生食鸡蛋：一枚“金蛋”孵化乡村共富路",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717460.shtml",
-  "summary": "题：六盘山下的可生食鸡蛋：一枚“金蛋”孵化乡村共富路",
-  "pub_time": "2026-10-19T13:44:25Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "6ab3e07b885b81b1f2f0fbb47f4ddbfc",
-  "score": 80,
+  "title": "分析师最爱：自由港麦克莫兰铜金公司被列为首选金属",
+  "url": "",
+  "summary": "根据 Metals Channel 的数据，对主要经纪公司的分析师推荐进行的研究表明，在组成 Metals Channel 全球矿业巨头指数的 50 只股票中，自由港麦克莫兰铜金公司（股票代码：FCX）平均而言是经纪商分析师的第三选择。金属",
+  "pub_time": "2026-10-19T16:17:09Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "d3bb9ea713245312d733e5e5b120d712",
+  "score": 84,
   "priority": "P1",
-  "topic": "国内/财经",
+  "topic": "贵金属",
   "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
   ],
-  "is_elite": false
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "铜",
+   "金属"
+  ],
+  "en_title": "Analyst Favorites: Freeport-McMoran Copper & Gold Ranks As a Top Metals Pick"
+ },
+ {
+  "title": "世界黄金协会估计，到 2031 年，数字黄金可能会增加两倍",
+  "url": "",
+  "summary": "世界黄金协会和波士顿咨询集团估计，如果供应商能够赢得投资者的信任，到 2031 年，数字黄金可能会为金条带来 950 亿美元（1,350 亿加元）的新资金。世界黄金协会估计，到 2031 年，数字黄金可能会增加两倍。",
+  "pub_time": "2026-10-19T16:00:00Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "f659958deeea7aba33e6267bb56d556b",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Digital gold could triple by 2031, WGC estimates"
+ },
+ {
+  "title": "伊拉克10月石油出口量突破每日340万桶，接近战前水平",
+  "url": "",
+  "summary": "伊拉克石油部长巴塞姆·穆罕默德·胡代尔周一对国家通讯社INA表示，10月份迄今为止，伊拉克石油出口量平均每天超过340万桶。这使它们接近伊拉克战争前通过霍尔木兹海峡运输的 3.3-350 万桶/日的产量。",
+  "pub_time": "2026-10-19T15:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "6ec07b47009caef73bdaa96fd016deab",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "出口"
+  ],
+  "en_title": "Iraq's October Oil Exports Top 3.4 Million Bpd, Nearing Pre-War Levels"
+ },
+ {
+  "title": "赖特表示，随着布伦特原油价格维持在 108 美元以上，天然气价格已见顶",
+  "url": "",
+  "summary": "布伦特原油期货在隔夜交易中短暂触及每桶 109.99 美元，然后在亚洲时段从五个月高点回落并进入欧洲交易，因为中东供应恢复的迹象抵消了对能源基础设施和关键海上航线的新攻击。使用",
+  "pub_time": "2026-10-19T15:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "330a6abf48382d0b14d9c73c2322e6eb",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "布伦特油价",
+   "天然气",
+   "价"
+  ],
+  "en_title": "Wright Says Gas Prices Peaked As Brent Holds Above $108"
+ },
+ {
+  "title": "美洲黄金创纪录的白银产量低于预期",
+  "url": "",
+  "summary": "美洲金银公司（TSX：USA；NYSE-A：USAS）报告称，由于爱达荷州主要方铅矿综合设施正在进行基础设施建设，第三季度白银产量低于预期。白银产量...后美洲黄金创纪录的白银产量低于预期首先出现在The No",
+  "pub_time": "2026-10-19T14:59:00Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "d116fca05fbbd38dd168118ef33dc011",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "白银",
+   "产量",
+   "预测"
+  ],
+  "en_title": "Americas Gold’s record silver output misses forecasts"
+ },
+ {
+  "title": "莫桑比克向 Sasol 和 ROMPCO 推介 2.5 亿美元的天然气项目",
+  "url": "",
+  "summary": "莫桑比克正在与南非能源公司Sasol和管道公司ROMPCO讨论可能投资莫桑比克海上一个价值2.5亿美元的新天然气项目，该项目可以向南非输送更多天然气。莫桑比克计划在新项目建造浮动储存和再气化装置（FSRU）",
+  "pub_time": "2026-10-19T14:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "fa5041dab00946c161dfc6e0fc25c848",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气"
+  ],
+  "en_title": "Mozambique Pitches Sasol and ROMPCO on $250 Million Gas Project"
  },
  {
   "title": "随着与乌克兰的裂痕加深，特朗普捍卫俄罗斯制裁豁免",
@@ -88,18 +244,18 @@
   "en_title": "Qatari LNG Cargo Heads Through Red Sea to Europe in Rare Suez Run"
  },
  {
-  "title": "世界黄金协会估计，到 2031 年，数字黄金可能会增加两倍",
+  "title": "渴求铜的美国买家包围艾芬豪电气矿",
   "url": "",
-  "summary": "世界黄金协会和波士顿咨询集团估计，如果供应商能够赢得投资者的信任，到 2031 年，数字黄金可能会为金条带来 950 亿美元（1,350 亿加元）的新资金。世界黄金协会估计，到 2031 年，数字黄金可能会增加两倍。",
-  "pub_time": "2026-10-19T13:00:00Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "f659958deeea7aba33e6267bb56d556b",
+  "summary": "随着人工智能和电网需求的加速，提前承购谈判可能有助于为亚利桑那州价值 14 亿美元的圣克鲁斯铜矿项目提供资金。",
+  "pub_time": "2026-10-19T12:03:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "63477611b0ef0ce6690773c602c91443",
   "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
+  "priority": "P1",
+  "topic": "基本金属",
   "tags": [
-   "贵金属",
+   "基本金属",
    "大宗商品",
    "国外",
    "中文翻译",
@@ -108,19 +264,19 @@
   ],
   "is_elite": false,
   "keywords": [
-   "贵金属",
-   "黄金"
+   "基本金属",
+   "铜"
   ],
-  "en_title": "Digital gold could triple by 2031, WGC estimates"
+  "en_title": "Copper-hungry US buyers circle Ivanhoe Electric mine"
  },
  {
   "title": "渴求铜的美国买家包围艾芬豪电气矿",
   "url": "",
-  "summary": "随着人工智能和电网需求的加速，提前承购谈判可能有助于为亚利桑那州价值 14 亿美元的圣克鲁斯铜矿项目提供资金。",
+  "summary": "艾芬豪电气 (NYSE-A, TSX: IE) 正在就出售其位于亚利桑那州价值 14 亿美元的圣克鲁斯项目中的铜进行高级谈判，因为人工智能基础设施和电网的需求激增......",
   "pub_time": "2026-10-19T12:03:00Z",
-  "source": "Mining.com",
+  "source": "NorthernMiner",
   "_cat": "基本金属",
-  "dedup_key": "63477611b0ef0ce6690773c602c91443",
+  "dedup_key": "e58300d9690f103cf8ec026c4662a103",
   "score": 84,
   "priority": "P1",
   "topic": "基本金属",
@@ -1055,33 +1211,6 @@
   "is_elite": false
  },
  {
-  "title": "创纪录的运输成本迫使石油生产商大幅降价",
-  "url": "",
-  "summary": "货运正在重塑全球石油贸易，生产商可以控制其原油价格。飙升的运输成本正在推动交付价格超出炼油厂愿意支付的价格，迫使卖家削减差价或寻找离家更近的买家。中国炼油厂倾向于等待交易",
-  "pub_time": "2026-10-18T23:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "ba3ae34312e6404a974afdf1f457377a",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价"
-  ],
-  "en_title": "Record Shipping Costs Force Oil Producers to Slash Prices"
- },
- {
   "title": "Mysteel早读：习近平考察绿色算力产业，国常会要求治理低价无序竞争",
   "url": "https://news.mysteel.com/a/26101907/EDD04E3E862FAC3A.html",
   "summary": "",
@@ -1099,33 +1228,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "霍尔木兹正在将航运的燃油费用变成供应危机",
-  "url": "",
-  "summary": "霍尔木兹危机不仅影响原油和天然气，还影响集装箱运输。它还通过承载世界贸易的船只的油箱加强对全球航运的控制。出口中断、炼油厂供应受限以及交付日益不可靠显然是迫在眉睫的问题",
-  "pub_time": "2026-10-18T21:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "503b40040caa5459bb69a2b85bf00186",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "燃料",
-   "供应"
-  ],
-  "en_title": "Hormuz Is Turning Shipping’s Fuel Bill Into a Supply Crisis"
  },
  {
   "title": "2026年10月19日大连豆粕期货低开收跌",
@@ -1596,462 +1698,6 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "【独家】大豆价格还能上涨多久？",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/18/0830980686.shtml",
-  "summary": "",
-  "pub_time": "2026-10-17T16:00:00Z",
-  "source": "粮油豆粕",
-  "_cn": true,
-  "dedup_key": "e2a1d8ab4c76a90fc30985df4f4dbb5e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油豆粕"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月18日江苏省徐州地区新季杂花大豆价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/18/5736776218.shtml",
-  "summary": "",
-  "pub_time": "2026-10-17T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "4015fce30ae602d792cefb8c9982e0a9",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月18日河南省漯河新季大豆价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/18/5717819731.shtml",
-  "summary": "",
-  "pub_time": "2026-10-17T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "b15e3b39ff6d743695d5f0ac5f74b656",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月18日安徽省亳州涡阳县新季大豆价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/18/5659532813.shtml",
-  "summary": "",
-  "pub_time": "2026-10-17T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "7c819fa8fb09203db4a332d5df5d2327",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月18日湖北天门岳口镇新季大豆价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/18/5642402042.shtml",
-  "summary": "",
-  "pub_time": "2026-10-17T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "da06ef98e08f41fc8704c225cd05aaa0",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月18日湖北天门多宝新季大豆价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/18/5625905597.shtml",
-  "summary": "",
-  "pub_time": "2026-10-17T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "539cf8cc3fc9ec79c5f4027f79e24b2a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月18日天津市场豆油价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/18/5136699540.shtml",
-  "summary": "",
-  "pub_time": "2026-10-17T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "a3437e37ed2420776333a286426e4e79",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月18日河南驻马店新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/18/4144804557.shtml",
-  "summary": "",
-  "pub_time": "2026-10-17T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "dd53758c91acd2f26ce6775b71e32f72",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月18日河北邢台新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/18/4111110292.shtml",
-  "summary": "",
-  "pub_time": "2026-10-17T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "d284a74f045e71e1a11b94df0c25729d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月18日山东德州新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/18/4051285042.shtml",
-  "summary": "",
-  "pub_time": "2026-10-17T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "91f5aa5b93a838fd2f642ce2d8bd78f3",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月18日内蒙古通辽新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/18/4032741109.shtml",
-  "summary": "",
-  "pub_time": "2026-10-17T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "2fe6932e8b2241379fe1052ba8c9d273",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月18日吉林长春新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/18/4005746358.shtml",
-  "summary": "",
-  "pub_time": "2026-10-17T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "59dfdd6de6f8190077dfdade7eebdd22",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月18日黑龙江双鸭山新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/18/2606522844.shtml",
-  "summary": "",
-  "pub_time": "2026-10-17T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "dd1f9620b31a94edc8fe802bb66fc6c5",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月18日黑龙江牡丹江新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/18/2551710809.shtml",
-  "summary": "",
-  "pub_time": "2026-10-17T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "95072dca00fb57c4393fb7ae18f82c80",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月18日天津豆粕价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/18/4835936395.shtml",
-  "summary": "",
-  "pub_time": "2026-10-17T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "b5299dc873516fd36bc79117cc886f91",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月18日安徽亳州小麦价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/18/4332278779.shtml",
-  "summary": "",
-  "pub_time": "2026-10-17T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "3d45757c0c607fae88476ca7272dab35",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月18日河南驻马店小麦价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/18/4312677717.shtml",
-  "summary": "",
-  "pub_time": "2026-10-17T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "1d675f110cd81d9dda2dac326c7d43df",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月18日河北邢台小麦价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/18/4249748272.shtml",
-  "summary": "",
-  "pub_time": "2026-10-17T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "7467433c29011b6fbadc415e45ac27e0",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月18日山东聊城小麦价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/18/4230795927.shtml",
-  "summary": "",
-  "pub_time": "2026-10-17T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "1229eddc62cf6fb3c477d3663c02c0a1",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月18日山东德州小麦价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/18/4207572006.shtml",
-  "summary": "",
-  "pub_time": "2026-10-17T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "cc9aa55b6e444e46305c33a837d15aac",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月18日黑龙江哈尔滨米厂新季中科发五稻谷价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/18/5500694940.shtml",
-  "summary": "",
-  "pub_time": "2026-10-17T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "56245358693cd00065da8e5aa59e64de",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月18日黑龙江哈尔滨米厂新季长粒水稻价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/18/5432424265.shtml",
-  "summary": "",
-  "pub_time": "2026-10-17T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "a8d4c1213d541cdf048183aef6d7d995",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月18日黑龙江哈尔滨米厂新季长粒大米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/18/5542988110.shtml",
-  "summary": "",
-  "pub_time": "2026-10-17T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "de4470b793cec4b093282e1226fc78af",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月18日黑龙江哈尔滨米厂新季中科发五大米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/18/5522299268.shtml",
-  "summary": "",
-  "pub_time": "2026-10-17T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "6e34581736b6b19662b0f1f73b7c7ed0",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
    "中文",
    "国内",
    "粮油首页"
