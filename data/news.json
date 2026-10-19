@@ -1,5 +1,68 @@
 [
  {
+  "title": "河南玉米新品种连续三年亩产超2000斤",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-19/10717396.shtml",
+  "summary": "李超庆 孙慧敏)河南农业大学19日消息称，经专家实打验收，由该校汤继华团队选育的玉米新品种YD268，在河北省石家庄市藁城区陈家庄120亩玉米示范田里，亩产2083.6斤",
+  "pub_time": "2026-10-19T12:19:48Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "6ddaf192a2e73ccd4958931cdaca27b0",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "工信部公开征求《钢铁行业 质量大数据分析系统技术要求》等69项行业标准计划项目意见",
+  "url": "https://news.mysteel.com/a/26101920/64C6E8617461DFC0.html",
+  "summary": "",
+  "pub_time": "2026-10-19T12:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "3d7e632ab06cf60d2d89affc987251f7",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "在绿色和平组织的噱头之后，伍德赛德恢复了澳大利亚液化天然气项目的工作",
+  "url": "",
+  "summary": "澳大利亚伍德赛德能源公司周一宣布，已恢复西澳大利亚海上即将投入运营的斯卡伯勒项目的工作，该项目将向全球市场出口液化天然气，并向国内市场供应天然气。本周末，两名绿色和平活动人士爬上天然气平台",
+  "pub_time": "2026-10-19T11:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "b21e3a60d84182a1ac7fb80d6621c181",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Woodside Resumes Work at Australian LNG Project after Greenpeace Stunt"
+ },
+ {
   "title": "随着液化天然气和煤炭成本飙升，日本电价飙升25 ％",
   "url": "",
   "summary": "由于液化天然气价格飙升和煤炭价格上涨，日本的平均电价在本周初较上周上涨了25%以上。彭博社援引日本电力公司的数据报道，周一全国电价上涨超过25% ，至每千瓦时$ 0.19 （ 31.15日元）",
@@ -528,25 +591,6 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "河北新金钢铁有限公司新港重工新金钢铁兼并重组产业升级一期项目1260立方米高炉产能减量置换方案公示",
-  "url": "https://news.mysteel.com/a/26101911/CC5A6DB0C7DB0DE1.html",
-  "summary": "",
-  "pub_time": "2026-10-19T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "ea1ece4d31f4e61c14fa946cacbeae93",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -1489,57 +1533,6 @@
    "基本金属"
   ],
   "en_title": "Middle East Chemicals Keep Their Cost Edge Despite Hormuz Crisis"
- },
- {
-  "title": "德克萨斯州研究人员称二叠纪废水可以冷却人工智能数据中心",
-  "url": "",
-  "summary": "人工智能的繁荣给世界水资源和能源带来了危险的压力。随着超大规模企业以极快的速度建设资源匮乏的数据中心，对这些有限资源的需求预测猛增的速度超出了政策制定者的跟上速度。但一项新研究",
-  "pub_time": "2026-10-17T17:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "648f7ecdb6106537f93861f2383e5694",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Texas Researchers Say Permian Wastewater Could Cool AI Data Centers"
- },
- {
-  "title": "由于天然气储备不足，欧洲准备迎接冬季能源危机",
-  "url": "",
-  "summary": "经过几个月的能源价格上涨，预计随着需求的增长，欧洲的燃料成本将在整个冬季继续上涨。持续的能源贸易限制和对整个中东能源基础设施的威胁预计将限制全球能源供应并继续推高价格",
-  "pub_time": "2026-10-17T17:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "ccce696c22dd04a66d1cf521f8b19646",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "天然气",
-   "能源"
-  ],
-  "en_title": "Europe Braces for a Winter Energy Crisis as Gas Reserves Run Low"
  },
  {
   "title": "【独家】大豆价格还能上涨多久？",
