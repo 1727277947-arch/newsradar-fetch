@@ -1,5 +1,162 @@
 [
  {
+  "title": "能源成本正在推动美国通货膨胀，而工资却跟不上",
+  "url": "",
+  "summary": "美国各地的通货膨胀率仍然居高不下。美国劳工统计局上周发布的最新消费者价格指数显示的数字高于大多数预测，表明消费者面临长期痛苦，而唐纳德·特朗普将面临噩梦般的选举周期。一个",
+  "pub_time": "2026-10-20T21:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "ca02796b731486625830b752f529dff9",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "能源"
+  ],
+  "en_title": "Energy Costs Are Driving U.S. Inflation, and Wages Aren't Keeping Up"
+ },
+ {
+  "title": "采矿业进入历史上最大的投资超级周期，加拿大能源",
+  "url": "",
+  "summary": "据《金融邮报》报道，在伦敦举行的一次活动中，霍奇森告诉与会者，“关键矿物不再仅仅是工业商品”。",
+  "pub_time": "2026-10-20T20:58:56Z",
+  "source": "Mining.com",
+  "_cat": "综合",
+  "dedup_key": "9048f16fec375960feb4194a482733f3",
+  "score": 84,
+  "priority": "P2",
+  "topic": "综合",
+  "tags": [
+   "综合",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "综合",
+   "能源"
+  ],
+  "en_title": "Mining industry entering largest investment supercycle in history, Canada’s energy minister says"
+ },
+ {
+  "title": "API：原油、产品库存继续减少",
+  "url": "",
+  "summary": "美国石油协会(API)估计，截至10月16日当周，美国原油库存减少493万桶。此前一周，美国原油库存减少了惊人的1112万桶。不包括 SPR 的商业原油库存",
+  "pub_time": "2026-10-20T20:56:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "2bee06d5e3e3728d40f0cc3d115d92b0",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "锡",
+   "库存"
+  ],
+  "en_title": "API: Crude, Product Inventories Continue to Draw"
+ },
+ {
+  "title": "CENX 的股票现已超卖",
+  "url": "",
+  "summary": "在周二的交易中，世纪铝业公司（代码：CENX）的股票进入超卖区域，换手价低至每股 33.21 美元。我们使用相对强度指数 (RSI) 定义超卖区域，这是一种用于衡量动量的技术分析指标",
+  "pub_time": "2026-10-20T20:07:39Z",
+  "source": "Nasdaq商品",
+  "_cat": "基本金属",
+  "dedup_key": "774b1035c9f507e246b6f72c1f7e4fda",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Shares of CENX Now Oversold"
+ },
+ {
+  "title": "USAS 库存挤满卖家",
+  "url": "",
+  "summary": "在周二的交易中，美洲金银公司（股票代码：USAS）的股票进入超卖区域，换手价低至每股 3.635 美元。我们使用相对强弱指数（RSI）来定义超卖区域，这是我常用的技术分析指标",
+  "pub_time": "2026-10-20T20:06:36Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "077bd9d5a41e189e7612dc10746e827b",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "库存"
+  ],
+  "en_title": "USAS Stock Crowded With Sellers"
+ },
+ {
+  "title": "中东的下一次能源繁荣与石油无关",
+  "url": "",
+  "summary": "上个月在迪拜举行的中东能源交易周会议上，一个新的中东能源系统出现了。该地区的太阳能成本世界最低，似乎具有改变各国消费和出口低碳产品能源方式的巨大潜力。 “可再生能源是",
+  "pub_time": "2026-10-20T20:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "b46b8c28e7f3b1f468ae27cbc6e3c3a4",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "原油",
+   "能源"
+  ],
+  "en_title": "The Middle East's Next Energy Boom Has Nothing to Do With Oil"
+ },
+ {
   "title": "康沃尔金属面临昂贵的融资障碍",
   "url": "",
   "summary": "该公司正在寻求为其在英国的South Crofty锡矿重启提供融资。",
@@ -448,62 +605,6 @@
    "下跌"
   ],
   "en_title": "Copper surplus masks looming $332B mine shortfall"
- },
- {
-  "title": "由于供应下降和需求坚挺，亚洲煤炭价格将保持高位",
-  "url": "",
-  "summary": "惠誉评级在一份报告中表示，由于正在进行的天然气向煤炭转换的需求增强，而中国和印度尼西亚的供应正在下降，预计未来几个月亚洲动力煤价格将保持高位。例如，最近几周中国的煤炭价格创下了三年来的新高",
-  "pub_time": "2026-10-20T12:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "467acc35b0fffa61180ee7c36c85271c",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "煤炭",
-   "价",
-   "下跌",
-   "供应",
-   "需求"
-  ],
-  "en_title": "Asia’s Coal Prices To Stay High as Supply Drops and Demand Firms"
- },
- {
-  "title": "彭博新能源财经称，铜矿需要 3,320 亿美元建设新矿以避免赤字",
-  "url": "",
-  "summary": "彭博新能源财经在其 2026 年过渡金属展望中表示，虽然到 2050 年，十分之九的关键能源过渡金属将重回正轨，提供充足的供应，但新铜矿总共需要 3,320 亿美元的投资，以避免迫在眉睫的铜短缺，从而减缓电气化进程。",
-  "pub_time": "2026-10-20T11:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "b524ce78f3911cb35e47e632fec7e883",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "Copper Needs $332 Billion in New Mines to Avoid Deficit, BloombergNEF Says"
  },
  {
   "title": "英美资源集团经受住了智利的风暴，而戴比尔斯则陷入困境",
@@ -2469,35 +2570,6 @@
    "黄金"
   ],
   "en_title": "Sudan gold rush leaves toxic legacy as war drives mining"
- },
- {
-  "title": "美洲黄金创纪录的白银产量低于预期",
-  "url": "",
-  "summary": "截至 9 月 30 日的三个月白银产量达到创纪录的 800,458 盎司，较 2025 年同季度增长 4.6%。",
-  "pub_time": "2026-10-19T14:59:00Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "652cbf493b83a887b7d5c693e76e66dd",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "白银",
-   "产量",
-   "预测"
-  ],
-  "en_title": "Americas Gold’s record silver output misses forecasts"
  },
  {
   "title": "Mysteel黑色金属例会：本周钢价或偏弱为主",
