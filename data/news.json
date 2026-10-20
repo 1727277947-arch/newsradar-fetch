@@ -1,5 +1,163 @@
 [
  {
+  "title": "布伦特原油价格回升至 110 美元，金价小幅走低",
+  "url": "",
+  "summary": "(RTTNews) - 周二金价走低，因油价上涨重新引发通胀和利率担忧。",
+  "pub_time": "2026-10-20T09:57:29Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "81b868f521d43991fc891f8d82c02eca",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "布伦特油价"
+  ],
+  "en_title": "Gold Edges Lower As Brent Returns To $110"
+ },
+ {
+  "title": "投资者权衡供应风险，油价攀升",
+  "url": "",
+  "summary": "(RTTNews) - 由于胡塞武装袭击沙特阿拉伯基础设施以及有报道称海湾地区船只遭到袭击，油价周二上涨至 5 月份以来的最高水平。",
+  "pub_time": "2026-10-20T09:41:47Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "9ab64173df29eddf074474b98e1339f9",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "走高",
+   "供应"
+  ],
+  "en_title": "Oil Prices Climb As Investors Weigh Supply Risks"
+ },
+ {
+  "title": "石油资源丰富的阿尔伯塔省在历史性公投中投票决定留在加拿大",
+  "url": "",
+  "summary": "根据周一举行的公投的初步结果，阿尔伯塔人拒绝了与加拿大分离的提议，因为选民支持联邦政府促进民族团结。加拿大广播公司新闻报道称，加拿大石油省的居民已投票决定留在加拿大",
+  "pub_time": "2026-10-20T09:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "569aa66c8bd4462635eb4c1c8cd336f0",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Oil-Rich Alberta Votes to Stay in Canada in Historic Referendum"
+ },
+ {
+  "title": "Mysteel晚餐：9月国内钢坯出口环比降超16%，澳巴铁矿港库下降",
+  "url": "https://news.mysteel.com/a/26102017/278E541BBAF0D942.html",
+  "summary": "",
+  "pub_time": "2026-10-20T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "97ff2456026ee149477c2dd7d7684444",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "关键矿产日报：工信部将修订铜铝行业规范条例",
+  "url": "https://news.mysteel.com/a/26102017/3C1A4F962AD3CD5B.html",
+  "summary": "",
+  "pub_time": "2026-10-20T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "d9a758c012bcc075ad00bd6beef0e36f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "关键矿产日报：工信部将修订铜铝行业规范条例，必和必拓铜产量回落",
+  "url": "https://news.mysteel.com/a/26102017/1A592AD1CF18A3CE.html",
+  "summary": "",
+  "pub_time": "2026-10-20T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "ba18f71bedb72e3798432ff966ca5608",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel日报：黑色金属期货震荡上涨运行",
+  "url": "https://news.mysteel.com/a/26102016/2C5CC479E52A37A3.html",
+  "summary": "",
+  "pub_time": "2026-10-20T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "d89484a3a42740ff8b8ff0df79437318",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "随着中东航运风险升级，亚洲液化天然气价格飙升至 30 美元以上",
   "url": "",
   "summary": "据彭博社今天早些时候报道，亚洲现货市场液化天然气价格自 2022 年 12 月以来首次突破每百万英热单位 30 美元。价格上涨是在也门海岸亚丁湾一艘液化天然气油轮发生袭击的报道之后发生的。英国海事贸易委员会",
@@ -25,25 +183,6 @@
    "大涨"
   ],
   "en_title": "Asian LNG Prices Surge Past $30 as Middle East Shipping Risks Escalate"
- },
- {
-  "title": "黑色持仓日报：东证期货减持5.8千手焦煤空单",
-  "url": "https://news.mysteel.com/a/26102015/5307B85E0DC5E93B.html",
-  "summary": "",
-  "pub_time": "2026-10-20T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "ba78f9063155f00c14b6c2d892cfdf53",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  },
  {
   "title": "黑色持仓日报：焦煤跌2.36%，东证期货减持5.8千手空单",
@@ -84,25 +223,6 @@
   "is_elite": false
  },
  {
-  "title": "有色持仓日报：沪铜飘绿，中信期货减持超2.2千手空单",
-  "url": "https://news.mysteel.com/a/26102015/137AD36E9847A5D3.html",
-  "summary": "",
-  "pub_time": "2026-10-20T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "036563c161b828223c68181360a11f1d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "河钢乐亭钢铁增资38亿元",
   "url": "https://news.mysteel.com/a/26102015/1B6C936D5F7232AC.html",
   "summary": "",
@@ -129,6 +249,25 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "b7f3048e07c756b304812e49a5381f52",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "有色持仓日报：沪铜飘绿，中信期货减持超2.2千手空单",
+  "url": "https://news.mysteel.com/a/26102015/0338D7CCAFFA4D38.html",
+  "summary": "",
+  "pub_time": "2026-10-20T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "036563c161b828223c68181360a11f1d",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -2110,33 +2249,6 @@
   "en_title": "Sudan gold rush leaves toxic legacy as war drives mining"
  },
  {
-  "title": "伊拉克10月石油出口量突破每日340万桶，接近战前水平",
-  "url": "",
-  "summary": "伊拉克石油部长巴塞姆·穆罕默德·胡代尔周一对国家通讯社INA表示，10月份迄今为止，伊拉克石油出口量平均每天超过340万桶。这使它们接近伊拉克战争前通过霍尔木兹海峡运输的 3.3-350 万桶/日的产量。",
-  "pub_time": "2026-10-19T15:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "6ec07b47009caef73bdaa96fd016deab",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "出口"
-  ],
-  "en_title": "Iraq's October Oil Exports Top 3.4 Million Bpd, Nearing Pre-War Levels"
- },
- {
   "title": "美洲黄金创纪录的白银产量低于预期",
   "url": "",
   "summary": "截至 9 月 30 日的三个月白银产量达到创纪录的 800,458 盎司，较 2025 年同季度增长 4.6%。",
@@ -2266,13 +2378,13 @@
   "en_title": "Oil Prices Edge Lower After Russia Sanctions Waiver"
  },
  {
-  "title": "Mysteel晚餐：金融监管部门负责人发声，全球铁矿石发运量增加",
-  "url": "https://news.mysteel.com/a/26101917/4A46D471D025348C.html",
+  "title": "每日钢市：焦炭首轮提涨，期钢尾盘翻绿，钢价反弹受阻",
+  "url": "https://news.mysteel.com/a/26101917/E50E700547C50F6F.html",
   "summary": "",
   "pub_time": "2026-10-19T09:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "9ce15f1fb1bf3f0ea42d8cae547246c4",
+  "dedup_key": "0fb82b79c328a6de9736709b933e9cdb",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -2286,31 +2398,12 @@
  },
  {
   "title": "关键矿产日报：山西炼焦煤矿山复产加速，甘其毛都口岸通关车数将提升",
-  "url": "https://news.mysteel.com/a/26101917/EA9D693792DAD4EE.html",
+  "url": "https://news.mysteel.com/a/26101917/99BB87F2C5284099.html",
   "summary": "",
   "pub_time": "2026-10-19T09:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "166ebca4a9d09956d655b7080a63e746",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "每日钢市：焦炭首轮提涨，期钢尾盘翻绿，钢价反弹受阻",
-  "url": "https://news.mysteel.com/a/26101917/E50E700547C50F6F.html",
-  "summary": "",
-  "pub_time": "2026-10-19T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "0fb82b79c328a6de9736709b933e9cdb",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
