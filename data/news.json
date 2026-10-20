@@ -2211,25 +2211,6 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel周报：汽车原材料价格（10.12-10.18)",
-  "url": "https://news.mysteel.com/a/26101918/DAFFB0B9B6070507.html",
-  "summary": "",
-  "pub_time": "2026-10-19T10:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "2e887e0fdf33a03c066b0a8d20c3f757",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/产业经济",
-  "tags": [
-   "产业经济",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "随着油价、收益率下跌，黄金边缘上升",
   "url": "",
   "summary": "（ RTTNews ） -由于市场对10月美联储加息的预期下降，周一黄金小幅上涨。",
@@ -2425,25 +2406,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "013c5af4587090a5697aa35a39d67534",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel午报：钢价上涨为主，铁矿石期货涨超1%",
-  "url": "https://news.mysteel.com/a/26101911/17C112AA49990432.html",
-  "summary": "",
-  "pub_time": "2026-10-19T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "2867269c4da0748369fac54ca0a7fed9",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
