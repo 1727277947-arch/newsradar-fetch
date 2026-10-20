@@ -1,5 +1,62 @@
 [
  {
+  "title": "Mysteel解读：再生铝的低碳红利兑现，但废铝供给缺口仍是核心矛盾",
+  "url": "https://news.mysteel.com/a/26102012/F14C3EA68A681CE2.html",
+  "summary": "",
+  "pub_time": "2026-10-20T04:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "57864ec06ff7c9dd189235b7966e755d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel午报：钢价局部下跌，黑色期货飘绿",
+  "url": "https://news.mysteel.com/a/26102011/3941FF7A34CD7B5F.html",
+  "summary": "",
+  "pub_time": "2026-10-20T03:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "7ac9c53ca0592c55d4daefb9092d0dad",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "螺纹钢期货下跌，钢价或涨跌有限",
+  "url": "https://news.mysteel.com/a/26102011/7F92A152AF4E80E8.html",
+  "summary": "",
+  "pub_time": "2026-10-20T03:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "e26afc0f2b21b3c668db18a18cc0a475",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "Mysteel周报：10大城市新房成交环比增长35.6%",
   "url": "https://news.mysteel.com/a/26102010/C71C9CA2B4588F7F.html",
   "summary": "",
@@ -20,7 +77,7 @@
  },
  {
   "title": "前沿日报：九部门发文推进科技兴商，AI赋能钢铁行业国家标准发布",
-  "url": "https://news.mysteel.com/a/26102010/78D2A4AFDDC7F6D7.html",
+  "url": "https://news.mysteel.com/a/26102010/10422A5D729404CC.html",
   "summary": "",
   "pub_time": "2026-10-20T02:00:00Z",
   "source": "上海钢联Mysteel",
@@ -72,44 +129,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "198fab2db208ae65182e2c1203b95479",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel调研：国产钛矿供需博弈 探析区域矿企异同-山东篇",
-  "url": "https://news.mysteel.com/a/26102009/2C7FBE5815C91A0C.html",
-  "summary": "",
-  "pub_time": "2026-10-20T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "2bb0da4fb2372b7ac090bee1f45f1748",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色期货早报：全部下跌，多机构料螺纹钢震荡运行",
-  "url": "https://news.mysteel.com/a/26102009/37C8D635C5EF5690.html",
-  "summary": "",
-  "pub_time": "2026-10-20T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "7a1c21874dbb0e70746910d5f115afd5",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -369,6 +388,25 @@
   "is_elite": false
  },
  {
+  "title": "黑色期货早报：全部下跌，多机构料螺纹钢震荡运行",
+  "url": "https://news.mysteel.com/a/26102009/3E7FD8A4EAB218AC.html",
+  "summary": "",
+  "pub_time": "2026-10-20T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "7a1c21874dbb0e70746910d5f115afd5",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "每日市场快讯 2026 年 10 月 20 日",
   "url": "",
   "summary": "小麦、玉米和油籽合约在隔夜交易中收盘走低，持续的降雨给昆士兰州和新南威尔士州北部收成的质量前景带来了困扰。",
@@ -524,25 +562,6 @@
   "en_title": "BOM weekly rainfall update 20 October 2026 + outlook"
  },
  {
-  "title": "Mysteel早读：金融监管部门重磅发声",
-  "url": "https://news.mysteel.com/a/26102007/43A190ED57CC4EB4.html",
-  "summary": "",
-  "pub_time": "2026-10-19T23:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "bcf53d4198804b3d5328420d653f5323",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "钢铁行业相关国家标准发布",
   "url": "https://news.mysteel.com/a/26102007/8EC93E90D22488D3.html",
   "summary": "",
@@ -582,7 +601,7 @@
  },
  {
   "title": "人工智能赋能钢铁行业相关国家标准发布",
-  "url": "https://news.mysteel.com/a/26102007/8EC93E90D22488D3.html",
+  "url": "https://news.mysteel.com/a/26102007/6AF664E9930491C5.html",
   "summary": "",
   "pub_time": "2026-10-19T23:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1042,6 +1061,25 @@
   "is_elite": false
  },
  {
+  "title": "2026年10月20日大连豆粕期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/20/3839268187.shtml",
+  "summary": "",
+  "pub_time": "2026-10-19T16:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "0449e163c332846dfa0405c44e5a9be5",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年10月20日大连豆粕期货行情早报",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/20/0258163636.shtml",
   "summary": "",
@@ -1080,13 +1118,13 @@
   "is_elite": false
  },
  {
-  "title": "2026年10月20日大连玉米期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/20/0518924964.shtml",
+  "title": "2026年10月20日大连玉米期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/20/3805862926.shtml",
   "summary": "",
   "pub_time": "2026-10-19T16:00:00Z",
   "source": "粮油玉米",
   "_cn": true,
-  "dedup_key": "d10cbd05d3179262895c17ab465f15e0",
+  "dedup_key": "0b349a196b37f260404b800b9c58dea2",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1099,13 +1137,13 @@
   "is_elite": false
  },
  {
-  "title": "美国玉米现货下跌，因天气有利于收获加快",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/20/3026352131.shtml",
+  "title": "2026年10月20日大连大豆期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/20/3749992622.shtml",
   "summary": "",
   "pub_time": "2026-10-19T16:00:00Z",
-  "source": "粮油玉米",
+  "source": "粮油大豆",
   "_cn": true,
-  "dedup_key": "239f9f9b8f5468305208c91c1be037ca",
+  "dedup_key": "72af36c3d1f52260ab798c380d4e1173",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1113,26 +1151,7 @@
    "大宗商品",
    "中文",
    "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
-  "title": "CBOT玉米跌至两个多月低点，因收获进展迅速",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/20/0554368322.shtml",
-  "summary": "",
-  "pub_time": "2026-10-19T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "9a370d08e28464136f0c9491ffc0e919",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
+   "粮油大豆"
   ],
   "is_elite": false
  },
@@ -1244,6 +1263,63 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年10月20日大连棕榈油期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/20/3944305395.shtml",
+  "summary": "",
+  "pub_time": "2026-10-19T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "f20c298b58aee7af1bcc8fe709a3c6d3",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年10月20日郑州菜油期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/20/3233277586.shtml",
+  "summary": "",
+  "pub_time": "2026-10-19T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "23611e3a49a1d4ead0909c93b7fd863d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年10月20日大连豆油期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/20/3140138673.shtml",
+  "summary": "",
+  "pub_time": "2026-10-19T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "18e515879d34059481eab3424ebfc049",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "粮油首页"
@@ -1365,6 +1441,82 @@
   "is_elite": false
  },
  {
+  "title": "2026年10月20日大连玉米期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/20/0518924964.shtml",
+  "summary": "",
+  "pub_time": "2026-10-19T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "294a1d4ef2aee7ef45682d5e36a738a2",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "美国玉米现货下跌，因天气有利于收获加快",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/20/3026352131.shtml",
+  "summary": "",
+  "pub_time": "2026-10-19T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "c594833b9178a9a357c8afc643b5c6da",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT玉米跌至两个多月低点，因收获进展迅速",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/20/0554368322.shtml",
+  "summary": "",
+  "pub_time": "2026-10-19T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "0629437e3ad3840d76ccc1464c97aada",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年10月20日郑州菜粕期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/20/3318188942.shtml",
+  "summary": "",
+  "pub_time": "2026-10-19T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "8c62048c45508401fdf128b8d50c7ed9",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年10月20日郑州菜粕期货行情早报",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/20/0223618279.shtml",
   "summary": "",
@@ -1441,6 +1593,25 @@
   "is_elite": false
  },
  {
+  "title": "2026年10月20日大连粳米期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/20/4218692292.shtml",
+  "summary": "",
+  "pub_time": "2026-10-19T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "748efac071ea59840dff553c2b887c2d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年10月20日大连粳米期货行情早报",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/20/0302399971.shtml",
   "summary": "",
@@ -1472,6 +1643,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "尽管胡塞武装袭击沙特基础设施，布伦特原油仍小幅走低",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/20/0315112807.shtml",
+  "summary": "",
+  "pub_time": "2026-10-19T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "10a27d71c7343ba8ab7ad40630d076b2",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "粮油首页"
@@ -1664,25 +1854,6 @@
    "铜"
   ],
   "en_title": "Copper-hungry US buyers circle Ivanhoe Electric mine"
- },
- {
-  "title": "工信部公开征求《钢铁行业 质量大数据分析系统技术要求》等69项行业标准计划项目意见",
-  "url": "https://news.mysteel.com/a/26101920/126F866D59134D2F.html",
-  "summary": "",
-  "pub_time": "2026-10-19T12:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "3d7e632ab06cf60d2d89affc987251f7",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  },
  {
   "title": "Mysteel黑色金属例会：本周钢价或偏弱为主",
@@ -2194,9 +2365,9 @@
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/19/0425368910.shtml",
   "summary": "",
   "pub_time": "2026-10-18T16:00:00Z",
-  "source": "粮油大豆",
+  "source": "粮油首页",
   "_cn": true,
-  "dedup_key": "49cd758459e39b1a78a7de81ca5afc58",
+  "dedup_key": "4e21354b54616acaa5c6eaffd1129ea0",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -2204,7 +2375,7 @@
    "大宗商品",
    "中文",
    "国内",
-   "粮油大豆"
+   "粮油首页"
   ],
   "is_elite": false
  },
@@ -2342,25 +2513,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年10月19日大连豆油期货行情午报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/19/3248446610.shtml",
-  "summary": "",
-  "pub_time": "2026-10-18T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "ec5c9042a708d86f57db02534f8d3b2e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年10月19日郑州菜油期货行情早报",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/19/1437159241.shtml",
   "summary": "",
@@ -2368,44 +2520,6 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "ac3bdcad51645681f1b2c99bdaa867be",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月19日大连豆油期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/19/1351666500.shtml",
-  "summary": "",
-  "pub_time": "2026-10-18T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "7a7204ced427cdd1d971bf121f3dd60a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月19日大连棕榈油期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/19/0328543517.shtml",
-  "summary": "",
-  "pub_time": "2026-10-18T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "c3ac215184fa0aed0f5966542b66a367",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -2615,6 +2729,44 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "3a8209c12a4c10c614e79f1ba6831dee",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年10月19日大连豆油期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/19/1351666500.shtml",
+  "summary": "",
+  "pub_time": "2026-10-18T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "7a7204ced427cdd1d971bf121f3dd60a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年10月19日大连棕榈油期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/19/0328543517.shtml",
+  "summary": "",
+  "pub_time": "2026-10-18T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "c3ac215184fa0aed0f5966542b66a367",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
