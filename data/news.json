@@ -1,5 +1,60 @@
 [
  {
+  "title": "汇丰银行预计霍尔木兹将在五年内变得多余",
+  "url": "",
+  "summary": "银行业巨头汇丰集团首席执行官乔治·埃尔赫德里 (Georges Elhedery) 周二在迪拜举行的 2026 年汇丰未来论坛上表示，加快将石油运出中东的替代路线计划可能会使霍尔木兹海峡在五年内变得“多余”。 “当然，我们确实希望并希望看到",
+  "pub_time": "2026-10-20T13:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "7567c1ca3e4bc018338c7269cf398a7f",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "HSBC Sees Hormuz Becoming Redundant in Five Years"
+ },
+ {
+  "title": "由于供应下降和需求坚挺，亚洲煤炭价格将保持高位",
+  "url": "",
+  "summary": "惠誉评级在一份报告中表示，由于正在进行的天然气向煤炭转换的需求增强，而中国和印度尼西亚的供应正在下降，预计未来几个月亚洲动力煤价格将保持高位。例如，最近几周中国的煤炭价格创下了三年来的新高",
+  "pub_time": "2026-10-20T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "467acc35b0fffa61180ee7c36c85271c",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "煤炭",
+   "价",
+   "下跌",
+   "供应",
+   "需求"
+  ],
+  "en_title": "Asia’s Coal Prices To Stay High as Supply Drops and Demand Firms"
+ },
+ {
   "title": "彭博新能源财经称，铜矿需要 3,320 亿美元建设新矿以避免赤字",
   "url": "",
   "summary": "彭博新能源财经在其 2026 年过渡金属展望中表示，虽然到 2050 年，十分之九的关键能源过渡金属将重回正轨，提供充足的供应，但新铜矿总共需要 3,320 亿美元的投资，以避免迫在眉睫的铜短缺，从而减缓电气化进程。",
@@ -24,6 +79,31 @@
    "铜"
   ],
   "en_title": "Copper Needs $332 Billion in New Mines to Avoid Deficit, BloombergNEF Says"
+ },
+ {
+  "title": "英美资源集团经受住了智利的风暴，而戴比尔斯则陷入困境",
+  "url": "",
+  "summary": "极端天气影响了智利的铜产量，而钻石价格疲软则使该矿商对戴比尔斯的撤资计划变得更加复杂。",
+  "pub_time": "2026-10-20T10:51:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "daf51c76e45d169930fc28fff63824a8",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Anglo American weathers Chile’s storms while De Beers struggles"
  },
  {
   "title": "布伦特原油价格回升至 110 美元，金价小幅走低",
@@ -218,25 +298,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "a4bf4e01c01cf1efea29443ad8c89216",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "工信部：将修订铜、铝等行业规范条例 坚决遏制低水平重复建设",
-  "url": "https://news.mysteel.com/a/26102015/61A6F85D239C7906.html",
-  "summary": "",
-  "pub_time": "2026-10-20T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "6ab5dce8c7cf288d312dd74449884990",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1157,31 +1218,6 @@
   "en_title": "Digital gold could triple by 2031, WGC estimates"
  },
  {
-  "title": "霍尔木兹危机打击工业，巴基斯坦经济增长放缓",
-  "url": "",
-  "summary": "中东危机正威胁着巴基斯坦在国际货币基金组织（IMF）帮助下从崩溃边缘试探性复苏，因为能源价格飙升和卡塔尔缺乏定期液化天然气供应导致国内生产总值（GDP）增长远低于分析师的预期。巴基斯坦欧共体",
-  "pub_time": "2026-10-19T17:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "5cfa8d70d3226760263958419128bddb",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Pakistan’s Growth Slows as Hormuz Crisis Hits Industry"
- },
- {
   "title": "沃尔沃将成立采矿部门以满足全球设备需求",
   "url": "",
   "summary": "新部门将从 2027 年开始向该行业提供设备和自主技术。",
@@ -1206,32 +1242,6 @@
    "需求"
   ],
   "en_title": "Volvo to launch mining division to meet global equipment demand"
- },
- {
-  "title": "为什么在全球原油飙升的情况下加拿大石油却表现落后",
-  "url": "",
-  "summary": "周五，在美国中央司令部（CENTCOM）确认伊朗革命卫队（IRGC）在霍尔木兹海峡进行炮弹袭击后，一艘悬挂新加坡国旗的集装箱船沉没后，油价恢复了上涨轨道。 Brent crude for December delivery jumped",
-  "pub_time": "2026-10-19T17:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "d8d0abfbbba5238e11115d5abc454e2b",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Why Canadian Oil Is Lagging Even As Global Crude Soars"
  },
  {
   "title": "分析师最爱：自由港麦克莫兰铜金公司被列为首选金属",
