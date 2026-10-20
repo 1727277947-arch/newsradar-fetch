@@ -1,5 +1,89 @@
 [
  {
+  "title": "不吃压力，吃好饭：十月稻田×伊利把“暂停”还给年轻人",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717745.shtml",
+  "summary": "你有多久，没有专心吃完一顿饭了？当“能量补给”取代了好好吃饭，当“效率焦虑”连周末都不肯退场，吃饭这件最日常的事，正悄悄从生活常态退化为日程表上需要挤时间完成的待办。在2026年新米上市之际，家庭食品创新品牌十月稻田携手国民乳业头部品牌伊利开启跨界合作，共同释出一句生活主张——“不吃压力，吃好饭”。一碗新米饭配一杯好牛奶，是中国家庭餐桌上最朴素也最完整的一组结构：一个提供踏实的能量，一个补足优质的营养。两个扎根民生产业的品牌走到一起，要回答的是同一个命题——如何让“好好吃饭”回到生活本身",
+  "pub_time": "2026-10-20T05:43:13Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "24c91a5d4c3f9b820091653eb5e28bd8",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "沈彬：当前宏观环境复杂多变，钢铁行业盈利承压成为常态",
+  "url": "https://news.mysteel.com/a/26102013/1BDDD9195B7B21D9.html",
+  "summary": "",
+  "pub_time": "2026-10-20T05:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "7c3924d4912be631a1371473b5c19008",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "铜陵景昌5000毫米宽厚板精轧机机架一次浇注成功",
+  "url": "https://news.mysteel.com/a/26102013/48B61BEB826F5C1B.html",
+  "summary": "",
+  "pub_time": "2026-10-20T05:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "29d22e6f01530876142b6c3399d5932a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "布伦特突破110 $ ，因为油轮袭击威胁到波斯湾的供应",
+  "url": "",
+  "summary": "原油价格今天继续攀升，布伦特原油价格当天早些时候再次突破每桶110 $ ， WTI回升至100 $以上，因为交易员对波斯湾正常石油流出的恢复越来越悲观。在撰写本文时，布伦特原油的交易价格为每桶109.68 $",
+  "pub_time": "2026-10-20T04:56:06Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "6a8ecff5402c8bc143eeb5948398bad4",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "布伦特油价",
+   "供应"
+  ],
+  "en_title": "Brent Tops $110 as Tanker Attacks Threaten Persian Gulf Supply"
+ },
+ {
   "title": "Mysteel解读：再生铝的低碳红利兑现，但废铝供给缺口仍是核心矛盾",
   "url": "https://news.mysteel.com/a/26102012/F14C3EA68A681CE2.html",
   "summary": "",
@@ -458,44 +542,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "e1a27a20cbd4ca81466cb728227e2a34",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "双重利空压制，焦煤期货跌至逾两个月新低",
-  "url": "https://news.mysteel.com/a/26102008/22CF11B0A79A82DD.html",
-  "summary": "",
-  "pub_time": "2026-10-20T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "b87d0bcfc90344219fe2e17f626f5acc",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "新世纪期货：缺乏需求引擎，焦煤价格重心下移",
-  "url": "https://news.mysteel.com/a/26102008/E93D7749CD80E518.html",
-  "summary": "",
-  "pub_time": "2026-10-20T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "70983889a728695021f28cc248b79167",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1803,31 +1849,6 @@
    "天然气"
   ],
   "en_title": "Mozambique Pitches Sasol and ROMPCO on $250 Million Gas Project"
- },
- {
-  "title": "随着与乌克兰的裂痕加深，特朗普捍卫俄罗斯制裁豁免",
-  "url": "",
-  "summary": "唐纳德·特朗普总统为自己放弃针对俄罗斯的全面制裁的决定辩护，认为这是为了让莫斯科留在谈判桌上，而基辅和一些美国议员强烈批评此举向克里姆林宫发出了错误的信息。特朗普于10月1日晚签署了一项行政命令",
-  "pub_time": "2026-10-19T13:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "092424bcd836413af5ef494c698415e1",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Trump Defends Russia Sanctions Waiver as Rift With Ukraine Deepens"
  },
  {
   "title": "渴求铜的美国买家包围艾芬豪电气矿",
