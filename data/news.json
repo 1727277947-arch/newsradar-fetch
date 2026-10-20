@@ -1,5 +1,32 @@
 [
  {
+  "title": "随着中东航运风险升级，亚洲液化天然气价格飙升至 30 美元以上",
+  "url": "",
+  "summary": "据彭博社今天早些时候报道，亚洲现货市场液化天然气价格自 2022 年 12 月以来首次突破每百万英热单位 30 美元。价格上涨是在也门海岸亚丁湾一艘液化天然气油轮发生袭击的报道之后发生的。英国海事贸易委员会",
+  "pub_time": "2026-10-20T07:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "7d169c0bc6030f91239c555a0684def5",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "价",
+   "大涨"
+  ],
+  "en_title": "Asian LNG Prices Surge Past $30 as Middle East Shipping Risks Escalate"
+ },
+ {
   "title": "不吃压力，吃好饭：十月稻田×伊利把“暂停”还给年轻人",
   "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717745.shtml",
   "summary": "你有多久，没有专心吃完一顿饭了？当“能量补给”取代了好好吃饭，当“效率焦虑”连周末都不肯退场，吃饭这件最日常的事，正悄悄从生活常态退化为日程表上需要挤时间完成的待办。在2026年新米上市之际，家庭食品创新品牌十月稻田携手国民乳业头部品牌伊利开启跨界合作，共同释出一句生活主张——“不吃压力，吃好饭”。一碗新米饭配一杯好牛奶，是中国家庭餐桌上最朴素也最完整的一组结构：一个提供踏实的能量，一个补足优质的营养。两个扎根民生产业的品牌走到一起，要回答的是同一个命题——如何让“好好吃饭”回到生活本身",
@@ -85,7 +112,7 @@
  },
  {
   "title": "Mysteel解读：再生铝的低碳红利兑现，但废铝供给缺口仍是核心矛盾",
-  "url": "https://news.mysteel.com/a/26102012/F14C3EA68A681CE2.html",
+  "url": "https://news.mysteel.com/a/26102012/85A34D7E832B1E1F.html",
   "summary": "",
   "pub_time": "2026-10-20T04:00:00Z",
   "source": "上海钢联Mysteel",
@@ -646,25 +673,6 @@
   "is_elite": false
  },
  {
-  "title": "人工智能赋能钢铁行业相关国家标准发布",
-  "url": "https://news.mysteel.com/a/26102007/6AF664E9930491C5.html",
-  "summary": "",
-  "pub_time": "2026-10-19T23:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "5cea74f4d14d05e5462a211f3693235b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "由于输电落后，英国支付创纪录的金额来平衡电网",
   "url": "",
   "summary": "在向净零经济转型方面，英国是最雄心勃勃的国家之一。此外，英国正在努力应对欧洲最高的电价，并且需要支付大量费用来维持电网平衡，即使其风力发电装置正在产生大量电力。",
@@ -1107,6 +1115,25 @@
   "is_elite": false
  },
  {
+  "title": "2026年10月20日浙江地区豆粕价格行情汇总",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/20/1856181463.shtml",
+  "summary": "",
+  "pub_time": "2026-10-19T16:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "89ba517671ef646190f2407a89f8ccd1",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年10月20日大连豆粕期货行情午报",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/20/3839268187.shtml",
   "summary": "",
@@ -1160,25 +1187,6 @@
    "中文",
    "国内",
    "粮油豆粕"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月20日大连玉米期货行情午报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/20/3805862926.shtml",
-  "summary": "",
-  "pub_time": "2026-10-19T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "0b349a196b37f260404b800b9c58dea2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
   ],
   "is_elite": false
  },
@@ -1480,6 +1488,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年10月20日大连玉米期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/20/3805862926.shtml",
+  "summary": "",
+  "pub_time": "2026-10-19T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "e0664d8d975b2bee91849d0f86478428",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "粮油首页"
@@ -1823,32 +1850,6 @@
    "预测"
   ],
   "en_title": "Americas Gold’s record silver output misses forecasts"
- },
- {
-  "title": "莫桑比克向 Sasol 和 ROMPCO 推介 2.5 亿美元的天然气项目",
-  "url": "",
-  "summary": "莫桑比克正在与南非能源公司Sasol和管道公司ROMPCO讨论可能投资莫桑比克海上一个价值2.5亿美元的新天然气项目，该项目可以向南非输送更多天然气。莫桑比克计划在新项目建造浮动储存和再气化装置（FSRU）",
-  "pub_time": "2026-10-19T14:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "fa5041dab00946c161dfc6e0fc25c848",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气"
-  ],
-  "en_title": "Mozambique Pitches Sasol and ROMPCO on $250 Million Gas Project"
  },
  {
   "title": "渴求铜的美国买家包围艾芬豪电气矿",
@@ -2363,25 +2364,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年10月19日大连豆粕期货行情午报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/19/3334942275.shtml",
-  "summary": "",
-  "pub_time": "2026-10-18T16:00:00Z",
-  "source": "粮油豆粕",
-  "_cn": true,
-  "dedup_key": "8ae0854bc7a5a7fb07989632efa835d7",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油豆粕"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年10月19日大连大豆期货收盘高开收跌",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/19/0425368910.shtml",
   "summary": "",
@@ -2655,6 +2637,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "f2e6d987ec5dce7571a3837b181f6fa0",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年10月19日大连豆粕期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/19/3334942275.shtml",
+  "summary": "",
+  "pub_time": "2026-10-18T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "bd72b8ab1753109d0d74a7a85208f4bc",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
