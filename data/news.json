@@ -1,5 +1,31 @@
 [
  {
+  "title": "研究旨在加速小麦和大麦育种",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-10-20T17:28:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "c6e389d5829c9c131ea6aea1665ecd9d",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "小麦"
+  ],
+  "en_title": "Research Aims to Accelerate Wheat and Barley Breeding"
+ },
+ {
   "title": "雪佛龙收购俄罗斯最有价值的伊拉克油田",
   "url": "",
   "summary": "早在二月份，美国石油和天然气巨头雪佛龙就与伊拉克石油部签署了四项初步协议，这突显出从那时起，华盛顿决心重新获得在伊拉克的影响力，它认为该影响力至少与任何其他主要中东国家一样重要。",
@@ -52,6 +78,32 @@
    "产量"
   ],
   "en_title": "Russia’s Oil Export Revenue Slides as Production Declines"
+ },
+ {
+  "title": "嘉能可扫清了秘鲁铜矿扩张的关键障碍",
+  "url": "",
+  "summary": "土地协议推动 Coroccohuayco 迈向 2029 年初创公司的目标，该矿商寻求延长 Antapaccay 在秘鲁的运营寿命。",
+  "pub_time": "2026-10-20T16:18:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "058d2694464273005fe796213842e67f",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜"
+  ],
+  "en_title": "Glencore clears key hurdle for Peru copper expansion"
  },
  {
   "title": "下一次重大石油供应冲击可能来自沙特阿拉伯",
@@ -2390,32 +2442,6 @@
    "预测"
   ],
   "en_title": "Americas Gold’s record silver output misses forecasts"
- },
- {
-  "title": "渴求铜的美国买家包围艾芬豪电气矿",
-  "url": "",
-  "summary": "随着人工智能和电网需求的加速，提前承购谈判可能有助于为亚利桑那州价值 14 亿美元的圣克鲁斯铜矿项目提供资金。",
-  "pub_time": "2026-10-19T12:03:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "63477611b0ef0ce6690773c602c91443",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "Copper-hungry US buyers circle Ivanhoe Electric mine"
  },
  {
   "title": "Mysteel黑色金属例会：本周钢价或偏弱为主",
