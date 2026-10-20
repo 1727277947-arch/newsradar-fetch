@@ -1,24 +1,5 @@
 [
  {
-  "title": "甘肃庆阳：一颗苹果的“数字风味”",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717815.shtml",
-  "summary": "高文)19日，甘肃庆阳市西峰区彭原镇鄢旗坳村，庆阳苹果智慧分选仓储中心里机器嗡嗡作响。八通道水洗AI智慧分选线满负荷运转，苹果先清洗，再进入光学检测，0.5秒内糖度、色泽、果径、瑕疵、成熟度、霉心病等12项指标一一读出，糖度误差不超过0.2%",
-  "pub_time": "2026-10-20T07:15:06Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "7f1211a5d65e8a8b4e5eaac2a2e0f984",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
   "title": "随着中东航运风险升级，亚洲液化天然气价格飙升至 30 美元以上",
   "url": "",
   "summary": "据彭博社今天早些时候报道，亚洲现货市场液化天然气价格自 2022 年 12 月以来首次突破每百万英热单位 30 美元。价格上涨是在也门海岸亚丁湾一艘液化天然气油轮发生袭击的报道之后发生的。英国海事贸易委员会",
@@ -1381,6 +1362,25 @@
   "is_elite": false
  },
  {
+  "title": "10月20日进口油菜籽到国内港口CF报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/20/3842893466.shtml",
+  "summary": "",
+  "pub_time": "2026-10-19T16:00:00Z",
+  "source": "粮油菜籽",
+  "_cn": true,
+  "dedup_key": "e7ab4e9a49d8237ee624ef802287bb72",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "ICE油菜籽追随外部市场下跌",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/20/0830351233.shtml",
   "summary": "",
@@ -1488,6 +1488,44 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "10月20日进口阿根廷豆油及加拿大菜籽油CF报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/20/3747376636.shtml",
+  "summary": "",
+  "pub_time": "2026-10-19T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "e9670116fc7594a7f9b25eecf370b0b4",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "10月20日马来西亚棕榈油10月船期FOB报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/20/3714200371.shtml",
+  "summary": "",
+  "pub_time": "2026-10-19T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "81bf0c2bcb5d0ac0a35f0f8803d557cb",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
    "中文",
    "国内",
    "粮油首页"
@@ -1730,25 +1768,6 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "342407f44ecaadfac817940cfecdd81c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "CBOT豆油下跌，基准期约收低0.7%",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/20/0524777349.shtml",
-  "summary": "",
-  "pub_time": "2026-10-19T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "53e358f60a63ffb802301852f4b767a1",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -2039,6 +2058,25 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT豆油下跌，基准期约收低0.7%",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/20/0524777349.shtml",
+  "summary": "",
+  "pub_time": "2026-10-19T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "53e358f60a63ffb802301852f4b767a1",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
    "中文",
    "国内",
    "粮油首页"
