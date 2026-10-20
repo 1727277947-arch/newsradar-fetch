@@ -1,5 +1,31 @@
 [
  {
+  "title": "彭博新能源财经称，铜矿需要 3,320 亿美元建设新矿以避免赤字",
+  "url": "",
+  "summary": "彭博新能源财经在其 2026 年过渡金属展望中表示，虽然到 2050 年，十分之九的关键能源过渡金属将重回正轨，提供充足的供应，但新铜矿总共需要 3,320 亿美元的投资，以避免迫在眉睫的铜短缺，从而减缓电气化进程。",
+  "pub_time": "2026-10-20T11:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "b524ce78f3911cb35e47e632fec7e883",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜"
+  ],
+  "en_title": "Copper Needs $332 Billion in New Mines to Avoid Deficit, BloombergNEF Says"
+ },
+ {
   "title": "布伦特原油价格回升至 110 美元，金价小幅走低",
   "url": "",
   "summary": "(RTTNews) - 周二金价走低，因油价上涨重新引发通胀和利率担忧。",
@@ -1206,36 +1232,6 @@
    "原油"
   ],
   "en_title": "Why Canadian Oil Is Lagging Even As Global Crude Soars"
- },
- {
-  "title": "燃油价格上涨 58%，加拿大通胀率升至 3.1%",
-  "url": "",
-  "summary": "加拿大统计局周一表示，由于中东战争导致燃油价格居高不下，汽油和燃料油导致加拿大 9 月份的年通胀率从 8 月份的 3.0% 上升至 3.1%。尽管转向更便宜的汽油价格，但汽油价格仍较上年同期上涨 27.8%，高于 8 月份的 22.8%",
-  "pub_time": "2026-10-19T16:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "309e2281b64e9153eb7539ac740d113e",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "燃料",
-   "价",
-   "上涨",
-   "跳涨"
-  ],
-  "en_title": "Canada's Inflation Rises to 3.1% as Fuel Oil Prices Jump 58%"
  },
  {
   "title": "分析师最爱：自由港麦克莫兰铜金公司被列为首选金属",
