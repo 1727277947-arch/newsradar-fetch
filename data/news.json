@@ -1,60 +1,53 @@
 [
  {
-  "title": "国家知识产权局：第十五届专交会11月初在无锡举办将突出国际化",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718660.shtml",
-  "summary": "记者 孙自法)国家知识产权局新闻发言人、办公室主任衡付广10月21日在北京宣布，由国家知识产权局主办的第十五届中国国际专利技术与产品交易会(专交会)，将于11月初在江苏无锡举办，这是中国国际专利技术与产品交易会与中国国际设计博览会整合后首次落地江苏",
-  "pub_time": "2026-10-21T11:26:24Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "a640729b2446fabe066c1d93b17ec476",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
+  "title": "俄罗斯将于周四向美国发送第一艘柴油油轮",
+  "url": "",
+  "summary": "据塔斯社和总理报道，俄罗斯副总理亚历山大·诺瓦克周三对记者表示，根据唐纳德·特朗普总统和弗拉基米尔·普京总统之间的协议，俄罗斯将于周四向美国派遣第一艘柴油油轮。诺瓦克没有透露该港口的名称。他给出的油轮排水量为40,000",
+  "pub_time": "2026-10-21T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "18122e49fe48a88182e657ebb970c523",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
   "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
-  "title": "第34届深圳礼品家居展开启年末采购黄金期",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718659.shtml",
-  "summary": "记者 索有为)第34届中国(深圳)国际礼品及家居用品展览会20日在深圳国际会展中心(宝安)开幕。展会整体规模近30万平方米，汇聚4500家优质展商，现场展出超100万款创意礼品与家居用品，预计展期内将接待超30万人次全球买家到场参观采购",
-  "pub_time": "2026-10-21T11:25:26Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "db1b0059cdd5ece7593323061efa3089",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
+   "基本金属",
    "大宗商品",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
   ],
-  "is_elite": false
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Russia to Send First Diesel Tanker to U.S. on Thursday"
  },
  {
-  "title": "沈联涛：香港可做中国走向世界“中间人”，战略价值将愈发凸显",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718651.shtml",
-  "summary": "中新社北京10月21日电 (记者 吕少威 郎佳慧 迟瀚宇)2026金融街论坛年会正在北京举行。国家金融监督管理总局国际咨询委员会委员、香港证券及期货事务监察委员会前主席沈联涛接受中新社记者专访时表示，随着中国经济规模扩大和金融开放稳步推进，香港正从过去世界通往中国的窗口，转变为中国走向世界的重要窗口",
-  "pub_time": "2026-10-21T11:10:44Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "6a72912455a9f322fd5cd21741d9a00c",
-  "score": 80,
+  "title": "第一量子在堪三西的扩建超出了设计容量",
+  "url": "",
+  "summary": "随着新加工设施提高产量，赞比亚铜矿业务的目标是到 2026 年矿石吞吐量达到 2700 万吨。",
+  "pub_time": "2026-10-21T10:50:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "419da9476653c089a5924c5095240729",
+  "score": 84,
   "priority": "P1",
-  "topic": "国内/财经",
+  "topic": "基本金属",
   "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
   ],
-  "is_elite": false
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "First Quantum’s Kansanshi expansion beats design capacity"
  },
  {
   "title": "随着能源危机加深，英国批准寒鸦气田",
@@ -1174,32 +1167,6 @@
   "en_title": "USAS Stock Crowded With Sellers"
  },
  {
-  "title": "中东的下一次能源繁荣与石油无关",
-  "url": "",
-  "summary": "上个月在迪拜举行的中东能源交易周会议上，一个新的中东能源系统出现了。该地区的太阳能成本世界最低，似乎具有改变各国消费和出口低碳产品能源方式的巨大潜力。 “可再生能源是",
-  "pub_time": "2026-10-20T20:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "b46b8c28e7f3b1f468ae27cbc6e3c3a4",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "原油",
-   "能源"
-  ],
-  "en_title": "The Middle East's Next Energy Boom Has Nothing to Do With Oil"
- },
- {
   "title": "康沃尔金属面临昂贵的融资障碍",
   "url": "",
   "summary": "该公司正在寻求为其在英国的South Crofty锡矿重启提供融资。",
@@ -1278,33 +1245,6 @@
    "原油"
   ],
   "en_title": "Crude Oil Slumps Amid Reports Of Possible U.S.-Iran Deal"
- },
- {
-  "title": "随着欧洲进入冬季，挪威天然气产量暴跌12.6%",
-  "url": "",
-  "summary": "根据挪威海上管理局（ NOD ）周二公布的初步数据，挪威9月份的石油和天然气产量大幅下降，天然气产量比8月份下降了12.6%。石油总产量平均约为377万桶石油当量",
-  "pub_time": "2026-10-20T18:31:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "4ab4253e9770fb816f87c376b512d938",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气",
-   "产量"
-  ],
-  "en_title": "Norway's Gas Production Plunges 12.6% as Europe Heads into Winter"
  },
  {
   "title": "在中东紧张局势持续存在的情况下金价下跌，有报道称美伊即将达成协议",
@@ -2782,32 +2722,6 @@
    "小麦"
   ],
   "en_title": "Tanzania Researchers Trained to Detect Wheat Blast Threat"
- },
- {
-  "title": "世界黄金协会估计，到 2031 年，数字黄金可能会增加两倍",
-  "url": "",
-  "summary": "黄金行业的机会正在触及现有金条和交易所交易基金客户之外的买家。",
-  "pub_time": "2026-10-19T17:45:50Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "ccdf7e152d6d8664215dfd21b573652b",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Digital gold could triple by 2031, WGC estimates"
  },
  {
   "title": "分析师最爱：自由港麦克莫兰铜金公司被列为首选金属",
