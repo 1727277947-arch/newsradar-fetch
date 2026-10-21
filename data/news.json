@@ -1,5 +1,90 @@
 [
  {
+  "title": "随着电力需求激增，印度的煤炭危机加深",
+  "url": "",
+  "summary": "据路透社报道，印度发电厂正在为煤炭供应紧缩做准备，该国一半的燃煤电厂车队以极低的库存运营，理由是每年这个时候天气比平时暖和，对电力的需求高于平时。多达96个煤炭",
+  "pub_time": "2026-10-21T08:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "adec51b2d087136458bdd679dd68e240",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "煤炭",
+   "大涨",
+   "需求"
+  ],
+  "en_title": "India’s Coal Crisis Deepens as Power Demand Surges"
+ },
+ {
+  "title": "美国战略原油储备量降至1982年10月以来最低水平",
+  "url": "https://news.mysteel.com/a/26102116/2FBC6BACEDB9A709.html",
+  "summary": "",
+  "pub_time": "2026-10-21T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "0c0dd56d0d342797a7ee932d99b31110",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "印尼减产预期推动镍价突破每吨16,000美元",
+  "url": "https://news.mysteel.com/a/26102116/EDF42958236BB131.html",
+  "summary": "",
+  "pub_time": "2026-10-21T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "08e8b7c182dbb0c1bbe5f1536ccf235f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "全联冶金商会秘书长石洪卫莅临中天钢铁集团调研指导",
+  "url": "https://news.mysteel.com/a/26102116/4FEF66A4D3892618.html",
+  "summary": "",
+  "pub_time": "2026-10-21T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "f672c8bb2ffc742785e837f5de23ad04",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "随着价格飙升，特朗普政府敦促炼油厂提高柴油产量",
   "url": "",
   "summary": "据路透社援引美国能源部两名高级官员的消息报道，美国能源部已呼吁炼油厂进一步提高柴油产量。报道称，正在与美国和国外的炼油厂进行谈判。这是最新的举措",
@@ -242,25 +327,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "0361b7a1fd0ca5225bfe68e5599da7d4",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "盐城市联鑫钢铁优特钢升级改造项目生态环境影响报告书获批",
-  "url": "https://news.mysteel.com/a/26102111/9CA529F055433184.html",
-  "summary": "",
-  "pub_time": "2026-10-21T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "4f12e51381951bd802a751080dd3aaeb",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1104,34 +1170,6 @@
    "原油"
   ],
   "en_title": "Chevron Moves to Take Over Russia's Most Prized Iraqi Oil Field"
- },
- {
-  "title": "俄罗斯石油出口收入因产量下降而下滑",
-  "url": "",
-  "summary": "彭博社汇编的油轮跟踪数据显示，在波罗的海普里莫尔斯克港的发货停止数天后，俄罗斯海运原油出口降至一个月来的最低四周平均水平。截至 10 月 18 日的四个星期内，平均每天出口 359 万桶",
-  "pub_time": "2026-10-20T16:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "00e3b4cb4a0b97aa72d214f124b52ea3",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "下滑",
-   "产量"
-  ],
-  "en_title": "Russia’s Oil Export Revenue Slides as Production Declines"
  },
  {
   "title": "嘉能可扫清了秘鲁铜矿扩张的关键障碍",
