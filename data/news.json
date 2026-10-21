@@ -1,5 +1,133 @@
 [
  {
+  "title": "随着能源危机加深，英国批准寒鸦气田",
+  "url": "",
+  "summary": "英国政府周三批准了拖延已久的寒鸦气田，这是自伊朗战争导致能源价格上涨以来首次批准新的北海项目。在英国能源大臣同意后，寒鸦将从本月底开始向英国家庭和企业供应天然气。",
+  "pub_time": "2026-10-21T10:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "93e2333bf286a33fb36c5ce3cc656199",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "天然气",
+   "能源"
+  ],
+  "en_title": "UK Approves Jackdaw Gas Field as Energy Crisis Deepens"
+ },
+ {
+  "title": "黄金交易低迷，变化不大",
+  "url": "",
+  "summary": "(RTTNews) - 周三金价保持稳定，因美联储 10 月加息的预期降低，以及对法国和意大利内乱加剧的担忧。",
+  "pub_time": "2026-10-21T10:09:17Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "0c11cfd0806450eea5ca63193346c6a3",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Gold Little Changed In Lackluster Trade"
+ },
+ {
+  "title": "交易商权衡中东供应风险，油价攀升",
+  "url": "",
+  "summary": "(RTTNews) - 周三油价走高，因投资者权衡结束美伊战争的努力的相互矛盾的信号。",
+  "pub_time": "2026-10-21T09:42:56Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "d3d119f137b38be456a0622a55620854",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "走高",
+   "供应"
+  ],
+  "en_title": "Oil Prices Climb As Traders Weigh Middle East Supply Risks"
+ },
+ {
+  "title": "高盛警告油轮运价飙升将引发新一轮油价冲击",
+  "url": "",
+  "summary": "高盛表示，由于伊朗战争和霍尔木兹危机引发了一场不太可能很快结束的航运危机，全球石油运输平均运费已从去年的每桶 3 美元飙升至每桶 20 美元。石油运输费率在短期内将继续保持高位",
+  "pub_time": "2026-10-21T09:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "贵金属",
+  "dedup_key": "6898ba76ca146f63249773f2c2d46964",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "原油",
+   "价"
+  ],
+  "en_title": "Goldman Sachs Warns of New Oil Price Shock as Tanker Rates Soar"
+ },
+ {
+  "title": "Mysteel晚餐：1-9月全国分省市粗钢产量出炉",
+  "url": "https://news.mysteel.com/a/26102117/C518AFFE543324B9.html",
+  "summary": "",
+  "pub_time": "2026-10-21T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "fadc1c5e0a9e9d463e86be5ef898014d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "关键矿产日报：Sherritt拟重启古巴镍矿运营",
   "url": "https://news.mysteel.com/a/26102117/716C5C7D27056D3C.html",
   "summary": "",
@@ -12,6 +140,25 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel晚餐：1-9月全国分省市粗钢产量出炉，唐山钢坯继续亏损",
+  "url": "https://news.mysteel.com/a/26102117/DA6C789B243C422F.html",
+  "summary": "",
+  "pub_time": "2026-10-21T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "43581b285eae2fa608e441c594c05ae6",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -111,6 +258,25 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "f672c8bb2ffc742785e837f5de23ad04",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel日报：黑色金属期货价格震荡上涨运行",
+  "url": "https://news.mysteel.com/a/26102116/6EAE2CE27B674529.html",
+  "summary": "",
+  "pub_time": "2026-10-21T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "26df882534f5f2c8e5048ce9a1760516",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1111,34 +1277,6 @@
   "en_title": "Gold Dips Amid Persisting Middle East Tensions, Reports Of An Imminent U.S.-Iran Deal"
  },
  {
-  "title": "尽管存在能源危机，欧盟仍坚决反对北极石油和天然气钻探",
-  "url": "",
-  "summary": "欧盟周二重申反对北极石油和天然气开发，尽管该集团正准备迎接又一个昂贵的冬季，天然气储存枯竭，价格接近2022年能源危机期间的水平。欧盟委员会的新北极战略呼吁",
-  "pub_time": "2026-10-20T17:45:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "0b6d3df55bd621ea5f1ddb51831b4c89",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "原油",
-   "天然气",
-   "能源",
-   "走强"
-  ],
-  "en_title": "EU Stands Firm Against Arctic Oil and Gas Drilling Despite Energy Crisis"
- },
- {
   "title": "研究旨在加速小麦和大麦育种",
   "url": "",
   "summary": "",
@@ -1163,32 +1301,6 @@
    "小麦"
   ],
   "en_title": "Research Aims to Accelerate Wheat and Barley Breeding"
- },
- {
-  "title": "雪佛龙收购俄罗斯最有价值的伊拉克油田",
-  "url": "",
-  "summary": "早在二月份，美国石油和天然气巨头雪佛龙就与伊拉克石油部签署了四项初步协议，这突显出从那时起，华盛顿决心重新获得在伊拉克的影响力，它认为该影响力至少与任何其他主要中东国家一样重要。",
-  "pub_time": "2026-10-20T17:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "c8a2e4d1cb6e0106ac0058feac11a50b",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Chevron Moves to Take Over Russia's Most Prized Iraqi Oil Field"
  },
  {
   "title": "嘉能可扫清了秘鲁铜矿扩张的关键障碍",
@@ -1327,25 +1439,6 @@
    "中文",
    "国内",
    "粮油豆粕"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月21日大连玉米期货收盘高开收跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/21/0409355872.shtml",
-  "summary": "",
-  "pub_time": "2026-10-20T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "c20b3357465f38c1d098e092715c0786",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
   ],
   "is_elite": false
  },
@@ -1799,6 +1892,25 @@
   "topic": "国内/贸易外经",
   "tags": [
    "贸易外经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年10月21日大连玉米期货收盘高开收跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/21/0409355872.shtml",
+  "summary": "",
+  "pub_time": "2026-10-20T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "2b508cc8ca3bdae91aa668987456369d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "粮油首页"
@@ -3370,52 +3482,5 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "Mysteel黑色金属例会：本周钢价或偏弱为主",
-  "url": "https://news.mysteel.com/a/26101918/E3B2DD4769CA4EF2.html",
-  "summary": "",
-  "pub_time": "2026-10-19T10:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "b7cf7da0363cc543996ad9b1c8f54b2e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "随着油价、收益率下跌，黄金边缘上升",
-  "url": "",
-  "summary": "（ RTTNews ） -由于市场对10月美联储加息的预期下降，周一黄金小幅上涨。",
-  "pub_time": "2026-10-19T09:36:12Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "94164a2b6480594d5bf241ce83ffcf71",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "原油",
-   "价"
-  ],
-  "en_title": "Gold Edges Up As Oil Prices, Yields Dip"
  }
 ]
