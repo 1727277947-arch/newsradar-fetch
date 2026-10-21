@@ -1,5 +1,60 @@
 [
  {
+  "title": "沙特原油出口创五个月新高，产量跌至历史新低",
+  "url": "",
+  "summary": "据路透社报道，联合组织数据倡议(JODI)周三显示，沙特阿拉伯8月份原油出口量较7月份增长约7.9%，达到445.1万桶/日，为3月份以来的最高水平，而其石油产量则降至624万桶/日的历史新低。产量为 8.135 毫",
+  "pub_time": "2026-10-21T17:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "538565b70bc13499dae0bf13d5ae387b",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "下跌",
+   "产量",
+   "出口"
+  ],
+  "en_title": "Saudi Crude Exports Hit Five-Month High as Production Falls to Record Low"
+ },
+ {
+  "title": "玉米种植者敦促制定长期解决方案以及 80 亿美元的救助计划",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-10-21T17:21:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "0d2ec12a9b2ed8bec04678660da22172",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "玉米"
+  ],
+  "en_title": "Corn Growers Urge Long-Term Solutions Alongside $8 Billion Relief Program"
+ },
+ {
   "title": "经过多年的法律斗争，英国批准了北海主要天然气田",
   "url": "",
   "summary": "在与环保人士进行多年的法律纠纷后，北海的一个主要天然气田已获得政府重新批准。 Jackdaw 项目是位于阿伯丁以东 150 英里的大型海上天然气田，已获得政府的正式批准，预计将",
@@ -104,6 +159,33 @@
   "en_title": "Endurance Gold expands Reliance zones amid PEA work"
  },
  {
+  "title": "矿业论坛视频：Stöferle 发现黄金便宜但准备好现金",
+  "url": "",
+  "summary": "总部位于列支敦士登的 Incrementum 黄金基金经理 Ronald-Peter Stöferle 认为，在金价回调后，矿业股很便宜，尽管他的积极黄金策略持有近 40% 的现金。该策略的投资信号转变...矿业论坛后视频：Stöferle 发现黄金便宜，但保留现金",
+  "pub_time": "2026-10-21T15:18:21Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "cca9865c1209eee997805305c942e5fa",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "走强"
+  ],
+  "en_title": "Mining Forum video: Stöferle spots gold bargains but keeps cash ready"
+ },
+ {
   "title": "EIA称美国原油库存进一步下降",
   "url": "",
   "summary": "美国能源信息署(EIA)周三公布的最新数据显示，截至10月16日当周，美国原油库存减少310万桶。据政府称，这一减少使商业库存达到 4.125 亿桶",
@@ -129,33 +211,6 @@
    "库存"
   ],
   "en_title": "EIA Says US Crude Inventories Sink Further"
- },
- {
-  "title": "美国原油库存下降幅度超过预期，延续近期的低迷状态",
-  "url": "",
-  "summary": "(RTTNews) - 美国能源情报署周三发布的一份报告显示，截至 10 月 16 日当周，美国原油库存持续下滑。",
-  "pub_time": "2026-10-21T14:36:54Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "4ea369faccbc24e388b2f46592ffc908",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "库存"
-  ],
-  "en_title": "U.S. Crude Oil Inventories Decrease More Than Expected, Extending Recent Slump"
  },
  {
   "title": "石油供应增加给中东原油基准带来压力",
@@ -208,6 +263,31 @@
    "铜"
   ],
   "en_title": "Hudbay, Mitsubishi OK $2.1B Copper World project"
+ },
+ {
+  "title": "峰会视频：Kodiak 测试 MPD 资源可以增加多少",
+  "url": "",
+  "summary": "Kodiak Copper（TSXV：KDK；US-OTC：KDKCF）的目标是在不列颠哥伦比亚省南部的 MPD 铜金项目中获得更大的资源。首席执行官克劳迪娅·托恩奎斯特 (Claudia Tornquist) 表示，到 3 月份。最近在 Ketchan 进行钻探……峰会后视频：Kodiak 测试 MPD 资源可以获得多大程度的提升首先出现在 The Northern Mine 上",
+  "pub_time": "2026-10-21T14:20:53Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "d2432b97d8ca83fb3aa2b3c3dd845e1d",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Summit video: Kodiak tests how much bigger MPD resource can get"
  },
  {
   "title": "俄罗斯将于周四向美国发送第一艘柴油油轮",
@@ -309,61 +389,6 @@
    "能源"
   ],
   "en_title": "UK Approves Jackdaw Gas Field as Energy Crisis Deepens"
- },
- {
-  "title": "黄金交易低迷，变化不大",
-  "url": "",
-  "summary": "(RTTNews) - 周三金价保持稳定，因美联储 10 月加息的预期降低，以及对法国和意大利内乱加剧的担忧。",
-  "pub_time": "2026-10-21T10:09:17Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "0c11cfd0806450eea5ca63193346c6a3",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Gold Little Changed In Lackluster Trade"
- },
- {
-  "title": "交易商权衡中东供应风险，油价攀升",
-  "url": "",
-  "summary": "(RTTNews) - 周三油价走高，因投资者权衡结束美伊战争的努力的相互矛盾的信号。",
-  "pub_time": "2026-10-21T09:42:56Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "d3d119f137b38be456a0622a55620854",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "走高",
-   "供应"
-  ],
-  "en_title": "Oil Prices Climb As Traders Weigh Middle East Supply Risks"
  },
  {
   "title": "高盛警告油轮运价飙升将引发新一轮油价冲击",
@@ -734,35 +759,6 @@
    "预测"
   ],
   "en_title": "GIAV tour forecasts monster barley crop to eclipse wheat"
- },
- {
-  "title": "由于中东供应担忧持续存在，油价攀升至 110 美元以上",
-  "url": "",
-  "summary": "由于交易商继续担心中东资金流出的稳定性，今天早些时候原油价格小幅走高，延续了周二的涨势。截至撰写本文时，布伦特原油价格为每桶 110.30 美元，西德克萨斯中质原油价格为每桶 99.12 美元，两者均上涨超过 1%。",
-  "pub_time": "2026-10-21T05:11:27Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "788f60b1314843c014bd32d2050dfcef",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "走高",
-   "供应"
-  ],
-  "en_title": "Oil Prices Climb Above $110 as Middle East Supply Fears Persist"
  },
  {
   "title": "随着南部收获加速，邦吉在南澳州和西澳州收货",
@@ -2720,58 +2716,6 @@
    "展望"
   ],
   "en_title": "BOM weekly rainfall update 20 October 2026 + outlook"
- },
- {
-  "title": "渴求铜的美国买家包围艾芬豪电气矿",
-  "url": "",
-  "summary": "艾芬豪电气 (NYSE-A, TSX: IE) 正在就出售其位于亚利桑那州价值 14 亿美元的圣克鲁斯项目中的铜进行高级谈判，因为人工智能基础设施和电网的需求激增......",
-  "pub_time": "2026-10-19T20:55:00Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "e58300d9690f103cf8ec026c4662a103",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "Copper-hungry US buyers circle Ivanhoe Electric mine"
- },
- {
-  "title": "世界黄金协会估计，到 2031 年，数字黄金可能会增加两倍",
-  "url": "",
-  "summary": "世界黄金协会和波士顿咨询集团估计，如果供应商能够赢得投资者的信任，到 2031 年，数字黄金可能会为金条带来 950 亿美元（1,350 亿加元）的新资金。世界黄金协会估计，到 2031 年，数字黄金可能会增加两倍。",
-  "pub_time": "2026-10-19T20:50:00Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "f659958deeea7aba33e6267bb56d556b",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Digital gold could triple by 2031, WGC estimates"
  },
  {
   "title": "坦桑尼亚研究人员接受培训以检测小麦瘟疫威胁",
