@@ -1,5 +1,59 @@
 [
  {
+  "title": "花旗石油看涨期权 60 美元兑布伦特原油价格 112 美元",
+  "url": "",
+  "summary": "尽管中东原油出口有所恢复，花旗仍认为油价上行风险更大，该银行的悲观评估要少得多，三个月前该银行还预测布伦特原油价格到年底将达到 60 至 65 美元。布伦特 12 月期货周四触及 111.70 美元，上涨 2.88 美元，涨幅 2.65%",
+  "pub_time": "2026-10-22T17:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "df4b9c33b67bf52dd20c6ba55ab678f7",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "布伦特油价"
+  ],
+  "en_title": "Citi’s $60 Oil Call Meets $112 Brent"
+ },
+ {
+  "title": "美国许可：环境审查改革可能会加快矿山审批速度，但存在障碍",
+  "url": "",
+  "summary": "针对环境审查、诉讼期限和用水许可的全面两党立法可能会重塑美国采矿项目的开发方式。",
+  "pub_time": "2026-10-22T17:24:54Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "9bbb6bdd7b5a32c9552bc6f388f04a16",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡",
+   "生铁"
+  ],
+  "en_title": "US permitting: Environmental review overhaul could speed mine approvals, but hurdles remain"
+ },
+ {
   "title": "美国小麦行业与全球买家分享 2026 年农作物质量数据",
   "url": "",
   "summary": "",
@@ -1299,33 +1353,6 @@
   "is_elite": false
  },
  {
-  "title": "铝放弃战争溢价，铜保持高位",
-  "url": "",
-  "summary": "伦敦金属交易所2026周于周一在伦敦拉开帷幕，行业领导者重点关注贱金属、人工智能和能源转型需求的宏观经济前景，以及关键的矿产供应链弹性。今年的讨论恰逢伦敦金属交易所强劲复苏之际",
-  "pub_time": "2026-10-22T00:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "ff46f348bc28ddc0e9e179dda3f53944",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "铝"
-  ],
-  "en_title": "Aluminium Gives Up Its War Premium, Copper Stays Elevated"
- },
- {
   "title": "锡盟前三季度重点项目完成投资365亿元",
   "url": "https://news.mysteel.com/a/26102208/F02616B77FA90D8E.html",
   "summary": "",
@@ -2443,59 +2470,6 @@
   "en_title": "Mining Forum video: Stöferle spots gold bargains but keeps cash ready"
  },
  {
-  "title": "美国原油库存下降幅度超过预期，延续近期的低迷状态",
-  "url": "",
-  "summary": "(RTTNews) - 美国能源情报署周三发布的一份报告显示，截至 10 月 16 日当周，美国原油库存持续下滑。",
-  "pub_time": "2026-10-21T14:36:54Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "4ea369faccbc24e388b2f46592ffc908",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "库存"
-  ],
-  "en_title": "U.S. Crude Oil Inventories Decrease More Than Expected, Extending Recent Slump"
- },
- {
-  "title": "Hudbay ，三菱批准铜世界建设",
-  "url": "",
-  "summary": "此举为美国最大的新铜矿之一在2029年下半年开始生产扫清了道路。",
-  "pub_time": "2026-10-21T14:23:33Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "eb1e51173e120375226009127f560b6e",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "Hudbay, Mitsubishi approve Copper World construction"
- },
- {
   "title": "峰会视频：Kodiak 测试 MPD 资源可以增加多少",
   "url": "",
   "summary": "Kodiak Copper（TSXV：KDK；US-OTC：KDKCF）的目标是在不列颠哥伦比亚省南部的 MPD 铜金项目中获得更大的资源。首席执行官克劳迪娅·托恩奎斯特 (Claudia Tornquist) 表示，到 3 月份。最近在 Ketchan 进行钻探……峰会后视频：Kodiak 测试 MPD 资源可以获得多大程度的提升首先出现在 The Northern Mine 上",
@@ -2519,86 +2493,6 @@
    "贵金属"
   ],
   "en_title": "Summit video: Kodiak tests how much bigger MPD resource can get"
- },
- {
-  "title": "Fortescue在性骚扰调查后解雇了高管",
-  "url": "",
-  "summary": "在更广泛的行业审查中发现不当行为后，澳大利亚矿业巨头终止了一名高级领导人的合同。",
-  "pub_time": "2026-10-21T11:54:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "df3596df9f2ec68e9df6df1e375a99b3",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Fortescue fires executive after sexual harassment probe"
- },
- {
-  "title": "黄金交易低迷，变化不大",
-  "url": "",
-  "summary": "(RTTNews) - 周三金价保持稳定，因美联储 10 月加息的预期降低，以及对法国和意大利内乱加剧的担忧。",
-  "pub_time": "2026-10-21T10:09:17Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "0c11cfd0806450eea5ca63193346c6a3",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Gold Little Changed In Lackluster Trade"
- },
- {
-  "title": "交易商权衡中东供应风险，油价攀升",
-  "url": "",
-  "summary": "(RTTNews) - 周三油价走高，因投资者权衡结束美伊战争的努力的相互矛盾的信号。",
-  "pub_time": "2026-10-21T09:42:56Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "d3d119f137b38be456a0622a55620854",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "走高",
-   "供应"
-  ],
-  "en_title": "Oil Prices Climb As Traders Weigh Middle East Supply Risks"
  },
  {
   "title": "Mysteel晚餐：1-9月全国分省市粗钢产量出炉，唐山钢坯继续亏损",
@@ -3118,31 +3012,5 @@
    "锡"
   ],
   "en_title": "Gold Dips Amid Persisting Middle East Tensions, Reports Of An Imminent U.S.-Iran Deal"
- },
- {
-  "title": "研究旨在加速小麦和大麦育种",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-10-20T17:28:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "c6e389d5829c9c131ea6aea1665ecd9d",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "小麦"
-  ],
-  "en_title": "Research Aims to Accelerate Wheat and Barley Breeding"
  }
 ]
