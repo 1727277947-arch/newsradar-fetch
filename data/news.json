@@ -1,5 +1,90 @@
 [
  {
+  "title": "伊朗声称油价飙升导致七艘船只在波斯湾被击中",
+  "url": "",
+  "summary": "伊朗伊斯兰革命卫队（IRGC）海军周四声称，过去一天，包括油轮在内的七艘船只在波斯湾遭到伊朗军队的袭击或触雷，本周该地区的紧张局势再次加剧。伊斯兰革命卫队海军表示，其部队已",
+  "pub_time": "2026-10-22T09:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "47ed554c7bd1ce1584bbd51870f4641c",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "大涨"
+  ],
+  "en_title": "Iran Claims Seven Ships Hit in Persian Gulf as Oil Prices Surge"
+ },
+ {
+  "title": "Mysteel晚餐：炼焦煤矿山产量增加，钢材总库存下降",
+  "url": "https://news.mysteel.com/a/26102217/EED5177576DC830D.html",
+  "summary": "",
+  "pub_time": "2026-10-22T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "65764c4f2e4f635fa72dc114922ff96e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：一图看懂特斯拉Optimus人形机器人量产计划",
+  "url": "https://news.mysteel.com/a/26102217/36803D685AFC2F86.html",
+  "summary": "",
+  "pub_time": "2026-10-22T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "7bfd4b6c0b32e8935a1666594b5ee142",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：本周钢材社会库存减少23.15万吨（10月16日-10月22日）",
+  "url": "https://news.mysteel.com/a/26102217/6F3804999FF210C7.html",
+  "summary": "",
+  "pub_time": "2026-10-22T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "2fc458539eebff1fb052d317cf8a6bc5",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "电力危机迫在眉睫，印度煤炭供应量创历史新高",
   "url": "",
   "summary": "据路透社援引新德里能源部一位不愿透露姓名的高级官员的话说，印度发电厂的煤炭供应正在增加，并将很快恢复正常。这位官员还表示，目前燃煤电厂日发电量为260万吨，创历史新高。时间",
@@ -24,25 +109,6 @@
    "煤炭"
   ],
   "en_title": "India Ramps Up Coal Supplies to Record High as Power Crisis Looms"
- },
- {
-  "title": "关键矿产日报：福德士河铁矿石产量公布",
-  "url": "https://news.mysteel.com/a/26102216/47FB5255D5FE3996.html",
-  "summary": "",
-  "pub_time": "2026-10-22T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "f0bf54cdaca605ed6e7d06db7a202877",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  },
  {
   "title": "关键矿产日报：福德士河铁矿石产量公布，马来西亚首次批准出口稀土原料",
@@ -95,6 +161,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel日报：黑色金属期货价格震荡下跌运行",
+  "url": "https://news.mysteel.com/a/26102216/9FE6EE02042427D7.html",
+  "summary": "",
+  "pub_time": "2026-10-22T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "31f834ba0a5f271cd4cbd0126e13ded0",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -179,46 +264,8 @@
   "en_title": "Iran’s Oil Reserves Run Dry as U.S. Naval Blockade Tightens"
  },
  {
-  "title": "有色持仓日报：沪铜跌1.26%，国泰君安减持超2.5千手多单",
-  "url": "https://news.mysteel.com/a/26102215/26C397C4C1CE90DD.html",
-  "summary": "",
-  "pub_time": "2026-10-22T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "af41fcc1e394b8bcc51cd4bc53662269",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色持仓日报：铁矿石跌1.62%，中信期货增持近6.7千手空单",
-  "url": "https://news.mysteel.com/a/26102215/AA3A3F01EC19E6D1.html",
-  "summary": "",
-  "pub_time": "2026-10-22T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "6830d9ec68da6f1fb33ffd0f7bb01d99",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel：2026年双碳政策密集落地，钢铁行业迈入降碳攻坚新阶段",
-  "url": "https://news.mysteel.com/a/26102215/3373B5362DC48DAB.html",
+  "url": "https://news.mysteel.com/a/26102215/BB218ACD26029F86.html",
   "summary": "",
   "pub_time": "2026-10-22T07:00:00Z",
   "source": "上海钢联Mysteel",
@@ -243,6 +290,44 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "d890c3a7e158d7a65edce396fad38f1e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "黑色持仓日报：铁矿石跌1.62%，中信期货增持近6.7千手空单",
+  "url": "https://news.mysteel.com/a/26102215/1F3E7BBEBE7F372A.html",
+  "summary": "",
+  "pub_time": "2026-10-22T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "6830d9ec68da6f1fb33ffd0f7bb01d99",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "有色持仓日报：沪铜跌1.26%，国泰君安减持超2.5千手多单",
+  "url": "https://news.mysteel.com/a/26102215/43D2EFF43D3ECF78.html",
+  "summary": "",
+  "pub_time": "2026-10-22T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "af41fcc1e394b8bcc51cd4bc53662269",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -928,7 +1013,7 @@
  },
  {
   "title": "Mysteel早读：沙钢中天最新调价，福德士河三季度铁矿石产量公布",
-  "url": "https://news.mysteel.com/a/26102207/82476D86F1D3A9BD.html",
+  "url": "https://news.mysteel.com/a/26102207/0EDB7A1AF58F6118.html",
   "summary": "",
   "pub_time": "2026-10-21T23:00:00Z",
   "source": "上海钢联Mysteel",
@@ -2079,32 +2164,6 @@
   "is_elite": false
  },
  {
-  "title": "印度最大的国有炼油厂将减少中东定期石油采购",
-  "url": "",
-  "summary": "据了解印度的匿名消息人士透露，由于该地区供应存在不确定性，印度最大的国有炼油商印度石油公司 (IOC) 将小幅减少从明年 3 月开始的 2027/2028 财年年度定期交易中购买的中东原油数量，原因是该地区的供应存在不确定性。",
-  "pub_time": "2026-10-21T15:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "22333941337fe984415327d046e4081c",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "India’s Top State Refiner to Reduce Middle East Term Oil Purchases"
- },
- {
   "title": "随着 PEA 工作的进行，Endurance Gold 扩大了 Reliance 的区域",
   "url": "",
   "summary": "最新的钻探可以帮助 Endurance 扩大 Reliance 的初始黄金资源，同时推进该项目的初步经济评估 (PEA)。",
@@ -2156,6 +2215,33 @@
    "走强"
   ],
   "en_title": "Mining Forum video: Stöferle spots gold bargains but keeps cash ready"
+ },
+ {
+  "title": "美国原油库存下降幅度超过预期，延续近期的低迷状态",
+  "url": "",
+  "summary": "(RTTNews) - 美国能源情报署周三发布的一份报告显示，截至 10 月 16 日当周，美国原油库存持续下滑。",
+  "pub_time": "2026-10-21T14:36:54Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "4ea369faccbc24e388b2f46592ffc908",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "库存"
+  ],
+  "en_title": "U.S. Crude Oil Inventories Decrease More Than Expected, Extending Recent Slump"
  },
  {
   "title": "Hudbay ，三菱批准铜世界建设",
@@ -2315,7 +2401,7 @@
  },
  {
   "title": "Mysteel晚餐：1-9月全国分省市粗钢产量出炉，唐山钢坯继续亏损",
-  "url": "https://news.mysteel.com/a/26102117/8EF546E958E46829.html",
+  "url": "https://news.mysteel.com/a/26102117/C518AFFE543324B9.html",
   "summary": "",
   "pub_time": "2026-10-21T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -2334,7 +2420,7 @@
  },
  {
   "title": "关键矿产日报：Sherritt拟重启古巴镍矿运营，Al Taweelah铝厂已复产50%",
-  "url": "https://news.mysteel.com/a/26102117/1D37A4E68ACA5B48.html",
+  "url": "https://news.mysteel.com/a/26102117/BB7EB65F6ACC0D5C.html",
   "summary": "",
   "pub_time": "2026-10-21T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -3164,25 +3250,6 @@
   "is_elite": false
  },
  {
-  "title": "10月21日24度棕榈油国内各港口交货价格上涨",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/21/5720992987.shtml",
-  "summary": "",
-  "pub_time": "2026-10-20T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "d991d3f0ce1fde7061a23c3e4712aecf",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年10月21日郑州菜油期货收盘低开收跌",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/21/0608117310.shtml",
   "summary": "",
@@ -3675,61 +3742,5 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "布伦特原油价格回升至 110 美元，金价小幅走低",
-  "url": "",
-  "summary": "(RTTNews) - 周二金价走低，因油价上涨重新引发通胀和利率担忧。",
-  "pub_time": "2026-10-20T09:57:29Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "81b868f521d43991fc891f8d82c02eca",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "布伦特油价"
-  ],
-  "en_title": "Gold Edges Lower As Brent Returns To $110"
- },
- {
-  "title": "投资者权衡供应风险，油价攀升",
-  "url": "",
-  "summary": "(RTTNews) - 由于胡塞武装袭击沙特阿拉伯基础设施以及有报道称海湾地区船只遭到袭击，油价周二上涨至 5 月份以来的最高水平。",
-  "pub_time": "2026-10-20T09:41:47Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "9ab64173df29eddf074474b98e1339f9",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "走高",
-   "供应"
-  ],
-  "en_title": "Oil Prices Climb As Investors Weigh Supply Risks"
  }
 ]
