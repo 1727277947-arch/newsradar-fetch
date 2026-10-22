@@ -1,5 +1,24 @@
 [
  {
+  "title": "2026中国国际珠宝展开幕 中宝协：线上消费和新兴市场出口大增",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719132.shtml",
+  "summary": "2026中国国际珠宝展22日在京开幕。中国珠宝玉石首饰行业协会(中宝协)同期发布的数据显示，2026年上半年，中国珠宝行业销售额在金价高位波动、消费结构持续分化背景下实现同比增长，线上渠道已成为重要“增长引擎”。2025年，行业出口额大幅增长，俄罗斯、中东国家等新兴市场增长强劲",
+  "pub_time": "2026-10-22T08:30:04Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "b493a3c7934ffb4fbc76ec49673bd23f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/产业经济",
+  "tags": [
+   "产业经济",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "电力危机迫在眉睫，印度煤炭供应量创历史新高",
   "url": "",
   "summary": "据路透社援引新德里能源部一位不愿透露姓名的高级官员的话说，印度发电厂的煤炭供应正在增加，并将很快恢复正常。这位官员还表示，目前燃煤电厂日发电量为260万吨，创历史新高。时间",
@@ -2238,6 +2257,61 @@
    "基本金属"
   ],
   "en_title": "First Quantum’s Kansanshi expansion beats design capacity"
+ },
+ {
+  "title": "黄金交易低迷，变化不大",
+  "url": "",
+  "summary": "(RTTNews) - 周三金价保持稳定，因美联储 10 月加息的预期降低，以及对法国和意大利内乱加剧的担忧。",
+  "pub_time": "2026-10-21T10:09:17Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "0c11cfd0806450eea5ca63193346c6a3",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Gold Little Changed In Lackluster Trade"
+ },
+ {
+  "title": "交易商权衡中东供应风险，油价攀升",
+  "url": "",
+  "summary": "(RTTNews) - 周三油价走高，因投资者权衡结束美伊战争的努力的相互矛盾的信号。",
+  "pub_time": "2026-10-21T09:42:56Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "d3d119f137b38be456a0622a55620854",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "走高",
+   "供应"
+  ],
+  "en_title": "Oil Prices Climb As Traders Weigh Middle East Supply Risks"
  },
  {
   "title": "Mysteel晚餐：1-9月全国分省市粗钢产量出炉，唐山钢坯继续亏损",
