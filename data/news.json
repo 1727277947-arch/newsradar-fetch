@@ -45,6 +45,25 @@
   "is_elite": false
  },
  {
+  "title": "铜、塑料、黑料全在涨！家电厂商还能扛多久？",
+  "url": "https://news.mysteel.com/a/26102214/881A148F702112A3.html",
+  "summary": "",
+  "pub_time": "2026-10-22T06:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "cfffedfd6e433fc1710a77e6eb0d97f0",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "胡塞武装袭击沙特目标，油价飙升至 111 美元以上",
   "url": "",
   "summary": "原油价格今日延续早前涨幅，在中东最新报道称胡塞武装对沙特目标发动更多袭击后，布伦特原油价格维持在每桶 111 美元以上。美国联邦政府要求沙特非紧急人员离开的命令促成了",
@@ -2512,25 +2531,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年10月21日大连豆粕期货行情午报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/21/3330661952.shtml",
-  "summary": "",
-  "pub_time": "2026-10-20T16:00:00Z",
-  "source": "粮油豆粕",
-  "_cn": true,
-  "dedup_key": "aef8283f559d2e5cc5cc21e7cf0b6ef0",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油豆粕"
-  ],
-  "is_elite": false
- },
- {
   "title": "10月21日进口油菜籽到国内港口CF报价",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/21/0423827737.shtml",
   "summary": "",
@@ -3013,6 +3013,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "11556a35619404900ac8b0046bd4e6ed",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年10月21日大连豆粕期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/21/3330661952.shtml",
+  "summary": "",
+  "pub_time": "2026-10-20T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "5f006a6833886a47d307972b96f450e8",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
