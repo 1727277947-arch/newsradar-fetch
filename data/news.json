@@ -1,5 +1,58 @@
 [
  {
+  "title": "中东局势升级导致欧洲天然气价格上涨",
+  "url": "",
+  "summary": "欧洲基准天然气价格周四上涨至每兆瓦时近 90 欧元，相当于每百万英热单位 (MMBtu) 29.50 美元，原因是中东局势升级引发了人们对欧洲冬季天然气供应的担忧，而年初库存量处于历史低位。",
+  "pub_time": "2026-10-22T14:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "a57488512687a03b8d424c9978a9ecab",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气",
+   "价",
+   "上涨"
+  ],
+  "en_title": "European Natural Gas Prices Rise on Middle East Escalation"
+ },
+ {
+  "title": "Jackdaw的批准对北海钻探的未来意味着什么",
+  "url": "",
+  "summary": "自 2022 年 6 月 1 日（部长们首次批准开采寒鸦气田）以来，发生了很多事情。保守党不幸的最后三届任期已过半。夸西·夸腾 (Kwasi Kwarteng) 担任商务秘书，他对更高职位的渴望也同样不幸。还有德",
+  "pub_time": "2026-10-22T14:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "4e1b9b27cfadb5e65fb1974d0d7f1d27",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "What Jackdaw’s Approval Means for the Future of North Sea Drilling"
+ },
+ {
   "title": "国家大宗商品储运产业计量测试中心在浙江舟山揭牌",
   "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719377.shtml",
   "summary": "张斌)第九届油商大会全体会议22日在舟山举行。会议期间，国家大宗商品储运产业计量测试中心正式揭牌。该中心由国家市场监督管理总局复函浙江省人民政府同意设立，将提供“全溯源链、全产业链、全寿命周期”和具有前瞻性的计量测试技术服务",
@@ -1366,35 +1419,6 @@
   "en_title": "Brazil court halts Belo Sun’s $300M gold project"
  },
  {
-  "title": "沙特原油出口创五个月新高，产量跌至历史新低",
-  "url": "",
-  "summary": "据路透社报道，联合组织数据倡议(JODI)周三显示，沙特阿拉伯8月份原油出口量较7月份增长约7.9%，达到445.1万桶/日，为3月份以来的最高水平，而其石油产量则降至624万桶/日的历史新低。产量为 8.135 毫",
-  "pub_time": "2026-10-21T17:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "538565b70bc13499dae0bf13d5ae387b",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "下跌",
-   "产量",
-   "出口"
-  ],
-  "en_title": "Saudi Crude Exports Hit Five-Month High as Production Falls to Record Low"
- },
- {
   "title": "玉米种植者敦促制定长期解决方案以及 80 亿美元的救助计划",
   "url": "",
   "summary": "",
@@ -2371,61 +2395,6 @@
    "基本金属"
   ],
   "en_title": "First Quantum’s Kansanshi expansion beats design capacity"
- },
- {
-  "title": "黄金交易低迷，变化不大",
-  "url": "",
-  "summary": "(RTTNews) - 周三金价保持稳定，因美联储 10 月加息的预期降低，以及对法国和意大利内乱加剧的担忧。",
-  "pub_time": "2026-10-21T10:09:17Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "0c11cfd0806450eea5ca63193346c6a3",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Gold Little Changed In Lackluster Trade"
- },
- {
-  "title": "交易商权衡中东供应风险，油价攀升",
-  "url": "",
-  "summary": "(RTTNews) - 周三油价走高，因投资者权衡结束美伊战争的努力的相互矛盾的信号。",
-  "pub_time": "2026-10-21T09:42:56Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "d3d119f137b38be456a0622a55620854",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "走高",
-   "供应"
-  ],
-  "en_title": "Oil Prices Climb As Traders Weigh Middle East Supply Risks"
  },
  {
   "title": "Mysteel晚餐：1-9月全国分省市粗钢产量出炉，唐山钢坯继续亏损",
