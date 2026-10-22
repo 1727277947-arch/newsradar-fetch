@@ -1,5 +1,112 @@
 [
  {
+  "title": "泰克资源股票变得非常超卖",
+  "url": "",
+  "summary": "在周四的交易中，Teck Resources Ltd（股票代码：TECK）的股票进入超卖区域，换手价低至每股 58.75 美元。我们使用相对强度指数（RSI）定义超卖区域，这是一种用于衡量时刻的技术分析指标",
+  "pub_time": "2026-10-22T20:10:45Z",
+  "source": "Nasdaq商品",
+  "_cat": "基本金属",
+  "dedup_key": "f52176e0a47ba354e13dd9ba4ae422cc",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡",
+   "库存"
+  ],
+  "en_title": "Teck Resources Stock Getting Very Oversold"
+ },
+ {
+  "title": "ERO 库存挤满卖家",
+  "url": "",
+  "summary": "在周四的交易中，Ero Copper Corp（股票代码：ERO）的股票进入超卖区域，换手价低至每股 29.93 美元。我们使用相对强弱指数（RSI）来定义超卖区域，这是一种用于衡量超卖动量的技术分析指标。",
+  "pub_time": "2026-10-22T20:05:27Z",
+  "source": "Nasdaq商品",
+  "_cat": "基本金属",
+  "dedup_key": "1c04bb5e26721d06a34a75214d24a506",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "库存"
+  ],
+  "en_title": "ERO Stock Crowded With Sellers"
+ },
+ {
+  "title": "为什么即使清洁能源占据优势，化石燃料需求也会上升",
+  "url": "",
+  "summary": "法国历史学家让-巴蒂斯特·弗雷索（Jean-Baptiste Fressoz）为能源转型怀疑论者提供了一个有吸引力的历史论据。在《越来越多》中，他认为人类从未真正从一种能源转向另一种能源。木材与煤炭、煤炭与石油、石油与天然气以及所有这些都与可再生能源一起出现。",
+  "pub_time": "2026-10-22T20:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "a660aa9e30070fa3dc8d892bdcb977f5",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "燃料",
+   "能源",
+   "上涨",
+   "需求"
+  ],
+  "en_title": "Why Fossil Fuel Demand Can Rise Even as Clean Energy Wins Terrain"
+ },
+ {
+  "title": "伊利诺伊州玉米种植者协会开放 2027 年奖学金申请",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-10-22T19:55:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "0e4f3c224a3c515ba243b5d6d0ef1de2",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "玉米"
+  ],
+  "en_title": "IL Corn Growers Association Opens 2027 Scholarship Applications"
+ },
+ {
   "title": "Strathcona 开辟了通往亚洲的每日 25 万桶石油出口路线",
   "url": "",
   "summary": "加拿大石油生产商 Strathcona Resources 希望通过铁路运输和新的海运码头从不列颠哥伦比亚省北部海岸每天出口多达 25 万桶原油，以到达亚洲市场。但首先，它需要渥太华对其油轮禁令破例。 Strathcona 主席 A",
@@ -24,6 +131,33 @@
    "原油"
   ],
   "en_title": "Strathcona Pitches 250,000-Bpd Oil Export Route to Asia"
+ },
+ {
+  "title": "由于美国和伊朗可能发生新的冲突，供应中断担忧加剧，原油价格飙升",
+  "url": "",
+  "summary": "(RTTNews) - 有报道称美国和以色列计划在美国 11 月中期选举后对伊朗采取联合军事行动，导致人们越来越担心长期供应中断，周四原油价格飙升。",
+  "pub_time": "2026-10-22T18:56:39Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "126fb5cf12ff19644b2f026fe5b0e2f8",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "供应"
+  ],
+  "en_title": "Crude Oil Soars Amid Rising Supply Disruption Concerns Due To Possible Fresh U.S.-Iran Attacks"
  },
  {
   "title": "Boroo 签署 1.4 亿美元收购 Yukon Eagle 金矿的协议",
@@ -106,6 +240,32 @@
   "en_title": "Baldwin Supply Expands Sioux Falls Branch After 25 Years of Growth"
  },
  {
+  "title": "美国新一轮袭击伊朗的报道引发通胀担忧，金价暴跌",
+  "url": "",
+  "summary": "(RTTNews) - 在《纽约时报》报道美国和以色列计划进行短期但激烈的军事冲突后，由于对能源相关通胀导致美国实行高利率制度的担忧超越了黄金的避险地位，金价周四暴跌。",
+  "pub_time": "2026-10-22T17:39:01Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "c7e87db49bf154e540137c75331d5d7f",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Gold Plummets As Inflation Concerns Surface Amid Reports Of Fresh U.S. Attacks On Iran"
+ },
+ {
   "title": "花旗石油看涨期权 60 美元兑布伦特原油价格 112 美元",
   "url": "",
   "summary": "尽管中东原油出口有所恢复，花旗仍认为油价上行风险更大，该银行的悲观评估要少得多，三个月前该银行还预测布伦特原油价格到年底将达到 60 至 65 美元。布伦特 12 月期货周四触及 111.70 美元，上涨 2.88 美元，涨幅 2.65%",
@@ -158,6 +318,33 @@
    "生铁"
   ],
   "en_title": "US permitting: Environmental review overhaul could speed mine approvals, but hurdles remain"
+ },
+ {
+  "title": "了解世纪铝业如何跻身分析师首选金属之列",
+  "url": "",
+  "summary": "根据 Metals Channel 的数据，对主要券商的分析师推荐进行的研究显示，Century Aluminium Co.（代码：CENX）在构成 Metals Channel 全球矿业巨头指数的 50 只股票中平均排名第 36 名。金属频道GL",
+  "pub_time": "2026-10-22T17:14:49Z",
+  "source": "Nasdaq商品",
+  "_cat": "基本金属",
+  "dedup_key": "cbb70e808dd3bc9f6c50c162f41f3661",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铝",
+   "金属"
+  ],
+  "en_title": "See How Century Aluminum Ranks Among Analysts' Top Metals Picks"
  },
  {
   "title": "美国小麦行业与全球买家分享 2026 年农作物质量数据",
@@ -561,18 +748,18 @@
   "en_title": "Spain: Pan Global eyes copper riches in ancient belt"
  },
  {
-  "title": "印度9月中东石油进口量增长32%",
+  "title": "由于供应担忧，布伦特原油价格突破 112 美元，黄金触及两周低点",
   "url": "",
-  "summary": "由于霍尔木兹海峡出口量增加，印度9月份从中东的原油进口量反弹至战前水平，而中国对俄罗斯石油的竞争导致俄罗斯进口量下降。印度从中东的原油进口量跃升至280万桶",
-  "pub_time": "2026-10-22T11:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "74f18d4b32f5a803bc507a4048c61b12",
+  "summary": "(RTTNews) - 周四金价下跌逾 1%，触及两周多来的最低水平，因投资者对中东紧张局势升级做出反应，并期待下周举行的一系列央行会议以寻求方向。",
+  "pub_time": "2026-10-22T10:31:37Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "35b4c68a5a4c7568cef094af4515b21a",
   "score": 84,
   "priority": "P1",
-  "topic": "能源",
+  "topic": "贵金属",
   "tags": [
-   "能源",
+   "贵金属",
    "大宗商品",
    "国外",
    "中文翻译",
@@ -581,21 +768,23 @@
   ],
   "is_elite": false,
   "keywords": [
-   "能源",
+   "贵金属",
+   "黄金",
    "原油",
-   "跳涨",
-   "进口"
+   "布伦特油价",
+   "供应",
+   "周"
   ],
-  "en_title": "India's Middle East Oil Imports Jumped 32% in September"
+  "en_title": "Gold Hits Over Two-week Low As Brent Crude Tops $112 On Supply Concerns"
  },
  {
-  "title": "伊朗声称油价飙升导致七艘船只在波斯湾被击中",
+  "title": "无人机袭击沙特油田后油价飙升",
   "url": "",
-  "summary": "伊朗伊斯兰革命卫队（IRGC）海军周四声称，过去一天，包括油轮在内的七艘船只在波斯湾遭到伊朗军队的袭击或触雷，本周该地区的紧张局势再次加剧。伊斯兰革命卫队海军表示，其部队已",
-  "pub_time": "2026-10-22T09:30:00Z",
-  "source": "Oilprice.com",
+  "summary": "(RTTNews) - 由于对中东供应风险升级的担忧再度加剧，油价周四飙升，逼近 5 月份创下的近四年高位。",
+  "pub_time": "2026-10-22T09:55:54Z",
+  "source": "Nasdaq商品",
   "_cat": "能源",
-  "dedup_key": "47ed554c7bd1ce1584bbd51870f4641c",
+  "dedup_key": "abf42e8942d65971d900f712713674bd",
   "score": 84,
   "priority": "P1",
   "topic": "能源",
@@ -611,10 +800,9 @@
   "keywords": [
    "能源",
    "原油",
-   "价",
-   "大涨"
+   "价"
   ],
-  "en_title": "Iran Claims Seven Ships Hit in Persian Gulf as Oil Prices Surge"
+  "en_title": "Oil Prices Soar After Drone Attack On Saudi Oilfield"
  },
  {
   "title": "Mysteel晚餐：炼焦煤矿山产量增加，钢材总库存下降",
@@ -672,32 +860,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "电力危机迫在眉睫，印度煤炭供应量创历史新高",
-  "url": "",
-  "summary": "据路透社援引新德里能源部一位不愿透露姓名的高级官员的话说，印度发电厂的煤炭供应正在增加，并将很快恢复正常。这位官员还表示，目前燃煤电厂日发电量为260万吨，创历史新高。时间",
-  "pub_time": "2026-10-22T08:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "c4a800959150568690f4f51b95cb6ab8",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "煤炭"
-  ],
-  "en_title": "India Ramps Up Coal Supplies to Record High as Power Crisis Looms"
  },
  {
   "title": "关键矿产日报：福德士河铁矿石产量公布，马来西亚首次批准出口稀土原料",
@@ -1616,6 +1778,32 @@
   "en_title": "Endurance Gold expands Reliance zones amid PEA work"
  },
  {
+  "title": "有报道称霍尔木兹交通状况有所改善，原油价格下跌",
+  "url": "",
+  "summary": "(RTTNews) - 周三原油价格小幅走低，此前有报道称过去几天霍尔木兹海峡航运交通有所进展，同时交易员也在关注巴基斯坦和卡塔尔推动的美伊和平提案的进展。",
+  "pub_time": "2026-10-21T18:37:33Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "b4c12772902c1f4708e8efa0b34e0d24",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Crude Oil Moves Lower Amid Reports Of Improvement In Hormuz Traffic"
+ },
+ {
   "title": "矿业论坛视频：Stöferle 发现黄金便宜但准备好现金",
   "url": "",
   "summary": "总部位于列支敦士登的Incrementum黄金基金经理Ronald-Peter Stöferle在黄金回调后看到了矿业股票的廉价交易。",
@@ -1667,6 +1855,32 @@
    "黄金"
   ],
   "en_title": "Brazil court halts Belo Sun’s $300M gold project"
+ },
+ {
+  "title": "由于美伊协议不确定以及美联储即将做出利率决定，金价走高",
+  "url": "",
+  "summary": "(RTTNews) - 周三金价小幅走高，因有关美伊可能达成和平协议的报道相互矛盾，而中东战争担忧继续挥之不去，而市场参与者评估了美联储可能维持利率稳定的迹象",
+  "pub_time": "2026-10-21T17:37:58Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "29c7bf8c5e43c23dd417500269077a7c",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Gold Ticks Higher Amid Uncertain U.S.-Iran Deal, Upcoming Fed Interest Rate Decision"
  },
  {
   "title": "玉米种植者敦促制定长期解决方案以及 80 亿美元的救助计划",
@@ -2546,88 +2760,6 @@
   "en_title": "Mining Forum video: Stöferle spots gold bargains but keeps cash ready"
  },
  {
-  "title": "美国原油库存下降幅度超过预期，延续近期的低迷状态",
-  "url": "",
-  "summary": "(RTTNews) - 美国能源情报署周三发布的一份报告显示，截至 10 月 16 日当周，美国原油库存持续下滑。",
-  "pub_time": "2026-10-21T14:36:54Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "4ea369faccbc24e388b2f46592ffc908",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "库存"
-  ],
-  "en_title": "U.S. Crude Oil Inventories Decrease More Than Expected, Extending Recent Slump"
- },
- {
-  "title": "黄金交易低迷，变化不大",
-  "url": "",
-  "summary": "(RTTNews) - 周三金价保持稳定，因美联储 10 月加息的预期降低，以及对法国和意大利内乱加剧的担忧。",
-  "pub_time": "2026-10-21T10:09:17Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "0c11cfd0806450eea5ca63193346c6a3",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Gold Little Changed In Lackluster Trade"
- },
- {
-  "title": "交易商权衡中东供应风险，油价攀升",
-  "url": "",
-  "summary": "(RTTNews) - 周三油价走高，因投资者权衡结束美伊战争的努力的相互矛盾的信号。",
-  "pub_time": "2026-10-21T09:42:56Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "d3d119f137b38be456a0622a55620854",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "走高",
-   "供应"
-  ],
-  "en_title": "Oil Prices Climb As Traders Weigh Middle East Supply Risks"
- },
- {
   "title": "Mysteel晚餐：1-9月全国分省市粗钢产量出炉，唐山钢坯继续亏损",
   "url": "https://news.mysteel.com/a/26102117/C518AFFE543324B9.html",
   "summary": "",
@@ -3014,56 +3146,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "CENX 的股票现已超卖",
-  "url": "",
-  "summary": "在周二的交易中，世纪铝业公司（代码：CENX）的股票进入超卖区域，换手价低至每股 33.21 美元。我们使用相对强度指数 (RSI) 定义超卖区域，这是一种用于衡量动量的技术分析指标",
-  "pub_time": "2026-10-20T20:07:39Z",
-  "source": "Nasdaq商品",
-  "_cat": "基本金属",
-  "dedup_key": "774b1035c9f507e246b6f72c1f7e4fda",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Shares of CENX Now Oversold"
- },
- {
-  "title": "USAS 库存挤满卖家",
-  "url": "",
-  "summary": "在周二的交易中，美洲金银公司（股票代码：USAS）的股票进入超卖区域，换手价低至每股 3.635 美元。我们使用相对强弱指数（RSI）来定义超卖区域，这是我常用的技术分析指标",
-  "pub_time": "2026-10-20T20:06:36Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "077bd9d5a41e189e7612dc10746e827b",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "库存"
-  ],
-  "en_title": "USAS Stock Crowded With Sellers"
  }
 ]
