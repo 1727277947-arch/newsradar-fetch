@@ -1,5 +1,59 @@
 [
  {
+  "title": "西班牙：泛全球关注古代腰带中的铜财富",
+  "url": "",
+  "summary": "Pan Global Resources (TSXV: PGZ; US-OTC: PGZFF)由前力拓(Rio Tinto, ASX, LSE, NYSE: RIO)勘探总监蒂姆·穆迪(Tim Moody)领导，他认为邻近的工厂是铜生产的潜在途径……后西班牙： Pan Global关注古代带中的铜财富首次出现在《北方矿工》(The Northern Miner)上。",
+  "pub_time": "2026-10-22T11:15:45Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "497f97bd97d900f669b9421ad5f75ba2",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜"
+  ],
+  "en_title": "Spain: Pan Global eyes copper riches in ancient belt"
+ },
+ {
+  "title": "印度9月中东石油进口量增长32%",
+  "url": "",
+  "summary": "由于霍尔木兹海峡出口量增加，印度9月份从中东的原油进口量反弹至战前水平，而中国对俄罗斯石油的竞争导致俄罗斯进口量下降。印度从中东的原油进口量跃升至280万桶",
+  "pub_time": "2026-10-22T11:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "74f18d4b32f5a803bc507a4048c61b12",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "跳涨",
+   "进口"
+  ],
+  "en_title": "India's Middle East Oil Imports Jumped 32% in September"
+ },
+ {
   "title": "伊朗声称油价飙升导致七艘船只在波斯湾被击中",
   "url": "",
   "summary": "伊朗伊斯兰革命卫队（IRGC）海军周四声称，过去一天，包括油轮在内的七艘船只在波斯湾遭到伊朗军队的袭击或触雷，本周该地区的紧张局势再次加剧。伊斯兰革命卫队海军表示，其部队已",
@@ -960,32 +1014,6 @@
   "is_elite": false
  },
  {
-  "title": "Fortuna在金币击中后瞄准更深的林德罗矿坑",
-  "url": "",
-  "summary": "国家银行分析师表示： “广泛的交叉路口加强了将底坑下材料纳入修订后的底坑和储量估计的理由。”",
-  "pub_time": "2026-10-21T23:22:00Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "8e57a5454817f6f236938466ef02bd93",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Fortuna targets deeper Lindero pit after gold hits"
- },
- {
   "title": "Big Oil Eyes创下利润纪录，但不断控制支出",
   "url": "",
   "summary": "自中东战争开始以来，石油超级巨头一直在掠夺它。他们现在将报告另一个强劲的季度，即使他们运营的一些司法管辖区计划对他们征收意外税。现在的问题是大石油公司将如何处理这些利润。答案是：它可能",
@@ -1074,32 +1102,6 @@
    "能源"
   ],
   "en_title": "U.S. Energy Red Tape Gives China an Edge"
- },
- {
-  "title": "美国能源部拨款4200万美元用于从宾夕法尼亚州到纽约的天然气管道",
-  "url": "",
-  "summary": "宪法管道项目将把天然气输送到东北部目前燃料供应有限的市场。",
-  "pub_time": "2026-10-21T21:27:29Z",
-  "source": "Mining.com",
-  "_cat": "能源",
-  "dedup_key": "a14daa325b69cbf95adf3defd977c315",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "天然气",
-   "能源"
-  ],
-  "en_title": "US Department of Energy grants $42M for gas pipeline from Pennsylvania to New York"
  },
  {
   "title": "标普全球警告霍尔木兹能源冲击可能成为全球粮食危机",
@@ -1232,59 +1234,6 @@
   "en_title": "Russia’s Northern Sea Route Workaround Supplying Asian Buyers"
  },
  {
-  "title": "矿业论坛视频：Stöferle 发现黄金便宜但准备好现金",
-  "url": "",
-  "summary": "总部位于列支敦士登的Incrementum黄金基金经理Ronald-Peter Stöferle在黄金回调后看到了矿业股票的廉价交易。",
-  "pub_time": "2026-10-21T17:48:47Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "64b226b76dac347e4ac777b7b66d504c",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "走强"
-  ],
-  "en_title": "Mining Forum video: Stöferle spots gold bargains but keeps cash ready"
- },
- {
-  "title": "巴西法院暂停Belo Sun的$ 3亿黄金项目",
-  "url": "",
-  "summary": "加拿大矿工正在等待法院批准一项土著协议，作为帕拉州的临时许可证暂停施工。",
-  "pub_time": "2026-10-21T17:47:14Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "7fb6205fbccace1b00e0b0a69d296a4e",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Brazil court halts Belo Sun’s $300M gold project"
- },
- {
   "title": "沙特原油出口创五个月新高，产量跌至历史新低",
   "url": "",
   "summary": "据路透社报道，联合组织数据倡议(JODI)周三显示，沙特阿拉伯8月份原油出口量较7月份增长约7.9%，达到445.1万桶/日，为3月份以来的最高水平，而其石油产量则降至624万桶/日的历史新低。产量为 8.135 毫",
@@ -1338,32 +1287,6 @@
    "玉米"
   ],
   "en_title": "Corn Growers Urge Long-Term Solutions Alongside $8 Billion Relief Program"
- },
- {
-  "title": "经过多年的法律斗争，英国批准了北海主要天然气田",
-  "url": "",
-  "summary": "在与环保人士进行多年的法律纠纷后，北海的一个主要天然气田已获得政府重新批准。 Jackdaw 项目是位于阿伯丁以东 150 英里的大型海上天然气田，已获得政府的正式批准，预计将",
-  "pub_time": "2026-10-21T16:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "3a981dc56506e8dcdc8c87c3910915bc",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气"
-  ],
-  "en_title": "UK Greenlights Major North Sea Gas Field After Years of Legal Battles"
  },
  {
   "title": "2026年10月22日大连豆粕期货低开收跌",
@@ -2164,32 +2087,6 @@
   "is_elite": false
  },
  {
-  "title": "随着 PEA 工作的进行，Endurance Gold 扩大了 Reliance 的区域",
-  "url": "",
-  "summary": "最新的钻探可以帮助 Endurance 扩大 Reliance 的初始黄金资源，同时推进该项目的初步经济评估 (PEA)。",
-  "pub_time": "2026-10-21T15:24:29Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "430b41845aeb8d3b5c6d84d06a856372",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Endurance Gold expands zones at Reliance as PEA work ongoing"
- },
- {
   "title": "矿业论坛视频：Stöferle 发现黄金便宜但准备好现金",
   "url": "",
   "summary": "总部位于列支敦士登的 Incrementum 黄金基金经理 Ronald-Peter Stöferle 认为，在金价回调后，矿业股很便宜，尽管他的积极黄金策略持有近 40% 的现金。该策略的投资信号转变...矿业论坛后视频：Stöferle 发现黄金便宜，但保留现金",
@@ -2244,32 +2141,6 @@
   "en_title": "U.S. Crude Oil Inventories Decrease More Than Expected, Extending Recent Slump"
  },
  {
-  "title": "Hudbay ，三菱批准铜世界建设",
-  "url": "",
-  "summary": "此举为美国最大的新铜矿之一在2029年下半年开始生产扫清了道路。",
-  "pub_time": "2026-10-21T14:23:33Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "eb1e51173e120375226009127f560b6e",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "Hudbay, Mitsubishi approve Copper World construction"
- },
- {
   "title": "峰会视频：Kodiak 测试 MPD 资源可以增加多少",
   "url": "",
   "summary": "Kodiak Copper（TSXV：KDK；US-OTC：KDKCF）的目标是在不列颠哥伦比亚省南部的 MPD 铜金项目中获得更大的资源。首席执行官克劳迪娅·托恩奎斯特 (Claudia Tornquist) 表示，到 3 月份。最近在 Ketchan 进行钻探……峰会后视频：Kodiak 测试 MPD 资源可以获得多大程度的提升首先出现在 The Northern Mine 上",
@@ -2293,56 +2164,6 @@
    "贵金属"
   ],
   "en_title": "Summit video: Kodiak tests how much bigger MPD resource can get"
- },
- {
-  "title": "Fortescue在性骚扰调查后解雇了高管",
-  "url": "",
-  "summary": "在更广泛的行业审查中发现不当行为后，澳大利亚矿业巨头终止了一名高级领导人的合同。",
-  "pub_time": "2026-10-21T11:54:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "df3596df9f2ec68e9df6df1e375a99b3",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Fortescue fires executive after sexual harassment probe"
- },
- {
-  "title": "第一量子在堪三西的扩建超出了设计容量",
-  "url": "",
-  "summary": "随着新加工设施提高产量，赞比亚铜矿业务的目标是到 2026 年矿石吞吐量达到 2700 万吨。",
-  "pub_time": "2026-10-21T10:50:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "419da9476653c089a5924c5095240729",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "First Quantum’s Kansanshi expansion beats design capacity"
  },
  {
   "title": "黄金交易低迷，变化不大",
@@ -2788,32 +2609,6 @@
   "is_elite": false
  },
  {
-  "title": "采矿业进入历史上最大的投资超级周期，加拿大能源",
-  "url": "",
-  "summary": "据《金融邮报》报道，在伦敦举行的一次活动中，霍奇森告诉与会者，“关键矿物不再仅仅是工业商品”。",
-  "pub_time": "2026-10-20T20:58:56Z",
-  "source": "Mining.com",
-  "_cat": "综合",
-  "dedup_key": "9048f16fec375960feb4194a482733f3",
-  "score": 84,
-  "priority": "P2",
-  "topic": "综合",
-  "tags": [
-   "综合",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "综合",
-   "能源"
-  ],
-  "en_title": "Mining industry entering largest investment supercycle in history, Canada’s energy minister says"
- },
- {
   "title": "Heliostar 钻探增强了 Ana Paula 的增长前景",
   "url": "",
   "summary": "Heliostar Metals（多伦多证券交易所代码：HSTR；美国场外交易代码：HSTXF）已在其墨西哥 Ana Paula 项目的计划作业之下对黄金进行了交叉分析，表明该公司在准备可行性研究时存在扩张潜力……Heliostar 钻探后加强 Ana Paula 增长的案例首先出现在《北方矿工》上。",
@@ -2837,32 +2632,6 @@
    "贵金属"
   ],
   "en_title": "Heliostar drilling strengthens Ana Paula growth case"
- },
- {
-  "title": "南非稀土矿瞄准首次出口",
-  "url": "",
-  "summary": "南非 Steenkampskraal 矿的目标是在开设加工厂后，在年底前实现首次稀土精矿出口，同时仍计划在当地生产更高价值的分离氧化物……南非稀土矿的首次出口目标首先出现在",
-  "pub_time": "2026-10-20T20:45:42Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "9a69253b6f526f45acccd66b8d243d26",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "出口"
-  ],
-  "en_title": "South African rare earth mine targets first exports"
  },
  {
   "title": "CENX 的股票现已超卖",
