@@ -1,5 +1,85 @@
 [
  {
+  "title": "两分钟内卖出 600 万桶引发 CFTC 审查",
+  "url": "",
+  "summary": "3 月 23 日，就在唐纳德·特朗普总统放弃袭击伊朗发电厂的威胁之前不久，石油交易商在短短两分钟内就卖出了相当于至少 600 万桶原油的期货。现在，负责监管这些交易的联邦监管机构表示，他们一直在调查这一活动。钴",
+  "pub_time": "2026-10-23T17:20:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "6cdd24f02ac7c863611782c1780cf65d",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "锡"
+  ],
+  "en_title": "6 Million Barrels in Two Minutes Draws CFTC Scrutiny"
+ },
+ {
+  "title": "随着油价飙升，美国钻机数量保持稳定",
+  "url": "",
+  "summary": "贝克休斯周五公布的最新数据显示，美国活跃油气钻机总数本周连续第二周保持不变，美国总钻机数量保持在 603 座，较去年同期增加 53 座。数量",
+  "pub_time": "2026-10-23T17:16:20Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "6c297ac237cdfc530e8b09b6578d58ad",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "大涨"
+  ],
+  "en_title": "U.S. Rig Count Holds Steady as Oil Prices Surge"
+ },
+ {
+  "title": "纽蒙特将 Red Chris 扩张定价高达 $4.8B",
+  "url": "",
+  "summary": "不列颠哥伦比亚省的项目年均产量为 275,000–325,000 盎司。 2035年至2040年黄金和65,000-85,000吨铜。",
+  "pub_time": "2026-10-23T17:15:00Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "108cef6c9cc8845d40478a2acff6edaf",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "价"
+  ],
+  "en_title": "Newmont prices Red Chris expansion at up to $4.8B"
+ },
+ {
   "title": "Moon River 将 Davidson 价值提升至 $1.2B，钨产量跃升",
   "url": "",
   "summary": "Moon River Moly（多伦多证券交易所股票代码：MOO；美国场外交易市场代码：MRIVF）的一项新研究将其位于不列颠哥伦比亚省的戴维森钼铜钨项目的估计价值提高了 20%，钨产量增加了四倍以上。Moon River 将戴维森价值提升至 $1.2B，钨产量跃升首先出现在 The Nor 上",
@@ -663,32 +743,6 @@
   "en_title": "Oil Headed For Third Weekly Gain"
  },
  {
-  "title": "炼油业繁荣带动投资者巨额支出，埃尼利润飙升 125%",
-  "url": "",
-  "summary": "意大利能源集团埃尼 (Eni) 因石油和天然气产量增加以及炼油利润飙升而使第三季度收益翻了一番多，该公司正通过高额股息和增加股票回购来增加对投资者的派息。埃尼调整后净利润同比增长一倍多",
-  "pub_time": "2026-10-23T09:29:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "63fc7817bea6bd87c3071cc73af123cc",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "燃料"
-  ],
-  "en_title": "Eni's Profits Soar 125% as Refining Boom Fuels Massive Investor Payouts"
- },
- {
   "title": "Mysteel晚餐：钢厂高炉铁水产量减少",
   "url": "https://news.mysteel.com/a/26102317/C63E76A6F3C463BA.html",
   "summary": "",
@@ -782,34 +836,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "随着天然气价格飙升，英国排除了冬季能源短缺的可能性",
-  "url": "",
-  "summary": "英国国家能源系统运营商在其初冬展望中表示，今年冬天英国不存在断电或断气的风险，因为发电和天然气供应充足。事实上，NESO 表示，预计 10 月 3 日期间剩余发电量为 5.5 吉瓦",
-  "pub_time": "2026-10-23T08:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "2f6e5f022975571ad7fe73cd4932da70",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "天然气",
-   "能源",
-   "价",
-   "短缺"
-  ],
-  "en_title": "UK Rules Out Winter Energy Shortages as Gas Prices Soar"
  },
  {
   "title": "陈晓光：深耕钢铁有色跨界融合，锻造冶金装备“国之重器”",
@@ -3303,31 +3329,5 @@
    "黄金"
   ],
   "en_title": "Fortuna targets deeper Lindero pit after gold hits"
- },
- {
-  "title": "玉米种植者敦促制定长期解决方案以及 80 亿美元的救助计划",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-10-21T17:21:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "0d2ec12a9b2ed8bec04678660da22172",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "玉米"
-  ],
-  "en_title": "Corn Growers Urge Long-Term Solutions Alongside $8 Billion Relief Program"
  }
 ]
