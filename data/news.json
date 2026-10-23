@@ -1,5 +1,111 @@
 [
  {
+  "title": "专栏：尼加拉瓜采矿——威胁美国国家安全的黄金桥头堡",
+  "url": "",
+  "summary": "尼古拉斯·瓦菲斯 (Nicholas Vafeas) 写道，关于矿物的关键争论已经变得痴迷于纯粹的地质学，但矿物安全并不仅仅由地质学决定。",
+  "pub_time": "2026-10-23T19:09:48Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "a2705f433220c5bdfcd808cf3ad2c26d",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Op-Ed: Nicaragua mining – the golden bridgehead threatening US national security"
+ },
+ {
+  "title": "中东双重紧张局势导致供应担忧加剧，原油价格飙升",
+  "url": "",
+  "summary": "(RTTNews) - 由于人们越来越担心新的、深入的、激烈的美伊战争以及持续的胡塞武装与沙特阿拉伯冲突，周五原油价格大幅上涨。升级可能导致阿拉伯国家的石油和能源供应长期中断",
+  "pub_time": "2026-10-23T18:33:52Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "86c39939b382eeb019de0faed4143758",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "供应"
+  ],
+  "en_title": "Crude Oil Skyrockets Amid Rising Supply Concerns Due To Dual Middle East Tensions"
+ },
+ {
+  "title": "USW 加强与韩国小麦买家的关系",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-10-23T18:04:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "464fd211c5f7022a93399de8107e06e7",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "小麦"
+  ],
+  "en_title": "USW Strengthens Relationships With South Korean Wheat Buyers"
+ },
+ {
+  "title": "通胀担忧加剧、美国利率上升，金价暴跌",
+  "url": "",
+  "summary": "(RTTNews) - 由于美国 11 月中期选举后美伊冲突可能再次升级，原油价格连续第二天飙升，引发通胀担忧加剧，金价周五暴跌。对可能发生的担忧",
+  "pub_time": "2026-10-23T17:38:40Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "7676ea6d0140d91cea994a0df65b0ddb",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "暴跌"
+  ],
+  "en_title": "Gold Tumbles Amid Rising Inflation Worries, Higher U.S. Rate Concerns"
+ },
+ {
   "title": "两分钟内卖出 600 万桶引发 CFTC 审查",
   "url": "",
   "summary": "3 月 23 日，就在唐纳德·特朗普总统放弃袭击伊朗发电厂的威胁之前不久，石油交易商在短短两分钟内就卖出了相当于至少 600 万桶原油的期货。现在，负责监管这些交易的联邦监管机构表示，他们一直在调查这一活动。钴",
@@ -131,6 +237,32 @@
    "原油"
   ],
   "en_title": "$120 Oil Is Almost Here, and Trump Has Few Good Options"
+ },
+ {
+  "title": "矿业论坛视频：B2Gold 超越 Goose 挫折，关注现金增长",
+  "url": "",
+  "summary": "总裁兼首席执行官 Mike Cinnamond 表示，B2Gold（多伦多证券交易所股票代码：BTO；纽约证券交易所股票代码：BTG）的目标是，一旦完成重大升级，将其位于努纳武特陷入困境的 Goose 矿转变为年产 300,000 盎司的黄金生产商。",
+  "pub_time": "2026-10-23T16:17:31Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "bd7ed4e82757c5953c0a263a11134988",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Mining Forum video: B2Gold looks beyond Goose setbacks to cash growth"
  },
  {
   "title": "武汉经开区强化“内功” “车谷造”加速出海",
@@ -427,6 +559,34 @@
    "能源"
   ],
   "en_title": "U.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York"
+ },
+ {
+  "title": "Integra 需要产量大幅增长才能达到黄金目标",
+  "url": "",
+  "summary": "Integra Resources（TSXV：ITR；NYSE-A：ITRG）需要第四季度黄金产量比前三个月增长至少 32％，才能实现其年度目标，即使在报告了第二次之后...... Integra 需要产量大幅增长以达到黄金目标的帖子首先出现在《北方矿工》上。",
+  "pub_time": "2026-10-23T13:20:56Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "ca8197eaaa43a14ce19a96036315e373",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "跳涨",
+   "产量"
+  ],
+  "en_title": "Integra needs production jump to hit gold target"
  },
  {
   "title": "中国引领购买热潮，各国央行纷纷买入黄金",
@@ -2777,33 +2937,6 @@
   "is_elite": false
  },
  {
-  "title": "Coringa 允许增长停滞，Serabi 下调黄金前景",
-  "url": "",
-  "summary": "Serabi Gold（TSX：SBI；AIM：SRB）因许可证延误阻碍了其巴西 Coringa 矿黄金产量的计划增加，将其年产量预期下调了约 17%。由于 Coringa 允许停滞增长，Serabi 下调了黄金前景，该消息首先出现在《北方矿工》上。",
-  "pub_time": "2026-10-22T12:33:37Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "2e51febe4513b470cc9dfc544d303b7d",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "展望"
-  ],
-  "en_title": "Serabi cuts gold outlook as Coringa permits stall growth"
- },
- {
   "title": "由于供应担忧，布伦特原油价格突破 112 美元，黄金触及两周低点",
   "url": "",
   "summary": "(RTTNews) - 周四金价下跌逾 1%，触及两周多来的最低水平，因投资者对中东紧张局势升级做出反应，并期待下周举行的一系列央行会议以寻求方向。",
@@ -3277,57 +3410,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "Hudbay，三菱确定 $2.1B Copper World 项目",
-  "url": "",
-  "summary": "Hudbay Minerals（多伦多证券交易所、纽约证券交易所代码：HBM）和日本三菱公司已批准在亚利桑那州南部建设耗资 21 亿美元（29 亿加元）的 Copper World 项目，尽管建设成本激增 59%。范围...后 Hudbay，三菱 OK $2.1B Copper World 项目首先出现在北方",
-  "pub_time": "2026-10-21T20:55:33Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "c05b7162e9e8d60da1f64b1210b87f3d",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "Hudbay, Mitsubishi OK $2.1B Copper World project"
- },
- {
-  "title": "Fortuna在金币击中后瞄准更深的林德罗矿坑",
-  "url": "",
-  "summary": "Fortuna Mining (TSX: FVI; NYSE: FSM)已在其位于阿根廷高安第斯山脉的林德罗露天矿的计划底部下钻探了黄金，加强了其在运营中增加储量的理由……在北方矿工首次出现黄金命中后， Fortuna的目标是更深的林德罗矿坑。",
-  "pub_time": "2026-10-21T20:50:02Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "059e092ed23dc153dfe8d93c9dc5a18f",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Fortuna targets deeper Lindero pit after gold hits"
  }
 ]
