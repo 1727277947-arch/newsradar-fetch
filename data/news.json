@@ -1,5 +1,191 @@
 [
  {
+  "title": "由于石油驱动的通胀担忧，金价将每周大幅下跌",
+  "url": "",
+  "summary": "(RTTNews) - 周五金价保持稳定，但由于油价上涨和长期利率预期上升，金价将出现四个多月来最大单周跌幅。",
+  "pub_time": "2026-10-23T10:30:10Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "ec504e97cceef51fbc16f8ed41d39fd9",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "原油",
+   "周"
+  ],
+  "en_title": "Gold Headed For Steep Weekly Loss On Oil-driven Inflation Concerns"
+ },
+ {
+  "title": "欧洲天然气价格飙升至 2022 年以来最高水平",
+  "url": "",
+  "summary": "周五阿姆斯特丹开盘，欧洲基准天然气价格上涨 3%，原因是中东局势升级继续限制卡塔尔液化天然气流量，且随着气温下降，一些欧盟国家开始动用储存的天然气。荷兰产权转让机构 (TTF) 的前月价格",
+  "pub_time": "2026-10-23T10:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "535161c15a4f52218ad01b008cba39e0",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气",
+   "价",
+   "大涨"
+  ],
+  "en_title": "European Natural Gas Prices Surge to Highest Level Since 2022"
+ },
+ {
+  "title": "石油有望第三周上涨",
+  "url": "",
+  "summary": "(RTTNews) - 周五，由于胡塞武装袭击沙特石油基础设施和红海港口，人们担心能源供应进一步中断，油价飙升至五个月高位。",
+  "pub_time": "2026-10-23T10:00:18Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "a3fbb21bacbb185dc33b7d2cbb1b81c4",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "走强",
+   "周"
+  ],
+  "en_title": "Oil Headed For Third Weekly Gain"
+ },
+ {
+  "title": "炼油业繁荣带动投资者巨额支出，埃尼利润飙升 125%",
+  "url": "",
+  "summary": "意大利能源集团埃尼 (Eni) 因石油和天然气产量增加以及炼油利润飙升而使第三季度收益翻了一番多，该公司正通过高额股息和增加股票回购来增加对投资者的派息。埃尼调整后净利润同比增长一倍多",
+  "pub_time": "2026-10-23T09:29:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "63fc7817bea6bd87c3071cc73af123cc",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "燃料"
+  ],
+  "en_title": "Eni's Profits Soar 125% as Refining Boom Fuels Massive Investor Payouts"
+ },
+ {
+  "title": "Mysteel晚餐：钢厂高炉铁水产量减少",
+  "url": "https://news.mysteel.com/a/26102317/C63E76A6F3C463BA.html",
+  "summary": "",
+  "pub_time": "2026-10-23T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "aab922914d171480c6de2518c50a938d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "粤北联合钢铁产能置换方案",
+  "url": "https://news.mysteel.com/a/26102317/B08C7F6A619F7F9E.html",
+  "summary": "",
+  "pub_time": "2026-10-23T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "ac608710296ed6a881b9b2c6da1843c2",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel晚餐：钢厂高炉铁水产量减少，动力煤产地调研",
+  "url": "https://news.mysteel.com/a/26102317/9131A21501242010.html",
+  "summary": "",
+  "pub_time": "2026-10-23T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "241161d2b8dc709b56899bb02557cb3e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "广东粤北联合钢铁短流程炼钢项目产能置换方案公告",
+  "url": "https://news.mysteel.com/a/26102317/7732181C2E206D30.html",
+  "summary": "",
+  "pub_time": "2026-10-23T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "2dc19a8d2cce3acf3ed4d70814b1890a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "赤峰黄金：第三季度净利润同比下降41.84% 黄金销量下降",
   "url": "https://news.mysteel.com/a/26102317/4DAC9B478BE0E326.html",
   "summary": "",
@@ -47,8 +233,27 @@
   "en_title": "UK Rules Out Winter Energy Shortages as Gas Prices Soar"
  },
  {
+  "title": "陈晓光：深耕钢铁有色跨界融合，锻造冶金装备“国之重器”",
+  "url": "https://news.mysteel.com/a/26102316/CF26F4F7878A4A05.html",
+  "summary": "",
+  "pub_time": "2026-10-23T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "a71143ce1e2d13eff35cebb0da88b820",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "黑色持仓日报：焦煤涨2.07%，方正中期减持超1.3万手空单",
-  "url": "https://news.mysteel.com/a/26102316/BDE0DBAA57DD85DC.html",
+  "url": "https://news.mysteel.com/a/26102316/33637E59EEAC287C.html",
   "summary": "",
   "pub_time": "2026-10-23T08:00:00Z",
   "source": "上海钢联Mysteel",
@@ -66,13 +271,13 @@
   "is_elite": false
  },
  {
-  "title": "陈晓光：深耕钢铁有色跨界融合，锻造冶金装备“国之重器”",
-  "url": "https://news.mysteel.com/a/26102316/CF26F4F7878A4A05.html",
+  "title": "Mysteel日报：黑色金属期货震荡上涨运行",
+  "url": "https://news.mysteel.com/a/26102316/DD6E331119C650AD.html",
   "summary": "",
   "pub_time": "2026-10-23T08:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "a71143ce1e2d13eff35cebb0da88b820",
+  "dedup_key": "d89484a3a42740ff8b8ff0df79437318",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -112,8 +317,27 @@
   "en_title": "Japan Weighs Gasoline Subsidy Cuts as Energy Costs Soar"
  },
  {
+  "title": "钢市大家谈：需求季节性走弱，钢价或稳中偏弱",
+  "url": "https://news.mysteel.com/a/26102315/1171D72AFB31AB29.html",
+  "summary": "",
+  "pub_time": "2026-10-23T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "b3b727dcb08d31269737909b02c997bc",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "有色持仓日报：沪镍跌1.43%，银河期货减持超3.2千手多单",
-  "url": "https://news.mysteel.com/a/26102315/DF002BE207E4D4B8.html",
+  "url": "https://news.mysteel.com/a/26102315/092DDA17EB744A90.html",
   "summary": "",
   "pub_time": "2026-10-23T07:00:00Z",
   "source": "上海钢联Mysteel",
@@ -303,25 +527,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "7d3bae1e0c7b715dd71fa78ebfc0eddb",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "国家大宗商品储运产业计量测试中心在浙江舟山揭牌",
-  "url": "https://news.mysteel.com/a/26102309/B290C69C106567F9.html",
-  "summary": "",
-  "pub_time": "2026-10-23T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "09f4674023df9c51d1064ec1ba2bd3f8",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1377,57 +1582,6 @@
   "en_title": "U.S. Wheat Industry Shares 2026 Crop Quality Data With Global Buyers"
  },
  {
-  "title": "与美国的冲突一触即发，德黑兰转向中亚进行贸易",
-  "url": "",
-  "summary": "伊朗正在努力扩大与中亚国家的互联互通，仅在过去一周，伊朗高级官员就与五个地区国家中的四个国家的同行进行了接触。 10 月 19 日，塔吉克斯坦领导人在杜尚别出席上海合作组织会议期间",
-  "pub_time": "2026-10-22T17:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "b1cd68711b5d62bcf59ad4a01bc11ecd",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Tehran Turns to Central Asia for Trade as Conflict With U.S. Simmers"
- },
- {
-  "title": "挪威2.3万亿美元石油基金第三季度损失300亿美元",
-  "url": "",
-  "summary": "全球最大的主权财富基金——挪威政府养老金全球基金（Government Pension Fund Global），规模达 2.3 万亿美元，第三季度亏损 300 亿美元，原因是利率上升和市场动荡对其定期投资和股权投资造成打击。挪威政府全球养老基金 (GPFG)",
-  "pub_time": "2026-10-22T16:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "d7674dc1101d137c626be8034f62426a",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Norway's $2.3 Trillion Oil Fund Loses $30 Billion in Third Quarter"
- },
- {
   "title": "2026年10月23日大连豆粕期货高开收涨",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/23/0610364065.shtml",
   "summary": "",
@@ -2400,63 +2554,6 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel晚餐：炼焦煤矿山产量增加，钢材总库存下降",
-  "url": "https://news.mysteel.com/a/26102217/AECD06FF57C1266B.html",
-  "summary": "",
-  "pub_time": "2026-10-22T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "65764c4f2e4f635fa72dc114922ff96e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：本周钢材社会库存减少23.15万吨（10月16日-10月22日）",
-  "url": "https://news.mysteel.com/a/26102217/6F3804999FF210C7.html",
-  "summary": "",
-  "pub_time": "2026-10-22T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "2fc458539eebff1fb052d317cf8a6bc5",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "关键矿产日报：福德士河铁矿石产量公布，马来西亚首次批准出口稀土原料",
-  "url": "https://news.mysteel.com/a/26102216/B054475F3086FFD1.html",
-  "summary": "",
-  "pub_time": "2026-10-22T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "ef9125c71750a0bab427e45d617eb68e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "WTI原油期货价格涨2.95%，升破100美元/桶",
   "url": "https://news.mysteel.com/a/26102216/18A195CD1B8843B3.html",
   "summary": "",
@@ -2469,6 +2566,25 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "关键矿产日报：福德士河铁矿石产量公布，马来西亚首次批准出口稀土原料",
+  "url": "https://news.mysteel.com/a/26102216/C5CFC203057A9EF3.html",
+  "summary": "",
+  "pub_time": "2026-10-22T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "ef9125c71750a0bab427e45d617eb68e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -3044,32 +3160,6 @@
    "黄金"
   ],
   "en_title": "Brazil court halts Belo Sun’s $300M gold project"
- },
- {
-  "title": "由于美伊协议不确定以及美联储即将做出利率决定，金价走高",
-  "url": "",
-  "summary": "(RTTNews) - 周三金价小幅走高，因有关美伊可能达成和平协议的报道相互矛盾，而中东战争担忧继续挥之不去，而市场参与者评估了美联储可能维持利率稳定的迹象",
-  "pub_time": "2026-10-21T17:37:58Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "29c7bf8c5e43c23dd417500269077a7c",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Gold Ticks Higher Amid Uncertain U.S.-Iran Deal, Upcoming Fed Interest Rate Decision"
  },
  {
   "title": "玉米种植者敦促制定长期解决方案以及 80 亿美元的救助计划",
