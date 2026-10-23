@@ -1,5 +1,33 @@
 [
  {
+  "title": "随着天然气价格飙升，英国排除了冬季能源短缺的可能性",
+  "url": "",
+  "summary": "英国国家能源系统运营商在其初冬展望中表示，今年冬天英国不存在断电或断气的风险，因为发电和天然气供应充足。事实上，NESO 表示，预计 10 月 3 日期间剩余发电量为 5.5 吉瓦",
+  "pub_time": "2026-10-23T08:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "2f6e5f022975571ad7fe73cd4932da70",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "天然气",
+   "能源",
+   "价",
+   "短缺"
+  ],
+  "en_title": "UK Rules Out Winter Energy Shortages as Gas Prices Soar"
+ },
+ {
   "title": "黑色持仓日报：方正中期减持超1.3万手焦煤空单",
   "url": "https://news.mysteel.com/a/26102316/33637E59EEAC287C.html",
   "summary": "",
@@ -129,13 +157,13 @@
   "is_elite": false
  },
  {
-  "title": "螺纹钢期货下跌，钢价延续弱势运行",
-  "url": "https://news.mysteel.com/a/26102311/9E0814E4D67A9763.html",
+  "title": "Mysteel午报：钢价局部下跌，焦煤期货涨超1%",
+  "url": "https://news.mysteel.com/a/26102311/E1E26E4CF95664D8.html",
   "summary": "",
   "pub_time": "2026-10-23T03:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "c3da720cef176bd1e88a0ca3d4cd624c",
+  "dedup_key": "ee395e4ad41aefe7be1dc771bc9f6223",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -148,13 +176,13 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel午报：钢价局部下跌，焦煤期货涨超1%",
-  "url": "https://news.mysteel.com/a/26102311/B1882B8A7D9F55EE.html",
+  "title": "螺纹钢期货下跌，钢价延续弱势运行",
+  "url": "https://news.mysteel.com/a/26102311/8052F8429AE2F6F7.html",
   "summary": "",
   "pub_time": "2026-10-23T03:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "ee395e4ad41aefe7be1dc771bc9f6223",
+  "dedup_key": "c3da720cef176bd1e88a0ca3d4cd624c",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1398,32 +1426,6 @@
    "原油"
   ],
   "en_title": "Norway's $2.3 Trillion Oil Fund Loses $30 Billion in Third Quarter"
- },
- {
-  "title": "英国终于创建石油财富基金——晚了 50 年",
-  "url": "",
-  "summary": "几十年前，邻国挪威开始将其北海石油收入转变为世界上最大的主权财富基金之一，英国终于建立了一个石油支持的投资基金。英国政府于周三宣布设立新的 20 亿英镑能源财富基金",
-  "pub_time": "2026-10-22T16:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "a661a0c37c2e1f2786c0ee3457eb2aeb",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Britain Finally Creates an Oil Wealth Fund—50 Years Too Late"
  },
  {
   "title": "2026年10月23日大连豆粕期货高开收涨",
