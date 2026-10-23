@@ -1,5 +1,152 @@
 [
  {
+  "title": "财政部：农业保险护农惠农成效持续显现",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720118.shtml",
+  "summary": "记者 赵建华)财政部金融司副司长李楠23日在北京举行的新闻发布会上说，农业保险护农惠农成效持续显现。经过多年推进，稻谷、小麦、玉米、大豆完全成本和种植收入保险政策已实现全国全面覆盖；糖料蔗完全成本和种植收入保险、天然橡胶综合保险，政策基本覆盖主产区，保障力度较传统物化成本保险显著提升，切实解除农户种粮后顾之忧",
+  "pub_time": "2026-10-23T14:30:22Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "95eab4310934207464f4e7056453db31",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/金融政策",
+  "tags": [
+   "金融政策",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "印度石油公司在浅海盆地开采天然气",
+  "url": "",
+  "summary": "印度国家勘探公司印度石油公司（OIL）周五表示，在克里希纳-戈达瓦里浅海盆地的一个先前未勘探的地层中发现了天然气。石油公司在印度附近克里希纳-戈达瓦里盆地 Matsyapuri 地层的 Godavari-1 评价井中发现了这一发现。",
+  "pub_time": "2026-10-23T14:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "6f04884966be3eabc84b75cbe377c846",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "天然气",
+   "罢工"
+  ],
+  "en_title": "Oil India Strikes Natural Gas in Shallow Offshore Basin"
+ },
+ {
+  "title": "柴油价格飙升使矿业利润面临考验",
+  "url": "",
+  "summary": "不断上涨的燃料费用正在挤压铜和铁矿石生产商的压力，而坚挺的金条价格则有助于矿商保护利润率。",
+  "pub_time": "2026-10-23T14:24:08Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "fae4249fb3666da987297925097dcd42",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡",
+   "价",
+   "大涨"
+  ],
+  "en_title": "Diesel price surge putting mining profits to test"
+ },
+ {
+  "title": "纽蒙特将 Red Chris 扩张定价高达 $4.8B",
+  "url": "",
+  "summary": "纽蒙特公司 (NYSE, ASX: NEM) 出价高达 48 亿美元（64 亿加元），将其位于不列颠哥伦比亚省的 Red Chris 铜金矿开采到地下，商业生产的目标是... 后纽蒙特公司将 Red Chris 扩张定价高达 4.8B 美元，首先出现在《北方矿工》上。",
+  "pub_time": "2026-10-23T14:15:36Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "9c55f42c55457e950b132507d566f960",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "价"
+  ],
+  "en_title": "Newmont prices Red Chris expansion at up to $4.8B"
+ },
+ {
+  "title": "每桶 40 美元的隐性成本推高油价",
+  "url": "",
+  "summary": "当美国人考虑石油价格时，他们通常关注金融市场每天的报价数字。如果布伦特原油价格高于每桶 100 美元，或者西德克萨斯中质原油价格接近 100 美元，这些数字就成为石油贵还是便宜的简写。但那个市场价格是o",
+  "pub_time": "2026-10-23T14:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "255f06c7ecb66e3753309e3aed0f6921",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价"
+  ],
+  "en_title": "The Hidden $40-Per-Barrel Cost Driving Oil Prices Higher"
+ },
+ {
+  "title": "山东出台27条经济新政 加码数智经济与现代农业",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720086.shtml",
+  "summary": "陈宛婷)山东省人民政府新闻办公室23日举行政策例行吹风会，解读《2026年促进经济“稳中求进、提质增效”政策清单(第二批)》。记者从会上获悉，该批政策清单共包括4个方面27条，在促消费、扩投资、稳服务业的同时，拿出“真金白银”加码人工智能、智能工厂、机器人等数智经济赛道，并加力支持设施农业、水肥一体化等现代农业项目，加快培育新动能、塑强新优势",
+  "pub_time": "2026-10-23T13:50:48Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "87c204a8a2d4a300dafafcc5f88a593d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "新发现的黄金使 Queensway 估值翻倍至 $1.7B",
   "url": "",
   "summary": "New Found Gold (TSX, NYSE-A: NFGC) 已将其位于纽芬兰的 Queensway 黄金项目的预计价值增加了​​一倍以上，达到 17.3 亿加元，同时通过以下方式扩大测量和指示资源... New Found Gold 使 Queensway 估值增加一倍，达到 1.7B 美元，该消息首先出现在 The Northern Miner 上。",
@@ -51,51 +198,13 @@
   "en_title": "U.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York"
  },
  {
-  "title": "山西闻喜6500亩苹果丰收 农文旅商融合激活乡村振兴新动能",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720030.shtml",
-  "summary": "李庭耀 杨秀文 杨一敏)霜降时节，硕果盈枝。山西省运城市闻喜县阳隅镇峨嵋岭沿线，6500亩苹果迎来采收旺季，红彤彤的果实缀满枝头，果农采摘分拣、客商择优采购。10月23日至25日，阳隅镇举办苹果红了暨农民丰收节文商融合旅游宣传推介活动，以果为媒、以节赋能，推动农文旅商深度融合，让特色苹果产业成为乡村振兴、群众增收的支撑",
-  "pub_time": "2026-10-23T12:46:00Z",
-  "source": "中国新闻网-财经",
+  "title": "Mysteel快讯：日本制铁计划投30亿美元改造美国钢铁工厂",
+  "url": "https://news.mysteel.com/a/26102321/1047192D59B9AE6A.html",
+  "summary": "",
+  "pub_time": "2026-10-23T13:00:00Z",
+  "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "0d4bc3a4023d1bf58d04cb06c69244d2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
-  "title": "今年前三季度广东GDP达11.11万亿元 同比增长4.6%",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720029.shtml",
-  "summary": "中新社广州10月23日电 (记者 许青青)广东省统计局23日发布2026年前三季度广东经济运行情况。前三季度，广东地区生产总值(GDP)11.11万亿元(人民币，下同)，同比增长4.6%，增速比上半年提高0.1个百分点，经济总量继续稳居中国首位。全省生产供给较快增长，新质生产力加速成长，居民收入稳步增加，经济运行呈现稳中有进、向新向优的发展态势",
-  "pub_time": "2026-10-23T12:45:52Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "811b7d088b019860043d25e4260a2765",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
-  "title": "不甘做能源过路人 浙江舟山冀建大宗商品资源配置枢纽",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720027.shtml",
-  "summary": "贾天勇 张斌)一艘国际货轮靠泊浙江舟山，加满油后驶向远洋。近年来，这样的场景在舟山愈加频繁。仅2025年，舟山船用燃料加注量就超过800万吨，跃居全球第三大加油港——但舟山并不甘于做“能源过路人”",
-  "pub_time": "2026-10-23T12:43:04Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "e1742aa83fe00edfbcd772b8ed882bf3",
+  "dedup_key": "1ac88284dd946da9e75b6058ec5611af",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -103,7 +212,7 @@
    "大宗商品",
    "中文",
    "国内",
-   "中国新闻网-财经"
+   "上海钢联Mysteel"
   ],
   "is_elite": false
  },
@@ -1077,31 +1186,6 @@
   "en_title": "Daily Market Wire 23 October 2026"
  },
  {
-  "title": "随着亚洲放眼海湾以外，加拿大液化天然气公司产能翻倍",
-  "url": "",
-  "summary": "上个月，壳牌（纽约证券交易所股票代码：SHEL）与马来西亚国家石油公司、中国石油天然气集团公司、三菱商事株式会社和韩国天然气公司一起，正式批准了加拿大液化天然气二期扩建项目的最终投资决定（FID），将该设施的产能提高一倍，达到每年 2800 万吨（mtpa），并加强该项目的产能。",
-  "pub_time": "2026-10-23T00:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "e38b80814bc2b38c06ea2d8611d78575",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "LNG Canada Doubles Capacity as Asia Looks Beyond the Gulf"
- },
- {
   "title": "四川黄金：2026年前三季度净利润同比增长49.91%",
   "url": "https://news.mysteel.com/a/26102308/800E787076A1CA44.html",
   "summary": "",
@@ -1258,34 +1342,6 @@
    "基本金属"
   ],
   "en_title": "Mining Forum video: Majors are waking up to discoveries, fund manager says"
- },
- {
-  "title": "原油进口增加减少了中国从库存中提取的需求",
-  "url": "",
-  "summary": "自伊朗战争导致油价升至每桶100美元以上以来，中国一直依赖其庞大的原油库存。 3月份之后的大部分时间里，全球最大的原油进口国都在动用其13亿桶的原油储备，因为在价格飙升的情况下削减了进口量。库存减少，库存减少",
-  "pub_time": "2026-10-22T23:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "987cb1f25cf64c68e747108ceb636973",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "库存",
-   "进口"
-  ],
-  "en_title": "Rising Crude Oil Imports Reduce China’s Need to Draw from Stocks"
  },
  {
   "title": "Mysteel早读：螺纹表需降至近四年低位，全球超八成新船订单涌向中国",
@@ -3202,33 +3258,6 @@
   "en_title": "Crude Oil Moves Lower Amid Reports Of Improvement In Hormuz Traffic"
  },
  {
-  "title": "矿业论坛视频：Stöferle 发现黄金便宜但准备好现金",
-  "url": "",
-  "summary": "总部位于列支敦士登的Incrementum黄金基金经理Ronald-Peter Stöferle在黄金回调后看到了矿业股票的廉价交易。",
-  "pub_time": "2026-10-21T17:48:47Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "64b226b76dac347e4ac777b7b66d504c",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "走强"
-  ],
-  "en_title": "Mining Forum video: Stöferle spots gold bargains but keeps cash ready"
- },
- {
   "title": "玉米种植者敦促制定长期解决方案以及 80 亿美元的救助计划",
   "url": "",
   "summary": "",
@@ -3880,32 +3909,5 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "矿业论坛视频：Stöferle 发现黄金便宜但准备好现金",
-  "url": "",
-  "summary": "总部位于列支敦士登的 Incrementum 黄金基金经理 Ronald-Peter Stöferle 认为，在金价回调后，矿业股很便宜，尽管他的积极黄金策略持有近 40% 的现金。该策略的投资信号转变...矿业论坛后视频：Stöferle 发现黄金便宜，但保留现金",
-  "pub_time": "2026-10-21T15:18:21Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "cca9865c1209eee997805305c942e5fa",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "走强"
-  ],
-  "en_title": "Mining Forum video: Stöferle spots gold bargains but keeps cash ready"
  }
 ]
