@@ -1194,33 +1194,6 @@
   "en_title": "Halo Minerals clears key hurdle at Chile copper project"
  },
  {
-  "title": "中东风险抵消和平希望，油价维持在 100 美元附近",
-  "url": "",
-  "summary": "12 月 WTI 原油本周几乎没有变化，但平淡的结果掩盖了艰难的走势。该合约开盘价为 99.04 美元，随后反弹至 101.37 美元，然后突破至 95.25 美元，然后恢复至开盘价。截至格林威治标准时间 00:19，12 月 WTI 原油交易价格为 99.29 美元，上涨 0.25 美元，涨幅为 +0.25%",
-  "pub_time": "2026-10-23T11:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "e987ec1d131c023cd35e127bdefe242f",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价"
-  ],
-  "en_title": "Oil Prices Hold Near $100 as Middle East Risks Offset Peace Hopes"
- },
- {
   "title": "由于石油驱动的通胀担忧，金价将每周大幅下跌",
   "url": "",
   "summary": "(RTTNews) - 周五金价保持稳定，但由于油价上涨和长期利率预期上升，金价将出现四个多月来最大单周跌幅。",
@@ -2361,31 +2334,5 @@
    "生铁"
   ],
   "en_title": "US permitting: Environmental review overhaul could speed mine approvals, but hurdles remain"
- },
- {
-  "title": "美国小麦行业与全球买家分享 2026 年农作物质量数据",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-10-22T17:08:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "2e8fdc497b4bcc475ef63eba2f16de1e",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "小麦"
-  ],
-  "en_title": "U.S. Wheat Industry Shares 2026 Crop Quality Data With Global Buyers"
  }
 ]
