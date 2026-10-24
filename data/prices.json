@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T21:50:37",
+ "updated_at": "2026-10-25T00:06:42",
  "spot_meta": {
   "policy": "stale_never_fill",
   "spot_page_used": "2026-10-23",
@@ -6724,7 +6724,7 @@
   "change_pct": 5.28
  },
  "afternoon_pick": {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "session": "afternoon",
   "ruleset": 3,
   "name": "",
