@@ -1,5 +1,32 @@
 [
  {
+  "title": "燃油成为亚洲下一个成本冲击",
+  "url": "",
+  "summary": "新加坡的航运燃料市场给亚洲贸易增加了另一层成本。中东和俄罗斯的供应中断、弹性的燃油需求和高昂的运费已使高硫燃料油的价格高于其生产原油的价格。海湾生产的季节性缓解",
+  "pub_time": "2026-10-24T21:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "9beb401855093e49e36009383df2d487",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "燃料"
+  ],
+  "en_title": "Fuel Oil Becomes Asia’s Next Cost Shock"
+ },
+ {
   "title": "叙利亚能源卷土重来可能重塑中东石油和天然气",
   "url": "",
   "summary": "在经历了十多年的冲突后，叙利亚正在全国范围内进行重建，这场冲突造成了广泛的基础设施破坏，并导致数百万人流离失所。随着叙利亚人重建生活，政府有宏伟的经济多元化和增长计划，以支持长期",
@@ -1097,31 +1124,6 @@
   "en_title": "New Found Gold doubles Queensway valuation to $1.2B"
  },
  {
-  "title": "第一批俄罗斯货物启航前往纽约，美国柴油价格为每加仑 6.30 美元",
-  "url": "",
-  "summary": "航运数据显示，第一艘从俄罗斯运往美国的油轮于当地时间周五早些时候从俄罗斯波罗的海的普里莫尔斯克港出发，正在前往纽约的途中，预计将于 11 月 7 日抵达纽约。悬挂马尔国旗的中型油轮Agioi Fanendes",
-  "pub_time": "2026-10-23T13:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "70a8745fc03ef16b45b488ec527b97a4",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "U.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York"
- },
- {
   "title": "中国引领购买热潮，各国央行纷纷买入黄金",
   "url": "",
   "summary": "随着中国扩大储备，各国央行加速购买黄金，加强了黄金在全球货币战略中的作用。",
@@ -2071,161 +2073,5 @@
    "黄金"
   ],
   "en_title": "Boroo signs $100M deal for Yukon Eagle gold mine"
- },
- {
-  "title": "Boroo 签署 1.4 亿美元收购 Yukon Eagle 金矿的协议",
-  "url": "",
-  "summary": "私人实体 Boroo 已同意以高达 1.4 亿美元（约合 1 亿美元）的价格收购 Victoria Gold，推进了可能修复和重启其 Eagle 金矿的计划，超过……Boroo 签署价值 1.4 亿美元的育空 Eagle 金矿交易的消息首先出现在《北方矿工》上。",
-  "pub_time": "2026-10-22T21:25:45Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "a0eef0600a59860db128f9ea008084da",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Boroo signs $140M deal for Yukon Eagle gold mine"
- },
- {
-  "title": "Liberty Gold 扩大 Black Pine 在爱达荷州的影响力",
-  "url": "",
-  "summary": "Liberty Gold（多伦多证券交易所代码：LGD；美国场外交易代码：LGDTF）在其位于爱达荷州的 Black Pine 项目中钻探了超出资源边界的黄金，并概述了可能增加该地点资源的扩建项目。钻探……自由黄金延伸黑松在爱达荷州的影响力的帖子首先出现在《北方矿工》上。",
-  "pub_time": "2026-10-22T21:15:51Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "a3837c1fe0d1adf53f1df2e4c0de6353",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Liberty Gold stretches Black Pine’s reach in Idaho"
- },
- {
-  "title": "西班牙：泛全球关注古代腰带中的铜财富",
-  "url": "",
-  "summary": "Pan Global Resources (TSXV: PGZ; US-OTC: PGZFF)由前力拓(Rio Tinto, ASX, LSE, NYSE: RIO)勘探总监蒂姆·穆迪(Tim Moody)领导，他认为邻近的工厂是铜生产的潜在途径……后西班牙： Pan Global关注古代带中的铜财富首次出现在《北方矿工》(The Northern Miner)上。",
-  "pub_time": "2026-10-22T21:15:45Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "497f97bd97d900f669b9421ad5f75ba2",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "Spain: Pan Global eyes copper riches in ancient belt"
- },
- {
-  "title": "矿业论坛视频：基金经理表示，各大巨头正在意识到新发现",
-  "url": "",
-  "summary": "大宗商品发现基金创始人威廉·米德尔科普 (Willem Middelkoop) 的目标是新发现和接近投产的矿山，以从他认为可能持续数十年的大宗商品涨势中获取收益。总部位于荷兰的基金...矿业论坛后视频：基金经理表示，各大公司正在意识到新发现",
-  "pub_time": "2026-10-22T21:01:19Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "9bfc995cc3d6e6a32664653ed989b51e",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Mining Forum video: Majors are waking up to discoveries, fund manager says"
- },
- {
-  "title": "泰克资源股票变得非常超卖",
-  "url": "",
-  "summary": "在周四的交易中，Teck Resources Ltd（股票代码：TECK）的股票进入超卖区域，换手价低至每股 58.75 美元。我们使用相对强度指数（RSI）定义超卖区域，这是一种用于衡量时刻的技术分析指标",
-  "pub_time": "2026-10-22T20:10:45Z",
-  "source": "Nasdaq商品",
-  "_cat": "基本金属",
-  "dedup_key": "f52176e0a47ba354e13dd9ba4ae422cc",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡",
-   "库存"
-  ],
-  "en_title": "Teck Resources Stock Getting Very Oversold"
- },
- {
-  "title": "ERO 库存挤满卖家",
-  "url": "",
-  "summary": "在周四的交易中，Ero Copper Corp（股票代码：ERO）的股票进入超卖区域，换手价低至每股 29.93 美元。我们使用相对强弱指数（RSI）来定义超卖区域，这是一种用于衡量超卖动量的技术分析指标。",
-  "pub_time": "2026-10-22T20:05:27Z",
-  "source": "Nasdaq商品",
-  "_cat": "基本金属",
-  "dedup_key": "1c04bb5e26721d06a34a75214d24a506",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "库存"
-  ],
-  "en_title": "ERO Stock Crowded With Sellers"
  }
 ]
