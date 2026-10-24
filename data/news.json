@@ -1,5 +1,24 @@
 [
  {
+  "title": "每日钢市：螺纹钢表需创近4年同期最低，钢价或偏弱运行",
+  "url": "https://news.mysteel.com/a/26102416/3100BAA241FF9640.html",
+  "summary": "",
+  "pub_time": "2026-10-24T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "0c7ed29303007592f3f010e3eb53c298",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "广东茂名口岸首票进口“多式联运（水水）”业务落地",
   "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720261.shtml",
   "summary": "梁盛 卢明枢 王子瑞)广东茂名海关24日发布消息：“穗港航5001”轮23日顺利靠泊茂名广港码头，船上装载来自塞内加尔的26个集装箱进口初榨花生油顺利办结通关手续，目前正在卸运中，标志着茂名口岸首票进口“多式联运(水水)”业务正式落地",
@@ -3264,183 +3283,6 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "WTI原油期货价格涨2.95%，升破100美元/桶",
-  "url": "https://news.mysteel.com/a/26102216/18A195CD1B8843B3.html",
-  "summary": "",
-  "pub_time": "2026-10-22T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "3de1e21c4e1785878ad8317d2768ee95",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "关键矿产日报：福德士河铁矿石产量公布，马来西亚首次批准出口稀土原料",
-  "url": "https://news.mysteel.com/a/26102216/C5CFC203057A9EF3.html",
-  "summary": "",
-  "pub_time": "2026-10-22T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "ef9125c71750a0bab427e45d617eb68e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel日报：黑色金属期货价格震荡下跌运行",
-  "url": "https://news.mysteel.com/a/26102216/9FE6EE02042427D7.html",
-  "summary": "",
-  "pub_time": "2026-10-22T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "31f834ba0a5f271cd4cbd0126e13ded0",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "塞杜纳铁路、公路列车相撞后关闭",
-  "url": "",
-  "summary": "周二，一列运载石膏的 Aurizon 列车与一列运载谷物的公路列车相撞，南澳州塞杜纳的一条公路和铁路线仍处于关闭状态。",
-  "pub_time": "2026-10-22T07:51:46Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "055da684dfe8ccdfec726a7cf4205c64",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品"
-  ],
-  "en_title": "Closures in place after rail, road train collide at Ceduna"
- },
- {
-  "title": "大摩：中东原油出口量接近战前水平",
-  "url": "https://news.mysteel.com/a/26102215/D71614E8AA6F63DB.html",
-  "summary": "",
-  "pub_time": "2026-10-22T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "d890c3a7e158d7a65edce396fad38f1e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：2026年双碳政策密集落地，钢铁行业迈入降碳攻坚新阶段",
-  "url": "https://news.mysteel.com/a/26102215/553B089185C9A589.html",
-  "summary": "",
-  "pub_time": "2026-10-22T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "647dc2613403f48eb1d6624b183444de",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色持仓日报：铁矿石跌1.62%，中信期货增持近6.7千手空单",
-  "url": "https://news.mysteel.com/a/26102215/0FD5F5D72AB2750B.html",
-  "summary": "",
-  "pub_time": "2026-10-22T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "6830d9ec68da6f1fb33ffd0f7bb01d99",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "有色持仓日报：沪铜跌1.26%，国泰君安减持超2.5千手多单",
-  "url": "https://news.mysteel.com/a/26102215/43D2EFF43D3ECF78.html",
-  "summary": "",
-  "pub_time": "2026-10-22T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "af41fcc1e394b8bcc51cd4bc53662269",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel聚焦钢铁产业数据（2026年10月22日） —五大品种钢材供需双弱，库存有所去化",
-  "url": "https://news.mysteel.com/a/26102215/637BC10C5D4376F5.html",
-  "summary": "",
-  "pub_time": "2026-10-22T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "fbaac68e66ba1dfd61660af7305c2f89",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
