@@ -1,5 +1,31 @@
 [
  {
+  "title": "创纪录的油轮运价导致美国原油流向亚洲",
+  "url": "",
+  "summary": "伊朗战争导致油轮航行效率低下，导致船舶可用性大幅下降，货运成本飙升至历史新高，几乎消除了将原油从美国墨西哥湾沿岸运往亚洲的动力。从美国墨西哥湾沿岸到中国的原油运输成本飙升",
+  "pub_time": "2026-10-24T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "88121c78d4d3279e4d303bb4088e1954",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia"
+ },
+ {
   "title": "燃油成为亚洲下一个成本冲击",
   "url": "",
   "summary": "新加坡的航运燃料市场给亚洲贸易增加了另一层成本。中东和俄罗斯的供应中断、弹性的燃油需求和高昂的运费已使高硫燃料油的价格高于其生产原油的价格。海湾生产的季节性缓解",
@@ -54,13 +80,13 @@
   "en_title": "Syria's Energy Comeback Could Reshape Middle East Oil and Gas"
  },
  {
-  "title": "每日钢市：螺纹钢表需创近4年同期最低，钢价或偏弱运行",
-  "url": "https://news.mysteel.com/a/26102416/3100BAA241FF9640.html",
+  "title": "Mysteel宏观周报：多部门释放政策信号",
+  "url": "https://news.mysteel.com/a/26102423/CFFA3F3466490377.html",
   "summary": "",
-  "pub_time": "2026-10-24T08:00:00Z",
+  "pub_time": "2026-10-24T15:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "0c7ed29303007592f3f010e3eb53c298",
+  "dedup_key": "927f5152c54c968bb1e3ee57374c5256",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -73,18 +99,37 @@
   "is_elite": false
  },
  {
-  "title": "国家发改委：将电煤、电力、天然气三类能源保供中长期合同纳入统一制度框架",
-  "url": "https://news.mysteel.com/a/26102409/43A029D4B3112FC9.html",
+  "title": "Mysteel宏观周报：多部门释放政策信号，Q3经济边际回升",
+  "url": "https://news.mysteel.com/a/26102423/B23CEDD54361CF17.html",
   "summary": "",
-  "pub_time": "2026-10-24T01:00:00Z",
+  "pub_time": "2026-10-24T15:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "ff190bc2560a3eff0e404fff2f19a74b",
+  "dedup_key": "ee29036bba32a20d46a9d592f5844d83",
   "score": 80,
   "priority": "P1",
-  "topic": "国内/大宗商品",
+  "topic": "国内/财经",
   "tags": [
-   "大宗商品",
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "每日钢市：螺纹钢表需创近4年同期最低，钢价或偏弱运行",
+  "url": "https://news.mysteel.com/a/26102416/3100BAA241FF9640.html",
+  "summary": "",
+  "pub_time": "2026-10-24T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "0c7ed29303007592f3f010e3eb53c298",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -1071,33 +1116,6 @@
   "en_title": "Diesel price surge putting mining profits to test"
  },
  {
-  "title": "每桶 40 美元的隐性成本推高油价",
-  "url": "",
-  "summary": "当美国人考虑石油价格时，他们通常关注金融市场每天的报价数字。如果布伦特原油价格高于每桶 100 美元，或者西德克萨斯中质原油价格接近 100 美元，这些数字就成为石油贵还是便宜的简写。但那个市场价格是o",
-  "pub_time": "2026-10-23T14:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "255f06c7ecb66e3753309e3aed0f6921",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价"
-  ],
-  "en_title": "The Hidden $40-Per-Barrel Cost Driving Oil Prices Higher"
- },
- {
   "title": "新发现的黄金使 Queensway 估值翻倍至 $1.2B",
   "url": "",
   "summary": "修订后的 PEA 显示纽芬兰黄金项目的资源量增加了 38%。",
@@ -1250,25 +1268,6 @@
    "周"
   ],
   "en_title": "Oil Headed For Third Weekly Gain"
- },
- {
-  "title": "Mysteel晚餐：钢厂高炉铁水产量减少",
-  "url": "https://news.mysteel.com/a/26102317/C63E76A6F3C463BA.html",
-  "summary": "",
-  "pub_time": "2026-10-23T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "aab922914d171480c6de2518c50a938d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  },
  {
   "title": "粤北联合钢铁产能置换方案",
@@ -1998,50 +1997,6 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "矿业论坛视频：基金经理表示，各大巨头正在意识到新发现",
-  "url": "",
-  "summary": "威廉·米德尔科普 (Willem Middelkoop) 的目标是新发现和接近投产的矿山，以从他认为可能持续数十年的大宗商品上涨中获取收益。",
-  "pub_time": "2026-10-22T23:28:54Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "ead62dcf84b081f256c28620d9b5600d",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Mining Forum video: Majors are waking up to discoveries, fund manager says"
- },
- {
-  "title": "Mysteel早读：螺纹表需降至近四年低位，全球超八成新船订单涌向中国",
-  "url": "https://news.mysteel.com/a/26102307/A8F5CFA99E3FB391.html",
-  "summary": "",
-  "pub_time": "2026-10-22T23:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "04782ae41b8d937962c62c873fc37316",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
