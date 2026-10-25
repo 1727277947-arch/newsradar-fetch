@@ -1,5 +1,31 @@
 [
  {
+  "title": "尽管清洁能源蓬勃发展，世界气温仍有望上升 2.8 度",
+  "url": "",
+  "summary": "联合国表示，由于“数十年来气候行动不足”，世界现在不可避免地无法实现《巴黎气候协定》规定的具有法律约束力的目标。 2015 年批准的《巴黎协定》目标是将全球变暖限制在 1.5 摄氏度",
+  "pub_time": "2026-10-25T17:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "843c306a4c0ec3d0253abd5fa49313dd",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "能源"
+  ],
+  "en_title": "World Is on Track for Up to 2.8 Degrees of Warming Despite Clean Energy Boom"
+ },
+ {
   "title": "COP31主办方敦促北约国家在气候方面的支出多于国防支出",
   "url": "",
   "summary": "联合国 COP31 气候峰会的东道国土耳其鼓励参加会议的富裕国家在气候支持方面投入更多资金，而不是在国防方面。此前，土耳其于 9 月宣布计划大力投资发展可再生能源产能",
@@ -910,32 +936,5 @@
    "价"
   ],
   "en_title": "Newmont prices Red Chris expansion at up to $4.8B"
- },
- {
-  "title": "Moon River 将 Davidson 价值提升至 $1.2B，钨产量跃升",
-  "url": "",
-  "summary": "Moon River Moly（多伦多证券交易所股票代码：MOO；美国场外交易市场代码：MRIVF）的一项新研究将其位于不列颠哥伦比亚省的戴维森钼铜钨项目的估计价值提高了 20%，钨产量增加了四倍以上。Moon River 将戴维森价值提升至 $1.2B，钨产量跃升首先出现在 The Nor 上",
-  "pub_time": "2026-10-23T16:55:13Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "2aeb4689826455b99bb13f1aac0ad7ea",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "跳涨",
-   "产量"
-  ],
-  "en_title": "Moon River lifts Davidson value to $1.2B, tungsten output jumps"
  }
 ]
