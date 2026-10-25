@@ -1,5 +1,32 @@
 [
  {
+  "title": "英国可再生能源热潮正遭遇电网瓶颈",
+  "url": "",
+  "summary": "近年来，英国大力投资扩大可再生能源产能，以减少对化石燃料的依赖并支持绿色转型。然而，一个主要问题阻碍了它实现这一目标——传输基础设施准备不足。尽管严重",
+  "pub_time": "2026-10-25T19:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "592c5ca0bc6ea5b5f4ef5f350879bd3d",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "能源",
+   "锡"
+  ],
+  "en_title": "Britain's Renewable Energy Boom Is Hitting a Grid Bottleneck"
+ },
+ {
   "title": "尽管清洁能源蓬勃发展，世界气温仍有望上升 2.8 度",
   "url": "",
   "summary": "联合国表示，由于“数十年来气候行动不足”，世界现在不可避免地无法实现《巴黎气候协定》规定的具有法律约束力的目标。 2015 年批准的《巴黎协定》目标是将全球变暖限制在 1.5 摄氏度",
@@ -722,85 +749,5 @@
    "黄金"
   ],
   "en_title": "New Found Gold doubles Queensway valuation to $1.7B"
- },
- {
-  "title": "Southern Copper 斥资 6.8 亿美元进行 Cuajone 扩建",
-  "url": "",
-  "summary": "南方铜业公司（NYSE，BVL：SCCO）正在评估其位于秘鲁南部的 Cuajone 矿的 6.8 亿美元（9.506 亿加元）扩建项目，以应对矿石品位下降并提高铜矿效率。",
-  "pub_time": "2026-10-23T20:00:00Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "004e0c7272f1be6a6dec8503ad9eee4c",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "Southern Copper weighs $680M Cuajone expansion"
- },
- {
-  "title": "枫树金矿股票变得非常超卖",
-  "url": "",
-  "summary": "在周五的交易中，Maple Gold Mines Ltd（代码：MGMLF）的股票进入超卖区域，易手低至每股 1.71 美元。我们使用相对强度指数（RSI）定义超卖区域，这是一种用于衡量时刻的技术分析指标",
-  "pub_time": "2026-10-23T19:59:32Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "5b62a939d4ad6b1846914f63ca17f76c",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "锡",
-   "库存"
-  ],
-  "en_title": "Maple Gold Mines Stock Getting Very Oversold"
- },
- {
-  "title": "专栏：尼加拉瓜采矿——威胁美国国家安全的黄金桥头堡",
-  "url": "",
-  "summary": "尼古拉斯·瓦菲斯 (Nicholas Vafeas) 写道，关于矿物的关键争论已经变得痴迷于纯粹的地质学，但矿物安全并不仅仅由地质学决定。",
-  "pub_time": "2026-10-23T19:09:48Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "a2705f433220c5bdfcd808cf3ad2c26d",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Op-Ed: Nicaragua mining – the golden bridgehead threatening US national security"
  }
 ]
