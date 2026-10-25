@@ -1032,44 +1032,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年10月24日河南新乡新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/24/5638297389.shtml",
-  "summary": "",
-  "pub_time": "2026-10-23T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "8804609b3abea03cf73adfe1bcd35d9d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月24日河北邢台新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/24/5623807602.shtml",
-  "summary": "",
-  "pub_time": "2026-10-23T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "1563237105172234c3e9008107852920",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年10月24日河南省商丘永城新季大豆价格行情",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/24/0158588934.shtml",
   "summary": "",
@@ -1317,6 +1279,44 @@
   "is_elite": false
  },
  {
+  "title": "2026年10月24日河南新乡新季玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/24/5638297389.shtml",
+  "summary": "",
+  "pub_time": "2026-10-23T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "155e0e9549c1fd3be122b492fdb82297",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年10月24日河北邢台新季玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/24/5623807602.shtml",
+  "summary": "",
+  "pub_time": "2026-10-23T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "4ab4dfdfcf0f02d2659dcc23b2f2ad8a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年10月24日山东济宁新季玉米价格行情",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/24/5610983298.shtml",
   "summary": "",
@@ -1475,77 +1475,5 @@
    "大涨"
   ],
   "en_title": "Diesel price surge putting mining profits to test"
- },
- {
-  "title": "新发现的黄金使 Queensway 估值翻倍至 $1.2B",
-  "url": "",
-  "summary": "修订后的 PEA 显示纽芬兰黄金项目的资源量增加了 38%。",
-  "pub_time": "2026-10-23T13:42:07Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "040342f40c73356fe617104744719dec",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "New Found Gold doubles Queensway valuation to $1.2B"
- },
- {
-  "title": "中国引领购买热潮，各国央行纷纷买入黄金",
-  "url": "",
-  "summary": "随着中国扩大储备，各国央行加速购买黄金，加强了黄金在全球货币战略中的作用。",
-  "pub_time": "2026-10-23T13:10:00Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "5bcd04609fd5ac58cf1aa12bd01bd7c6",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "铅"
-  ],
-  "en_title": "Central banks pile into gold as China leads buying spree"
- },
- {
-  "title": "Mysteel快讯：日本制铁计划投30亿美元改造美国钢铁工厂",
-  "url": "https://news.mysteel.com/a/26102321/1047192D59B9AE6A.html",
-  "summary": "",
-  "pub_time": "2026-10-23T13:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "1ac88284dd946da9e75b6058ec5611af",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  }
 ]
