@@ -232,6 +232,82 @@
   "is_elite": false
  },
  {
+  "title": "2026年10月25日山东省菏泽巨野新季大豆价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/25/3831869870.shtml",
+  "summary": "",
+  "pub_time": "2026-10-24T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "49dda0bd4038bf26450b22598c36fb42",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年10月25日安徽省阜阳颍上大豆新季价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/25/3814406184.shtml",
+  "summary": "",
+  "pub_time": "2026-10-24T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "8f587e7b31fa5a6c7a37a869e25853d6",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年10月25日湖北天门岳口镇新季大豆价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/25/3755442308.shtml",
+  "summary": "",
+  "pub_time": "2026-10-24T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "becee62ff5e63afb5a4aaf8597ab77a5",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年10月25日内蒙古呼伦贝尔阿荣旗新季大豆价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/25/3741378528.shtml",
+  "summary": "",
+  "pub_time": "2026-10-24T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "d99c23dac77325762f122d36a7208ab0",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年10月25日安徽淮北小麦价格行情",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/25/0922137134.shtml",
   "summary": "",
@@ -1705,87 +1781,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "Mysteel午报：钢价局部下跌，焦煤期货涨超1%",
-  "url": "https://news.mysteel.com/a/26102311/E1E26E4CF95664D8.html",
-  "summary": "",
-  "pub_time": "2026-10-23T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "ee395e4ad41aefe7be1dc771bc9f6223",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "螺纹钢期货下跌，钢价延续弱势运行",
-  "url": "https://news.mysteel.com/a/26102311/8052F8429AE2F6F7.html",
-  "summary": "",
-  "pub_time": "2026-10-23T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "c3da720cef176bd1e88a0ca3d4cd624c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "【证券时报】隆众资讯刘炳娟：汽柴油价格均存小幅回落预期",
-  "url": "https://news.mysteel.com/a/26102311/4049A8F452604105.html",
-  "summary": "",
-  "pub_time": "2026-10-23T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "569d48d26cc213c625a2c632407018b4",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "退伍军人是本土资产，准备好支持农业",
-  "url": "",
-  "summary": "在粮食丰收援助行动成功的基础上，正在为前澳大利亚国防军人员开展培训，以使他们及其家人进入农业工作和农村社区。",
-  "pub_time": "2026-10-23T02:05:00Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "1acb9ef479680e5400298e152ff5b991",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品"
-  ],
-  "en_title": "Veterans a home-grown asset ready to bolster ag"
  }
 ]
