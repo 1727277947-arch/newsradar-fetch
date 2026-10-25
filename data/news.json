@@ -1,5 +1,24 @@
 [
  {
+  "title": "内蒙古霍林郭勒开通至上海航线 “绿电铝之城”空中连通长三角",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720763.shtml",
+  "summary": "记者 刘文华)25日，内蒙古自治区霍林郭勒市正式开通经停通辽至上海浦东的航线。这一航线的开通，为这座草原工业小城架起了直通长三角地区的空中走廊",
+  "pub_time": "2026-10-25T10:40:52Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "ce60191ced572be47c7e0e8a93878cf2",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "吉林鲜食玉米的“联合国之旅”：品牌力量叩开世界餐桌",
   "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720687.shtml",
   "summary": "题：吉林鲜食玉米的“联合国之旅”：品牌力量叩开世界餐桌",
@@ -1528,87 +1547,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "Halo Minerals 清除了智利铜项目的关键障碍",
-  "url": "",
-  "summary": "地方当局已授权在 Playa Verde 进行疏浚，这使得尾矿回收项目更接近投资决策。",
-  "pub_time": "2026-10-23T11:53:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "b38cbc205327ee4fd7abbec1c94b3ca4",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "Halo Minerals clears key hurdle at Chile copper project"
- },
- {
-  "title": "由于石油驱动的通胀担忧，金价将每周大幅下跌",
-  "url": "",
-  "summary": "(RTTNews) - 周五金价保持稳定，但由于油价上涨和长期利率预期上升，金价将出现四个多月来最大单周跌幅。",
-  "pub_time": "2026-10-23T10:30:10Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "ec504e97cceef51fbc16f8ed41d39fd9",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "原油",
-   "周"
-  ],
-  "en_title": "Gold Headed For Steep Weekly Loss On Oil-driven Inflation Concerns"
- },
- {
-  "title": "石油有望第三周上涨",
-  "url": "",
-  "summary": "(RTTNews) - 周五，由于胡塞武装袭击沙特石油基础设施和红海港口，人们担心能源供应进一步中断，油价飙升至五个月高位。",
-  "pub_time": "2026-10-23T10:00:18Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "a3fbb21bacbb185dc33b7d2cbb1b81c4",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "走强",
-   "周"
-  ],
-  "en_title": "Oil Headed For Third Weekly Gain"
  }
 ]
