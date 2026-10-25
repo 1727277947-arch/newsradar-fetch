@@ -1,5 +1,121 @@
 [
  {
+  "title": "维多利亚州南澳优质混合农业乡村",
+  "url": "",
+  "summary": "吸引人们关注的是石灰岩海岸的托尔凯恩 (Tolcairn)、南澳廷蒂纳拉 (Tintinara) 区的聚集区以及维多利亚州西部的塔尔夸 (Tarqua)，",
+  "pub_time": "2026-10-25T23:36:22Z",
+  "source": "GrainCentral",
+  "_cat": "基本金属",
+  "dedup_key": "c1a083d2293f3a405fe6c0d4d0bd2b37",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Quality mixed-farming country on offer in SA, Vic"
+ },
+ {
+  "title": "亚洲正在建设世界下一个 15 万亿美元的能源市场",
+  "url": "",
+  "summary": "全球能源转型正日益成为亚洲的故事，而亚洲不太可能走华盛顿或布鲁塞尔设想的道路。该地区政府将对煤炭、石油、天然气、可再生能源和能源存储的未来产生巨大影响。阿西接下来会发生什么",
+  "pub_time": "2026-10-25T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "243fe0c47e769584994cff7cf85e3572",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Asia Is Building the World’s Next $15 Trillion Energy Market"
+ },
+ {
+  "title": "尽管中东出口复苏，油价仍上涨",
+  "url": "",
+  "summary": "过去几周，有关波斯湾和红海石油流量恢复的报道占据了头条新闻。然而，油价只是走高，这表明仅靠桶数还不足以让世界相信一切都恢复正常。事实并非如此。根据最新Kp",
+  "pub_time": "2026-10-25T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "eccccf9826af9e6778c47ed51e05dbed",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "上涨"
+  ],
+  "en_title": "Oil Prices Rise Despite Middle East Export Recovery"
+ },
+ {
+  "title": "Mysteel早读：全球迎来“超级央行周”",
+  "url": "https://news.mysteel.com/a/26102607/CE14D7370FE9D746.html",
+  "summary": "",
+  "pub_time": "2026-10-25T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "bec55d04dc7452cf9f238e2f875b0fc5",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/金融政策",
+  "tags": [
+   "金融政策",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel早读：全球迎来“超级央行周”，沁源县实际出煤8座煤矿",
+  "url": "https://news.mysteel.com/a/26102607/A71E72E740A47C5B.html",
+  "summary": "",
+  "pub_time": "2026-10-25T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "c78bbbd1ac1fd832e8a69bd2169c7681",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/金融政策",
+  "tags": [
+   "金融政策",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "英国可再生能源热潮正遭遇电网瓶颈",
   "url": "",
   "summary": "近年来，英国大力投资扩大可再生能源产能，以减少对化石燃料的依赖并支持绿色转型。然而，一个主要问题阻碍了它实现这一目标——传输基础设施准备不足。尽管严重",
@@ -564,25 +680,6 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel宏观周报：多部门释放政策信号",
-  "url": "https://news.mysteel.com/a/26102423/CFFA3F3466490377.html",
-  "summary": "",
-  "pub_time": "2026-10-24T15:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "927f5152c54c968bb1e3ee57374c5256",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel宏观周报：多部门释放政策信号，Q3经济边际回升",
   "url": "https://news.mysteel.com/a/26102423/1E78746F98B14997.html",
   "summary": "",
@@ -619,30 +716,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "特朗普的反向尼克松战略：引入俄罗斯，将中国拒之门外",
-  "url": "",
-  "summary": "10 月 9 日，特朗普总统与普京总统通话几小时后，美国财政部发布了一项为期六个月的豁免，允许俄罗斯柴油在全球市场上销售。既定目标是在 11 月 3 日中期选举之前降低燃油价格。但我相信这笔交易更合",
-  "pub_time": "2026-10-23T23:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "ca3da3e5eb88dccc47b64a3161086262",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out"
  }
 ]
