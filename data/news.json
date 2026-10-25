@@ -51,6 +51,32 @@
   "en_title": "COP31 Host Urges NATO Nations to Spend More on Climate Than Defense"
  },
  {
+  "title": "中国在阿根廷的采矿足迹比看起来要小",
+  "url": "",
+  "summary": "基于股权的计算显示，北京在已批准的矿业投资中所占份额为 9.2%，新的锂项目有望提升这一比例。",
+  "pub_time": "2026-10-25T12:00:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "119b4271d75e35b0acfd9fdf6d2fcf2d",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡"
+  ],
+  "en_title": "China’s Argentina mining footprint smaller than it looks"
+ },
+ {
   "title": "内蒙古霍林郭勒开通至上海航线 “绿电铝之城”空中连通长三角",
   "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720763.shtml",
   "summary": "记者 刘文华)25日，内蒙古自治区霍林郭勒市正式开通经停通辽至上海浦东的航线。这一航线的开通，为这座草原工业小城架起了直通长三角地区的空中走廊",
@@ -776,165 +802,5 @@
    "黄金"
   ],
   "en_title": "Op-Ed: Nicaragua mining – the golden bridgehead threatening US national security"
- },
- {
-  "title": "中东双重紧张局势导致供应担忧加剧，原油价格飙升",
-  "url": "",
-  "summary": "(RTTNews) - 由于人们越来越担心新的、深入的、激烈的美伊战争以及持续的胡塞武装与沙特阿拉伯冲突，周五原油价格大幅上涨。升级可能导致阿拉伯国家的石油和能源供应长期中断",
-  "pub_time": "2026-10-23T18:33:52Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "86c39939b382eeb019de0faed4143758",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "供应"
-  ],
-  "en_title": "Crude Oil Skyrockets Amid Rising Supply Concerns Due To Dual Middle East Tensions"
- },
- {
-  "title": "USW 加强与韩国小麦买家的关系",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-10-23T18:04:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "464fd211c5f7022a93399de8107e06e7",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "小麦"
-  ],
-  "en_title": "USW Strengthens Relationships With South Korean Wheat Buyers"
- },
- {
-  "title": "通胀担忧加剧、美国利率上升，金价暴跌",
-  "url": "",
-  "summary": "(RTTNews) - 由于美国 11 月中期选举后美伊冲突可能再次升级，原油价格连续第二天飙升，引发通胀担忧加剧，金价周五暴跌。对可能发生的担忧",
-  "pub_time": "2026-10-23T17:38:40Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "7676ea6d0140d91cea994a0df65b0ddb",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "暴跌"
-  ],
-  "en_title": "Gold Tumbles Amid Rising Inflation Worries, Higher U.S. Rate Concerns"
- },
- {
-  "title": "两分钟内卖出 600 万桶引发 CFTC 审查",
-  "url": "",
-  "summary": "3 月 23 日，就在唐纳德·特朗普总统放弃袭击伊朗发电厂的威胁之前不久，石油交易商在短短两分钟内就卖出了相当于至少 600 万桶原油的期货。现在，负责监管这些交易的联邦监管机构表示，他们一直在调查这一活动。钴",
-  "pub_time": "2026-10-23T17:20:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "6cdd24f02ac7c863611782c1780cf65d",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "锡"
-  ],
-  "en_title": "6 Million Barrels in Two Minutes Draws CFTC Scrutiny"
- },
- {
-  "title": "随着油价飙升，美国钻机数量保持稳定",
-  "url": "",
-  "summary": "贝克休斯周五公布的最新数据显示，美国活跃油气钻机总数本周连续第二周保持不变，美国总钻机数量保持在 603 座，较去年同期增加 53 座。数量",
-  "pub_time": "2026-10-23T17:16:20Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "6c297ac237cdfc530e8b09b6578d58ad",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "大涨"
-  ],
-  "en_title": "U.S. Rig Count Holds Steady as Oil Prices Surge"
- },
- {
-  "title": "纽蒙特将 Red Chris 扩张定价高达 $4.8B",
-  "url": "",
-  "summary": "不列颠哥伦比亚省的项目年均产量为 275,000–325,000 盎司。 2035年至2040年黄金和65,000-85,000吨铜。",
-  "pub_time": "2026-10-23T17:15:00Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "108cef6c9cc8845d40478a2acff6edaf",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "价"
-  ],
-  "en_title": "Newmont prices Red Chris expansion at up to $4.8B"
  }
 ]
