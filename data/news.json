@@ -1,5 +1,24 @@
 [
  {
+  "title": "吉林鲜食玉米的“联合国之旅”：品牌力量叩开世界餐桌",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720687.shtml",
+  "summary": "题：吉林鲜食玉米的“联合国之旅”：品牌力量叩开世界餐桌",
+  "pub_time": "2026-10-25T06:48:42Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "7710da4d9618a6ad1bb2a2cdbcc1e31a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "创纪录的油轮运价导致美国原油流向亚洲",
   "url": "",
   "summary": "伊朗战争导致油轮航行效率低下，导致船舶可用性大幅下降，货运成本飙升至历史新高，几乎消除了将原油从美国墨西哥湾沿岸运往亚洲的动力。从美国墨西哥湾沿岸到中国的原油运输成本飙升",
@@ -403,6 +422,25 @@
   "is_elite": false
  },
  {
+  "title": "【独家】本周油脂走势分化豆油大幅上涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/25/2940880402.shtml",
+  "summary": "",
+  "pub_time": "2026-10-24T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "15e52ac1f93ff4f48172473328a2b2b0",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "Mysteel宏观周报：多部门释放政策信号",
   "url": "https://news.mysteel.com/a/26102423/CFFA3F3466490377.html",
   "summary": "",
@@ -423,7 +461,7 @@
  },
  {
   "title": "Mysteel宏观周报：多部门释放政策信号，Q3经济边际回升",
-  "url": "https://news.mysteel.com/a/26102423/B23CEDD54361CF17.html",
+  "url": "https://news.mysteel.com/a/26102423/1E78746F98B14997.html",
   "summary": "",
   "pub_time": "2026-10-24T15:00:00Z",
   "source": "上海钢联Mysteel",
@@ -442,7 +480,7 @@
  },
  {
   "title": "每日钢市：螺纹钢表需创近4年同期最低，钢价或偏弱运行",
-  "url": "https://news.mysteel.com/a/26102416/3100BAA241FF9640.html",
+  "url": "https://news.mysteel.com/a/26102416/176BFC6AB044FEBF.html",
   "summary": "",
   "pub_time": "2026-10-24T08:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1657,120 +1695,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "8e494ecc6d56bcc4e2537de3bf01e798",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "陈晓光：深耕钢铁有色跨界融合，锻造冶金装备“国之重器”",
-  "url": "https://news.mysteel.com/a/26102316/CF26F4F7878A4A05.html",
-  "summary": "",
-  "pub_time": "2026-10-23T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "a71143ce1e2d13eff35cebb0da88b820",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色持仓日报：焦煤涨2.07%，方正中期减持超1.3万手空单",
-  "url": "https://news.mysteel.com/a/26102316/33637E59EEAC287C.html",
-  "summary": "",
-  "pub_time": "2026-10-23T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "b3936a1e1841ef176804073fabcfe696",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel日报：黑色金属期货震荡上涨运行",
-  "url": "https://news.mysteel.com/a/26102316/DD6E331119C650AD.html",
-  "summary": "",
-  "pub_time": "2026-10-23T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "d89484a3a42740ff8b8ff0df79437318",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "钢市大家谈：需求季节性走弱，钢价或稳中偏弱",
-  "url": "https://news.mysteel.com/a/26102315/1171D72AFB31AB29.html",
-  "summary": "",
-  "pub_time": "2026-10-23T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "b3b727dcb08d31269737909b02c997bc",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "有色持仓日报：沪镍跌1.43%，银河期货减持超3.2千手多单",
-  "url": "https://news.mysteel.com/a/26102315/092DDA17EB744A90.html",
-  "summary": "",
-  "pub_time": "2026-10-23T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "5d0790c6e863b3db7b286be8ca729573",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "铜陵市发布第二轮老旧非道路移动机械淘汰及新能源化补贴工作方案",
-  "url": "https://news.mysteel.com/a/26102313/22020DE0A9996DE2.html",
-  "summary": "",
-  "pub_time": "2026-10-23T05:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "737b7e0c20bb4e0cd558f6473fbe3d42",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
