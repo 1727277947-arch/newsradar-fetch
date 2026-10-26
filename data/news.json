@@ -1,5 +1,104 @@
 [
  {
+  "title": "胡塞武装声称袭击沙特阿拉伯东西石油管道",
+  "url": "",
+  "summary": "伊朗支持的胡塞武装周一声称，他们袭击了沙特阿拉伯东西向陆上石油管道沿线的泵站，该管道是沙特绕过霍尔木兹海峡的主要原油出口路线。胡塞武装还表示，在伊朗联盟之间的敌对行动不断升级之际，他们袭击了利雅得机场。",
+  "pub_time": "2026-10-26T11:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "edd491fa476d0e5abd2e6abc47207d09",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Houthis Claim Attacks on Saudi Arabia’s East-West Oil Pipeline"
+ },
+ {
+  "title": "美国陆军称已帮助 15 亿桶石油运出霍尔木兹",
+  "url": "",
+  "summary": "美国中央司令部司令布拉德·库珀上将周日在访问霍尔木兹海峡时表示，自伊朗战争开始以来，美军已帮助波斯湾生产商将超过 15 亿桶石油移出霍尔木兹海峡。超过 3,000 艘商船已安装",
+  "pub_time": "2026-10-26T10:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "0f9ec4eeee454f6d58f8b60088bc782c",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "U.S. Army Says It Has Helped 1.5 Billion Barrels of Oil Out of Hormuz"
+ },
+ {
+  "title": "随着油价在接近六个月高点后回落，金价小幅走高",
+  "url": "",
+  "summary": "(RTTNews) - 周一金价小幅走高，因投资者密切关注中东局势并等待即将公布的美联储利率决定。",
+  "pub_time": "2026-10-26T10:11:49Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "ce84800728d3678c46b163cb55a13149",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "原油",
+   "价"
+  ],
+  "en_title": "Gold Edges Higher As Oil Prices Retreat After Nearing Six-month Highs"
+ },
+ {
+  "title": "Mysteel黑色金属例会：本周钢价或偏弱为主",
+  "url": "https://news.mysteel.com/a/26102618/C8491A0DC354B6AD.html",
+  "summary": "",
+  "pub_time": "2026-10-26T10:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "b7cf7da0363cc543996ad9b1c8f54b2e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "由于外交希望，油价从近六个月高位回落",
   "url": "",
   "summary": "(RTTNews) - 在有报道称通过外交努力缓解西亚地区紧张局势后，周一油价下跌逾 2%。",
@@ -185,13 +284,13 @@
   "is_elite": false
  },
  {
-  "title": "有色持仓日报：沪铜涨0.75%，东证期货增持超1.7千手多单",
-  "url": "https://news.mysteel.com/a/26102616/7F53B4E188B37F17.html",
+  "title": "入选国家首批标志性重大应用场景，湖南钢铁集团涟钢拟打造国内首个钢铁行业“场景工厂”",
+  "url": "https://news.mysteel.com/a/26102616/0AE30107A5930004.html",
   "summary": "",
   "pub_time": "2026-10-26T08:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "84e3598293eacd7f1ef5e36a38d7e720",
+  "dedup_key": "a0f8eb54f658d42cc9fbd8b7246798bb",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -204,13 +303,13 @@
   "is_elite": false
  },
  {
-  "title": "入选国家首批标志性重大应用场景，湖南钢铁集团涟钢拟打造国内首个钢铁行业“场景工厂”",
-  "url": "https://news.mysteel.com/a/26102616/0AE30107A5930004.html",
+  "title": "有色持仓日报：沪铜涨0.75%，东证期货增持超1.7千手多单",
+  "url": "https://news.mysteel.com/a/26102616/23689E9AF99DE900.html",
   "summary": "",
   "pub_time": "2026-10-26T08:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "a0f8eb54f658d42cc9fbd8b7246798bb",
+  "dedup_key": "84e3598293eacd7f1ef5e36a38d7e720",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -412,25 +511,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "85e318d8157e0aa985eaa2d94c5a1ebd",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "不甘做能源过路人，浙江舟山冀建大宗商品资源配置枢纽",
-  "url": "https://news.mysteel.com/a/26102611/595CBA5131C891C9.html",
-  "summary": "",
-  "pub_time": "2026-10-26T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "83126d6965388714e16a3ba9274e5e24",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -941,25 +1021,6 @@
   "is_elite": false
  },
  {
-  "title": "BAGE：阿根廷2026/27年度玉米播种完成39.8%",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/26/4110955798.shtml",
-  "summary": "",
-  "pub_time": "2026-10-25T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "5da699121f116b182b778f76e54e41f4",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
   "title": "10月26日进口大豆到国内港口CF及升贴水报价",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/26/2156451831.shtml",
   "summary": "",
@@ -1404,6 +1465,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "1c8a9099884f1e41578478ba91ad3793",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "BAGE：阿根廷2026/27年度玉米播种完成39.8%",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/26/4110955798.shtml",
+  "summary": "",
+  "pub_time": "2026-10-25T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "3a68c2dc85803c66975df71ae82288a7",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
