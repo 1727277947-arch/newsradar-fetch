@@ -1,5 +1,33 @@
 [
  {
+  "title": "冬季临近，欧洲天然气价格飙升至四年高位",
+  "url": "",
+  "summary": "欧洲基准天然气价格周一在阿姆斯特丹开盘上涨 2%，延续了上周 7% 的周涨幅，原因是人们越来越担心天然气撤离季节已经开始，而且没有迹象表明卡塔尔的液化天然气流量会很快恢复。 Dutch Title Tran 的前月价格",
+  "pub_time": "2026-10-26T09:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "bdbd514cf7107a526ae6166806f7d3f5",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气",
+   "价",
+   "年内新高"
+  ],
+  "en_title": "Europe's Natural Gas Prices Soar to Four-Year High as Winter Looms"
+ },
+ {
   "title": "亚洲股市在央行会议和科技股盈利之前涨跌互现",
   "url": "",
   "summary": "(RTTNews) - 由于中东局势再度紧张，且美国主要科技公司将于本周公布财报，亚洲股市周一收盘涨跌互现。",
@@ -867,25 +895,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年10月26日大连玉米期货收盘平开收高",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/26/1351525860.shtml",
-  "summary": "",
-  "pub_time": "2026-10-25T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "0d3229c64261c7de715265785836955f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
   "title": "10月26日进口大豆到国内港口CF及升贴水报价",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/26/2156451831.shtml",
   "summary": "",
@@ -1330,6 +1339,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "1c8a9099884f1e41578478ba91ad3793",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年10月26日大连玉米期货收盘平开收高",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/26/1351525860.shtml",
+  "summary": "",
+  "pub_time": "2026-10-25T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "18b7f63eb2c695711c8f1f3429681eda",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
