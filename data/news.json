@@ -1,5 +1,97 @@
 [
  {
+  "title": "由于价格上涨，印度BPCL将削减俄罗斯石油进口",
+  "url": "",
+  "summary": "印度最大的国有炼油厂之一巴拉特石油公司 (BPCL) 将减少 11 月份从俄罗斯购买的原油，因为与中东报价相比，俄罗斯原油的高运费和溢价削弱了莫斯科石油的吸引力。 BPCL 将",
+  "pub_time": "2026-10-26T14:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "964933690c2e5093132786c7c4440168",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "进口"
+  ],
+  "en_title": "India’s BPCL to Cut Russian Oil Imports Due to Higher Prices"
+ },
+ {
+  "title": "11万吨铁矿粉进口 福建漳州破单船铁矿载运量纪录",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721404.shtml",
+  "summary": "陈雪婷 张奕)26日，利比里亚籍“智慧”轮满载11万吨铁矿粉平稳靠泊福建漳州港后石3号泊位，创下招银港区单船铁矿载运量历史新高",
+  "pub_time": "2026-10-26T14:01:38Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "8d764aa29dd22dfbd7b844992302d3c3",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "全国首列氧化铝入疆敞顶箱列车从河南发车",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721397.shtml",
+  "summary": "刘鹏 杨震)记者26日从中国铁路郑州局集团有限公司(以下简称“国铁集团郑州局”)获悉，当日17时55分，随着装载2800吨氧化铝的33099次列车从河南渑池站缓缓驶出，一路向西驶向新疆方向，标志着国铁集团郑州局开行全国首列氧化铝入疆敞顶箱列车，开启氧化铝运输新模式",
+  "pub_time": "2026-10-26T13:58:18Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "e755ce3ce7de6b64edb41e715aa8a819",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "IEA比罗尔：2027年能源价格不会回到战前水平",
+  "url": "",
+  "summary": "国际能源署 (IEA) 执行董事法提赫·比罗尔 (Fatih Birol) 周一表示，中东冲突导致能源市场严重紧张，原油、燃料和天然气价格不太可能在 2027 年恢复到战前水平。 “恐怕我没有看到任何可靠的途径",
+  "pub_time": "2026-10-26T13:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "5c9188b4d53d1aee866a3b0eb75c0345",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "价"
+  ],
+  "en_title": "IEA’s Birol: Energy Prices Won’t Return to Pre-War Levels in 2027"
+ },
+ {
   "title": "俄罗斯北极石油捷径陷入冰墙",
   "url": "",
   "summary": "一群受制裁的俄罗斯油轮在世界之巅的冰冻水域中被困并等待了很长时间后，于 7 月在北极圈以北约 1,300 公里处抛锚。距离两艘核动力破冰船的帮助还有几天的航程。这些船是st",
@@ -54,6 +146,31 @@
   "en_title": "Saudi Oil Output Jumps 12.2% to 8 Million Bpd in September"
  },
  {
+  "title": "卢拉在巴西的胜利使稀土成为特朗普的瞄准目标",
+  "url": "",
+  "summary": "随着巴西利亚寻求国内加工并抵制华盛顿的贸易压力，外国矿商面临更严格的审查。",
+  "pub_time": "2026-10-26T12:08:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "dcd1231e8f4ef1da2cfde7b938022196",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Lula’s Brazil win puts rare earths in Trump’s crosshairs"
+ },
+ {
   "title": "胡塞武装声称袭击沙特阿拉伯东西石油管道",
   "url": "",
   "summary": "伊朗支持的胡塞武装周一声称，他们袭击了沙特阿拉伯东西向陆上石油管道沿线的泵站，该管道是沙特绕过霍尔木兹海峡的主要原油出口路线。胡塞武装还表示，在伊朗联盟之间的敌对行动不断升级之际，他们袭击了利雅得机场。",
@@ -78,6 +195,32 @@
    "原油"
   ],
   "en_title": "Houthis Claim Attacks on Saudi Arabia’s East-West Oil Pipeline"
+ },
+ {
+  "title": "埋藏的沉积物证明罗马人在比利牛斯山脉开采了黄金",
+  "url": "",
+  "summary": "研究人员确定了加泰罗尼亚一个巨大的水力采矿场的年代，揭示了古罗马人如何提取贵金属。",
+  "pub_time": "2026-10-26T10:58:00Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "d19dad708bfc741cadc30c8ae525bb5c",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Buried sediments prove Romans mined gold in Pyrenees"
  },
  {
   "title": "美国陆军称已帮助 15 亿桶石油运出霍尔木兹",
@@ -973,32 +1116,6 @@
   "en_title": "Britain's Renewable Energy Boom Is Hitting a Grid Bottleneck"
  },
  {
-  "title": "尽管清洁能源蓬勃发展，世界气温仍有望上升 2.8 度",
-  "url": "",
-  "summary": "联合国表示，由于“数十年来气候行动不足”，世界现在不可避免地无法实现《巴黎气候协定》规定的具有法律约束力的目标。 2015 年批准的《巴黎协定》目标是将全球变暖限制在 1.5 摄氏度",
-  "pub_time": "2026-10-25T17:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "843c306a4c0ec3d0253abd5fa49313dd",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "能源"
-  ],
-  "en_title": "World Is on Track for Up to 2.8 Degrees of Warming Despite Clean Energy Boom"
- },
- {
   "title": "【独家】玉米行情回暖，小麦底价夯实？",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/26/1116161405.shtml",
   "summary": "",
@@ -1721,31 +1838,6 @@
   "is_elite": false
  },
  {
-  "title": "COP31主办方敦促北约国家在气候方面的支出多于国防支出",
-  "url": "",
-  "summary": "联合国 COP31 气候峰会的东道国土耳其鼓励参加会议的富裕国家在气候支持方面投入更多资金，而不是在国防方面。此前，土耳其于 9 月宣布计划大力投资发展可再生能源产能",
-  "pub_time": "2026-10-25T15:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "a8f6affa3d28a386ca0e9d85ff75996e",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "COP31 Host Urges NATO Nations to Spend More on Climate Than Defense"
- },
- {
   "title": "中国在阿根廷的采矿足迹比看起来要小",
   "url": "",
   "summary": "基于股权的计算显示，北京在已批准的矿业投资中所占份额为 9.2%，新的锂项目有望提升这一比例。",
@@ -1789,32 +1881,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "创纪录的油轮运价导致美国原油流向亚洲",
-  "url": "",
-  "summary": "伊朗战争导致油轮航行效率低下，导致船舶可用性大幅下降，货运成本飙升至历史新高，几乎消除了将原油从美国墨西哥湾沿岸运往亚洲的动力。从美国墨西哥湾沿岸到中国的原油运输成本飙升",
-  "pub_time": "2026-10-24T23:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "88121c78d4d3279e4d303bb4088e1954",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia"
  },
  {
   "title": "【独家】本周油脂走势分化豆油大幅上涨",
