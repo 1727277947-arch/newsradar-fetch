@@ -1,5 +1,56 @@
 [
  {
+  "title": "ADM 投资在内布拉斯加州工厂增加玉米加工",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-10-26T21:24:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "f5d0f9dd4bdc12bf08d5dcecab6f112f",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "玉米"
+  ],
+  "en_title": "ADM Invests to Increase Corn Processing at Nebraska Facility"
+ },
+ {
+  "title": "亚洲每年需要 1 万亿美元以避免下一次能源冲击",
+  "url": "",
+  "summary": "石油和天然气可能会再次流经霍尔木兹海峡，但长达数月关闭的影响将在未来几年内感受到。特别是对于亚洲来说，监管市场和加强能源安全以避免下一次能源冲击将在未来几年需要数万亿美元，因为",
+  "pub_time": "2026-10-26T21:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "b62824a7491e4ba20a46311d6bbac6fa",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Asia Needs $1 Trillion a Year to Avoid the Next Energy Shock"
+ },
+ {
   "title": "不列颠哥伦比亚省保守党山体滑坡引发采矿希望和权利担忧",
   "url": "",
   "summary": "保守党在不列颠哥伦比亚省的选举中取得压倒性胜利，提高了采矿业对更快获得许可证和加强勘探激励措施的希望，同时在废除该法案的计划上引发了冲突。",
@@ -637,34 +688,6 @@
   "en_title": "Russia's Arctic Oil Shortcut Runs Into a Wall of Ice"
  },
  {
-  "title": "沙特9月石油产量跃升12.2%至800万桶/日",
-  "url": "",
-  "summary": "TradeArabia 周一援引 Al Rajhi Capital Research 的数据显示，沙特阿拉伯 9 月份原油产量环比增长 12.2%，达到 800 万桶/日。继春季和初夏原油产量极低之后，所有海湾产油国",
-  "pub_time": "2026-10-26T12:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "ac650f6925e0c692caa599b0535a0095",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "跳涨",
-   "产量"
-  ],
-  "en_title": "Saudi Oil Output Jumps 12.2% to 8 Million Bpd in September"
- },
- {
   "title": "卢拉在巴西的胜利使稀土成为特朗普的瞄准目标",
   "url": "",
   "summary": "随着巴西利亚寻求国内加工并抵制华盛顿的贸易压力，外国矿商面临更严格的审查。",
@@ -688,32 +711,6 @@
    "基本金属"
   ],
   "en_title": "Lula’s Brazil win puts rare earths in Trump’s crosshairs"
- },
- {
-  "title": "胡塞武装声称袭击沙特阿拉伯东西石油管道",
-  "url": "",
-  "summary": "伊朗支持的胡塞武装周一声称，他们袭击了沙特阿拉伯东西向陆上石油管道沿线的泵站，该管道是沙特绕过霍尔木兹海峡的主要原油出口路线。胡塞武装还表示，在伊朗联盟之间的敌对行动不断升级之际，他们袭击了利雅得机场。",
-  "pub_time": "2026-10-26T11:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "edd491fa476d0e5abd2e6abc47207d09",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Houthis Claim Attacks on Saudi Arabia’s East-West Oil Pipeline"
  },
  {
   "title": "埋藏的沉积物证明罗马人在比利牛斯山脉开采了黄金",
