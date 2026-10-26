@@ -1,5 +1,61 @@
 [
  {
+  "title": "BOM 2026 年 10 月 27 日每周降雨量更新 + 展望",
+  "url": "",
+  "summary": "预计东澳大利亚和南澳大利亚的收获区将有更多降雨，但西澳大利亚预计仅有少量降雨。",
+  "pub_time": "2026-10-26T23:11:40Z",
+  "source": "GrainCentral",
+  "_cat": "基本金属",
+  "dedup_key": "c1374c2b5313e673e22fc3110b974c3e",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "下跌",
+   "周",
+   "展望"
+  ],
+  "en_title": "BOM weekly rainfall update 27 October 2026 + outlook"
+ },
+ {
+  "title": "由于伊朗供应枯竭，北京推动国内石油产量",
+  "url": "",
+  "summary": "随着伊朗战争迫使北京面对一个令人不安的现实：即使是世界上最大的原油库存也无法无限期地取代可靠的石油供应，中国需要其最大的石油和天然气生产商进行更多的钻探、勘探，并建立战略供应基地。中国国家能源广告",
+  "pub_time": "2026-10-26T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "f477bd7d74e57e11ad00a52208177abf",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "供应",
+   "产量"
+  ],
+  "en_title": "Beijing Pushes Domestic Oil Production as Iranian Supply Dries Up"
+ },
+ {
   "title": "ADM 投资在内布拉斯加州工厂增加玉米加工",
   "url": "",
   "summary": "",
@@ -660,32 +716,6 @@
    "价"
   ],
   "en_title": "IEA’s Birol: Energy Prices Won’t Return to Pre-War Levels in 2027"
- },
- {
-  "title": "俄罗斯北极石油捷径陷入冰墙",
-  "url": "",
-  "summary": "一群受制裁的俄罗斯油轮在世界之巅的冰冻水域中被困并等待了很长时间后，于 7 月在北极圈以北约 1,300 公里处抛锚。距离两艘核动力破冰船的帮助还有几天的航程。这些船是st",
-  "pub_time": "2026-10-26T13:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "6e73af8ab9de2f248e0bba89db7dedac",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Russia's Arctic Oil Shortcut Runs Into a Wall of Ice"
  },
  {
   "title": "卢拉在巴西的胜利使稀土成为特朗普的瞄准目标",
