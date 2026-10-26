@@ -1,5 +1,32 @@
 [
  {
+  "title": "由于外交希望，油价从近六个月高位回落",
+  "url": "",
+  "summary": "(RTTNews) - 在有报道称通过外交努力缓解西亚地区紧张局势后，周一油价下跌逾 2%。",
+  "pub_time": "2026-10-26T09:43:02Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "addd9b9b8d21ca5e36da4737f0f8cb2b",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价"
+  ],
+  "en_title": "Oil Prices Retreat From Near Six-month Highs On Hopes For Diplomacy"
+ },
+ {
   "title": "冬季临近，欧洲天然气价格飙升至四年高位",
   "url": "",
   "summary": "欧洲基准天然气价格周一在阿姆斯特丹开盘上涨 2%，延续了上周 7% 的周涨幅，原因是人们越来越担心天然气撤离季节已经开始，而且没有迹象表明卡塔尔的液化天然气流量会很快恢复。 Dutch Title Tran 的前月价格",
@@ -26,6 +53,63 @@
    "年内新高"
   ],
   "en_title": "Europe's Natural Gas Prices Soar to Four-Year High as Winter Looms"
+ },
+ {
+  "title": "Mysteel晚餐：全球铁矿石发运量减少",
+  "url": "https://news.mysteel.com/a/26102617/5660A9A961202DE1.html",
+  "summary": "",
+  "pub_time": "2026-10-26T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "233280ba3c685355d40803a979bed63d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel晚餐：沁源县实际出煤9座煤矿，全球铁矿石发运量减少",
+  "url": "https://news.mysteel.com/a/26102617/BCA55DA8C2F194D8.html",
+  "summary": "",
+  "pub_time": "2026-10-26T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "980b57ec915bcd3bafe65d95d0cd2367",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel日报：黑色金属期货价格震荡下跌运行",
+  "url": "https://news.mysteel.com/a/26102617/6DD9123430AFD4C7.html",
+  "summary": "",
+  "pub_time": "2026-10-26T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "31f834ba0a5f271cd4cbd0126e13ded0",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
  },
  {
   "title": "亚洲股市在央行会议和科技股盈利之前涨跌互现",
@@ -163,25 +247,6 @@
    "原油"
   ],
   "en_title": "Saudi Arabia Turns to Singapore for Oil Storage"
- },
- {
-  "title": "红星照耀中国丨两代人接力，黄土坡结出“幸福果”",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-26/10721121.shtml",
-  "summary": "秋至延安，层叠果园漫过山峁，红彤彤的苹果挂满枝头，果香漫溢黄土沟壑",
-  "pub_time": "2026-10-26T07:01:27Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "eb4247773b47eaeab3b6233010ab1c9f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
  },
  {
   "title": "Mysteel：10家上市建材企业披露三季度业绩，4家盈利",
