@@ -1,5 +1,59 @@
 [
  {
+  "title": "俄罗斯北极石油捷径陷入冰墙",
+  "url": "",
+  "summary": "一群受制裁的俄罗斯油轮在世界之巅的冰冻水域中被困并等待了很长时间后，于 7 月在北极圈以北约 1,300 公里处抛锚。距离两艘核动力破冰船的帮助还有几天的航程。这些船是st",
+  "pub_time": "2026-10-26T13:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "6e73af8ab9de2f248e0bba89db7dedac",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Russia's Arctic Oil Shortcut Runs Into a Wall of Ice"
+ },
+ {
+  "title": "沙特9月石油产量跃升12.2%至800万桶/日",
+  "url": "",
+  "summary": "TradeArabia 周一援引 Al Rajhi Capital Research 的数据显示，沙特阿拉伯 9 月份原油产量环比增长 12.2%，达到 800 万桶/日。继春季和初夏原油产量极低之后，所有海湾产油国",
+  "pub_time": "2026-10-26T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "ac650f6925e0c692caa599b0535a0095",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "跳涨",
+   "产量"
+  ],
+  "en_title": "Saudi Oil Output Jumps 12.2% to 8 Million Bpd in September"
+ },
+ {
   "title": "胡塞武装声称袭击沙特阿拉伯东西石油管道",
   "url": "",
   "summary": "伊朗支持的胡塞武装周一声称，他们袭击了沙特阿拉伯东西向陆上石油管道沿线的泵站，该管道是沙特绕过霍尔木兹海峡的主要原油出口路线。胡塞武装还表示，在伊朗联盟之间的敌对行动不断升级之际，他们袭击了利雅得机场。",
@@ -1761,60 +1815,6 @@
    "原油"
   ],
   "en_title": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia"
- },
- {
-  "title": "燃油成为亚洲下一个成本冲击",
-  "url": "",
-  "summary": "新加坡的航运燃料市场给亚洲贸易增加了另一层成本。中东和俄罗斯的供应中断、弹性的燃油需求和高昂的运费已使高硫燃料油的价格高于其生产原油的价格。海湾生产的季节性缓解",
-  "pub_time": "2026-10-24T21:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "9beb401855093e49e36009383df2d487",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "燃料"
-  ],
-  "en_title": "Fuel Oil Becomes Asia’s Next Cost Shock"
- },
- {
-  "title": "叙利亚能源卷土重来可能重塑中东石油和天然气",
-  "url": "",
-  "summary": "在经历了十多年的冲突后，叙利亚正在全国范围内进行重建，这场冲突造成了广泛的基础设施破坏，并导致数百万人流离失所。随着叙利亚人重建生活，政府有宏伟的经济多元化和增长计划，以支持长期",
-  "pub_time": "2026-10-24T19:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "436af322838d1116907c5f5cba523e98",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "原油",
-   "天然气",
-   "能源"
-  ],
-  "en_title": "Syria's Energy Comeback Could Reshape Middle East Oil and Gas"
  },
  {
   "title": "【独家】本周油脂走势分化豆油大幅上涨",
