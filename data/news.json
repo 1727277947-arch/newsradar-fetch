@@ -1,5 +1,82 @@
 [
  {
+  "title": "沙特阿美办事处和 Shaybah 油田附近遭到袭击后，Ras Tanura 发生火灾",
+  "url": "",
+  "summary": "一位不愿透露姓名的知情人士告诉彭博社，周二早些时候发生袭击后，沙特阿拉伯波斯湾的主要石油出口中心拉斯坦努拉附近发生火灾，但沙特很快就控制住了火势。目前尚不清楚损坏的程度，也不清楚轮毂是否受到影响",
+  "pub_time": "2026-10-27T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "d114551c83d1f558804c24d8235dd3c6",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Ras Tanura Fire Follows Attacks on Aramco Offices and Near Shaybah Field"
+ },
+ {
+  "title": "千禧钾肥公司希望在美国的支持下扩大加蓬矿",
+  "url": "",
+  "summary": "由于买家兴趣推动了在加蓬建设更大钾矿的计划，这家加拿大开发商的目标是在 2027 年底之前开工。",
+  "pub_time": "2026-10-27T12:12:55Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "4f81c735f77a130ff1d6455a4669451e",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Millennial Potash eyes bigger Gabon mine with US backing"
+ },
+ {
+  "title": "柴油带动印度燃料出口暴利，收入达 126 亿美元",
+  "url": "",
+  "summary": "柴油和汽油价格飙升使印度燃料出口额在 4 月至 9 月期间上涨了 50%，而此时世界正努力应对迄今为止最严重的中东危机。截至 9 月份的六个月内，印度从燃料出口中赚取了 2.59 万亿印度卢比，即 272 亿美元，",
+  "pub_time": "2026-10-27T11:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "e9ae4cf908a93de4263c6b55b3fa88e7",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "燃料",
+   "下跌"
+  ],
+  "en_title": "Diesel Drives India's Fuel Export Windfall as Earnings Reach $12.6 Billion"
+ },
+ {
   "title": "印度拒绝美国对俄罗斯石油采购施压的说法",
   "url": "",
   "summary": "印度石油部长哈迪普·辛格·普里(Hardeep Singh Puri)周二表示，美国并未向印度施压，要求其削减从俄罗斯的原油进口，因为近几周来，由于来自中东的进口增加，俄罗斯运抵世界第三大原油进口国的货物有所下降。印度的pu",
@@ -1278,32 +1355,6 @@
   "en_title": "Egypt Votes to Defend Saudi Arabia, Risking Houthi Fire"
  },
  {
-  "title": "随着新投资计划的形成，哈萨克斯坦面临 120 亿美元的石油挫折",
-  "url": "",
-  "summary": "哈萨克斯坦在收到国际金融公司承诺帮助开发价值30亿美元的基础设施项目后有理由欢呼。但这一令人高兴的外国投资消息被国际仲裁法院驳回哈萨克斯坦 120 亿美元索赔的决定所抵消。",
-  "pub_time": "2026-10-26T17:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "7bbed17ce7207c7753ba49e4872f95ff",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Kazakhstan Faces $12 Billion Oil Setback as New Investment Plans Take Shape"
- },
- {
   "title": "加拿大镍业公司与瑞士钢铁公司计划建立跨大西洋合作伙伴关系",
   "url": "",
   "summary": "从 2030 年开始，加拿大镍业公司每年将为瑞士钢铁公司提供约 100 万吨钢铁半成品。",
@@ -1329,33 +1380,6 @@
    "钢材"
   ],
   "en_title": "Canada Nickel, Swiss Steel plan transatlantic partnership"
- },
- {
-  "title": "EQT 斥资 500 亿美元收购美国创纪录的天然气需求",
-  "url": "",
-  "summary": "EQT Corp.（纽约证券交易所代码：EQT）将通过全股票交易收购 Range Resources（纽约证券交易所代码：RRC），交易价值超过 500 亿美元（包括债务）。合并后的公司将每天生产超过 90 亿立方英尺当量的阿巴拉契亚天然气，两家公司称其为最大的垂直一体化天然气",
-  "pub_time": "2026-10-26T16:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "7a5c03c090caab01321dcd2894a53815",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气",
-   "需求"
-  ],
-  "en_title": "EQT Bets on Record U.S. Gas Demand With $50 Billion Range Takeover"
  },
  {
   "title": "2026年10月27日大连豆粕期货低开收跌",
@@ -3405,31 +3429,5 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "中国在阿根廷的采矿足迹比看起来要小",
-  "url": "",
-  "summary": "基于股权的计算显示，北京在已批准的矿业投资中所占份额为 9.2%，新的锂项目有望提升这一比例。",
-  "pub_time": "2026-10-25T12:00:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "119b4271d75e35b0acfd9fdf6d2fcf2d",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡"
-  ],
-  "en_title": "China’s Argentina mining footprint smaller than it looks"
  }
 ]
