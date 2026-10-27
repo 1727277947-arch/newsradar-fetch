@@ -1,5 +1,43 @@
 [
  {
+  "title": "关键矿产日报：诺里尔斯克镍业拟高炉大修",
+  "url": "https://news.mysteel.com/a/26102717/67480B20E87597FA.html",
+  "summary": "",
+  "pub_time": "2026-10-27T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "5730350e685d811a2595f018b463bfb5",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "关键矿产日报：诺里尔斯克镍业拟高炉大修，印尼谋求镍价话语权",
+  "url": "https://news.mysteel.com/a/26102717/64A9A3721AFA4412.html",
+  "summary": "",
+  "pub_time": "2026-10-27T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "a1425ac8258e003fcbe58e783b358646",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "河南省公示2027年度纳入全国碳市场发电、钢铁、水泥、铝冶炼行业重点排放单位名录",
   "url": "https://news.mysteel.com/a/26102716/4CBE07CB575510B4.html",
   "summary": "",
@@ -81,25 +119,6 @@
    "原油"
   ],
   "en_title": "India’s Oil Buyers Squeezed by $123 Crude and Weak Rupee"
- },
- {
-  "title": "黑色持仓日报：东证期货增持超1.8万手螺纹钢空单",
-  "url": "https://news.mysteel.com/a/26102715/A20E833B4F25CD37.html",
-  "summary": "",
-  "pub_time": "2026-10-27T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "ab22644297225053017a366ddda20fe2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  },
  {
   "title": "有色持仓日报：沪镍跌1.12%，中信期货减持超2.8千手多单",
@@ -424,7 +443,7 @@
  },
  {
   "title": "Mysteel：30省份2026年前三季度GDP出炉，十强门槛抬至4万亿",
-  "url": "https://news.mysteel.com/a/26102709/16CB67637121CFDF.html",
+  "url": "https://news.mysteel.com/a/26102709/E5BE172532316DA8.html",
   "summary": "",
   "pub_time": "2026-10-27T01:00:00Z",
   "source": "上海钢联Mysteel",
@@ -2853,25 +2872,6 @@
   "is_elite": false
  },
  {
-  "title": "10月26日24度棕榈油国内各港口交货价格下跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/26/0136158533.shtml",
-  "summary": "",
-  "pub_time": "2026-10-25T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "b508800d5ec1bd509aceb10cb868199e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年10月26日郑州菜油期货收盘高开收跌",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/26/0136258617.shtml",
   "summary": "",
@@ -2898,25 +2898,6 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "d9534959117701d84320c8e2a2e02237",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月26日郑州菜油期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/26/0407959972.shtml",
-  "summary": "",
-  "pub_time": "2026-10-25T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "21df5942014b74fca03f1212fad44a7f",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -3183,6 +3164,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "134f06c88b9e4b9c82fdfaa947029e90",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年10月26日郑州菜油期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/26/0407959972.shtml",
+  "summary": "",
+  "pub_time": "2026-10-25T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "21df5942014b74fca03f1212fad44a7f",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
