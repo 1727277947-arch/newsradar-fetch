@@ -1,5 +1,84 @@
 [
  {
+  "title": "BinMaster 任命 Julie Foral 为营销总监",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-10-27T21:16:00Z",
+  "source": "Grainnet",
+  "_cat": "基本金属",
+  "dedup_key": "cebfea3eb26a1f359052c84019d8ceb2",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡"
+  ],
+  "en_title": "BinMaster Names Julie Foral Director of Marketing"
+ },
+ {
+  "title": "土耳其的利比亚协议使石油巨头陷入困境",
+  "url": "",
+  "summary": "土耳其终于让分裂的利比亚双方签署了它七年来一直推动的海洋地图。安卡拉于 2019 年与利比亚的黎波里政府签署了边界协议，但东部竞争对手议会于 2020 年拒绝了该协议。10 月 20 日，在同一个议会，哈夫塔尔结盟的 H",
+  "pub_time": "2026-10-27T21:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "392d2673b6ade9daf657cf0018a55ee1",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Turkey’s Libya Deal Puts Oil Majors in a Bind"
+ },
+ {
+  "title": "美国原油库存超出分析师预期",
+  "url": "",
+  "summary": "美国石油协会(API)估计，截至10月23日当周，美国原油库存减少203.1万桶。此前一周，美国原油库存减少了493万桶，令人震惊。不包括 SPR 的商业原油库存",
+  "pub_time": "2026-10-27T20:56:11Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "24d5d56d7ee534cd68cac959d50b8ed0",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "库存"
+  ],
+  "en_title": "US Crude Oil Inventories Buck Analyst Expectations"
+ },
+ {
   "title": "Iamgold 钻探增强了 Nelligan 的增长势头",
   "url": "",
   "summary": "Iamgold（多伦多证券交易所股票代码：IMG；纽约证券交易所股票代码：IAG）的新钻探扩大了其位于魁北克省 Nelligan 综合体的金矿化，加强了一个开发项目，该项目可以为加拿大经济增长提供另一个来源...Iamgold 后的钻探加强了 Nelligan 增长案例首先出现在 The Northern Mine",
@@ -480,32 +559,6 @@
   "en_title": "Analyst Favorites: Alamos Gold Ranks As a Top Metals Pick"
  },
  {
-  "title": "矿业论坛视频：I-80 Gold 将 Lone Tree 置于增长推动的核心",
-  "url": "",
-  "summary": "I-80 Gold（多伦多证券交易所股票代码：IAU；纽约证券交易所股票代码：IAUX）希望重启其位于内华达州的 Lone Tree 加工厂，到 2028 年将黄金年产量提高四倍，... 矿业论坛后视频：I-80 Gold 将 Lone Tree 置于增长推动的核心位置，该视频首先出现在《北方矿工》上。",
-  "pub_time": "2026-10-27T15:31:10Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "b2d43dc77edfa0549ae2892ad5d6fb08",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Mining Forum video: I-80 Gold puts Lone Tree at heart of growth push"
- },
- {
   "title": "专栏：外国矿商如何解锁 ASX 上市",
   "url": "",
   "summary": "澳大利亚为海外资源公司提供两条进入其股票市场的途径，但规模、监管和流动性决定着成功。",
@@ -686,18 +739,18 @@
   "en_title": "Millennial Potash eyes bigger Gabon mine with US backing"
  },
  {
-  "title": "柴油带动印度燃料出口暴利，收入达 126 亿美元",
+  "title": "矿业论坛视频：I-80 Gold 将 Lone Tree 置于增长推动的核心",
   "url": "",
-  "summary": "柴油和汽油价格飙升使印度燃料出口额在 4 月至 9 月期间上涨了 50%，而此时世界正努力应对迄今为止最严重的中东危机。截至 9 月份的六个月内，印度从燃料出口中赚取了 2.59 万亿印度卢比，即 272 亿美元，",
-  "pub_time": "2026-10-27T11:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "e9ae4cf908a93de4263c6b55b3fa88e7",
+  "summary": "I-80 Gold（多伦多证券交易所股票代码：IAU；纽约证券交易所股票代码：IAUX）希望重启其位于内华达州的 Lone Tree 加工厂，到 2028 年将黄金年产量提高四倍，... 矿业论坛后视频：I-80 Gold 将 Lone Tree 置于增长推动的核心位置，该视频首先出现在《北方矿工》上。",
+  "pub_time": "2026-10-27T11:55:10Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "b2d43dc77edfa0549ae2892ad5d6fb08",
   "score": 84,
-  "priority": "P1",
-  "topic": "能源",
+  "priority": "P2",
+  "topic": "贵金属",
   "tags": [
-   "能源",
+   "贵金属",
    "大宗商品",
    "国外",
    "中文翻译",
@@ -706,11 +759,10 @@
   ],
   "is_elite": false,
   "keywords": [
-   "能源",
-   "燃料",
-   "下跌"
+   "贵金属",
+   "黄金"
   ],
-  "en_title": "Diesel Drives India's Fuel Export Windfall as Earnings Reach $12.6 Billion"
+  "en_title": "Mining Forum video: I-80 Gold puts Lone Tree at heart of growth push"
  },
  {
   "title": "Capstone 将在智利投资 3B 美元，使铜产量翻倍",
@@ -738,32 +790,6 @@
    "产量"
   ],
   "en_title": "Capstone to invest $3B in Chile to double copper production"
- },
- {
-  "title": "印度拒绝美国对俄罗斯石油采购施压的说法",
-  "url": "",
-  "summary": "印度石油部长哈迪普·辛格·普里(Hardeep Singh Puri)周二表示，美国并未向印度施压，要求其削减从俄罗斯的原油进口，因为近几周来，由于来自中东的进口增加，俄罗斯运抵世界第三大原油进口国的货物有所下降。印度的pu",
-  "pub_time": "2026-10-27T10:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "84493bc721abc562383f15be20c0804d",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "India Rejects Claims of U.S. Pressure Over Russian Oil Purchases"
  },
  {
   "title": "美联储决定前金价跌破 4,000 美元",
