@@ -1,5 +1,30 @@
 [
  {
+  "title": "由于国际原子能机构监督动摇，伊朗转向俄罗斯寻求核电",
+  "url": "",
+  "summary": "随着俄罗斯和伊朗面临西方制裁和国际孤立，两国正在扩大核合作。他们的合作伙伴关系包括核电站建设、燃料供应和更广泛的技术合作。而布什尔核电站是伊朗第一个运行的核电站",
+  "pub_time": "2026-10-27T14:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "5d7bb606b87eb906c24dafae06c57cf3",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Iran Turns to Russia for Nuclear Power as IAEA Oversight Falters"
+ },
+ {
   "title": "沙特阿美办事处和 Shaybah 油田附近遭到袭击后，Ras Tanura 发生火灾",
   "url": "",
   "summary": "一位不愿透露姓名的知情人士告诉彭博社，周二早些时候发生袭击后，沙特阿拉伯波斯湾的主要石油出口中心拉斯坦努拉附近发生火灾，但沙特很快就控制住了火势。目前尚不清楚损坏的程度，也不清楚轮毂是否受到影响",
@@ -75,6 +100,33 @@
    "下跌"
   ],
   "en_title": "Diesel Drives India's Fuel Export Windfall as Earnings Reach $12.6 Billion"
+ },
+ {
+  "title": "Capstone 将在智利投资 3B 美元，使铜产量翻倍",
+  "url": "",
+  "summary": "圣多明各和曼托维德的扩建项目是阿塔卡马重大投资计划的基础，预计将创造数千个建筑工作岗位。",
+  "pub_time": "2026-10-27T10:53:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "5760e1f3866edc8586ad5196c76b5921",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜",
+   "产量"
+  ],
+  "en_title": "Capstone to invest $3B in Chile to double copper production"
  },
  {
   "title": "印度拒绝美国对俄罗斯石油采购施压的说法",
@@ -1328,31 +1380,6 @@
    "锡"
   ],
   "en_title": "Gold Advances Amid Continuing Uncertainty Over U.S.-Iran Crisis"
- },
- {
-  "title": "埃及冒着胡塞武装的风险投票保卫沙特阿拉伯",
-  "url": "",
-  "summary": "埃及议会周一授权军事支持保卫沙特阿拉伯，同一天，也门胡塞武装声称对该国东西向原油管道沿线的泵站和利雅得哈立德国王国际机场发动了未经证实的袭击。胡塞武装已警告开罗不要采取这一行动。",
-  "pub_time": "2026-10-26T17:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "e676878005417f0b17e4fa66695af87e",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Egypt Votes to Defend Saudi Arabia, Risking Houthi Fire"
  },
  {
   "title": "加拿大镍业公司与瑞士钢铁公司计划建立跨大西洋合作伙伴关系",
