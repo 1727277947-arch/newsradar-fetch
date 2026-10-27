@@ -1,5 +1,57 @@
 [
  {
+  "title": "Iamgold 钻探增强了 Nelligan 的增长势头",
+  "url": "",
+  "summary": "Iamgold（多伦多证券交易所股票代码：IMG；纽约证券交易所股票代码：IAG）的新钻探扩大了其位于魁北克省 Nelligan 综合体的金矿化，加强了一个开发项目，该项目可以为加拿大经济增长提供另一个来源...Iamgold 后的钻探加强了 Nelligan 增长案例首先出现在 The Northern Mine",
+  "pub_time": "2026-10-27T14:35:59Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "abb28c4e7bf29a378cfa4c4a2cd26b2f",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Iamgold drilling strengthens Nelligan growth case"
+ },
+ {
+  "title": "OPEC+将保持石油配额不变",
+  "url": "",
+  "summary": "熟悉该计划的消息人士周二告诉路透社，负责管理集体石油生产的主要 OPEC+ 生产国预计将在周日举行的会议上保持 12 月份配额不变。沙特阿拉伯、俄罗斯、伊拉克、科威特、哈萨克斯坦、阿尔及利亚和阿曼维持目标产量不变",
+  "pub_time": "2026-10-27T14:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "74bd6913587c89d8e39b4e110d90ce27",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "OPEC+ Set to Keep Oil Quotas Unchanged"
+ },
+ {
   "title": "由于国际原子能机构监督动摇，伊朗转向俄罗斯寻求核电",
   "url": "",
   "summary": "随着俄罗斯和伊朗面临西方制裁和国际孤立，两国正在扩大核合作。他们的合作伙伴关系包括核电站建设、燃料供应和更广泛的技术合作。而布什尔核电站是伊朗第一个运行的核电站",
@@ -48,6 +100,33 @@
    "能源"
   ],
   "en_title": "Ras Tanura Fire Follows Attacks on Aramco Offices and Near Shaybah Field"
+ },
+ {
+  "title": "Codelco铜矿封锁加剧供应担忧",
+  "url": "",
+  "summary": "智利的Ministro Hales工厂的工人们因未支付奖金而被迫停产六个小时。",
+  "pub_time": "2026-10-27T12:29:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "e3ae2db5a7b5652ba7d32753b8daf5de",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜",
+   "供应"
+  ],
+  "en_title": "Codelco copper mine blockade adds to supply concerns"
  },
  {
   "title": "千禧钾肥公司希望在美国的支持下扩大加蓬矿",
@@ -1223,34 +1302,6 @@
   "en_title": "Local miner outbids Freeport for Colombia exploration"
  },
  {
-  "title": "伊朗战争使特朗普的平均汽油价格高于拜登",
-  "url": "",
-  "summary": "唐纳德·特朗普总统第二任期内美国人支付的汽油平均价格现已超过乔·拜登总统任期内记录的平均价格，在 11 月 3 日中期选举前几天标志着一个具有政治意义的里程碑。根据路透社援引的 AAA 数据，",
-  "pub_time": "2026-10-26T20:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "876d8c5588307db6500015c46d331c99",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "汽油",
-   "天然气",
-   "价"
-  ],
-  "en_title": "Iran War Pushes Trump's Average Gasoline Prices Above Biden's"
- },
- {
   "title": "美国能源部将氦气列入关键清单",
   "url": "",
   "summary": "美国能源部已将氦指定为关键材料，理由是其对半导体制造的重要性以及日益增长的供应风险。该指定于周五根据《能源法》宣布...美国能源部将氦气添加到关键清单中的消息首先出现在《The Northe》上",
@@ -1301,32 +1352,6 @@
    "玉米"
   ],
   "en_title": "NASS Corrects Corn Data Errors in September Crop Report"
- },
- {
-  "title": "随着欧洲工业危机加深，布鲁塞尔瞄准中国进口产品",
-  "url": "",
-  "summary": "欧洲政治精英迟来地面临着去工业化的选举成本，因为右翼在地方选举中的胜利暴露了选民对摧毁工业基础的全球主义政策日益高涨的愤怒。遏制廉价中国进口的努力表明布鲁塞尔正在争夺政治权力",
-  "pub_time": "2026-10-26T19:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "93254b2791b43ffec6b6b525051285b1",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "进口"
-  ],
-  "en_title": "Brussels Takes Aim at Chinese Imports as Europe's Industrial Crisis Deepens"
  },
  {
   "title": "卡塔尔在美伊冲突中推动外交，原油价格暴跌",
