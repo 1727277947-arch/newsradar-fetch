@@ -1,5 +1,193 @@
 [
  {
+  "title": "石油勘探为巴西海上钾肥打开了大门",
+  "url": "",
+  "summary": "南大西洋钾肥公司计划开采塞尔希培海岸下方的矿藏，该地区历史上曾用于石油开采。",
+  "pub_time": "2026-10-28T18:02:17Z",
+  "source": "Mining.com",
+  "_cat": "能源",
+  "dedup_key": "f1da41986472054e277a2ba2c8c4ae90",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Oil exploration opens door to Brazil offshore potash"
+ },
+ {
+  "title": "原油价格上涨，市场等待美联储决定，金价下跌",
+  "url": "",
+  "summary": "(RTTNews) - 周三金价小幅走低，部分抵消了前两个交易日的涨幅，因投资者等待美联储的利率公告，而原油价格因供应担忧而飙升，原因是有报道称美国可能",
+  "pub_time": "2026-10-28T17:40:03Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "36c7a7c49f5c16ee5292cabaad38b67d",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "原油",
+   "价",
+   "下滑"
+  ],
+  "en_title": "Gold Slides As Markets Await Fed Decision Amid Rising Crude Oil Prices"
+ },
+ {
+  "title": "由于海湾流量低于战前水平，瑞银预计布伦特原油价格到年底将达到 110 美元",
+  "url": "",
+  "summary": "瑞银本月第二次上调布伦特原油价格预期，目前预计 2026 年底原油价格将从每桶 100 美元上调至 110 美元。这家瑞士银行还将 2027 年曲线每桶上调 5 美元，至 3 月 95 美元、6 月 90 美元和 9 月 85 美元。 “我们面临的不确定性",
+  "pub_time": "2026-10-28T17:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "baec15e4fd613c456058e6f48740acca",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "布伦特油价"
+  ],
+  "en_title": "UBS Sees $110 Brent by Year-End as Gulf Flows Stay Below Prewar Levels"
+ },
+ {
+  "title": "红冠腐病在中西部大豆田蔓延",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-10-28T16:42:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "73c148a8293702e047dca0fb3fe0fe08",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "大豆"
+  ],
+  "en_title": "Red Crown Rot Spreads Across Midwest Soybean Fields"
+ },
+ {
+  "title": "Equinor 上调石油和天然气产量预测，运营利润翻倍",
+  "url": "",
+  "summary": "Equinor 将 2026 年石油和天然气产量增长预测上调至 4% 左右，此前大宗商品价格上涨以及蒙斯塔德炼油厂创纪录的盈利帮助第三季度营业利润增长了一倍以上。这家挪威生产商目前预计增长速度将快于之前 3% 的预期",
+  "pub_time": "2026-10-28T16:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "c097d9d9191e5f63a3759722b953e17f",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "天然气",
+   "锡",
+   "产量",
+   "预测"
+  ],
+  "en_title": "Equinor Raises Oil and Gas Output Forecast as Operating Profit Doubles"
+ },
+ {
+  "title": "美国向 Constellation 提供高达 50 亿美元的核贷款",
+  "url": "",
+  "summary": "Constellation Energy（纳斯达克股票代码：CEG）获得了美国政府高达 50 亿美元（70 亿加元）的有条件贷款承诺，用于提高现有核电站的产量。拟议的融资将支持……美国向 Constellation 提供高达 5B 美元核贷款的消息首先出现在《北方矿工》上",
+  "pub_time": "2026-10-28T16:22:26Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "6612785cc524f60c099a2d2ebdd6b033",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "US offers Constellation up to $5B nuclear loan"
+ },
+ {
+  "title": "Glencore、CNGR 以 4000 万美元投资 3.8 亿美元的巴西镍矿",
+  "url": "",
+  "summary": "随着战略资金推动该项目获得批准，半人马金属公司已为捷豹前五年的产量找到了买家。",
+  "pub_time": "2026-10-28T16:08:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "2888766559cb40ce61bb89aa239f714b",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "镍"
+  ],
+  "en_title": "Glencore, CNGR back $380M Brazil nickel mine with $40M"
+ },
+ {
   "title": "美国商品期货交易委员会计划增加谷物期货市场报告的频率",
   "url": "",
   "summary": "",
@@ -81,6 +269,32 @@
    "下跌"
   ],
   "en_title": "US Oil Inventories Fall Again As Prices Rise"
+ },
+ {
+  "title": "北美基金亏损现金，金价下跌吸引亚洲买家",
+  "url": "",
+  "summary": "较低的金价将印度溢价推高至 15 美元/盎司，并随着北美投资者的撤出而增加了中国的交易。",
+  "pub_time": "2026-10-28T14:38:59Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "85dfe17c91c3bcd37ed145613e89c5c2",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Gold dip draws Asian buyers as North American funds lose cash"
  },
  {
   "title": "北美基金亏损现金，金价下跌吸引亚洲买家",
@@ -261,7 +475,7 @@
  {
   "title": "随着租赁拍卖临近，深海矿业考虑在美国上市",
   "url": "",
-  "summary": "该公司目前正在寻求克拉里昂-克利珀顿区（CCZ）和库克群岛的勘探权。",
+  "summary": "该公司目前正在寻求克拉里昂-克利珀顿地区和库克群岛的勘探权。",
   "pub_time": "2026-10-28T13:18:17Z",
   "source": "Mining.com",
   "_cat": "基本金属",
@@ -690,32 +904,6 @@
   "is_elite": false
  },
  {
-  "title": "石油交易商为美国大选后伊朗局势升级做好准备",
-  "url": "",
-  "summary": "ING 大宗商品策略师今天在一份报告中写道，石油交易商似乎正在为 11 月 3 日美国中期选举后中东地区恢复敌对行动做准备，如果这种情况没有恢复，油价可能会下跌。随着特朗普总统的多次暗示",
-  "pub_time": "2026-10-28T07:50:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "9c8937e873bdd4f6be61e5b4f468ab1e",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Oil Traders Brace for Iran Escalation After U.S. Elections"
- },
- {
   "title": "Mysteel：15家上市钢企公布前三季度业绩",
   "url": "https://news.mysteel.com/a/26102815/28B104D59FF1975B.html",
   "summary": "",
@@ -771,32 +959,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "受制裁的油轮在波斯湾找到了利润丰厚的新贸易",
-  "url": "",
-  "summary": "以前用于从受制裁国家运输原油的油轮在被从制裁名单中删除后，现在正在将原油运出中东。两艘以前用于运输委内瑞拉原油的大型原油运输船现在被用来从波斯湾出口石油，另外两艘",
-  "pub_time": "2026-10-28T06:45:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "1f0d59de8d433dab43eca0a3f7bf606c",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Sanctioned Oil Tankers Find a Lucrative New Trade in the Persian Gulf"
  },
  {
   "title": "“LME上海热轧卷板合约”正式上市交易，“上海价格”国际应用场景进一步扩展",
@@ -899,35 +1061,6 @@
    "预测"
   ],
   "en_title": "Lifts in all states push AOF canola forecast to record"
- },
- {
-  "title": "胡塞武装袭击重燃沙特供应担忧，油价攀升",
-  "url": "",
-  "summary": "周三亚洲早盘油价攀升，胡塞武装再次袭击沙特阿拉伯，重新引发了该地区的供应担忧。库存下降以及有报道称美国正在准备在中期选举后对伊朗发动新的军事行动，这都增加了上涨势头。在 t",
-  "pub_time": "2026-10-28T03:53:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "7c2a689fd1eef037ab01715b9cd75a41",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "走高",
-   "供应"
-  ],
-  "en_title": "Oil Prices Climb as Houthi Attacks Reignite Saudi Supply Fears"
  },
  {
   "title": "Mysteel午报：钢价局部上涨，焦煤期货涨超2%",
@@ -1619,32 +1752,6 @@
    "铜"
   ],
   "en_title": "FireFly finds copper-gold system near idle mill"
- },
- {
-  "title": "中国黄金在不稳定局势结束后重新启动矿山",
-  "url": "",
-  "summary": "中国黄金国际资源公司（TSX：CGG；香港交易所：2099）已恢复其位于内蒙古长山号（CSH）金矿的露天开采，此前该金矿因边坡不稳定而停止开采。",
-  "pub_time": "2026-10-27T18:00:47Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "a8d7dc70b1cbfae4c03e73ea4c4e8f81",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "China Gold restarts mine after instability halt"
  },
  {
   "title": "美联储利率决定前金价走高，而美国与伊朗的僵局仍在继续",
@@ -2696,59 +2803,6 @@
   "en_title": "Op-Ed: How foreign miners can unlock ASX listings"
  },
  {
-  "title": "Iamgold 钻探增强了 Nelligan 的增长势头",
-  "url": "",
-  "summary": "魁北克内利根的新钻探促进了金矿化，促进了这家多伦多生产商的增长。",
-  "pub_time": "2026-10-27T14:35:59Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "517f7639ae7b016e9523e3cc8219e37d",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Iamgold drilling strengthens Nelligan growth case"
- },
- {
-  "title": "Codelco铜矿封锁加剧供应担忧",
-  "url": "",
-  "summary": "智利的Ministro Hales工厂的工人们因未支付奖金而被迫停产六个小时。",
-  "pub_time": "2026-10-27T12:29:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "e3ae2db5a7b5652ba7d32753b8daf5de",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "供应"
-  ],
-  "en_title": "Codelco copper mine blockade adds to supply concerns"
- },
- {
   "title": "Mysteel数据：中国钢材发运量统计（10.20-10.26）",
   "url": "https://news.mysteel.com/a/26102720/531098674E66F54F.html",
   "summary": "",
@@ -3286,32 +3340,5 @@
    "原油"
   ],
   "en_title": "Crude Oil Slumps Amid Qatar's Push For Diplomacy In U.S.-Iran Conflict"
- },
- {
-  "title": "美伊危机持续不确定，金价上涨",
-  "url": "",
-  "summary": "(RTTNews) - 黄金价格周一小幅走高，部分抵消了前两个交易日的跌幅，因伊朗宣布卡塔尔代表团访问伊朗，讨论缓和地区冲突的报道，投资者对此进行权衡。",
-  "pub_time": "2026-10-26T17:37:32Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "54efc80da01e55f4f7ffe0bcedffbfbc",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "锡"
-  ],
-  "en_title": "Gold Advances Amid Continuing Uncertainty Over U.S.-Iran Crisis"
  }
 ]
