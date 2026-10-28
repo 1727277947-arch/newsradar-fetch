@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T07:46:50",
+ "updated_at": "2026-10-28T08:57:30",
  "spot_meta": {
   "policy": "stale_never_fill",
   "spot_page_used": "2026-10-27",
@@ -14,7 +14,7 @@
    "category": "贵金属",
    "market": "国际",
    "kind": "spot",
-   "spot": 4059.3,
+   "spot": 4065.8999,
    "future": null,
    "basis": null,
    "basis_pct": null,
@@ -32,7 +32,7 @@
    "category": "贵金属",
    "market": "国际",
    "kind": "spot",
-   "spot": 54.586,
+   "spot": 54.563,
    "future": null,
    "basis": null,
    "basis_pct": null,
@@ -50,7 +50,7 @@
    "category": "贵金属",
    "market": "国际",
    "kind": "spot",
-   "spot": 1546.0,
+   "spot": 1543.0,
    "future": null,
    "basis": null,
    "basis_pct": null,
@@ -68,7 +68,7 @@
    "category": "贵金属",
    "market": "国际",
    "kind": "spot",
-   "spot": 1059.0,
+   "spot": 1058.0,
    "future": null,
    "basis": null,
    "basis_pct": null,
@@ -630,13 +630,7 @@
     "sl": 8631.36,
     "exit_price": 8627.04,
     "rr": 20.0
-   },
-   "cross_source_dev_pct": 0.0,
-   "board_up": 9350.0,
-   "board_down": 7970.0,
-   "real_open": 8640.0,
-   "quote_source": "eastmoney",
-   "quote_contract": "SI2612"
+   }
   },
   {
    "symbol": "LC0",
@@ -646,10 +640,10 @@
    "category": "基本金属",
    "market": "国内",
    "kind": "both",
-   "future": 98500.0,
+   "future": 98520.0,
    "last_settle": 94920.0,
-   "change": 3580.0,
-   "change_pct": 3.77,
+   "change": 3600.0,
+   "change_pct": 3.79,
    "trend": "up",
    "day_high": 99880.0,
    "day_low": 96020.0,
@@ -657,8 +651,8 @@
    "volume": 439132,
    "open_interest": 338569,
    "contract_mult": 1,
-   "contract_value": 98500.0,
-   "est_margin": 11820.0,
+   "contract_value": 98520.0,
+   "est_margin": 11822.4,
    "margin_rate": 0.12,
    "expensive": false,
    "source": "新浪财经+生意社",
@@ -704,13 +698,7 @@
     "sl": 98421.48,
     "exit_price": 98372.22,
     "rr": 20.0
-   },
-   "cross_source_dev_pct": 0.02,
-   "board_up": 107240.0,
-   "board_down": 82600.0,
-   "real_open": 96200.0,
-   "quote_source": "eastmoney",
-   "quote_contract": "LC2701"
+   }
   },
   {
    "symbol": "RB0",
@@ -1024,10 +1012,10 @@
    "category": "黑色系",
    "market": "国内",
    "kind": "both",
-   "future": 5848.0,
+   "future": 5850.0,
    "last_settle": 5826.0,
-   "change": 22.0,
-   "change_pct": 0.38,
+   "change": 24.0,
+   "change_pct": 0.41,
    "trend": "up",
    "day_high": 5860.0,
    "day_low": 5764.0,
@@ -1035,8 +1023,8 @@
    "volume": 221341,
    "open_interest": 179670,
    "contract_mult": 5,
-   "contract_value": 29240.0,
-   "est_margin": 2924.0,
+   "contract_value": 29250.0,
+   "est_margin": 2925.0,
    "margin_rate": 0.1,
    "expensive": false,
    "source": "新浪财经+生意社",
@@ -1082,13 +1070,7 @@
     "sl": 5855.85,
     "exit_price": 5858.775,
     "rr": 20.0
-   },
-   "cross_source_dev_pct": 0.03,
-   "board_up": 6176.0,
-   "board_down": 5476.0,
-   "real_open": 5818.0,
-   "quote_source": "eastmoney",
-   "quote_contract": "SF2701"
+   }
   },
   {
    "symbol": "SM0",
@@ -1098,10 +1080,10 @@
    "category": "黑色系",
    "market": "国内",
    "kind": "both",
-   "future": 5882.0,
-   "last_settle": 5858.0,
-   "change": 24.0,
-   "change_pct": 0.41,
+   "future": 5884.0,
+   "last_settle": 5866.0,
+   "change": 18.0,
+   "change_pct": 0.31,
    "trend": "up",
    "day_high": 5910.0,
    "day_low": 5818.0,
@@ -1109,16 +1091,16 @@
    "volume": 343466,
    "open_interest": 212244,
    "contract_mult": 5,
-   "contract_value": 29410.0,
-   "est_margin": 2941.0,
+   "contract_value": 29420.0,
+   "est_margin": 2942.0,
    "margin_rate": 0.1,
    "expensive": false,
    "source": "新浪财经+生意社",
    "note": "现货vs昨日结算(基差)",
    "spot": 5690.0,
    "spot_as_of": "2026-10-27",
-   "basis": -168.0,
-   "basis_pct": -2.87,
+   "basis": -176.0,
+   "basis_pct": -3.0,
    "yesterday_chg": null,
    "guide": {
     "direct": -1,
@@ -1156,13 +1138,7 @@
     "sl": 5889.884,
     "exit_price": 5892.826,
     "rr": 20.0
-   },
-   "cross_source_dev_pct": 0.0,
-   "board_up": 6218.0,
-   "board_down": 5514.0,
-   "real_open": 5852.0,
-   "quote_source": "eastmoney",
-   "quote_contract": "SM2611"
+   }
   },
   {
    "symbol": "SS0",
@@ -1309,11 +1285,11 @@
    "market": "国际",
    "kind": "future",
    "spot": null,
-   "future": 99.99,
+   "future": 100.5,
    "basis": null,
    "basis_pct": null,
-   "change": 0.09,
-   "change_pct": 0.09,
+   "change": 0.6,
+   "change_pct": 0.6,
    "trend": "up",
    "source": "oilprice.com(期货)",
    "note": "期货价格(延迟)"
@@ -1327,12 +1303,12 @@
    "market": "国际",
    "kind": "future",
    "spot": null,
-   "future": 113.88,
+   "future": 114.36,
    "basis": null,
    "basis_pct": null,
-   "change": -1.93,
-   "change_pct": -1.67,
-   "trend": "down",
+   "change": 0.48,
+   "change_pct": 0.42,
+   "trend": "up",
    "source": "oilprice.com(期货)",
    "note": "期货价格(延迟)"
   },
@@ -1345,11 +1321,11 @@
    "market": "国际",
    "kind": "future",
    "spot": null,
-   "future": 2.716,
+   "future": 2.734,
    "basis": null,
    "basis_pct": null,
-   "change": 0.019,
-   "change_pct": 0.7,
+   "change": 0.037,
+   "change_pct": 1.37,
    "trend": "up",
    "source": "oilprice.com(期货)",
    "note": "期货价格(延迟)"
@@ -1363,12 +1339,12 @@
    "market": "国际",
    "kind": "future",
    "spot": null,
-   "future": 3.1253,
+   "future": 3.1408,
    "basis": null,
    "basis_pct": null,
-   "change": -0.012,
-   "change_pct": -0.39,
-   "trend": "down",
+   "change": 0.003,
+   "change_pct": 0.1,
+   "trend": "up",
    "source": "oilprice.com(期货)",
    "note": "期货价格(延迟)"
   },
@@ -1381,11 +1357,11 @@
    "market": "国际",
    "kind": "future",
    "spot": null,
-   "future": 4.7466,
+   "future": 4.7444,
    "basis": null,
    "basis_pct": null,
-   "change": -0.029,
-   "change_pct": -0.6,
+   "change": -0.031,
+   "change_pct": -0.64,
    "trend": "down",
    "source": "oilprice.com(期货)",
    "note": "期货价格(延迟)"
@@ -3647,8 +3623,8 @@
    "today_open": 986.0,
    "prev_close": 968.0,
    "gap_pct": 1.86,
-   "session": "night",
-   "has_night": true,
+   "session": "day",
+   "has_night": false,
    "direction": 1,
    "label": "做多",
    "strength": 3,
@@ -3691,7 +3667,7 @@
     "hit_rate": 0.2,
     "tested": 60
    },
-   "reason": "纯碱今开986.000 vs 昨结968.000，+1.86%偏强看多（含夜盘：夜盘开盘986.000 vs 昨结968.000）；打板分73(疑似打板候选)：涨2.38%/收高100%/放量1.37x/连涨3日；预测次日开盘≈1004.91，区间[1003.29, 1006.53]"
+   "reason": "纯碱今开986.000 vs 昨结968.000，+1.86%偏强看多；打板分73(疑似打板候选)：涨2.38%/收高100%/放量1.37x/连涨3日；预测次日开盘≈1004.91，区间[1003.29, 1006.53]"
   },
   {
    "symbol": "nf_LH0",
@@ -3755,8 +3731,8 @@
    "today_open": 847.0,
    "prev_close": 834.0,
    "gap_pct": 1.56,
-   "session": "night",
-   "has_night": true,
+   "session": "day",
+   "has_night": false,
    "direction": 1,
    "label": "做多",
    "strength": 3,
@@ -3799,7 +3775,7 @@
     "hit_rate": 0.25,
     "tested": 60
    },
-   "reason": "玻璃今开847.000 vs 昨结834.000，+1.56%偏强看多（含夜盘：夜盘开盘847.000 vs 昨结834.000）；打板分61(强势关注)：涨1.92%/收高100%/放量1.16x/连涨3日；预测次日开盘≈858.857，区间[857.459, 860.255]"
+   "reason": "玻璃今开847.000 vs 昨结834.000，+1.56%偏强看多；打板分61(强势关注)：涨1.92%/收高100%/放量1.16x/连涨3日；预测次日开盘≈858.857，区间[857.459, 860.255]"
   },
   {
    "symbol": "nf_LC0",
@@ -3816,27 +3792,27 @@
    "strength": 3,
    "mean_gap": -0.14,
    "std_gap": 0.69,
-   "today_close": 98500.0,
-   "pred_next_open": 99329.606,
-   "pred_low": 98991.386,
-   "pred_high": 99667.826,
+   "today_close": 98520.0,
+   "pred_next_open": 99349.774,
+   "pred_low": 99011.485,
+   "pred_high": 99688.063,
    "limit_score": 59,
    "board": "强势关注",
-   "limit_ru": 3.77,
-   "limit_pos": 0.64,
+   "limit_ru": 3.79,
+   "limit_pos": 0.65,
    "limit_vol": 1.14,
    "limit_streak": 3,
    "day_ma": [
     96460.0,
     110073.0,
-    133559.67
+    133822.0
    ],
    "day_bias": "bear",
    "atr": 5931.43,
    "sl_long_pct": 6.17,
    "sl_short_pct": 4.93,
    "hit_long": 0.167,
-   "hit_short": 0.167,
+   "hit_short": 0.15,
    "stop_detail_long": {
     "atr": 5931.43,
     "k": 1.0,
@@ -3850,10 +3826,10 @@
     "k": 0.8,
     "stop": 100945.143,
     "stop_pct": 4.93,
-    "hit_rate": 0.167,
+    "hit_rate": 0.15,
     "tested": 60
    },
-   "reason": "碳酸锂今开96200 vs 昨结94920，+1.35%偏强看多；打板分59(强势关注)：涨3.77%/收高64%/放量1.14x/连涨3日；预测次日开盘≈99329.6，区间[98991.4, 99667.8]"
+   "reason": "碳酸锂今开96200 vs 昨结94920，+1.35%偏强看多；打板分59(强势关注)：涨3.79%/收高65%/放量1.14x/连涨3日；预测次日开盘≈99349.8，区间[99011.5, 99688.1]"
   },
   {
    "symbol": "nf_JM0",
@@ -4241,8 +4217,8 @@
    "today_open": 3414.0,
    "prev_close": 3402.0,
    "gap_pct": 0.35,
-   "session": "night",
-   "has_night": true,
+   "session": "day",
+   "has_night": false,
    "direction": -1,
    "label": "做空",
    "strength": 1,
@@ -4285,61 +4261,7 @@
     "hit_rate": 0.183,
     "tested": 60
    },
-   "reason": "甲醇今开3414 vs 昨结3402，+0.35%偏弱看空（含夜盘：夜盘开盘3414 vs 昨结3402）；打板分43(一般/观望)：涨-0.71%/收高33%/放量2.07x/连涨4日；预测次日开盘≈3388.38，区间[3370.03, 3406.72]"
-  },
-  {
-   "symbol": "nf_SF0",
-   "name": "硅铁",
-   "category": "黑色系",
-   "date": "2026-10-27",
-   "today_open": 5818.0,
-   "prev_close": 5826.0,
-   "gap_pct": -0.14,
-   "session": "day",
-   "has_night": false,
-   "direction": 1,
-   "label": "做多",
-   "strength": 1,
-   "mean_gap": -0.0,
-   "std_gap": 0.38,
-   "today_close": 5848.0,
-   "pred_next_open": 5843.137,
-   "pred_low": 5832.17,
-   "pred_high": 5854.103,
-   "limit_score": 43,
-   "board": "一般/观望",
-   "limit_ru": 0.38,
-   "limit_pos": 0.88,
-   "limit_vol": 1.66,
-   "limit_streak": 1,
-   "day_ma": [
-    5838.8,
-    5910.7,
-    5932.73
-   ],
-   "day_bias": "bear",
-   "atr": 85.29,
-   "sl_long_pct": 1.17,
-   "sl_short_pct": 1.17,
-   "hit_long": 0.2,
-   "hit_short": 0.233,
-   "stop_detail_long": {
-    "atr": 85.29,
-    "k": 0.8,
-    "stop": 5749.771,
-    "stop_pct": 1.17,
-    "hit_rate": 0.2,
-    "tested": 60
-   },
-   "stop_detail_short": {
-    "atr": 85.29,
-    "k": 0.8,
-    "stop": 5886.229,
-    "stop_pct": 1.17,
-    "hit_rate": 0.233,
-    "tested": 60
-   },
-   "reason": "硅铁今开5818 vs 昨结5826，-0.14%偏强看多；打板分43(一般/观望)：涨0.38%/收高88%/放量1.66x/连涨1日；预测次日开盘≈5843.14，区间[5832.17, 5854.1]"
+   "reason": "甲醇今开3414 vs 昨结3402，+0.35%偏弱看空；打板分43(一般/观望)：涨-0.71%/收高33%/放量2.07x/连涨4日；预测次日开盘≈3388.38，区间[3370.03, 3406.72]"
   },
   {
    "symbol": "nf_AL0",
@@ -4781,8 +4703,8 @@
    "today_open": 2233.0,
    "prev_close": 2220.0,
    "gap_pct": 0.59,
-   "session": "night",
-   "has_night": true,
+   "session": "day",
+   "has_night": false,
    "direction": 1,
    "label": "做多",
    "strength": 2,
@@ -4825,7 +4747,7 @@
     "hit_rate": 0.2,
     "tested": 60
    },
-   "reason": "菜粕今开2233 vs 昨结2220，+0.59%偏强看多（含夜盘：夜盘开盘2233 vs 昨结2220）；打板分35(一般/观望)：涨0.86%/收高100%/放量1.13x/连涨0日；预测次日开盘≈2246.71，区间[2244.67, 2248.74]"
+   "reason": "菜粕今开2233 vs 昨结2220，+0.59%偏强看多；打板分35(一般/观望)：涨0.86%/收高100%/放量1.13x/连涨0日；预测次日开盘≈2246.71，区间[2244.67, 2248.74]"
   },
   {
    "symbol": "nf_WR0",
@@ -5044,6 +4966,60 @@
    "reason": "热卷今开3177 vs 昨结3168，+0.28%偏强看多（含夜盘：夜盘开盘3177 vs 昨结3168）；打板分31(一般/观望)：涨0.16%/收高51%/放量1.87x/连涨0日；预测次日开盘≈3178.57，区间[3176.41, 3180.73]"
   },
   {
+   "symbol": "nf_SF0",
+   "name": "硅铁",
+   "category": "黑色系",
+   "date": "2026-10-27",
+   "today_open": 5818.0,
+   "prev_close": 5826.0,
+   "gap_pct": -0.14,
+   "session": "day",
+   "has_night": false,
+   "direction": 1,
+   "label": "做多",
+   "strength": 1,
+   "mean_gap": -0.05,
+   "std_gap": 0.5,
+   "today_close": 5850.0,
+   "pred_next_open": 5844.039,
+   "pred_low": 5829.394,
+   "pred_high": 5858.684,
+   "limit_score": 31,
+   "board": "一般/观望",
+   "limit_ru": 0.41,
+   "limit_pos": 0.9,
+   "limit_vol": 0.89,
+   "limit_streak": 1,
+   "day_ma": [
+    5838.8,
+    5947.2,
+    5997.97
+   ],
+   "day_bias": "bear",
+   "atr": 89.14,
+   "sl_long_pct": 1.23,
+   "sl_short_pct": 1.53,
+   "hit_long": 0.183,
+   "hit_short": 0.2,
+   "stop_detail_long": {
+    "atr": 89.14,
+    "k": 0.8,
+    "stop": 5746.686,
+    "stop_pct": 1.23,
+    "hit_rate": 0.183,
+    "tested": 60
+   },
+   "stop_detail_short": {
+    "atr": 89.14,
+    "k": 1.0,
+    "stop": 5907.143,
+    "stop_pct": 1.53,
+    "hit_rate": 0.2,
+    "tested": 60
+   },
+   "reason": "硅铁今开5818 vs 昨结5826，-0.14%偏强看多；打板分31(一般/观望)：涨0.41%/收高90%/放量0.89x/连涨1日；预测次日开盘≈5844.04，区间[5829.39, 5858.68]"
+  },
+  {
    "symbol": "nf_PF0",
    "name": "短纤",
    "category": "化工",
@@ -5051,8 +5027,8 @@
    "today_open": 8418.0,
    "prev_close": 8354.0,
    "gap_pct": 0.77,
-   "session": "night",
-   "has_night": true,
+   "session": "day",
+   "has_night": false,
    "direction": -1,
    "label": "做空",
    "strength": 1,
@@ -5095,7 +5071,7 @@
     "hit_rate": 0.167,
     "tested": 60
    },
-   "reason": "短纤今开8418 vs 昨结8354，+0.77%偏弱看空（含夜盘：夜盘开盘8418 vs 昨结8354）；打板分29(一般/观望)：涨-0.43%/收高32%/放量1.17x/连涨4日；预测次日开盘≈8348.74，区间[8315.79, 8381.68]"
+   "reason": "短纤今开8418 vs 昨结8354，+0.77%偏弱看空；打板分29(一般/观望)：涨-0.43%/收高32%/放量1.17x/连涨4日；预测次日开盘≈8348.74，区间[8315.79, 8381.68]"
   },
   {
    "symbol": "nf_CS0",
@@ -5152,60 +5128,6 @@
    "reason": "玉米淀粉今开2481 vs 昨结2474，+0.28%观望（含夜盘：夜盘开盘2481 vs 昨结2474）；打板分29(一般/观望)：涨0.04%/收高47%/放量0.95x/连涨6日；预测次日开盘≈2479.02，区间[2476.76, 2481.28]"
   },
   {
-   "symbol": "nf_SI0",
-   "name": "工业硅",
-   "category": "基本金属",
-   "date": "2026-10-27",
-   "today_open": 8640.0,
-   "prev_close": 8660.0,
-   "gap_pct": -0.23,
-   "session": "day",
-   "has_night": false,
-   "direction": -1,
-   "label": "做空",
-   "strength": 1,
-   "mean_gap": 0.03,
-   "std_gap": 0.33,
-   "today_close": 8640.0,
-   "pred_next_open": 8629.205,
-   "pred_low": 8615.159,
-   "pred_high": 8643.25,
-   "limit_score": 29,
-   "board": "一般/观望",
-   "limit_ru": -0.23,
-   "limit_pos": 0.47,
-   "limit_vol": 1.84,
-   "limit_streak": 0,
-   "day_ma": [
-    8631.0,
-    8812.5,
-    8906.08
-   ],
-   "day_bias": "bear",
-   "atr": 125.71,
-   "sl_long_pct": 1.16,
-   "sl_short_pct": 0.87,
-   "hit_long": 0.233,
-   "hit_short": 0.233,
-   "stop_detail_long": {
-    "atr": 125.71,
-    "k": 0.8,
-    "stop": 8539.429,
-    "stop_pct": 1.16,
-    "hit_rate": 0.233,
-    "tested": 60
-   },
-   "stop_detail_short": {
-    "atr": 125.71,
-    "k": 0.6,
-    "stop": 8715.429,
-    "stop_pct": 0.87,
-    "hit_rate": 0.233,
-    "tested": 60
-   },
-   "reason": "工业硅今开8640 vs 昨结8660，-0.23%偏弱看空；打板分29(一般/观望)：涨-0.23%/收高47%/放量1.84x/连涨0日；预测次日开盘≈8629.2，区间[8615.16, 8643.25]"
-  },
-  {
    "symbol": "nf_SH0",
    "name": "烧碱",
    "category": "化工",
@@ -5213,8 +5135,8 @@
    "today_open": 1478.0,
    "prev_close": 1499.0,
    "gap_pct": -1.4,
-   "session": "night",
-   "has_night": true,
+   "session": "day",
+   "has_night": false,
    "direction": -1,
    "label": "做空",
    "strength": 1,
@@ -5257,7 +5179,7 @@
     "hit_rate": 0.25,
     "tested": 60
    },
-   "reason": "烧碱今开1478 vs 昨结1499，-1.40%偏弱看空（含夜盘：夜盘开盘1478 vs 昨结1499）；打板分28(一般/观望)：涨-0.47%/收高32%/放量2.91x/连涨0日；预测次日开盘≈1479.46，区间[1477.94, 1480.98]"
+   "reason": "烧碱今开1478 vs 昨结1499，-1.40%偏弱看空；打板分28(一般/观望)：涨-0.47%/收高32%/放量2.91x/连涨0日；预测次日开盘≈1479.46，区间[1477.94, 1480.98]"
   },
   {
    "symbol": "nf_M0",
@@ -5312,6 +5234,60 @@
     "tested": 60
    },
    "reason": "豆粕今开3212 vs 昨结3199，+0.41%偏强看多（含夜盘：夜盘开盘3212 vs 昨结3199）；打板分28(一般/观望)：涨0.47%/收高91%/放量0.94x/连涨0日；预测次日开盘≈3222.21，区间[3218.46, 3225.97]"
+  },
+  {
+   "symbol": "nf_SM0",
+   "name": "锰硅",
+   "category": "黑色系",
+   "date": "2026-10-27",
+   "today_open": 5852.0,
+   "prev_close": 5866.0,
+   "gap_pct": -0.24,
+   "session": "day",
+   "has_night": false,
+   "direction": 1,
+   "label": "做多",
+   "strength": 1,
+   "mean_gap": -0.0,
+   "std_gap": 0.34,
+   "today_close": 5884.0,
+   "pred_next_open": 5875.567,
+   "pred_low": 5865.593,
+   "pred_high": 5885.541,
+   "limit_score": 28,
+   "board": "一般/观望",
+   "limit_ru": 0.31,
+   "limit_pos": 0.72,
+   "limit_vol": 1.02,
+   "limit_streak": 1,
+   "day_ma": [
+    5846.0,
+    5841.2,
+    5849.2
+   ],
+   "day_bias": "mix",
+   "atr": 83.14,
+   "sl_long_pct": 0.85,
+   "sl_short_pct": 1.14,
+   "hit_long": 0.183,
+   "hit_short": 0.2,
+   "stop_detail_long": {
+    "atr": 83.14,
+    "k": 0.6,
+    "stop": 5802.114,
+    "stop_pct": 0.85,
+    "hit_rate": 0.183,
+    "tested": 60
+   },
+   "stop_detail_short": {
+    "atr": 83.14,
+    "k": 0.8,
+    "stop": 5918.514,
+    "stop_pct": 1.14,
+    "hit_rate": 0.2,
+    "tested": 60
+   },
+   "reason": "锰硅今开5852 vs 昨结5866，-0.24%偏强看多；打板分28(一般/观望)：涨0.31%/收高72%/放量1.02x/连涨1日；预测次日开盘≈5875.57，区间[5865.59, 5885.54]"
   },
   {
    "symbol": "nf_RU0",
@@ -5537,8 +5513,8 @@
    "today_open": 5280.0,
    "prev_close": 5267.0,
    "gap_pct": 0.25,
-   "session": "night",
-   "has_night": true,
+   "session": "day",
+   "has_night": false,
    "direction": 1,
    "label": "做多",
    "strength": 1,
@@ -5581,61 +5557,7 @@
     "hit_rate": 0.233,
     "tested": 60
    },
-   "reason": "郑糖今开5280 vs 昨结5267，+0.25%偏强看多（含夜盘：夜盘开盘5280 vs 昨结5267）；打板分24(一般/观望)：涨0.19%/收高67%/放量1.19x/连涨0日；预测次日开盘≈5287.49，区间[5271.99, 5302.99]"
-  },
-  {
-   "symbol": "nf_SM0",
-   "name": "锰硅",
-   "category": "黑色系",
-   "date": "2026-10-27",
-   "today_open": 5852.0,
-   "prev_close": 5858.0,
-   "gap_pct": -0.1,
-   "session": "day",
-   "has_night": false,
-   "direction": 1,
-   "label": "做多",
-   "strength": 1,
-   "mean_gap": 0.04,
-   "std_gap": 0.32,
-   "today_close": 5876.0,
-   "pred_next_open": 5873.22,
-   "pred_low": 5863.772,
-   "pred_high": 5882.667,
-   "limit_score": 24,
-   "board": "一般/观望",
-   "limit_ru": 0.31,
-   "limit_pos": 0.7,
-   "limit_vol": 0.08,
-   "limit_streak": 1,
-   "day_ma": [
-    5842.0,
-    5843.5,
-    5856.8
-   ],
-   "day_bias": "bear",
-   "atr": 85.0,
-   "sl_long_pct": 0.87,
-   "sl_short_pct": 0.87,
-   "hit_long": 0.183,
-   "hit_short": 0.25,
-   "stop_detail_long": {
-    "atr": 85.0,
-    "k": 0.6,
-    "stop": 5801.0,
-    "stop_pct": 0.87,
-    "hit_rate": 0.183,
-    "tested": 60
-   },
-   "stop_detail_short": {
-    "atr": 85.0,
-    "k": 0.6,
-    "stop": 5903.0,
-    "stop_pct": 0.87,
-    "hit_rate": 0.25,
-    "tested": 60
-   },
-   "reason": "锰硅今开5852 vs 昨结5858，-0.10%偏强看多；打板分24(一般/观望)：涨0.31%/收高70%/放量0.08x/连涨1日；预测次日开盘≈5873.22，区间[5863.77, 5882.67]"
+   "reason": "郑糖今开5280 vs 昨结5267，+0.25%偏强看多；打板分24(一般/观望)：涨0.19%/收高67%/放量1.19x/连涨0日；预测次日开盘≈5287.49，区间[5271.99, 5302.99]"
   },
   {
    "symbol": "nf_FU0",
@@ -5807,8 +5729,8 @@
    "today_open": 6596.0,
    "prev_close": 6604.0,
    "gap_pct": -0.12,
-   "session": "night",
-   "has_night": true,
+   "session": "day",
+   "has_night": false,
    "direction": -1,
    "label": "做空",
    "strength": 2,
@@ -5851,7 +5773,7 @@
     "hit_rate": 0.233,
     "tested": 60
    },
-   "reason": "PTA今开6596 vs 昨结6604，-0.12%偏弱看空（含夜盘：夜盘开盘6596 vs 昨结6604）；打板分22(一般/观望)：涨-1.03%/收高16%/放量0.99x/连涨4日；预测次日开盘≈6531.5，区间[6509.03, 6553.96]"
+   "reason": "PTA今开6596 vs 昨结6604，-0.12%偏弱看空；打板分22(一般/观望)：涨-1.03%/收高16%/放量0.99x/连涨4日；预测次日开盘≈6531.5，区间[6509.03, 6553.96]"
   },
   {
    "symbol": "nf_Y0",
@@ -5969,8 +5891,8 @@
    "today_open": 15305.0,
    "prev_close": 15380.0,
    "gap_pct": -0.49,
-   "session": "night",
-   "has_night": true,
+   "session": "day",
+   "has_night": false,
    "direction": -1,
    "label": "做空",
    "strength": 2,
@@ -6013,7 +5935,7 @@
     "hit_rate": 0.133,
     "tested": 60
    },
-   "reason": "郑棉今开15305 vs 昨结15380，-0.49%偏弱看空（含夜盘：夜盘开盘15305 vs 昨结15380）；打板分18(一般/观望)：涨-0.88%/收高3%/放量1.89x/连涨0日；预测次日开盘≈15210.5，区间[15180.3, 15240.8]"
+   "reason": "郑棉今开15305 vs 昨结15380，-0.49%偏弱看空；打板分18(一般/观望)：涨-0.88%/收高3%/放量1.89x/连涨0日；预测次日开盘≈15210.5，区间[15180.3, 15240.8]"
   },
   {
    "symbol": "nf_I0",
@@ -6131,8 +6053,8 @@
    "today_open": 21200.0,
    "prev_close": 21320.0,
    "gap_pct": -0.56,
-   "session": "night",
-   "has_night": true,
+   "session": "day",
+   "has_night": false,
    "direction": -1,
    "label": "做空",
    "strength": 2,
@@ -6175,7 +6097,61 @@
     "hit_rate": 0.233,
     "tested": 60
    },
-   "reason": "棉纱今开21200 vs 昨结21320，-0.56%偏弱看空（含夜盘：夜盘开盘21200 vs 昨结21320）；打板分14(一般/观望)：涨-0.77%/收高0%/放量1.67x/连涨0日；预测次日开盘≈21082.7，区间[21041.9, 21123.5]"
+   "reason": "棉纱今开21200 vs 昨结21320，-0.56%偏弱看空；打板分14(一般/观望)：涨-0.77%/收高0%/放量1.67x/连涨0日；预测次日开盘≈21082.7，区间[21041.9, 21123.5]"
+  },
+  {
+   "symbol": "nf_SI0",
+   "name": "工业硅",
+   "category": "基本金属",
+   "date": "2026-10-27",
+   "today_open": 8640.0,
+   "prev_close": 8660.0,
+   "gap_pct": -0.23,
+   "session": "day",
+   "has_night": false,
+   "direction": -1,
+   "label": "做空",
+   "strength": 1,
+   "mean_gap": 0.18,
+   "std_gap": 0.83,
+   "today_close": 8640.0,
+   "pred_next_open": 8634.17,
+   "pred_low": 8598.472,
+   "pred_high": 8669.867,
+   "limit_score": 14,
+   "board": "一般/观望",
+   "limit_ru": -0.23,
+   "limit_pos": 0.47,
+   "limit_vol": 0.96,
+   "limit_streak": 0,
+   "day_ma": [
+    8631.0,
+    8609.75,
+    8600.42
+   ],
+   "day_bias": "bull",
+   "atr": 132.86,
+   "sl_long_pct": 1.23,
+   "sl_short_pct": 1.23,
+   "hit_long": 0.2,
+   "hit_short": 0.183,
+   "stop_detail_long": {
+    "atr": 132.86,
+    "k": 0.8,
+    "stop": 8533.714,
+    "stop_pct": 1.23,
+    "hit_rate": 0.2,
+    "tested": 60
+   },
+   "stop_detail_short": {
+    "atr": 132.86,
+    "k": 0.8,
+    "stop": 8746.286,
+    "stop_pct": 1.23,
+    "hit_rate": 0.183,
+    "tested": 60
+   },
+   "reason": "工业硅今开8640 vs 昨结8660，-0.23%偏弱看空；打板分14(一般/观望)：涨-0.23%/收高47%/放量0.96x/连涨0日；预测次日开盘≈8634.17，区间[8598.47, 8669.87]"
   },
   {
    "symbol": "nf_P0",
@@ -6286,6 +6262,60 @@
    "reason": "不锈钢今开13450 vs 昨结13415，+0.26%观望（含夜盘：夜盘开盘13450 vs 昨结13415）；打板分11(一般/观望)：涨-0.04%/收高27%/放量1.07x/连涨0日；预测次日开盘≈13430.7，区间[13407.3, 13454]"
   },
   {
+   "symbol": "nf_OI0",
+   "name": "菜油",
+   "category": "农产品",
+   "date": "2026-10-27",
+   "today_open": 10202.0,
+   "prev_close": 10270.0,
+   "gap_pct": -0.66,
+   "session": "day",
+   "has_night": false,
+   "direction": -1,
+   "label": "做空",
+   "strength": 1,
+   "mean_gap": 0.04,
+   "std_gap": 0.2,
+   "today_close": 10207.0,
+   "pred_next_open": 10168.114,
+   "pred_low": 10157.866,
+   "pred_high": 10178.361,
+   "limit_score": 10,
+   "board": "一般/观望",
+   "limit_ru": -0.61,
+   "limit_pos": 0.2,
+   "limit_vol": 1.08,
+   "limit_streak": 0,
+   "day_ma": [
+    10271.6,
+    10265.3,
+    10232.98
+   ],
+   "day_bias": "bull",
+   "atr": 167.5,
+   "sl_long_pct": 0.99,
+   "sl_short_pct": 1.31,
+   "hit_long": 0.233,
+   "hit_short": 0.2,
+   "stop_detail_long": {
+    "atr": 167.5,
+    "k": 0.6,
+    "stop": 10101.5,
+    "stop_pct": 0.99,
+    "hit_rate": 0.233,
+    "tested": 60
+   },
+   "stop_detail_short": {
+    "atr": 167.5,
+    "k": 0.8,
+    "stop": 10336.0,
+    "stop_pct": 1.31,
+    "hit_rate": 0.2,
+    "tested": 60
+   },
+   "reason": "菜油今开10202 vs 昨结10270，-0.66%偏弱看空；打板分10(一般/观望)：涨-0.61%/收高20%/放量1.08x/连涨0日；预测次日开盘≈10168.1，区间[10157.9, 10178.4]"
+  },
+  {
    "symbol": "nf_B0",
    "name": "豆二",
    "category": "农产品",
@@ -6340,60 +6370,6 @@
    "reason": "豆二今开3985 vs 昨结4002，-0.42%观望（含夜盘：夜盘开盘3985 vs 昨结4002）；打板分10(一般/观望)：涨-0.10%/收高41%/放量0.36x/连涨0日；预测次日开盘≈3988.95，区间[3983.23, 3994.66]"
   },
   {
-   "symbol": "nf_OI0",
-   "name": "菜油",
-   "category": "农产品",
-   "date": "2026-10-27",
-   "today_open": 10202.0,
-   "prev_close": 10270.0,
-   "gap_pct": -0.66,
-   "session": "night",
-   "has_night": true,
-   "direction": -1,
-   "label": "做空",
-   "strength": 1,
-   "mean_gap": 0.04,
-   "std_gap": 0.2,
-   "today_close": 10206.0,
-   "pred_next_open": 10167.117,
-   "pred_low": 10156.871,
-   "pred_high": 10177.364,
-   "limit_score": 9,
-   "board": "一般/观望",
-   "limit_ru": -0.62,
-   "limit_pos": 0.2,
-   "limit_vol": 1.08,
-   "limit_streak": 0,
-   "day_ma": [
-    10271.6,
-    10265.3,
-    10232.98
-   ],
-   "day_bias": "bull",
-   "atr": 167.5,
-   "sl_long_pct": 0.99,
-   "sl_short_pct": 1.31,
-   "hit_long": 0.233,
-   "hit_short": 0.2,
-   "stop_detail_long": {
-    "atr": 167.5,
-    "k": 0.6,
-    "stop": 10101.5,
-    "stop_pct": 0.99,
-    "hit_rate": 0.233,
-    "tested": 60
-   },
-   "stop_detail_short": {
-    "atr": 167.5,
-    "k": 0.8,
-    "stop": 10336.0,
-    "stop_pct": 1.31,
-    "hit_rate": 0.2,
-    "tested": 60
-   },
-   "reason": "菜油今开10202 vs 昨结10270，-0.66%偏弱看空（含夜盘：夜盘开盘10202 vs 昨结10270）；打板分9(一般/观望)：涨-0.62%/收高20%/放量1.08x/连涨0日；预测次日开盘≈10167.1，区间[10156.9, 10177.4]"
-  },
-  {
    "symbol": "nf_PX0",
    "name": "对二甲苯",
    "category": "化工",
@@ -6401,8 +6377,8 @@
    "today_open": 9686.0,
    "prev_close": 9684.0,
    "gap_pct": 0.02,
-   "session": "night",
-   "has_night": true,
+   "session": "day",
+   "has_night": false,
    "direction": -1,
    "label": "做空",
    "strength": 2,
@@ -6445,7 +6421,7 @@
     "hit_rate": 0.25,
     "tested": 60
    },
-   "reason": "对二甲苯今开9686 vs 昨结9684，+0.02%偏弱看空（含夜盘：夜盘开盘9686 vs 昨结9684）；打板分8(一般/观望)：涨-0.99%/收高22%/放量0.95x/连涨0日；预测次日开盘≈9589.5，区间[9552.31, 9626.69]"
+   "reason": "对二甲苯今开9686 vs 昨结9684，+0.02%偏弱看空；打板分8(一般/观望)：涨-0.99%/收高22%/放量0.95x/连涨0日；预测次日开盘≈9589.5，区间[9552.31, 9626.69]"
   },
   {
    "symbol": "nf_LU0",
