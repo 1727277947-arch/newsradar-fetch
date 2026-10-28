@@ -1,5 +1,117 @@
 [
  {
+  "title": "农业农村部：全国秋粮收获已过八成 同比快于上年",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722138.shtml",
+  "summary": "我国秋粮收获区域广、范围大，目前，秋收总体进展顺利，进度已过八成，同比快于上年。同时，秋冬种也正在有序推进，全国冬小麦播种已过三成",
+  "pub_time": "2026-10-28T05:41:19Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "5b28911e5b49ca1e70daf07bd87b82bd",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "中钢协：2026年9月钢铁原料采购成本简析",
+  "url": "https://news.mysteel.com/a/26102813/946BFB6999341E1D.html",
+  "summary": "",
+  "pub_time": "2026-10-28T05:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "c41b0ea27a05ff3d5f53bde759976bc4",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "商务部赴中钢协研讨钢铁出口许可证签发管理相关工作",
+  "url": "https://news.mysteel.com/a/26102813/DD7544C23912FD36.html",
+  "summary": "",
+  "pub_time": "2026-10-28T05:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "d56e60c4e6904033c9b9e51249a75177",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "所有州的产量提升推动 AOF 油菜籽预测创历史新高",
+  "url": "",
+  "summary": "澳大利亚双低油菜籽收成正在加速，AOF 本周将全国产量预测上调至创纪录的 8.59 公吨。",
+  "pub_time": "2026-10-28T04:35:48Z",
+  "source": "GrainCentral",
+  "_cat": "基本金属",
+  "dedup_key": "4a1aa3f25f114ee3794b6c5b1c2231c1",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "预测"
+  ],
+  "en_title": "Lifts in all states push AOF canola forecast to record"
+ },
+ {
+  "title": "胡塞武装袭击重燃沙特供应担忧，油价攀升",
+  "url": "",
+  "summary": "周三亚洲早盘油价攀升，胡塞武装再次袭击沙特阿拉伯，重新引发了该地区的供应担忧。库存下降以及有报道称美国正在准备在中期选举后对伊朗发动新的军事行动，这都增加了上涨势头。在 t",
+  "pub_time": "2026-10-28T03:53:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "7c2a689fd1eef037ab01715b9cd75a41",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "走高",
+   "供应"
+  ],
+  "en_title": "Oil Prices Climb as Houthi Attacks Reignite Saudi Supply Fears"
+ },
+ {
   "title": "希望的田野上一幅秋粮抢收画卷正徐徐展开 秸秆“二次增收”走出共赢新路径",
   "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722091.shtml",
   "summary": "央视网消息：金秋十月，稻浪翻滚。眼下，江苏无锡水稻陆续进入收割期，田间地头农机穿梭，烘干中心马力全开，一幅秋粮抢收的繁忙画卷正徐徐展开",
@@ -15,6 +127,44 @@
    "中文",
    "国内",
    "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel午报：钢价局部上涨，焦煤期货涨超2%",
+  "url": "https://news.mysteel.com/a/26102811/98D932C2BAE9CEA9.html",
+  "summary": "",
+  "pub_time": "2026-10-28T03:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "733b70a173df3f68beebe6f91e3f362f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "螺纹钢期货反弹，钢价涨幅或有限",
+  "url": "https://news.mysteel.com/a/26102811/2B316F0A1FA0FA7D.html",
+  "summary": "",
+  "pub_time": "2026-10-28T03:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "b06c3f76b646bf2224f9f3710502ebae",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
   ],
   "is_elite": false
  },
@@ -39,7 +189,7 @@
  },
  {
   "title": "LME上海热轧卷板合约首日成交活跃",
-  "url": "https://news.mysteel.com/a/26102810/BF1B1C9A53D64F9B.html",
+  "url": "https://news.mysteel.com/a/26102810/46A39FF1D7B3041B.html",
   "summary": "",
   "pub_time": "2026-10-28T02:00:00Z",
   "source": "上海钢联Mysteel",
@@ -76,25 +226,6 @@
   "is_elite": false
  },
  {
-  "title": "第四届可持续植物油大会在上海举办",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722004.shtml",
-  "summary": "记者 姜煜)第四届可持续植物油大会(SVOC)27日在上海举办。大会由棕榈油生产国理事会(CPOPC)主办，印度尼西亚驻华大使馆和马来西亚驻华大使馆联合主办，这也是 SVOC首次走进中国。此前，大会在印度尼西亚、印度和荷兰相继举办",
-  "pub_time": "2026-10-28T01:33:05Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "861c0068b4fe61dd23f185661125f9f6",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel数据：全球钢材到港量统计（10.20-10.26）",
   "url": "https://news.mysteel.com/a/26102809/E029D8B20966200D.html",
   "summary": "",
@@ -114,27 +245,8 @@
   "is_elite": false
  },
  {
-  "title": "黑色期货早报：各品种多数上涨，多机构料铁矿石震荡偏弱",
-  "url": "https://news.mysteel.com/a/26102809/4B2DC5423DE4B463.html",
-  "summary": "",
-  "pub_time": "2026-10-28T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "1b6b828605704cda719907a97a8f06f6",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "中期选举受油价掣肘？特朗普力辩是“短期阵痛”，更多俄柴油或进入市场！",
-  "url": "https://news.mysteel.com/a/26102809/5A5D195FB3C491B9.html",
+  "url": "https://news.mysteel.com/a/26102809/B61BA639890EAB22.html",
   "summary": "",
   "pub_time": "2026-10-28T01:00:00Z",
   "source": "上海钢联Mysteel",
@@ -145,25 +257,6 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "国内商品期货开盘涨跌不一，焦煤涨超3%",
-  "url": "https://news.mysteel.com/a/26102809/BAAEC3BC29F45910.html",
-  "summary": "",
-  "pub_time": "2026-10-28T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "2302781ec4f4c7442832dc0456cc24a6",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -311,6 +404,25 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "e4e77ccacb2d3fc91dd155817b70ddf6",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "黑色期货早报：各品种多数上涨，多机构料铁矿石震荡偏弱",
+  "url": "https://news.mysteel.com/a/26102809/AEEB9184281D5141.html",
+  "summary": "",
+  "pub_time": "2026-10-28T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "1b6b828605704cda719907a97a8f06f6",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1206,25 +1318,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年10月28日大连玉米期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/28/1555896451.shtml",
-  "summary": "",
-  "pub_time": "2026-10-27T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "c002d9b269f2f6b3e40f2d2b7add914c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年10月28日大连大豆期货行情午报",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/28/3250954094.shtml",
   "summary": "",
@@ -1453,6 +1546,25 @@
   "is_elite": false
  },
  {
+  "title": "2026年10月28日大连玉米期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/28/1555896451.shtml",
+  "summary": "",
+  "pub_time": "2026-10-27T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "4970bf7c6ab4b0ff6ed7554945ebf7ca",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "CBOT玉米下跌，因收获压力沉重",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/28/1308645968.shtml",
   "summary": "",
@@ -1644,32 +1756,6 @@
    "黄金"
   ],
   "en_title": "Iamgold drilling strengthens Nelligan growth case"
- },
- {
-  "title": "OPEC+将保持石油配额不变",
-  "url": "",
-  "summary": "熟悉该计划的消息人士周二告诉路透社，负责管理集体石油生产的主要 OPEC+ 生产国预计将在周日举行的会议上保持 12 月份配额不变。沙特阿拉伯、俄罗斯、伊拉克、科威特、哈萨克斯坦、阿尔及利亚和阿曼维持目标产量不变",
-  "pub_time": "2026-10-27T14:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "74bd6913587c89d8e39b4e110d90ce27",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "OPEC+ Set to Keep Oil Quotas Unchanged"
  },
  {
   "title": "Codelco铜矿封锁加剧供应担忧",
@@ -1994,25 +2080,6 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：13家上市铝企披露前三季度业绩，全部盈利",
-  "url": "https://news.mysteel.com/a/26102714/3D9D72B0DA3ED507.html",
-  "summary": "",
-  "pub_time": "2026-10-27T06:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "94fd1d7bd80a8406ed4a306520dad206",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -2492,25 +2559,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年10月27日大连豆粕期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/27/0312840184.shtml",
-  "summary": "",
-  "pub_time": "2026-10-26T16:00:00Z",
-  "source": "粮油豆粕",
-  "_cn": true,
-  "dedup_key": "46fc4bb0efc7b9859265fd6ceef3d566",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油豆粕"
-  ],
-  "is_elite": false
- },
- {
   "title": "10月27日进口大豆到国内港口CF及升贴水报价",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/27/0549279607.shtml",
   "summary": "",
@@ -2834,25 +2882,6 @@
   "is_elite": false
  },
  {
-  "title": "周一亚洲棕榈油现货价格下跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/27/5525393308.shtml",
-  "summary": "",
-  "pub_time": "2026-10-26T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "eeb3037d2880a909f7f5592f415fb0c9",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年10月27日郑州菜油期货行情午报",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/27/3209431522.shtml",
   "summary": "",
@@ -3031,6 +3060,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "dd3e19b897435f7a8b140e63461a2582",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年10月27日大连豆粕期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/27/0312840184.shtml",
+  "summary": "",
+  "pub_time": "2026-10-26T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "eccbaed357290328c2142a8d831057f3",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -3252,6 +3300,25 @@
   "is_elite": false
  },
  {
+  "title": "周一亚洲棕榈油现货价格下跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/27/5525393308.shtml",
+  "summary": "",
+  "pub_time": "2026-10-26T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "eeb3037d2880a909f7f5592f415fb0c9",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "随着油价在接近六个月高点后回落，金价小幅走高",
   "url": "",
   "summary": "(RTTNews) - 周一金价小幅走高，因投资者密切关注中东局势并等待即将公布的美联储利率决定。",
@@ -3426,57 +3493,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "粮食行业流动的人们",
-  "url": "",
-  "summary": "澳大利亚粮食行业谁在行动？了解我们有关行业任命、奖励和成就的最新动态……",
-  "pub_time": "2026-10-26T05:01:03Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "c7ec687752018dd77e1462f1d13d8b21",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "谷物"
-  ],
-  "en_title": "People on the Move in the grain industry"
- },
- {
-  "title": "SA推迟谷物粉尘、溴甲烷暴露限值变更",
-  "url": "",
-  "summary": "由于 GPA 对澳大利亚安全工作方法提出了担忧，南澳政府推迟了针对谷物粉尘、甲基溴和面粉粉尘引入新的 WEL。",
-  "pub_time": "2026-10-26T05:00:00Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "563ccdcd3ab6ce254e98a4815f9134c1",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "谷物"
-  ],
-  "en_title": "SA delays grain dust, methyl bromide exposure limit changes"
  }
 ]
