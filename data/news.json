@@ -1,5 +1,193 @@
 [
  {
+  "title": "随着需求激增，美国天然气产量创下新纪录",
+  "url": "",
+  "summary": "随着生产商对国内外需求迹象做出反应，美国天然气产量有望连续第二年创下历史新高。随着液化天然气的扩张，美国数据中心的供电需求飙升，液化天然气出口增加",
+  "pub_time": "2026-10-28T22:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "2c69a935b0e93c288acf163c805f9a25",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气",
+   "大涨",
+   "需求",
+   "产量"
+  ],
+  "en_title": "U.S. Natural Gas Production Hits New Records as Demand Surges"
+ },
+ {
+  "title": "世界银行将铜价展望上调18%",
+  "url": "",
+  "summary": "世界银行预测，由于新矿山难以跟上电网和数据中心的需求，明年铜价将保持在历史高位附近。世界银行将铜价前景上调 18% 的消息首先出现在《北方矿业报》上。",
+  "pub_time": "2026-10-28T21:15:23Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "382a7f134e5a9b9c38201cea5555aa6a",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜",
+   "价",
+   "展望"
+  ],
+  "en_title": "World Bank lifts copper price outlook by 18%"
+ },
+ {
+  "title": "北美基金亏损现金，金价下跌吸引亚洲买家",
+  "url": "",
+  "summary": "BMO资本市场在其最新的贵金属报告中表示，随着北美投资者从黄金基金撤资，金价下跌正在推高印度金条溢价和中国交易活动。",
+  "pub_time": "2026-10-28T21:10:59Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "3d64e4a133f71c4e6474e8c447e1d7e5",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Gold dip draws Asian buyers as North American funds lose cash"
+ },
+ {
+  "title": "世界银行将铜价展望上调18%",
+  "url": "",
+  "summary": "该银行的上调不仅仅限于铜。",
+  "pub_time": "2026-10-28T21:00:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "24087feeac1433e6bd628ca57af41515",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜",
+   "价",
+   "展望"
+  ],
+  "en_title": "World Bank lifts copper price outlook by 18%"
+ },
+ {
+  "title": "美国向 Constellation 提供高达 50 亿美元的核贷款",
+  "url": "",
+  "summary": "Constellation Energy（纳斯达克股票代码：CEG）获得了美国政府高达 50 亿美元（70 亿加元）的有条件贷款承诺，用于提高现有核电站的产量。拟议的融资将支持……美国向 Constellation 提供高达 5B 美元核贷款的消息首先出现在《北方矿工》上",
+  "pub_time": "2026-10-28T20:55:26Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "6612785cc524f60c099a2d2ebdd6b033",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "US offers Constellation up to $5B nuclear loan"
+ },
+ {
+  "title": "随着拍卖临近，深海矿业考虑在美国上市",
+  "url": "",
+  "summary": "Deep Sea Minerals（CSE：SEAS）正在寻求在美国交易所上市，并提议公开发行美国存托股票（ADS）和随附认股权证，以推进其深海矿产勘探...",
+  "pub_time": "2026-10-28T20:45:09Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "17bab5cf6e7c1850ccf9810b88e81e6e",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡"
+  ],
+  "en_title": "Deep Sea Minerals eyes US listing as auction nears"
+ },
+ {
+  "title": "Mule Canyon 黄金资源推进重启计划",
+  "url": "",
+  "summary": "私人持有的 Central Nevada Gold 概述了内华达州 Mule Canyon 的初始黄金资源，该公司正致力于在 2028 年做出重启前露天矿的建设决定……Mule Canyon 黄金资源推进重启计划首先出现在《北方矿工》上。",
+  "pub_time": "2026-10-28T20:15:09Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "9a3110900df32b9daf7468cff565bb68",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Mule Canyon gold resource advances restart plans"
+ },
+ {
   "title": "印度液化天然气购买量创历史新高",
   "url": "",
   "summary": "印度花了数年时间将更多家庭和企业纳入其天然气网络。现在，随着国内产量下降，向这些客户供应意味着从价格在一年内上涨两倍的市场购买更多液化天然气。尽管如此，今年十月的进口量仍将创下历史新高。印度的液化天然气供应",
@@ -52,34 +240,6 @@
   "en_title": "Mule Canyon gold resource advances restart plans"
  },
  {
-  "title": "世界银行将铜价展望上调18%",
-  "url": "",
-  "summary": "世界银行预测，由于新矿山难以跟上电网和数据中心的需求，明年铜价将保持在历史高位附近。世界银行将铜价前景上调 18% 的消息首先出现在《北方矿业报》上。",
-  "pub_time": "2026-10-28T19:35:23Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "382a7f134e5a9b9c38201cea5555aa6a",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "价",
-   "展望"
-  ],
-  "en_title": "World Bank lifts copper price outlook by 18%"
- },
- {
   "title": "矿业论坛视频：Hodaly 看到 Wheaton 创纪录的交易机会",
   "url": "",
   "summary": "Wheaton Precious Metals（多伦多证券交易所、纽约证券交易所、伦敦证券交易所代码：WPM）预计将在明年年底前偿还债务，并有 40 亿美元（56 亿加元）可用于新交易，总裁和... 矿业论坛后视频：Hodaly 看到 Wheaton 创纪录的交易机会首先出现在《北方矿业》上。",
@@ -104,32 +264,6 @@
    "小麦"
   ],
   "en_title": "Mining Forum video: Hodaly sees record deal opportunities for Wheaton"
- },
- {
-  "title": "北美基金亏损现金，金价下跌吸引亚洲买家",
-  "url": "",
-  "summary": "BMO资本市场在其最新的贵金属报告中表示，随着北美投资者从黄金基金撤资，金价下跌正在推高印度金条溢价和中国交易活动。",
-  "pub_time": "2026-10-28T19:10:59Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "3d64e4a133f71c4e6474e8c447e1d7e5",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Gold dip draws Asian buyers as North American funds lose cash"
  },
  {
   "title": "矿业论坛视频：Toto Finance 推出铜融资新途径",
@@ -233,31 +367,6 @@
    "原油"
   ],
   "en_title": "Crude Oil Soars Amid Reports Of Possible Large Scale U.S. Attacks On Iran"
- },
- {
-  "title": "美国向 Constellation 提供高达 50 亿美元的核贷款",
-  "url": "",
-  "summary": "Constellation Energy（纳斯达克股票代码：CEG）获得了美国政府高达 50 亿美元（70 亿加元）的有条件贷款承诺，用于提高现有核电站的产量。拟议的融资将支持……美国向 Constellation 提供高达 5B 美元核贷款的消息首先出现在《北方矿工》上",
-  "pub_time": "2026-10-28T18:30:26Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "6612785cc524f60c099a2d2ebdd6b033",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "US offers Constellation up to $5B nuclear loan"
  },
  {
   "title": "石油勘探为巴西海上钾肥打开了大门",
@@ -421,32 +530,6 @@
    "金属"
   ],
   "en_title": "XXIX Metal launches largest drilling campaign in its history"
- },
- {
-  "title": "Mule Canyon 黄金资源推进重启计划",
-  "url": "",
-  "summary": "私人持有的 Central Nevada Gold 概述了内华达州 Mule Canyon 的初始黄金资源，该公司正致力于在 2028 年做出重启前露天矿的建设决定……Mule Canyon 黄金资源推进重启计划首先出现在《北方矿工》上。",
-  "pub_time": "2026-10-28T16:15:09Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "9a3110900df32b9daf7468cff565bb68",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Mule Canyon gold resource advances restart plans"
  },
  {
   "title": "Glencore、CNGR 以 4000 万美元投资 3.8 亿美元的巴西镍矿",
@@ -664,32 +747,6 @@
   "en_title": "Iran Eyes $130 Oil While at Least 50 Tankers Sit Stuck in the Gulf"
  },
  {
-  "title": "随着拍卖临近，深海矿业考虑在美国上市",
-  "url": "",
-  "summary": "Deep Sea Minerals（CSE：SEAS）正在寻求在美国交易所上市，并提议公开发行美国存托股票（ADS）和随附认股权证，以推进其深海矿产勘探...",
-  "pub_time": "2026-10-28T13:31:09Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "17bab5cf6e7c1850ccf9810b88e81e6e",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡"
-  ],
-  "en_title": "Deep Sea Minerals eyes US listing as auction nears"
- },
- {
   "title": "卡塔尔能源公司将液化天然气不可抗力期限延长至 2026 年底",
   "url": "",
   "summary": "国有公司卡塔尔能源公司将液化天然气交付的不可抗力期限延长至今年年底，导致欧洲和亚洲在进入冬季之前没有一定的定期供应，此举将欧洲天然气价格推至 2022 年秋季以来的最高水平。意大利天然气进口商和",
@@ -830,31 +887,6 @@
   "en_title": "Codelco relocates 74% of workers as Andes Norte remains halted"
  },
  {
-  "title": "随着全球争夺油轮，Bahri 利润达到 13.6 亿美元",
-  "url": "",
-  "summary": "石油和航运危机期间油轮运价飙升，帮助沙特阿拉伯航运巨头Bahri第三季度净利润同比增长十倍。 Bahri第三季度净利润为13.6亿美元（51亿沙特里亚尔），比利润高出十倍",
-  "pub_time": "2026-10-28T12:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "636be5f96d3cd3aa443c56d13a5a8aaf",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Bahri Profit Hits $1.36 Billion as the World Scrambles for Tankers"
- },
- {
   "title": "江西铜业：前三季度净利润同比增长94.02%",
   "url": "https://news.mysteel.com/a/26102820/F115054B52F86934.html",
   "summary": "",
@@ -891,35 +923,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "随着电动汽车的普及，印度汽油需求可能在 2035 年达到顶峰",
-  "url": "",
-  "summary": "最大的国有炼油商印度石油公司 (IOC) 董事长 A S Sahney 表示，随着乙醇混合量的增加以及电池和天然气汽车的使用增加，印度的汽油需求可能会在 2035 年达到顶峰。周三在果阿举行的一次行业活动上发表讲话，",
-  "pub_time": "2026-10-28T11:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "56cea8204ff6bce8899d5972c1b818cc",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "汽油",
-   "天然气",
-   "走强",
-   "需求"
-  ],
-  "en_title": "India's Gasoline Demand Could Peak by 2035 as EVs Gain Ground"
  },
  {
   "title": "人才紧缺，力拓CEO加薪56%",
@@ -1982,61 +1985,6 @@
    "玉米"
   ],
   "en_title": "Crickets Offer Potential Solution for Mycotoxin-Contaminated Corn"
- },
- {
-  "title": "FireFly 在闲置工厂附近发现铜金系统",
-  "url": "",
-  "summary": "这一发现为 FireFly 提供了另一个需要测试的目标，以及其拟议的 Ming 重启和扩展。",
-  "pub_time": "2026-10-27T16:59:33Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "fd946431805afa5859525677c6999224",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "铜"
-  ],
-  "en_title": "FireFly finds copper-gold system near idle mill"
- },
- {
-  "title": "劳动力短缺影响西湖黄金产量",
-  "url": "",
-  "summary": "由于劳动力短缺和马德森金矿的放缓，该公司将年产量目标削减了 25%。",
-  "pub_time": "2026-10-27T16:35:44Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "eb930e392a02ba1ef30eea34bbefb489",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "产量",
-   "短缺"
-  ],
-  "en_title": "Labour shortage hurts West Lake Gold output"
  },
  {
   "title": "【独家】南北大豆价格倒挂，龙江豆外发受挫",
@@ -3361,31 +3309,5 @@
    "展望"
   ],
   "en_title": "BOM weekly rainfall update 27 October 2026 + outlook"
- },
- {
-  "title": "ADM 投资在内布拉斯加州工厂增加玉米加工",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-10-26T21:24:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "f5d0f9dd4bdc12bf08d5dcecab6f112f",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "玉米"
-  ],
-  "en_title": "ADM Invests to Increase Corn Processing at Nebraska Facility"
  }
 ]
