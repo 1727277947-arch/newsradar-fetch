@@ -1,5 +1,79 @@
 [
  {
+  "title": "美联储决定前金价小幅走低",
+  "url": "",
+  "summary": "(RTTNews) - 周三金价受到抑制，因油价回升至四年高位，且美联储当天晚些时候作出利率决定之前市场普遍持谨慎态度。",
+  "pub_time": "2026-10-28T10:16:23Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "55643fdfe1ecbd39c3347afdd9f0cd3b",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Gold Edges Lower Ahead Of Fed Decision"
+ },
+ {
+  "title": "冀中股份白涧铁矿项目获河北省发改委核准批复",
+  "url": "https://news.mysteel.com/a/26102818/20E5C59A4A9838A8.html",
+  "summary": "",
+  "pub_time": "2026-10-28T10:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "9d876ace6bb3c40103a9a7f5baa54b58",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "沙特阿拉伯炼油厂遇袭后油价上涨",
+  "url": "",
+  "summary": "(RTTNews) - 由于投资者关注以色列选举结果并评估美国恢复对伊朗军事打击的可能性，周三油价回升至四年高位。",
+  "pub_time": "2026-10-28T09:58:31Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "c2bc3d4121cea991d56449ae34907d50",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "炼厂",
+   "价",
+   "走高"
+  ],
+  "en_title": "Oil Prices Climb After Attack On Saudi Arabian Refinery"
+ },
+ {
   "title": "随着石油和天然气价格飙升，Equinor 利润增加两倍",
   "url": "",
   "summary": "由于炼油利润强劲、石油和天然气价格高涨以及碳氢化合物产量增加，Equinor第三季度调整后净利润同比增长两倍。这家挪威能源巨头周三公布第三季度调整后净利润为 28.6 亿美元",
@@ -41,25 +115,6 @@
   "topic": "国内/金融政策",
   "tags": [
    "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "每日钢市：期钢上涨，需求偏弱，钢价反弹空间或不大",
-  "url": "https://news.mysteel.com/a/26102817/8897FD5A8501D2A0.html",
-  "summary": "",
-  "pub_time": "2026-10-28T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "a3d1c86e0790c4aa0eb4b4950d019670",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -188,25 +243,6 @@
   "en_title": "Oil Traders Brace for Iran Escalation After U.S. Elections"
  },
  {
-  "title": "黑色持仓日报：期螺飘红，东证期货增持超1.9万手空单",
-  "url": "https://news.mysteel.com/a/26102815/72365E2AAB76E9C3.html",
-  "summary": "",
-  "pub_time": "2026-10-28T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "bcb54b0f808f5613e9c541bc869c3fe3",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel：15家上市钢企公布前三季度业绩",
   "url": "https://news.mysteel.com/a/26102815/28B104D59FF1975B.html",
   "summary": "",
@@ -219,6 +255,25 @@
   "topic": "国内/金融政策",
   "tags": [
    "金融政策",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "黑色持仓日报：期螺飘红，东证期货增持超1.9万手空单",
+  "url": "https://news.mysteel.com/a/26102815/583157B4EEC472BF.html",
+  "summary": "",
+  "pub_time": "2026-10-28T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "bcb54b0f808f5613e9c541bc869c3fe3",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -2579,25 +2634,6 @@
   "is_elite": false
  },
  {
-  "title": "关键矿产日报：诺里尔斯克镍业拟高炉大修，印尼谋求镍价话语权",
-  "url": "https://news.mysteel.com/a/26102717/6A4D338D02A3982D.html",
-  "summary": "",
-  "pub_time": "2026-10-27T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "a1425ac8258e003fcbe58e783b358646",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "现货黄金跌幅扩大，失守3990美元/盎司",
   "url": "https://news.mysteel.com/a/26102716/67697CB0D00CD79C.html",
   "summary": "",
@@ -3809,33 +3845,5 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "随着油价在接近六个月高点后回落，金价小幅走高",
-  "url": "",
-  "summary": "(RTTNews) - 周一金价小幅走高，因投资者密切关注中东局势并等待即将公布的美联储利率决定。",
-  "pub_time": "2026-10-26T10:11:49Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "ce84800728d3678c46b163cb55a13149",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "原油",
-   "价"
-  ],
-  "en_title": "Gold Edges Higher As Oil Prices Retreat After Nearing Six-month Highs"
  }
 ]
