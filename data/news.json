@@ -1,5 +1,55 @@
 [
  {
+  "title": "战争促进炼油和贸易，TotalEnergies 利润翻倍",
+  "url": "",
+  "summary": "TotalEnergies第三季度调整后净利润为91亿美元，在炼油利润创历史新高、石油和天然气价格上涨以及石油和液化天然气交易强劲的背景下，盈利较上年同期翻了一番。这家法国超级巨头周四公布调整后净利润为 91 亿美元，增长 5 倍",
+  "pub_time": "2026-10-29T11:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "ef952a1f12c09a98b126d150049cf72c",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "TotalEnergies Profit Doubles as War Boosts Refining and Trading"
+ },
+ {
+  "title": "炼油利润创历史新高，壳牌利润几乎翻倍至 108 亿美元",
+  "url": "",
+  "summary": "由于中东危机挤压了燃料供应并提高了石油和天然气价格，创纪录的炼油利润以及更高的液化天然气和天然气价格使壳牌第三季度收益达到了 108 亿美元以上，几乎是去年同期的两倍。壳牌周四公布调整后收益为 10 美元。",
+  "pub_time": "2026-10-29T11:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "5997ad6ba747a21309b729f5b6dc4ddd",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Shell Profits Nearly Double to $10.8 Billion as Refining Margins Hit Record"
+ },
+ {
   "title": "Equinor 将北海主要天然气发现预估翻倍",
   "url": "",
   "summary": "运营商 Equinor 周四在钻探一口新评估井后表示，挪威北海发现的 Afrodite 天然气储量可能是最初预期的两倍。 Afrodite 于 2008 年发现，位于 Kvitebjørn 天然气和凝析油田附近，也靠近北部的 Gullfaks 油田",
@@ -78,25 +128,6 @@
    "原油"
   ],
   "en_title": "Oil Edges Lower On US-Iran Diplomacy Hopes"
- },
- {
-  "title": "湖北宜昌：峡江之畔结出五百亿“黄金果”",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722834.shtml",
-  "summary": "郭晓莹 向松柏 李彩云)2026第十一届中国果业品牌大会暨“秭归脐橙”推介展销会，29日至30日在湖北省宜昌市秭归县举行。活动集中展示果业品牌建设成果，总结交流品牌培育经验，宣传推介优质果品品牌，聚集全国行业代表共同探讨现代果业发展新方向",
-  "pub_time": "2026-10-29T09:00:32Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "b6ae1aa730eb2b65129d98201a6a0873",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
  },
  {
   "title": "Mysteel晚餐：钢材总库存降超40万吨，成品油价今晚上调",
@@ -1446,32 +1477,6 @@
    "下滑"
   ],
   "en_title": "Gold Slides As Markets Await Fed Decision Amid Rising Crude Oil Prices"
- },
- {
-  "title": "由于海湾流量低于战前水平，瑞银预计布伦特原油价格到年底将达到 110 美元",
-  "url": "",
-  "summary": "瑞银本月第二次上调布伦特原油价格预期，目前预计 2026 年底原油价格将从每桶 100 美元上调至 110 美元。这家瑞士银行还将 2027 年曲线每桶上调 5 美元，至 3 月 95 美元、6 月 90 美元和 9 月 85 美元。 “我们面临的不确定性",
-  "pub_time": "2026-10-28T17:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "baec15e4fd613c456058e6f48740acca",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "布伦特油价"
-  ],
-  "en_title": "UBS Sees $110 Brent by Year-End as Gulf Flows Stay Below Prewar Levels"
  },
  {
   "title": "红冠腐病在中西部大豆田蔓延",
@@ -3777,24 +3782,5 @@
    "金属"
   ],
   "en_title": "Analyst Favorites: Alamos Gold Ranks As a Top Metals Pick"
- },
- {
-  "title": "Mysteel数据：中国钢材发运量统计（10.20-10.26）",
-  "url": "https://news.mysteel.com/a/26102720/531098674E66F54F.html",
-  "summary": "",
-  "pub_time": "2026-10-27T12:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "9050d2a035663c792e8060683adb4929",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  }
 ]
