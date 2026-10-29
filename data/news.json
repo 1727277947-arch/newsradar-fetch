@@ -583,6 +583,33 @@
   "en_title": "Eldorado drops as Skouries setbacks cut gold outlook 18%"
  },
  {
+  "title": "由于成本上升，阿拉莫斯推迟了岛屿金矿井建设",
+  "url": "",
+  "summary": "该竖井旨在取代卡车运输，将矿石和废物提升到地面，从而使阿拉莫斯能够以更低的成本开采更多吨。",
+  "pub_time": "2026-10-29T13:40:45Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "eb376615567d6c2dcac9acc289852e98",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "上涨"
+  ],
+  "en_title": "Alamos delays Island Gold shaft as costs rise"
+ },
+ {
   "title": "中国边境检查使奥尤陶勒盖出口减少70%",
   "url": "",
   "summary": "由于边境限制，力拓对中国的铜精矿出口两周内下降了70%。",
@@ -607,32 +634,6 @@
    "出口"
   ],
   "en_title": "China border checks cut Oyu Tolgoi exports by 70%"
- },
- {
-  "title": "伊朗战争使欧盟石油进口费用每月增加 110 亿美元",
-  "url": "",
-  "summary": "《欧洲商业新闻》周四的分析显示，自中东危机导致原油供应中断并引发全球燃料危机以来，欧盟已为进口石油多支付了 110 亿美元。 2026年第二季度欧盟石油进口额猛增55.8%",
-  "pub_time": "2026-10-29T13:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "fe33ef2fbb3f5b89e5ae0211d3af7262",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Iran War Hikes EU’s Oil Import Bill By $11 Billion Per Month"
  },
  {
   "title": "美国铜库存掩盖了全球供应紧缩的加剧",
@@ -661,31 +662,6 @@
    "库存"
   ],
   "en_title": "US copper stockpiles conceal growing global supply crunch"
- },
- {
-  "title": "炼油利润创历史新高，壳牌利润几乎翻倍至 108 亿美元",
-  "url": "",
-  "summary": "由于中东危机挤压了燃料供应并提高了石油和天然气价格，创纪录的炼油利润以及更高的液化天然气和天然气价格使壳牌第三季度收益达到了 108 亿美元以上，几乎是去年同期的两倍。壳牌周四公布调整后收益为 10 美元。",
-  "pub_time": "2026-10-29T12:29:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "5997ad6ba747a21309b729f5b6dc4ddd",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Shell Profits Nearly Double to $10.8 Billion as Refining Margins Hit Record"
  },
  {
   "title": "随着铜价创历史新高，泰克公司利润飙升",
@@ -1704,32 +1680,6 @@
   "en_title": "US offers Constellation up to $5B nuclear loan"
  },
  {
-  "title": "Mule Canyon 黄金资源推进重启计划",
-  "url": "",
-  "summary": "接下来的步骤包括升级推断材料、建立经济性并获得重启许可。",
-  "pub_time": "2026-10-28T19:41:09Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "700aa8e900a68858d777ad7fbda887db",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Mule Canyon gold resource advances restart plans"
- },
- {
   "title": "美国小麦凸显粮食援助在全球粮食安全中的作用",
   "url": "",
   "summary": "",
@@ -1780,32 +1730,6 @@
    "原油"
   ],
   "en_title": "Crude Oil Soars Amid Reports Of Possible Large Scale U.S. Attacks On Iran"
- },
- {
-  "title": "石油勘探为巴西海上钾肥打开了大门",
-  "url": "",
-  "summary": "南大西洋钾肥公司计划开采塞尔希培海岸下方的矿藏，该地区历史上曾用于石油开采。",
-  "pub_time": "2026-10-28T18:02:17Z",
-  "source": "Mining.com",
-  "_cat": "能源",
-  "dedup_key": "f1da41986472054e277a2ba2c8c4ae90",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Oil exploration opens door to Brazil offshore potash"
  },
  {
   "title": "原油价格上涨，市场等待美联储决定，金价下跌",
@@ -3129,31 +3053,5 @@
    "综合"
   ],
   "en_title": "Daily Market Wire 28 October 2026"
- },
- {
-  "title": "BinMaster 任命 Julie Foral 为营销总监",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-10-27T21:16:00Z",
-  "source": "Grainnet",
-  "_cat": "基本金属",
-  "dedup_key": "cebfea3eb26a1f359052c84019d8ceb2",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡"
-  ],
-  "en_title": "BinMaster Names Julie Foral Director of Marketing"
  }
 ]
