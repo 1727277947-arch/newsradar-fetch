@@ -1,5 +1,32 @@
 [
  {
+  "title": "全球天然气需求的下一步是什么？",
+  "url": "",
+  "summary": "伊朗战争和中东液化天然气供应不足颠覆了对近期天然气需求和进口成本的预测。今年到目前为止，欧洲和亚洲的经济体更多地依赖可再生能源和煤炭发电，以抵消以极高价格采购的天然气供应的减少",
+  "pub_time": "2026-10-29T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "1e9f6ccf700999d17e38f8fd4c125d95",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气",
+   "需求"
+  ],
+  "en_title": "What’s Next for Global Natural Gas Demand?"
+ },
+ {
   "title": "金罗斯金矿事故导致两名工人死亡",
   "url": "",
   "summary": "据美国初步消息，9 月 3 日，同一承包商的两名员工在内华达州金罗斯黄金公司 (TSX: K; NYSE: KGC) 的巴尔德山金矿发生不同事故后死亡。",
@@ -3028,30 +3055,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "每日市场快讯 2026 年 10 月 28 日",
-  "url": "",
-  "summary": "由于澳大利亚和世界市场权衡东部各州收获或接近收获时降雨的影响，北美期货在隔夜交易中走软。",
-  "pub_time": "2026-10-27T22:54:33Z",
-  "source": "GrainCentral",
-  "_cat": "综合",
-  "dedup_key": "22eaeb6e7e2295dc5c96277a2100d876",
-  "score": 84,
-  "priority": "P2",
-  "topic": "综合",
-  "tags": [
-   "综合",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "综合"
-  ],
-  "en_title": "Daily Market Wire 28 October 2026"
  }
 ]
