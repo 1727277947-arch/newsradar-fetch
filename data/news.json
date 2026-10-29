@@ -1,5 +1,31 @@
 [
  {
+  "title": "美伊外交希望令油价走低",
+  "url": "",
+  "summary": "(RTTNews) - 在胡塞武装袭击沙特阿拉伯最大炼油厂以及美国原油库存下降的报道之后，油价在前一交易日飙升至六个月高点后周四走低。",
+  "pub_time": "2026-10-29T09:47:47Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "33c2b27918da0b9e41e09301bd6b6f7b",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Oil Edges Lower On US-Iran Diplomacy Hopes"
+ },
+ {
   "title": "湖北宜昌：峡江之畔结出五百亿“黄金果”",
   "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722834.shtml",
   "summary": "郭晓莹 向松柏 李彩云)2026第十一届中国果业品牌大会暨“秭归脐橙”推介展销会，29日至30日在湖北省宜昌市秭归县举行。活动集中展示果业品牌建设成果，总结交流品牌培育经验，宣传推介优质果品品牌，聚集全国行业代表共同探讨现代果业发展新方向",
@@ -19,13 +45,13 @@
   "is_elite": false
  },
  {
-  "title": "411项重点任务清单 湖南以“四个一批”推进重点产业链建设",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-29/10722786.shtml",
-  "summary": "冯军)湖南省近日编制了工程机械、轨道交通装备、先进钢铁材料、现代石化、新一代信息技术、智能衡器计量6条重点产业链的“四个一批”清单(以下简称《清单》)。“四个一批”即突破一批关键共性技术、研发一批关键配套零部件、招引一批产业链重点企业和项目、提质和新建一批公共服务平台",
-  "pub_time": "2026-10-29T08:18:46Z",
-  "source": "中国新闻网-财经",
+  "title": "Mysteel晚餐：钢材总库存降超40万吨，成品油价今晚上调",
+  "url": "https://news.mysteel.com/a/26102917/7CD814099652532D.html",
+  "summary": "",
+  "pub_time": "2026-10-29T09:00:00Z",
+  "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "989c1e8a505bee83d483a33dc6a08258",
+  "dedup_key": "39b80bfb15f096e82e5f1e777504c260",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -33,7 +59,45 @@
    "财经",
    "中文",
    "国内",
-   "中国新闻网-财经"
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "每日钢市：3家钢厂涨价，期钢飘红，钢价或难持续反弹",
+  "url": "https://news.mysteel.com/a/26102917/5DAFE109B9315E15.html",
+  "summary": "",
+  "pub_time": "2026-10-29T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "eb0e89488d7735aef327ce5d1f9ad8fa",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel日报：黑色金属期货价格震荡上涨运行",
+  "url": "https://news.mysteel.com/a/26102917/00DE41FB41941D2A.html",
+  "summary": "",
+  "pub_time": "2026-10-29T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "26df882534f5f2c8e5048ce9a1760516",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
   ],
   "is_elite": false
  },
@@ -133,6 +197,25 @@
   "is_elite": false
  },
  {
+  "title": "Mysteel：本周钢材社会库存减少31.10万吨（10月23日-10月29日）",
+  "url": "https://news.mysteel.com/a/26102916/7B8A8B352E0ADA40.html",
+  "summary": "",
+  "pub_time": "2026-10-29T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "8c07f7ddc752f9704fd811d0e993d2b0",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "欧盟在冬季前努力遏制能源价格危机",
   "url": "",
   "summary": "欧盟成员国能源部长今天召开会议，讨论如何应对随着冬季以及随之而来的供暖需求高峰季节日益恶化的能源价格危机。此次会议之前，周三有报道援引能源专员丹·乔根森的话说，一系列炼油厂将关闭",
@@ -159,63 +242,6 @@
   "en_title": "EU Scrambles to Contain Energy Price Crisis Ahead of Winter"
  },
  {
-  "title": "有色持仓日报：沪铝跌1.17%，东证期货减持超5.4千手空单",
-  "url": "https://news.mysteel.com/a/26102915/F3EC05143447FA32.html",
-  "summary": "",
-  "pub_time": "2026-10-29T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "8e42d1780d2540f80be1690f841bbee6",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色持仓日报：铁矿石涨2.4%，中信期货减持6千手空单",
-  "url": "https://news.mysteel.com/a/26102915/B349BE9678EA22ED.html",
-  "summary": "",
-  "pub_time": "2026-10-29T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "cfcaf63a3a74b1a0f3a4cb84986e428d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "商务部：2027年继续暂停白银出口配额管理，实行出口许可证管理",
-  "url": "https://news.mysteel.com/a/26102915/08E571885E34E576.html",
-  "summary": "",
-  "pub_time": "2026-10-29T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "cfa24da28d72d8de662ba1ecdefe3165",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "10月29日国家再次实施调控，成品油价格适当调整",
   "url": "https://news.mysteel.com/a/26102915/BD27B10632453650.html",
   "summary": "",
@@ -235,6 +261,44 @@
   "is_elite": false
  },
  {
+  "title": "黑色持仓日报：铁矿石涨2.4%，中信期货减持6千手空单",
+  "url": "https://news.mysteel.com/a/26102915/80B2D7E4BC74EF80.html",
+  "summary": "",
+  "pub_time": "2026-10-29T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "cfcaf63a3a74b1a0f3a4cb84986e428d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "商务部：2027年继续暂停白银出口配额管理，实行出口许可证管理",
+  "url": "https://news.mysteel.com/a/26102915/26571088D1BCFC47.html",
+  "summary": "",
+  "pub_time": "2026-10-29T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "cfa24da28d72d8de662ba1ecdefe3165",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "碳酸锂期货主力跌超8%，失守9万元/吨关口",
   "url": "https://news.mysteel.com/a/26102915/1D7E7718C8697D79.html",
   "summary": "",
@@ -242,6 +306,25 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "5800ad5498a9c1db42450bb4a77b7815",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "有色持仓日报：沪铝跌1.17%，东证期货减持超5.4千手空单",
+  "url": "https://news.mysteel.com/a/26102915/0A220363DE3D1684.html",
+  "summary": "",
+  "pub_time": "2026-10-29T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "8e42d1780d2540f80be1690f841bbee6",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -818,7 +901,7 @@
  },
  {
   "title": "Mysteel早读：美联储维持利率不变，邯郸秋冬季管控高炉减产",
-  "url": "https://news.mysteel.com/a/26102907/7A3015676CB5215B.html",
+  "url": "https://news.mysteel.com/a/26102907/AC067E79AAC0DA4D.html",
   "summary": "",
   "pub_time": "2026-10-28T23:00:00Z",
   "source": "上海钢联Mysteel",
@@ -918,6 +1001,60 @@
  {
   "title": "世界银行将铜价展望上调18%",
   "url": "",
+  "summary": "世界银行预测，由于新矿山难以跟上电网和数据中心的需求，明年铜价将保持在历史高位附近。世界银行将铜价前景上调 18% 的消息首先出现在《北方矿业报》上。",
+  "pub_time": "2026-10-28T21:15:23Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "382a7f134e5a9b9c38201cea5555aa6a",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜",
+   "价",
+   "展望"
+  ],
+  "en_title": "World Bank lifts copper price outlook by 18%"
+ },
+ {
+  "title": "北美基金亏损现金，金价下跌吸引亚洲买家",
+  "url": "",
+  "summary": "BMO资本市场在其最新的贵金属报告中表示，随着北美投资者从黄金基金撤资，金价下跌正在推高印度金条溢价和中国交易活动。",
+  "pub_time": "2026-10-28T21:10:59Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "3d64e4a133f71c4e6474e8c447e1d7e5",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Gold dip draws Asian buyers as North American funds lose cash"
+ },
+ {
+  "title": "世界银行将铜价展望上调18%",
+  "url": "",
   "summary": "该银行的上调不仅仅限于铜。",
   "pub_time": "2026-10-28T21:00:00Z",
   "source": "Mining.com",
@@ -942,6 +1079,83 @@
    "展望"
   ],
   "en_title": "World Bank lifts copper price outlook by 18%"
+ },
+ {
+  "title": "美国向 Constellation 提供高达 50 亿美元的核贷款",
+  "url": "",
+  "summary": "Constellation Energy（纳斯达克股票代码：CEG）获得了美国政府高达 50 亿美元（70 亿加元）的有条件贷款承诺，用于提高现有核电站的产量。拟议的融资将支持……美国向 Constellation 提供高达 5B 美元核贷款的消息首先出现在《北方矿工》上",
+  "pub_time": "2026-10-28T20:55:26Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "6612785cc524f60c099a2d2ebdd6b033",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "US offers Constellation up to $5B nuclear loan"
+ },
+ {
+  "title": "随着拍卖临近，深海矿业考虑在美国上市",
+  "url": "",
+  "summary": "Deep Sea Minerals（CSE：SEAS）正在寻求在美国交易所上市，并提议公开发行美国存托股票（ADS）和随附认股权证，以推进其深海矿产勘探...",
+  "pub_time": "2026-10-28T20:45:09Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "17bab5cf6e7c1850ccf9810b88e81e6e",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡"
+  ],
+  "en_title": "Deep Sea Minerals eyes US listing as auction nears"
+ },
+ {
+  "title": "Mule Canyon 黄金资源推进重启计划",
+  "url": "",
+  "summary": "私人持有的 Central Nevada Gold 概述了内华达州 Mule Canyon 的初始黄金资源，该公司正致力于在 2028 年做出重启前露天矿的建设决定……Mule Canyon 黄金资源推进重启计划首先出现在《北方矿工》上。",
+  "pub_time": "2026-10-28T20:15:09Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "9a3110900df32b9daf7468cff565bb68",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Mule Canyon gold resource advances restart plans"
  },
  {
   "title": "印度液化天然气购买量创历史新高",
@@ -994,6 +1208,58 @@
    "黄金"
   ],
   "en_title": "Mule Canyon gold resource advances restart plans"
+ },
+ {
+  "title": "矿业论坛视频：Hodaly 看到 Wheaton 创纪录的交易机会",
+  "url": "",
+  "summary": "Wheaton Precious Metals（多伦多证券交易所、纽约证券交易所、伦敦证券交易所代码：WPM）预计将在明年年底前偿还债务，并有 40 亿美元（56 亿加元）可用于新交易，总裁和... 矿业论坛后视频：Hodaly 看到 Wheaton 创纪录的交易机会首先出现在《北方矿业》上。",
+  "pub_time": "2026-10-28T19:34:06Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "6d086fda7d139db2509d07e513456778",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "小麦"
+  ],
+  "en_title": "Mining Forum video: Hodaly sees record deal opportunities for Wheaton"
+ },
+ {
+  "title": "矿业论坛视频：Toto Finance 推出铜融资新途径",
+  "url": "",
+  "summary": "创始人兼董事长蒙蒂·梅茨格 (Monty Metzger) 在科罗拉多州告诉《北方矿工》，Toto Finance 旨在通过在铜离开地面之前出售其数字债权来帮助矿商筹集资金...... 矿业论坛后视频：Toto Finance 提出铜融资新途径首先出现在《北方矿工》上。",
+  "pub_time": "2026-10-28T19:06:26Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "3a672ae1a701152f6329ec0964663d04",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜"
+  ],
+  "en_title": "Mining Forum video: Toto Finance pitches new route to copper funding"
  },
  {
   "title": "为什么航运业将注意力转向核电",
@@ -1478,25 +1744,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年10月29日大连大豆期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/0416911653.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "5a90d75fb2a6d92f9312c4d5591b8f59",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
   "title": "10月29日进口油菜籽到国内港口CF报价",
   "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/5516646719.shtml",
   "summary": "",
@@ -1531,6 +1778,25 @@
    "中文",
    "国内",
    "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年10月29日大连大豆期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/0416911653.shtml",
+  "summary": "",
+  "pub_time": "2026-10-28T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "b165b8c32239fed19e85bf9cc7ed4e60",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
   ],
   "is_elite": false
  },
@@ -2608,25 +2874,6 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel早读：塔本陶勒盖至杭吉运煤公路暂停，山东螺线价差创两年新高",
-  "url": "https://news.mysteel.com/a/26102807/8A6AAC50BBB5210E.html",
-  "summary": "",
-  "pub_time": "2026-10-27T23:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "8ac25f4e5e92eda8b4d0f1a6bcbb1955",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "每日市场快讯 2026 年 10 月 28 日",
   "url": "",
   "summary": "由于澳大利亚和世界市场权衡东部各州收获或接近收获时降雨的影响，北美期货在隔夜交易中走软。",
@@ -2676,6 +2923,83 @@
    "锡"
   ],
   "en_title": "BinMaster Names Julie Foral Director of Marketing"
+ },
+ {
+  "title": "Iamgold 钻探增强了 Nelligan 的增长势头",
+  "url": "",
+  "summary": "Iamgold（多伦多证券交易所股票代码：IMG；纽约证券交易所股票代码：IAG）的新钻探扩大了其位于魁北克省 Nelligan 综合体的金矿化，加强了一个开发项目，该项目可以为加拿大经济增长提供另一个来源...Iamgold 后的钻探加强了 Nelligan 增长案例首先出现在 The Northern Mine",
+  "pub_time": "2026-10-27T19:10:59Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "abb28c4e7bf29a378cfa4c4a2cd26b2f",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Iamgold drilling strengthens Nelligan growth case"
+ },
+ {
+  "title": "随着赌场审查的进展，西部铜业首席执行官辞职",
+  "url": "",
+  "summary": "Western Copper and Gold (TSX, NYSE-A: WRN) 表示，首席执行官桑迪普·辛格 (Sandeep Singh) 将于本周离开公司，随着开发商推进其赌场，将领导权移交给董事长马克·E·史密斯 (Mark E. Smith)。",
+  "pub_time": "2026-10-27T19:00:38Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "af43ecaefb171123029b854b1f56645d",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "铜"
+  ],
+  "en_title": "Western Copper CEO exits as Casino review advances"
+ },
+ {
+  "title": "矿业论坛视频：阳光为爱达荷州重启创造增长空间",
+  "url": "",
+  "summary": "Sunshine Silver Mining & Refining（纽约证券交易所股票代码：SSMR）正在设计一座产能翻倍的工厂，目标是在 2028 年末重启爱达荷州阳光银矿，首席执行官希瑟·怀特 (Heather White)... 矿业论坛后视频：阳光为爱达荷州重启创造增长空间首先出现在《北方明报》上",
+  "pub_time": "2026-10-27T18:40:38Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "99c0e41fdad25ab10ac0a088214bb943",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Mining Forum video: Sunshine builds room for growth into Idaho restart"
  },
  {
   "title": "卡塔尔努力结束美伊军事对抗，原油价格暴跌",
@@ -2955,25 +3279,6 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "35e7db7b212d143af0849c35fbe390bc",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "周二亚洲棕榈油现货市场下跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/28/1926849216.shtml",
-  "summary": "",
-  "pub_time": "2026-10-27T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "0b607032c6e2e8444c62e1d346bc8535",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -3404,6 +3709,25 @@
   "is_elite": false
  },
  {
+  "title": "周二亚洲棕榈油现货市场下跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/10/28/1926849216.shtml",
+  "summary": "",
+  "pub_time": "2026-10-27T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "0b607032c6e2e8444c62e1d346bc8535",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "分析师最爱：阿拉莫斯黄金成为首选金属",
   "url": "",
   "summary": "根据 Metals Channel 的数据，对主要经纪公司分析师推荐的研究显示，在组成 Metals Channel 全球矿业巨头指数的 50 只股票中，Alamos Gold Inc（代码：AGI）平均排名第 17 名。金属频道全球 M",
@@ -3448,58 +3772,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "美联储决定前金价跌破 4,000 美元",
-  "url": "",
-  "summary": "(RTTNews) - 周二金价跌破每盎司 4,000 美元，原因是在本周美联储利率决定之前，油价上涨加剧了通胀担忧。",
-  "pub_time": "2026-10-27T10:12:56Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "69aed0e758623fe6f95d8c660f3c8501",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Gold Dips Below $4,000 Ahead Of Fed Decision"
- },
- {
-  "title": "油价在波动的贸易中小幅上涨",
-  "url": "",
-  "summary": "(RTTNews) - 油价在前一交易日下跌后，周二小幅上涨，原因是为防止美伊冲突进一步升级而采取了新的外交努力。",
-  "pub_time": "2026-10-27T09:47:33Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "b3d22a76d2a9ab1cc14d500c2e583e10",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价"
-  ],
-  "en_title": "Oil Prices Edge Up In Choppy Trade"
  }
 ]
