@@ -1,5 +1,59 @@
 [
  {
+  "title": "Equinor 将北海主要天然气发现预估翻倍",
+  "url": "",
+  "summary": "运营商 Equinor 周四在钻探一口新评估井后表示，挪威北海发现的 Afrodite 天然气储量可能是最初预期的两倍。 Afrodite 于 2008 年发现，位于 Kvitebjørn 天然气和凝析油田附近，也靠近北部的 Gullfaks 油田",
+  "pub_time": "2026-10-29T10:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "51ea592a108dcbb157a1fe1bbea0abb3",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气"
+  ],
+  "en_title": "Equinor Doubles Estimate for Major North Sea Gas Discovery"
+ },
+ {
+  "title": "投资者寻求美国利率前景的明确性，金价下跌",
+  "url": "",
+  "summary": "(RTTNews) - 周四，在美联储如普遍预期维持利率稳定，但并未透露下一步行动的具体情况后，金价跌向每盎司 4,000 美元。",
+  "pub_time": "2026-10-29T10:09:14Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "81e52cc3c21c46e09c7c0a7817c1b320",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "回落",
+   "展望"
+  ],
+  "en_title": "Gold Slips As Investors Seek Clarity On US Rate Outlook"
+ },
+ {
   "title": "美伊外交希望令油价走低",
   "url": "",
   "summary": "(RTTNews) - 在胡塞武装袭击沙特阿拉伯最大炼油厂以及美国原油库存下降的报道之后，油价在前一交易日飙升至六个月高点后周四走低。",
@@ -1444,36 +1498,6 @@
    "大豆"
   ],
   "en_title": "Red Crown Rot Spreads Across Midwest Soybean Fields"
- },
- {
-  "title": "Equinor 上调石油和天然气产量预测，运营利润翻倍",
-  "url": "",
-  "summary": "Equinor 将 2026 年石油和天然气产量增长预测上调至 4% 左右，此前大宗商品价格上涨以及蒙斯塔德炼油厂创纪录的盈利帮助第三季度营业利润增长了一倍以上。这家挪威生产商目前预计增长速度将快于之前 3% 的预期",
-  "pub_time": "2026-10-28T16:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "c097d9d9191e5f63a3759722b953e17f",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "天然气",
-   "锡",
-   "产量",
-   "预测"
-  ],
-  "en_title": "Equinor Raises Oil and Gas Output Forecast as Operating Profit Doubles"
  },
  {
   "title": "XXIX Metal 启动其历史上最大规模的钻探活动",
