@@ -1,5 +1,163 @@
 [
  {
+  "title": "由于成本上升，阿拉莫斯推迟了岛屿金矿井建设",
+  "url": "",
+  "summary": "阿拉莫斯黄金公司（TSX：AGI；纽约证券交易所：AGI）已将 Island Gold 竖井扩建推迟了约四分之一，并表示建筑成本上升，从而推迟了产量增长的一个关键来源……由于成本上升，Alamos 推迟 Island Gold 竖井的消息首先出现在《北方矿工》上。",
+  "pub_time": "2026-10-29T13:39:55Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "b127122dc8fecbf009f9bd5c21726caa",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "上涨"
+  ],
+  "en_title": "Alamos delays Island Gold shaft as costs rise"
+ },
+ {
+  "title": "中国边境检查使奥尤陶勒盖出口减少70%",
+  "url": "",
+  "summary": "由于中国边境限制，力拓（NYSE、LSE、ASX：RIO）蒙古奥尤陶勒盖矿的铜精矿出口量在过去两周下降了约 70%，中国边境检查后，奥尤陶勒盖矿出口量减少了 70%。",
+  "pub_time": "2026-10-29T13:32:47Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "69796402a51cfa835a38d04b315a3c5c",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "出口"
+  ],
+  "en_title": "China border checks cut Oyu Tolgoi exports by 70%"
+ },
+ {
+  "title": "伊朗战争使欧盟石油进口费用每月增加 110 亿美元",
+  "url": "",
+  "summary": "《欧洲商业新闻》周四的分析显示，自中东危机导致原油供应中断并引发全球燃料危机以来，欧盟已为进口石油多支付了 110 亿美元。 2026年第二季度欧盟石油进口额猛增55.8%",
+  "pub_time": "2026-10-29T13:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "fe33ef2fbb3f5b89e5ae0211d3af7262",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Iran War Hikes EU’s Oil Import Bill By $11 Billion Per Month"
+ },
+ {
+  "title": "金罗斯金矿事故导致两名工人死亡",
+  "url": "",
+  "summary": "据美国初步消息，9 月 3 日，同一承包商的两名员工在内华达州金罗斯黄金公司 (TSX: K; NYSE: KGC) 的巴尔德山金矿发生不同事故后死亡。",
+  "pub_time": "2026-10-29T13:16:38Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "75d54777e900d132ecf9ddc62198a8b2",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Two workers die after Kinross Gold accidents"
+ },
+ {
+  "title": "美国铜库存掩盖了全球供应紧缩的加剧",
+  "url": "",
+  "summary": "中国的溢价和非洲的风险凸显了铜库存与实物市场状况之间的脱节。",
+  "pub_time": "2026-10-29T12:58:08Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "acacb73e700d0030d3168a5551f5fe2a",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜",
+   "供应",
+   "库存"
+  ],
+  "en_title": "US copper stockpiles conceal growing global supply crunch"
+ },
+ {
+  "title": "炼油利润创历史新高，壳牌利润几乎翻倍至 108 亿美元",
+  "url": "",
+  "summary": "由于中东危机挤压了燃料供应并提高了石油和天然气价格，创纪录的炼油利润以及更高的液化天然气和天然气价格使壳牌第三季度收益达到了 108 亿美元以上，几乎是去年同期的两倍。壳牌周四公布调整后收益为 10 美元。",
+  "pub_time": "2026-10-29T12:29:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "5997ad6ba747a21309b729f5b6dc4ddd",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Shell Profits Nearly Double to $10.8 Billion as Refining Margins Hit Record"
+ },
+ {
   "title": "战争促进炼油和贸易，TotalEnergies 利润翻倍",
   "url": "",
   "summary": "TotalEnergies第三季度调整后净利润为91亿美元，在炼油利润创历史新高、石油和天然气价格上涨以及石油和液化天然气交易强劲的背景下，盈利较上年同期翻了一番。这家法国超级巨头周四公布调整后净利润为 91 亿美元，增长 5 倍",
@@ -23,31 +181,6 @@
    "能源"
   ],
   "en_title": "TotalEnergies Profit Doubles as War Boosts Refining and Trading"
- },
- {
-  "title": "炼油利润创历史新高，壳牌利润几乎翻倍至 108 亿美元",
-  "url": "",
-  "summary": "由于中东危机挤压了燃料供应并提高了石油和天然气价格，创纪录的炼油利润以及更高的液化天然气和天然气价格使壳牌第三季度收益达到了 108 亿美元以上，几乎是去年同期的两倍。壳牌周四公布调整后收益为 10 美元。",
-  "pub_time": "2026-10-29T11:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "5997ad6ba747a21309b729f5b6dc4ddd",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Shell Profits Nearly Double to $10.8 Billion as Refining Margins Hit Record"
  },
  {
   "title": "Equinor 将北海主要天然气发现预估翻倍",
@@ -244,8 +377,27 @@
   "is_elite": false
  },
  {
+  "title": "Mysteel：本周钢材社会库存减少31.10万吨（10月23日-10月29日）",
+  "url": "https://news.mysteel.com/a/26102916/7B8A8B352E0ADA40.html",
+  "summary": "",
+  "pub_time": "2026-10-29T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "8c07f7ddc752f9704fd811d0e993d2b0",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "关键矿产日报：BHP三季度铜精矿产销双降，嘉能可推进重大资产出售",
-  "url": "https://news.mysteel.com/a/26102916/85C14B2BEF438F0C.html",
+  "url": "https://news.mysteel.com/a/26102916/ED8433860254DEEB.html",
   "summary": "",
   "pub_time": "2026-10-29T08:00:00Z",
   "source": "上海钢联Mysteel",
@@ -264,7 +416,7 @@
  },
  {
   "title": "Mysteel：22家上市家电企业公布前三季度业绩，超9成盈利",
-  "url": "https://news.mysteel.com/a/26102916/4741B83BB8EA039D.html",
+  "url": "https://news.mysteel.com/a/26102916/4C2BAA2E5F3A2863.html",
   "summary": "",
   "pub_time": "2026-10-29T08:00:00Z",
   "source": "上海钢联Mysteel",
@@ -275,25 +427,6 @@
   "topic": "国内/金融政策",
   "tags": [
    "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：本周钢材社会库存减少31.10万吨（10月23日-10月29日）",
-  "url": "https://news.mysteel.com/a/26102916/7B8A8B352E0ADA40.html",
-  "summary": "",
-  "pub_time": "2026-10-29T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "8c07f7ddc752f9704fd811d0e993d2b0",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -2978,57 +3111,6 @@
    "黄金"
   ],
   "en_title": "Iamgold drilling strengthens Nelligan growth case"
- },
- {
-  "title": "随着赌场审查的进展，西部铜业首席执行官辞职",
-  "url": "",
-  "summary": "Western Copper and Gold (TSX, NYSE-A: WRN) 表示，首席执行官桑迪普·辛格 (Sandeep Singh) 将于本周离开公司，随着开发商推进其赌场，将领导权移交给董事长马克·E·史密斯 (Mark E. Smith)。",
-  "pub_time": "2026-10-27T19:00:38Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "af43ecaefb171123029b854b1f56645d",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "铜"
-  ],
-  "en_title": "Western Copper CEO exits as Casino review advances"
- },
- {
-  "title": "矿业论坛视频：阳光为爱达荷州重启创造增长空间",
-  "url": "",
-  "summary": "Sunshine Silver Mining & Refining（纽约证券交易所股票代码：SSMR）正在设计一座产能翻倍的工厂，目标是在 2028 年末重启爱达荷州阳光银矿，首席执行官希瑟·怀特 (Heather White)... 矿业论坛后视频：阳光为爱达荷州重启创造增长空间首先出现在《北方明报》上",
-  "pub_time": "2026-10-27T18:40:38Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "99c0e41fdad25ab10ac0a088214bb943",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "Mining Forum video: Sunshine builds room for growth into Idaho restart"
  },
  {
   "title": "卡塔尔努力结束美伊军事对抗，原油价格暴跌",
