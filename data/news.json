@@ -82,7 +82,7 @@
  {
   "title": "铜、镍因厄尔尼诺现象而面临风险",
   "url": "",
-  "summary": "一份新的 BMI 报告显示，厄尔尼诺现象造成的天气干扰可能会影响关键矿物的产量和运输。",
+  "summary": "BMI 报告称，厄尔尼诺现象可能会在 2027 年初扰乱铜和镍的生产。",
   "pub_time": "2026-10-29T17:05:28Z",
   "source": "Mining.com",
   "_cat": "基本金属",
@@ -190,13 +190,13 @@
   "en_title": "Trafigura Signs New Gas Supply Deal with German SEFE"
  },
  {
-  "title": "力拓向阿根廷锂项目注资 1.4B 美元",
+  "title": "力拓向阿根廷锂项目注资14亿美元",
   "url": "",
   "summary": "随着这家矿业巨头追求电池金属的雄心勃勃的增长目标，两项新业务的年产能增加了 25,000 吨。",
   "pub_time": "2026-10-29T15:10:00Z",
   "source": "Mining.com",
   "_cat": "基本金属",
-  "dedup_key": "81d78ef322be3959bea66a6752393d24",
+  "dedup_key": "8e438ebc17966aabd399169e00169845",
   "score": 84,
   "priority": "P1",
   "topic": "基本金属",
@@ -213,7 +213,7 @@
    "基本金属",
    "锡"
   ],
-  "en_title": "Rio Tinto pumps $1.4B into lithium projects in Argentina"
+  "en_title": "Rio Tinto pumps $1.4 billion into lithium projects in Argentina"
  },
  {
   "title": "投资者纷纷涌入丹格特。但价格合适吗？",
@@ -240,6 +240,34 @@
    "价"
   ],
   "en_title": "Investors Are Piling Into Dangote. But Is the Price Right?"
+ },
+ {
+  "title": "埃尔多拉多下跌，因斯科里斯的挫折使黄金前景下调 18%",
+  "url": "",
+  "summary": "由于希腊 Skouries 铜金矿项目的延误，该矿商将 2026 年黄金产量预测下调了 18%，并提高了支出。",
+  "pub_time": "2026-10-29T14:56:43Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "ae82a1ced7771e0ce828e27e7d19fcdd",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "下跌",
+   "展望"
+  ],
+  "en_title": "Eldorado drops as Skouries setbacks cut gold outlook 18%"
  },
  {
   "title": "Skouries 困境导致黄金前景下调 18%，埃尔多拉多下跌",
@@ -320,6 +348,32 @@
    "上涨"
   ],
   "en_title": "Alamos delays Island Gold shaft as costs rise"
+ },
+ {
+  "title": "中国边境检查使奥尤陶勒盖出口减少70%",
+  "url": "",
+  "summary": "由于边境限制，力拓对中国的铜精矿出口两周内下降了70%。",
+  "pub_time": "2026-10-29T13:35:30Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "cfb5eaa0d0c52d4e6b0d3b099bbf9e89",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "出口"
+  ],
+  "en_title": "China border checks cut Oyu Tolgoi exports by 70%"
  },
  {
   "title": "中国边境检查使奥尤陶勒盖出口减少70%",
@@ -764,32 +818,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "欧盟在冬季前努力遏制能源价格危机",
-  "url": "",
-  "summary": "欧盟成员国能源部长今天召开会议，讨论如何应对随着冬季以及随之而来的供暖需求高峰季节日益恶化的能源价格危机。此次会议之前，周三有报道援引能源专员丹·乔根森的话说，一系列炼油厂将关闭",
-  "pub_time": "2026-10-29T07:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "91c316961892729233883a3bbad55e00",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "价"
-  ],
-  "en_title": "EU Scrambles to Contain Energy Price Crisis Ahead of Winter"
  },
  {
   "title": "10月29日国家再次实施调控，成品油价格适当调整",
@@ -1781,32 +1809,6 @@
    "金属"
   ],
   "en_title": "XXIX Metal launches largest drilling campaign in its history"
- },
- {
-  "title": "Glencore、CNGR 以 4000 万美元投资 3.8 亿美元的巴西镍矿",
-  "url": "",
-  "summary": "随着战略资金推动该项目获得批准，半人马金属公司已为捷豹前五年的产量找到了买家。",
-  "pub_time": "2026-10-28T16:08:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "2888766559cb40ce61bb89aa239f714b",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "镍"
-  ],
-  "en_title": "Glencore, CNGR back $380M Brazil nickel mine with $40M"
  },
  {
   "title": "美国商品期货交易委员会计划增加谷物期货市场报告的频率",
