@@ -1,5 +1,464 @@
 [
  {
+  "title": "埃克森美孚利润翻番至154亿美元",
+  "url": "",
+  "summary": "埃克森美孚周五公布第三季度利润为154亿美元，是去年同期的两倍多，墨西哥湾沿岸炼油厂满负荷运转，其余为柴油价格。该公司每股收益3.72美元，调整后为4.23美元，超过了华尔街的4.08美元",
+  "pub_time": "2026-10-30T17:27:04Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "837e19920b39c291a68e65a897888154",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "ExxonMobil Profits Double to $15.4 Billion"
+ },
+ {
+  "title": "美国石油、天然气钻探公司仍处于搁置状态",
+  "url": "",
+  "summary": "根据贝克休斯周五公布的新数据，美国石油和天然气钻井平台总数本周再次保持不变，美国钻井平台总数保持在603个，比去年同期增加了57个。活跃石油钻井平台的数量增加了",
+  "pub_time": "2026-10-30T17:09:57Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "9a78900d9ab671d9261af5ee4e728684",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "天然气"
+  ],
+  "en_title": "U.S. Oil, Gas Drillers Still on Hold"
+ },
+ {
+  "title": "随着布伦特接近120 $ ，石油交易商为狂野的一周做好准备",
+  "url": "",
+  "summary": "对美伊重新爆发敌对行动的担忧正在加剧，霍尔木兹袭击事件不断增加，伊朗贾斯克港口据报发生爆炸，军方重新定位给外交努力蒙上阴影。2026年10月30日（星期五）距离美国中期选举只剩下几天了，油价将大幅上涨",
+  "pub_time": "2026-10-30T16:51:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "86581a0d8fd44b9c042cb7bf60587c98",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "布伦特油价",
+   "周"
+  ],
+  "en_title": "Oil Traders Brace for a Wild Week as Brent Approaches $120"
+ },
+ {
+  "title": "黄金价格跌至一年低点，白银价格突破50 $ ，矿业股下跌",
+  "url": "",
+  "summary": "黄金正走向自2008年以来最糟糕的10月，周五黄金和白银生产商跌幅高达8%。",
+  "pub_time": "2026-10-30T16:31:19Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "06faf855401b2a095e18020ee72875ae",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "白银",
+   "价",
+   "库存"
+  ],
+  "en_title": "Gold price slumps to one-year low, silver price breaks $50 as mining stocks tank"
+ },
+ {
+  "title": "Perseus Mining为Nyanzaga黄金项目提供备用电源",
+  "url": "",
+  "summary": "随着坦桑尼亚项目的目标是2027年首次生产，一个28发电机系统旨在保持运营安全运行。",
+  "pub_time": "2026-10-30T16:22:09Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "f8e3c3c36bcd70395fb9cc7172884528",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Perseus Mining secures backup power for Nyanzaga gold project"
+ },
+ {
+  "title": "美国农业部宣布采购$ 4.725亿农产品，包括大米",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-10-30T16:18:00Z",
+  "source": "Grainnet",
+  "_cat": "综合",
+  "dedup_key": "dbcca56cd9b41bceb6e12373635ffc06",
+  "score": 84,
+  "priority": "P2",
+  "topic": "综合",
+  "tags": [
+   "综合",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "综合"
+  ],
+  "en_title": "USDA Announces $472.5 Million in Agricultural Commodity Purchases, Including Rice"
+ },
+ {
+  "title": "美国液化天然气热潮面临有史以来最大的考验",
+  "url": "",
+  "summary": "十年前，美国才刚刚开始摆脱曾经认为对进口天然气依赖性稳步上升的能源前景。多年来，普遍的担忧是国内生产将难以跟上需求的步伐，使该国越来越依赖",
+  "pub_time": "2026-10-30T16:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "58733e1cedc0d48c8c55fc7aa9403e19",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "America’s LNG Boom Faces Its Biggest Test Yet"
+ },
+ {
+  "title": "日本今年将超越中国成为全球最大的液化天然气进口国",
+  "url": "",
+  "summary": "ICIS和Kpler的分析师表示，预计日本今年将自2022年以来首次超过中国成为全球最大的液化天然气（ LNG ）进口国，因为中国的高液化天然气价格和充足的储存限制了购买量。日本的液化天然气需求将超过（尽管略有超过）",
+  "pub_time": "2026-10-30T15:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "2daaf6b148d9a5982ccaa8cd3d667c62",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Japan to Overtake China As World’s Top LNG Importer This Year"
+ },
+ {
+  "title": "欧洲天然气自2022年以来首次突破101欧元",
+  "url": "",
+  "summary": "欧洲基准天然气价格自2022年危机以来首次突破101欧元/兆瓦时（ MWh ） ，因为欧洲天然气储存水平处于历史低位，冬季即将到来。荷兰产权转让基金（ TTF ）的前月价格，这是欧洲天然气交易的基准，",
+  "pub_time": "2026-10-30T14:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "90198efee23c6d4b3dd54b0e82f22f24",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气"
+  ],
+  "en_title": "European Gas Tops 101 Euros for First Time Since 2022"
+ },
+ {
+  "title": "力拓在落石后重新启动奥尤陶勒盖铜矿",
+  "url": "",
+  "summary": "力拓（ ASX ， LSE ， NYSE ： RIO ）表示，在地震事件引发岩石坠落后的一天，它正在逐步重新启动蒙古奥尤陶勒盖矿的地下作业，停止生产......在北方矿工首次出现岩石坠落后，力拓开始重新启动奥尤陶勒盖铜矿。",
+  "pub_time": "2026-10-30T14:21:17Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "035387e3a2b035dd124a8a3cf425a05b",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜",
+   "下跌"
+  ],
+  "en_title": "Rio begins Oyu Tolgoi copper restart after rockfall"
+ },
+ {
+  "title": "特朗普考虑解除对普京“洗钱基金”的制裁",
+  "url": "",
+  "summary": "在俄罗斯全力征服乌克兰四天后，美国政府和其他西方盟国发动了广泛的金融制裁，旨在惩罚克里姆林宫的钱包。俄罗斯中央银行是突出的。数十亿美元的主权财富",
+  "pub_time": "2026-10-30T14:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "7efbf48a7fcc974991408a1a51165234",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡"
+  ],
+  "en_title": "Trump Considers Lifting Sanctions on Putin’s ‘Slush Fund’"
+ },
+ {
+  "title": "日本将从政府资金中拨款70 $来补贴汽油价格",
+  "url": "",
+  "summary": "日本政府周五决定从其应急储备中动用70亿美元，以保留对汽油和其他燃料的补贴，尽管它计划从12月起逐步缩减支持。日本政府今天决定拨款约70亿美元（ 1.1万亿日元）",
+  "pub_time": "2026-10-30T13:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "88f95071ee1ce091f70daf16c652c631",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "汽油",
+   "天然气",
+   "价"
+  ],
+  "en_title": "Japan to Tap $7 Billion from Government Fund to Subsidize Gasoline Prices"
+ },
+ {
+  "title": "Codelco会计丑闻声称又有八名员工",
+  "url": "",
+  "summary": "由于新的证据引发了对内部控制的担忧，智利的国有矿业公司面临着对有争议的产量记录的日益严格的审查。",
+  "pub_time": "2026-10-30T12:50:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "16715b41c7ecb7211e08ae4ae9f1b1ba",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡"
+  ],
+  "en_title": "Codelco accounting scandal claims eight more employees"
+ },
+ {
+  "title": "布伦特击中$ 117 ，油轮在霍尔木兹海峡起火",
+  "url": "",
+  "summary": "中东的紧张局势再次升级，据报道，一艘油轮在试图从霍尔木兹海峡过境时，在船体上安装了爆炸装置后起火。隶属于皇家海军的英国海上贸易业务（ UKMTO ）在",
+  "pub_time": "2026-10-30T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "af37e249ecc0c2e8b9847375aa7c9cc1",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "布伦特油价"
+  ],
+  "en_title": "Brent Hits $117 as Tanker Catches Fire in Strait of Hormuz"
+ },
+ {
+  "title": "中钢协2026年三季度信息发布会提出：砥砺前行 攻坚克难 推动钢铁行业向新、向智、向绿、向好",
+  "url": "https://news.mysteel.com/a/26103020/DA664F34C5CB5BE0.html",
+  "summary": "",
+  "pub_time": "2026-10-30T12:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "d087a0ba1a27179f5c521224d9c99dff",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel日报：黑色金属期货震荡下跌运行",
+  "url": "https://news.mysteel.com/a/26103020/15827D5235251879.html",
+  "summary": "",
+  "pub_time": "2026-10-30T12:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "35e731dc1bfbf7b43450d8d00de0dc41",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "石油市场陷入伊朗战争风险和紧急SPR发布之间",
+  "url": "",
+  "summary": "原油周四回落，因交易商权衡紧急供应与重启与伊朗谈判的初步努力。双方都没有控制局面。美国战略石油储备正在输送石油，但该储备接近1982年以来的最低水平。和平努力重新浮出水面",
+  "pub_time": "2026-10-30T11:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "c3a6ffa2b849c8dc5f9f26e0d0ba9862",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "走软"
+  ],
+  "en_title": "Oil Markets Caught Between Iran War Risks and Emergency SPR Releases"
+ },
+ {
+  "title": "随着战争推动炼油和交易， BP的利润翻了两番",
+  "url": "",
+  "summary": "BP轻松超越分析师对第三季度收益的预期，公布了其最高的季度利润，在强劲的炼油利润和石油天然气交易中，该季度利润比去年同期增长了近四倍。BP的基础重置成本利润，指标是用于净利润，飙升至86亿$ fo",
+  "pub_time": "2026-10-30T11:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "fe7d224f9b1af8c38d125038a142b20c",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "BP Quadruples Profit to Record as War Boosts Refining and Trading"
+ },
+ {
   "title": "利率担忧导致金价小幅走低",
   "url": "",
   "summary": "(RTTNews) - 由于对原油价格上涨的担忧以及美联储 12 月加息的预期，黄金周五走低，并可能连续第二个月下跌。",
@@ -84,44 +543,6 @@
   "en_title": "Oil Prices Surge As Trump Weighs Fresh Military Action Against Iran"
  },
  {
-  "title": "油菜蔬菜种植落田到户 湖南东安冬闲田里算出增收账",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723474.shtml",
-  "summary": "李卉芳 陈灵玲 谢助民)霜降过后，湖南省永州市东安县鹿马桥镇天堂-水溪千亩油菜单产提升示范片的晚稻、再生稻刚收完，旋耕机就顺着稻茬下了地，碎秆、旋耕、开沟一气呵成",
-  "pub_time": "2026-10-30T09:31:50Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "5ea16b4c20568325b5305594838992b4",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
-  "title": "中国石油西南油气田2026年度清洁电力发电量突破1亿千瓦时",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723466.shtml",
-  "summary": "李琦 吴晨)据中国石油西南油气田公司(以下简称西南油气田公司)30日消息，截至本月28日，该公司2026年度清洁电力发电量达10328万千瓦时，历史性突破1亿千瓦时大关。折合节约标准煤约3万吨，减排二氧化碳约5.568万吨，标志着西南油气田公司“天然气+新能源”融合发展取得阶段性里程碑",
-  "pub_time": "2026-10-30T09:23:56Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "6ead8b35bd1da686dae4c5bef4877232",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel晚餐：钢厂高炉铁水产量减少，进口铁矿石港库增加",
   "url": "https://news.mysteel.com/a/26103017/AB84266EAC5FE747.html",
   "summary": "",
@@ -168,8 +589,34 @@
   "en_title": "High Oil Prices Set to Trigger New Wave of North Sea Mergers"
  },
  {
+  "title": "随着矿床老化，关键矿物越来越难开采：安永",
+  "url": "",
+  "summary": "一项针对 400 名矿业高管的调查揭示了矿石品位下降、成本上升和融资紧缩如何威胁未来的供应。",
+  "pub_time": "2026-10-30T08:01:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "f2181fd45eabd9a68e823168304cdead",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡"
+  ],
+  "en_title": "Critical minerals getting harder to mine as deposits age: EY"
+ },
+ {
   "title": "Mysteel：8家铜箔上市企业披露2026年前三季度业绩，全部盈利",
-  "url": "https://news.mysteel.com/a/26103016/AA6A90CFE067B876.html",
+  "url": "https://news.mysteel.com/a/26103016/675E21EA4B44AD1C.html",
   "summary": "",
   "pub_time": "2026-10-30T08:00:00Z",
   "source": "上海钢联Mysteel",
@@ -263,33 +710,6 @@
   "is_elite": false
  },
  {
-  "title": "胡塞武装声称对沙特炼油厂和阿美石油公司设施发动新一轮袭击",
-  "url": "",
-  "summary": "也门胡塞武装声称对沙特目标发动了一系列新的袭击，其中包括石油基础设施：两家炼油厂和布盖格油田的一个设施。胡塞武装发言人叶海亚·萨雷 (Yahya Saree) 在 X 上发帖称，胡塞武装袭击了 Ras Tanura 炼油厂和 Rabigh 炼油厂，此外“沙特阿美石油公司 (Aramco)",
-  "pub_time": "2026-10-30T07:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "5cfbdfd09baec146406d591eac996bc0",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "罢工"
-  ],
-  "en_title": "Houthis Claim Fresh Strikes on Saudi Oil Refineries and Aramco Facilities"
- },
- {
   "title": "黑色持仓日报：期螺飘绿，中信期货增持近7千手空单",
   "url": "https://news.mysteel.com/a/26103015/49CD5A249B0D0A18.html",
   "summary": "",
@@ -345,34 +765,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "随着中东紧张局势升级，油价将连续第四个月上涨",
-  "url": "",
-  "summary": "由于人们持续担心中东局势升级以及胡塞武装对沙特基础设施的袭击，原油价格今天将再次每周上涨，并将其连续四个月上涨。截至撰写本文时，布伦特原油交易价格为每桶 116.56 美元，西德克萨斯州",
-  "pub_time": "2026-10-30T06:20:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "6f643ddf0902065bad41bb4f19a1c0f0",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "走强"
-  ],
-  "en_title": "Oil Prices Head for Fourth Monthly Gain as Middle East Tensions Escalate"
  },
  {
   "title": "10月钢铁行业大事记",
@@ -463,63 +855,6 @@
   "topic": "国内/金融政策",
   "tags": [
    "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：11家上市木材企业披露三季度业绩，4家盈利",
-  "url": "https://news.mysteel.com/a/26103014/22204E5C0721F227.html",
-  "summary": "",
-  "pub_time": "2026-10-30T06:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "503a47d38f6c19fa7d08bcfcb859d71e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "纽柯钢铁第三季度净利润同比增长117.5%",
-  "url": "https://news.mysteel.com/a/26103014/9E843C59B1B728CE.html",
-  "summary": "",
-  "pub_time": "2026-10-30T06:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "6759e67e519f001f441c9eed0e53781f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "为提升钢铁、汽车业竞争力并加速关键矿产开发，加拿大安大略省推出共计约87亿加元投资计划",
-  "url": "https://news.mysteel.com/a/26103014/A8DF6B861A7819F3.html",
-  "summary": "",
-  "pub_time": "2026-10-30T06:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "05e003473d94125250b554d1d42f12f6",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -895,32 +1230,6 @@
   "is_elite": false
  },
  {
-  "title": "随着矿床老化，关键矿物越来越难开采：安永",
-  "url": "",
-  "summary": "一项针对 400 名矿业高管的调查揭示了矿石品位下降、成本上升和融资紧缩如何威胁未来的供应。",
-  "pub_time": "2026-10-30T00:01:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "f2181fd45eabd9a68e823168304cdead",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡"
-  ],
-  "en_title": "Critical minerals getting harder to mine as deposits age: EY"
- },
- {
   "title": "河源德润钢铁产能置换方案",
   "url": "https://news.mysteel.com/a/26103008/A011FCA607C9D379.html",
   "summary": "",
@@ -1060,33 +1369,6 @@
   "en_title": "Daily Market Wire 30 October 2026"
  },
  {
-  "title": "全球天然气需求的下一步是什么？",
-  "url": "",
-  "summary": "伊朗战争和中东液化天然气供应不足颠覆了对近期天然气需求和进口成本的预测。今年到目前为止，欧洲和亚洲的经济体更多地依赖可再生能源和煤炭发电，以抵消以极高价格采购的天然气供应的减少",
-  "pub_time": "2026-10-29T23:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "1e9f6ccf700999d17e38f8fd4c125d95",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气",
-   "需求"
-  ],
-  "en_title": "What’s Next for Global Natural Gas Demand?"
- },
- {
   "title": "Mysteel早读：五大钢材品种供需双增，淡水河谷公布铁矿石产销",
   "url": "https://news.mysteel.com/a/26103007/172105069691E9E6.html",
   "summary": "",
@@ -1176,56 +1458,6 @@
    "上涨"
   ],
   "en_title": "Alamos delays Island Gold shaft as costs rise"
- },
- {
-  "title": "世界上第一个永久核废料处理场在芬兰获得许可",
-  "url": "",
-  "summary": "世界上第一个永久核废料储存库距离开业又近了一大步。负责位于芬兰 Eurajoki 项目的废物管理公司 Posiva 刚刚获得该国政府颁发的 Onkalo 设施运营许可证",
-  "pub_time": "2026-10-29T20:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "0ab8e117f70d061afffd06ce394831c8",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "World's First Permanent Nuclear Waste Site Wins License in Finland"
- },
- {
-  "title": "埃克森美孚和雪佛龙高管因安全担忧取消海湾访问",
-  "url": "",
-  "summary": "据路透社周四援引的消息人士称，出于安全考虑，埃克森美孚首席执行官达伦·伍兹和雪佛龙上游总裁克莱·内夫取消了参加下周在阿布扎比举行的 ADIPEC 会议的计划。两位高管预计将出席 11 月 2 日至 5 日举行的石油行业盛会之一",
-  "pub_time": "2026-10-29T20:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "ca3033bbbd41e9f001283e38cf743e15",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Exxon, Chevron Executives Cancel Gulf Visit Over Security Concerns"
  },
  {
   "title": "Skouries 困境导致黄金前景下调 18%，埃尔多拉多下跌",
@@ -1437,59 +1669,6 @@
    "下滑"
   ],
   "en_title": "Gold Slides As Concerns Of Tighter Monetary Policy Outweigh Safe-Haven Status"
- },
- {
-  "title": "墨西哥首富出售价值 11.5 亿美元的石油股票",
-  "url": "",
-  "summary": "由于伊朗战争导致原油价格和能源股走高，卡洛斯·斯利姆今年已出售了价值超过 11.5 亿美元的美国石油股。这位墨西哥亿万富翁已将 PBF Energy 和 Talos Energy 的股份减半，但他仍持有的股份价值约 14 亿美元，大致相当于他的资产",
-  "pub_time": "2026-10-29T17:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "cc504b32234133a122a927854133a570",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "库存"
-  ],
-  "en_title": "Mexico’s Richest Man Sells $1.15 Billion in Oil Stocks"
- },
- {
-  "title": "欧洲将释放4200万桶石油",
-  "url": "",
-  "summary": "法国经济部长罗兰·莱斯库尔周四表示，欧洲将在未来三个月内释放 4200 万桶紧急石油库存，其中一半是柴油，因为各国政府试图在冬季之前降低燃油价格。法国的份额包括 1000 万桶柴油，Lescure 表示将",
-  "pub_time": "2026-10-29T17:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "5b267ad722b0829d6fc0ed06a7600eb9",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Europe to Release 42 Million Barrels of Oil"
  },
  {
   "title": "铜、镍因厄尔尼诺现象而面临风险",
@@ -2469,62 +2648,6 @@
   "en_title": "China border checks cut Oyu Tolgoi exports by 70%"
  },
  {
-  "title": "美国铜库存掩盖了全球供应紧缩的加剧",
-  "url": "",
-  "summary": "中国的溢价和非洲的风险凸显了铜库存与实物市场状况之间的脱节。",
-  "pub_time": "2026-10-29T12:58:08Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "acacb73e700d0030d3168a5551f5fe2a",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "供应",
-   "库存"
-  ],
-  "en_title": "US copper stockpiles conceal growing global supply crunch"
- },
- {
-  "title": "随着铜价创历史新高，泰克公司利润飙升",
-  "url": "",
-  "summary": "由于劳资纠纷和中国的审查为其合并前景蒙上阴影，这家加拿大矿业公司公布了强劲的盈利和产量。",
-  "pub_time": "2026-10-29T10:46:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "7c5506e1084b0dd014c2c9c41b00db8c",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "价",
-   "大涨"
-  ],
-  "en_title": "Teck profit surges as copper prices hit record highs"
- },
- {
   "title": "随着铜成本下降，泰克资源超出预期",
   "url": "",
   "summary": "泰克资源公司 (TSX: TECK.B; 纽约证券交易所代码: TECK) 超出第三季度盈利预期，因创纪录的铜价、更强劲的产量和更低的成本在计划与英美资源集团合并之前提高了回报。",
@@ -3000,32 +3123,6 @@
   "en_title": "Daily Market Wire 29 October 2026"
  },
  {
-  "title": "绿锰试验在锌提取的同时实现了高回收率",
-  "url": "",
-  "summary": "该公司表示，结果解决了冶炼厂面临的两个相关挑战：处理危险的工业残留物和回收有价值的金属，否则这些金属将留在污泥沉淀池中或因处置而损失。",
-  "pub_time": "2026-10-28T22:06:46Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "2dbf8b866015246dbbc771809c3120a4",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锌"
-  ],
-  "en_title": "Green Manganese trials deliver high recovery rates alongside zinc extraction"
- },
- {
   "title": "世界银行将铜价展望上调18%",
   "url": "",
   "summary": "世界银行预测，由于新矿山难以跟上电网和数据中心的需求，明年铜价将保持在历史高位附近。世界银行将铜价前景上调 18% 的消息首先出现在《北方矿业报》上。",
@@ -3078,31 +3175,6 @@
    "黄金"
   ],
   "en_title": "Gold dip draws Asian buyers as North American funds lose cash"
- },
- {
-  "title": "美国向 Constellation 提供高达 50 亿美元的核贷款",
-  "url": "",
-  "summary": "Constellation Energy（纳斯达克股票代码：CEG）获得了美国政府高达 50 亿美元（70 亿加元）的有条件贷款承诺，用于提高现有核电站的产量。拟议的融资将支持……美国向 Constellation 提供高达 5B 美元核贷款的消息首先出现在《北方矿工》上",
-  "pub_time": "2026-10-28T20:55:26Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "6612785cc524f60c099a2d2ebdd6b033",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "US offers Constellation up to $5B nuclear loan"
  },
  {
   "title": "美国小麦凸显粮食援助在全球粮食安全中的作用",
@@ -3184,769 +3256,5 @@
    "下滑"
   ],
   "en_title": "Gold Slides As Markets Await Fed Decision Amid Rising Crude Oil Prices"
- },
- {
-  "title": "红冠腐病在中西部大豆田蔓延",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-10-28T16:42:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "73c148a8293702e047dca0fb3fe0fe08",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "大豆"
-  ],
-  "en_title": "Red Crown Rot Spreads Across Midwest Soybean Fields"
- },
- {
-  "title": "美国商品期货交易委员会计划增加谷物期货市场报告的频率",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-10-28T16:08:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "8e855afd374910d7ca5ff591473134c3",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "谷物"
-  ],
-  "en_title": "CFTC Plans to Increase Frequency of Grain Futures Market Reports"
- },
- {
-  "title": "10月29日进口油菜籽到国内港口CF报价",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/5516646719.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油菜籽",
-  "_cn": true,
-  "dedup_key": "ba259a8fc2fd616d530948804f6a79a4",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "粮油菜籽"
-  ],
-  "is_elite": false
- },
- {
-  "title": "ICE油菜籽追随豆油下跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/5906664538.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油菜籽",
-  "_cn": true,
-  "dedup_key": "13bb3c8948d488fd4fa9185a7853078a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油菜籽"
-  ],
-  "is_elite": false
- },
- {
-  "title": "10月29日进口大豆港口分销价持平",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/4615199836.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "fdcbfb5f18ecf94647b9d232a338a836",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "美国大豆现货价格继续下跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/4117562636.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "ccea82d04c2b10e4656afcdef4a356ab",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "周三阿根廷大豆现货价格下跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/4042119114.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "50fbf377f60dbab1c1796e178fdeb3ed",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月29日大连大豆期货收盘高开收跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/0721946032.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "409f48a906166c4cc2771e63c965dccb",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月29日大连大豆期货行情午报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/3408623748.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "25bcdd68a881083693d7785ad406bc29",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月29日大连大豆期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/0416911653.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "b165b8c32239fed19e85bf9cc7ed4e60",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "10月29日马来西亚棕榈油11月船期FOB报价",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/5249664400.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "e44a8661421fc40bd596eabf1266df04",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月29日郑州菜油期货收盘高开收涨",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/0321797397.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "8cf73e84d0d33f834eb243f6f99e76ab",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月29日郑州菜油期货行情午报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/3537904623.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "01b2acda0296b7a24810f7afe0250a55",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "美国玉米现货价格上涨",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/4006108529.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "1b21cbd0205f30fa634a510a63a43275",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月29日大连玉米期货收盘高开收跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/0808640893.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "6951d6520bb24043774571edafa71864",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月29日大连玉米期货行情午报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/4444678667.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "f73e7700f5f4ee40ef6311119335924c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月29日大连玉米期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/1919686081.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "69be617204cfe7fd13ca524da23e3a50",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "CBOT玉米上涨，因逢低买盘活跃",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/5212239140.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "d0517afa4f0ce128cc81fc6a62107fae",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月29日大连豆粕期货低开收涨",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/0743561949.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "f3e51398de72f77a8d97ff7061de9011",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月29日郑州菜粕收盘期货低开收跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/0510482388.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "41644b297d583c996604e4308c8dbe35",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月29日郑州菜粕期货行情午报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/3614607126.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "be5174fad0f564d88a43e232da04b244",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月29日大连豆粕期货行情午报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/3435629050.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "6d7631b3687f5feca2482f1454297587",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月29日大连豆粕期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/0438289919.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "a1e0c1c0b38cf53448554883f3e5efcc",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月29日郑州菜粕期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/0146589116.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "b966e78fad97f1e6e60f1d3a8b37b08f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "CBOT豆粕大多期约收涨，基准期约收高0.3%",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/4902521271.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "82e9fc88af2ea4e134382e81e59e729c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "美国小麦全线下跌，因俄乌谈判预期与黑海放行双重施压",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/5736379281.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "d43b0aa06dfc511d025a401b2b39c2b2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "CBOT小麦跌至近四个月低点",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/5336499418.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "00aef1c5f93d6e09df2ea1a1d0a09f19",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月29日大连粳米期货收盘高开收跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/1147105309.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "55322ab60045d25a60abebc50b7ef721",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月29日大连粳米期货行情午报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/3626830348.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "bbeb9a22b038f50f4731208fde4e8346",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月29日大连粳米期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/1115727679.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "22e1981a6921070a61d3ca9b5ff20b5c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月29日大连棕榈油期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/0502420632.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "62fcba565dde8e72177983ac39a46fd0",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月29日大连棕榈油期货行情午报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/3455551882.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "16354a90d17be3e33c43a9add2e10cae",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月29日大连豆油期货行情午报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/3442786619.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "d29805b9b60a1fa1a36504ee6325dd82",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月29日大连棕榈油期货低开收跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/0800312402.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "9c80c56ac99130a759454c9bac8a18c4",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "棕榈油连续第三日下跌，因令吉汇率走强",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/0008380207.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "21f9b18e7ae127907186f15614bf9275",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "周三亚洲棕榈油现货市场企稳",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/29/4154875656.shtml",
-  "summary": "",
-  "pub_time": "2026-10-28T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "6f7a094c6d229e9e52bee1ee912e28bc",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "美国原油库存降幅超出预期",
-  "url": "",
-  "summary": "(RTTNews) - 美国能源情报署周三发布的一份报告显示，截至 10 月 23 日当周，美国原油库存下降幅度超过预期。",
-  "pub_time": "2026-10-28T14:37:53Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "8dcf6ef442be2896bc46f5f5650feab1",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "下跌",
-   "库存"
-  ],
-  "en_title": "U.S. Crude Oil Inventories Fall More Than Expected"
- },
- {
-  "title": "Mysteel日报：黑色金属期货震荡上涨",
-  "url": "https://news.mysteel.com/a/26102821/E00BF1D76E1574F4.html",
-  "summary": "",
-  "pub_time": "2026-10-28T13:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "acade907b60d231f4f6b43c3b7623222",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "山东黄金：第三季度净利润为-3.63亿元，同比下降131.58%",
-  "url": "https://news.mysteel.com/a/26102820/460E3A0348296724.html",
-  "summary": "",
-  "pub_time": "2026-10-28T12:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "0995cd7c0adfd3eb2f381b3b5cc9e7a0",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  }
 ]
