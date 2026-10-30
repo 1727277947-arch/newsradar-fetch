@@ -1,5 +1,31 @@
 [
  {
+  "title": "由于对货币紧缩和美伊僵局的担忧，黄金暴跌",
+  "url": "",
+  "summary": "(RTTNews) - 金价延续前两个交易日的下跌趋势，周五大幅下跌，因美伊和平进程陷入僵局导致原油价格上涨，增加了通胀担忧，并加剧了对美国加息的担忧。",
+  "pub_time": "2026-10-30T17:37:54Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "936d26495b3081cfa7c8685b1b620ad3",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Gold Nosedives Amid Concerns Of Monetary Tightening, U.S.-Iran Standoff"
+ },
+ {
   "title": "埃克森美孚利润翻番至154亿美元",
   "url": "",
   "summary": "埃克森美孚周五公布第三季度利润为154亿美元，是去年同期的两倍多，墨西哥湾沿岸炼油厂满负荷运转，其余为柴油价格。该公司每股收益3.72美元，调整后为4.23美元，超过了华尔街的4.08美元",
@@ -560,33 +586,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "高油价将引发北海新一波并购",
-  "url": "",
-  "summary": "分析师表示，高油价和天然气价格将推动英国北部地区的进一步整合，他们还表示，税收考虑将在刺激该地区的并购兴趣方面发挥作用。这些预期来自路透对分析师和银行家的一项民意调查，他们表示，石油",
-  "pub_time": "2026-10-30T08:45:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "70d7abaad0b4790ade9629685878e574",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价"
-  ],
-  "en_title": "High Oil Prices Set to Trigger New Wave of North Sea Mergers"
  },
  {
   "title": "随着矿床老化，关键矿物越来越难开采：安永",
@@ -3227,34 +3226,5 @@
    "原油"
   ],
   "en_title": "Crude Oil Soars Amid Reports Of Possible Large Scale U.S. Attacks On Iran"
- },
- {
-  "title": "原油价格上涨，市场等待美联储决定，金价下跌",
-  "url": "",
-  "summary": "(RTTNews) - 周三金价小幅走低，部分抵消了前两个交易日的涨幅，因投资者等待美联储的利率公告，而原油价格因供应担忧而飙升，原因是有报道称美国可能",
-  "pub_time": "2026-10-28T17:40:03Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "36c7a7c49f5c16ee5292cabaad38b67d",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "原油",
-   "价",
-   "下滑"
-  ],
-  "en_title": "Gold Slides As Markets Await Fed Decision Amid Rising Crude Oil Prices"
  }
 ]
