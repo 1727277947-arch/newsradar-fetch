@@ -1,5 +1,137 @@
 [
  {
+  "title": "Kinross Gold (KGC) 股票进入超卖区域",
+  "url": "",
+  "summary": "在周五的交易中，Kinross Gold Corp.（代码：KGC）的股票进入超卖区域，易手低至每股 19.70 美元。我们使用相对强度指数 (RSI) 定义超卖区域，这是一种用于衡量动量的技术分析指标",
+  "pub_time": "2026-10-30T20:22:14Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "591d2553d6947978334b77d95b72367f",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Kinross Gold (KGC) Shares Enter Oversold Territory"
+ },
+ {
+  "title": "惠顿贵金属 (WPM) 股价进入超卖区域",
+  "url": "",
+  "summary": "在周五的交易中，惠顿贵金属公司（代码：WPM）的股票进入超卖区域，易手低至每股 113.81 美元。我们使用相对强度指数 (RSI) 定义超卖区域，这是一种用于衡量超卖区域的技术分析指标。",
+  "pub_time": "2026-10-30T20:21:36Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "83ff4d91cff80de52a6845bf33ac57ff",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "金属",
+   "小麦"
+  ],
+  "en_title": "Wheaton Precious Metals (WPM) Shares Enter Oversold Territory"
+ },
+ {
+  "title": "ASA 任命 Vylor 为青年领袖计划官方赞助商",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-10-30T19:40:00Z",
+  "source": "Grainnet",
+  "_cat": "基本金属",
+  "dedup_key": "1b858ef7125059487e5d85e70c14ff37",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铅"
+  ],
+  "en_title": "ASA Names Vylor Official Sponsor of Young Leader Program"
+ },
+ {
+  "title": "由于美国和伊朗局势重新升级的担忧继续引发干扰担忧，原油价格飙升",
+  "url": "",
+  "summary": "(RTTNews) - 由于供应中断担忧加剧，周五原油价格从昨天的跌势中反弹，大幅上涨。在美军开始对伊朗进行计划中的短暂但猛烈的攻击之前，伊朗尚未回应美国的谈判呼吁。",
+  "pub_time": "2026-10-30T18:44:11Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "14799f0d2f6368bf6679992143b6e446",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "锡",
+   "大涨"
+  ],
+  "en_title": "Crude Oil Surges As U.S.-Iran Re-escalation Fears Continue To Drive Disruption Concerns"
+ },
+ {
+  "title": "雪佛龙利润近三倍至 99 亿美元",
+  "url": "",
+  "summary": "雪佛龙第三季度利润几乎增长了两倍，达到 99 亿美元，尽管原油加工量仅比去年同期增加了 3%，但其炼油厂承担了大部分重任。该公司周五公布每股收益 5.06 美元，高于一年前的 1.82 美元。调整后收益达到 104 亿美元，即",
+  "pub_time": "2026-10-30T18:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "09432ffc86db0d69211ebaa989a44ba2",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Chevron Profits Nearly Triple to $9.9 Billion"
+ },
+ {
   "title": "由于对货币紧缩和美伊僵局的担忧，黄金暴跌",
   "url": "",
   "summary": "(RTTNews) - 金价延续前两个交易日的下跌趋势，周五大幅下跌，因美伊和平进程陷入僵局导致原油价格上涨，增加了通胀担忧，并加剧了对美国加息的担忧。",
@@ -262,33 +394,6 @@
   "en_title": "European Gas Tops 101 Euros for First Time Since 2022"
  },
  {
-  "title": "力拓在落石后重新启动奥尤陶勒盖铜矿",
-  "url": "",
-  "summary": "力拓（ ASX ， LSE ， NYSE ： RIO ）表示，在地震事件引发岩石坠落后的一天，它正在逐步重新启动蒙古奥尤陶勒盖矿的地下作业，停止生产......在北方矿工首次出现岩石坠落后，力拓开始重新启动奥尤陶勒盖铜矿。",
-  "pub_time": "2026-10-30T14:21:17Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "035387e3a2b035dd124a8a3cf425a05b",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "下跌"
-  ],
-  "en_title": "Rio begins Oyu Tolgoi copper restart after rockfall"
- },
- {
   "title": "特朗普考虑解除对普京“洗钱基金”的制裁",
   "url": "",
   "summary": "在俄罗斯全力征服乌克兰四天后，美国政府和其他西方盟国发动了广泛的金融制裁，旨在惩罚克里姆林宫的钱包。俄罗斯中央银行是突出的。数十亿美元的主权财富",
@@ -509,35 +614,6 @@
    "黄金"
   ],
   "en_title": "Gold Edges Lower On Interest-rate Concerns"
- },
- {
-  "title": "随着供应担忧加深，华尔街银行上调油价预测",
-  "url": "",
-  "summary": "澳新银行周五表示，年底布伦特原油价格预计约为每桶 105 美元，由于假设中东石油出口、航运供应和燃料供应在 12 月份仍将受到限制，该行将其预测上调了每桶 10 美元。 “预测不需要",
-  "pub_time": "2026-10-30T10:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "65ba3f0ca31a7d951ff793ccacd8d387",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "供应",
-   "预测"
-  ],
-  "en_title": "Wall Street Banks Raise Oil Price Forecasts as Supply Fears Deepen"
  },
  {
   "title": "特朗普考虑对伊朗采取新的军事行动，油价飙升",
@@ -1404,217 +1480,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "金罗斯金矿事故导致两名工人死亡",
-  "url": "",
-  "summary": "据美国初步消息，9 月 3 日，同一承包商的两名员工在内华达州金罗斯黄金公司 (TSX: K; NYSE: KGC) 的巴尔德山金矿发生不同事故后死亡。",
-  "pub_time": "2026-10-29T20:05:38Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "75d54777e900d132ecf9ddc62198a8b2",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Two workers die after Kinross Gold accidents"
- },
- {
-  "title": "由于成本上升，阿拉莫斯推迟了岛屿金矿井建设",
-  "url": "",
-  "summary": "阿拉莫斯黄金公司（TSX：AGI；纽约证券交易所：AGI）已将 Island Gold 竖井扩建推迟了约四分之一，并表示建筑成本上升，从而推迟了产量增长的一个关键来源……由于成本上升，Alamos 推迟 Island Gold 竖井的消息首先出现在《北方矿工》上。",
-  "pub_time": "2026-10-29T20:00:55Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "b127122dc8fecbf009f9bd5c21726caa",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "上涨"
-  ],
-  "en_title": "Alamos delays Island Gold shaft as costs rise"
- },
- {
-  "title": "Skouries 困境导致黄金前景下调 18%，埃尔多拉多下跌",
-  "url": "",
-  "summary": "Eldorado Gold (TSX: ELD; NYSE: EGO) 股价下跌，此前该公司大幅下调了年度产量预期并上调了支出预期，原因是希腊 Skouries 铜金业务的运营时间超过...",
-  "pub_time": "2026-10-29T19:55:43Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "62007b4e4c606ef1a528fe804a12d36e",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "下跌",
-   "展望"
-  ],
-  "en_title": "Eldorado falls as Skouries woes cut gold outlook 18%"
- },
- {
-  "title": "科罗拉多峰会视频：Discovery 绘制了 100 万盎司的路径。一年黄金",
-  "url": "",
-  "summary": "Discovery Mining（多伦多证券交易所代码：DSV；美国场外交易代码：DSVSF）预计，凭借其新收购的基德加工基地，安省蒂明斯周边地区的黄金年产量将在五年内增加两倍以上，执行副总裁...科罗拉多州峰会后视频：Discovery 绘制了通往 100 万盎司的路线图。黄金一年首先出现",
-  "pub_time": "2026-10-29T19:50:42Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "8010d4810635c7fe7a5162beaa7acd2c",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Colorado Summit video: Discovery maps path to 1M oz. gold a year"
- },
- {
-  "title": "中国边境检查使奥尤陶勒盖出口减少70%",
-  "url": "",
-  "summary": "由于中国边境限制，力拓（NYSE、LSE、ASX：RIO）蒙古奥尤陶勒盖矿的铜精矿出口量在过去两周下降了约 70%，中国边境检查后，奥尤陶勒盖矿出口量减少了 70%。",
-  "pub_time": "2026-10-29T19:45:47Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "69796402a51cfa835a38d04b315a3c5c",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "出口"
-  ],
-  "en_title": "China border checks cut Oyu Tolgoi exports by 70%"
- },
- {
-  "title": "Apollo 概述了每年 500 万盎司白银的 Calico 计划",
-  "url": "",
-  "summary": "Apollo Silver（多伦多证券交易所股票代码：APGO；美国场外交易市场代码：APGOF）估计其位于加利福尼亚州的 Calico 项目的初始资本为 6.33 亿美元（8.883 亿加元），该项目可生产约 500 万盎司。每年白银超过...阿波罗后概述了每年 500 万盎司白银的 Calico 计划，该计划首先出现在北矿",
-  "pub_time": "2026-10-29T19:40:19Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "d69bb2ece7d475299b5511f95176ef72",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "白银"
-  ],
-  "en_title": "Apollo outlines Calico plan for 5M oz silver a year"
- },
- {
-  "title": "尽管存在政策风险，亚庇仍着眼于非洲 2B 美元的推动",
-  "url": "",
-  "summary": "Appian Capital Advisory 计划在非洲投资约 20 亿美元（28 亿加元），尽管首席执行官 Michael Scherb 警告称，不可预测的政府政策正在将矿业资本推向拉丁美洲。",
-  "pub_time": "2026-10-29T19:35:44Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "83f4aec00bb402c720451b6b6d3a15d4",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Appian eyes $2B Africa push despite policy risks"
- },
- {
-  "title": "矿业论坛视频：Sinda 目标是 2031 年开始墨西哥白银产量",
-  "url": "",
-  "summary": "Sinda（纽约证券交易所股票代码：SIND）执行主席 Daniel Muñiz Quintanilla 表示，该公司正在墨西哥准备一条 9 公里长的地下勘探坡道，力争在 2031 年首​​次生产银金。大约 1 亿美元......矿业论坛后视频：Sinda 目标是 2031 年开始墨西哥白银产量出现",
-  "pub_time": "2026-10-29T19:25:34Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "7f4d8f7ef6eedffe0d19c94ef0d41f63",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "白银",
-   "产量"
-  ],
-  "en_title": "Mining Forum video: Sinda targets 2031 start for Mexico silver output"
  },
  {
   "title": "JD Vance 推动通过外交手段结束美伊危机，原油价格下跌",
@@ -2540,32 +2405,6 @@
   "en_title": "Rio Tinto pumps $1.4 billion into lithium projects in Argentina"
  },
  {
-  "title": "力拓在阿根廷开设价值 1.4B 美元的锂项目",
-  "url": "",
-  "summary": "力拓（NYSE、LSE、ASX：RIO）在阿根廷开设了两个锂项目，总投资约 14 亿美元（20 亿加元），随着产能的增加，力拓在阿根廷开设了价值 1.4 亿美元的锂项目，该项目首先出现在《The Northern Miner》上。",
-  "pub_time": "2026-10-29T15:10:00Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "b137afd80a5a0dcdb88d623dce233ad4",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡"
-  ],
-  "en_title": "Rio opens $1.4B lithium projects in Argentina"
- },
- {
   "title": "埃尔多拉多下跌，因斯科里斯的挫折使黄金前景下调 18%",
   "url": "",
   "summary": "由于希腊 Skouries 铜金矿项目的延误，该矿商将 2026 年黄金产量预测下调了 18%，并提高了支出。",
@@ -2645,34 +2484,6 @@
    "出口"
   ],
   "en_title": "China border checks cut Oyu Tolgoi exports by 70%"
- },
- {
-  "title": "随着铜成本下降，泰克资源超出预期",
-  "url": "",
-  "summary": "泰克资源公司 (TSX: TECK.B; 纽约证券交易所代码: TECK) 超出第三季度盈利预期，因创纪录的铜价、更强劲的产量和更低的成本在计划与英美资源集团合并之前提高了回报。",
-  "pub_time": "2026-10-29T10:46:00Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "38965c8354751796fa8a9bd049def0b0",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "下跌",
-   "预测"
-  ],
-  "en_title": "Teck beats forecasts as copper costs fall"
  },
  {
   "title": "投资者寻求美国利率前景的明确性，金价下跌",
@@ -3120,111 +2931,5 @@
    "农产品"
   ],
   "en_title": "Daily Market Wire 29 October 2026"
- },
- {
-  "title": "世界银行将铜价展望上调18%",
-  "url": "",
-  "summary": "世界银行预测，由于新矿山难以跟上电网和数据中心的需求，明年铜价将保持在历史高位附近。世界银行将铜价前景上调 18% 的消息首先出现在《北方矿业报》上。",
-  "pub_time": "2026-10-28T21:15:23Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "382a7f134e5a9b9c38201cea5555aa6a",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "价",
-   "展望"
-  ],
-  "en_title": "World Bank lifts copper price outlook by 18%"
- },
- {
-  "title": "北美基金亏损现金，金价下跌吸引亚洲买家",
-  "url": "",
-  "summary": "BMO资本市场在其最新的贵金属报告中表示，随着北美投资者从黄金基金撤资，金价下跌正在推高印度金条溢价和中国交易活动。",
-  "pub_time": "2026-10-28T21:10:59Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "3d64e4a133f71c4e6474e8c447e1d7e5",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Gold dip draws Asian buyers as North American funds lose cash"
- },
- {
-  "title": "美国小麦凸显粮食援助在全球粮食安全中的作用",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-10-28T18:46:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "64815d4890fa7e3d656ff979573c3629",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "小麦"
-  ],
-  "en_title": "U.S. Wheat Highlights Role of Food Aid in Global Food Security"
- },
- {
-  "title": "有报道称美国可能对伊朗发动大规模袭击，原油价格飙升",
-  "url": "",
-  "summary": "(RTTNews) - 原油价格周三飙升，抵消了两个交易日的跌幅，因为有几份报告表明美国可能在下周对伊朗发动袭击，这可能会引起伊朗的强烈报复。战争威胁加剧了对无限期供应中断的担忧",
-  "pub_time": "2026-10-28T18:37:50Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "2d30a351160a246d0769d6f46c6c9196",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Crude Oil Soars Amid Reports Of Possible Large Scale U.S. Attacks On Iran"
  }
 ]
