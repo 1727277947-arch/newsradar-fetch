@@ -1,5 +1,31 @@
 [
  {
+  "title": "AngloGold Ashanti (AU) 股价进入超卖区域",
+  "url": "",
+  "summary": "在周五的交易中，AngloGold Ashanti plc（代码：AU）的股票进入超卖区域，换手价低至每股 78.20 美元。我们使用相对强弱指数（RSI）来定义超卖区域，这是一种用于衡量动量的技术分析指标。",
+  "pub_time": "2026-10-30T20:24:34Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "608d5bc059e31ffcaed78144f68aebf7",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "AngloGold Ashanti (AU) Shares Enter Oversold Territory"
+ },
+ {
   "title": "Kinross Gold (KGC) 股票进入超卖区域",
   "url": "",
   "summary": "在周五的交易中，Kinross Gold Corp.（代码：KGC）的股票进入超卖区域，易手低至每股 19.70 美元。我们使用相对强度指数 (RSI) 定义超卖区域，这是一种用于衡量动量的技术分析指标",
@@ -2460,32 +2486,6 @@
   "en_title": "Alamos delays Island Gold shaft as costs rise"
  },
  {
-  "title": "中国边境检查使奥尤陶勒盖出口减少70%",
-  "url": "",
-  "summary": "由于边境限制，力拓对中国的铜精矿出口两周内下降了70%。",
-  "pub_time": "2026-10-29T13:35:30Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "cfb5eaa0d0c52d4e6b0d3b099bbf9e89",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "出口"
-  ],
-  "en_title": "China border checks cut Oyu Tolgoi exports by 70%"
- },
- {
   "title": "投资者寻求美国利率前景的明确性，金价下跌",
   "url": "",
   "summary": "(RTTNews) - 周四，在美联储如普遍预期维持利率稳定，但并未透露下一步行动的具体情况后，金价跌向每盎司 4,000 美元。",
@@ -2512,32 +2512,6 @@
    "展望"
   ],
   "en_title": "Gold Slips As Investors Seek Clarity On US Rate Outlook"
- },
- {
-  "title": "美伊外交希望令油价走低",
-  "url": "",
-  "summary": "(RTTNews) - 在胡塞武装袭击沙特阿拉伯最大炼油厂以及美国原油库存下降的报道之后，油价在前一交易日飙升至六个月高点后周四走低。",
-  "pub_time": "2026-10-29T09:47:47Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "33c2b27918da0b9e41e09301bd6b6f7b",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Oil Edges Lower On US-Iran Diplomacy Hopes"
  },
  {
   "title": "每日钢市：3家钢厂涨价，期钢飘红，钢价或难持续反弹",
