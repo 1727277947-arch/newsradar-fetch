@@ -1,12 +1,12 @@
 [
  {
-  "title": "我国铼、金、镍、锆等保有资源量大幅增加",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723792.shtml",
-  "summary": "通过共伴生、低品位、难利用战略性矿产再评价，我国铼保有资源量增加超两倍，金相当于新增50个大型矿床，镍相当于新增30个大型矿床",
-  "pub_time": "2026-10-31T02:10:19Z",
+  "title": "从“经验炼钢”升级为“数据炼钢” 钢铁行业迈入高端、智能、绿色新阶段",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723817.shtml",
+  "summary": "央视网消息：记者从中国钢铁工业协会了解到，2026年前三季度，我国钢材品种结构随需求持续调整优化",
+  "pub_time": "2026-10-31T03:03:58Z",
   "source": "中国新闻网-财经",
   "_cn": true,
-  "dedup_key": "ed30e4dac517bcdb4713270b7a216bb7",
+  "dedup_key": "ff6cc9ddbcc26eacc1513fcd001ebe2a",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -19,13 +19,13 @@
   "is_elite": false
  },
  {
-  "title": "金价银价，大跌",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723790.shtml",
-  "summary": "受国际原油价格上涨、美国通胀压力加剧以及市场对美联储进一步加息的预期升温等因素影响，国际金价10月30日跌至一年来新低。截至收盘，纽商所12月交割的黄金期货价格报每盎司3898.9美元，跌幅为3.29%；12月交割的白银期价收于每盎司49.276美元，跌幅为5.93%。这是白银期货价格自2025年11月以来首次跌破每盎司50美元关口",
-  "pub_time": "2026-10-31T01:51:54Z",
+  "title": "希望的田野上机械满田“飞”科技显身手 一地多收填满金色粮仓",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723816.shtml",
+  "summary": "央视网消息：眼下，辽宁的秋粮收获已进入收尾阶段。地处辽河入海口的盘锦市是我国重要的水稻产区。近年来，当地依托独特的水土条件，不断创新种养思路，实现了稻米提质、土地增效。目前，盘锦全市百万亩水稻收割已进入最后冲刺期。2026年收成如何？",
+  "pub_time": "2026-10-31T03:02:40Z",
   "source": "中国新闻网-财经",
   "_cn": true,
-  "dedup_key": "11f95d501c13b35ade3d8b1d8aac2cf6",
+  "dedup_key": "01c95aa50e280bb221ae38bbd98d16ef",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -198,6 +198,32 @@
    "铅"
   ],
   "en_title": "ASA Names Vylor Official Sponsor of Young Leader Program"
+ },
+ {
+  "title": "Implats 工厂有五名工人死亡，但受伤人数有所下降",
+  "url": "",
+  "summary": "Impala Platinum（JSE：IMP；US-OTC：IMPUY）报告称，尽管总体受伤率较低，但截至 9 月 30 日的季度，其南非业务仍有 5 名工人死亡。发生了四起致命事件... 《北方矿工》首先报道了 Implats 工厂五名工人死亡但受伤倒地的消息。",
+  "pub_time": "2026-10-30T18:55:06Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "5db5ab7f694a9d0a4e3a6b35ea74a77a",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "下跌"
+  ],
+  "en_title": "Five workers die at Implats yet injuries fall"
  },
  {
   "title": "由于美国和伊朗局势重新升级的担忧继续引发干扰担忧，原油价格飙升",
@@ -876,6 +902,33 @@
   "en_title": "European Gas Tops 101 Euros for First Time Since 2022"
  },
  {
+  "title": "力拓在落石后重新启动奥尤陶勒盖铜矿",
+  "url": "",
+  "summary": "力拓（ ASX ， LSE ， NYSE ： RIO ）表示，在地震事件引发岩石坠落后的一天，它正在逐步重新启动蒙古奥尤陶勒盖矿的地下作业，停止生产......在北方矿工首次出现岩石坠落后，力拓开始重新启动奥尤陶勒盖铜矿。",
+  "pub_time": "2026-10-30T14:21:17Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "035387e3a2b035dd124a8a3cf425a05b",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜",
+   "下跌"
+  ],
+  "en_title": "Rio begins Oyu Tolgoi copper restart after rockfall"
+ },
+ {
   "title": "特朗普考虑解除对普京“洗钱基金”的制裁",
   "url": "",
   "summary": "在俄罗斯全力征服乌克兰四天后，美国政府和其他西方盟国发动了广泛的金融制裁，旨在惩罚克里姆林宫的钱包。俄罗斯中央银行是突出的。数十亿美元的主权财富",
@@ -950,7 +1003,7 @@
  },
  {
   "title": "钢材下游周报：多城现房销售新规落地，三大白电11月排产数据发布",
-  "url": "https://news.mysteel.com/a/26103021/C13AED8CCB550208.html",
+  "url": "https://news.mysteel.com/a/26103021/B0E51507B0FF98A4.html",
   "summary": "",
   "pub_time": "2026-10-30T13:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1075,6 +1128,31 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
+ },
+ {
+  "title": "Abenojar 为西班牙钨项目筹集 1.7 亿欧元",
+  "url": "",
+  "summary": "西班牙的 Abenojar Tungsten（伦敦证券交易所股票代码：ABT）已筹集 1.7 亿欧元（1.896 亿美元）以帮助建设其 El Moto 钨和金项目，周五加入伦敦主要市场，欧洲寻求新的... Abenojar 为西班牙钨项目筹集 1.7 亿欧元的帖子首先出现在《北方矿工》上。",
+  "pub_time": "2026-10-30T11:45:41Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "44f7dc62ec8c88f1a9c4245ccd6aed8b",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Abenojar raises €170M for Spanish tungsten project"
  },
  {
   "title": "石油市场陷入伊朗战争风险和紧急SPR发布之间",
@@ -1994,6 +2072,217 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
+ },
+ {
+  "title": "金罗斯金矿事故导致两名工人死亡",
+  "url": "",
+  "summary": "据美国初步消息，9 月 3 日，同一承包商的两名员工在内华达州金罗斯黄金公司 (TSX: K; NYSE: KGC) 的巴尔德山金矿发生不同事故后死亡。",
+  "pub_time": "2026-10-29T20:05:38Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "75d54777e900d132ecf9ddc62198a8b2",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Two workers die after Kinross Gold accidents"
+ },
+ {
+  "title": "由于成本上升，阿拉莫斯推迟了岛屿金矿井建设",
+  "url": "",
+  "summary": "阿拉莫斯黄金公司（TSX：AGI；纽约证券交易所：AGI）已将 Island Gold 竖井扩建推迟了约四分之一，并表示建筑成本上升，从而推迟了产量增长的一个关键来源……由于成本上升，Alamos 推迟 Island Gold 竖井的消息首先出现在《北方矿工》上。",
+  "pub_time": "2026-10-29T20:00:55Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "b127122dc8fecbf009f9bd5c21726caa",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "上涨"
+  ],
+  "en_title": "Alamos delays Island Gold shaft as costs rise"
+ },
+ {
+  "title": "Skouries 困境导致黄金前景下调 18%，埃尔多拉多下跌",
+  "url": "",
+  "summary": "Eldorado Gold (TSX: ELD; NYSE: EGO) 股价下跌，此前该公司大幅下调了年度产量预期并上调了支出预期，原因是希腊 Skouries 铜金业务的运营时间超过...",
+  "pub_time": "2026-10-29T19:55:43Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "62007b4e4c606ef1a528fe804a12d36e",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "下跌",
+   "展望"
+  ],
+  "en_title": "Eldorado falls as Skouries woes cut gold outlook 18%"
+ },
+ {
+  "title": "科罗拉多峰会视频：Discovery 绘制了 100 万盎司的路径。一年黄金",
+  "url": "",
+  "summary": "Discovery Mining（多伦多证券交易所代码：DSV；美国场外交易代码：DSVSF）预计，凭借其新收购的基德加工基地，安省蒂明斯周边地区的黄金年产量将在五年内增加两倍以上，执行副总裁...科罗拉多州峰会后视频：Discovery 绘制了通往 100 万盎司的路线图。黄金一年首先出现",
+  "pub_time": "2026-10-29T19:50:42Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "8010d4810635c7fe7a5162beaa7acd2c",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Colorado Summit video: Discovery maps path to 1M oz. gold a year"
+ },
+ {
+  "title": "中国边境检查使奥尤陶勒盖出口减少70%",
+  "url": "",
+  "summary": "由于中国边境限制，力拓（NYSE、LSE、ASX：RIO）蒙古奥尤陶勒盖矿的铜精矿出口量在过去两周下降了约 70%，中国边境检查后，奥尤陶勒盖矿出口量减少了 70%。",
+  "pub_time": "2026-10-29T19:45:47Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "69796402a51cfa835a38d04b315a3c5c",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "出口"
+  ],
+  "en_title": "China border checks cut Oyu Tolgoi exports by 70%"
+ },
+ {
+  "title": "Apollo 概述了每年 500 万盎司白银的 Calico 计划",
+  "url": "",
+  "summary": "Apollo Silver（多伦多证券交易所股票代码：APGO；美国场外交易市场代码：APGOF）估计其位于加利福尼亚州的 Calico 项目的初始资本为 6.33 亿美元（8.883 亿加元），该项目可生产约 500 万盎司。每年白银超过...阿波罗后概述了每年 500 万盎司白银的 Calico 计划，该计划首先出现在北矿",
+  "pub_time": "2026-10-29T19:40:19Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "d69bb2ece7d475299b5511f95176ef72",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "白银"
+  ],
+  "en_title": "Apollo outlines Calico plan for 5M oz silver a year"
+ },
+ {
+  "title": "尽管存在政策风险，亚庇仍着眼于非洲 2B 美元的推动",
+  "url": "",
+  "summary": "Appian Capital Advisory 计划在非洲投资约 20 亿美元（28 亿加元），尽管首席执行官 Michael Scherb 警告称，不可预测的政府政策正在将矿业资本推向拉丁美洲。",
+  "pub_time": "2026-10-29T19:35:44Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "83f4aec00bb402c720451b6b6d3a15d4",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Appian eyes $2B Africa push despite policy risks"
+ },
+ {
+  "title": "矿业论坛视频：Sinda 目标是 2031 年开始墨西哥白银产量",
+  "url": "",
+  "summary": "Sinda（纽约证券交易所股票代码：SIND）执行主席 Daniel Muñiz Quintanilla 表示，该公司正在墨西哥准备一条 9 公里长的地下勘探坡道，力争在 2031 年首​​次生产银金。大约 1 亿美元......矿业论坛后视频：Sinda 目标是 2031 年开始墨西哥白银产量出现",
+  "pub_time": "2026-10-29T19:25:34Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "7f4d8f7ef6eedffe0d19c94ef0d41f63",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "白银",
+   "产量"
+  ],
+  "en_title": "Mining Forum video: Sinda targets 2031 start for Mexico silver output"
  },
  {
   "title": "JD Vance 推动通过外交手段结束美伊危机，原油价格下跌",
@@ -3071,184 +3360,6 @@
   "topic": "国内/金融政策",
   "tags": [
    "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "10月29日国家再次实施调控，成品油价格适当调整",
-  "url": "https://news.mysteel.com/a/26102915/BD27B10632453650.html",
-  "summary": "",
-  "pub_time": "2026-10-29T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "1ab2538311591d171cd66f7c0c5223a4",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "商务部：2027年继续暂停白银出口配额管理，实行出口许可证管理",
-  "url": "https://news.mysteel.com/a/26102915/26571088D1BCFC47.html",
-  "summary": "",
-  "pub_time": "2026-10-29T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "cfa24da28d72d8de662ba1ecdefe3165",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "有色持仓日报：沪铝跌1.17%，东证期货减持超5.4千手空单",
-  "url": "https://news.mysteel.com/a/26102915/0A220363DE3D1684.html",
-  "summary": "",
-  "pub_time": "2026-10-29T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "8e42d1780d2540f80be1690f841bbee6",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色持仓日报：铁矿石涨2.4%，中信期货减持6千手空单",
-  "url": "https://news.mysteel.com/a/26102915/28BAF8DE6391B803.html",
-  "summary": "",
-  "pub_time": "2026-10-29T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "cfcaf63a3a74b1a0f3a4cb84986e428d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "饲料谷物焦点：预计大麦混合大年",
-  "url": "",
-  "summary": "新南威尔士州西南部与新南威尔士州北部和昆士兰州南部的对比正在将轻质大麦推向饲料市场，作为种植者和消费者的混合选择。",
-  "pub_time": "2026-10-29T06:37:35Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "97bd8ef32da998a00a9e73e8c5377080",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "谷物"
-  ],
-  "en_title": "Feedgrain Focus: Big year for barley blending expected"
- },
- {
-  "title": "欧盟石油进口账单飙升！二季度月均多花近100亿欧元",
-  "url": "https://news.mysteel.com/a/26102914/9CBD068CFB73F195.html",
-  "summary": "",
-  "pub_time": "2026-10-29T06:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "ba29ea8ea157617b13f87d841e836064",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑龙江省2027年度全国碳排放权交易市场发电、钢铁、水泥行业重点排放单位名录",
-  "url": "https://news.mysteel.com/a/26102914/CD245A9A2B8EDBAA.html",
-  "summary": "",
-  "pub_time": "2026-10-29T06:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "70e7d91445cd35a18327ffe98ee17b4e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：为何近期热卷利润快速转亏？——成本高企为主因，深度亏损短期难改",
-  "url": "https://news.mysteel.com/a/26102911/C61291043BB8DEC7.html",
-  "summary": "",
-  "pub_time": "2026-10-29T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "6e92beedae4f102324cd590fb3f6430a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "螺纹钢期货上涨，钢价跟随走强",
-  "url": "https://news.mysteel.com/a/26102911/5AD8FBE1D698B112.html",
-  "summary": "",
-  "pub_time": "2026-10-29T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "ff0a4e8bf0e32f1646c728dbef2fb5a3",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
