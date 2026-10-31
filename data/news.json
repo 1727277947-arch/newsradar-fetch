@@ -1,17 +1,61 @@
 [
  {
-  "title": "金饰克价，年内跌了近550元！大金镯子又香了→",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723926.shtml",
-  "summary": "受国际原油价格上涨、美国通胀压力加剧以及市场对美联储进一步加息的预期升温等因素影响，国际金价10月30日跌至一年来新低。截至最新收盘，COMEX黄金期货下跌3.63%，报3884.90美元/盎司；伦敦金现跌3.61%，报3875.19美元/盎司，双双跌破3900美元关口",
-  "pub_time": "2026-10-31T08:01:08Z",
+  "title": "塞内加尔削减电力成本和促进能源安全的雄心勃勃的计划",
+  "url": "",
+  "summary": "塞内加尔政府制定了雄心勃勃的能源多元化目标，计划发展该国的石油和天然气行业并提高可再生能源产能。作为 2050 年愿景计划的一部分，政府旨在通过能源多元化来降低能源成本并增强能源安全",
+  "pub_time": "2026-10-31T15:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "001aeee26f9abe33da4af0a3c17b2c39",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Senegal’s Ambitious Plan to Slash Electricity Costs and Boost Energy Security"
+ },
+ {
+  "title": "国际金价跌回一年前，发生了什么？",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724098.shtml",
+  "summary": "左雨晴 李雅祺) 国际金价、银价遭遇重挫",
+  "pub_time": "2026-10-31T14:12:16Z",
   "source": "中国新闻网-财经",
   "_cn": true,
-  "dedup_key": "962455690ea57fa5c66c7d7e25edcd3e",
+  "dedup_key": "c282836ef4cc57fffccf408f7cc9f478",
   "score": 80,
   "priority": "P1",
-  "topic": "国内/财经",
+  "topic": "国内/贸易外经",
   "tags": [
-   "财经",
+   "贸易外经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "今年前三季度 我国钢铁品种不断调整优化",
+  "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724078.shtml",
+  "summary": "记者从中国钢铁工业协会了解到，今年前三季度我国钢材品种结构随需求持续调整优化",
+  "pub_time": "2026-10-31T13:12:45Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "abb75380858998074617ec396aa93f2f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "中国新闻网-财经"
@@ -3161,86 +3205,5 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "力拓向阿根廷锂项目注资14亿美元",
-  "url": "",
-  "summary": "随着这家矿业巨头追求电池金属的雄心勃勃的增长目标，两项新业务的年产能增加了 25,000 吨。",
-  "pub_time": "2026-10-29T15:10:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "8e438ebc17966aabd399169e00169845",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡"
-  ],
-  "en_title": "Rio Tinto pumps $1.4 billion into lithium projects in Argentina"
- },
- {
-  "title": "埃尔多拉多下跌，因斯科里斯的挫折使黄金前景下调 18%",
-  "url": "",
-  "summary": "由于希腊 Skouries 铜金矿项目的延误，该矿商将 2026 年黄金产量预测下调了 18%，并提高了支出。",
-  "pub_time": "2026-10-29T14:56:43Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "ae82a1ced7771e0ce828e27e7d19fcdd",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "下跌",
-   "展望"
-  ],
-  "en_title": "Eldorado drops as Skouries setbacks cut gold outlook 18%"
- },
- {
-  "title": "由于成本上升，阿拉莫斯推迟了岛屿金矿井建设",
-  "url": "",
-  "summary": "该竖井旨在取代卡车运输，将矿石和废物提升到地面，从而使阿拉莫斯能够以更低的成本开采更多吨。",
-  "pub_time": "2026-10-29T13:40:45Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "eb376615567d6c2dcac9acc289852e98",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "上涨"
-  ],
-  "en_title": "Alamos delays Island Gold shaft as costs rise"
  }
 ]
