@@ -1,15 +1,15 @@
 {
- "checked_at": "2026-10-31T10:40:41",
+ "checked_at": "2026-10-31T18:35:54",
  "source": "origin/main",
- "data_updated_at": "2026-10-31T09:24:57",
+ "data_updated_at": "2026-10-31T18:35:53",
  "ok": false,
  "anomaly_count": 4,
  "anomalies": [
   {
-   "item": "新鲜度",
-   "evidence": "updated_at=2026-10-31T09:24:57，距今 76 分钟（盘中阈值 75 分钟）",
-   "impact": "手机端看到的是旧行情，打板进场价会失真",
-   "action": "手动触发 fetch.yml 重跑，并查看上一次 run 的失败源"
+   "item": "定时漏档",
+   "evidence": "午后板 计划 10-31 11:43，但到 12:43 仍没有任何 run（最近一次 10-31 10:40）",
+   "impact": "该场没有新数据，手机端这轮推送是旧行情（进场价可能已失效）",
+   "action": "手动触发 fetch.yml 补跑；若反复出现需降低 cron 频率或改用兜底触发"
   },
   {
    "item": "定时漏档",
@@ -19,7 +19,7 @@
   },
   {
    "item": "定时漏档",
-   "evidence": "常规档 10-30 14:00 起 90 分钟内没有任何 run（最近一次 10-30 11:58）",
+   "evidence": "常规档 10-31 14:00 起 90 分钟内没有任何 run（最近一次 10-31 10:40）",
    "impact": "这一档整体丢失，期间数据不会刷新（数据变旧）",
    "action": "手动触发 fetch.yml 补跑，并观察该时段 GitHub 队列情况"
   },
@@ -36,16 +36,9 @@
   "常规档 10-31 08:00，实际 09:21 启动（晚 81 分钟）",
   "早盘打板 计划 10-31 03:37，实际 04:36 启动（晚 60 分钟）"
  ],
- "auto_heal": "已自动触发补抓（HTTP 204）",
- "summary": "发现 4 项异常：定时漏档、新鲜度",
+ "auto_heal": null,
+ "summary": "发现 4 项异常：定时漏档",
  "history": [
-  {
-   "checked_at": "2026-09-17T15:01:43",
-   "ok": false,
-   "anomaly_count": 4,
-   "summary": "发现 4 项异常：定时漏档",
-   "data_updated_at": "2026-09-17T15:00:08"
-  },
   {
    "checked_at": "2026-09-17T17:39:27",
    "ok": false,
@@ -668,6 +661,13 @@
    "anomaly_count": 4,
    "summary": "发现 4 项异常：定时漏档、新鲜度",
    "data_updated_at": "2026-10-31T09:24:57"
+  },
+  {
+   "checked_at": "2026-10-31T18:35:54",
+   "ok": false,
+   "anomaly_count": 4,
+   "summary": "发现 4 项异常：定时漏档",
+   "data_updated_at": "2026-10-31T18:35:53"
   }
  ]
 }
