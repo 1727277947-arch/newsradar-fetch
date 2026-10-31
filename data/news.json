@@ -641,6 +641,25 @@
   "is_elite": false
  },
  {
+  "title": "Mysteel：盈利持续承压，四季度仍需守住经营底线",
+  "url": "https://news.mysteel.com/a/26103021/29D2CE5686C72988.html",
+  "summary": "",
+  "pub_time": "2026-10-30T13:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "2959bac8dae2d2e2587e6d821df472fc",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "Codelco会计丑闻声称又有八名员工",
   "url": "",
   "summary": "由于新的证据引发了对内部控制的担忧，智利的国有矿业公司面临着对有争议的产量记录的日益严格的审查。",
@@ -807,6 +826,25 @@
    "黄金"
   ],
   "en_title": "Gold Edges Lower On Interest-rate Concerns"
+ },
+ {
+  "title": "Mysteel：七日洞见——黑色金属市场一周热点回顾（10.26-10.31）",
+  "url": "https://news.mysteel.com/a/26103018/9368069B72BD5210.html",
+  "summary": "",
+  "pub_time": "2026-10-30T10:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "7ff2c02486820b150b5a90646acbb8f6",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
  },
  {
   "title": "特朗普考虑对伊朗采取新的军事行动，油价飙升",
@@ -1085,25 +1123,6 @@
   "topic": "国内/金融政策",
   "tags": [
    "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：10月钢铁行业大事记",
-  "url": "https://news.mysteel.com/a/26103014/93D2A6FE2D902C61.html",
-  "summary": "",
-  "pub_time": "2026-10-30T06:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "d7cc80de3c612ceedf2fd005cfa1141b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -3163,106 +3182,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "山东黄金上市以来首现Q3亏损，前三季净利同比降近两成",
-  "url": "https://news.mysteel.com/a/26102909/C17D09AF0FA641AF.html",
-  "summary": "",
-  "pub_time": "2026-10-29T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "668af4c16d3e82a83028c0c972ea85c2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "纽约金价28日上涨",
-  "url": "https://news.mysteel.com/a/26102909/A607144914A18978.html",
-  "summary": "",
-  "pub_time": "2026-10-29T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "02e21e772687e5ad9b41dd38b7bb9036",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "湖北省纳入2027年度全国碳排放权交易市场（发电、钢铁、水泥、铝冶炼行业）重点排放单位名录公示",
-  "url": "https://news.mysteel.com/a/26102909/EB3BFFA76516F94D.html",
-  "summary": "",
-  "pub_time": "2026-10-29T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "e204b0c597ece71fad0774eec2eb338d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色期货早报：全部上涨，多机构料螺纹钢震荡运行",
-  "url": "https://news.mysteel.com/a/26102909/C862CB3835E3AF15.html",
-  "summary": "",
-  "pub_time": "2026-10-29T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "0ce2b64e32fae2f2f2fdb3f1a4c506c1",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "每日市场快讯 2026 年 10 月 29 日",
-  "url": "",
-  "summary": "12 月软红冬麦在隔夜交易中跌至新低，玉米结束了连续四天的下跌趋势，MATIF 油菜籽上涨。",
-  "pub_time": "2026-10-29T00:28:47Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "dedde36cbafe431f39d94745750d5b00",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品"
-  ],
-  "en_title": "Daily Market Wire 29 October 2026"
  }
 ]
