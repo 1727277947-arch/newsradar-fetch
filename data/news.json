@@ -1,5 +1,30 @@
 [
  {
+  "title": "雪佛龙将勘探支出提高 50%",
+  "url": "",
+  "summary": "经过多年专注于美国墨西哥湾和二叠纪页岩盆地不断增长的勘探和生产，美国石油和天然气巨头雪佛龙重返高影响力的前沿勘探，寻求通过全球多样化的机会更新其投资组合。南美洲的探索，",
+  "pub_time": "2026-10-31T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "770b1894eb27ec27abfa145bd79bf1a3",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Chevron Raises Exploration Spending By 50%"
+ },
+ {
   "title": "寒鸦号的批准引发了有关英国能源未来的激烈争论",
   "url": "",
   "summary": "经过多年的法律斗争和政治不确定性，英国于 10 月 21 日批准了寒鸦北海气田的开发。 Jackdaw 是北海的一个大型海上天然气田，自 2025 年起由壳牌和 Equinor 的合资企业 Adura 所有。",
@@ -274,32 +299,6 @@
    "铅"
   ],
   "en_title": "ASA Names Vylor Official Sponsor of Young Leader Program"
- },
- {
-  "title": "Implats 工厂有五名工人死亡，但受伤人数有所下降",
-  "url": "",
-  "summary": "Impala Platinum（JSE：IMP；US-OTC：IMPUY）报告称，尽管总体受伤率较低，但截至 9 月 30 日的季度，其南非业务仍有 5 名工人死亡。发生了四起致命事件... 《北方矿工》首先报道了 Implats 工厂五名工人死亡但受伤倒地的消息。",
-  "pub_time": "2026-10-30T18:55:06Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "5db5ab7f694a9d0a4e3a6b35ea74a77a",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "下跌"
-  ],
-  "en_title": "Five workers die at Implats yet injuries fall"
  },
  {
   "title": "由于美国和伊朗局势重新升级的担忧继续引发干扰担忧，原油价格飙升",
@@ -978,59 +977,6 @@
   "en_title": "European Gas Tops 101 Euros for First Time Since 2022"
  },
  {
-  "title": "力拓在落石后重新启动奥尤陶勒盖铜矿",
-  "url": "",
-  "summary": "力拓（ ASX ， LSE ， NYSE ： RIO ）表示，在地震事件引发岩石坠落后的一天，它正在逐步重新启动蒙古奥尤陶勒盖矿的地下作业，停止生产......在北方矿工首次出现岩石坠落后，力拓开始重新启动奥尤陶勒盖铜矿。",
-  "pub_time": "2026-10-30T14:21:17Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "035387e3a2b035dd124a8a3cf425a05b",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "下跌"
-  ],
-  "en_title": "Rio begins Oyu Tolgoi copper restart after rockfall"
- },
- {
-  "title": "特朗普考虑解除对普京“洗钱基金”的制裁",
-  "url": "",
-  "summary": "在俄罗斯全力征服乌克兰四天后，美国政府和其他西方盟国发动了广泛的金融制裁，旨在惩罚克里姆林宫的钱包。俄罗斯中央银行是突出的。数十亿美元的主权财富",
-  "pub_time": "2026-10-30T14:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "7efbf48a7fcc974991408a1a51165234",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡"
-  ],
-  "en_title": "Trump Considers Lifting Sanctions on Putin’s ‘Slush Fund’"
- },
- {
   "title": "钢材下游周报：多城现房销售新规落地",
   "url": "https://news.mysteel.com/a/26103021/DD9560E068F8F2F7.html",
   "summary": "",
@@ -1150,31 +1096,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "Abenojar 为西班牙钨项目筹集 1.7 亿欧元",
-  "url": "",
-  "summary": "西班牙的 Abenojar Tungsten（伦敦证券交易所股票代码：ABT）已筹集 1.7 亿欧元（1.896 亿美元）以帮助建设其 El Moto 钨和金项目，周五加入伦敦主要市场，欧洲寻求新的... Abenojar 为西班牙钨项目筹集 1.7 亿欧元的帖子首先出现在《北方矿工》上。",
-  "pub_time": "2026-10-30T11:45:41Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "44f7dc62ec8c88f1a9c4245ccd6aed8b",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "Abenojar raises €170M for Spanish tungsten project"
  },
  {
   "title": "利率担忧导致金价小幅走低",
@@ -2029,43 +1950,5 @@
    "基本金属"
   ],
   "en_title": "Daily Market Wire 30 October 2026"
- },
- {
-  "title": "Mysteel早读：五大钢材品种供需双增，淡水河谷公布铁矿石产销",
-  "url": "https://news.mysteel.com/a/26103007/172105069691E9E6.html",
-  "summary": "",
-  "pub_time": "2026-10-29T23:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "ad7f2797a979523d44d464aa1eb5d114",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "大豆、稀土与乙醇：卢拉连任如何影响巴西大宗商品产业？",
-  "url": "https://news.mysteel.com/a/26103007/9D4DDBFA964C4249.html",
-  "summary": "",
-  "pub_time": "2026-10-29T23:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "a3e6d176fe3a8974836cad73987531c4",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  }
 ]
