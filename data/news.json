@@ -1,5 +1,24 @@
 [
  {
+  "title": "2026世界物联网博览会无锡启幕 聚焦AI与物联网双向融合",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724210.shtml",
+  "summary": "徐珊珊 孙权)以“万物智联·共创未来”为主题的2026世界物联网博览会，10月31日在江苏无锡启幕。活动延续人工智能与物联网双向融合主线，统筹技术展示、趋势交流、场景体验和产业对接，汇聚人工智能、物联网领域专家学者与行业领军人士，设置嘉宾致辞、重磅成果推介、主题演讲等环节",
+  "pub_time": "2026-11-01T03:26:10Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "70e5a41d9ca3bf91e2d4e630aff1ec01",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "供需失衡、成本上涨，钢铁行业低利润运行",
   "url": "https://news.mysteel.com/a/26110110/0CC744AA57AE2825.html",
   "summary": "",
@@ -131,6 +150,25 @@
    "能源"
   ],
   "en_title": "DARPA Backs Project to Measure AI Energy Use at Every Stage of the Workflow"
+ },
+ {
+  "title": "【独家】10月收涨，11月玉米还会涨嘛？",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/01/2756541315.shtml",
+  "summary": "",
+  "pub_time": "2026-10-31T16:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "f683fb22479c070da6275a0a5b1d94a3",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
  },
  {
   "title": "2026年11月1日天津豆粕价格行情",
@@ -534,25 +572,6 @@
    "中文",
    "国内",
    "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "国际金价跌回一年前，发生了什么？",
-  "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724098.shtml",
-  "summary": "左雨晴 李雅祺) 国际金价、银价遭遇重挫",
-  "pub_time": "2026-10-31T14:12:16Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "c282836ef4cc57fffccf408f7cc9f478",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
   ],
   "is_elite": false
  },
@@ -1448,25 +1467,6 @@
   "en_title": "Rio begins Oyu Tolgoi copper restart after rockfall"
  },
  {
-  "title": "钢材下游周报：多城现房销售新规落地",
-  "url": "https://news.mysteel.com/a/26103021/DD9560E068F8F2F7.html",
-  "summary": "",
-  "pub_time": "2026-10-30T13:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "93f3ee7600d486b9209cd06f9ffcde73",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "钢材下游周报：多城现房销售新规落地，三大白电11月排产数据发布",
   "url": "https://news.mysteel.com/a/26103021/B0E51507B0FF98A4.html",
   "summary": "",
@@ -1863,195 +1863,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "10月钢铁行业大事记",
-  "url": "https://news.mysteel.com/a/26103014/5892ADE6AD1D342B.html",
-  "summary": "",
-  "pub_time": "2026-10-30T06:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "bd3ddc01a1d9c8b98793b569a272d1ed",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：10月工程机械行业大事记",
-  "url": "https://news.mysteel.com/a/26103014/3B185A550D4BFC64.html",
-  "summary": "",
-  "pub_time": "2026-10-30T06:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "2a3bbde72508f90dd8daab63e93ad09a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：20家上市锂企披露三季报，赣锋锂业净利同比增195倍",
-  "url": "https://news.mysteel.com/a/26103014/C2E95546314B3517.html",
-  "summary": "",
-  "pub_time": "2026-10-30T06:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "22d073232a42a8ae0230f5adf8616296",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：单季净利最高增逾30倍，覆铜板上市公司三季度业绩全面爆发",
-  "url": "https://news.mysteel.com/a/26103014/D791D94150B89CC7.html",
-  "summary": "",
-  "pub_time": "2026-10-30T06:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "98ff329b58e7c429ce002b4be2b8da6c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "SA豁免允许在丰收期间增加储存量",
-  "url": "",
-  "summary": "南澳政府正在给予建筑豁免，以确保南澳能够储存创纪录收成的谷物，目前被认为有可能达到 14 吨。",
-  "pub_time": "2026-10-30T05:44:21Z",
-  "source": "GrainCentral",
-  "_cat": "基本金属",
-  "dedup_key": "5151ce0ae2a3fa13f31b63f6c3020214",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "SA exemptions allow storage increase during bumper harvest"
- },
- {
-  "title": "LRPB 伏击、障碍增加产量，对南部小麦有弹性",
-  "url": "",
-  "summary": "随着 LongReach Ambush 和 LongReach Hurdle 的发布，南维多利亚州的种植者有两个新的小麦品种可供考虑在 2027 年种植。",
-  "pub_time": "2026-10-30T05:00:37Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "e55c4b2f7186ad327e6acf5c48bffa7a",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "小麦"
-  ],
-  "en_title": "LRPB Ambush, Hurdle add yield, flex to southern wheat"
- },
- {
-  "title": "Mysteel：九大建筑央企前9月新签合同总额约9.5万亿元",
-  "url": "https://news.mysteel.com/a/26103013/B8EEE4318D5AF87D.html",
-  "summary": "",
-  "pub_time": "2026-10-30T05:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "7237cfbbf88e4400a073556b6c1310cd",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：20家工程机械企业公布2026前三季度业绩，近9成盈利",
-  "url": "https://news.mysteel.com/a/26103013/CE09CC6E7ABAFBD1.html",
-  "summary": "",
-  "pub_time": "2026-10-30T05:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "6ccbc6088228b6f97f5af7c442154b33",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "雨后澳大利亚东部收成消息甚少",
-  "url": "",
-  "summary": "澳大利亚东部收成的断断续续的开始意味着 GrainCorp 尚未发布其第一份收入报告，昆士兰州农民布伦丹·泰勒 (Brendan Taylor) 谈到了降雨带来的好坏参半的祝福。",
-  "pub_time": "2026-10-30T04:38:56Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "0b2c27afbda7641fcdd2fc87754d1e86",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品"
-  ],
-  "en_title": "Harvest news slim in eastern Australia after rain"
  }
 ]
