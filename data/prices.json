@@ -1,11 +1,29 @@
 {
- "updated_at": "2026-11-01T18:03:38",
+ "updated_at": "2026-11-01T18:50:50",
  "spot_meta": {
   "policy": "stale_never_fill",
   "spot_page_used": "2026-10-30",
   "note": "现货归属日见各品种 spot_as_of；缺失 None 即当日/最近已收盘昨日现货未取到，宁缺不誊旧"
  },
  "prices": [
+  {
+   "symbol": "XAU",
+   "name": "黄金",
+   "unit": "美元/盎司",
+   "quote_ccy": "USD",
+   "category": "贵金属",
+   "market": "国际",
+   "kind": "spot",
+   "spot": 3876.3999,
+   "future": null,
+   "basis": null,
+   "basis_pct": null,
+   "change": 0.0,
+   "change_pct": 0.0,
+   "trend": "flat",
+   "source": "gold-api.com(伦敦现货)",
+   "note": "伦敦现货"
+  },
   {
    "symbol": "XAG",
    "name": "白银",
@@ -6264,60 +6282,6 @@
     "tested": 60
    },
    "reason": "沪金今开849.080 vs 昨结861.900，-1.49%偏弱看空（含夜盘：夜盘开盘849.080 vs 昨结861.900）；打板分6(一般/观望)：涨-3.49%/收高0%/放量1.20x/连涨0日；预测次日开盘≈823.602，区间[821.067, 826.136]"
-  },
-  {
-   "symbol": "nf_JM0",
-   "name": "焦煤",
-   "category": "黑色系",
-   "date": "2026-10-30",
-   "today_open": 1412.5,
-   "prev_close": 1420.5,
-   "gap_pct": -0.56,
-   "session": "night",
-   "has_night": true,
-   "direction": -1,
-   "label": "做空",
-   "strength": 2,
-   "mean_gap": -0.22,
-   "std_gap": 0.76,
-   "today_close": 1408.0,
-   "pred_next_open": 1402.02,
-   "pred_low": 1396.673,
-   "pred_high": 1407.366,
-   "limit_score": 6,
-   "board": "一般/观望",
-   "limit_ru": -0.88,
-   "limit_pos": 0.18,
-   "limit_vol": 0.9,
-   "limit_streak": 0,
-   "day_ma": [
-    1419.8,
-    1460.8,
-    1493.84
-   ],
-   "day_bias": "bear",
-   "atr": 45.71,
-   "sl_long_pct": 2.59,
-   "sl_short_pct": 2.59,
-   "hit_long": 0.233,
-   "hit_short": 0.25,
-   "stop_detail_long": {
-    "atr": 45.71,
-    "k": 0.8,
-    "stop": 1375.929,
-    "stop_pct": 2.59,
-    "hit_rate": 0.233,
-    "tested": 60
-   },
-   "stop_detail_short": {
-    "atr": 45.71,
-    "k": 0.8,
-    "stop": 1449.071,
-    "stop_pct": 2.59,
-    "hit_rate": 0.25,
-    "tested": 60
-   },
-   "reason": "焦煤今开1412.5 vs 昨结1420.5，-0.56%偏弱看空（含夜盘：夜盘开盘1412.5 vs 昨结1420.5）；打板分6(一般/观望)：涨-0.88%/收高18%/放量0.90x/连涨0日；预测次日开盘≈1402.02，区间[1396.67, 1407.37]"
   },
   {
    "symbol": "nf_CU0",
