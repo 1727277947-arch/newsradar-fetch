@@ -934,6 +934,32 @@
   "en_title": "ASA Names Vylor Official Sponsor of Young Leader Program"
  },
  {
+  "title": "Implats 工厂有五名工人死亡，但受伤人数有所下降",
+  "url": "",
+  "summary": "Impala Platinum（JSE：IMP；US-OTC：IMPUY）报告称，尽管总体受伤率较低，但截至 9 月 30 日的季度，其南非业务仍有 5 名工人死亡。发生了四起致命事件... 《北方矿工》首先报道了 Implats 工厂五名工人死亡但受伤倒地的消息。",
+  "pub_time": "2026-10-30T18:55:06Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "5db5ab7f694a9d0a4e3a6b35ea74a77a",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "下跌"
+  ],
+  "en_title": "Five workers die at Implats yet injuries fall"
+ },
+ {
   "title": "由于美国和伊朗局势重新升级的担忧继续引发干扰担忧，原油价格飙升",
   "url": "",
   "summary": "(RTTNews) - 由于供应中断担忧加剧，周五原油价格从昨天的跌势中反弹，大幅上涨。在美军开始对伊朗进行计划中的短暂但猛烈的攻击之前，伊朗尚未回应美国的谈判呼吁。",
@@ -985,111 +1011,5 @@
    "能源"
   ],
   "en_title": "Chevron Profits Nearly Triple to $9.9 Billion"
- },
- {
-  "title": "由于对货币紧缩和美伊僵局的担忧，黄金暴跌",
-  "url": "",
-  "summary": "(RTTNews) - 金价延续前两个交易日的下跌趋势，周五大幅下跌，因美伊和平进程陷入僵局导致原油价格上涨，增加了通胀担忧，并加剧了对美国加息的担忧。",
-  "pub_time": "2026-10-30T17:37:54Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "936d26495b3081cfa7c8685b1b620ad3",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Gold Nosedives Amid Concerns Of Monetary Tightening, U.S.-Iran Standoff"
- },
- {
-  "title": "埃克森美孚利润翻番至154亿美元",
-  "url": "",
-  "summary": "埃克森美孚周五公布第三季度利润为154亿美元，是去年同期的两倍多，墨西哥湾沿岸炼油厂满负荷运转，其余为柴油价格。该公司每股收益3.72美元，调整后为4.23美元，超过了华尔街的4.08美元",
-  "pub_time": "2026-10-30T17:27:04Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "837e19920b39c291a68e65a897888154",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "ExxonMobil Profits Double to $15.4 Billion"
- },
- {
-  "title": "美国石油、天然气钻探公司仍处于搁置状态",
-  "url": "",
-  "summary": "根据贝克休斯周五公布的新数据，美国石油和天然气钻井平台总数本周再次保持不变，美国钻井平台总数保持在603个，比去年同期增加了57个。活跃石油钻井平台的数量增加了",
-  "pub_time": "2026-10-30T17:09:57Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "9a78900d9ab671d9261af5ee4e728684",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "天然气"
-  ],
-  "en_title": "U.S. Oil, Gas Drillers Still on Hold"
- },
- {
-  "title": "随着布伦特接近120 $ ，石油交易商为狂野的一周做好准备",
-  "url": "",
-  "summary": "对美伊重新爆发敌对行动的担忧正在加剧，霍尔木兹袭击事件不断增加，伊朗贾斯克港口据报发生爆炸，军方重新定位给外交努力蒙上阴影。2026年10月30日（星期五）距离美国中期选举只剩下几天了，油价将大幅上涨",
-  "pub_time": "2026-10-30T16:51:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "86581a0d8fd44b9c042cb7bf60587c98",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "布伦特油价",
-   "周"
-  ],
-  "en_title": "Oil Traders Brace for a Wild Week as Brent Approaches $120"
  }
 ]
