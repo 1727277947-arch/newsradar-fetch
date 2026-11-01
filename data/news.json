@@ -101,6 +101,25 @@
   "en_title": "Senegal’s Ambitious Plan to Slash Electricity Costs and Boost Energy Security"
  },
  {
+  "title": "Mysteel宏观周报：央行推出债市稳市工具，美联储维持利率不变",
+  "url": "https://news.mysteel.com/a/26103123/803F90CA1480A5A6.html",
+  "summary": "",
+  "pub_time": "2026-10-31T15:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "51d40953e8cb9062a43665d5daae8b9d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/金融政策",
+  "tags": [
+   "金融政策",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "国际金价跌回一年前，发生了什么？",
   "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724098.shtml",
   "summary": "左雨晴 李雅祺) 国际金价、银价遭遇重挫",
@@ -299,6 +318,32 @@
    "铅"
   ],
   "en_title": "ASA Names Vylor Official Sponsor of Young Leader Program"
+ },
+ {
+  "title": "Implats 工厂有五名工人死亡，但受伤人数有所下降",
+  "url": "",
+  "summary": "Impala Platinum（JSE：IMP；US-OTC：IMPUY）报告称，尽管总体受伤率较低，但截至 9 月 30 日的季度，其南非业务仍有 5 名工人死亡。发生了四起致命事件... 《北方矿工》首先报道了 Implats 工厂五名工人死亡但受伤倒地的消息。",
+  "pub_time": "2026-10-30T18:55:06Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "5db5ab7f694a9d0a4e3a6b35ea74a77a",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "下跌"
+  ],
+  "en_title": "Five workers die at Implats yet injuries fall"
  },
  {
   "title": "由于美国和伊朗局势重新升级的担忧继续引发干扰担忧，原油价格飙升",
@@ -977,6 +1022,33 @@
   "en_title": "European Gas Tops 101 Euros for First Time Since 2022"
  },
  {
+  "title": "力拓在落石后重新启动奥尤陶勒盖铜矿",
+  "url": "",
+  "summary": "力拓（ ASX ， LSE ， NYSE ： RIO ）表示，在地震事件引发岩石坠落后的一天，它正在逐步重新启动蒙古奥尤陶勒盖矿的地下作业，停止生产......在北方矿工首次出现岩石坠落后，力拓开始重新启动奥尤陶勒盖铜矿。",
+  "pub_time": "2026-10-30T14:21:17Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "035387e3a2b035dd124a8a3cf425a05b",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜",
+   "下跌"
+  ],
+  "en_title": "Rio begins Oyu Tolgoi copper restart after rockfall"
+ },
+ {
   "title": "钢材下游周报：多城现房销售新规落地",
   "url": "https://news.mysteel.com/a/26103021/DD9560E068F8F2F7.html",
   "summary": "",
@@ -1098,6 +1170,31 @@
   "is_elite": false
  },
  {
+  "title": "Abenojar 为西班牙钨项目筹集 1.7 亿欧元",
+  "url": "",
+  "summary": "西班牙的 Abenojar Tungsten（伦敦证券交易所股票代码：ABT）已筹集 1.7 亿欧元（1.896 亿美元）以帮助建设其 El Moto 钨和金项目，周五加入伦敦主要市场，欧洲寻求新的... Abenojar 为西班牙钨项目筹集 1.7 亿欧元的帖子首先出现在《北方矿工》上。",
+  "pub_time": "2026-10-30T11:45:41Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "44f7dc62ec8c88f1a9c4245ccd6aed8b",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Abenojar raises €170M for Spanish tungsten project"
+ },
+ {
   "title": "利率担忧导致金价小幅走低",
   "url": "",
   "summary": "(RTTNews) - 由于对原油价格上涨的担忧以及美联储 12 月加息的预期，黄金周五走低，并可能连续第二个月下跌。",
@@ -1173,7 +1270,7 @@
  },
  {
   "title": "Mysteel晚餐：钢厂高炉铁水产量减少，进口铁矿石港库增加",
-  "url": "https://news.mysteel.com/a/26103017/AB84266EAC5FE747.html",
+  "url": "https://news.mysteel.com/a/26103017/E346E7175C461E9C.html",
   "summary": "",
   "pub_time": "2026-10-30T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1407,13 +1504,13 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel：单季净利最高增逾30倍，覆铜板上市公司三季度业绩全面爆发",
-  "url": "https://news.mysteel.com/a/26103014/E639C4BD98F8B822.html",
+  "title": "Mysteel：20家上市锂企披露三季报，赣锋锂业净利同比增195倍",
+  "url": "https://news.mysteel.com/a/26103014/C2E95546314B3517.html",
   "summary": "",
   "pub_time": "2026-10-30T06:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "98ff329b58e7c429ce002b4be2b8da6c",
+  "dedup_key": "22d073232a42a8ae0230f5adf8616296",
   "score": 80,
   "priority": "P1",
   "topic": "国内/金融政策",
@@ -1426,13 +1523,13 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel：20家上市锂企披露三季报，赣锋锂业净利同比增195倍",
-  "url": "https://news.mysteel.com/a/26103014/C2E95546314B3517.html",
+  "title": "Mysteel：单季净利最高增逾30倍，覆铜板上市公司三季度业绩全面爆发",
+  "url": "https://news.mysteel.com/a/26103014/D791D94150B89CC7.html",
   "summary": "",
   "pub_time": "2026-10-30T06:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "22d073232a42a8ae0230f5adf8616296",
+  "dedup_key": "98ff329b58e7c429ce002b4be2b8da6c",
   "score": 80,
   "priority": "P1",
   "topic": "国内/金融政策",
@@ -1811,144 +1908,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "河源德润钢铁产能置换方案",
-  "url": "https://news.mysteel.com/a/26103008/A011FCA607C9D379.html",
-  "summary": "",
-  "pub_time": "2026-10-30T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "47c690eb6366f33f31fe10ff529d706e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "也门胡塞武装多次袭击沙特石油、民航设施及军事阵地",
-  "url": "https://news.mysteel.com/a/26103008/184005F2272B5675.html",
-  "summary": "",
-  "pub_time": "2026-10-30T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "417bd9f8604abea5af3643d5a51c960a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "10月29日SPDR黄金持仓量较前一日减少2.280吨",
-  "url": "https://news.mysteel.com/a/26103008/5AE8469143540143.html",
-  "summary": "",
-  "pub_time": "2026-10-30T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "cbca973ea52d144a1f8e0f6c08ddaeb5",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "纽约金价29日下跌",
-  "url": "https://news.mysteel.com/a/26103008/753CDA018D791350.html",
-  "summary": "",
-  "pub_time": "2026-10-30T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "c93b7fd1827c7682c0917337f1499446",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "中金黄金：第三季度净利润同比增35.39%，环比降32%",
-  "url": "https://news.mysteel.com/a/26103008/6C1CC3DC42A29437.html",
-  "summary": "",
-  "pub_time": "2026-10-30T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "6a5ce41f8301cb8947ec29ffea42baa3",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "嘉能可：第三季度黄金产量9.4万盎司",
-  "url": "https://news.mysteel.com/a/26103008/625974676BA4EA59.html",
-  "summary": "",
-  "pub_time": "2026-10-30T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "3993c49cb1573b8ccd28a16f2c5e8fc8",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "每日市场快讯 2026 年 10 月 30 日",
-  "url": "",
-  "summary": "多雨、寒冷的阿根廷等待着阳光，小麦作物正在进入抽穗期。世界小麦找到了需求。澳大利亚东南部预计将持续一周潮湿天气。",
-  "pub_time": "2026-10-29T23:55:10Z",
-  "source": "GrainCentral",
-  "_cat": "基本金属",
-  "dedup_key": "595619d0356ba4efd7c6fb2eb311b195",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Daily Market Wire 30 October 2026"
  }
 ]
