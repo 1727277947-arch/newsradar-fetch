@@ -1,13 +1,13 @@
 {
- "checked_at": "2026-11-01T10:30:48",
+ "checked_at": "2026-11-01T19:29:13",
  "source": "origin/main",
- "data_updated_at": "2026-11-01T10:03:17",
+ "data_updated_at": "2026-11-01T19:16:40",
  "ok": false,
- "anomaly_count": 5,
+ "anomaly_count": 4,
  "anomalies": [
   {
    "item": "定时漏档",
-   "evidence": "午后板 计划 10-31 11:43，但到 12:43 仍没有任何 run（最近一次 10-31 10:40）",
+   "evidence": "午后板 计划 11-01 11:43，但到 12:43 仍没有任何 run（最近一次 11-01 11:30）",
    "impact": "该场没有新数据，手机端这轮推送是旧行情（进场价可能已失效）",
    "action": "手动触发 fetch.yml 补跑；若反复出现需降低 cron 频率或改用兜底触发"
   },
@@ -25,12 +25,6 @@
   },
   {
    "item": "定时漏档",
-   "evidence": "常规档 10-31 14:00 起 90 分钟内没有任何 run（最近一次 10-31 10:40）",
-   "impact": "这一档整体丢失，期间数据不会刷新（数据变旧）",
-   "action": "手动触发 fetch.yml 补跑，并观察该时段 GitHub 队列情况"
-  },
-  {
-   "item": "定时漏档",
    "evidence": "常规档 10-31 22:00 起 90 分钟内没有任何 run（最近一次 10-31 18:20）",
    "impact": "这一档整体丢失，期间数据不会刷新（数据变旧）",
    "action": "手动触发 fetch.yml 补跑，并观察该时段 GitHub 队列情况"
@@ -41,15 +35,8 @@
   "常规档 11-01 06:00，实际 06:47 启动（晚 47 分钟）"
  ],
  "auto_heal": null,
- "summary": "发现 5 项异常：定时漏档",
+ "summary": "发现 4 项异常：定时漏档",
  "history": [
-  {
-   "checked_at": "2026-09-18T09:25:22",
-   "ok": false,
-   "anomaly_count": 5,
-   "summary": "发现 5 项异常：定时漏档、新鲜度",
-   "data_updated_at": "2026-09-18T07:54:27"
-  },
   {
    "checked_at": "2026-09-18T17:12:14",
    "ok": false,
@@ -672,6 +659,13 @@
    "anomaly_count": 5,
    "summary": "发现 5 项异常：定时漏档",
    "data_updated_at": "2026-11-01T10:03:17"
+  },
+  {
+   "checked_at": "2026-11-01T19:29:13",
+   "ok": false,
+   "anomaly_count": 4,
+   "summary": "发现 4 项异常：定时漏档",
+   "data_updated_at": "2026-11-01T19:16:40"
   }
  ]
 }
