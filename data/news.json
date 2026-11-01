@@ -1,5 +1,43 @@
 [
  {
+  "title": "大宗商品贸易如何提升国际影响力？这场大会探讨新路径",
+  "url": "https://news.mysteel.com/a/26110117/275F7DEBAB1079A9.html",
+  "summary": "",
+  "pub_time": "2026-11-01T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "1f43abf0e9bd3219ea3180af75a778d3",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "山西开行首列储备粮公铁联运班列 “门到门”助储备粮运输降本增效",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724327.shtml",
+  "summary": "范丽芳 范旭辉 田源)11月1日，记者从国铁太原局获悉，10月30日，一列满载40箱、共1280吨小麦的列车从山西大同平旺站驶向太原，打通了山西储备粮直达下游加工端的“门到门”公铁联运物流通道",
+  "pub_time": "2026-11-01T08:39:31Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "1324c2d6a6a4e275713899fc8d34df79",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "报告：中国大宗商品市场展现韧性，全年价格指数预计涨17.6%",
   "url": "https://news.mysteel.com/a/26110115/7A852EA000E4AA84.html",
   "summary": "",
@@ -31,25 +69,6 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026世界物联网博览会无锡启幕 聚焦AI与物联网双向融合",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724210.shtml",
-  "summary": "徐珊珊 孙权)以“万物智联·共创未来”为主题的2026世界物联网博览会，10月31日在江苏无锡启幕。活动延续人工智能与物联网双向融合主线，统筹技术展示、趋势交流、场景体验和产业对接，汇聚人工智能、物联网领域专家学者与行业领军人士，设置嘉宾致辞、重磅成果推介、主题演讲等环节",
-  "pub_time": "2026-11-01T03:26:10Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "70e5a41d9ca3bf91e2d4e630aff1ec01",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
    "中文",
    "国内",
    "中国新闻网-财经"
@@ -1637,72 +1656,5 @@
    "黄金"
   ],
   "en_title": "Gold Edges Lower On Interest-rate Concerns"
- },
- {
-  "title": "Mysteel：七日洞见——黑色金属市场一周热点回顾（10.26-10.31）",
-  "url": "https://news.mysteel.com/a/26103018/9368069B72BD5210.html",
-  "summary": "",
-  "pub_time": "2026-10-30T10:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "7ff2c02486820b150b5a90646acbb8f6",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "特朗普考虑对伊朗采取新的军事行动，油价飙升",
-  "url": "",
-  "summary": "(RTTNews) - 由于有迹象表明美国可能恢复对伊朗的军事打击，周五油价大幅上涨。",
-  "pub_time": "2026-10-30T09:51:58Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "a19763466fa14a20ad25625f97305a92",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "走强",
-   "大涨"
-  ],
-  "en_title": "Oil Prices Surge As Trump Weighs Fresh Military Action Against Iran"
- },
- {
-  "title": "Mysteel晚餐：钢厂高炉铁水产量减少，进口铁矿石港库增加",
-  "url": "https://news.mysteel.com/a/26103017/E346E7175C461E9C.html",
-  "summary": "",
-  "pub_time": "2026-10-30T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "39c3e91ae8fcd28f71e41b268cd86602",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  }
 ]
