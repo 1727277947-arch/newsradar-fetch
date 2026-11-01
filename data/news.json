@@ -57,13 +57,13 @@
   "is_elite": false
  },
  {
-  "title": "供需失衡、成本上涨，钢铁行业低利润运行",
-  "url": "https://news.mysteel.com/a/26110110/0CC744AA57AE2825.html",
+  "title": "10月PMI回落至49.3%，覆铜板表现亮眼",
+  "url": "https://news.mysteel.com/a/26110110/CF24945D505BBC12.html",
   "summary": "",
   "pub_time": "2026-11-01T02:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "5b020e86fd9d0408e16e8a73fc42795f",
+  "dedup_key": "5ac1ce21e30f698e02100863b9e6f1ae",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -76,13 +76,13 @@
   "is_elite": false
  },
  {
-  "title": "10月PMI回落至49.3%，覆铜板表现亮眼",
-  "url": "https://news.mysteel.com/a/26110110/CF24945D505BBC12.html",
+  "title": "供需失衡、成本上涨，钢铁行业低利润运行",
+  "url": "https://news.mysteel.com/a/26110110/E4F4978B064DF83E.html",
   "summary": "",
   "pub_time": "2026-11-01T02:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "5ac1ce21e30f698e02100863b9e6f1ae",
+  "dedup_key": "5b020e86fd9d0408e16e8a73fc42795f",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -224,101 +224,6 @@
    "中文",
    "国内",
    "粮油豆粕"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年11月1日河南开封新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/01/5154636961.shtml",
-  "summary": "",
-  "pub_time": "2026-10-31T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "d85871d2fcff324fae34de27a4192df2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年11月1日河北石家庄新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/01/5141275335.shtml",
-  "summary": "",
-  "pub_time": "2026-10-31T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "697ae739141cd0502481eb793c875f31",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年11月1日山东聊城新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/01/5130655137.shtml",
-  "summary": "",
-  "pub_time": "2026-10-31T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "c0ae0503a179171043e1210f8cb8376b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年11月1日内蒙古通辽新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/01/5116745702.shtml",
-  "summary": "",
-  "pub_time": "2026-10-31T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "88e57983643699f951d11030bb761f04",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年11月1日吉林长春新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/01/5047741338.shtml",
-  "summary": "",
-  "pub_time": "2026-10-31T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "f28f0f4defdad2bb4053f03d6751b6da",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
   ],
   "is_elite": false
  },
@@ -525,6 +430,101 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月1日河南开封新季玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/01/5154636961.shtml",
+  "summary": "",
+  "pub_time": "2026-10-31T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "edcc79abb1b4004d8a789412a9ea3836",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月1日河北石家庄新季玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/01/5141275335.shtml",
+  "summary": "",
+  "pub_time": "2026-10-31T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "9d29159c86a4bef09e863e43f4ccb1a6",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月1日山东聊城新季玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/01/5130655137.shtml",
+  "summary": "",
+  "pub_time": "2026-10-31T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "1c379ad689b29526f3ae6ac85ef14962",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月1日内蒙古通辽新季玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/01/5116745702.shtml",
+  "summary": "",
+  "pub_time": "2026-10-31T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "01975f2d9e0aa0a89d2aa682ef2e9968",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月1日吉林长春新季玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/01/5047741338.shtml",
+  "summary": "",
+  "pub_time": "2026-10-31T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "3c5980272d32bebddc1e733d39d5584f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "粮油首页"
@@ -1699,127 +1699,6 @@
   "topic": "国内/贸易外经",
   "tags": [
    "贸易外经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "随着矿床老化，关键矿物越来越难开采：安永",
-  "url": "",
-  "summary": "一项针对 400 名矿业高管的调查揭示了矿石品位下降、成本上升和融资紧缩如何威胁未来的供应。",
-  "pub_time": "2026-10-30T08:01:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "f2181fd45eabd9a68e823168304cdead",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡"
-  ],
-  "en_title": "Critical minerals getting harder to mine as deposits age: EY"
- },
- {
-  "title": "Mysteel：8家铜箔上市企业披露2026年前三季度业绩，全部盈利",
-  "url": "https://news.mysteel.com/a/26103016/675E21EA4B44AD1C.html",
-  "summary": "",
-  "pub_time": "2026-10-30T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "295597bf1e49942fdc53e7dfc171ea39",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：31家上市铝企披露前三季度业绩，超6成净利增长",
-  "url": "https://news.mysteel.com/a/26103016/0F7C3B860F208816.html",
-  "summary": "",
-  "pub_time": "2026-10-30T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "77c9bdc65220c36d06c9d91d95b194ad",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "重庆市2027年度全国碳排放权交易市场（发电、钢铁、水泥、铝冶炼行业）重点排放单位名录",
-  "url": "https://news.mysteel.com/a/26103016/9BF29B1CA079AAE8.html",
-  "summary": "",
-  "pub_time": "2026-10-30T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "69167637ba96071773fc9e83e49d4540",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "浙江省2027年度全国碳排放权交易市场发电、钢铁、水泥行业重点排放单位名录",
-  "url": "https://news.mysteel.com/a/26103016/75785775DBA99776.html",
-  "summary": "",
-  "pub_time": "2026-10-30T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "2ac7bc8a535839e57c02821736d622e7",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "宁夏2027年度全国碳排放权交易市场发电、钢铁、水泥、铝冶炼行业重点排放单位名录",
-  "url": "https://news.mysteel.com/a/26103016/7A2C41C2DFBE7DFD.html",
-  "summary": "",
-  "pub_time": "2026-10-30T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "ed56878d13d52227ab47b957f53cf322",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
