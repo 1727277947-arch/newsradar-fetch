@@ -1,5 +1,68 @@
 [
  {
+  "title": "“欧佩克+”主要产油国决定12月维持产量不变",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724524.shtml",
+  "summary": "石油输出国组织(欧佩克)11月1日发表声明说，7个“欧佩克+”主要产油国决定12月继续维持当前原油产量不变",
+  "pub_time": "2026-11-01T16:29:51Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "0337886ff1f362778bd998b97dbffcf8",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "阿塞拜疆的可再生能源繁荣正在改变其电力行业",
+  "url": "",
+  "summary": "阿塞拜疆长期以来一直被称为主要的石油和天然气大国，近年来已涉足可再生能源领域，并正在迅速提高其产能。作为COP29的东道主，阿塞拜疆政府宣布了一项雄心勃勃的气候目标，并鼓励其他政府也这样做。可再生能源贡献",
+  "pub_time": "2026-11-01T16:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "9da0554bf1d99ef678b87cc8a8c6360e",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Azerbaijan’s Renewable Energy Boom Is Transforming Its Power Sector"
+ },
+ {
+  "title": "欧佩克+七国决定将12月原油产量上限维持在现行水平",
+  "url": "https://news.mysteel.com/a/26110122/E398D5D9BB94C4E7.html",
+  "summary": "",
+  "pub_time": "2026-11-01T14:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "2fe8e83e3ba3a9e6c7e2fd314bab0476",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "胶囊胃镜、手术机器人亮相广交会 中国医疗设备加速出海",
   "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724504.shtml",
   "summary": "中新社广州11月1日电 (记者 蔡敏婕)在第140届广交会展台上，花生大小的智能胶囊胃镜吸引境外采购商注意。受检者只需咽下这颗胶囊，借助配套记录仪与手机App，屏幕上实时传回胃内清晰影像，直观展现胃部筛查过程",
@@ -1028,477 +1091,5 @@
    "周"
   ],
   "en_title": "Oil Traders Brace for a Wild Week as Brent Approaches $120"
- },
- {
-  "title": "黄金价格跌至一年低点，白银价格突破50 $ ，矿业股下跌",
-  "url": "",
-  "summary": "黄金正走向自2008年以来最糟糕的10月，周五黄金和白银生产商跌幅高达8%。",
-  "pub_time": "2026-10-30T16:31:19Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "06faf855401b2a095e18020ee72875ae",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "白银",
-   "价",
-   "库存"
-  ],
-  "en_title": "Gold price slumps to one-year low, silver price breaks $50 as mining stocks tank"
- },
- {
-  "title": "Perseus Mining为Nyanzaga黄金项目提供备用电源",
-  "url": "",
-  "summary": "随着坦桑尼亚项目的目标是2027年首次生产，一个28发电机系统旨在保持运营安全运行。",
-  "pub_time": "2026-10-30T16:22:09Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "f8e3c3c36bcd70395fb9cc7172884528",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Perseus Mining secures backup power for Nyanzaga gold project"
- },
- {
-  "title": "美国农业部宣布采购$ 4.725亿农产品，包括大米",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-10-30T16:18:00Z",
-  "source": "Grainnet",
-  "_cat": "综合",
-  "dedup_key": "dbcca56cd9b41bceb6e12373635ffc06",
-  "score": 84,
-  "priority": "P2",
-  "topic": "综合",
-  "tags": [
-   "综合",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "综合"
-  ],
-  "en_title": "USDA Announces $472.5 Million in Agricultural Commodity Purchases, Including Rice"
- },
- {
-  "title": "美国液化天然气热潮面临有史以来最大的考验",
-  "url": "",
-  "summary": "十年前，美国才刚刚开始摆脱曾经认为对进口天然气依赖性稳步上升的能源前景。多年来，普遍的担忧是国内生产将难以跟上需求的步伐，使该国越来越依赖",
-  "pub_time": "2026-10-30T16:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "58733e1cedc0d48c8c55fc7aa9403e19",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "America’s LNG Boom Faces Its Biggest Test Yet"
- },
- {
-  "title": "2026年10月31日天津豆粕价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/31/0019760336.shtml",
-  "summary": "",
-  "pub_time": "2026-10-30T16:00:00Z",
-  "source": "粮油豆粕",
-  "_cn": true,
-  "dedup_key": "4f5dd78c6bedb395a4a23597879ba30c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油豆粕"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月31日江苏省淮安新季黑脐大豆价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/31/5953782519.shtml",
-  "summary": "",
-  "pub_time": "2026-10-30T16:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "b801cdbe575765c0ffdda4e6cadbaef9",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月31日江苏省淮安新季杂花大豆价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/31/5917267019.shtml",
-  "summary": "",
-  "pub_time": "2026-10-30T16:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "e6a89ae99dc4dcc6594ce6fd43f8cb12",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月31日河南省濮阳梨园乡新季大豆价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/31/5827471651.shtml",
-  "summary": "",
-  "pub_time": "2026-10-30T16:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "0eafbc8b27ef686c7e50f9f03d600e76",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月31日安徽淮北濉溪临涣新季大豆价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/31/5812721541.shtml",
-  "summary": "",
-  "pub_time": "2026-10-30T16:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "bd2e1911a8353818e6a9ab0145ff0d65",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月31日辽宁省大连新季大豆价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/31/5759611776.shtml",
-  "summary": "",
-  "pub_time": "2026-10-30T16:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "7da850ef12d8f3b521e040408c6f4977",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月31日河南鹤壁小麦价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/31/3329775680.shtml",
-  "summary": "",
-  "pub_time": "2026-10-30T16:00:00Z",
-  "source": "粮油小麦",
-  "_cn": true,
-  "dedup_key": "d68d3a53692db01a2544cd3403ab3e28",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油小麦"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月31日河南濮阳小麦价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/31/3317118963.shtml",
-  "summary": "",
-  "pub_time": "2026-10-30T16:00:00Z",
-  "source": "粮油小麦",
-  "_cn": true,
-  "dedup_key": "056b097393b1445783d25515b5ca8f4a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油小麦"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月31日河北衡水小麦价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/31/3303842658.shtml",
-  "summary": "",
-  "pub_time": "2026-10-30T16:00:00Z",
-  "source": "粮油小麦",
-  "_cn": true,
-  "dedup_key": "62e24639e7d19cb6c44c53e17095733e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油小麦"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月31日山东枣庄小麦价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/31/3237733395.shtml",
-  "summary": "",
-  "pub_time": "2026-10-30T16:00:00Z",
-  "source": "粮油小麦",
-  "_cn": true,
-  "dedup_key": "5f65a2d4ebdfa86622377128fb309ae6",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油小麦"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月31日山东泰安小麦价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/31/3221700527.shtml",
-  "summary": "",
-  "pub_time": "2026-10-30T16:00:00Z",
-  "source": "粮油小麦",
-  "_cn": true,
-  "dedup_key": "f9e61f6eda73d1d6e3e98f2b80209cca",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油小麦"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月31日天津市场豆油价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/31/0228768243.shtml",
-  "summary": "",
-  "pub_time": "2026-10-30T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "1eddf4fa3c8d0ed7daf70e0ff0a62209",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月31日河南周口新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/31/3204228011.shtml",
-  "summary": "",
-  "pub_time": "2026-10-30T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "5cc5f0534cf578490ca7c3c23e1df0e7",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月31日河北石家庄新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/31/3144380867.shtml",
-  "summary": "",
-  "pub_time": "2026-10-30T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "b6eaf0cd6f09ce7374e492a8e2ee703f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月31日山东泰安新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/31/3125187713.shtml",
-  "summary": "",
-  "pub_time": "2026-10-30T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "5676835053e86ce4b30a24f2b6936934",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月31日内蒙古通辽新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/31/3015195193.shtml",
-  "summary": "",
-  "pub_time": "2026-10-30T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "7e6c56b9341256f4a4ad29e6daab07fb",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月31日吉林四平新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/31/3000516352.shtml",
-  "summary": "",
-  "pub_time": "2026-10-30T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "e6615571fdab7ec7a2be3330baa10517",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年10月31日黑龙江鸡西新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/10/31/2943382746.shtml",
-  "summary": "",
-  "pub_time": "2026-10-30T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "dc8be6c906732fc61371bf4f1ae2bec5",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "日本今年将超越中国成为全球最大的液化天然气进口国",
-  "url": "",
-  "summary": "ICIS和Kpler的分析师表示，预计日本今年将自2022年以来首次超过中国成为全球最大的液化天然气（ LNG ）进口国，因为中国的高液化天然气价格和充足的储存限制了购买量。日本的液化天然气需求将超过（尽管略有超过）",
-  "pub_time": "2026-10-30T15:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "2daaf6b148d9a5982ccaa8cd3d667c62",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Japan to Overtake China As World’s Top LNG Importer This Year"
  }
 ]
