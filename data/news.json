@@ -1,5 +1,43 @@
 [
  {
+  "title": "胶囊胃镜、手术机器人亮相广交会 中国医疗设备加速出海",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724504.shtml",
+  "summary": "中新社广州11月1日电 (记者 蔡敏婕)在第140届广交会展台上，花生大小的智能胶囊胃镜吸引境外采购商注意。受检者只需咽下这颗胶囊，借助配套记录仪与手机App，屏幕上实时传回胃内清晰影像，直观展现胃部筛查过程",
+  "pub_time": "2026-11-01T13:28:09Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "8bfdf4292e0cf05e7088c093711bb986",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "可信筑基、双轮向新！2026大宗商品国际化发展论坛三场平行活动举行",
+  "url": "https://news.mysteel.com/a/26110121/2A207DA768BBDAA9.html",
+  "summary": "",
+  "pub_time": "2026-11-01T13:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "a1fc49684ed0bce0efa711c816b4f916",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "钢铁智能制造相关国家标准发布 让智能体系建设有章可循",
   "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724492.shtml",
   "summary": "记者今天了解到，市场监管总局发布《智能制造 废钢智能工厂设计要求》《智能制造 钢铁智能工厂数字孪生系统技术要求》《智能制造 钢铁工业多基地制造资源协同管控系统技术要求》三项国家标准，分别锚定废钢工厂、数字孪生、多基地协同等关键环节，支撑构建钢铁先进制造技术要求体系",
@@ -833,32 +871,6 @@
   "en_title": "ASA Names Vylor Official Sponsor of Young Leader Program"
  },
  {
-  "title": "Implats 工厂有五名工人死亡，但受伤人数有所下降",
-  "url": "",
-  "summary": "Impala Platinum（JSE：IMP；US-OTC：IMPUY）报告称，尽管总体受伤率较低，但截至 9 月 30 日的季度，其南非业务仍有 5 名工人死亡。发生了四起致命事件... 《北方矿工》首先报道了 Implats 工厂五名工人死亡但受伤倒地的消息。",
-  "pub_time": "2026-10-30T18:55:06Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "5db5ab7f694a9d0a4e3a6b35ea74a77a",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "下跌"
-  ],
-  "en_title": "Five workers die at Implats yet injuries fall"
- },
- {
   "title": "由于美国和伊朗局势重新升级的担忧继续引发干扰担忧，原油价格飙升",
   "url": "",
   "summary": "(RTTNews) - 由于供应中断担忧加剧，周五原油价格从昨天的跌势中反弹，大幅上涨。在美军开始对伊朗进行计划中的短暂但猛烈的攻击之前，伊朗尚未回应美国的谈判呼吁。",
@@ -1488,58 +1500,5 @@
    "能源"
   ],
   "en_title": "Japan to Overtake China As World’s Top LNG Importer This Year"
- },
- {
-  "title": "欧洲天然气自2022年以来首次突破101欧元",
-  "url": "",
-  "summary": "欧洲基准天然气价格自2022年危机以来首次突破101欧元/兆瓦时（ MWh ） ，因为欧洲天然气储存水平处于历史低位，冬季即将到来。荷兰产权转让基金（ TTF ）的前月价格，这是欧洲天然气交易的基准，",
-  "pub_time": "2026-10-30T14:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "90198efee23c6d4b3dd54b0e82f22f24",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气"
-  ],
-  "en_title": "European Gas Tops 101 Euros for First Time Since 2022"
- },
- {
-  "title": "力拓在落石后重新启动奥尤陶勒盖铜矿",
-  "url": "",
-  "summary": "力拓（ ASX ， LSE ， NYSE ： RIO ）表示，在地震事件引发岩石坠落后的一天，它正在逐步重新启动蒙古奥尤陶勒盖矿的地下作业，停止生产......在北方矿工首次出现岩石坠落后，力拓开始重新启动奥尤陶勒盖铜矿。",
-  "pub_time": "2026-10-30T14:21:17Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "035387e3a2b035dd124a8a3cf425a05b",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "下跌"
-  ],
-  "en_title": "Rio begins Oyu Tolgoi copper restart after rockfall"
  }
 ]
