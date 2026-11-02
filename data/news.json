@@ -1,5 +1,81 @@
 [
  {
+  "title": "国际金价创一年来新低 店员“忙到没空回消息”",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724729.shtml",
+  "summary": "国际金价创一年来新低",
+  "pub_time": "2026-11-02T05:44:14Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "b9e024a24378929cbbba3e1a8208e278",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：18家上市房企披露三季报，近4成盈利",
+  "url": "https://news.mysteel.com/a/26110213/D72F0FA89FC5DE99.html",
+  "summary": "",
+  "pub_time": "2026-11-02T05:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "04e07f34c4c0cddfa197eebb82d1775e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/金融政策",
+  "tags": [
+   "金融政策",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel周报：建筑原材料价格监测（9.23-9.30）",
+  "url": "https://news.mysteel.com/a/26110213/35829A9A676CFB57.html",
+  "summary": "",
+  "pub_time": "2026-11-02T05:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "b4cc53795f0f13a0b4c83fd7e71e05d9",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "美国钢铁公司加里钢厂14号高炉西马克数字化风口监测系统成功投入运行",
+  "url": "https://news.mysteel.com/a/26110213/2479C4388ECE8E1F.html",
+  "summary": "",
+  "pub_time": "2026-11-02T05:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "9494b51b336b7945fbafcf4ab399c49b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "市场监管总局发布3项钢铁领域先进制造国家标准",
   "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724651.shtml",
   "summary": "据国家市场监督管理总局网站消息，为持续提升钢铁行业先进制造水平，市场监管总局日前发布《智能制造 废钢智能工厂设计要求》《智能制造 钢铁智能工厂数字孪生系统技术要求》《智能制造 钢铁工业多基地制造资源协同管控系统技术要求》系列国家标准。该3项标准分别锚定废钢工厂、数字孪生、多基地协同等关键环节，支撑构建钢铁先进制造技术要求体系",
@@ -134,7 +210,7 @@
  },
  {
   "title": "Mysteel：16家上市稀土企业披露前三季度业绩，超7成净利增长",
-  "url": "https://news.mysteel.com/a/26110211/3107550666A25880.html",
+  "url": "https://news.mysteel.com/a/26110211/35F42204966EB9E8.html",
   "summary": "",
   "pub_time": "2026-11-02T03:00:00Z",
   "source": "上海钢联Mysteel",
@@ -153,7 +229,7 @@
  },
  {
   "title": "Mysteel：33家上市建材企业披露三季度业绩，超四成盈利",
-  "url": "https://news.mysteel.com/a/26110211/5F476C9969729E42.html",
+  "url": "https://news.mysteel.com/a/26110211/171D87C578B4DC12.html",
   "summary": "",
   "pub_time": "2026-11-02T03:00:00Z",
   "source": "上海钢联Mysteel",
@@ -210,7 +286,7 @@
  },
  {
   "title": "Mysteel：10月以来钢厂检修信息汇总",
-  "url": "https://news.mysteel.com/a/26110210/7CE7BECF154D6C23.html",
+  "url": "https://news.mysteel.com/a/26110210/74E5F7770550E251.html",
   "summary": "",
   "pub_time": "2026-11-02T02:00:00Z",
   "source": "上海钢联Mysteel",
@@ -361,25 +437,6 @@
   "is_elite": false
  },
  {
-  "title": "111家！云南省2027年发电、硅酸盐水泥、长流程钢铁及铝冶炼行业重点排放单位名录",
-  "url": "https://news.mysteel.com/a/26110210/6323D941F361391B.html",
-  "summary": "",
-  "pub_time": "2026-11-02T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "ca3fb31ca52eaf8180343f8bc6d18a96",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel：29家上市光伏企业披露前三季度业绩，13家盈利",
   "url": "https://news.mysteel.com/a/26110210/3765B83D17CB0D68.html",
   "summary": "",
@@ -392,6 +449,25 @@
   "topic": "国内/金融政策",
   "tags": [
    "金融政策",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "111家！云南省2027年发电、硅酸盐水泥、长流程钢铁及铝冶炼行业重点排放单位名录",
+  "url": "https://news.mysteel.com/a/26110210/9C1A6406BAA88B4C.html",
+  "summary": "",
+  "pub_time": "2026-11-02T02:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "ca3fb31ca52eaf8180343f8bc6d18a96",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
