@@ -1,5 +1,31 @@
 [
  {
+  "title": "TotalEnergies 将收购马来西亚两个主要天然气田 30% 的股份",
+  "url": "",
+  "summary": "法国超级能源公司TotalEnergies周一表示，该公司已签署协议，购买马来西亚两个海上天然气田30%的经营权益，以增加对现有马来西亚液化天然气工厂的供应。根据与马来西亚国家能源公司旗下子公司 PETRONAS Carigali Sdn Bhd (PCSB) 签署的协议",
+  "pub_time": "2026-11-02T11:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "e361fd12d0b313401224825c6714c392",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气"
+  ],
+  "en_title": "TotalEnergies to Acquire 30% Stake in Two Major Malaysian Gas Fields"
+ },
+ {
   "title": "伊拉克通过土耳其的石油出口量激增至 50 万桶/日",
   "url": "",
   "summary": "随着欧佩克第二大产油国开始将巴士拉原油运往北部的管道系统，伊拉克已将通过土耳其地中海港口杰伊汉的原油出口量增加至每天 50 万桶。伊拉克自土耳其石油出口以来首次将土耳其出口量提高至 50 万桶/日",
@@ -26,6 +52,79 @@
    "出口"
   ],
   "en_title": "Iraq's Oil Exports via Turkey Surge to 500,000 Bpd"
+ },
+ {
+  "title": "Mysteel黑色金属例会：本周钢价或偏弱为主",
+  "url": "https://news.mysteel.com/a/26110218/A86945C427A62D34.html",
+  "summary": "",
+  "pub_time": "2026-11-02T10:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "b7cf7da0363cc543996ad9b1c8f54b2e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "通胀担忧缓解，金价走高",
+  "url": "",
+  "summary": "(RTTNews) - 由于美国中期选举前通胀担忧有所缓解，金价周一走高。",
+  "pub_time": "2026-11-02T09:41:49Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "ff6cb761bba1a418c331c5b389a62e4a",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Gold Edges Higher As Inflation Concerns Ease"
+ },
+ {
+  "title": "随着伊朗与卡塔尔谈判的继续，油价暴跌",
+  "url": "",
+  "summary": "(RTTNews) - 周一油价暴跌，投资者权衡有关伊朗和卡塔尔官员之间旨在结束美以对伊朗战争的持续谈判的报道，以及对美国重新对伊朗采取军事行动的担忧。",
+  "pub_time": "2026-11-02T09:27:03Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "abed9685a129dd61fdf901889ae1535b",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "锡",
+   "价"
+  ],
+  "en_title": "Oil Prices Slump As Iran-Qatar Talks Continue"
  },
  {
   "title": "从“影子价格”到定价基准 “上海价格”加速走向世界",
@@ -1533,25 +1632,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年11月2日大连玉米期货行情午报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/02/4021463231.shtml",
-  "summary": "",
-  "pub_time": "2026-11-01T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "9db5424fc6ea44b201fa4e306177ba12",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
   "title": "BAGE：截至10月28日，阿根廷大豆播种进度为2.3%",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/02/1657928482.shtml",
   "summary": "",
@@ -1939,6 +2019,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "9ab3267543a138b824fccd5341b48601",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月2日大连玉米期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/02/4021463231.shtml",
+  "summary": "",
+  "pub_time": "2026-11-01T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "9b2aa9cbb093a6419da54371a3e51f83",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
