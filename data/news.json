@@ -1,5 +1,161 @@
 [
  {
+  "title": "自愿放牧玉米可以增加干草供应，但需要仔细管理",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-11-02T21:14:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "91d03b8091288b26e0b0830e04f88de9",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "玉米"
+  ],
+  "en_title": "Grazing Volunteer Corn Can Stretch Hay Supplies, But Requires Careful Management"
+ },
+ {
+  "title": "XTGRF 的股票现已超卖",
+  "url": "",
+  "summary": "在周一的交易中，Xtra-Gold Resources Corp（代码：XTGRF）的股票进入超卖区域，易手低至每股 1.45 美元。我们使用相对强弱指数（RSI）来定义超卖区域，这是一种用于衡量超卖趋势的技术分析指标。",
+  "pub_time": "2026-11-02T21:03:19Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "9ce1094ad877ad123e8ef1a5a9a70afa",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Shares of XTGRF Now Oversold"
+ },
+ {
+  "title": "拉马科资源股票变得非常超卖",
+  "url": "",
+  "summary": "在周一的交易中，Ramaco Resources Inc（股票代码：METC）的股票进入超卖区域，换手价低至每股 6.58 美元。我们使用相对强弱指数（RSI）来定义超卖区域，这是一种用于衡量动量的技术分析指标。",
+  "pub_time": "2026-11-02T21:03:10Z",
+  "source": "Nasdaq商品",
+  "_cat": "基本金属",
+  "dedup_key": "dd10cd13dd06606fbb7af42a2ea4c9df",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡",
+   "库存"
+  ],
+  "en_title": "Ramaco Resources Stock Getting Very Oversold"
+ },
+ {
+  "title": "特朗普的万亿美元石油投资：大型石油公司的陷阱？",
+  "url": "",
+  "summary": "美国总统唐纳德·特朗普对全球石油和天然气未来的核心愿景是让尽可能多的供应来自他自称的“美洲”地区，该地区直接位于美国的势力范围内。委内瑞拉是产量增加的主要国家之一",
+  "pub_time": "2026-11-02T21:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "97c208698ab346d5130fef8cf5f90aa0",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Trump’s Trillion-Dollar Oil Play: A Trap For Big Oil?"
+ },
+ {
+  "title": "伊利诺伊州空气质量排名凸显玉米的新用途",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-11-02T20:13:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "d27556d1be088c4117e5bc99771fce67",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "玉米"
+  ],
+  "en_title": "Illinois Air Quality Ranking Highlights New Uses for Corn"
+ },
+ {
+  "title": "受制裁的伊朗油轮突破美国封锁，向中国运送货物",
+  "url": "",
+  "summary": "据伊朗反核联合组织（UANI）称，一艘载有约50万桶液化石油气的受制裁伊朗油轮突破了美国海军封锁，将货物运往中国，并称其沿途在马来西亚的一个锚地拍摄了这艘船。满载伊朗的油轮",
+  "pub_time": "2026-11-02T20:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "5ee6d91dc5538bd38470ae37ec597bac",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "回落"
+  ],
+  "en_title": "Sanctioned Iranian Tanker Slips Past U.S. Blockade, Delivers Cargo to China"
+ },
+ {
   "title": "由于对美国与伊朗可能达成的协议的希望不断上升，原油价格暴跌",
   "url": "",
   "summary": "(RTTNews) - 周一，原油价格陷入混乱，此前有媒体报道称，卡塔尔在与伊朗的谈判中提交了修改后的提案，以说服伊朗与美国达成协议。伊朗承认讨论正在进行中。",
@@ -807,34 +963,6 @@
   "en_title": "Gold Fields clears major hurdle for Quebec’s Windfall gold mine"
  },
  {
-  "title": "伊拉克通过土耳其的石油出口量激增至 50 万桶/日",
-  "url": "",
-  "summary": "随着欧佩克第二大产油国开始将巴士拉原油运往北部的管道系统，伊拉克已将通过土耳其地中海港口杰伊汉的原油出口量增加至每天 50 万桶。伊拉克自土耳其石油出口以来首次将土耳其出口量提高至 50 万桶/日",
-  "pub_time": "2026-11-02T10:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "f8cdedc92167bce728d967a12d004a97",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "大涨",
-   "出口"
-  ],
-  "en_title": "Iraq's Oil Exports via Turkey Surge to 500,000 Bpd"
- },
- {
   "title": "Mysteel黑色金属例会：本周钢价或偏弱为主",
   "url": "https://news.mysteel.com/a/26110218/A86945C427A62D34.html",
   "summary": "",
@@ -906,36 +1034,6 @@
    "价"
   ],
   "en_title": "Oil Prices Slump As Iran-Qatar Talks Continue"
- },
- {
-  "title": "高盛将 12 月布伦特原油价格预测上调至 105 美元",
-  "url": "",
-  "summary": "高盛大宗商品分析师上调了对布伦特原油的价格预测，目前预计 12 月份基准价格平均为 105 美元，明年也将保持在高位。这比高盛之前 12 月份每桶 90 美元的预测上涨了近 17%，该团队",
-  "pub_time": "2026-11-02T09:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "贵金属",
-  "dedup_key": "ae159eaf7cf2ed8fac5ba71adcd39a6a",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "原油",
-   "布伦特油价",
-   "价",
-   "预测"
-  ],
-  "en_title": "Goldman Sachs Raises December Brent Oil Price Forecast to $105"
  },
  {
   "title": "Mysteel晚餐：近期钢厂检修信息汇总",
