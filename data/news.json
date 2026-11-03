@@ -1,5 +1,32 @@
 [
  {
+  "title": "为什么油价上涨并不能解决沙特阿美最大的问题",
+  "url": "",
+  "summary": "全球最大的上市石油公司沙特阿美再次成为人们关注的焦点。该公司于 11 月 3 日发布的业绩显然为战时经济提供了令人不安的教训。是的，即使石油公司的实际经营状况恶化，它也可以实现更高的利润。价格更高",
+  "pub_time": "2026-11-03T19:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "2d78206781d9dfe0b85da93afb76a2f1",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价"
+  ],
+  "en_title": "Why Higher Oil Prices Aren't Solving Saudi Aramco's Biggest Problems"
+ },
+ {
   "title": "随着交易员关注美国中期选举和海湾和平努力，金价下跌",
   "url": "",
   "summary": "(RTTNews) - 由于投资者避免对美国公民今天在中期选举中投票进行大额押注，金价周二走低。人们还关注在美国对伊朗格什姆一号进行有限袭击时为确保中东和平所做的持续努力",
@@ -1019,33 +1046,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "随着欧洲争夺冬季供应，美国液化天然气出口接近历史新高",
-  "url": "",
-  "summary": "由于欧洲在冬季开始前需求增加，导致液化天然气价格上涨，美国液化天然气出口达到历史第二高水平。 According to LSEG data cited by Reuters, U.S. exports of liquefied gas to Europe rose by",
-  "pub_time": "2026-11-03T07:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "55fa96c6b66694df5f2ef1139b1c1c25",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "供应",
-   "出口"
-  ],
-  "en_title": "U.S. LNG Exports Near Record High as Europe Scrambles for Winter Supply"
  },
  {
   "title": "国外对华钢铁产品反倾销情况",
