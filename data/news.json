@@ -1,5 +1,108 @@
 [
  {
+  "title": "为什么向欧洲供应液化天然气有保质期",
+  "url": "",
+  "summary": "加拿大提议成为欧盟准成员，这是加拿大总理马克·卡尼和欧盟领导人在 2026 年 10 月蒙特利尔举行的加拿大-欧盟峰会上宣布的首个政治和经济伙伴关系。这种安排创造了一种多层领带，远远超出了标准领带的范围。",
+  "pub_time": "2026-11-03T21:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "f1161233bc9cb167fac5dca84b666786",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "供应"
+  ],
+  "en_title": "Why Supplying Europe With LNG Has a Best-Before Date"
+ },
+ {
+  "title": "SIU 和密苏里大学研究人员使用人工智能和无人机监测大豆干旱胁迫",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-11-03T20:16:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "ad1261e847f27f0fb843517f8c323338",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "大豆"
+  ],
+  "en_title": "SIU, Mizzou Researchers Use AI and Drones to Monitor Soybean Drought Stress"
+ },
+ {
+  "title": "I-80 Gold 的增长面临内华达州劳动力短缺",
+  "url": "",
+  "summary": "多伦多 i-80 产量维持在 40,000–50,000 盎司。展望，但表示延迟获得高品位矿石。",
+  "pub_time": "2026-11-03T20:11:00Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "618ea5b37feac0f82bd3a79bda84a765",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "I-80 Gold’s growth faces Nevada labour squeeze"
+ },
+ {
+  "title": "胡塞武装发起地面入侵沙特阿拉伯",
+  "url": "",
+  "summary": "中东地区媒体的最新报道表明，胡塞武装对沙特阿拉伯的袭击大幅升级。尽管自 9 月以来几乎每天都有无人机和导弹在沙特领土上发射，但一份新报告称，胡塞武装分子实际上正在进行地面部队入侵。在一个d",
+  "pub_time": "2026-11-03T20:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "50183b694125aac79fef39c1b3a029fb",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Houthi Fighters Launch Ground Incursions Into Saudi Arabia"
+ },
+ {
   "title": "美伊休战希望增强，原油下跌",
   "url": "",
   "summary": "(RTTNews) - 由于对美国和伊朗之间可能达成和解的预期不断上升，原油价格周二走低，加剧了昨天的暴跌。这种乐观情绪掩盖了对美国袭击格什姆岛导致局势再度升级的担忧，从而限制了跌幅",
@@ -827,33 +930,6 @@
    "黄金"
   ],
   "en_title": "Gold Edges Lower As Americans Vote In Midterms"
- },
- {
-  "title": "油价飙升，沙特阿美利润超出预期",
-  "url": "",
-  "summary": "沙特阿美公司第三季度利润超出了分析师的预期，原因是原油和燃料价格上涨抵消了资产遭受袭击造成的石油供应中断的影响。这家沙特国有石油巨头周二公布第三季度调整后净利润为 312 亿美元，高于 286 亿美元",
-  "pub_time": "2026-11-03T09:45:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "62e193f1ca727dcd63f4084ea10180c8",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价"
-  ],
-  "en_title": "Saudi Aramco Profit Beats Expectations as Oil Prices Soar"
  },
  {
   "title": "美国袭击伊朗格什姆岛油价反弹",
@@ -3042,33 +3118,6 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "Hudbay 领投 Pecoy Copper 4980 万美元投资",
-  "url": "",
-  "summary": "该投资为钻探和研究提供资金，以更好地确定矿床并评估如何回收其金属。",
-  "pub_time": "2026-11-02T15:39:07Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "cdd274862a801cf6bbd7ca54867b7430",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "铅"
-  ],
-  "en_title": "Hudbay leads $49.8M investment in Pecoy Copper"
  },
  {
   "title": "Mysteel黑色金属例会：本周钢价或偏弱为主",
