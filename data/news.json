@@ -1,5 +1,43 @@
 [
  {
+  "title": "瑞达期货：螺纹钢期价低位宽幅波动",
+  "url": "https://news.mysteel.com/a/26110310/E2AD3C12288DC6A6.html",
+  "summary": "",
+  "pub_time": "2026-11-03T02:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "1bf850e0a7b620121a372c4cb94869a4",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "瑞达期货：双焦短期震荡调整",
+  "url": "https://news.mysteel.com/a/26110310/3B9C1FAAB87C1E2C.html",
+  "summary": "",
+  "pub_time": "2026-11-03T02:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "5aec29a3e7b7bcd755391b8684ab8b0c",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "委内瑞拉最大石油交易存在疑问",
   "url": "",
   "summary": "路透社援引莫迪的话说，特朗普政府与北美蓝色能源合作伙伴之间的“世界历史上最大的石油交易”可能不会辜负炒作，因为这家以前鲜为人知的私人公司可能在开发委内瑞拉巨大的石油资源方面面临严峻挑战。",
@@ -45,6 +83,25 @@
   "is_elite": false
  },
  {
+  "title": "Mysteel周报：10大城市新房成交环比增长26.7%",
+  "url": "https://news.mysteel.com/a/26110309/3CE73622634D3EF1.html",
+  "summary": "",
+  "pub_time": "2026-11-03T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "e1da5b4965367f0118ca2833d7d95990",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "黑色期货早报：全部下跌，多机构料铁矿石震荡运行",
   "url": "https://news.mysteel.com/a/26110309/FF6157CE434E9267.html",
   "summary": "",
@@ -83,13 +140,13 @@
   "is_elite": false
  },
  {
-  "title": "广州期货：金银价格尾盘反弹",
-  "url": "https://news.mysteel.com/a/26110309/78FD694634AF99E0.html",
+  "title": "瑞达期货：硅铁2701合约弱势震荡",
+  "url": "https://news.mysteel.com/a/26110309/D851959AC882B9A8.html",
   "summary": "",
   "pub_time": "2026-11-03T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "a1a52f62cf01fd939cea00086ee694d3",
+  "dedup_key": "2dcabd969d2fb20708e6d1f95232fff7",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -102,13 +159,13 @@
   "is_elite": false
  },
  {
-  "title": "广发期货：国际油价急跌 贵金属止跌反弹",
-  "url": "https://news.mysteel.com/a/26110309/AE57D09A4DE3B48C.html",
+  "title": "中州期货：山西停产煤矿周环比减少4座，焦煤现货价格回落",
+  "url": "https://news.mysteel.com/a/26110309/601E25A4CDD19CBE.html",
   "summary": "",
   "pub_time": "2026-11-03T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "f512a3e116ec56483dec9db8d0e0f44e",
+  "dedup_key": "c425ebee8ce8cab6ee35287c4df08832",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -121,13 +178,13 @@
   "is_elite": false
  },
  {
-  "title": "一德期货：隔夜外盘贵金属多数反弹",
-  "url": "https://news.mysteel.com/a/26110309/6AECBE1864A463D5.html",
+  "title": "中州期货：铁矿成交放量，钢材震荡运行",
+  "url": "https://news.mysteel.com/a/26110309/2257DE97A789F194.html",
   "summary": "",
   "pub_time": "2026-11-03T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "442210d8a29c267f1cfb0bfe415af168",
+  "dedup_key": "79f2882396c5005f3fd76f1fdc8177e2",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -140,13 +197,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：隔夜，伦敦铂钯市场震荡走弱",
-  "url": "https://news.mysteel.com/a/26110309/DA185EFEE6F68D08.html",
+  "title": "广发期货：锰硅主力5700-5900区间震荡",
+  "url": "https://news.mysteel.com/a/26110309/DACBE395F2DC6EDB.html",
   "summary": "",
   "pub_time": "2026-11-03T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "80fe3fb5a6295ea3948c39b32cd1180e",
+  "dedup_key": "107c580f9463137895a7ff224d478fae",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -159,13 +216,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：黄金中期压力依旧明显",
-  "url": "https://news.mysteel.com/a/26110309/E3BBEB21A7C7CDC1.html",
+  "title": "广发期货：焦煤延续震荡偏弱",
+  "url": "https://news.mysteel.com/a/26110309/E05F8E6EC3823DC7.html",
   "summary": "",
   "pub_time": "2026-11-03T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "4f0d8d91079d3a03cf4d81d5be3a5274",
+  "dedup_key": "2255cceb9c2f8eb6e90a4143b72b37e4",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -2266,25 +2323,6 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel：10月份9个钢铁项目开工、投产",
-  "url": "https://news.mysteel.com/a/26110214/F6812A698BA116BD.html",
-  "summary": "",
-  "pub_time": "2026-11-02T06:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "34103f1afd043bcd8b5372eb6542c4f7",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel月报：机械行业月报（2026-10）",
   "url": "https://news.mysteel.com/a/26110214/BB2B433317E90B34.html",
   "summary": "",
@@ -2608,101 +2646,6 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：螺纹钢期价或陷低位区间整理",
-  "url": "https://news.mysteel.com/a/26110210/44F436D52057F39F.html",
-  "summary": "",
-  "pub_time": "2026-11-02T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "844baebcf9fa8505584cc91fb1da78e6",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "瑞达期货：热卷期价或低位区间整理",
-  "url": "https://news.mysteel.com/a/26110210/8F30C5D7969B3C8C.html",
-  "summary": "",
-  "pub_time": "2026-11-02T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "777e03dd11fbf8affa886e30fa31746d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "瑞达期货：铁矿石期价延续区间整理",
-  "url": "https://news.mysteel.com/a/26110210/273439A7B6371FF0.html",
-  "summary": "",
-  "pub_time": "2026-11-02T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "8f22963073d61903e28835dbfd4449d4",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "瑞达期货：硅铁2701合约震荡运行",
-  "url": "https://news.mysteel.com/a/26110210/AB255D9A115735AC.html",
-  "summary": "",
-  "pub_time": "2026-11-02T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "b85d77fcb0645a8227aef2b04dbdc64b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "瑞达期货：焦炭整体库存小幅抬升，但处同期低位",
-  "url": "https://news.mysteel.com/a/26110210/4E282A016D404B82.html",
-  "summary": "",
-  "pub_time": "2026-11-02T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "110a9d25ce9030daefa2ba856c8d51da",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel：2026年10月汽车行业大事记",
   "url": "https://news.mysteel.com/a/26110210/E715359A8E5AEF75.html",
   "summary": "",
@@ -2922,25 +2865,6 @@
    "基本金属"
   ],
   "en_title": "Families buy Qld’s Bon Eden, three of four Vater farms in SA"
- },
- {
-  "title": "Mysteel早读：金融管理部门今日将召开会议，汪建华展望11月钢价",
-  "url": "https://news.mysteel.com/a/26110207/5CD7603D0C6EBDE0.html",
-  "summary": "",
-  "pub_time": "2026-11-01T23:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "61101f2bfbcc8e3c5fb02e76534603de",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  },
  {
   "title": "全球资源紧缩预示着市场转变：报告",
@@ -3329,25 +3253,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年11月2日大连豆油期货行情午报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/02/3438802932.shtml",
-  "summary": "",
-  "pub_time": "2026-11-01T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "7e33a4171538a5d3ca05358422fe02a8",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年11月2日郑州菜油期货行情午报",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/02/3338282342.shtml",
   "summary": "",
@@ -3576,13 +3481,13 @@
   "is_elite": false
  },
  {
-  "title": "欧佩克+七国决定将12月原油产量上限维持在现行水平",
-  "url": "https://news.mysteel.com/a/26110122/29B5539ACA2E0370.html",
+  "title": "2026年11月2日大连豆油期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/02/3438802932.shtml",
   "summary": "",
-  "pub_time": "2026-11-01T14:00:00Z",
-  "source": "上海钢联Mysteel",
+  "pub_time": "2026-11-01T16:00:00Z",
+  "source": "粮油首页",
   "_cn": true,
-  "dedup_key": "2fe8e83e3ba3a9e6c7e2fd314bab0476",
+  "dedup_key": "7e33a4171538a5d3ca05358422fe02a8",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -3590,18 +3495,18 @@
    "大宗商品",
    "中文",
    "国内",
-   "上海钢联Mysteel"
+   "粮油首页"
   ],
   "is_elite": false
  },
  {
-  "title": "我国铼、金、镍、锆等保有资源量大幅增加",
-  "url": "https://news.mysteel.com/a/26110110/DC695F281E9A71BC.html",
+  "title": "欧佩克+七国决定将12月原油产量上限维持在现行水平",
+  "url": "https://news.mysteel.com/a/26110122/29B5539ACA2E0370.html",
   "summary": "",
-  "pub_time": "2026-11-01T02:00:00Z",
+  "pub_time": "2026-11-01T14:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "e285c404952cfb877870690bd40baf81",
+  "dedup_key": "2fe8e83e3ba3a9e6c7e2fd314bab0476",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
