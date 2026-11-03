@@ -1,7 +1,7 @@
 {
- "checked_at": "2026-11-03T11:59:47",
+ "checked_at": "2026-11-03T20:21:26",
  "source": "origin/main",
- "data_updated_at": "2026-11-03T11:18:01",
+ "data_updated_at": "2026-11-03T19:55:40",
  "ok": false,
  "anomaly_count": 5,
  "anomalies": [
@@ -37,18 +37,12 @@
   }
  ],
  "notes": [
-  "常规档 11-03 06:00，实际 07:21 启动（晚 82 分钟）"
+  "常规档 11-03 06:00，实际 07:21 启动（晚 82 分钟）",
+  "常规档 11-03 18:00，实际 19:18 启动（晚 78 分钟）"
  ],
  "auto_heal": null,
  "summary": "发现 5 项异常：定时漏档",
  "history": [
-  {
-   "checked_at": "2026-09-20T09:32:41",
-   "ok": false,
-   "anomaly_count": 6,
-   "summary": "发现 6 项异常：定时漏档、新鲜度",
-   "data_updated_at": "2026-09-20T07:53:49"
-  },
   {
    "checked_at": "2026-09-20T17:27:16",
    "ok": false,
@@ -671,6 +665,13 @@
    "anomaly_count": 5,
    "summary": "发现 5 项异常：定时漏档",
    "data_updated_at": "2026-11-03T11:18:01"
+  },
+  {
+   "checked_at": "2026-11-03T20:21:26",
+   "ok": false,
+   "anomaly_count": 5,
+   "summary": "发现 5 项异常：定时漏档",
+   "data_updated_at": "2026-11-03T19:55:40"
   }
  ]
 }
