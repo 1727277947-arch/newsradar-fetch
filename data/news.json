@@ -1,36 +1,122 @@
 [
  {
-  "title": "大连商品交易所三个塑料月均价期货上市一年运行平稳",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725512.shtml",
-  "summary": "记者 杨毅)大连商品交易所3日发布消息称，作为我国商品期货市场首批月均价期货和大商所首批现金交割品种，线型低密度聚乙烯、聚氯乙烯、聚丙烯月均价期货(以下简称“三个塑料月均价期货”)上市至今已满一年，运行平稳，市场功能初步显现",
-  "pub_time": "2026-11-03T11:28:09Z",
+  "title": "印度炼油商 BPCL 购买美国 WTI 原油货物",
+  "url": "",
+  "summary": "贸易消息人士周二告诉路透，印度最大的国有炼油厂之一巴拉特石油公司 (BPCL) 已购买 100 万桶美国西德克萨斯中质原油，因为印度希望采购更便宜的货物，因为运费从今年创下的历史高位回落。",
+  "pub_time": "2026-11-03T13:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "912faba2250e334f65d49701fa7f6d0e",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "WTI油价"
+  ],
+  "en_title": "Indian Refiner BPCL Buys U.S. WTI Crude Oil Cargo"
+ },
+ {
+  "title": "Sunshine Silver 使工厂产能翻倍",
+  "url": "",
+  "summary": "Sunshine Silver Mining & Refining（纽约证券交易所股票代码：SSMR）正在设计一家工厂，其产能大约是其最初采矿计划中假设产能的两倍，在目标确定后寻求扩大产量的空间。",
+  "pub_time": "2026-11-03T13:00:00Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "64e48fd743e4378e101675d4ba30ab43",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "白银"
+  ],
+  "en_title": "Sunshine Silver weighs doubling mill capacity"
+ },
+ {
+  "title": "标准即将做出锂投资决定",
+  "url": "",
+  "summary": "开发商Standard Lithium（TSXV，NYSE-A：SLI）计划对其资本支出达14.5亿美元的阿肯色州西南部（SWA）项目做出年底投资决定，该项目将成为第一个大型锂生产基地...Standard即将做出锂投资决定的消息首先出现在The Northe上",
+  "pub_time": "2026-11-03T12:45:08Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "a17566cd0bbbbc42a33c7330f61ef7a1",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Standard nears lithium investment decision"
+ },
+ {
+  "title": "ADNOC天然气公司将根据五年协议向TotalEnergies供应液化天然气",
+  "url": "",
+  "summary": "根据阿布扎比国家能源公司天然气部门与法国超级能源公司周二宣布的协议，阿布扎比国家石油公司天然气公司将在未来五年内向 TotalEnergies 供应多达 160 万吨液化天然气。 TotalEnergies 表示，首批液化天然气最早将于今年开始交付。",
+  "pub_time": "2026-11-03T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "f2ffa43637e2a7a54df90480e9c8fb5c",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气",
+   "供应"
+  ],
+  "en_title": "ADNOC Gas to Supply LNG to TotalEnergies Under Five-Year Deal"
+ },
+ {
+  "title": "世界黄金协会：2026年初至今全球央行累计购金同比增6%",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725541.shtml",
+  "summary": "中新社上海11月3日电 (高志苗)世界黄金协会3日发布的2026年三季度《全球黄金需求趋势报告》显示，三季度全球黄金总需求为1369吨，同比下降1%。本季度黄金均价为每盎司4262美元，按金额计算的黄金需求总值同比增长22%，达1880亿美元",
+  "pub_time": "2026-11-03T11:58:03Z",
   "source": "中国新闻网-财经",
   "_cn": true,
-  "dedup_key": "4b258777f12ee29fc5255d286ee6e785",
+  "dedup_key": "d3b15e3b582da0a202bd1365db425c6d",
   "score": 80,
   "priority": "P1",
   "topic": "国内/金融政策",
   "tags": [
    "金融政策",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
-  "title": "世界黄金协会：今年第三季度全球黄金总需求同比下降1%",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725472.shtml",
-  "summary": "记者 宋宇晟)世界黄金协会3日发布的2026年三季度《全球黄金需求趋势》报告显示，三季度全球黄金总需求为1369吨，同比下降1%。本季度黄金均价为4262美元/盎司，按金额计算的黄金需求总值同比增长22%，达1880亿美元",
-  "pub_time": "2026-11-03T10:13:19Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "0ad579f9a3a811e3cef45c194ea3472e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "中国新闻网-财经"
@@ -1580,33 +1666,6 @@
    "锡"
   ],
   "en_title": "5V Celebrates Ribbon Cutting at New Dalhart Facility"
- },
- {
-  "title": "TotalEnergies 现在预计石油需求将在 2035 年至 2040 年间达到顶峰",
-  "url": "",
-  "summary": "TotalEnergies 预测石油需求将持续增长至 2040 年，一年后将其峰值提前至 2035 年至 2040 年，并表示伊朗战争可能会加速能源转型。该公司周一发布的年度能源展望预计对石油产品的需求",
-  "pub_time": "2026-11-02T17:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "c90fdd3de5c28aa3111e11f79b81f1fc",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "需求"
-  ],
-  "en_title": "TotalEnergies Now Sees Oil Demand Peaking Between 2035 and 2040"
  },
  {
   "title": "分析师最爱：AngloGold Ashanti 被评为首选金属",
