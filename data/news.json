@@ -1,5 +1,33 @@
 [
  {
+  "title": "美国打击伊朗的报道后油价反弹",
+  "url": "",
+  "summary": "继昨天下跌 7% 后，在《华尔街日报》报道美国袭击伊朗格什姆岛后，今天早些时候原油价格小幅上涨。 《华尔街日报》援引 unnam 报道后，截至撰写本文时，布伦特原油交易价格为每桶 105.26 美元，西德克萨斯中质原油交易价格为每桶 97.07 美元",
+  "pub_time": "2026-11-03T05:25:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "f2388a9339a06c754c4b3c0da3a94797",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "罢工"
+  ],
+  "en_title": "Oil Prices Bounce Back Following Reports of U.S. Strikes on Iran"
+ },
+ {
   "title": "Mysteel午报：钢价局部下跌，黑色期货飘绿",
   "url": "https://news.mysteel.com/a/26110311/0F665E8DE80E4289.html",
   "summary": "",
@@ -58,7 +86,7 @@
  },
  {
   "title": "Mysteel：23家上市电池企业披露2026年前三季度业绩，17家盈利",
-  "url": "https://news.mysteel.com/a/26110310/7AA4CCE77E8FE8F0.html",
+  "url": "https://news.mysteel.com/a/26110310/6FBC43A9B56C1C92.html",
   "summary": "",
   "pub_time": "2026-11-03T02:00:00Z",
   "source": "上海钢联Mysteel",
@@ -77,7 +105,7 @@
  },
  {
   "title": "Mysteel：6家钢结构上市企业披露前三季度业绩，4家盈利",
-  "url": "https://news.mysteel.com/a/26110310/465992D8F7F4EBC0.html",
+  "url": "https://news.mysteel.com/a/26110310/C2D478E673AD25F4.html",
   "summary": "",
   "pub_time": "2026-11-03T02:00:00Z",
   "source": "上海钢联Mysteel",
@@ -595,6 +623,60 @@
   "en_title": "BOM weekly rainfall update 2 November 2026 + outlook"
  },
  {
+  "title": "安大略省快速推进 Mayfair 的 Fenn-Gib 黄金项目",
+  "url": "",
+  "summary": "安大略省已将 Mayfair Gold（TSXV：MFG；NYSE-A：MINE）的 Fenn-Gib 黄金项目纳入其加速许可计划，使蒂明斯附近的拟议开发项目成为该省 One 项目下的第四个项目。",
+  "pub_time": "2026-11-02T21:45:40Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "62ae2bb776f340f58ce6089cd3f61989",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Ontario fast-tracks Mayfair’s Fenn-Gib gold project"
+ },
+ {
+  "title": "Gold Fields 清除了 Windfall 环境障碍",
+  "url": "",
+  "summary": "Gold Fields（纽约证券交易所股票代码：GFI；JSE：GFI）已获得魁北克省对其 Windfall 黄金项目的主要环境批准，为在准备最终投资时重启地下开发扫清道路...",
+  "pub_time": "2026-11-02T21:30:00Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "16ea93f4898a52b28e03e6051f447540",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "生铁",
+   "下跌"
+  ],
+  "en_title": "Gold Fields clears Windfall environmental hurdle"
+ },
+ {
   "title": "自愿放牧玉米可以增加干草供应，但需要仔细管理",
   "url": "",
   "summary": "",
@@ -807,6 +889,36 @@
   "en_title": "Crude Oil Nosedives Amid Rising Hopes On Possible U.S.-Iran Deal"
  },
  {
+  "title": "随着价格预测上调，智利铜前景恶化",
+  "url": "",
+  "summary": "由于矿山难以恢复产量损失，智利铜委员会下调了全球最大生产国的产量预测，并将 2027 年价格预期上调了 17%。 Cochilco上调...随着价格预测上调，智利铜前景恶化，首先出现在《北方矿商》上。",
+  "pub_time": "2026-11-02T19:19:18Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "44c41299653ad178831c530944eaf8ba",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜",
+   "价",
+   "上涨",
+   "预测",
+   "展望"
+  ],
+  "en_title": "Chile copper outlook worsens as price forecast rises"
+ },
+ {
   "title": "50 年前的微塑料警告再次困扰整个行业",
   "url": "",
   "summary": "1973年6月，在围绕理查德·尼克松总统爆发的水门丑闻的听证会上，来自田纳西州的共和党参议员霍华德·贝克说出了他整个职业生涯中最著名的一句话：“总统知道什么？他什么时候知道的？”事实证明，尼克松很早就知道很多事情，",
@@ -830,6 +942,33 @@
    "基本金属"
   ],
   "en_title": "The 50-Year-Old Microplastics Warning That Has Come Back to Haunt the Industry"
+ },
+ {
+  "title": "减产后西红湖寻求更便宜的 9500 万美元债务",
+  "url": "",
+  "summary": "西红湖金矿公司（TSXV：WRLG；美国场外交易代码：WRLGF）已同意提供高达 9500 万美元（1.328 亿加元）的贷款条款，以降低借贷成本并支持其安大略省……《北方矿业》首先报道了西红湖在减产后寻求更便宜的 9500 万美元债务。",
+  "pub_time": "2026-11-02T18:42:45Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "75b52185e23213cf3b29369ed00166ab",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "产量",
+   "减产"
+  ],
+  "en_title": "West Red Lake seeks cheaper $95M debt following output cut"
  },
  {
   "title": "自伊朗战争爆发以来，世界上最大的矿业公司损失了 7120 亿美元",
@@ -988,6 +1127,33 @@
    "价"
   ],
   "en_title": "Oil Prices Plunge 7% as U.S. and Iran Signal Room for Diplomacy"
+ },
+ {
+  "title": "Hudbay 领投 Pecoy Copper 4980 万美元投资",
+  "url": "",
+  "summary": "加拿大勘探公司 Pecoy Copper（TSXV：PCU；US-OTC：PCUUF）同意从 Hudbay Minerals（TSX、NYSE：HBM）和另一位投资者筹集 4,980 万美元（3,570 万美元），用于资助钻探和技术研究……Hudbay 牵头对 Pecoy Copper 进行 4,980 万美元投资的文章首先出现在《The Northern Miner》上",
+  "pub_time": "2026-11-02T16:35:56Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "a173f20e553ea360f3ad95e00b4ba3b4",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜",
+   "铅"
+  ],
+  "en_title": "Hudbay leads $49.8M investment in Pecoy Copper"
  },
  {
   "title": "美国支持的财团提议耗资 44 亿美元在巴基斯坦建设液化天然气接收站",
@@ -1717,18 +1883,18 @@
   "en_title": "Ukraine Has Hit Three Russian Refineries Since Friday"
  },
  {
-  "title": "巴西数据中心繁荣面临 14 吉瓦的现实检验",
+  "title": "由于坡道下沉，奋进号停止了布基纳法索的地下开采",
   "url": "",
-  "summary": "随着选举尘埃落定，总统任期再延长四年，新当选的国会将于二月上任，巴西的数据中心政策现在取决于执行，需要议会和行政部门之间的密切协调。大多数清洁技术政策都可以通过",
-  "pub_time": "2026-11-02T15:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "73f66572c3ff00202fdcf3ed9bf01305",
+  "summary": "Endeavor Mining (TSX, LSE: EDV) 在布基纳法索的 Mana 金矿部分道路下沉后暂停了地下开采，这给已经开展的作业带来了又一个挫折……《北方矿工》首先出现了坡道下沉，Endeavour 使布基纳法索金矿停止地下开采。",
+  "pub_time": "2026-11-02T15:22:18Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "3b94cfd7ee09832d94110a61791de9c3",
   "score": 84,
   "priority": "P2",
-  "topic": "基本金属",
+  "topic": "贵金属",
   "tags": [
-   "基本金属",
+   "贵金属",
    "大宗商品",
    "国外",
    "中文翻译",
@@ -1737,9 +1903,10 @@
   ],
   "is_elite": false,
   "keywords": [
-   "基本金属"
+   "贵金属",
+   "黄金"
   ],
-  "en_title": "Brazil's Data Center Boom Faces a 14-GW Reality Check"
+  "en_title": "Endeavour halts Burkina gold underground as ramp sinks"
  },
  {
   "title": "由于坡道下沉，奋进号停止了布基纳法索的地下开采",
@@ -3332,25 +3499,6 @@
    "中文",
    "国内",
    "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "欧佩克+七国决定将12月原油产量上限维持在现行水平",
-  "url": "https://news.mysteel.com/a/26110122/29B5539ACA2E0370.html",
-  "summary": "",
-  "pub_time": "2026-11-01T14:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "2fe8e83e3ba3a9e6c7e2fd314bab0476",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
   ],
   "is_elite": false
  }
