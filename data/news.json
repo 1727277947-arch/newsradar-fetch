@@ -1,5 +1,30 @@
 [
  {
+  "title": "霍尔木兹危机期间卡塔尔成为美国液化天然气最大买家",
+  "url": "",
+  "summary": "在一场非同寻常的事件中，伊朗战争前全球第二大液化天然气出口国卡塔尔将成为美国液化天然气的最大买家，美国在本世纪初取代海湾国家成为最大液化天然气出口国。这非同寻常的事变",
+  "pub_time": "2026-11-04T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "f924d7c23e2cc677a49b2c13f7263f7d",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Qatar Becomes Largest Buyer of U.S. LNG Amid Hormuz Crisis"
+ },
+ {
   "title": "Ferroglobe 股票变得非常超卖",
   "url": "",
   "summary": "在周三的交易中，Ferroglobe PLC（代码：GSM）的股票进入超卖区域，换手价低至每股 2.94 美元。我们使用相对强弱指数（RSI）来定义超卖区域，这是一种技术分析指标，用于衡量超卖动量",
@@ -709,63 +734,6 @@
    "原油"
   ],
   "en_title": "Democrats Win Texas Oil Regulator Seat for First Time Since 1990"
- },
- {
-  "title": "交易员等待特朗普在伊朗问题上的下一步行动，欧洲天然气价格下跌 2%",
-  "url": "",
-  "summary": "周三凌晨，欧洲基准天然气价格下跌，交易员为美国总统唐纳德·特朗普在周二中期选举中失去共和党对国会两院的控制权后伊朗接下来将发生的情况做好准备。荷兰产权转让处的前月价格",
-  "pub_time": "2026-11-04T13:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "81af033f87e10a54c980117590b9daab",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气",
-   "价",
-   "下跌"
-  ],
-  "en_title": "European Gas Prices Fall 2% as Traders Wait on Trump’s Next Move in Iran"
- },
- {
-  "title": "尼日利亚石油和天然气产量增至 304 万桶/日",
-  "url": "",
-  "summary": "尼日利亚国有石油和天然气公司在本周最新的月度报告中表示，随着部分油田恢复生产，该公司9月份的石油和天然气产量较一个月前提高。 NNPC油气总产量升至304万桶油当量/日（b）",
-  "pub_time": "2026-11-04T12:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "9b0f3570fcbb082f33c4d2f6e068f7cc",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "天然气",
-   "上涨",
-   "产量"
-  ],
-  "en_title": "Nigeria's Oil and Gas Output Rises to 3.04 Million Boepd"
  },
  {
   "title": "资源审查视频：纽芬兰和拉布拉多瞄准采矿障碍",
@@ -3250,33 +3218,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "BOM 2026 年 11 月 2 日每周降雨量更新 + 展望",
-  "url": "",
-  "summary": "从本周到今天，收割区的降雨量有所减少，预计未来一周降雨主要集中在澳大利亚北部和非耕地地区。",
-  "pub_time": "2026-11-02T21:52:51Z",
-  "source": "GrainCentral",
-  "_cat": "基本金属",
-  "dedup_key": "e7879a37e67f69ac07723031fdd05081",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "下跌",
-   "周",
-   "展望"
-  ],
-  "en_title": "BOM weekly rainfall update 2 November 2026 + outlook"
  }
 ]
