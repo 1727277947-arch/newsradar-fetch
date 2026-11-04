@@ -1,5 +1,56 @@
 [
  {
+  "title": "密歇根州立大学研究发现玉米粒重量在干燥期间保持稳定",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-11-04T20:03:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "9ca27fe4dc77827adfdf5c4bf61ba97d",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "玉米"
+  ],
+  "en_title": "MSU Study Finds Corn Kernel Weight Remains Stable During Dry Down"
+ },
+ {
+  "title": "阿联酋考虑第三条霍尔木兹海峡旁路管道计划",
+  "url": "",
+  "summary": "阿拉伯联合酋长国目前运营着一条绕过霍尔木兹海峡的原油出口管道，并于今年早些时候宣布正在建设第二条。据报道，第三条管道正在计划进一步扩大原油产能，并改变霍尔木兹周围的能源流向，从而减少暴露",
+  "pub_time": "2026-11-04T20:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "e5267dc060c8917e8c48ab24a8df4510",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "UAE Weighs Plans for Third Strait of Hormuz Bypass Pipeline"
+ },
+ {
   "title": "共和党输掉美国中期选举后，战争担忧消退，原油价格暴跌",
   "url": "",
   "summary": "(RTTNews) - 继前两个交易日的下跌之后，周三原油价格大幅下跌，失去了地缘政治风险溢价，因为民主党在美国中期选举中轻松获胜，缓解了人们对美伊关系再度升级的担忧。",
@@ -653,32 +704,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "伊朗称四艘油轮在霍尔木兹海峡附近被水雷摧毁",
-  "url": "",
-  "summary": "伊朗伊斯兰革命卫队（ IRGC ）周三表示，在伊朗禁止航行的霍尔木兹海峡以南地区，四艘油轮在击中海军水雷后被摧毁，因为该地区对船只的袭击加剧，而原油流量已从",
-  "pub_time": "2026-11-04T10:15:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "9bc0d767eb8784a6855dd4630175814c",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Iran Says Four Oil Tankers Destroyed by Mines Near Strait of Hormuz"
  },
  {
   "title": "每日钢市：期钢翻红，铁矿石上涨，钢价能否反弹？",
