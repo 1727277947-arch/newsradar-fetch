@@ -2,14 +2,15 @@
 """daily_health.py - 「心得」打板数据每日体检（只读，不改交易逻辑）
 
 检查 6 项：
-  1 新鲜度        prices.json 的 updated_at 距当前北京时间；盘中(08:00-23:00) >75 分钟、非盘中 >240 分钟 异常
+  1 新鲜度        prices.json 的 updated_at 距当前北京时间；盘中(08:00-23:00) >150 分钟、非盘中 >240 分钟 异常
   2 晨/午板自洽   ruleset3 起只有单向 plan：做多 entry>=price 且 sl<entry<tp；做空 entry<=price 且 tp<entry<sl；anchor == price；
                   回踩档 entry_alt 落在当日 [day_low, day_high]；午板在数据时间 <11:00 时为空属正常
   3 候选项要精    hf_picks 只含最精的一级（全部无 day_conflict；全带冲突时只保留一条）；条数 <= 5
   4 午板换标的    hf_pool 里存在与晨板不同品种时，afternoon_pick 不应与 daily_pick 同品种
   5 跨源冲突标注  cross_source_dev_pct > 2 的品种，其 pick 必须带「数据源冲突」前缀且 day_ma 为 null；
                   每行 basis 应约等于 (spot - last_settle)，误差 < 0.51
-  6 定时漏档      对照 fetch.yml 的 cron 计划，查最近 24 小时的 workflow run：漏档，或比计划晚 30 分钟以上
+  6 定时漏档      对照 fetch.yml 的 cron 计划，查最近 24 小时的 workflow run；晚 30 分钟以上只提示，
+                  单档漏跑由后续成功 run/数据新鲜度兜底，连续漏档、失败 run 或长期未更新才报异常
 
 输出：
   data/health.json   最新报告 + 历史（供手机端/仓库查看）
@@ -47,9 +48,9 @@ PLANNED_SLOTS = [
     "11:43", "12:00", "12:13", "14:00", "18:00", "20:00", "20:23", "20:53", "22:00",
 ]
 
-FRESH_LIMIT_TRADING = 75      # 分钟
+FRESH_LIMIT_TRADING = 150     # 分钟；覆盖 2 小时间隔及 GitHub 常见排队延迟
 FRESH_LIMIT_IDLE = 240        # 分钟
-SLOT_TOLERANCE = 30           # 分钟
+QUOTE_LIVE_MAX_AGE = 20       # 只允许用 20 分钟内的同一时点快照对比新浪实时价
 SPOT_DEV_LIMIT = 2.0          # cross_source_dev_pct 阈值
 BASIS_TOLERANCE = 0.51
 EPS = 0.011                   # 浮点比较容差
@@ -70,6 +71,14 @@ def parse_cn(text):
         except ValueError:
             continue
     return None
+
+
+def snapshot_age_minutes(data, now):
+    """返回行情快照距 now 的分钟数；时间缺失或不可解析时返回 None。"""
+    updated = parse_cn(data.get("updated_at"))
+    if updated is None:
+        return None
+    return (now - updated).total_seconds() / 60.0
 
 
 def load_prices(path, from_origin=False):
@@ -111,12 +120,11 @@ def anomaly(item, evidence, impact, action):
 
 
 def check_freshness(data, now):
-    updated = parse_cn(data.get("updated_at"))
-    if updated is None:
+    age = snapshot_age_minutes(data, now)
+    if age is None:
         return [anomaly("新鲜度", "prices.json 没有可解析的 updated_at",
                         "无法判断行情是否为最新，重算档位会落空",
                         "检查 fetch.yml 最近一次 run 是否失败")]
-    age = (now - updated).total_seconds() / 60.0
     trading = 8 <= now.hour < 23
     limit = FRESH_LIMIT_TRADING if trading else FRESH_LIMIT_IDLE
     if age > limit:
@@ -294,7 +302,7 @@ def check_afternoon_switch(data):
     return []
 
 
-def check_quote_truth(data, row_index):
+def check_quote_truth(data, row_index, now=None):
     """外部核验：拿「同一合约」的新浪报价复核我们发出去的现价与昨结算。
 
     这是本项目最容易出错的地方——历史上出过：
@@ -331,6 +339,11 @@ def check_quote_truth(data, row_index):
                 "按交易所规格改正 CONTRACT_MULT",
             ))
     # ---- 2) 逐合约向新浪复核现价与昨结算 ----
+    # 现价是运行时数据，不能拿几十分钟前甚至几小时前的快照来对。否则正常的
+    # 盘中波动会被当成“绑定错合约”。合约乘数/保证金检查仍在上面始终执行。
+    age = snapshot_age_minutes(data, now or now_cn())
+    if age is None or age > QUOTE_LIVE_MAX_AGE:
+        return issues
     targets = []
     for r in rows:
         c = r.get("quote_contract")
@@ -444,17 +457,17 @@ def check_cross_source(data, row_index):
     return issues
 
 
-# 主推档（错过=手机端该场推送没有新数据）与常规更新档（错过=数据变旧，由「新鲜度」兜底）
+# 主推档标签用于报告；单次未命中不直接报错，避免 GitHub 排队/丢一档造成每日噪音。
 PRIMARY_GROUPS = [
     ("早盘打板", "03:37"),
     ("午后板", "11:43"),
     ("晚盘打板", "20:23"),
 ]
-REGULAR_SLOTS = ["00:07", "02:00", "06:00", "08:00", "10:00", "14:00", "18:00", "22:00"]
-PRIMARY_DEADLINE_MIN = 60   # 主推档起 60 分钟内必须有 run（含 04:00/04:12 等兜底档）
-PRIMARY_NOTE_MIN = 30       # 30~60 分钟属于 GitHub 排队延迟，只提示
-REGULAR_DEADLINE_MIN = 90   # 常规档 90 分钟内要有 run
-REGULAR_NOTE_MIN = 45
+PRIMARY_SLOTS = {slot for _, slot in PRIMARY_GROUPS}
+SCHEDULE_MATCH_WINDOW_MIN = 180  # 排队超过常见 56~78 分钟的延迟后仍可归属到原计划档
+SCHEDULE_NOTE_MIN = 30
+SCHEDULE_MISS_SLOT_LIMIT = 3     # 连续 3 个计划触发点都无成功 run，才升级为异常
+FAILED_RUN_CONCLUSIONS = {"failure", "timed_out", "startup_failure", "cancelled", "action_required"}
 
 
 def _slot_time(now, slot, day_offset):
@@ -464,8 +477,13 @@ def _slot_time(now, slot, day_offset):
     )
 
 
-def check_schedule(now, api_json=None):
-    """对照 cron 计划，检查最近 24 小时是否漏档/明显延误。"""
+def check_schedule(now, api_json=None, data_updated_at=None):
+    """检查最近 24 小时的失败 run、延误和连续漏档。
+
+    GitHub 的 schedule 本来就可能晚启动几十分钟，偶尔也会丢一个触发点。
+    因此晚启动只提示；未命中的单档由后续成功 run 和 prices.json 的 updated_at
+    兜底，只有连续多个计划点都没有成功 run 才升级为异常。
+    """
     if api_json is None:
         try:
             api_json = http_json(
@@ -484,7 +502,7 @@ def check_schedule(now, api_json=None):
     for run in (api_json.get("workflow_runs") or []):
         stamp = run.get("run_started_at") or run.get("created_at")
         started = parse_iso_utc(stamp)
-        if started is not None:
+        if started is not None and started <= now:
             runs.append((started, run.get("conclusion"), run.get("html_url")))
     if not runs:
         return [anomaly("定时漏档", "最近没有任何 fetch.yml run 记录",
@@ -494,60 +512,96 @@ def check_schedule(now, api_json=None):
     issues = []
     notes = []
     window_start = now - timedelta(hours=24)
+    successes = [r for r in runs if r[1] == "success"]
+    failed = [r for r in runs if r[1] in FAILED_RUN_CONCLUSIONS]
+    latest_success = max(successes, key=lambda r: r[0]) if successes else None
 
-    def upcoming(slot_time, minutes, exclude_after=None):
-        hits = [r for r in runs if slot_time <= r[0] <= slot_time + timedelta(minutes=minutes)]
-        return min(hits, key=lambda r: r[0]) if hits else None
+    # 失败后已经成功恢复的旧 run 不重复报；最后一次成功之后仍有失败，才是现实中尚未恢复的故障。
+    unresolved_failed = [
+        r for r in failed
+        if latest_success is None or r[0] > latest_success[0]
+    ]
+    if unresolved_failed:
+        last = max(unresolved_failed, key=lambda r: r[0])
+        issues.append(anomaly(
+            "抓取失败",
+            "最近一次成功 run 之后仍有失败：%s 启动，conclusion=%s"
+            % (last[0].strftime("%m-%d %H:%M"), last[1]),
+            "该次抓取没有产出新数据；若没有后续成功 run，手机端会继续使用旧行情",
+            "查看该 run 日志并手动重跑 fetch.yml；成功后本项会自然恢复",
+        ))
 
-    def last_before(slot_time):
-        earlier = [r for r in runs if r[0] < slot_time]
-        return max(earlier, key=lambda r: r[0]) if earlier else None
-
-    for label, slot in PRIMARY_GROUPS:
+    entries = []
+    for slot in PLANNED_SLOTS:
         for day_offset in (1, 0):
             plan = _slot_time(now, slot, day_offset)
             if plan < window_start or plan > now:
                 continue
-            hit = upcoming(plan, PRIMARY_DEADLINE_MIN)
-            if hit is None:
-                prev = last_before(plan)
-                issues.append(anomaly(
-                    "定时漏档",
-                    "%s 计划 %s，但到 %s 仍没有任何 run（最近一次 %s）"
-                    % (label, plan.strftime("%m-%d %H:%M"),
-                       (plan + timedelta(minutes=PRIMARY_DEADLINE_MIN)).strftime("%H:%M"),
-                       prev[0].strftime("%m-%d %H:%M") if prev else "无记录"),
-                    "该场没有新数据，手机端这轮推送是旧行情（进场价可能已失效）",
-                    "手动触发 fetch.yml 补跑；若反复出现需降低 cron 频率或改用兜底触发",
-                ))
-            else:
-                delay = (hit[0] - plan).total_seconds() / 60.0
-                if delay > PRIMARY_NOTE_MIN:
-                    notes.append("%s 计划 %s，实际 %s 启动（晚 %.0f 分钟）"
-                                 % (label, plan.strftime("%m-%d %H:%M"),
-                                    hit[0].strftime("%H:%M"), delay))
+            label = next((name for name, primary_slot in PRIMARY_GROUPS if primary_slot == slot),
+                         "常规档")
+            entries.append((plan, label))
+    entries.sort()
 
-    for slot in REGULAR_SLOTS:
-        for day_offset in (1, 0):
-            plan = _slot_time(now, slot, day_offset)
-            if plan < window_start or plan > now:
-                continue
-            hit = upcoming(plan, REGULAR_DEADLINE_MIN)
-            if hit is None:
-                prev = last_before(plan)
-                issues.append(anomaly(
-                    "定时漏档",
-                    "常规档 %s 起 %d 分钟内没有任何 run（最近一次 %s）"
-                    % (plan.strftime("%m-%d %H:%M"), REGULAR_DEADLINE_MIN,
-                       prev[0].strftime("%m-%d %H:%M") if prev else "无记录"),
-                    "这一档整体丢失，期间数据不会刷新（数据变旧）",
-                    "手动触发 fetch.yml 补跑，并观察该时段 GitHub 队列情况",
-                ))
-            else:
-                delay = (hit[0] - plan).total_seconds() / 60.0
-                if delay > REGULAR_NOTE_MIN:
-                    notes.append("常规档 %s，实际 %s 启动（晚 %.0f 分钟）"
-                                 % (plan.strftime("%m-%d %H:%M"), hit[0].strftime("%H:%M"), delay))
+    # 一次成功 run 只能归属一个计划点，且优先归属最近的前序档。
+    # 否则一个晚启动 run 会同时“命中”03:37/04:00/04:12 等多个计划点，
+    # 在长时间完全没运行时反而掩盖连续漏档。
+    plan_hits = {}
+    unassigned = list(range(len(entries)))
+    for run in sorted(successes, key=lambda r: r[0]):
+        candidates = [
+            idx for idx in unassigned
+            if entries[idx][0] <= run[0]
+            <= entries[idx][0] + timedelta(minutes=SCHEDULE_MATCH_WINDOW_MIN)
+        ]
+        if not candidates:
+            continue
+        chosen = max(candidates, key=lambda idx: entries[idx][0])
+        plan_hits[chosen] = run
+        unassigned.remove(chosen)
+
+    outcomes = []
+    for idx, (plan, label) in enumerate(entries):
+        hit = plan_hits.get(idx)
+        if hit is None:
+            deadline = plan + timedelta(minutes=SCHEDULE_MATCH_WINDOW_MIN)
+            outcomes.append((plan, label, None, "pending" if deadline > now else "miss"))
+            continue
+        delay = (hit[0] - plan).total_seconds() / 60.0
+        outcomes.append((plan, label, hit, "hit"))
+        if delay > SCHEDULE_NOTE_MIN:
+            notes.append(
+                "%s 计划 %s，实际 %s 启动（晚 %.0f 分钟；该延迟仅提示，不计漏档）"
+                % (label, plan.strftime("%m-%d %H:%M"), hit[0].strftime("%H:%M"), delay)
+            )
+
+    # 只把连续未命中升级为异常；中间只要有一个成功 run，就说明队列/数据仍有推进。
+    miss_groups = []
+    current = []
+    for outcome in outcomes + [(None, "", None, "break")]:
+        if outcome[3] == "miss":
+            current.append(outcome[:2])
+            continue
+        if len(current) >= SCHEDULE_MISS_SLOT_LIMIT:
+            miss_groups.append(current)
+        elif current:
+            notes.append(
+                "单次计划未命中：%s；由后续成功 run/数据新鲜度兜底，本轮不单独报错"
+                % "、".join(plan.strftime("%m-%d %H:%M") for plan, _ in current)
+            )
+        current = []
+
+    for group in miss_groups:
+        first = group[0][0]
+        last = group[-1][0]
+        labels = sorted({label for _, label in group})
+        issues.append(anomaly(
+            "连续漏档",
+            "%s 至 %s 连续 %d 个计划触发点均无成功 run（%s；data updated_at=%s）"
+            % (first.strftime("%m-%d %H:%M"), last.strftime("%m-%d %H:%M"), len(group),
+               "、".join(labels), data_updated_at or "未知"),
+            "连续多个触发点消失，数据无法按时刷新，手机端可能持续看到旧行情",
+            "手动触发 fetch.yml 补跑，并检查该时段 GitHub Actions 队列与 workflow 状态",
+        ))
 
     return issues, sorted(set(notes))
 
@@ -596,19 +650,38 @@ def build_report(data, source, now, skip_schedule=False, dispatch_if_stale=False
         if isinstance(row, dict) and row.get("symbol")
     }
     issues = []
-    issues += check_freshness(data, now)
+    freshness_issues = check_freshness(data, now)
     auto_heal = None
-    if dispatch_if_stale and any(issue["item"] == "新鲜度" for issue in issues):
+    notes = []
+    if dispatch_if_stale and freshness_issues:
         ok, detail = dispatch_fetch()
-        auto_heal = "已自动触发补抓（%s）" % detail if ok else "自动补抓失败：%s" % detail
+        if ok:
+            auto_heal = "已自动触发补抓（%s），数据恢复中" % detail
+            notes.append("行情快照超过新鲜度阈值，已触发补抓；等待下一次成功 run，本轮不重复标红")
+        else:
+            auto_heal = "自动补抓失败：%s" % detail
+            issues += freshness_issues
+            issues.append(anomaly(
+                "自动补抓",
+                auto_heal,
+                "数据已过期且自动补抓未成功，手机端会继续使用旧行情",
+                "检查 GITHUB_TOKEN 的 actions:write 权限、workflow_dispatch 开关和 API 状态",
+            ))
+    else:
+        issues += freshness_issues
     issues += check_board_consistency(data, row_index, now)
     issues += check_pick_precision(data)
     issues += check_afternoon_switch(data)
     issues += check_cross_source(data, row_index)
-    issues += check_quote_truth(data, row_index)
-    notes = []
+    issues += check_quote_truth(data, row_index, now)
+    quote_age = snapshot_age_minutes(data, now)
+    if quote_age is not None and quote_age > QUOTE_LIVE_MAX_AGE:
+        notes.append(
+            "行情快照距体检 %.0f 分钟，已跳过新浪实时价对账，避免用不同时间点误判合约绑定"
+            % quote_age
+        )
     if not skip_schedule:
-        sched_issues, sched_notes = check_schedule(now)
+        sched_issues, sched_notes = check_schedule(now, data_updated_at=data.get("updated_at"))
         issues += sched_issues
         notes += sched_notes
     return {
