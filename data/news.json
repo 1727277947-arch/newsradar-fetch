@@ -1,5 +1,31 @@
 [
  {
+  "title": "Woolworths货架上的低GI Wise小麦烘焙",
+  "url": "",
+  "summary": "澳大利亚各地的Woolworths 716店内面包店现在为客户提供具有高纤维和低GI的Wise Wheat面包。",
+  "pub_time": "2026-11-04T04:56:32Z",
+  "source": "GrainCentral",
+  "_cat": "农产品",
+  "dedup_key": "2a87003ac1000054842658b1eb7403bb",
+  "score": 84,
+  "priority": "P1",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "小麦"
+  ],
+  "en_title": "Low-GI Wise Wheat baking hits Woolworths shelves"
+ },
+ {
   "title": "Mysteel午报：钢价局部下跌，双焦期货跌逾1%",
   "url": "https://news.mysteel.com/a/26110411/1C8856CC236FFD59.html",
   "summary": "",
@@ -3832,25 +3858,6 @@
   "topic": "国内/金融政策",
   "tags": [
    "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel周报：建筑原材料价格监测（10.23-10.30）",
-  "url": "https://news.mysteel.com/a/26110213/35829A9A676CFB57.html",
-  "summary": "",
-  "pub_time": "2026-11-02T05:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "d2c5426df3693f890f056775444ae2f9",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
