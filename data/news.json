@@ -1,5 +1,81 @@
 [
  {
+  "title": "GDRZF 的股票现已超卖",
+  "url": "",
+  "summary": "在周四的交易中，Gold Reserve Ltd（代码：GDRZF）的股票进入超卖区域，换手价低至每股 3.89 美元。我们使用相对强度指数 (RSI) 定义超卖区域，这是一种用于衡量动量的技术分析指标",
+  "pub_time": "2026-11-05T21:03:30Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "d9bd7047e51d64116fcad6ac63508d37",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Shares of GDRZF Now Oversold"
+ },
+ {
+  "title": "LAR 的股票现已超卖",
+  "url": "",
+  "summary": "在周四的交易中，Lithium Argentina AG（代码：LAR）的股票进入超卖区域，换手价低至每股 3.92 美元。我们使用相对强度指数（RSI）定义超卖区域，这是一种用于衡量时刻的技术分析指标",
+  "pub_time": "2026-11-05T21:03:28Z",
+  "source": "Nasdaq商品",
+  "_cat": "基本金属",
+  "dedup_key": "c29724564f9db6fcfb86fecb531fe71a",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Shares of LAR Now Oversold"
+ },
+ {
+  "title": "电池耗尽了 Gas Peaker 的最佳工作时间",
+  "url": "",
+  "summary": "天然气调峰塔一直拥有一项决定性的经济优势：建造成本相对较低。调峰发电厂可能会在一年中的大部分时间闲置，然后在需求和电价飙升时启动。它的燃料昂贵，效率通常平庸，但较低的前期成本使其被接受",
+  "pub_time": "2026-11-05T21:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "bc0e28658abea6736bfd0eb21af41628",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气"
+  ],
+  "en_title": "Batteries Are Taking the Gas Peaker’s Best Hours"
+ },
+ {
   "title": "康菲石油公司利润翻倍至 40 亿美元并提高股息",
   "url": "",
   "summary": "周四，康菲石油公司第三季度利润增长了一倍多，达到 40 亿美元，并将季度股息提高了 11%，加入了越来越多的石油巨头的行列，这些石油巨头报告称，由于原油价格上涨抵消了伊朗战争造成的生产中断，盈利大幅增长。休斯顿的制片人",
@@ -682,31 +758,6 @@
    "展望"
   ],
   "en_title": "Lundin cuts copper outlook again as wild Chile weather bites"
- },
- {
-  "title": "伊朗报告霍尔木兹海峡发生更多油轮火灾",
-  "url": "",
-  "summary": "伊朗伊斯兰革命卫队（IRGC）周四表示，两艘油轮和一艘拖船在霍尔木兹海峡起火，伊朗继续报告越来越多的船只试图在未经伊斯兰共和国授权的航线上通过该海峡的事件。油罐之一",
-  "pub_time": "2026-11-05T11:15:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "f184fdee38f519d14d83b1d6614c7424",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Iran Reports More Tanker Fires in Strait of Hormuz"
  },
  {
   "title": "Codelco夸大铜产量丑闻达到42,100吨",
@@ -1461,13 +1512,13 @@
   "is_elite": false
  },
  {
-  "title": "广发期货：美元及油价下跌贵金属大幅回升",
-  "url": "https://news.mysteel.com/a/26110509/CBEAFF3224BA2D3D.html",
+  "title": "瑞达期货：双焦主力低位反弹",
+  "url": "https://news.mysteel.com/a/26110509/829C174B5D2F2C40.html",
   "summary": "",
   "pub_time": "2026-11-05T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "7354358315a65c1dca30c53f3bc7767a",
+  "dedup_key": "ecee8d95d04bd569b68e2562cc83a2ef",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1480,13 +1531,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：双焦主力低位反弹",
-  "url": "https://news.mysteel.com/a/26110509/829C174B5D2F2C40.html",
+  "title": "广发期货：美元及油价下跌贵金属大幅回升",
+  "url": "https://news.mysteel.com/a/26110509/CBEAFF3224BA2D3D.html",
   "summary": "",
   "pub_time": "2026-11-05T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "ecee8d95d04bd569b68e2562cc83a2ef",
+  "dedup_key": "7354358315a65c1dca30c53f3bc7767a",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1850,34 +1901,6 @@
   "en_title": "Crude Oil Nosedives As War Concerns Fade After Republicans Lose U.S. Midterm Elections"
  },
  {
-  "title": "油价暴跌，黄金飙升，民主党横扫美国国会后美元下跌",
-  "url": "",
-  "summary": "(RTTNews) - 金价周三从昨天的损失中反弹，因与石油相关的通胀相关的加息担忧有所减弱，原油价格暴跌，美元在美国中期选举结果公布后下跌。",
-  "pub_time": "2026-11-04T18:45:21Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "017d423dd781823c2e796cc0ce81d108",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "原油",
-   "下滑"
-  ],
-  "en_title": "Gold Soars As Oil Plunges, U.S. Dollar Slides After Democrats Sweep U.S. Congress"
- },
- {
   "title": "ASA 和巴斯夫为未来农业领袖提供 7,000 美元奖学金",
   "url": "",
   "summary": "",
@@ -1902,33 +1925,6 @@
    "铅"
   ],
   "en_title": "ASA, BASF Offer $7,000 Scholarship to Future Agriculture Leaders"
- },
- {
-  "title": "了解 First Majestic Silver 在分析师首选金属中的排名",
-  "url": "",
-  "summary": "根据 Metals Channel 的数据，对主要经纪公司的分析师推荐进行的研究显示，First Majestic Silver Corp（股票代码：AG）在构成 Metals Channel 全球矿业巨头指数的 50 只股票中平均排名第 26 名。金属频道",
-  "pub_time": "2026-11-04T16:58:05Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "41c0cae690db29ddef6837025ec2abfe",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "白银",
-   "金属"
-  ],
-  "en_title": "See How First Majestic Silver Ranks Among Analysts' Top Metals Picks"
  },
  {
   "title": "成本飙升，最大的新铜矿再次陷入困境",
@@ -2821,33 +2817,6 @@
   "en_title": "Freeport approves $4.5 billion Bagdad copper expansion"
  },
  {
-  "title": "美国原油库存意外下降",
-  "url": "",
-  "summary": "(RTTNews) - 根据能源情报署周三发布的一份报告，截至 10 月 30 日当周，美国原油库存意外小幅下降。",
-  "pub_time": "2026-11-04T15:39:03Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "ee7cefa9b438851f5dd507d84fad0a2c",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "库存"
-  ],
-  "en_title": "U.S. Crude Oil Inventories Unexpectedly Edge Lower"
- },
- {
   "title": "五部门：加强废钢铁等“城市矿产”回收利用",
   "url": "https://news.mysteel.com/a/26110419/65823FC66F1C903E.html",
   "summary": "",
@@ -2884,33 +2853,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "随着美元和债券收益率在民主党中期胜利中下跌，黄金攀升",
-  "url": "",
-  "summary": "（ RTTNews ） -在民主党在美国中期选举中以戏剧性的胜利控制了国会两院之后，由于美元走软和国债收益率下降，金价周三上涨了近3%。油价走软也有助于缓解通胀担忧。",
-  "pub_time": "2026-11-04T09:51:30Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "4b65e6c6fdf1f99295d171637b138aab",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "走高"
-  ],
-  "en_title": "Gold Climbs As Dollar And Bond Yields Dip On The Democrat Midterms Victory"
  },
  {
   "title": "农产品国际化发展大会——2026大宗商品国际化发展论坛平行活动成功举办",
