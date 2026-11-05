@@ -1,5 +1,58 @@
 [
  {
+  "title": "Snowline 在 PDAC 2027 年奖项类别中名列前茅",
+  "url": "",
+  "summary": "早在 Snowline Gold（多伦多证券交易所代码：SGD；美国场外交易代码：SNWGF）山谷矿床引起业界关注之前，联合创始人兼首席执行官 Scott Berdahl 就一直在努力为育空地区的资产寻找支持……Snowline 领导 PDAC 2027 年奖项类别的帖子首先出现在《北方矿工》上。",
+  "pub_time": "2026-11-05T20:12:24Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "1504cd0a35150e2bbbaa72187a9aaed1",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "铅"
+  ],
+  "en_title": "Snowline leads PDAC’s 2027 awards class"
+ },
+ {
+  "title": "由于美伊新一轮袭击的不确定性，原油价格飙升",
+  "url": "",
+  "summary": "(RTTNews) - 原油价格周四飙升，部分抵消了昨天交易时段的暴跌，因为投资者正在关注美国政权计划采取的解决美伊僵局的下一步措施。专家们对于美国是否会采取行动存在分歧",
+  "pub_time": "2026-11-05T19:38:23Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "5c703a8298c77d1c7c0f330d1b96d27c",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "罢工"
+  ],
+  "en_title": "Crude Oil Soars Amid Uncertainty Surrounding Renewed U.S.-Iran Strikes"
+ },
+ {
   "title": "周中惨败后油价大幅反弹",
   "url": "",
   "summary": "由于交易员重新考虑美国中期选举结果是否真的会迅速结束伊朗战争，油价周四飙升，收复了周三的部分惊人跌幅。到下午早些时候，布伦特原油已攀升至每桶 98.01 美元，上涨 3.39 美元，涨幅 3.58%，而西德克萨斯州原油则上涨 3.39 美元，涨幅 3.58%。",
@@ -2862,33 +2915,6 @@
   "en_title": "Gold Climbs As Dollar And Bond Yields Dip On The Democrat Midterms Victory"
  },
  {
-  "title": "油价在波涛汹涌的交易中走低",
-  "url": "",
-  "summary": "（ RTTNews ） -油价周三走低，此前由于美伊和谈的不确定性，油价在上一交易日大幅波动。",
-  "pub_time": "2026-11-04T09:35:09Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "aca654a8ef7f2a0d86d8ca6f08b822d9",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价"
-  ],
-  "en_title": "Oil Prices Edge Lower In Choppy Trade"
- },
- {
   "title": "农产品国际化发展大会——2026大宗商品国际化发展论坛平行活动成功举办",
   "url": "https://news.mysteel.com/a/26110417/03C429C0220632D6.html",
   "summary": "",
@@ -3286,31 +3312,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "SIU 和密苏里大学研究人员使用人工智能和无人机监测大豆干旱胁迫",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-11-03T20:16:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "ad1261e847f27f0fb843517f8c323338",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "大豆"
-  ],
-  "en_title": "SIU, Mizzou Researchers Use AI and Drones to Monitor Soybean Drought Stress"
  }
 ]
