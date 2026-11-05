@@ -1,5 +1,30 @@
 [
  {
+  "title": "伊朗报告霍尔木兹海峡发生更多油轮火灾",
+  "url": "",
+  "summary": "伊朗伊斯兰革命卫队（IRGC）周四表示，两艘油轮和一艘拖船在霍尔木兹海峡起火，伊朗继续报告越来越多的船只试图在未经伊斯兰共和国授权的航线上通过该海峡的事件。油罐之一",
+  "pub_time": "2026-11-05T11:15:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "f184fdee38f519d14d83b1d6614c7424",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Iran Reports More Tanker Fires in Strait of Hormuz"
+ },
+ {
   "title": "黄金涨幅扩大至两周高点",
   "url": "",
   "summary": "(RTTNews) - 由于美国中期选举后美元和国债收益率下滑，金价周四扩大涨幅，触及两周多高点。油价大幅回落也有助于缓解通胀和加息担忧。",
@@ -1582,25 +1607,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年11月5日大连玉米期货收盘高开收涨",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/05/0233864048.shtml",
-  "summary": "",
-  "pub_time": "2026-11-04T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "1ab97b2934ae4fa57f779369a666d2f6",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
   "title": "11月5日进口大豆到国内港口CF及升贴水报价",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/05/5717329742.shtml",
   "summary": "",
@@ -2069,6 +2075,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月5日大连玉米期货收盘高开收涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/05/0233864048.shtml",
+  "summary": "",
+  "pub_time": "2026-11-04T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "daba272be980e22cedf64091df8d3a70",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "粮油首页"
