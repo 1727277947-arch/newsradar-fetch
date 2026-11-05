@@ -1,5 +1,77 @@
 [
  {
+  "title": "中国与阿曼签署证券期货监管合作谅解备忘录",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726878.shtml",
+  "summary": "中新社北京11月5日电 (记者 陈康亮)据中国证监会5日消息，近日，在两国元首共同见证下，中国证监会主席吴清在北京与阿曼外交大臣巴德尔签署了《中国证监会与阿曼金融服务管理局证券期货监管合作谅解备忘录》",
+  "pub_time": "2026-11-05T13:44:48Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "94d89d0f37adb8fa82f85a2ba26df18d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/金融政策",
+  "tags": [
+   "金融政策",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "美国中期选举后伊朗达成协议希望欧洲天然气价格下跌",
+  "url": "",
+  "summary": "周四凌晨，欧洲基准天然气价格在阿姆斯特丹下跌 2%，延续了周三的跌势，此前民主党在美国中期选举中取得压倒性胜利，引发了解决伊朗战争和恢复霍尔木兹海峡液化天然气流动的希望。",
+  "pub_time": "2026-11-05T13:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "1f8d7ce3d6ba2863ccd5ca8d706afe60",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气",
+   "价",
+   "下跌"
+  ],
+  "en_title": "European Gas Prices Drop on Iran Deal Hopes after U.S. Midterms"
+ },
+ {
+  "title": "五角大楼着眼于达成史无前例的 75 年协议，以结束中国对稀土的束缚",
+  "url": "",
+  "summary": "美国陆军希望优先购买美国生产的重稀土，而 REalloys（纳斯达克股票代码：ALOY）刚刚签署了一份具有里程碑意义的非约束性条款清单，这可能使其成为军方供应链清单的首位。而且条款非常特别。条款清单提出了潜在的 75 年运营期",
+  "pub_time": "2026-11-05T13:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "4defe7b777315ef4f7d266bf8c58dbf2",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Pentagon Eyes Unprecedented 75-Year Deal to End China's Rare Earth Stranglehold"
+ },
+ {
   "title": "伊朗报告霍尔木兹海峡发生更多油轮火灾",
   "url": "",
   "summary": "伊朗伊斯兰革命卫队（IRGC）周四表示，两艘油轮和一艘拖船在霍尔木兹海峡起火，伊朗继续报告越来越多的船只试图在未经伊斯兰共和国授权的航线上通过该海峡的事件。油罐之一",
@@ -23,6 +95,62 @@
    "能源"
   ],
   "en_title": "Iran Reports More Tanker Fires in Strait of Hormuz"
+ },
+ {
+  "title": "Codelco夸大铜产量丑闻达到42,100吨",
+  "url": "",
+  "summary": "智利国有矿业公司董事会在制定复苏计划时，面临着债务增加、回报下降和投资成本高昂的审查。",
+  "pub_time": "2026-11-05T11:03:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "1e42b08d08eb7fa3410aaab70114c916",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜",
+   "产量"
+  ],
+  "en_title": "Codelco’s inflated copper output scandal hits 42,100 tonnes"
+ },
+ {
+  "title": "五周罢工后 Sibanye 下调美国产量预期",
+  "url": "",
+  "summary": "旷日持久的劳资纠纷扰乱了铂族金属的产量，该矿商正在权衡芬兰锂项目的下一步行动。",
+  "pub_time": "2026-11-05T10:44:00Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "e8ab1546d1af54f6ba3a78222f74278c",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "产量",
+   "罢工",
+   "周",
+   "预测"
+  ],
+  "en_title": "Sibanye cuts US output forecast after five-week strike"
  },
  {
   "title": "黄金涨幅扩大至两周高点",
@@ -854,13 +982,13 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：双焦主力低位反弹",
-  "url": "https://news.mysteel.com/a/26110509/829C174B5D2F2C40.html",
+  "title": "广发期货：美元及油价下跌贵金属大幅回升",
+  "url": "https://news.mysteel.com/a/26110509/CBEAFF3224BA2D3D.html",
   "summary": "",
   "pub_time": "2026-11-05T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "ecee8d95d04bd569b68e2562cc83a2ef",
+  "dedup_key": "7354358315a65c1dca30c53f3bc7767a",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -873,13 +1001,13 @@
   "is_elite": false
  },
  {
-  "title": "广发期货：美元及油价下跌贵金属大幅回升",
-  "url": "https://news.mysteel.com/a/26110509/CBEAFF3224BA2D3D.html",
+  "title": "瑞达期货：双焦主力低位反弹",
+  "url": "https://news.mysteel.com/a/26110509/829C174B5D2F2C40.html",
   "summary": "",
   "pub_time": "2026-11-05T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "7354358315a65c1dca30c53f3bc7767a",
+  "dedup_key": "ecee8d95d04bd569b68e2562cc83a2ef",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1399,32 +1527,6 @@
   "en_title": "Gold Soars As Oil Plunges, U.S. Dollar Slides After Democrats Sweep U.S. Congress"
  },
  {
-  "title": "特朗普和万斯将中期选举失败归咎于伊朗战争 油价暴跌 9%",
-  "url": "",
-  "summary": "下午 1:06 布伦特原油价格下跌 8.94 美元，至每桶 94.66 美元，跌幅为 8.6%。周三，在触及 9 月 4 日以来的最低水平后，在白宫将周二的中期损失与冲突联系起来后，交易员预计伊朗战争将结束。 WTI 下跌 8.01 美元，跌幅 8.3%，至 88.08 美元。布伦特原油交易价接近美元",
-  "pub_time": "2026-11-04T18:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "f9297099805147b247a665e93ff6e709",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Oil Crashes 9% as Trump and Vance Blame Iran War for Midterm Rout"
- },
- {
   "title": "ASA 和巴斯夫为未来农业领袖提供 7,000 美元奖学金",
   "url": "",
   "summary": "",
@@ -1449,31 +1551,6 @@
    "铅"
   ],
   "en_title": "ASA, BASF Offer $7,000 Scholarship to Future Agriculture Leaders"
- },
- {
-  "title": "挪威北海 Equinor 的 Visund 平台因火灾而关闭",
-  "url": "",
-  "summary": "周三，Equinor 停止了其位于挪威北海的 Visund 石油和天然气平台的生产，原因是配电室发生火灾，从周四起，该油田每天 1320 万立方米的天然气出口能力全部退出市场。当地时间上午11点左右，火灾发生",
-  "pub_time": "2026-11-04T17:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "457b51ea6fd716fc87ec893f93c4c2e5",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Fire Shuts Equinor’s Visund Platform in Norwegian North Sea"
  },
  {
   "title": "了解 First Majestic Silver 在分析师首选金属中的排名",
@@ -3170,89 +3247,6 @@
    "黄金"
   ],
   "en_title": "I-80 Gold’s growth faces Nevada labour squeeze"
- },
- {
-  "title": "全球供应下滑，加拿大黄金产量跃升 22%",
-  "url": "",
-  "summary": "增长表明，新业务正在显着增加产量，而一些老牌矿业国家则在苦苦挣扎于品位下降和采矿计划的改变。",
-  "pub_time": "2026-11-03T18:07:00Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "708a982d651f6b60ec0c37055dd42abc",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "回落",
-   "跳涨",
-   "供应",
-   "产量"
-  ],
-  "en_title": "Canada gold output jumps 22% as global supply slips"
- },
- {
-  "title": "MMG 和英美资源集团延长 5 亿美元镍交易期限",
-  "url": "",
-  "summary": "延期之际，欧洲监管机构仍在继续调查该交易及其对钢铁生产的影响。",
-  "pub_time": "2026-11-03T17:43:38Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "fa7660dc372825a536129689bf9b1e51",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "镍"
-  ],
-  "en_title": "MMG, Anglo American extend $500 million nickel deal deadline"
- },
- {
-  "title": "阿波罗金币集体上涨",
-  "url": "",
-  "summary": "Collective Mining（多伦多证交所，纳斯达克股票代码：CNL）股价周二上涨 13%，此前该公司报告哥伦比亚阿波罗项目发现了 154.3 米的黄金截距，这是其最广泛的高品位区间。",
-  "pub_time": "2026-11-03T17:03:19Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "2b2e41628424c21c454da36cd7d6913f",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "跳涨"
-  ],
-  "en_title": "Collective jumps on broad gold hit at Apollo"
  },
  {
   "title": "2026年11月4日大连豆粕期货低开收跌",
