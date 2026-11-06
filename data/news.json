@@ -1,5 +1,76 @@
 [
  {
+  "title": "中国证监会同意葵花籽油、氢氧化锂期货和期权注册",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727741.shtml",
+  "summary": "记者昨天从中国证监会获悉，近日，中国证监会同意郑州商品交易所葵花籽油期货和期权注册。中国证监会将督促郑州商品交易所做好各项准备工作，确保葵花籽油期货和期权的平稳推出和稳健运行",
+  "pub_time": "2026-11-06T23:44:20Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "bbaab9e49d362b443ca13eae43561e08",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "美国国防后勤局承诺投入 20 亿美元采购国防储备关键材料",
+  "url": "",
+  "summary": "国防战略要求战略产业回流、扩大国内生产。",
+  "pub_time": "2026-11-06T23:30:00Z",
+  "source": "Mining.com",
+  "_cat": "综合",
+  "dedup_key": "3874df6e7cbd6093d73929b91bcc44ee",
+  "score": 84,
+  "priority": "P2",
+  "topic": "综合",
+  "tags": [
+   "综合",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "综合",
+   "库存"
+  ],
+  "en_title": "US DLA commits $2 billion to acquire critical materials for National Defense Stockpile"
+ },
+ {
+  "title": "华尔街的“能源转型”基金充满了天然气",
+  "url": "",
+  "summary": "当我们即将于下周在土耳其安塔利亚举行的联合国第 31 届年度旗舰气候会议 (COP31) 之际，“漂绿”给私营部门带来了一个日益严重的大问题。在人工智能的背景下，科技行业的温室气体排放呈爆炸式增长",
+  "pub_time": "2026-11-06T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "f80471eb1326931bb2b7e8b806d04533",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "天然气",
+   "能源"
+  ],
+  "en_title": "Wall Street’s “Energy Transition” Funds Are Packed With Natural Gas"
+ },
+ {
   "title": "由于运费飙升，石油交易商希望美国释放受制裁的油轮",
   "url": "",
   "summary": "全球一些最大的石油贸易商正在请求华盛顿允许受制裁的油轮重新投入工作，因为全球船舶短缺将石油运输成本推至异常水平。托克 (Trafigura)、维多 (Vitol)、摩科瑞 (Mercuria) 和阿布扎比国家石油公司 (Abu Dhabi National Oil Co.) 正在与美国官员就",
@@ -2718,88 +2789,6 @@
    "预测"
   ],
   "en_title": "B2Gold cuts cost forecast as Goose faces crunch"
- },
- {
-  "title": "力拓在陆战胜利后向Resolution Copper注资1.44亿美元",
-  "url": "",
-  "summary": "由于法律和文化紧张局势持续存在，新的资金将推进亚利桑那州项目的工程和地下开发。",
-  "pub_time": "2026-11-05T14:23:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "53dac9000689a7cc46839feff6a95769",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "锡"
-  ],
-  "en_title": "Rio Tinto injects $144 million into Resolution Copper after land battle win"
- },
- {
-  "title": "由于智利恶劣天气，伦丁再次下调铜前景",
-  "url": "",
-  "summary": "尽管创纪录的金属价格增加了现金流，但在冬季天气扰乱采矿业后，其卡塞罗内斯矿仍面临长期复苏。",
-  "pub_time": "2026-11-05T12:57:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "8ae8132d9b68a250c1fe3712399b54b9",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "走强",
-   "展望"
-  ],
-  "en_title": "Lundin cuts copper outlook again as wild Chile weather bites"
- },
- {
-  "title": "Codelco夸大铜产量丑闻达到42,100吨",
-  "url": "",
-  "summary": "智利国有矿业公司董事会在制定复苏计划时，面临着债务增加、回报下降和投资成本高昂的审查。",
-  "pub_time": "2026-11-05T11:03:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "1e42b08d08eb7fa3410aaab70114c916",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "产量"
-  ],
-  "en_title": "Codelco’s inflated copper output scandal hits 42,100 tonnes"
  },
  {
   "title": "黄金涨幅扩大至两周高点",
