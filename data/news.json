@@ -1,5 +1,219 @@
 [
  {
+  "title": "由于美国与伊朗的持续僵局，通胀担忧卷土重来，金价暴跌",
+  "url": "",
+  "summary": "(RTTNews) - 周五金价大幅走低，部分抹去了两个交易日的涨幅，因美国对伊朗的行动仍难以预测，通胀担忧重新回到市场，同时非农就业数据强于预期后美元走强",
+  "pub_time": "2026-11-06T18:43:48Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "f86b9770767aba492ee8e678950de3cd",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "锡"
+  ],
+  "en_title": "Gold Slumps As Inflation Concerns Return Due To Continuing U.S.-Iran Standoff"
+ },
+ {
+  "title": "随着油价暴跌，美国石油、天然气钻探公司产量小幅上升",
+  "url": "",
+  "summary": "贝克休斯周五公布的最新数据显示，本周美国活跃的石油和天然气钻井平台总数小幅上升，美国活跃钻井平台总数增至604座，比去年同期增加56座。活跃石油钻井平台数量增加1座，达到463天",
+  "pub_time": "2026-11-06T18:21:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "c688345e3050bd990249a8362f3a43bc",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "天然气",
+   "价"
+  ],
+  "en_title": "U.S. Oil, Gas Drillers See Minor Uptick as Oil Prices Crash"
+ },
+ {
+  "title": "伊利诺伊州选举结果为粮食和玉米行业创造新机遇",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-11-06T18:11:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "43533181054a9f5fec9e800d0becae24",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "玉米",
+   "谷物"
+  ],
+  "en_title": "Illinois Election Results Create New Opportunities for Grain and Corn Industry"
+ },
+ {
+  "title": "预算延长了税收减免，但探险家仍希望",
+  "url": "",
+  "summary": "渥太华将矿产勘探税收抵免延长五年，赢得了加拿大探矿者协会的赞扬，但不列颠哥伦比亚省的勘探组织表示，预算错过了……后预算延长了税收减免，但让勘探者想要首先出现在《北方矿工》上。",
+  "pub_time": "2026-11-06T18:10:09Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "2164e26ade4acd17f0ea7644e7ff478c",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡"
+  ],
+  "en_title": "Budget extends tax relief but leaves explorers wanting"
+ },
+ {
+  "title": "美国公投后铜价面临进一步下滑：TD",
+  "url": "",
+  "summary": "由于民主党在美国中期选举中获胜削弱了对进口关税的预期，并引发了对预期需求的怀疑，铜价可能进一步下跌...美国投票后铜价面临进一步下跌：TD首先出现在《北方矿商》上。",
+  "pub_time": "2026-11-06T18:00:25Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "3fd1a443cc043092fd835a9dc80b4d39",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜",
+   "下滑"
+  ],
+  "en_title": "Copper faces further slide after US vote: TD"
+ },
+ {
+  "title": "采访：Ur-Energy 计划在怀俄明州扩张",
+  "url": "",
+  "summary": "Ur-Energy（多伦多证券交易所股票代码：URE；纽约证券交易所股票代码：URG）正在寻求为其他矿商进行钻探、收购和潜在加工，以填补雪莉盆地重启后未使用的产能……采访报道：Ur-Energy 着眼于怀俄明州的扩张首先出现在《北方矿商》上。",
+  "pub_time": "2026-11-06T17:45:05Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "ca95ba79eb809abb2c4b53b877678c4f",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "能源"
+  ],
+  "en_title": "Interview: Ur-Energy eyes Wyoming expansion"
+ },
+ {
+  "title": "USW 董事会审查加强全球小麦需求的努力",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-11-06T17:30:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "ace6ee9c8cd89801badc8b9cf473af45",
+  "score": 84,
+  "priority": "P1",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "小麦",
+   "需求"
+  ],
+  "en_title": "USW Board Reviews Efforts to Strengthen Global Wheat Demand"
+ },
+ {
+  "title": "瑞吉斯资源公司报告西部杜克顿南金矿作业发生致命事故",
+  "url": "",
+  "summary": "杜克顿的运营已暂时停止，该事件正在调查中。",
+  "pub_time": "2026-11-06T17:11:51Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "ef24bbedbaae97d2b29b56e0c0814faa",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Regis Resources reports fatal accident at Duketon South gold operation in Western Australia"
+ },
+ {
   "title": "挪威石油和天然气行业在没有新发现的情况下面临重大衰退",
   "url": "",
   "summary": "半个多世纪以来，挪威的石油和天然气生产一直依赖于一些非常大的发现，其中最后一个发现是十多年前在巴伦支海发现的。从那时起，挪威大陆架（NCS）的勘探越来越集中于小规模的勘探。",
@@ -27,13 +241,40 @@
   "en_title": "Norway’s Oil and Gas Industry Faces a Major Decline Without New Discoveries"
  },
  {
-  "title": "加拿大预算延长了税收减免，但探险家仍希望",
+  "title": "了解 IAMGold 如何跻身分析师首选金属之列",
+  "url": "",
+  "summary": "根据 Metals Channel 的数据，对主要经纪公司的分析师推荐进行的研究显示，在组成 Metals Channel 全球矿业巨头指数的 50 只股票中，IAMGold Corp（股票代码：IAG）平均排名第 39 名。金属频道全球迷你版",
+  "pub_time": "2026-11-06T16:47:52Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "49a841865e913d9fd13f5be0d59b5ee3",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "金属"
+  ],
+  "en_title": "See How IAMGold Ranks Among Analysts' Top Metals Picks"
+ },
+ {
+  "title": "加拿大预算延长税收减免，但矿产勘探者仍希望",
   "url": "",
   "summary": "新的关键矿产战略将支持采矿和加工技术、研究和项目资金。",
   "pub_time": "2026-11-06T16:33:43Z",
   "source": "Mining.com",
   "_cat": "基本金属",
-  "dedup_key": "ec4e4adb731e462b252e85ff3772a43c",
+  "dedup_key": "c4356287e42306c433778b2f76462d6a",
   "score": 84,
   "priority": "P2",
   "topic": "基本金属",
@@ -50,7 +291,7 @@
    "基本金属",
    "锡"
   ],
-  "en_title": "Canada’s budget extends tax relief but leaves explorers wanting"
+  "en_title": "Canada’s budget extends tax relief but leaves mineral explorers wanting"
  },
  {
   "title": "台企在江苏无锡开建AI算力高端电子基板材料研发制造总部",
@@ -126,6 +367,32 @@
   "en_title": "The Iran War Isn't Over, but Oil Traders Are Already Pricing In Peace"
  },
  {
+  "title": "Codelco面临生产丑闻和尾矿调查",
+  "url": "",
+  "summary": "周四，智利国营矿业公司 Codelco 披露夸大了 42,100 吨铜产量，同一天，尾矿泄漏导致其安迪纳工厂停止加工。矿工......后Codelco面临生产丑闻，尾矿调查首先出现在《北方矿工》上。",
+  "pub_time": "2026-11-06T15:15:00Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "a5751db83936d6f5a4062c118d7f77ed",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "产量"
+  ],
+  "en_title": "Codelco faces production scandal, tailings probe"
+ },
+ {
   "title": "特朗普的伊朗战略在中期失败后到达关键十字路口",
   "url": "",
   "summary": "唐纳德·特朗普总统在美国中期竞选的最后几周预测，与伊朗的战争将“在大选后立即”结束。随着投票的进行，他的共和党正因在国会两院的溃败中陷入困境，他自己的副总统将其直接归咎于共和党。",
@@ -149,32 +416,6 @@
    "基本金属"
   ],
   "en_title": "Trump’s Iran Strategy Reaches a Critical Crossroads After Midterm Defeat"
- },
- {
-  "title": "预算延长了税收减免，但探险家仍希望",
-  "url": "",
-  "summary": "渥太华将矿产勘探税收抵免延长五年，赢得了加拿大探矿者协会的赞扬，但不列颠哥伦比亚省的勘探组织表示，预算错过了……后预算延长了税收减免，但让勘探者想要首先出现在《北方矿工》上。",
-  "pub_time": "2026-11-06T14:54:09Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "2164e26ade4acd17f0ea7644e7ff478c",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡"
-  ],
-  "en_title": "Budget extends tax relief but leaves explorers wanting"
  },
  {
   "title": "AngloGold 在现有矿山上押注 9 亿美元",
@@ -230,6 +471,31 @@
   "en_title": "World embraces gold while US resists shift, advisor says"
  },
  {
+  "title": "印度电池推动面临原材料考验",
+  "url": "",
+  "summary": "印度正在补贴电池存储以及锂和镍加工，以建立国内供应链，但要确保原材料并与海外老牌企业竞争……印度电池推动面临原材料考验的帖子首先出现在《北方矿工》上。",
+  "pub_time": "2026-11-06T14:07:30Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "550f3c4f3fdfef6a94ce98a06dde178f",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "India’s battery push faces raw material test"
+ },
+ {
   "title": "10月下旬钢材库存1490万吨",
   "url": "https://news.mysteel.com/a/26110622/49175C12D36CB029.html",
   "summary": "",
@@ -268,6 +534,31 @@
   "is_elite": false
  },
  {
+  "title": "巴拉圭危机可能威胁铀矿野心",
+  "url": "",
+  "summary": "巴拉圭总统圣地亚哥·佩纳在银行业危机中提交辞职后，周五面临持续的弹劾程序，而几周前，铀能源公司（NYSE-A：UEC）宣布了计划……后巴拉圭危机可能威胁到铀矿野心。",
+  "pub_time": "2026-11-06T13:45:00Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "161224cba24b77f96f111972bf083908",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Paraguay crisis may threaten uranium ambitions"
+ },
+ {
   "title": "FGE NexantECA 认为美国与伊朗达成协议的机会渺茫",
   "url": "",
   "summary": "能源咨询公司 FGE NexantECA 在美国中期选举后表示，美国与伊朗达成协议的可能性很低，未来两个月的升级风险最大，可能会破坏霍尔木兹海峡石油流量的恢复。 “我们不仅没有接近解决方案，而且还差点",
@@ -291,32 +582,6 @@
    "能源"
   ],
   "en_title": "FGE NexantECA Sees Slim Chance of U.S.-Iran Deal"
- },
- {
-  "title": "Codelco面临生产丑闻和尾矿调查",
-  "url": "",
-  "summary": "周四，智利国营矿业公司 Codelco 披露夸大了 42,100 吨铜产量，同一天，尾矿泄漏导致其安迪纳工厂停止加工。矿工......后Codelco面临生产丑闻，尾矿调查首先出现在《北方矿工》上。",
-  "pub_time": "2026-11-06T13:30:00Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "a5751db83936d6f5a4062c118d7f77ed",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "产量"
-  ],
-  "en_title": "Codelco faces production scandal, tailings probe"
  },
  {
   "title": "Perpetua在辉锑矿矿坑附近发现金和锑",
@@ -387,32 +652,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "采访：Ur-Energy 计划在怀俄明州扩张",
-  "url": "",
-  "summary": "Ur-Energy（多伦多证券交易所股票代码：URE；纽约证券交易所股票代码：URG）正在寻求为其他矿商进行钻探、收购和潜在加工，以填补雪莉盆地重启后未使用的产能……采访报道：Ur-Energy 着眼于怀俄明州的扩张首先出现在《北方矿商》上。",
-  "pub_time": "2026-11-06T12:58:05Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "ca95ba79eb809abb2c4b53b877678c4f",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "能源"
-  ],
-  "en_title": "Interview: Ur-Energy eyes Wyoming expansion"
  },
  {
   "title": "美国大选震撼伊朗战争，油价暴跌",
@@ -520,15 +759,45 @@
   "en_title": "India’s HPCL Struggles to Secure Oil Tankers as Hormuz Risks Persist"
  },
  {
-  "title": "阿布扎比国家石油公司通过新的印度供应协议扩大液化天然气帝国",
+  "title": "油价下滑，金价将创八月以来最大单周涨幅",
   "url": "",
-  "summary": "阿布扎比国家石油公司 (ADNOC) 签署了一项为期十年的协议，向印度古吉拉特邦能源有限公司供应液化天然气，这是阿布扎比国家石油公司 (ADNOC) 国际投资公司 XRG 的国际天然气投资组合中第一份销售天然气的协议。阿布扎比能源公司表示，从 2028 年开始，古吉拉特能源公司将在十年内接收多达 400 万吨液化天然气",
-  "pub_time": "2026-11-06T10:15:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "82f81348f246d84e58a630b95a2a687f",
+  "summary": "(RTTNews) - 周五黄金价格走低，但由于原油价格走软有助于缓解通胀担忧，黄金价格有望创下 8 月份以来最强劲的单周涨幅。",
+  "pub_time": "2026-11-06T10:09:40Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "3b2ceafb8bc3b82b35a2d1445e3b126a",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "原油",
+   "走强",
+   "下滑",
+   "周"
+  ],
+  "en_title": "Gold Set For Biggest Weekly Gain Since August On Oil Slide"
+ },
+ {
+  "title": "贸易波动导致油价下跌",
+  "url": "",
+  "summary": "(RTTNews) - 由于美伊冲突缓和以及霍尔木兹海峡可能重新开放的希望，周五油价在波动的交易中下跌，并有望每周大幅下跌。",
+  "pub_time": "2026-11-06T09:48:51Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "e1e8a348da6e986706adc5b166bed70a",
+  "score": 84,
+  "priority": "P2",
   "topic": "能源",
   "tags": [
    "能源",
@@ -541,9 +810,10 @@
   "is_elite": false,
   "keywords": [
    "能源",
-   "供应"
+   "原油",
+   "价"
   ],
-  "en_title": "ADNOC Expands LNG Empire With Major New India Supply Deal"
+  "en_title": "Oil Prices Decline In Choppy Trade"
  },
  {
   "title": "Mysteel晚餐：铁矿石港库增加",
@@ -660,33 +930,6 @@
   "is_elite": false
  },
  {
-  "title": "石油需求下滑，中国碳排放量下降3.1%",
-  "url": "",
-  "summary": "据路透社援引芬兰气候媒体能源与清洁空气研究中心的报道，中国工业部门燃料使用量的下降导致今年第三季度二氧化碳排放量下降了 3.1%。世界上最大的发电机的排放量更低",
-  "pub_time": "2026-11-06T08:45:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "68e105e1c55f0fb1260493be6c6df0de",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "需求"
-  ],
-  "en_title": "China’s Carbon Emissions Plunge 3.1% as Oil Demand Slumps"
- },
- {
   "title": "桂鑫钢铁产能转出方案公示",
   "url": "https://news.mysteel.com/a/26110616/BB7372514C4AD88B.html",
   "summary": "",
@@ -742,35 +985,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "高油价抑制需求，全球石油供应过剩再度出现",
-  "url": "",
-  "summary": "高盛和摩根大通的分析师表示，全球原油市场正在重新走向供应过剩，高油价对需求的破坏导致对赤字的担忧消退，对供应过剩的担忧加剧。 “我们估计全球石油市场恢复盈余110万桶",
-  "pub_time": "2026-11-06T07:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "贵金属",
-  "dedup_key": "c183d3cb31eaae3bedb4552882fb4d08",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "原油",
-   "价",
-   "需求",
-   "过剩"
-  ],
-  "en_title": "The Global Oil Glut Returns as High Prices Crush Demand"
  },
  {
   "title": "黑色持仓日报：期螺飘红，东证期货减持超1.3万手空单",
@@ -1337,6 +1551,56 @@
   "is_elite": false
  },
  {
+  "title": "GDRZF 的股票现已超卖",
+  "url": "",
+  "summary": "在周四的交易中，Gold Reserve Ltd（代码：GDRZF）的股票进入超卖区域，换手价低至每股 3.89 美元。我们使用相对强度指数 (RSI) 定义超卖区域，这是一种用于衡量动量的技术分析指标",
+  "pub_time": "2026-11-05T21:03:30Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "d9bd7047e51d64116fcad6ac63508d37",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Shares of GDRZF Now Oversold"
+ },
+ {
+  "title": "LAR 的股票现已超卖",
+  "url": "",
+  "summary": "在周四的交易中，Lithium Argentina AG（代码：LAR）的股票进入超卖区域，换手价低至每股 3.92 美元。我们使用相对强度指数（RSI）定义超卖区域，这是一种用于衡量时刻的技术分析指标",
+  "pub_time": "2026-11-05T21:03:28Z",
+  "source": "Nasdaq商品",
+  "_cat": "基本金属",
+  "dedup_key": "c29724564f9db6fcfb86fecb531fe71a",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Shares of LAR Now Oversold"
+ },
+ {
   "title": "Snowline 在 PDAC 2027 年奖项类别中名列前茅",
   "url": "",
   "summary": "早在 Snowline Gold（多伦多证券交易所代码：SGD；美国场外交易代码：SNWGF）山谷矿床引起业界关注之前，联合创始人兼首席执行官 Scott Berdahl 就一直在努力为育空地区的资产寻找支持……Snowline 领导 PDAC 2027 年奖项类别的帖子首先出现在《北方矿工》上。",
@@ -1363,6 +1627,33 @@
   "en_title": "Snowline leads PDAC’s 2027 awards class"
  },
  {
+  "title": "由于美伊新一轮袭击的不确定性，原油价格飙升",
+  "url": "",
+  "summary": "(RTTNews) - 原油价格周四飙升，部分抵消了昨天交易时段的暴跌，因为投资者正在关注美国政权计划采取的解决美伊僵局的下一步措施。专家们对于美国是否会采取行动存在分歧",
+  "pub_time": "2026-11-05T19:38:23Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "5c703a8298c77d1c7c0f330d1b96d27c",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "罢工"
+  ],
+  "en_title": "Crude Oil Soars Amid Uncertainty Surrounding Renewed U.S.-Iran Strikes"
+ },
+ {
   "title": "交互式显示屏将东南亚磨坊主和面包师与美国小麦联系起来",
   "url": "",
   "summary": "",
@@ -1387,6 +1678,33 @@
    "小麦"
   ],
   "en_title": "Interactive Display Connects Southeast Asian Millers and Bakers With U.S. Wheat"
+ },
+ {
+  "title": "由于通胀担忧继续保持在低位，黄金大幅上涨",
+  "url": "",
+  "summary": "(RTTNews) - 由于市场参与者试图评估美国对伊朗的计划，而通胀忧虑连续第二天保持在最低限度，金价周四走高，进一步增加了昨天的涨幅。",
+  "pub_time": "2026-11-05T18:33:52Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "ff46be8a32e86711d75a00142ea760d3",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "锡"
+  ],
+  "en_title": "Gold Advances Sharply As Inflation Concerns Continue To Stay Low"
  },
  {
   "title": "密歇根州 11 月覆盖作物种植仍能带来效益",
@@ -1441,13 +1759,13 @@
   "en_title": "AngloGold plans $900 million mine expansion amid stronger profit"
  },
  {
-  "title": "民主党的胜利考验美国矿业支持，提振金价",
+  "title": "了解 Seabridge Gold 如何跻身分析师首选金属之列",
   "url": "",
-  "summary": "据《北方矿业报》报道，民主党控制国会可能会使美国矿业投资受到更严格的审查，并维持对黄金的需求，因为政治僵局使商业规划变得复杂。民主党的胜利测试了美国矿业的支持，提振了黄金。",
-  "pub_time": "2026-11-05T16:43:15Z",
-  "source": "NorthernMiner",
+  "summary": "根据 Metals Channel 的数据，对主要经纪公司的分析师推荐进行的研究显示，Seabridge Gold Inchares New（股票代码：SA）在组成 Metals Channel 全球矿业巨头指数的 50 只股票中平均排名第 32 名。金属查恩",
+  "pub_time": "2026-11-05T16:48:56Z",
+  "source": "Nasdaq商品",
   "_cat": "贵金属",
-  "dedup_key": "82165eec75be4b90c22e534d3fc8b64d",
+  "dedup_key": "f87adfc4f44499616fde36c48c8d593f",
   "score": 84,
   "priority": "P1",
   "topic": "贵金属",
@@ -1462,9 +1780,10 @@
   "is_elite": false,
   "keywords": [
    "贵金属",
-   "黄金"
+   "黄金",
+   "金属"
   ],
-  "en_title": "Democrats’ win tests US mining support, lifts gold"
+  "en_title": "See How Seabridge Gold Ranks Among Analysts' Top Metals Picks"
  },
  {
   "title": "【独家】11月大豆价格能回涨吗？",
@@ -2348,61 +2667,6 @@
   "en_title": "Chibougamau offers copper growth for Central Asia: BMO"
  },
  {
-  "title": "由于智利天气恶劣，伦丁再次下调铜前景",
-  "url": "",
-  "summary": "Lundin Mining (TSX: LUN) 自 8 月以来第二次下调年度铜产量预测，原因是融雪继续扰乱其 Caserones 矿场。由于智利天气影响，《北方矿业报》首先报道了伦丁矿业 (Lundin Mining) 再次下调铜矿前景。",
-  "pub_time": "2026-11-05T15:40:00Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "6880f166dfd466d2d465bab332de8e8f",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "走强",
-   "展望"
-  ],
-  "en_title": "Lundin cuts copper outlook again as Chile weather bites"
- },
- {
-  "title": "亚利桑那州陆战胜利后，力拓向Resolution Copper注资1.44亿美元",
-  "url": "",
-  "summary": "力拓（澳大利亚证券交易所、伦敦证券交易所、纽约证券交易所代码：RIO）已批准其位于亚利桑那州的Resolution Copper项目额外支出1.44亿美元（合2.01亿加元），用于推进工程建设以及……在亚利桑那州土地争夺战获胜后，力拓向Resolution Copper注入1.44亿美元。《北方矿工》首先报道了这一消息。",
-  "pub_time": "2026-11-05T15:23:00Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "ba94f409f8fb603ebad285367f81f253",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "锡"
-  ],
-  "en_title": "Rio Tinto injects $144M into Resolution Copper after Arizona land battle win"
- },
- {
   "title": "Goose 面临困境，B2Gold 下调成本预期",
   "url": "",
   "summary": "鹅是矿工恢复的关键，需要 74,000 盎司。第四季度较第三季度增长86%，实现年度目标。",
@@ -2512,15 +2776,15 @@
   "en_title": "Codelco’s inflated copper output scandal hits 42,100 tonnes"
  },
  {
-  "title": "五周罢工后 Sibanye 下调美国产量预期",
+  "title": "黄金涨幅扩大至两周高点",
   "url": "",
-  "summary": "旷日持久的劳资纠纷扰乱了铂族金属的产量，该矿商正在权衡芬兰锂项目的下一步行动。",
-  "pub_time": "2026-11-05T10:44:00Z",
-  "source": "Mining.com",
+  "summary": "(RTTNews) - 由于美国中期选举后美元和国债收益率下滑，金价周四扩大涨幅，触及两周多高点。油价大幅回落也有助于缓解通胀和加息担忧。",
+  "pub_time": "2026-11-05T10:15:06Z",
+  "source": "Nasdaq商品",
   "_cat": "贵金属",
-  "dedup_key": "e8ab1546d1af54f6ba3a78222f74278c",
+  "dedup_key": "e77c33cd447b6ee64ccc442528ebbff6",
   "score": 84,
-  "priority": "P1",
+  "priority": "P2",
   "topic": "贵金属",
   "tags": [
    "贵金属",
@@ -2533,12 +2797,37 @@
   "is_elite": false,
   "keywords": [
    "贵金属",
-   "产量",
-   "罢工",
-   "周",
-   "预测"
+   "黄金",
+   "走强",
+   "周"
   ],
-  "en_title": "Sibanye cuts US output forecast after five-week strike"
+  "en_title": "Gold Extends Gains To Two-week High"
+ },
+ {
+  "title": "油价从两个月低点反弹",
+  "url": "",
+  "summary": "(RTTNews) - 由于美伊战争可能很快结束，油价在前一交易日下跌超过 8% 后，周四走高。",
+  "pub_time": "2026-11-05T09:55:47Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "6d057c7a8da92015c312ff308f67385e",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Oil Rebounds From Two-month Lows"
  },
  {
   "title": "Mysteel晚餐：钢材总库存下降，炼焦煤矿山产量减少",
@@ -2955,6 +3244,33 @@
   "is_elite": false
  },
  {
+  "title": "Ferroglobe 股票变得非常超卖",
+  "url": "",
+  "summary": "在周三的交易中，Ferroglobe PLC（代码：GSM）的股票进入超卖区域，换手价低至每股 2.94 美元。我们使用相对强弱指数（RSI）来定义超卖区域，这是一种技术分析指标，用于衡量超卖动量",
+  "pub_time": "2026-11-04T21:12:10Z",
+  "source": "Nasdaq商品",
+  "_cat": "基本金属",
+  "dedup_key": "a3232cf0aee33805ddadb74d41358c0c",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡",
+   "库存"
+  ],
+  "en_title": "Ferroglobe Stock Getting Very Oversold"
+ },
+ {
   "title": "密歇根州立大学研究发现玉米粒重量在干燥期间保持稳定",
   "url": "",
   "summary": "",
@@ -2979,31 +3295,5 @@
    "玉米"
   ],
   "en_title": "MSU Study Finds Corn Kernel Weight Remains Stable During Dry Down"
- },
- {
-  "title": "ASA 和巴斯夫为未来农业领袖提供 7,000 美元奖学金",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-11-04T18:07:00Z",
-  "source": "Grainnet",
-  "_cat": "基本金属",
-  "dedup_key": "150144e7c033a6226c9a439b4384f4ca",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铅"
-  ],
-  "en_title": "ASA, BASF Offer $7,000 Scholarship to Future Agriculture Leaders"
  }
 ]
