@@ -1,5 +1,32 @@
 [
  {
+  "title": "美国公投后铜价面临进一步下滑：TD",
+  "url": "",
+  "summary": "由于民主党在美国中期选举中获胜削弱了对进口关税的预期，铜价可能进一步下跌。",
+  "pub_time": "2026-11-06T23:54:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "6f9d5fce5057bcaeefd6a38e23c548d7",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜",
+   "下滑"
+  ],
+  "en_title": "Copper faces further slide after US vote: TD"
+ },
+ {
   "title": "中国证监会同意葵花籽油、氢氧化锂期货和期权注册",
   "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727741.shtml",
   "summary": "记者昨天从中国证监会获悉，近日，中国证监会同意郑州商品交易所葵花籽油期货和期权注册。中国证监会将督促郑州商品交易所做好各项准备工作，确保葵花籽油期货和期权的平稳推出和稳健运行",
@@ -19,13 +46,13 @@
   "is_elite": false
  },
  {
-  "title": "美国国防后勤局承诺投入 20 亿美元采购国防储备关键材料",
+  "title": "DLA 承诺斥资 20 亿美元采购国防储备关键材料",
   "url": "",
-  "summary": "国防战略要求战略产业回流、扩大国内生产。",
+  "summary": "美国国防战略呼吁回流战略产业并扩大国内生产。",
   "pub_time": "2026-11-06T23:30:00Z",
   "source": "Mining.com",
   "_cat": "综合",
-  "dedup_key": "3874df6e7cbd6093d73929b91bcc44ee",
+  "dedup_key": "5f1215756187c36dcb778a006fcbbab4",
   "score": 84,
   "priority": "P2",
   "topic": "综合",
@@ -42,7 +69,7 @@
    "综合",
    "库存"
   ],
-  "en_title": "US DLA commits $2 billion to acquire critical materials for National Defense Stockpile"
+  "en_title": "DLA commits $2 billion to acquire critical materials for National Defense Stockpile"
  },
  {
   "title": "华尔街的“能源转型”基金充满了天然气",
@@ -2764,33 +2791,6 @@
   "en_title": "Chibougamau offers copper growth for Central Asia: BMO"
  },
  {
-  "title": "Goose 面临困境，B2Gold 下调成本预期",
-  "url": "",
-  "summary": "鹅是矿工恢复的关键，需要 74,000 盎司。第四季度较第三季度增长86%，实现年度目标。",
-  "pub_time": "2026-11-05T15:00:04Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "a28c11d6c649154ab9f20e29192df40c",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "预测"
-  ],
-  "en_title": "B2Gold cuts cost forecast as Goose faces crunch"
- },
- {
   "title": "黄金涨幅扩大至两周高点",
   "url": "",
   "summary": "(RTTNews) - 由于美国中期选举后美元和国债收益率下滑，金价周四扩大涨幅，触及两周多高点。油价大幅回落也有助于缓解通胀和加息担忧。",
@@ -3228,25 +3228,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "0ce2b64e32fae2f2f2fdb3f1a4c506c1",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "北极冷空气或提前南下，本就吃紧的欧洲天然气库存再添压力",
-  "url": "https://news.mysteel.com/a/26110508/CC23421076781654.html",
-  "summary": "",
-  "pub_time": "2026-11-05T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "564cc80a2e388b38b8a78617b0a8fde9",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
