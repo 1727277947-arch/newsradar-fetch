@@ -1,36 +1,17 @@
 [
  {
-  "title": "湖南东安“小改大”激活土地效能 农户从田里“松绑”增收",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728064.shtml",
-  "summary": "乔爱林 陈灵玲 谢助民)在湖南永州市东安县鹿马桥镇西涧河流域河东村，经“小改大”归并的1800余亩高标准农田正开展连片机收。通过推平田埂、重修渠系与机耕道，昔日零散的“巴掌田”变成规整方田，双季稻耕、种、收综合机械化率达到98%",
-  "pub_time": "2026-11-07T11:51:33Z",
+  "title": "（第九届进博会）进博会上展开“大豆对话” 44年情谊见证中美农贸韧性",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728120.shtml",
+  "summary": "中新社上海11月7日电 题：进博会上展开“大豆对话” 44年情谊见证中美农贸韧性",
+  "pub_time": "2026-11-07T13:22:00Z",
   "source": "中国新闻网-财经",
   "_cn": true,
-  "dedup_key": "0b32fa296c407a1b311cf6e2ff809a4b",
+  "dedup_key": "8398ff7e683b08aac869f63956b1ca1c",
   "score": 80,
   "priority": "P1",
-  "topic": "国内/财经",
+  "topic": "国内/大宗商品",
   "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
-  "title": "湖南冷水滩推广“稻稻油”轮作 冬闲田盘活成增收田",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728022.shtml",
-  "summary": "唐梦)眼下正是秋冬油菜播种时节。在湖南永州市冷水滩区蔡市镇巴洲滩社区、红卫村，连片冬闲田里，多台旋耕播种机往来作业",
-  "pub_time": "2026-11-07T10:48:02Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "4d4b242bb19f58c09c0c268e3609c46c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
+   "大宗商品",
    "中文",
    "国内",
    "中国新闻网-财经"
@@ -93,59 +74,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "美国公投后铜价面临进一步下滑：TD",
-  "url": "",
-  "summary": "由于民主党在美国中期选举中获胜削弱了对进口关税的预期，铜价可能进一步下跌。",
-  "pub_time": "2026-11-06T23:54:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "6f9d5fce5057bcaeefd6a38e23c548d7",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "下滑"
-  ],
-  "en_title": "Copper faces further slide after US vote: TD"
- },
- {
-  "title": "DLA 承诺斥资 20 亿美元采购国防储备关键材料",
-  "url": "",
-  "summary": "美国国防战略呼吁回流战略产业并扩大国内生产。",
-  "pub_time": "2026-11-06T23:30:00Z",
-  "source": "Mining.com",
-  "_cat": "综合",
-  "dedup_key": "5f1215756187c36dcb778a006fcbbab4",
-  "score": 84,
-  "priority": "P2",
-  "topic": "综合",
-  "tags": [
-   "综合",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "综合",
-   "库存"
-  ],
-  "en_title": "DLA commits $2 billion to acquire critical materials for National Defense Stockpile"
  },
  {
   "title": "华尔街的“能源转型”基金充满了天然气",
@@ -441,32 +369,6 @@
   "en_title": "USW Board Reviews Efforts to Strengthen Global Wheat Demand"
  },
  {
-  "title": "瑞吉斯资源公司报告西部杜克顿南金矿作业发生致命事故",
-  "url": "",
-  "summary": "杜克顿的运营已暂时停止，该事件正在调查中。",
-  "pub_time": "2026-11-06T17:11:51Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "ef24bbedbaae97d2b29b56e0c0814faa",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Regis Resources reports fatal accident at Duketon South gold operation in Western Australia"
- },
- {
   "title": "挪威石油和天然气行业在没有新发现的情况下面临重大衰退",
   "url": "",
   "summary": "半个多世纪以来，挪威的石油和天然气生产一直依赖于一些非常大的发现，其中最后一个发现是十多年前在巴伦支海发现的。从那时起，挪威大陆架（NCS）的勘探越来越集中于小规模的勘探。",
@@ -519,32 +421,6 @@
    "金属"
   ],
   "en_title": "See How IAMGold Ranks Among Analysts' Top Metals Picks"
- },
- {
-  "title": "加拿大预算延长税收减免，但矿产勘探者仍希望",
-  "url": "",
-  "summary": "新的关键矿产战略将支持采矿和加工技术、研究和项目资金。",
-  "pub_time": "2026-11-06T16:33:43Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "c4356287e42306c433778b2f76462d6a",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡"
-  ],
-  "en_title": "Canada’s budget extends tax relief but leaves mineral explorers wanting"
  },
  {
   "title": "【独家】玉米继续上涨！",
@@ -1059,32 +935,6 @@
   "en_title": "AngloGold bets $900M on existing mines"
  },
  {
-  "title": "顾问称，世界拥抱黄金，而美国抵制转变",
-  "url": "",
-  "summary": "在不确定的时期，七国集团以外的政府越来越多地转向黄金作为抵御未来金融危机的保障。",
-  "pub_time": "2026-11-06T14:27:29Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "cae5dd141f64f9024697984b5a31b947",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "World embraces gold while US resists shift, advisor says"
- },
- {
   "title": "印度电池推动面临原材料考验",
   "url": "",
   "summary": "印度正在补贴电池存储以及锂和镍加工，以建立国内供应链，但要确保原材料并与海外老牌企业竞争……印度电池推动面临原材料考验的帖子首先出现在《北方矿工》上。",
@@ -1567,25 +1417,6 @@
   "is_elite": false
  },
  {
-  "title": "黑色持仓日报：期螺飘红，东证期货减持超1.3万手空单",
-  "url": "https://news.mysteel.com/a/26110615/50593F5E8529E248.html",
-  "summary": "",
-  "pub_time": "2026-11-06T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "4ed038b9a794df3f4005517b9403def7",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "中国黄金集团等在新疆巴州成立矿业公司",
   "url": "https://news.mysteel.com/a/26110615/639D95717C5FA58B.html",
   "summary": "",
@@ -1631,6 +1462,25 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "48f67b49d36a7d4e4ce7b7713bab28cb",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "黑色持仓日报：期螺飘红，东证期货减持超1.3万手空单",
+  "url": "https://news.mysteel.com/a/26110615/C3ECCBF406A58FE2.html",
+  "summary": "",
+  "pub_time": "2026-11-06T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "4ed038b9a794df3f4005517b9403def7",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -2029,32 +1879,6 @@
   "is_elite": false
  },
  {
-  "title": "新金矿发现推动了 Perpetua 辉锑矿项目的发展",
-  "url": "",
-  "summary": "该公司表示，Fiddle 的发现孔深 109.7 米，金品位为 3.2 克/吨，锑品位为 1.1%，是该项目遇到的最重要的矿化截获之一。",
-  "pub_time": "2026-11-05T23:57:00Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "1af135dbc84c88df4d64d80eb9f3497d",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "New gold discovery boosts Perpetua’s Stibnite project"
- },
- {
   "title": "Mysteel早读：东北建筑钢材南下调研，美股大跌AI龙头集体跳水",
   "url": "https://news.mysteel.com/a/26110607/B75A23AD1062ECCC.html",
   "summary": "",
@@ -2254,32 +2078,6 @@
    "锡"
   ],
   "en_title": "November Cover Crop Planting Can Still Provide Benefits in Michigan"
- },
- {
-  "title": "AngloGold 计划斥资 9 亿美元扩建矿山，利润强劲",
-  "url": "",
-  "summary": "这项投资是在这家金矿公司计划在本世纪末逐步增加产量之际进行的。",
-  "pub_time": "2026-11-05T16:55:19Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "62cf6dd6f01324baad9de4c0a8daadff",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "AngloGold plans $900 million mine expansion amid stronger profit"
  },
  {
   "title": "了解 Seabridge Gold 如何跻身分析师首选金属之列",
@@ -3162,31 +2960,5 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "Chibougamau为中亚提供铜增长：BMO",
-  "url": "",
-  "summary": "Chibougamau 的年稳态产量可能达到约 20,000 吨铜和 32,000 盎司。黄金。",
-  "pub_time": "2026-11-05T15:40:08Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "062c56d59902fa2ebddf900b5201360f",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "铜"
-  ],
-  "en_title": "Chibougamau offers copper growth for Central Asia: BMO"
  }
 ]
