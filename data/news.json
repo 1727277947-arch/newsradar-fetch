@@ -1,5 +1,30 @@
 [
  {
+  "title": "美国有 500 亿美元用于核废料却无处存放",
+  "url": "",
+  "summary": "芬兰和美国正在以两种相反的方式来解决日益严重的乏核燃料问题。芬兰即将启用世界上第一个永久性核废料处理设施。美国陷入了无休止的政治更替和由此产生的网格的循环之中。",
+  "pub_time": "2026-11-07T22:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "c00473fe65701adb24ecbb06b572ca32",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "The U.S. Has $50 Billion for Nuclear Waste and Nowhere to Put It"
+ },
+ {
   "title": "埃及寻求数十亿美元的新投资以重振石油和天然气生产",
   "url": "",
   "summary": "埃及政府正在加倍努力加速其石油和天然气资源的开发。埃及目前的目标是到 2027 年实现每天 66 亿立方英尺的生产能力，这得益于增加的钻探、新的勘探激励措施以及实习生加大投资",
@@ -2029,81 +2054,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "GDRZF 的股票现已超卖",
-  "url": "",
-  "summary": "在周四的交易中，Gold Reserve Ltd（代码：GDRZF）的股票进入超卖区域，换手价低至每股 3.89 美元。我们使用相对强度指数 (RSI) 定义超卖区域，这是一种用于衡量动量的技术分析指标",
-  "pub_time": "2026-11-05T21:03:30Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "d9bd7047e51d64116fcad6ac63508d37",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "Shares of GDRZF Now Oversold"
- },
- {
-  "title": "LAR 的股票现已超卖",
-  "url": "",
-  "summary": "在周四的交易中，Lithium Argentina AG（代码：LAR）的股票进入超卖区域，换手价低至每股 3.92 美元。我们使用相对强度指数（RSI）定义超卖区域，这是一种用于衡量时刻的技术分析指标",
-  "pub_time": "2026-11-05T21:03:28Z",
-  "source": "Nasdaq商品",
-  "_cat": "基本金属",
-  "dedup_key": "c29724564f9db6fcfb86fecb531fe71a",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Shares of LAR Now Oversold"
- },
- {
-  "title": "Snowline 在 PDAC 2027 年奖项类别中名列前茅",
-  "url": "",
-  "summary": "早在 Snowline Gold（多伦多证券交易所代码：SGD；美国场外交易代码：SNWGF）山谷矿床引起业界关注之前，联合创始人兼首席执行官 Scott Berdahl 就一直在努力为育空地区的资产寻找支持……Snowline 领导 PDAC 2027 年奖项类别的帖子首先出现在《北方矿工》上。",
-  "pub_time": "2026-11-05T20:12:24Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "1504cd0a35150e2bbbaa72187a9aaed1",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "铅"
-  ],
-  "en_title": "Snowline leads PDAC’s 2027 awards class"
  }
 ]
