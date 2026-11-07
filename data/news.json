@@ -1,5 +1,33 @@
 [
  {
+  "title": "埃及寻求数十亿美元的新投资以重振石油和天然气生产",
+  "url": "",
+  "summary": "埃及政府正在加倍努力加速其石油和天然气资源的开发。埃及目前的目标是到 2027 年实现每天 66 亿立方英尺的生产能力，这得益于增加的钻探、新的勘探激励措施以及实习生加大投资",
+  "pub_time": "2026-11-07T20:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "b6f9e102f558db01fa8d88f282b25dff",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "天然气",
+   "产量"
+  ],
+  "en_title": "Egypt Eyes Billions in New Investment to Revive Oil and Gas Production"
+ },
+ {
   "title": "尽管面临地缘政治阻力，特朗普支持的贸易走廊仍取得进展",
   "url": "",
   "summary": "尽管与美国的运营协议仍有待最终确定，但亚美尼亚官员已开始了 TRIPP 贸易走廊的设计工作。美国和亚美尼亚官员于 1 月宣布了一项初步协议，概述了建立一个名为 TRIPP Development 的实体，该实体将",
@@ -1179,31 +1207,6 @@
   "en_title": "Paraguay crisis may threaten uranium ambitions"
  },
  {
-  "title": "FGE NexantECA 认为美国与伊朗达成协议的机会渺茫",
-  "url": "",
-  "summary": "能源咨询公司 FGE NexantECA 在美国中期选举后表示，美国与伊朗达成协议的可能性很低，未来两个月的升级风险最大，可能会破坏霍尔木兹海峡石油流量的恢复。 “我们不仅没有接近解决方案，而且还差点",
-  "pub_time": "2026-11-06T13:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "27d4b7775bccc82bccc3e1a9097ebfe8",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "FGE NexantECA Sees Slim Chance of U.S.-Iran Deal"
- },
- {
   "title": "Perpetua在辉锑矿矿坑附近发现金和锑",
   "url": "",
   "summary": "Perpetua Resources（纳斯达克股票代码：PPTA；多伦多证券交易所股票代码：PPTA）在其爱达荷州中部辉锑矿项目的一个计划露天矿坑附近发现了金和锑矿化，该矿化正在开启……Perpetua 在辉锑矿矿坑附近发现金、锑的帖子首先出现在《北方矿工》杂志上。",
@@ -2102,85 +2105,5 @@
    "铅"
   ],
   "en_title": "Snowline leads PDAC’s 2027 awards class"
- },
- {
-  "title": "由于美伊新一轮袭击的不确定性，原油价格飙升",
-  "url": "",
-  "summary": "(RTTNews) - 原油价格周四飙升，部分抵消了昨天交易时段的暴跌，因为投资者正在关注美国政权计划采取的解决美伊僵局的下一步措施。专家们对于美国是否会采取行动存在分歧",
-  "pub_time": "2026-11-05T19:38:23Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "5c703a8298c77d1c7c0f330d1b96d27c",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "罢工"
-  ],
-  "en_title": "Crude Oil Soars Amid Uncertainty Surrounding Renewed U.S.-Iran Strikes"
- },
- {
-  "title": "交互式显示屏将东南亚磨坊主和面包师与美国小麦联系起来",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-11-05T19:08:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "e45f80d0255560f82242b06ed4a75457",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "小麦"
-  ],
-  "en_title": "Interactive Display Connects Southeast Asian Millers and Bakers With U.S. Wheat"
- },
- {
-  "title": "由于通胀担忧继续保持在低位，黄金大幅上涨",
-  "url": "",
-  "summary": "(RTTNews) - 由于市场参与者试图评估美国对伊朗的计划，而通胀忧虑连续第二天保持在最低限度，金价周四走高，进一步增加了昨天的涨幅。",
-  "pub_time": "2026-11-05T18:33:52Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "ff46be8a32e86711d75a00142ea760d3",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "锡"
-  ],
-  "en_title": "Gold Advances Sharply As Inflation Concerns Continue To Stay Low"
  }
 ]
