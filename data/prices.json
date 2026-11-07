@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T22:19:12",
+ "updated_at": "2026-11-08T01:49:19",
  "spot_meta": {
   "policy": "stale_never_fill",
   "spot_page_used": "2026-11-06",
@@ -6743,7 +6743,10 @@
    "reason": "今日打板 · 方向做多 · 实时+1.59% / 波幅1.56% / 打板分43: 二档回踩承接≈3235、进场≈3290.9, 止损3202.7, 止盈3450.66",
    "tier": 1,
    "rank": 1,
-   "is_today": true
+   "is_today": true,
+   "contract_value": 32620.0,
+   "last_settle": 3211.0,
+   "change_pct": 1.59
   }
  ],
  "hf_pool": [
@@ -6755,7 +6758,7 @@
   }
  ],
  "daily_pick": {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "session": "morning",
   "ruleset": 3,
   "symbol": "MA0",
@@ -6813,71 +6816,11 @@
   "change_pct": 1.59
  },
  "afternoon_pick": {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "session": "afternoon",
   "ruleset": 3,
-  "symbol": "MA0",
-  "name": "甲醇",
-  "category": "化工",
-  "unit": "元/吨",
-  "price": 3262.0,
-  "direct": 1,
-  "dir_label": "做多",
-  "day_range_pct": 1.56,
-  "limit_score": 43,
-  "board": "一般/观望",
-  "dual": {
-   "st": "break_a",
-   "ref": 3235.0
-  },
-  "plan": {
-   "dir": "long",
-   "dir_label": "做多",
-   "entry": 3290.9,
-   "entry_alt": null,
-   "entry_alt_kind": null,
-   "sl": 3175.3,
-   "tp": 3450.66,
-   "sl_pct": 2.66,
-   "rr": 2.0,
-   "basis": "afternoon_last",
-   "k": 0.6,
-   "hit_rate": 0.183,
-   "note": "午后重算·转强确认进多; 止损ATR自适应, 2R落袋; 进场后立刻反向即离场"
-  },
-  "real_open": 3235.0,
-  "day_bias": "bull",
-  "day_ma": [
-   3419.6,
-   3303.9,
-   2977.52
-  ],
-  "est_margin": 3262.0,
-  "hands_in_100k": 30,
-  "volume": 872313,
-  "open_interest": 1020748,
-  "mode": "追强做多",
-  "anchor": 3262.0,
-  "tp": 3450.66,
-  "sl": 3175.3,
-  "pullback": null,
-  "src_conflict": false,
-  "board_score": 0.713,
-  "day_conflict": null,
-  "reason": "午后重算 · 方向做多 · 现价3262: 进场≈3290.9, 止损3175.3, 止盈3450.66",
-  "tier": 1,
-  "rank": 1,
-  "is_today": true,
-  "plan_basis": "afternoon_last",
-  "afternoon_meta": {
-   "basis_price": 3262.0,
-   "atr": 144.5,
-   "k": 0.6,
-   "hit_rate": 0.183
-  },
-  "contract_value": 32620.0,
-  "last_settle": 3211.0,
-  "change_pct": 1.59
+  "name": "",
+  "symbol": ""
  },
  "trading_rules": [
   {
