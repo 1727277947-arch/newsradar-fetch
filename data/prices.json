@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T19:19:12",
+ "updated_at": "2026-11-07T20:20:42",
  "spot_meta": {
   "policy": "stale_never_fill",
   "spot_page_used": "2026-11-06",
@@ -3666,60 +3666,6 @@
   }
  ],
  "predictions": [
-  {
-   "symbol": "nf_AP0",
-   "name": "苹果",
-   "category": "农产品",
-   "date": "2026-11-06",
-   "today_open": 5857.0,
-   "prev_close": 5689.0,
-   "gap_pct": 2.95,
-   "session": "day",
-   "has_night": false,
-   "direction": 1,
-   "label": "做多",
-   "strength": 3,
-   "mean_gap": -0.06,
-   "std_gap": 0.46,
-   "today_close": 6004.0,
-   "pred_next_open": 6129.884,
-   "pred_low": 6116.193,
-   "pred_high": 6143.574,
-   "limit_score": 85,
-   "board": "疑似打板候选",
-   "limit_ru": 5.54,
-   "limit_pos": 0.72,
-   "limit_vol": 1.88,
-   "limit_streak": 2,
-   "day_ma": [
-    5743.6,
-    5938.05,
-    6950.65
-   ],
-   "day_bias": "bear",
-   "atr": 234.21,
-   "sl_long_pct": 2.4,
-   "sl_short_pct": 1.6,
-   "hit_long": 0.25,
-   "hit_short": 0.217,
-   "stop_detail_long": {
-    "atr": 234.21,
-    "k": 0.6,
-    "stop": 5716.471,
-    "stop_pct": 2.4,
-    "hit_rate": 0.25,
-    "tested": 60
-   },
-   "stop_detail_short": {
-    "atr": 234.21,
-    "k": 0.4,
-    "stop": 5950.686,
-    "stop_pct": 1.6,
-    "hit_rate": 0.217,
-    "tested": 60
-   },
-   "reason": "苹果今开5857 vs 昨结5689，+2.95%偏强看多；打板分85(疑似打板候选)：涨5.54%/收高72%/放量1.88x/连涨2日；预测次日开盘≈6129.88，区间[6116.19, 6143.57]"
-  },
   {
    "symbol": "nf_SH0",
    "name": "烧碱",
