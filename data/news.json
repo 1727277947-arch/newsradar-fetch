@@ -1,5 +1,24 @@
 [
  {
+  "title": "每日钢市：临汾乡宁炼焦煤下跌80元，淡季钢价或震荡磨底",
+  "url": "https://news.mysteel.com/a/26110711/6F1FD855AB643F4C.html",
+  "summary": "",
+  "pub_time": "2026-11-07T03:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "59c400749f5dafdae4ce0e1749df008d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "入主数日即“输血”，兴业银锡拟向*ST威领无偿赠与现金3.5亿元",
   "url": "https://news.mysteel.com/a/26110710/9850BEEBA8F26661.html",
   "summary": "",
@@ -82,25 +101,6 @@
    "下滑"
   ],
   "en_title": "Copper faces further slide after US vote: TD"
- },
- {
-  "title": "中国证监会同意葵花籽油、氢氧化锂期货和期权注册",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727741.shtml",
-  "summary": "记者昨天从中国证监会获悉，近日，中国证监会同意郑州商品交易所葵花籽油期货和期权注册。中国证监会将督促郑州商品交易所做好各项准备工作，确保葵花籽油期货和期权的平稳推出和稳健运行",
-  "pub_time": "2026-11-06T23:44:20Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "bbaab9e49d362b443ca13eae43561e08",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
  },
  {
   "title": "DLA 承诺斥资 20 亿美元采购国防储备关键材料",
@@ -889,25 +889,6 @@
   "is_elite": false
  },
  {
-  "title": "台企在江苏无锡开建AI算力高端电子基板材料研发制造总部",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727708.shtml",
-  "summary": "孙权 唐娟)总投资8亿美元的联茂电子AI算力高端电子基板材料研发制造总部项目(简称“项目”)，6日在无锡锡山经济技术开发区开工",
-  "pub_time": "2026-11-06T15:52:22Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "31dc73dbecde32b69a600be967cdb646",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
   "title": "能源方面下调中国11月柴油出口预测",
   "url": "",
   "summary": "Energy Aspects分析师表示，在全球柴油危机中，国内库存减少可能会导致中国11月份柴油出口大幅下降，他们本月大幅下调了对中国出货量的预期。 Energy Aspects目前预计中国柴油出口量约为58万辆",
@@ -1365,25 +1346,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "43e1625e9ef8fbf350bd36d7cce4f542",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "关键矿产日报：安米三季度铁矿石产运同比双增",
-  "url": "https://news.mysteel.com/a/26110617/0459C53E0D620D7D.html",
-  "summary": "",
-  "pub_time": "2026-11-06T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "fdfcd1e37c2e7f1a7c27cc622d4d8ea5",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -3497,31 +3459,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "国家玉米机构加入澳大利亚谷物生产者协会",
-  "url": "",
-  "summary": "澳大利亚玉米协会已加入澳大利亚谷物生产者协会，将澳大利亚用途最广泛、种植最广泛的谷物作物之一纳入 GPA 的全国代表性。",
-  "pub_time": "2026-11-05T03:37:47Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "5e7fadf1b7e4a09836e64f4b203ea501",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "谷物"
-  ],
-  "en_title": "National maize body joins Grain Producers Australia"
  }
 ]
