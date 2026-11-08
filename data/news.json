@@ -1,5 +1,31 @@
 [
  {
+  "title": "石油巨头如何成为人工智能行业最喜爱的客户",
+  "url": "",
+  "summary": "随着科技界一些知名企业与能源公司达成大规模交易，人工智能公司正在加深与化石燃料行业的联系，既为其耗能数据中心提供动力，又将机器学习嵌入能源行业本身。已经，",
+  "pub_time": "2026-11-08T18:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "ca6d94841fee134bb9133d52e7aa518e",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "How Big Oil Became the AI Industry's Favorite Customer"
+ },
+ {
   "title": "纽约计划如何将废热转化为清洁能源",
   "url": "",
   "summary": "区域供暖已存在近 150 年，第一个商业系统于 1877 年在纽约建立，但仍未得到广泛应用。最初的系统使用中央化石燃料锅炉产生的蒸汽。然而，系统随着时间的推移而发展，现代供热网络已经",
@@ -842,32 +868,5 @@
    "锡"
   ],
   "en_title": "Budget extends tax relief but leaves explorers wanting"
- },
- {
-  "title": "美国公投后铜价面临进一步下滑：TD",
-  "url": "",
-  "summary": "由于民主党在美国中期选举中获胜削弱了对进口关税的预期，并引发了对预期需求的怀疑，铜价可能进一步下跌...美国投票后铜价面临进一步下跌：TD首先出现在《北方矿商》上。",
-  "pub_time": "2026-11-06T18:00:25Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "3fd1a443cc043092fd835a9dc80b4d39",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "下滑"
-  ],
-  "en_title": "Copper faces further slide after US vote: TD"
  }
 ]
