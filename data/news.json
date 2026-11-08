@@ -1,5 +1,32 @@
 [
  {
+  "title": "铁路线升级支持中西部粮食生产商",
+  "url": "",
+  "summary": "最近在西澳大利亚中西部地区的米德兰线沿线进行的升级改造正在提高今年粮食丰收期间通往杰拉尔顿港的货运能力。 The track upgrades between Carnamah and Mingenew…",
+  "pub_time": "2026-11-08T21:32:14Z",
+  "source": "GrainCentral",
+  "_cat": "基本金属",
+  "dedup_key": "7edc7124a26b1d70835c66e82fa026ab",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡",
+   "谷物"
+  ],
+  "en_title": "Rail line upgrades supporting Mid West grain producers"
+ },
+ {
   "title": "石油巨头如何成为人工智能行业最喜爱的客户",
   "url": "",
   "summary": "随着科技界一些知名企业与能源公司达成大规模交易，人工智能公司正在加深与化石燃料行业的联系，既为其耗能数据中心提供动力，又将机器学习嵌入能源行业本身。已经，",
@@ -681,31 +708,5 @@
    "能源"
   ],
   "en_title": "Wall Street’s “Energy Transition” Funds Are Packed With Natural Gas"
- },
- {
-  "title": "由于运费飙升，石油交易商希望美国释放受制裁的油轮",
-  "url": "",
-  "summary": "全球一些最大的石油贸易商正在请求华盛顿允许受制裁的油轮重新投入工作，因为全球船舶短缺将石油运输成本推至异常水平。托克 (Trafigura)、维多 (Vitol)、摩科瑞 (Mercuria) 和阿布扎比国家石油公司 (Abu Dhabi National Oil Co.) 正在与美国官员就",
-  "pub_time": "2026-11-06T20:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "50aa91577208541fd094eee661754b38",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Oil Traders Want U.S. to Release Sanctioned Tankers as Freight Costs Soar"
  }
 ]
