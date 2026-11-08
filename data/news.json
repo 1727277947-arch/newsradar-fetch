@@ -1,5 +1,30 @@
 [
  {
+  "title": "Telangatuk East国家提供优惠，基金降低了Great Southern的预期",
+  "url": "",
+  "summary": "南威默拉 (Wimmera) 地区正在出售 Dunstans 的 Naranghi，而在西澳的大南部 (Great Southern)，供应商降低了 Goodhope 和 Tagliaferri 的价格预期，",
+  "pub_time": "2026-11-08T22:54:23Z",
+  "source": "GrainCentral",
+  "_cat": "基本金属",
+  "dedup_key": "34c86dc023354f8a6abf74c8bc9dddf7",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Telangatuk East country on offer, fund lowers expectations in Great Southern"
+ },
+ {
   "title": "铁路线升级支持中西部粮食生产商",
   "url": "",
   "summary": "最近在西澳大利亚中西部地区的米德兰线沿线进行的升级改造正在提高今年粮食丰收期间通往杰拉尔顿港的货运能力。 The track upgrades between Carnamah and Mingenew…",
@@ -682,31 +707,5 @@
    "库存"
   ],
   "en_title": "DLA commits $2 billion to acquire critical materials for National Defense Stockpile"
- },
- {
-  "title": "华尔街的“能源转型”基金充满了天然气",
-  "url": "",
-  "summary": "当我们即将于下周在土耳其安塔利亚举行的联合国第 31 届年度旗舰气候会议 (COP31) 之际，“漂绿”给私营部门带来了一个日益严重的大问题。在人工智能的背景下，科技行业的温室气体排放呈爆炸式增长",
-  "pub_time": "2026-11-06T23:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "f80471eb1326931bb2b7e8b806d04533",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "天然气",
-   "能源"
-  ],
-  "en_title": "Wall Street’s “Energy Transition” Funds Are Packed With Natural Gas"
  }
 ]
