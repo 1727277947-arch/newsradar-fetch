@@ -110,7 +110,7 @@ def test_pending_latest_slot_is_not_a_miss():
     assert not any("11-04 11:43" in note for note in notes)
 
 
-def test_one_successful_run_cannot_cover_multiple_plan_slots():
+def test_recovered_multi_slot_gap_is_recorded_without_becoming_an_alarm():
     omitted = {
         datetime(2026, 11, 4, 2, 0),
         datetime(2026, 11, 4, 3, 37),
@@ -121,15 +121,19 @@ def test_one_successful_run_cannot_cover_multiple_plan_slots():
         omit=omitted,
         extra=[(datetime(2026, 11, 4, 4, 30), "success")],
     )
-    issues, _ = health.check_schedule(
+    issues, notes = health.check_schedule(
         NOW, api_json=runs_payload(rows), data_updated_at="2026-11-04T11:43:00"
     )
-    missed = [issue for issue in issues if issue["item"] == "连续漏档"]
-    assert len(missed) == 1
-    assert "11-04 02:00 至 11-04 04:00 连续 3 个计划触发点" in missed[0]["evidence"]
+    assert not any(issue["item"] == "连续漏档" for issue in issues)
+    assert any(
+        "历史连续漏档已恢复" in note
+        and "11-04 02:00 至 11-04 04:00" in note
+        and "3 个计划点" in note
+        for note in notes
+    )
 
 
-def test_consecutive_misses_and_unresolved_failure_are_both_reported():
+def test_unresolved_failure_after_historical_gap_still_fails_health_check():
     rows = planned_successes(
         omit={
             datetime(2026, 11, 4, 3, 37),
@@ -142,7 +146,71 @@ def test_consecutive_misses_and_unresolved_failure_are_both_reported():
         NOW, api_json=runs_payload(rows), data_updated_at="2026-11-04T11:43:00"
     )
     items = {issue["item"] for issue in issues}
-    assert {"连续漏档", "抓取失败"} <= items
+    assert "抓取失败" in items
+
+
+def test_recovered_gap_after_morning_queue_loss_does_not_keep_check_red():
+    now = datetime(2026, 11, 4, 19, 30)
+    rows = planned_successes(
+        now=now,
+        omit={
+            datetime(2026, 11, 4, 11, 43),
+            datetime(2026, 11, 4, 12, 0),
+            datetime(2026, 11, 4, 12, 13),
+        },
+        extra=[(datetime(2026, 11, 4, 19, 17), "success")],
+    )
+    issues, notes = health.check_schedule(
+        now, api_json=runs_payload(rows), data_updated_at="2026-11-04T19:17:00"
+    )
+    assert not any(issue["item"] == "连续漏档" for issue in issues)
+    assert any(
+        "历史连续漏档已恢复" in note and "11-04 11:43 至 11-04 12:13" in note
+        for note in notes
+    )
+
+
+def test_recovered_gap_with_stale_data_remains_an_alarm():
+    now = datetime(2026, 11, 4, 19, 30)
+    rows = planned_successes(
+        now=now,
+        omit={
+            datetime(2026, 11, 4, 11, 43),
+            datetime(2026, 11, 4, 12, 0),
+            datetime(2026, 11, 4, 12, 13),
+        },
+        extra=[(datetime(2026, 11, 4, 19, 17), "success")],
+    )
+    issues, _ = health.check_schedule(
+        now, api_json=runs_payload(rows), data_updated_at="2026-11-04T12:13:00"
+    )
+    assert any(
+        issue["item"] == "连续漏档" and "11-04 11:43 至 11-04 12:13" in issue["evidence"]
+        for issue in issues
+    )
+
+
+def test_failure_without_later_success_remains_an_alarm():
+    now = datetime(2026, 11, 4, 19, 30)
+    rows = planned_successes(
+        now=now,
+        omit={
+            datetime(2026, 11, 4, 11, 43),
+            datetime(2026, 11, 4, 12, 0),
+            datetime(2026, 11, 4, 12, 13),
+        },
+        extra=[
+            (datetime(2026, 11, 4, 19, 17), "success"),
+            (datetime(2026, 11, 4, 19, 25), "failure"),
+        ],
+    )
+    issues, _ = health.check_schedule(
+        now, api_json=runs_payload(rows), data_updated_at="2026-11-04T19:17:00"
+    )
+    assert any(
+        issue["item"] == "抓取失败" and "19:25" in issue["evidence"]
+        for issue in issues
+    )
 
 
 def test_three_consecutive_unmatched_slots_still_fail():

@@ -81,6 +81,11 @@ def snapshot_age_minutes(data, now):
     return (now - updated).total_seconds() / 60.0
 
 
+def freshness_limit_minutes(now):
+    """按北京时间判断当前允许的最大数据年龄（分钟）。"""
+    return FRESH_LIMIT_TRADING if 8 <= now.hour < 23 else FRESH_LIMIT_IDLE
+
+
 def load_prices(path, from_origin=False):
     """读 prices.json：优先 origin/main（线上真实数据），失败再退回本地文件。"""
     if from_origin:
@@ -126,7 +131,7 @@ def check_freshness(data, now):
                         "无法判断行情是否为最新，重算档位会落空",
                         "检查 fetch.yml 最近一次 run 是否失败")]
     trading = 8 <= now.hour < 23
-    limit = FRESH_LIMIT_TRADING if trading else FRESH_LIMIT_IDLE
+    limit = freshness_limit_minutes(now)
     if age > limit:
         return [anomaly(
             "新鲜度",
@@ -590,10 +595,24 @@ def check_schedule(now, api_json=None, data_updated_at=None):
             )
         current = []
 
+    data_updated = parse_cn(data_updated_at)
+    data_age = (now - data_updated).total_seconds() / 60.0 if data_updated else None
+    data_is_fresh = data_age is not None and 0 <= data_age <= freshness_limit_minutes(now)
+
     for group in miss_groups:
         first = group[0][0]
         last = group[-1][0]
         labels = sorted({label for _, label in group})
+        recovered_by_run = any(run[0] > last for run in successes)
+        recovered_by_data = data_updated is not None and data_updated > last
+        if recovered_by_run and recovered_by_data and data_is_fresh:
+            notes.append(
+                "历史连续漏档已恢复：%s 至 %s 有 %d 个计划点无成功 run，"
+                "但后续抓取已成功，data updated_at=%s，当前数据仍新鲜；仅记录，不再标红"
+                % (first.strftime("%m-%d %H:%M"), last.strftime("%m-%d %H:%M"),
+                   len(group), data_updated_at)
+            )
+            continue
         issues.append(anomaly(
             "连续漏档",
             "%s 至 %s 连续 %d 个计划触发点均无成功 run（%s；data updated_at=%s）"
