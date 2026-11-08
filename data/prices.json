@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T11:03:17",
+ "updated_at": "2026-11-08T15:33:09",
  "spot_meta": {
   "policy": "stale_never_fill",
   "spot_page_used": "2026-11-06",
@@ -4126,28 +4126,28 @@
    "day_ma": [
     3419.6,
     3303.9,
-    2977.52
+    3054.57
    ],
    "day_bias": "bull",
    "atr": 144.5,
    "sl_long_pct": 2.68,
-   "sl_short_pct": 2.68,
-   "hit_long": 0.183,
-   "hit_short": 0.217,
+   "sl_short_pct": 3.57,
+   "hit_long": 0.167,
+   "hit_short": 0.15,
    "stop_detail_long": {
     "atr": 144.5,
     "k": 0.6,
     "stop": 3148.3,
     "stop_pct": 2.68,
-    "hit_rate": 0.183,
+    "hit_rate": 0.167,
     "tested": 60
    },
    "stop_detail_short": {
     "atr": 144.5,
-    "k": 0.6,
-    "stop": 3321.7,
-    "stop_pct": 2.68,
-    "hit_rate": 0.217,
+    "k": 0.8,
+    "stop": 3350.6,
+    "stop_pct": 3.57,
+    "hit_rate": 0.15,
     "tested": 60
    },
    "reason": "甲醇今开3235 vs 昨结3211，+0.75%偏强看多（含夜盘：夜盘开盘3235 vs 昨结3211）；打板分43(一般/观望)：涨1.59%/收高89%/放量1.21x/连涨1日；预测次日开盘≈3277.25，区间[3263.81, 3290.7]"
@@ -6725,7 +6725,7 @@
    "day_ma": [
     3419.6,
     3303.9,
-    2977.52
+    3054.57
    ],
    "est_margin": 3262.0,
    "hands_in_100k": 30,
@@ -6842,7 +6842,7 @@
    "rr": 2.0,
    "basis": "afternoon_last",
    "k": 0.6,
-   "hit_rate": 0.183,
+   "hit_rate": 0.167,
    "note": "午后重算·转强确认进多; 止损ATR自适应, 2R落袋; 进场后立刻反向即离场"
   },
   "real_open": 3235.0,
@@ -6850,7 +6850,7 @@
   "day_ma": [
    3419.6,
    3303.9,
-   2977.52
+   3054.57
   ],
   "est_margin": 3262.0,
   "hands_in_100k": 30,
@@ -6873,7 +6873,7 @@
    "basis_price": 3262.0,
    "atr": 144.5,
    "k": 0.6,
-   "hit_rate": 0.183
+   "hit_rate": 0.167
   },
   "contract_value": 32620.0,
   "last_settle": 3211.0,

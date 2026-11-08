@@ -1,5 +1,24 @@
 [
  {
+  "title": "沙特首都金融区遭袭，阿美石油公司大楼受损",
+  "url": "https://news.mysteel.com/a/26110815/58DD9E92638B7752.html",
+  "summary": "",
+  "pub_time": "2026-11-08T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "0eddbb5427a341b1872b723874f7413b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "苹果研究团队披露机器人“大脑”进展，单项任务测试平均成功率为91%",
   "url": "https://news.mysteel.com/a/26110809/F3E55BCE09421B59.html",
   "summary": "",
@@ -473,25 +492,6 @@
    "中文",
    "国内",
    "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "（第九届进博会）进博会上展开“大豆对话” 44年情谊见证中美农贸韧性",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728120.shtml",
-  "summary": "中新社上海11月7日电 题：进博会上展开“大豆对话” 44年情谊见证中美农贸韧性",
-  "pub_time": "2026-11-07T13:22:00Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "8398ff7e683b08aac869f63956b1ca1c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
   ],
   "is_elite": false
  },
@@ -1878,139 +1878,6 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "中国黄金集团等在新疆巴州成立矿业公司",
-  "url": "https://news.mysteel.com/a/26110615/639D95717C5FA58B.html",
-  "summary": "",
-  "pub_time": "2026-11-06T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "ee9322fc751cc4a01655ed51e64362a6",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "宇树、中石油，拟合资布局工业具身智能",
-  "url": "https://news.mysteel.com/a/26110615/F4685C372F2005E0.html",
-  "summary": "",
-  "pub_time": "2026-11-06T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "68d80f39b164668df01bb98cb36f0da8",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "有色持仓日报：沪铜跌1.94%，国泰君安期货增持2.3千手空单",
-  "url": "https://news.mysteel.com/a/26110615/440BAE2641FA7C65.html",
-  "summary": "",
-  "pub_time": "2026-11-06T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "48f67b49d36a7d4e4ce7b7713bab28cb",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色持仓日报：期螺飘红，东证期货减持超1.3万手空单",
-  "url": "https://news.mysteel.com/a/26110615/C3ECCBF406A58FE2.html",
-  "summary": "",
-  "pub_time": "2026-11-06T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "4ed038b9a794df3f4005517b9403def7",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：13家车企公布10月新能源汽车销量，10家环比增长",
-  "url": "https://news.mysteel.com/a/26110614/AFFC5F11F5A77150.html",
-  "summary": "",
-  "pub_time": "2026-11-06T06:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "209215cf07472482099165d9662dbefc",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "国家发改委：谋划一批天然气储备重大工程",
-  "url": "https://news.mysteel.com/a/26110614/59E72C57BB029CC1.html",
-  "summary": "",
-  "pub_time": "2026-11-06T06:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "47cdb8910b6402ac2c950955b14a03f1",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "【证券日报】上海钢联曲国娜：明年第二季度可作为生猪行业重点观察窗口",
-  "url": "https://news.mysteel.com/a/26110614/4AC459D56C9911C8.html",
-  "summary": "",
-  "pub_time": "2026-11-06T06:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "548f511bed4a09f2f6b2479e290ede38",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
    "中文",
    "国内",
    "上海钢联Mysteel"
