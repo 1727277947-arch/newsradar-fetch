@@ -1,5 +1,209 @@
 [
  {
+  "title": "随着水电储量锐减，北欧电价今冬可能飙升",
+  "url": "",
+  "summary": "丹麦能源交易商 Mind Energy 表示，随着冬季临近，水电站水库水位较低和天然气价格飙升给北欧国家的电价带来上行压力。天然气价格飙升以及挪威南部水力发电量可能减少",
+  "pub_time": "2026-11-09T10:20:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "461bb2ca9a7675d3962cac0e6df26ee7",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "价",
+   "下跌"
+  ],
+  "en_title": "Nordic Power Prices Could Soar This Winter as Hydropower Reserves Plunge"
+ },
+ {
+  "title": "美元反弹后企稳，黄金小幅走高",
+  "url": "",
+  "summary": "(RTTNews) - 周一金价上涨至每盎司 4,100 美元，美元因就业数据强于预期而走稳。",
+  "pub_time": "2026-11-09T10:11:36Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "1978533812a01cc0d873a376524ab5ea",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "上涨"
+  ],
+  "en_title": "Gold Inches Higher As Dollar Steadies After Rally"
+ },
+ {
+  "title": "特朗普就伊朗战争发表言论后油价小幅走低",
+  "url": "",
+  "summary": "(RTTNews) - 油价周一大幅走低，延续了上周的跌势，此前美国总统唐纳德·特朗普表示，只要继续就伊朗核计划和重新开放霍尔木兹海峡进行谈判，他就不太可能下令对伊朗发动更多袭击。",
+  "pub_time": "2026-11-09T09:47:40Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "21e312eb192c32d9f8a01a6a1ee0f187",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价"
+  ],
+  "en_title": "Oil Prices Edge Lower After Trump's Remarks On Iran War"
+ },
+ {
+  "title": "11月第1周生猪和猪肉价格有所下跌",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728946.shtml",
+  "summary": "据农业农村部对500个县集贸市场和采集点监测，上周(11月第1周，11月2—8日，下同)，全国活猪价格为10.11元/公斤，环比跌2.9%；猪肉集贸市场价格为20.11元/公斤，环比跌1.2%。据农业农村部对200个批发市场监测调度，上周全国猪肉批发市场均价为15.01元/公斤，环比跌3.1%，同比低16.7%",
+  "pub_time": "2026-11-09T09:31:36Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "486efd00e300552e65ff33d7b02e067d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "中国国开行为哈萨克斯坦石化管道项目提供融资",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728949.shtml",
+  "summary": "中新社北京11月9日电 中国国家开发银行(下称国开行)9日公布消息称，其日前与哈萨克斯坦国家石油天然气公司、哈萨克斯坦国家石油天然气化工公司签署210公里乙烷丙烷管道建设项目融资协议，贷款金额28.9亿元人民币，由萨姆鲁克—卡泽纳国家福利基金提供担保",
+  "pub_time": "2026-11-09T09:27:24Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "6cc868aec4107dec17999ca6d4b9e589",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/金融政策",
+  "tags": [
+   "金融政策",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "伊拉克否决美国通过霍尔木兹海峡增加石油出口的协议",
+  "url": "",
+  "summary": "巴格达政府上周末与美国达成协议后，伊拉克的原油出口将增加。据路透社报道，根据该协议，伊拉克石油将通过阿曼海岸走廊运输。该信息来自伊拉克外交部",
+  "pub_time": "2026-11-09T09:10:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "5b23cd30f62e2885135e5fbae34d483c",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "出口",
+   "罢工"
+  ],
+  "en_title": "Iraq Strikes U.S. Deal to Boost Oil Exports Through Hormuz"
+ },
+ {
+  "title": "Mysteel晚餐：中方调整对美加征关税措施",
+  "url": "https://news.mysteel.com/a/26110917/81FB5CFA951D026D.html",
+  "summary": "",
+  "pub_time": "2026-11-09T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "08af73b44e679dafe5f0ccc4c6f46115",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel晚餐：中方调整对美加征关税措施，全球铁矿石发运减少",
+  "url": "https://news.mysteel.com/a/26110917/412B8F308DA8B079.html",
+  "summary": "",
+  "pub_time": "2026-11-09T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "f27bf200213958bea2f3c0b1a88076fb",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel日报：黑色金属期货震荡下跌运行",
+  "url": "https://news.mysteel.com/a/26110917/596ADA7EE22CC542.html",
+  "summary": "",
+  "pub_time": "2026-11-09T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "35e731dc1bfbf7b43450d8d00de0dc41",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "由于廉价国内天然气压低全球价格，中国削减液化天然气进口",
   "url": "",
   "summary": "尽管需求旺季已经开始，但由于国内天然气供应充足导致价格下降，中国进口的液化天然气仍在减少。据彭博社报道，中国液化天然气全国平均价格为每百万英热单位 21.97 美元，比日本/英国低近 10 美元。",
@@ -35,25 +239,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "5cf0c7bff1e48f9658bcf6aacd899262",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色持仓日报：中信期货减持超1.2万手螺纹钢多单",
-  "url": "https://news.mysteel.com/a/26110915/F9ED32658C520F79.html",
-  "summary": "",
-  "pub_time": "2026-11-09T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "3de9d07a5632c43e2486a40fcd39fe7e",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -104,25 +289,6 @@
   "is_elite": false
  },
  {
-  "title": "河北新金钢铁有限公司新港重工新金钢铁兼并重组产业升级一期项目1260立方米高炉产能减量置换方案公告",
-  "url": "https://news.mysteel.com/a/26110915/DB38C8C0381D8629.html",
-  "summary": "",
-  "pub_time": "2026-11-09T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "58132730ab1429e1b96871c36771d5f2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "全球首发！《绿色低碳钢铁概论——钢铁碳中和之路》（英文版）：中国钢铁低碳智慧走向世界",
   "url": "https://news.mysteel.com/a/26110915/089607DFC942882D.html",
   "summary": "",
@@ -149,6 +315,25 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "9c47f15b8bd42ed994732c2b04dc03ab",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "河北新金钢铁有限公司新港重工新金钢铁兼并重组产业升级一期项目1260立方米高炉产能减量置换方案公告",
+  "url": "https://news.mysteel.com/a/26110915/B90990B378E6C4D5.html",
+  "summary": "",
+  "pub_time": "2026-11-09T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "58132730ab1429e1b96871c36771d5f2",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -799,7 +984,7 @@
  },
  {
   "title": "Mysteel早读：河北多地启动重污染应急响应，我国能源投资或达9400亿美元",
-  "url": "https://news.mysteel.com/a/26110907/603234ED06CE6E99.html",
+  "url": "https://news.mysteel.com/a/26110907/3128F7F89A835EC8.html",
   "summary": "",
   "pub_time": "2026-11-08T23:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1001,25 +1186,6 @@
   "source": "粮油玉米",
   "_cn": true,
   "dedup_key": "900a5bc8babcf073a689f8e68c6de2ec",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年11月9日大连玉米期货收盘高开收涨",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/09/0806247709.shtml",
-  "summary": "",
-  "pub_time": "2026-11-08T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "1a6d7f4561880cdc8c7c49e8df7ab4d3",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1431,6 +1597,25 @@
   "is_elite": false
  },
  {
+  "title": "2026年11月9日大连玉米期货收盘高开收涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/09/0806247709.shtml",
+  "summary": "",
+  "pub_time": "2026-11-08T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "e3e1e868db017b25625046a920fa9e97",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年11月9日大连玉米期货行情午报",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/09/3735566449.shtml",
   "summary": "",
@@ -1699,25 +1884,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年11月8日天津豆粕价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/08/5553309175.shtml",
-  "summary": "",
-  "pub_time": "2026-11-07T16:00:00Z",
-  "source": "粮油豆粕",
-  "_cn": true,
-  "dedup_key": "b671d0c0e69180a547e0d22fc5ab5931",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油豆粕"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年11月8日山东省菏泽牡丹区新季大豆价格行情",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/08/5515757738.shtml",
   "summary": "",
@@ -1958,6 +2124,25 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月8日天津豆粕价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/08/5553309175.shtml",
+  "summary": "",
+  "pub_time": "2026-11-07T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "1f0f206a9175f7bf86db77023d2a8d99",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
    "中文",
    "国内",
    "粮油首页"
