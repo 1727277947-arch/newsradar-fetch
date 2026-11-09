@@ -1,5 +1,24 @@
 [
  {
+  "title": "短剧里的碳配额缺口照进现实：钢铁企业如何算清“碳账本”",
+  "url": "https://news.mysteel.com/a/26110909/87140B8CE8E7A814.html",
+  "summary": "",
+  "pub_time": "2026-11-09T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "45345029a10ca4019a6629d7f72fcbf3",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "伊拉克500万桶/日的石油索赔使其推动欧佩克配额的努力复杂化",
   "url": "",
   "summary": "伊拉克石油部长巴西姆·穆罕默德·胡代尔表示，该国的日产量已超过 500 万桶，比目前 OPEC+ 的要求高出 50 万桶以上，之后伊拉克要求 OPEC 扩大产量分配的活动发生了复杂的转变。库代尔的声明引起了人们的注意",
@@ -71,6 +90,44 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "eccb61ca1634b342c61ef969597d6c18",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "中州期货：库存拐点将至，钢价底部支撑正在松动",
+  "url": "https://news.mysteel.com/a/26110908/61C603BD7D997193.html",
+  "summary": "",
+  "pub_time": "2026-11-09T00:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "11fc01153157cc1c5138898e6c2ad304",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "盛达期货：热卷、螺纹钢价差波动规律与交易逻辑",
+  "url": "https://news.mysteel.com/a/26110908/D260D0111F0A4154.html",
+  "summary": "",
+  "pub_time": "2026-11-09T00:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "5c7b2b3b0f619477cba1d1609f757440",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -260,6 +317,158 @@
    "能源"
   ],
   "en_title": "How New York Plans to Turn Waste Heat Into Clean Energy"
+ },
+ {
+  "title": "2026年11月9日大连豆粕期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/09/0429135112.shtml",
+  "summary": "",
+  "pub_time": "2026-11-08T16:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "11e6ce066b18c33a93a66b01694591f3",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月9日大连玉米期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/09/1425414961.shtml",
+  "summary": "",
+  "pub_time": "2026-11-08T16:00:00Z",
+  "source": "粮油玉米",
+  "_cn": true,
+  "dedup_key": "7d6c6b3205296379c5ebbb725d074f85",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油玉米"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月9日大连大豆期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/09/0410174401.shtml",
+  "summary": "",
+  "pub_time": "2026-11-08T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "6e93b438cb764864c0007a44bd5a551f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月9日郑州菜油期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/09/0552221518.shtml",
+  "summary": "",
+  "pub_time": "2026-11-08T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "c3701c0ddfb8001769b364a058e24780",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月9日大连棕榈油期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/09/0508269120.shtml",
+  "summary": "",
+  "pub_time": "2026-11-08T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "7788cdd1f12e643b95bf91d202097272",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月9日大连豆油期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/09/0308734768.shtml",
+  "summary": "",
+  "pub_time": "2026-11-08T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "6e40be11309f5638fe06b2a2e41aa4c7",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月9日郑州菜粕期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/09/0728682757.shtml",
+  "summary": "",
+  "pub_time": "2026-11-08T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "1014515e27aab910bced288de958381b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月9日大连粳米期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/09/0400634448.shtml",
+  "summary": "",
+  "pub_time": "2026-11-08T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "bff3ee2ab255e9cedd27f941c49a061b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
  },
  {
   "title": "沙特首都金融区遭袭，阿美石油公司大楼受损",
