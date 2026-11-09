@@ -1,5 +1,30 @@
 [
  {
+  "title": "IEA 在 COP31 气候峰会上支持电气化努力",
+  "url": "",
+  "summary": "国际能源署 (IEA) 将在周一于土耳其安塔利亚举行的 COP31 会议上推动更快、更广泛的电气化进程，各国领导人和政策制定者在前所未有的全球能源危机期间齐聚一堂，参加气候峰会。 IEA 的分析正在向 COP 第三十一届会议主席团通报",
+  "pub_time": "2026-11-09T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "1d01df99498ce4ac12d5b18a51f968a6",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "IEA Backs Electrification Efforts at COP31 Climate Summit"
+ },
+ {
   "title": "华菱钢铁：子公司拟31.47亿元投建汽车板三期项目",
   "url": "https://news.mysteel.com/a/26110919/E765F89499181019.html",
   "summary": "",
@@ -117,44 +142,6 @@
    "价"
   ],
   "en_title": "Oil Prices Edge Lower After Trump's Remarks On Iran War"
- },
- {
-  "title": "11月第1周生猪和猪肉价格有所下跌",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728946.shtml",
-  "summary": "据农业农村部对500个县集贸市场和采集点监测，上周(11月第1周，11月2—8日，下同)，全国活猪价格为10.11元/公斤，环比跌2.9%；猪肉集贸市场价格为20.11元/公斤，环比跌1.2%。据农业农村部对200个批发市场监测调度，上周全国猪肉批发市场均价为15.01元/公斤，环比跌3.1%，同比低16.7%",
-  "pub_time": "2026-11-09T09:31:36Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "486efd00e300552e65ff33d7b02e067d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
-  "title": "中国国开行为哈萨克斯坦石化管道项目提供融资",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728949.shtml",
-  "summary": "中新社北京11月9日电 中国国家开发银行(下称国开行)9日公布消息称，其日前与哈萨克斯坦国家石油天然气公司、哈萨克斯坦国家石油天然气化工公司签署210公里乙烷丙烷管道建设项目融资协议，贷款金额28.9亿元人民币，由萨姆鲁克—卡泽纳国家福利基金提供担保",
-  "pub_time": "2026-11-09T09:27:24Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "6cc868aec4107dec17999ca6d4b9e589",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
  },
  {
   "title": "伊拉克否决美国通过霍尔木兹海峡增加石油出口的协议",
@@ -309,7 +296,7 @@
  },
  {
   "title": "黑色持仓日报：期螺飘绿，中信期货减持超1.2万手多单",
-  "url": "https://news.mysteel.com/a/26110915/15A2A89807FEB3F7.html",
+  "url": "https://news.mysteel.com/a/26110915/F9ED32658C520F79.html",
   "summary": "",
   "pub_time": "2026-11-09T07:00:00Z",
   "source": "上海钢联Mysteel",
@@ -570,25 +557,6 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel：八家头部车企公布10月海外销量，同比高速增长",
-  "url": "https://news.mysteel.com/a/26110911/528F452563A4FC51.html",
-  "summary": "",
-  "pub_time": "2026-11-09T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "a1641b67e891692052e3bce237d4a8d9",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel周报：建筑原材料价格监测（10.30-11.6）",
   "url": "https://news.mysteel.com/a/26110911/A7865283B035013B.html",
   "summary": "",
@@ -639,6 +607,25 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：八家头部车企公布10月海外销量，同比高速增长",
+  "url": "https://news.mysteel.com/a/26110911/59523FC85273E151.html",
+  "summary": "",
+  "pub_time": "2026-11-09T03:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "a1641b67e891692052e3bce237d4a8d9",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
