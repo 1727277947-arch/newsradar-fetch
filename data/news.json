@@ -1,5 +1,88 @@
 [
  {
+  "title": "科学家开发出廉价过滤器，可将炼油能源消耗减少 32%",
+  "url": "",
+  "summary": "科学家们有了一个令人惊讶的发现，通过消除分离原油馏分所需的部分高温加热过程，可以减少炼油过程中使用的能源量。科学突破找到了一种简单且廉价的原油分离方法",
+  "pub_time": "2026-11-09T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "71f94f1b984a3e0f03f329d89691958c",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "原油",
+   "能源"
+  ],
+  "en_title": "Scientists Develop Cheap Filter That Could Slash Oil Refining Energy Use by 32%"
+ },
+ {
+  "title": "Mysteel早读：河北钢厂限产情况调研",
+  "url": "https://news.mysteel.com/a/26111007/38824FF20BD0DEDE.html",
+  "summary": "",
+  "pub_time": "2026-11-09T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "1eec8da39fc66716527a6972558d1d87",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel早读：河北钢厂限产情况调研，美伊和谈信号重创原油",
+  "url": "https://news.mysteel.com/a/26111007/E96A77757AFDABFD.html",
+  "summary": "",
+  "pub_time": "2026-11-09T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "8d217273a56513f83212e9758dccd377",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "特朗普淡化再袭伊朗可能，国际油价早盘一度跌超5%",
+  "url": "https://news.mysteel.com/a/26111007/C738EBBC0B604560.html",
+  "summary": "",
+  "pub_time": "2026-11-09T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "a45cd909bbfb3ba9153bce8d84d0a45c",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "巴里克计划于 11 月申请北美 IPO",
   "url": "",
   "summary": "巴里克矿业公司（Barrick Mining，多伦多证交所代码：ABX；纽约证券交易所代码：B）表示，计划于本月申请其北美黄金业务首次公开募股，因为……巴里克矿业公司计划于 11 月申请北美 IPO 的消息首先出现在《北方矿业》杂志上。",
@@ -695,32 +778,6 @@
   "is_elite": false
  },
  {
-  "title": "伊朗80亿美元霍尔木兹协议转向特朗普，油价跌至94美元",
-  "url": "",
-  "summary": "周一，随着卡塔尔总理向白宫提出伊朗重新开放霍尔木兹海峡临时协议的提议，布伦特原油下跌 3.6%，至每桶 94.00 美元。截至美国东部时间上午 7:26，WTI 下跌 3%，至 88.09 美元，美国天然气上涨 0.8%，至 3.02 美元/MMBtu。跌势延续去年",
-  "pub_time": "2026-11-09T13:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "200914c27ef6496e18b486ae397802d2",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Oil Sinks to $94 as Iran’s $8 Billion Hormuz Deal Heads to Trump"
- },
- {
   "title": "320 亿美元之后却毫无成果：Codelco 的未来取决于私人合作伙伴",
   "url": "",
   "summary": "董事会主席贝尔纳多·方丹（Bernardo Fontaine）敲响了警钟，尽管八年来有大量资金悬而未决，但铜产量仍下降。",
@@ -772,31 +829,6 @@
   "en_title": "Codelco, Pucobre clear key hurdle for $870 million copper mine"
  },
  {
-  "title": "IEA 在 COP31 气候峰会上支持电气化努力",
-  "url": "",
-  "summary": "国际能源署 (IEA) 将在周一于土耳其安塔利亚举行的 COP31 会议上推动更快、更广泛的电气化进程，各国领导人和政策制定者在前所未有的全球能源危机期间齐聚一堂，参加气候峰会。 IEA 的分析正在向 COP 第三十一届会议主席团通报",
-  "pub_time": "2026-11-09T12:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "1d01df99498ce4ac12d5b18a51f968a6",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "IEA Backs Electrification Efforts at COP31 Climate Summit"
- },
- {
   "title": "美国稀土公司开始测试美国金属生产",
   "url": "",
   "summary": "怀俄明州 Halleck Creek 的矿石已进入连续加工试验，该矿商寻求推进国内磁铁供应链。",
@@ -826,7 +858,7 @@
  },
  {
   "title": "华菱钢铁：子公司拟31.47亿元投建汽车板三期项目",
-  "url": "https://news.mysteel.com/a/26110919/E765F89499181019.html",
+  "url": "https://news.mysteel.com/a/26110919/58F5497A251ABA0A.html",
   "summary": "",
   "pub_time": "2026-11-09T11:00:00Z",
   "source": "上海钢联Mysteel",
@@ -899,7 +931,7 @@
  },
  {
   "title": "Mysteel黑色金属例会：本周钢价或震荡运行",
-  "url": "https://news.mysteel.com/a/26110918/D83325D46AF8107C.html",
+  "url": "https://news.mysteel.com/a/26110918/F548B3E9953185CE.html",
   "summary": "",
   "pub_time": "2026-11-09T10:00:00Z",
   "source": "上海钢联Mysteel",
@@ -944,27 +976,8 @@
   "en_title": "Oil Prices Edge Lower After Trump's Remarks On Iran War"
  },
  {
-  "title": "Mysteel晚餐：中方调整对美加征关税措施",
-  "url": "https://news.mysteel.com/a/26110917/81FB5CFA951D026D.html",
-  "summary": "",
-  "pub_time": "2026-11-09T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "08af73b44e679dafe5f0ccc4c6f46115",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel晚餐：中方调整对美加征关税措施，全球铁矿石发运减少",
-  "url": "https://news.mysteel.com/a/26110917/412B8F308DA8B079.html",
+  "url": "https://news.mysteel.com/a/26110917/0F84DF90980FAF04.html",
   "summary": "",
   "pub_time": "2026-11-09T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1002,7 +1015,7 @@
  },
  {
   "title": "有色持仓日报：沪铜涨0.37%，国泰君安减持超2.7千手空单",
-  "url": "https://news.mysteel.com/a/26110916/A55B477A6A37A4F8.html",
+  "url": "https://news.mysteel.com/a/26110916/2209E19D0321983A.html",
   "summary": "",
   "pub_time": "2026-11-09T08:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1242,25 +1255,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "7ac9c53ca0592c55d4daefb9092d0dad",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：全国碳排放权交易市场2027年度铝冶炼行业重点排放单位名录公布",
-  "url": "https://news.mysteel.com/a/26110911/0D8A0B68011DA04A.html",
-  "summary": "",
-  "pub_time": "2026-11-09T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "4ecba5beba6a09034dfad39efde1dbdb",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
