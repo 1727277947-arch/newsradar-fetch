@@ -1,5 +1,82 @@
 [
  {
+  "title": "英国与阿根廷福克兰群岛石油项目争端法庭听证会开始",
+  "url": "",
+  "summary": "总部位于汉堡的国际海洋法法庭周二开始听取阿根廷对英国在福克兰群岛北部石油钻探项目的投诉，阿根廷总统哈维尔·米莱声称该项目非法，因为最近与英国就谁控制权问题再次发生争执。",
+  "pub_time": "2026-11-10T13:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "50faa56fb8f1e36d0205b6aae9accf2f",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "锡"
+  ],
+  "en_title": "Tribunal Hearings Begin in UK-Argentina Row Over Falklands Oil Project"
+ },
+ {
+  "title": "聚焦：美国早期的四次勘探押注",
+  "url": "",
+  "summary": "蒙大拿州旧矿区下方的金铜拦截和密歇根州镍勘探的美国国防奖显示了早期项目可以推进的两种方式......后聚焦：美国的四个早期勘探赌注首先出现在《北方矿工》上。",
+  "pub_time": "2026-11-10T13:00:25Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "65939cfd56c9d796e28ff32710755cfd",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Spotlight: Four early US exploration bets"
+ },
+ {
+  "title": "观点：美国探险家有主场优势",
+  "url": "",
+  "summary": "在过去的四年里，一群不起眼的商品已经从科学教科书的后面上升到一些科学教科书的中心……《北方矿工》首先发表了《观点：美国探险家拥有主场优势》的帖子。",
+  "pub_time": "2026-11-10T13:00:05Z",
+  "source": "NorthernMiner",
+  "_cat": "综合",
+  "dedup_key": "6542f74015b1b8f34360d2a9d900c691",
+  "score": 84,
+  "priority": "P1",
+  "topic": "综合",
+  "tags": [
+   "综合",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "综合"
+  ],
+  "en_title": "Opinion: US explorers have a home advantage"
+ },
+ {
   "title": "在依靠库存维持数月之后，中国再次购买石油",
   "url": "",
   "summary": "上个月中国原油进口量创3月份以来最高，达到4194万吨，相当于每天约988万桶。据路透社报道，10 月份的平均水平也比上个月增长了 9.4%。 10月份海运原油进口量同比增长12%",
@@ -216,7 +293,7 @@
  },
  {
   "title": "Mysteel：18家车企公布10月产销数据，13家销量环比增长",
-  "url": "https://news.mysteel.com/a/26111016/7248BB41D6AB2953.html",
+  "url": "https://news.mysteel.com/a/26111016/BDC5384278619087.html",
   "summary": "",
   "pub_time": "2026-11-10T08:00:00Z",
   "source": "上海钢联Mysteel",
@@ -234,13 +311,13 @@
   "is_elite": false
  },
  {
-  "title": "有色持仓日报：沪铝跌3.45%，东证期货增持超3.2千手空单",
-  "url": "https://news.mysteel.com/a/26111016/4A138DB48D99D9DA.html",
+  "title": "Mysteel日报：黑色金属期货震荡盘整运行",
+  "url": "https://news.mysteel.com/a/26111016/9E5713FAE46563A0.html",
   "summary": "",
   "pub_time": "2026-11-10T08:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "96417b4c4d73bcc6bb96107792dcc105",
+  "dedup_key": "77d16c1caa1686f3c3763bf7102f71ac",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -253,13 +330,13 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel日报：黑色金属期货震荡盘整运行",
-  "url": "https://news.mysteel.com/a/26111016/9E5713FAE46563A0.html",
+  "title": "有色持仓日报：沪铝跌3.45%，东证期货增持超3.2千手空单",
+  "url": "https://news.mysteel.com/a/26111016/F8519C4B5183560B.html",
   "summary": "",
   "pub_time": "2026-11-10T08:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "77d16c1caa1686f3c3763bf7102f71ac",
+  "dedup_key": "96417b4c4d73bcc6bb96107792dcc105",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -388,25 +465,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "936b60f92a6db35b09aaa8dc91826d6e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "日本AI铜箔龙头加码高端产线，提出HVLP4产能翻倍计划",
-  "url": "https://news.mysteel.com/a/26111013/40CF61401CF4E5D8.html",
-  "summary": "",
-  "pub_time": "2026-11-10T05:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "8960eeff380a1477dc402593de88fff6",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
