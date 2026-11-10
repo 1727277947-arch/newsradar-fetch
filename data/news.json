@@ -969,31 +969,6 @@
   "is_elite": false
  },
  {
-  "title": "通过霍尔木兹的液化天然气流量达到伊朗战争开始以来的最高水平",
-  "url": "",
-  "summary": "据路透社援引Kpler的数据显示，上个月通过霍尔木兹海峡的液化天然气出口量达到2月以来的最高水平，为31艘油轮，而9月份为27艘。也许更令人印象深刻的是，这些货物大多是从卡塔尔的RAS L装载的。",
-  "pub_time": "2026-11-10T06:45:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "8cfa8ac5e8e2e07e2fe2c1e50fe2ad1b",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "LNG Traffic Through Hormuz Hits Highest Level Since Iran War Began"
- },
- {
   "title": "《福建省钢铁行业差别电价资金使用规定》政策解读",
   "url": "https://news.mysteel.com/a/26111014/A4A4677C48B64EB3.html",
   "summary": "",
@@ -1558,56 +1533,6 @@
    "贵金属"
   ],
   "en_title": "Barrick targets November filing for North American IPO"
- },
- {
-  "title": "北方矿工向克雷布斯、艾萨克和博伊德致敬",
-  "url": "",
-  "summary": "一项将 Coeur Mining（多伦多证交所、纽约证券交易所代码：CDE）引入加拿大的收购，一项将铀生产与反应堆技术相结合的战略，以及花费四十年时间建造的……《北方矿工》向克雷布斯、艾萨克和博伊德致敬，首先出现在《北方矿工》上。",
-  "pub_time": "2026-11-09T22:10:00Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "664ae38129292abd195c9e882d170395",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Northern Miner honours Krebs, Isaac and Boyd"
- },
- {
-  "title": "Agnico 首席执行官表示，尽早支出以遏制成本井喷",
-  "url": "",
-  "summary": "加拿大最大的黄金生产商 Agnico Eagle Mines（多伦多证券交易所、纽约证券交易所股票代码：AEM）愿意在投入新矿之前投入更多资金并等待更长的时间，以避免……首席执行官表示，Agnico 尽早投入资金以遏制成本井喷的消息首先出现在《北方矿工》上。",
-  "pub_time": "2026-11-09T22:05:53Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "a6a007e18084741b35347ec43c40ca5d",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "Agnico spends early to curb cost blowouts, CEO says"
  },
  {
   "title": "淡水河谷贱金属公司首席执行官表示，到 2026 年，其盈利将增加两倍，达到 50 亿美元",
