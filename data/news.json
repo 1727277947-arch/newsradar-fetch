@@ -1,5 +1,457 @@
 [
  {
+  "title": "南苏丹向石油投资者提起诉讼，因为苏丹交战部队占据了自己的份额",
+  "url": "",
+  "summary": "南苏丹正在为14个勘探区块争取新的资本，并将产量从每天约17万桶增加到23万桶，一旦这些桶离开该国，投资者将无法控制。南苏丹沦为邻国苏丹内战的俘虏，本质上是divvyi",
+  "pub_time": "2026-11-11T00:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "1cf6dc1d22a92d020048a48f32cacc7f",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "South Sudan Courts Oil Investors as Sudan’s Warring Forces Take Their Share"
+ },
+ {
+  "title": "谷物试验显示杀菌剂有望等待批准",
+  "url": "",
+  "summary": "等待APVMA批准的拜耳杀菌剂有望改善对小麦和大麦一系列疾病的控制。",
+  "pub_time": "2026-11-10T23:36:02Z",
+  "source": "GrainCentral",
+  "_cat": "基本金属",
+  "dedup_key": "9e6548f00b229884b6869b5e4f8a4928",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡"
+  ],
+  "en_title": "Cereal trials shows promise for fungicide awaiting approval"
+ },
+ {
+  "title": "顾问们表示，美国关键矿产资金可以承受国会的转变",
+  "url": "",
+  "summary": "Clark Street Associates表示，在民主党控制的国会下，势头可能会持续下去。",
+  "pub_time": "2026-11-10T23:16:18Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "f5bf3afa0f3fb8de4bdfac4b6d881dbf",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "US critical minerals funding to withstand congressional shift, advisers say"
+ },
+ {
+  "title": "Mysteel早读：西芒杜北部矿山建成投产",
+  "url": "https://news.mysteel.com/a/26111107/42AC9950E92342BB.html",
+  "summary": "",
+  "pub_time": "2026-11-10T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "404751805241b9d6a2e98e6e66142024",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel早读：西芒杜北部矿山建成投产，美国通胀数据超预期",
+  "url": "https://news.mysteel.com/a/26111107/E6BFD8244B8895A1.html",
+  "summary": "",
+  "pub_time": "2026-11-10T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "f7802a622eaa73de3170b1187cca5517",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "阿肯色州的“地质怪胎”是大石油公司的新锂赌注",
+  "url": "",
+  "summary": "世界正以前所未有的速度电气化，而且只会继续加速。COP 31是联合国年度气候大会的最新迭代，今天在土耳其安塔利亚拉开帷幕，到2035年实现全球电气化率达到35% ，这将是",
+  "pub_time": "2026-11-10T22:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "a03de0d84ac332e7bc8e220ea83ff4f1",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "A ‘Geologic Freak’ in Arkansas Is Big Oil’s New Lithium Bet"
+ },
+ {
+  "title": "API显示美国原油、馏分油库存大幅增加",
+  "url": "",
+  "summary": "美国石油协会（ API ）估计，截至11月6日的一周，美国原油库存增加了900万桶。前一周，美国原油库存下降了526.7万桶。不包括SPR的商业原油库存损失超过",
+  "pub_time": "2026-11-10T21:59:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "9c021a4220bba219624e8fd762aa88fa",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "库存"
+  ],
+  "en_title": "API Shows Sharp Build in US Crude Oil, Distillate Inventories"
+ },
+ {
+  "title": "尽管黄金成本较高，但发现业务仍超出预期",
+  "url": "",
+  "summary": "Discovery Mining（多伦多证交所代码：DSV；美国场外交易代码：DSVSF）公布的第三季度收益强于预期，因为折旧降低帮助抵消了其位于安大略省的 Porcupine 业务不断上涨的黄金成本。调整后的收益......尽管黄金成本上涨首先出现在北方，但 Discovery 的帖子超出了预期",
+  "pub_time": "2026-11-10T21:40:42Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "fd148a0d18b45c13a68006cee8be86f9",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "预测"
+  ],
+  "en_title": "Discovery beats forecasts despite higher gold costs"
+ },
+ {
+  "title": "聚焦：美国的四项早期勘探押注",
+  "url": "",
+  "summary": "蒙大拿州旧矿区下方的金铜拦截和密歇根州镍勘探的美国国防奖显示了早期项目可以推进的两种方式......后聚焦：四个美国早期勘探押注首先出现在北方矿工上。",
+  "pub_time": "2026-11-10T21:35:25Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "f18d9aa3bf6dc33150256fedc3fc811b",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Spotlight: Four US early exploration bets"
+ },
+ {
+  "title": "美国巴里克（ American Barrick ）申请IPO",
+  "url": "",
+  "summary": "巴里克矿业周二宣布，其计划中的新上市公司将被命名为美国巴里克黄金公司。",
+  "pub_time": "2026-11-10T21:30:28Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "aee5ed9da506dff4df8360aef7c328a2",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "American Barrick files for proposed IPO"
+ },
+ {
+  "title": "致命钢铁爆炸后土耳其下令拘留11人",
+  "url": "",
+  "summary": "土耳其西部钢铁制造商哈巴斯 (Habaş) 工厂发生爆炸，造成至少 1 人死亡，土耳其当局下令拘留 11 人，其中包括钢铁制造商哈巴什 (Habaş) 董事长。",
+  "pub_time": "2026-11-10T21:30:01Z",
+  "source": "NorthernMiner",
+  "_cat": "黑色系",
+  "dedup_key": "075af076e2fa98be2b2167f9eebb672f",
+  "score": 84,
+  "priority": "P2",
+  "topic": "黑色系",
+  "tags": [
+   "黑色系",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "黑色系",
+   "钢材"
+  ],
+  "en_title": "Turkey orders 11 detentions after deadly steel blast"
+ },
+ {
+  "title": "联合黄金公司在埃塞俄比亚库尔穆克矿开采出第一批黄金",
+  "url": "",
+  "summary": "Allied Gold（多伦多证券交易所股票代码：AAUC；纽约证券交易所股票代码：AAUC）已在埃塞俄比亚的库尔穆克矿浇注了第一批黄金，将一个重大增长项目投入生产。",
+  "pub_time": "2026-11-10T21:20:00Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "8a1379021fd0aa8c9b124a344305799d",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Allied Gold pours first gold at Ethiopia’s Kurmuk mine"
+ },
+ {
+  "title": "冈尼森在亚利桑那州发现了丰富的铜和锌",
+  "url": "",
+  "summary": "甘尼森铜矿（TSX：GCU；纽约证券交易所股票代码：GUNN）已确认其位于亚利桑那州的 Strong & Harris 矿床存在高品位铜锌矿带，正在测试是否...",
+  "pub_time": "2026-11-10T21:15:02Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "900f11a49eff7fb7652e9f7d9643ab89",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜",
+   "锌"
+  ],
+  "en_title": "Gunnison hits rich copper and zinc in Arizona"
+ },
+ {
+  "title": "天蝎座在内华达州资源之外获得黄金",
+  "url": "",
+  "summary": "Scorpio Gold（多伦多证券交易所股票代码：SGLD）在内华达州曼哈顿项目的核心资源区 850 米处开采出高品位黄金，开启了新的…… Scorpio 在内华达州资源区以外开采出黄金的消息首先出现在《北方矿工》上。",
+  "pub_time": "2026-11-10T21:10:26Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "3b31afae6db9316a55bdf428e21c5e80",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Scorpio hits gold beyond Nevada resource"
+ },
+ {
+  "title": "观点：美国探险家有主场优势",
+  "url": "",
+  "summary": "在过去的四年里，一群不起眼的商品已经从科学教科书的后面上升到一些科学教科书的中心……《北方矿工》首先发表了《观点：美国探险家拥有主场优势》的帖子。",
+  "pub_time": "2026-11-10T21:00:05Z",
+  "source": "NorthernMiner",
+  "_cat": "综合",
+  "dedup_key": "6542f74015b1b8f34360d2a9d900c691",
+  "score": 84,
+  "priority": "P1",
+  "topic": "综合",
+  "tags": [
+   "综合",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "综合"
+  ],
+  "en_title": "Opinion: US explorers have a home advantage"
+ },
+ {
+  "title": "Meridian 正在考虑 Cabaçal 4 亿美元的融资方案",
+  "url": "",
+  "summary": "Meridian Mining（多伦多证券交易所代码：MNO；伦敦证券交易所代码：MNO）正在权衡 4 亿美元（5.65 亿加元）的指示性融资方案，开始其 Cabaçal 铜金矿的施工前工作。Meridian 权衡 4 亿美元的 Cabaçal 融资方案首先出现在《北方矿业》上。",
+  "pub_time": "2026-11-10T20:55:23Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "cfc59124609cadcf29fceed7444cc55f",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Meridian weighs $400M Cabaçal financing offers"
+ },
+ {
+  "title": "IGO 结束了 Nova 镍领先于锂转换的局面",
+  "url": "",
+  "summary": "IGO (ASX: IGO) 在超出其最终生产目标后，结束了其位于西澳大利亚的 Nova 镍矿的采矿和加工，随后 IGO 结束了 Nova 镍矿在锂转换之前的运行，该消息首先出现在《The Northern Miner》上。",
+  "pub_time": "2026-11-10T20:50:00Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "8d7dcb7f2439790eaaa96e846bf66005",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "镍"
+  ],
+  "en_title": "IGO ends Nova nickel run ahead of lithium switch"
+ },
+ {
+  "title": "阿斯顿湾的 Storm 铜研究显示资本支出为 1.65 亿美元",
+  "url": "",
+  "summary": "据《The Northern Miner》报道，阿斯顿湾控股公司（TSXV：BAY；美国场外交易代码：ATBHF）估计，开发和扩建其在努纳武特地区的 Storm 铜矿项目将花费 1.647 亿加元（1.185 亿美元）。阿斯顿湾的 Storm 铜矿研究表明资本支出为 1.65 亿美元。",
+  "pub_time": "2026-11-10T20:45:35Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "c2a3be515b593bf8be879c1d162151d8",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜"
+  ],
+  "en_title": "Aston Bay’s Storm copper study puts capex at $165M"
+ },
+ {
   "title": "土耳其希望 COP31 重点讨论电气化而不是化石燃料削减",
   "url": "",
   "summary": "土耳其希望参加 COP31 的近 200 个国家承诺到 2035 年将电力在全球能源消耗中的份额从目前的约 20% 提高到 35%。然而，拟议的承诺并不包含实际减少化石燃料消耗的要求。这种区别吸引了人们的注意",
@@ -184,56 +636,6 @@
   "en_title": "Gunnison hits rich copper and zinc in Arizona"
  },
  {
-  "title": "聚焦：美国的四项早期勘探押注",
-  "url": "",
-  "summary": "蒙大拿州旧矿区下方的金铜拦截和密歇根州镍勘探的美国国防奖显示了早期项目可以推进的两种方式......后聚焦：四个美国早期勘探押注首先出现在北方矿工上。",
-  "pub_time": "2026-11-10T16:45:25Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "f18d9aa3bf6dc33150256fedc3fc811b",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "Spotlight: Four US early exploration bets"
- },
- {
-  "title": "Meridian 正在考虑 Cabaçal 4 亿美元的融资方案",
-  "url": "",
-  "summary": "Meridian Mining（多伦多证券交易所代码：MNO；伦敦证券交易所代码：MNO）正在权衡 4 亿美元（5.65 亿加元）的指示性融资方案，开始其 Cabaçal 铜金矿的施工前工作。Meridian 权衡 4 亿美元的 Cabaçal 融资方案首先出现在《北方矿业》上。",
-  "pub_time": "2026-11-10T16:40:23Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "cfc59124609cadcf29fceed7444cc55f",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "Meridian weighs $400M Cabaçal financing offers"
- },
- {
   "title": "油价跌至八月以来最低水平",
   "url": "",
   "summary": "由于伊朗和乌克兰外交突破的希望加速石油市场抛售，布伦特原油短暂跌破 90 美元。原油说和平，油轮运价说没那么快——自美国中期选举以来，原油价格已每桶暴跌近 30 美元，但运费率居高不下",
@@ -259,85 +661,6 @@
    "下跌"
   ],
   "en_title": "Oil Falls to Lowest Level Since August"
- },
- {
-  "title": "致命钢铁爆炸后土耳其下令拘留11人",
-  "url": "",
-  "summary": "土耳其西部钢铁制造商哈巴斯 (Habaş) 工厂发生爆炸，造成至少 1 人死亡，土耳其当局下令拘留 11 人，其中包括钢铁制造商哈巴什 (Habaş) 董事长。",
-  "pub_time": "2026-11-10T16:30:01Z",
-  "source": "NorthernMiner",
-  "_cat": "黑色系",
-  "dedup_key": "075af076e2fa98be2b2167f9eebb672f",
-  "score": 84,
-  "priority": "P2",
-  "topic": "黑色系",
-  "tags": [
-   "黑色系",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "黑色系",
-   "钢材"
-  ],
-  "en_title": "Turkey orders 11 detentions after deadly steel blast"
- },
- {
-  "title": "尽管黄金成本较高，但发现业务仍超出预期",
-  "url": "",
-  "summary": "Discovery Mining（多伦多证交所代码：DSV；美国场外交易代码：DSVSF）公布的第三季度收益强于预期，因为折旧降低帮助抵消了其位于安大略省的 Porcupine 业务不断上涨的黄金成本。调整后的收益......尽管黄金成本上涨首先出现在北方，但 Discovery 的帖子超出了预期",
-  "pub_time": "2026-11-10T16:00:42Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "fd148a0d18b45c13a68006cee8be86f9",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "预测"
-  ],
-  "en_title": "Discovery beats forecasts despite higher gold costs"
- },
- {
-  "title": "阿斯顿湾的 Storm 铜研究显示资本支出为 1.65 亿美元",
-  "url": "",
-  "summary": "据《The Northern Miner》报道，阿斯顿湾控股公司（TSXV：BAY；美国场外交易代码：ATBHF）估计，开发和扩建其在努纳武特地区的 Storm 铜矿项目将花费 1.647 亿加元（1.185 亿美元）。阿斯顿湾的 Storm 铜矿研究表明资本支出为 1.65 亿美元。",
-  "pub_time": "2026-11-10T16:00:35Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "c2a3be515b593bf8be879c1d162151d8",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "Aston Bay’s Storm copper study puts capex at $165M"
  },
  {
   "title": "美国平均汽油价格自 7 月以来首次跌破 4 美元",
@@ -368,6 +691,120 @@
   "en_title": "Average U.S. Gasoline Price Dips below $4 for First Time since July"
  },
  {
+  "title": "CBOT豆粕上涨，因库存预估下调",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/11/0631695460.shtml",
+  "summary": "",
+  "pub_time": "2026-11-10T16:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "eaf50918162fc4c8c20ecd9f3c474c29",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT玉米上涨，因产量和库存低于预期",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/11/0740208499.shtml",
+  "summary": "",
+  "pub_time": "2026-11-10T16:00:00Z",
+  "source": "粮油玉米",
+  "_cn": true,
+  "dedup_key": "f1ae28f089fd6329bf877b438e11cae2",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油玉米"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT大豆大涨，因产量数据低于预期",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/11/0544415946.shtml",
+  "summary": "",
+  "pub_time": "2026-11-10T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "e8fa3a68b61cd37462bbd0746b0753c0",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT小麦上涨，因空头回补活跃",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/11/0807137904.shtml",
+  "summary": "",
+  "pub_time": "2026-11-10T16:00:00Z",
+  "source": "粮油小麦",
+  "_cn": true,
+  "dedup_key": "2904b43d55ee33cd423b73105d14e056",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油小麦"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "ICE油菜籽追随大豆市场上涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/11/0909345729.shtml",
+  "summary": "",
+  "pub_time": "2026-11-10T16:00:00Z",
+  "source": "粮油菜籽",
+  "_cn": true,
+  "dedup_key": "0a59fa3aef87482aee4eca9e5723da4b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT豆油追随大豆上涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/11/0706683967.shtml",
+  "summary": "",
+  "pub_time": "2026-11-10T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "dfd258173dcd402585c5c1d51edb7d43",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "专栏：Chagai 能否成为低碳电池矿物中心？",
   "url": "",
   "summary": "伊朗和阿富汗附近最大的地区拥有丰富的铜金矿藏和可再生能源开采潜力。",
@@ -391,32 +828,6 @@
    "贵金属"
   ],
   "en_title": "Op-Ed: Can Chagai become a low-carbon battery minerals hub?"
- },
- {
-  "title": "天蝎座在内华达州资源之外获得黄金",
-  "url": "",
-  "summary": "Scorpio Gold（多伦多证券交易所股票代码：SGLD）在内华达州曼哈顿项目的核心资源区 850 米处开采出高品位黄金，开启了新的…… Scorpio 在内华达州资源区以外开采出黄金的消息首先出现在《北方矿工》上。",
-  "pub_time": "2026-11-10T15:34:26Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "3b31afae6db9316a55bdf428e21c5e80",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Scorpio hits gold beyond Nevada resource"
  },
  {
   "title": "Bunge 与 GDM 成立合资企业，开发低碳燃料原料油籽",
@@ -446,33 +857,6 @@
    "库存"
   ],
   "en_title": "Bunge and GDM Form Joint Venture to Develop Oilseeds for Low-Carbon Fuel Feedstocks"
- },
- {
-  "title": "冈尼森在亚利桑那州发现了丰富的铜和锌",
-  "url": "",
-  "summary": "甘尼森铜矿（TSX：GCU；纽约证券交易所股票代码：GUNN）已确认其位于亚利桑那州的 Strong & Harris 矿床存在高品位铜锌矿带，正在测试是否...",
-  "pub_time": "2026-11-10T15:17:02Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "900f11a49eff7fb7652e9f7d9643ab89",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "锌"
-  ],
-  "en_title": "Gunnison hits rich copper and zinc in Arizona"
  },
  {
   "title": "Justin Wren 作为主讲人为 GEAPS Exchange 带来励志信息",
@@ -574,164 +958,6 @@
   "en_title": "Discovery beats forecasts despite higher gold costs"
  },
  {
-  "title": "英国与阿根廷福克兰群岛石油项目争端法庭听证会开始",
-  "url": "",
-  "summary": "总部位于汉堡的国际海洋法法庭周二开始听取阿根廷对英国在福克兰群岛北部石油钻探项目的投诉，阿根廷总统哈维尔·米莱声称该项目非法，因为最近与英国就谁控制权问题再次发生争执。",
-  "pub_time": "2026-11-10T13:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "50faa56fb8f1e36d0205b6aae9accf2f",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "锡"
-  ],
-  "en_title": "Tribunal Hearings Begin in UK-Argentina Row Over Falklands Oil Project"
- },
- {
-  "title": "观点：美国探险家有主场优势",
-  "url": "",
-  "summary": "在过去的四年里，一群不起眼的商品已经从科学教科书的后面上升到一些科学教科书的中心……《北方矿工》首先发表了《观点：美国探险家拥有主场优势》的帖子。",
-  "pub_time": "2026-11-10T13:00:05Z",
-  "source": "NorthernMiner",
-  "_cat": "综合",
-  "dedup_key": "6542f74015b1b8f34360d2a9d900c691",
-  "score": 84,
-  "priority": "P1",
-  "topic": "综合",
-  "tags": [
-   "综合",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "综合"
-  ],
-  "en_title": "Opinion: US explorers have a home advantage"
- },
- {
-  "title": "在依靠库存维持数月之后，中国再次购买石油",
-  "url": "",
-  "summary": "上个月中国原油进口量创3月份以来最高，达到4194万吨，相当于每天约988万桶。据路透社报道，10 月份的平均水平也比上个月增长了 9.4%。 10月份海运原油进口量同比增长12%",
-  "pub_time": "2026-11-10T12:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "92006c2132398b2b873a90c3c99bb291",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "走强",
-   "库存"
-  ],
-  "en_title": "China Is Buying Oil Again After Months of Living Off Its Stockpiles"
- },
- {
-  "title": "联合黄金公司在埃塞俄比亚库尔穆克矿开采出第一批黄金",
-  "url": "",
-  "summary": "Allied Gold（多伦多证券交易所股票代码：AAUC；纽约证券交易所股票代码：AAUC）已在埃塞俄比亚的库尔穆克矿浇注了第一批黄金，将一个重大增长项目投入生产。",
-  "pub_time": "2026-11-10T12:02:00Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "8a1379021fd0aa8c9b124a344305799d",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Allied Gold pours first gold at Ethiopia’s Kurmuk mine"
- },
- {
-  "title": "IGO 结束了 Nova 镍领先于锂转换的局面",
-  "url": "",
-  "summary": "IGO (ASX: IGO) 在超出其最终生产目标后，结束了其位于西澳大利亚的 Nova 镍矿的采矿和加工，随后 IGO 结束了 Nova 镍矿在锂转换之前的运行，该消息首先出现在《The Northern Miner》上。",
-  "pub_time": "2026-11-10T11:50:00Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "8d7dcb7f2439790eaaa96e846bf66005",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "镍"
-  ],
-  "en_title": "IGO ends Nova nickel run ahead of lithium switch"
- },
- {
-  "title": "美国军方在危险的霍尔木兹过境点与沙特油轮进行协调",
-  "url": "",
-  "summary": "Bahri船舶管理公司总裁Khalid Alhammad周二表示，沙特阿拉伯的航运巨头Bahri一直在与美国军方协调，派遣油轮通过霍尔木兹海峡。沙特阿拉伯在提高其红海港口延布的装载量和出口量的同时，",
-  "pub_time": "2026-11-10T11:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "0c175d24723fa4b0f89876a23e709854",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "U.S. Military Coordinates With Saudi Oil Tankers on Risky Hormuz Crossings"
- },
- {
   "title": "联合黄金公司在埃塞俄比亚库尔穆克矿开采出第一批黄金",
   "url": "",
   "summary": "新业务将提高该矿商在非洲的产量，其目标是到 2029 年实现更高的产量和股东回报。",
@@ -756,53 +982,6 @@
    "黄金"
   ],
   "en_title": "Allied Gold pours first gold at Ethiopia’s Kurmuk mine"
- },
- {
-  "title": "布伦特原油自 8 月以来首次跌破 90 美元",
-  "url": "",
-  "summary": "周二早些时候，布伦特原油价格暴跌至每桶 90 美元以下，自 8 月以来首次跌破该门槛，因为美国总统唐纳德·特朗普再次暗示中东局势可能缓和，并且无需对伊朗进行打击。截至欧洲凌晨，前线",
-  "pub_time": "2026-11-10T10:06:35Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "08592a29d6a2144cc63924108644ed6d",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "布伦特油价",
-   "下跌"
-  ],
-  "en_title": "Brent Crude Falls Below $90 for First Time Since August"
- },
- {
-  "title": "Mysteel晚餐：宝钢12月出厂价平盘",
-  "url": "https://news.mysteel.com/a/26111017/3C0DFCDA5CA5AC6B.html",
-  "summary": "",
-  "pub_time": "2026-11-10T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "b92ef4042a01f1fda5b5716e80cdac8b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  },
  {
   "title": "关键矿产日报：10月大宗商品进出口公布",
@@ -844,7 +1023,7 @@
  },
  {
   "title": "一图看懂：福建钢铁差别电价资金使用规定",
-  "url": "https://news.mysteel.com/a/26111017/A4503B4FA4B63F2B.html",
+  "url": "https://news.mysteel.com/a/26111017/F4A3B3C1BCEF570F.html",
   "summary": "",
   "pub_time": "2026-11-10T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -863,7 +1042,7 @@
  },
  {
   "title": "Mysteel晚餐：宝钢12月出厂价平盘，沙钢废钢下调30元",
-  "url": "https://news.mysteel.com/a/26111017/EDBBD84A7A257296.html",
+  "url": "https://news.mysteel.com/a/26111017/6463E2D37E2DA355.html",
   "summary": "",
   "pub_time": "2026-11-10T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -882,7 +1061,7 @@
  },
  {
   "title": "关键矿产日报：10月大宗商品进出口公布，津巴布韦维持锂精矿出口禁令",
-  "url": "https://news.mysteel.com/a/26111017/406123A2238439E9.html",
+  "url": "https://news.mysteel.com/a/26111017/B41613D245ACB0BE.html",
   "summary": "",
   "pub_time": "2026-11-10T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1141,25 +1320,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "0176ec732792285c3b19116ab7ae8317",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "海关总署：10月中国进口未锻轧铜及铜材45.3万吨",
-  "url": "https://news.mysteel.com/a/26111010/BFE82EF4C3EDABBD.html",
-  "summary": "",
-  "pub_time": "2026-11-10T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "1195a741259a0cb6e649de02c140f5c6",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -2415,50 +2575,6 @@
   "is_elite": false
  },
  {
-  "title": "CBOT豆油日评：豆油追随原油下跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/10/3617505108.shtml",
-  "summary": "",
-  "pub_time": "2026-11-09T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "10a38fbf6198c9e170ddf2387e7a8239",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "巴里克计划于 11 月申请北美 IPO",
-  "url": "",
-  "summary": "此次发行是在 8 月份与纽蒙特公司达成协议，向其内华达金矿合资企业出资之后进行的。",
-  "pub_time": "2026-11-09T14:48:15Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "998d85c5a1572c8184cd7840c7641c70",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "Barrick targets November filing for North American IPO"
- },
- {
   "title": "Mysteel黑色金属例会：本周钢价或震荡运行",
   "url": "https://news.mysteel.com/a/26110918/F548B3E9953185CE.html",
   "summary": "",
@@ -2787,30 +2903,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "Telangatuk东部国家提供，基金降低了大南部的景点",
-  "url": "",
-  "summary": "南威默拉 (Wimmera) 地区正在出售 Dunstans 的 Naranghi，而在西澳的大南部 (Great Southern)，供应商降低了 Goodhope 和 Tagliaferri 的价格预期，",
-  "pub_time": "2026-11-08T22:54:23Z",
-  "source": "GrainCentral",
-  "_cat": "基本金属",
-  "dedup_key": "1107608d2d5ae43e2eb39db397ea7d7b",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Telangatuk East country on offer, fund lowers sights in Great Southern"
  }
 ]
