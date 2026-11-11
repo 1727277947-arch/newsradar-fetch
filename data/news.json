@@ -1,5 +1,74 @@
 [
  {
+  "title": "矿业公司每月筹集$ 24亿",
+  "url": "",
+  "summary": "截至10月15日，矿业公司在Osisko Gold Group为其Cariboo的债务和股权融资的领导下，本月筹集了24亿美元（ 16.9亿美元）......矿业公司在一个月内筹集了24亿美元，首次出现在The Northern Miner上。",
+  "pub_time": "2026-11-11T12:00:58Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "54aa574c32e8addabe0c17450aef82f3",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Mining companies raise $2.4B in a month"
+ },
+ {
+  "title": "聚焦：四个美国大四学生规模训练–第2部分",
+  "url": "",
+  "summary": "我们美国勘探聚光灯的第二部分包括四个初级测试，测试早期钻探结果是否指向有增长空间的矿床。在亚利桑那州，...后聚光灯：四个美国大三学生进行规模训练–第2部分首次出现在北方矿工。",
+  "pub_time": "2026-11-11T12:00:16Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "7bf01bd9eb2ca0890d580ce345df707b",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Spotlight: Four US juniors drill for scale – Part 2"
+ },
+ {
+  "title": "钢铁行业明确反对部分地方超出国家《产业结构调整指导目录》规定，简单以装备的大小强行要求企业淘汰冶炼装备",
+  "url": "https://news.mysteel.com/a/26111120/1A42654FA65B4B44.html",
+  "summary": "",
+  "pub_time": "2026-11-11T12:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "28dd895b6b8162cb9341c0f346952a99",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "创纪录年度后西门子能源股息增加三倍以上",
   "url": "",
   "summary": "在电力需求飙升的情况下，受电网和燃气轮机业务的推动，西门子能源公司计划将其截至9月30日的2026财年的股息增加两倍以上，此前该公司录得创纪录的收入和订单。总部位于德国的西门子能源公司周三表示，它创造了",
@@ -184,25 +253,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "848a560f593fdf9f9799281805552f5b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel解读：一降一增，中国钢铁在换挡",
-  "url": "https://news.mysteel.com/a/26111116/F97B28D9718DF02C.html",
-  "summary": "",
-  "pub_time": "2026-11-11T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "403b1d978e2b9320e1cee253a67dfdc3",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1374,32 +1424,6 @@
    "天然气"
   ],
   "en_title": "U.S. Midterm Shake-Up Could Reshape Global Oil and Gas Markets"
- },
- {
-  "title": "伊拉克石油反弹背后的真相和秘密红海计划",
-  "url": "",
-  "summary": "除了伊朗之外，没有哪个国家比伊拉克更能感受到美国/以色列-伊朗战争的经济后果。历史上，其年度预算的 90% 以上来自石油，其中约 95% 的历史记录必须经过霍尔木兹海峡才能货币化。当艾拉",
-  "pub_time": "2026-11-10T18:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "9bfd8b657f4e7c61a16f32f5f8fa86d1",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "The Truth Behind Iraq’s Oil Rebound And The Secret Red Sea Plan"
  },
  {
   "title": "玉米种植者敦促国会通过 E15 农业法案立法",
@@ -2817,31 +2841,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "巴里克计划于 11 月申请北美 IPO",
-  "url": "",
-  "summary": "巴里克矿业公司（Barrick Mining，多伦多证交所代码：ABX；纽约证券交易所代码：B）表示，计划于本月申请其北美黄金业务首次公开募股，因为……巴里克矿业公司计划于 11 月申请北美 IPO 的消息首先出现在《北方矿业》杂志上。",
-  "pub_time": "2026-11-09T22:20:51Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "763491864a523cb4652d2e9b3d9c9c40",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "Barrick targets November filing for North American IPO"
  },
  {
   "title": "淡水河谷贱金属公司首席执行官表示，到 2026 年，其盈利将增加两倍，达到 50 亿美元",
