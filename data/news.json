@@ -1,5 +1,69 @@
 [
  {
+  "title": "Fusion 的下一场竞赛是超导磁带，而不是等离子",
+  "url": "",
+  "summary": "建造世界上第一座商业聚变发电厂的竞赛已经从物理实验室转移到了工厂车间。去年，私人投资者向核聚变领域投入了创纪录的 44.8 亿美元，增长了 69%，使该行业自 2021 年以来的投入总额达到 142.4 亿美元。根据融合工业",
+  "pub_time": "2026-11-11T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "e9fd8c85823a37af02a7b168ba7fe01e",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡"
+  ],
+  "en_title": "Fusion's Next Race Is Over Superconducting Tape, Not Plasma"
+ },
+ {
+  "title": "Mysteel早读：邯郸武安钢厂限产调研",
+  "url": "https://news.mysteel.com/a/26111207/03353E94FE35D248.html",
+  "summary": "",
+  "pub_time": "2026-11-11T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "23f45c3bc583896c1020890f65a25a0b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel早读：邯郸武安钢厂限产调研，焦炭第三轮提降开启",
+  "url": "https://news.mysteel.com/a/26111207/F0BF21C5EB951BA9.html",
+  "summary": "",
+  "pub_time": "2026-11-11T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "0542cc7fc1aaf9d13b44618ab5f8da74",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "Altius将以1.22亿美元的矿区权益交易收购TNR Gold",
   "url": "",
   "summary": "Altius Minerals（多伦多证交所股票代码：ALS）同意以价值1.22亿加元（8600万美元）的交易收购TNR Gold（多伦多创业板股票代码：TNR），此举将提升该公司的敞口……这篇题为《Altius将以1.22亿加元的特许权使用费交易收购TNR Gold》的文章最初发表在《北方矿工报》上。",
@@ -606,32 +670,6 @@
   "en_title": "Gold Drill Down: DPM leads with Brevene in Bulgaria"
  },
  {
-  "title": "乌克兰无人机袭击引发俄罗斯波罗的海主要石油出口枢纽大火",
-  "url": "",
-  "summary": "周三凌晨，乌克兰的无人机袭击了位于波罗的海的俄罗斯重要商品出口枢纽乌斯季-卢加港。在阿布扎比正在进行的美国斡旋谈判中，俄罗斯和乌克兰继续相互打击对方的能源基础设施。无人机袭击了乌斯季-卢加港区，Alexander Drozde",
-  "pub_time": "2026-11-11T13:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "b3b30cbbc3c4d641791862d33f7492fe",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Ukrainian Drone Attack Sparks Fire at Russia’s Key Baltic Oil Export Hub"
- },
- {
   "title": "西芒杜力争在2027年达到铁矿石出口满负荷产能",
   "url": "",
   "summary": "西芒杜的铁路和港口运营商的目标是到2027年底每年支持1.2亿吨铁矿石出口，运营总监Matt Baartz……这篇题为《西芒杜的目标是2027年达到铁矿石出口满负荷能力》的文章最初发表在《北方矿工报》上。",
@@ -749,25 +787,6 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel晚餐：鞍钢本钢凌钢12月调价",
-  "url": "https://news.mysteel.com/a/26111117/2202CE9B78AA969A.html",
-  "summary": "",
-  "pub_time": "2026-11-11T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "c8617e4893ee6e5c5ce5cd2c5e55c007",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "关键矿产日报：山西炼焦煤矿停产数量增加",
   "url": "https://news.mysteel.com/a/26111117/88B121A0F406A03A.html",
   "summary": "",
@@ -788,7 +807,7 @@
  },
  {
   "title": "Mysteel晚餐：鞍钢本钢凌钢12月调价，11月建筑企业钢材采购调研",
-  "url": "https://news.mysteel.com/a/26111117/471238E2160F0937.html",
+  "url": "https://news.mysteel.com/a/26111117/ED7ED0925ED8F1E6.html",
   "summary": "",
   "pub_time": "2026-11-11T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -807,7 +826,7 @@
  },
  {
   "title": "关键矿产日报：山西炼焦煤矿停产数量增加，西芒杜北部矿山建成投产",
-  "url": "https://news.mysteel.com/a/26111117/F8BD88D2024E1167.html",
+  "url": "https://news.mysteel.com/a/26111117/8011EAFB4526C898.html",
   "summary": "",
   "pub_time": "2026-11-11T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -863,44 +882,6 @@
   "is_elite": false
  },
  {
-  "title": "广期所发布关于多晶硅期货PS2711合约、碳酸锂期LC2711合约有关事项的公告",
-  "url": "https://news.mysteel.com/a/26111116/0365532A01F496B7.html",
-  "summary": "",
-  "pub_time": "2026-11-11T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "94ea4f0606484be8fa0713cc08694b87",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "上期所调整铝、铸造铝合金、铅品种套保持仓额度自动转化标准",
-  "url": "https://news.mysteel.com/a/26111116/6ECC84A7961420CB.html",
-  "summary": "",
-  "pub_time": "2026-11-11T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "848a560f593fdf9f9799281805552f5b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "金川集团兰州金川镍合金成功试制6吨级高端镍基合金电渣扁锭",
   "url": "https://news.mysteel.com/a/26111116/5BF9B20E3F364F5F.html",
   "summary": "",
@@ -927,6 +908,25 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "6feea64caf226862735e30d603cf0514",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "广期所发布关于多晶硅期货PS2711合约、碳酸锂期LC2711合约有关事项的公告",
+  "url": "https://news.mysteel.com/a/26111116/767732C3D7C53FF6.html",
+  "summary": "",
+  "pub_time": "2026-11-11T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "94ea4f0606484be8fa0713cc08694b87",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1035,7 +1035,7 @@
  },
  {
   "title": "Mysteel午报：钢价局部下跌，焦炭期货涨超1%",
-  "url": "https://news.mysteel.com/a/26111111/5BFDC82F09BF5024.html",
+  "url": "https://news.mysteel.com/a/26111111/DEF768F0DD70B5FA.html",
   "summary": "",
   "pub_time": "2026-11-11T03:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1095,44 +1095,6 @@
    "能源"
   ],
   "en_title": "Daily Market Wire 11 November 2026"
- },
- {
-  "title": "Mysteel：华北焊管“北材南下”形势分析",
-  "url": "https://news.mysteel.com/a/26111110/F14589991FA9DCD2.html",
-  "summary": "",
-  "pub_time": "2026-11-11T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "7a2fe24b218ce21f09825ef227869ad7",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "广西桂鑫钢铁智造有限公司评定为重点行业环保绩效A级企业",
-  "url": "https://news.mysteel.com/a/26111110/27843989A193D10B.html",
-  "summary": "",
-  "pub_time": "2026-11-11T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "07c1b5078d833d98e24f8f4be6268c76",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  },
  {
   "title": "安徽年产7万吨高电压镍锰酸锂及其他正极材料项目有新进展",
