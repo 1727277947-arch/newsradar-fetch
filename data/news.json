@@ -1,5 +1,59 @@
 [
  {
+  "title": "尼日利亚连续六个月达到欧佩克石油生产配额",
+  "url": "",
+  "summary": "尼日利亚上游石油监管委员会 (NUPRC) 本周的数据显示，由于 OPEC 最大的非洲生产国连续第六个月达到配额，尼日利亚 10 月份原油产量平均为 151 万桶/日。尼日利亚上月共抽油1.6",
+  "pub_time": "2026-11-12T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "12d6a6994706a69a677ed0096627deda",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "产量"
+  ],
+  "en_title": "Nigeria Hits OPEC Oil Production Quota for Sixth Straight Month"
+ },
+ {
+  "title": "银牌深入研究：Aya 在 Zgounder 中处于领先地位",
+  "url": "",
+  "summary": "Aya Gold & Silver（多伦多证券交易所股票代码：AYA；纳斯达克股票代码：AYA）在摩洛哥的 Zgounder 矿区凭借浅层、高品位的截获位居白银排行榜首位。洞 DZG-SF-26-945... 银钻探：Aya 在 Zgounder 领先的帖子首先出现在北方矿工上。",
+  "pub_time": "2026-11-12T12:00:15Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "d2835135ba323a11bd534b46c4d12b3c",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "白银",
+   "铅"
+  ],
+  "en_title": "Silver Drill Down: Aya leads at Zgounder"
+ },
+ {
   "title": "由于俄罗斯原油失去价格优势，印度增加了海湾石油进口",
   "url": "",
   "summary": "11月份迄今为止，印度从波斯湾进口的原油量超过了从俄罗斯进口的原油量，这是自伊朗战争爆发并扰乱霍尔木兹海峡正常供应链以来的首次。本月到目前为止，印度估计进口了约210万桶",
@@ -26,25 +80,6 @@
    "进口"
   ],
   "en_title": "India Boosts Gulf Oil Imports as Russian Crude Loses Its Price Advantage"
- },
- {
-  "title": "中国成品油价迎年内第六次下调",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731035.shtml",
-  "summary": "中新社北京11月12日电 (记者 庞无忌)中国成品油价迎年内第六次下调",
-  "pub_time": "2026-11-12T11:04:33Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "6f660871cfc1b097a4f0fa7223f9bbfa",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
  },
  {
   "title": "一图看懂：油价迎年内第六降",
@@ -1299,32 +1334,6 @@
    "黄金"
   ],
   "en_title": "Minerals 260 lines up A$410M for gold project"
- },
- {
-  "title": "海湾地区原油价格回到 80%，但成品油价格仍停留在 35%",
-  "url": "",
-  "summary": "霍尔木兹海峡的情况是，中东原油出口已恢复至战前水平的 80% 至 85% 左右，其中包括管道运输，而成品油出口仍然低迷。复苏的不均衡表明海湾生产商如何优先考虑原油运输而不是成品油运输",
-  "pub_time": "2026-11-11T18:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "24eb5b34a40cb4751d15556f3b0e1802",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Crude Is Back at 80% in the Gulf, but Refined Products Are Stuck at 35%"
  },
  {
   "title": "特洛伊罗斯在魁北克被标记为荒地的土地上获得金牌",
