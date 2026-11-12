@@ -45,6 +45,82 @@
   "is_elite": false
  },
  {
+  "title": "11月11日SPDR黄金持仓量较上日减少1.14吨",
+  "url": "https://news.mysteel.com/a/26111209/47E54E459D7A2766.html",
+  "summary": "",
+  "pub_time": "2026-11-12T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "0a61b79de44174dc7f40b9782fd2b18d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "期货日报：涨跌逻辑反转 贵金属价格“先深蹲后起跳”",
+  "url": "https://news.mysteel.com/a/26111209/62116A05A01102FD.html",
+  "summary": "",
+  "pub_time": "2026-11-12T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "d1bf58ef742105edab833ba9325f98a4",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "11月11日iShares白银持仓量较上日减少11.23吨",
+  "url": "https://news.mysteel.com/a/26111209/6390D9A8951AE980.html",
+  "summary": "",
+  "pub_time": "2026-11-12T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "cf50a1d26319a656457a591d546e2cb3",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "纽约金价11日下跌，失守4000美元关口",
+  "url": "https://news.mysteel.com/a/26111209/62B12E7237E27080.html",
+  "summary": "",
+  "pub_time": "2026-11-12T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "29017e872ffdcc19e54c631bcf85e207",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "广发期货：美元走强打压黄金失守4000美元",
   "url": "https://news.mysteel.com/a/26111209/3C532E88CCD59D65.html",
   "summary": "",
@@ -128,44 +204,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "86bcafe636943a22b68f0e565db3587d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "广州期货：金价下跌",
-  "url": "https://news.mysteel.com/a/26111209/7C25E105C9EC7F05.html",
-  "summary": "",
-  "pub_time": "2026-11-12T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "965a9bda17f5e81f968e21af7257e00b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "瑞达期货：铁矿石供应维持宽松或对矿价构成压力",
-  "url": "https://news.mysteel.com/a/26111209/F782376D84CDD25C.html",
-  "summary": "",
-  "pub_time": "2026-11-12T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "0033e8663fb349cec22fac648b6b4ee0",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1656,25 +1694,6 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel午报：钢价局部下跌，焦炭期货涨超1%",
-  "url": "https://news.mysteel.com/a/26111111/DEF768F0DD70B5FA.html",
-  "summary": "",
-  "pub_time": "2026-11-11T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "825c8d3c858c4efdcbc42bd06f29d56d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "螺纹钢期货飘红，钢价涨跌有限",
   "url": "https://news.mysteel.com/a/26111111/F4BBECF6022A6373.html",
   "summary": "",
@@ -1807,63 +1826,6 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "广发期货：焦炭短期预计延续偏弱运行",
-  "url": "https://news.mysteel.com/a/26111109/0F4FB6D80F2BFF16.html",
-  "summary": "",
-  "pub_time": "2026-11-11T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "b24260b27b0f70eb58e5625513b45d9a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "广发期货：焦煤待反弹后择机做空",
-  "url": "https://news.mysteel.com/a/26111109/CD221CCA61BB2183.html",
-  "summary": "",
-  "pub_time": "2026-11-11T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "85bcb99a2a923412dc7c48eaf638a32c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "瑞达期货：隔夜伦敦铂钯市场震荡走弱",
-  "url": "https://news.mysteel.com/a/26111109/6A9C0E90F9C3874E.html",
-  "summary": "",
-  "pub_time": "2026-11-11T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "a6af1292ed6f18ac3b9082e3f477c17f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -2462,25 +2424,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年11月11日大连豆油期货行情午报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/11/3353265272.shtml",
-  "summary": "",
-  "pub_time": "2026-11-10T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "04f416def13a9ef9d21ce4905714e54f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "周二亚洲棕榈油现货市场涨跌互现",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/11/3453553214.shtml",
   "summary": "",
@@ -2766,6 +2709,25 @@
   "is_elite": false
  },
  {
+  "title": "2026年11月11日大连豆油期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/11/3353265272.shtml",
+  "summary": "",
+  "pub_time": "2026-11-10T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "04f416def13a9ef9d21ce4905714e54f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "马来西亚棕榈油日评：棕榈油略有反弹，因MPOB库存数据低于预期",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/11/1048696444.shtml",
   "summary": "",
@@ -2966,25 +2928,6 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：18家车企公布10月产销数据，13家销量环比增长",
-  "url": "https://news.mysteel.com/a/26111016/C97722774B117D9F.html",
-  "summary": "",
-  "pub_time": "2026-11-10T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "484c1989e125746771729c9034b32b53",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
