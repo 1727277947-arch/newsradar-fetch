@@ -1,5 +1,85 @@
 [
  {
+  "title": "Trilogy Metals 股票严重超卖",
+  "url": "",
+  "summary": "在周五的交易中，Trilogy Metals Inc（代码：TMQ）的股价进入超卖区间，成交价低至每股1.91美元。我们使用相对强弱指数（RSI）来定义超卖区间，RSI 是一种用于衡量动能的技术分析指标。",
+  "pub_time": "2026-11-13T21:04:33Z",
+  "source": "Nasdaq商品",
+  "_cat": "基本金属",
+  "dedup_key": "e7b49d0e5c7329b645146d50bd5e73a5",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡",
+   "金属",
+   "库存"
+  ],
+  "en_title": "Trilogy Metals Stock Getting Very Oversold"
+ },
+ {
+  "title": "Ascent Industries 股票严重超卖",
+  "url": "",
+  "summary": "在周五的交易中，Ascent Industries Co（代码：ACNT）的股价进入超卖区间，成交价低至每股12.8033美元。我们使用相对强弱指数（RSI）来定义超卖区间，RSI是一种用于衡量动量的技术分析指标。",
+  "pub_time": "2026-11-13T21:04:05Z",
+  "source": "Nasdaq商品",
+  "_cat": "基本金属",
+  "dedup_key": "96b1db68e50e2c3d4254d21bee78a82c",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡",
+   "库存"
+  ],
+  "en_title": "Ascent Industries Stock Getting Very Oversold"
+ },
+ {
+  "title": "参议院的BAAJA法案会让人工智能巨头压倒公用事业公司吗？",
+  "url": "",
+  "summary": "昨天，美国参议院批准了一项法案的初稿，即《两党可负担性与就业法案》（Bipartisan Affordability and Jobs Act），通常称为BAAJA。我们此前曾在Oilprice上发表了一篇题为《可能颠覆美国公用事业行业的人工智能电力争夺战》的文章。我们的观点很简单。当今的人工智能巨头",
+  "pub_time": "2026-11-13T21:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "c6a75ebd5aa260363dc80c30115a7ba4",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Will the Senate's BAAJA Bill Let AI Giants Outmuscle Utilities?"
+ },
+ {
   "title": "国际能源署预测，由于地缘政治担忧，原油价格走低",
   "url": "",
   "summary": "(RTTNews) - 原油价格在连续两个交易日上涨后，周五小幅走低，国际能源署对全球原油过剩的预测抵消了美国与伊朗关系再度升级的担忧。",
@@ -423,6 +503,32 @@
   "en_title": "Cerrado buys idled Argentina mine for $20M, eyes restart"
  },
  {
+  "title": "赞助的资源评论视频：Krinor力求在纽芬兰发现下一个大型铜矿",
+  "url": "",
+  "summary": "Krinor Resources总裁Peter Dimmell表示，纽芬兰的下一个重大发现可能来自被忽视的铜金斑岩矿床系统。这位资深地质学家提到了Pirate Gold（TSXV:...）这篇文章《赞助的资源评论视频：Krinor力求在纽芬兰发现下一个大型铜矿》最初发布于",
+  "pub_time": "2026-11-13T14:58:06Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "cd610efad5d129766f4bd67432aa5caf",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "铜"
+  ],
+  "en_title": "Sponsored Resource Review video: Krinor seeks Newfoundland’s next big copper find"
+ },
+ {
   "title": "铜短缺还是过剩？银行对 2027 年前景存在分歧",
   "url": "",
   "summary": "德意志银行警告称，供应减少可能引发价格挤压，而高盛则认为关税和投资者仓位带来风险。",
@@ -596,33 +702,6 @@
    "能源"
   ],
   "en_title": "Nvidia Spy Scandal Threatens the Gulf’s AI Ambitions"
- },
- {
-  "title": "随着中东供应风险加剧，WTI原油价格强势反弹",
-  "url": "",
-  "summary": "12月WTI原油期货本周下跌，但市场已收复了前期跌幅的很大一部分。该合约开盘价为 90.83 美元，跌至 83.88 美元，随后回升至 88.20 美元。按该价格计算，WTI 本周下跌 2.63 美元，跌幅为 2.90%。在普京总统发表讲话后，交易员从原油价格中去除了战争溢价。",
-  "pub_time": "2026-11-13T12:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "04f4453c4f28395b94d07ea7f7ad7479",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "WTI油价",
-   "供应"
-  ],
-  "en_title": "WTI Stages Sharp Comeback as Middle East Supply Risks Intensify"
  },
  {
   "title": "铜深入分析：Brevene 铜排名第一",
@@ -1422,34 +1501,6 @@
    "基本金属"
   ],
   "en_title": "Nemaska pause clouds Quebec lithium plans"
- },
- {
-  "title": "英伟达动荡考验金属需求繁荣",
-  "url": "",
-  "summary": "Jensen Huang从Nvidia离职，使推动人工智能热潮的领导层受到密切关注，也暴露了依赖新数据的矿商所面临的风险……这篇题为《Nvidia动荡考验金属需求热潮》的文章最初发表在《北方矿工报》上。",
-  "pub_time": "2026-11-12T21:55:05Z",
-  "source": "NorthernMiner",
-  "_cat": "能源",
-  "dedup_key": "19d602722c8c6a74250e8e2d07e1ed0d",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "金属",
-   "需求"
-  ],
-  "en_title": "Nvidia turmoil tests metals demand boom"
  },
  {
   "title": "显著的 200 日移动平均线交叉 - WPM",
@@ -2620,33 +2671,6 @@
   "en_title": "Ivanhoe Atlantic targets Pakistan copper with Mari Minerals deal"
  },
  {
-  "title": "黄金因加息预期而暴跌",
-  "url": "",
-  "summary": "(RTTNews) - 由于美联储进一步收紧政策的预期，美元指数攀升至 19 个月高点，金价周四大幅走低。",
-  "pub_time": "2026-11-12T10:15:21Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "d00bb74d1dc2c36ed1b78fe5a159ef41",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "暴跌"
-  ],
-  "en_title": "Gold Tumbles On Rate Hike Expectations"
- },
- {
   "title": "一图看懂：油价迎年内第六降",
   "url": "https://news.mysteel.com/a/26111218/B5F7A84F39076907.html",
   "summary": "",
@@ -2664,33 +2688,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "霍尔木兹海峡僵局持续，油价小幅下跌",
-  "url": "",
-  "summary": "(RTTNews) - 周四油价小幅走低，收复了盘中早些时候的部分跌幅，此前伊朗高级官员拒绝了华盛顿提出的和平谈判的关键条件之一，称该国不会交出其浓缩母体的“一个原子”",
-  "pub_time": "2026-11-12T09:57:34Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "a9af4806c33f76735cc654ce1cfaa493",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价"
-  ],
-  "en_title": "Oil Prices Modestly Lower As Hormuz Standoff Persists"
  },
  {
   "title": "Mysteel晚餐：钢材总库存下降，炼焦煤矿山持续累库",
