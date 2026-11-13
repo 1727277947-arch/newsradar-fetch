@@ -26,6 +26,31 @@
   "en_title": "Crude Oil Ticks Lower Amid Geopolitical Concerns, IEA Projections"
  },
  {
+  "title": "特朗普将《琼斯法案》豁免期再延长90天",
+  "url": "",
+  "summary": "周五，唐纳德·特朗普总统将《琼斯法案》豁免期再延长90天，使悬挂外国旗帜的油轮仍有资格在美国港口之间运输石油和其他商品，因为与伊朗的战争仍在持续推高燃料成本。一位白宫官员在接受路透社采访时证实了这一延期。",
+  "pub_time": "2026-11-13T19:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "08d954dc1775d4132973b919fd32178f",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Trump Extends Jones Act Waiver For Another 90 Days"
+ },
+ {
   "title": "由于美国与伊朗持续对峙，人们对滞胀的担忧浮现，金价走高",
   "url": "",
   "summary": "(RTTNews) - 经过三个交易日的下跌后，金价周五小幅走高，因为当前的美国与伊朗的僵局加剧了人们对美联储可能加息的担忧，以及如果油价继续飙升，经济将出现滞胀。",
@@ -3048,34 +3073,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "美国农业部下调玉米产量预测，上调大豆出口展望",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-11-11T20:36:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "3cce0c18b4982713b97a179af6a10255",
-  "score": 84,
-  "priority": "P1",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "大豆",
-   "玉米",
-   "预测",
-   "展望"
-  ],
-  "en_title": "USDA Cuts Corn Yield Forecast, Raises Soybean Export Outlook"
  }
 ]
