@@ -1,5 +1,50 @@
 [
  {
+  "title": "铜深入分析：Brevene 铜排名第一",
+  "url": "",
+  "summary": "DPM Metals (TSX: DPM; ASX: DPM) 在铜矿排名中名列前茅，位于 Brevene Porphyry South 1,172 米深处，铜矿品位为 1,054 米，品位为 1.20%。",
+  "pub_time": "2026-11-13T12:00:54Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "4a4c28ca00550d83ba84766004be66e6",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜"
+  ],
+  "en_title": "Copper Drill Down: Brevene tops copper ranking"
+ },
+ {
+  "title": "（投资中国）GE医疗无锡基地迎30周年 向全球发布创新成果",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731647.shtml",
+  "summary": "中新社江苏无锡11月13日电 (孙权 唐娟)全球大型医疗设备与医疗解决方案企业GE医疗13日在江苏无锡举行创新成果发布暨无锡基地30周年庆典",
+  "pub_time": "2026-11-13T11:25:49Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "8f850e5278b1fa10684bcb0a4c9362eb",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/产业经济",
+  "tags": [
+   "产业经济",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "新疆图木舒克：棉花产业全链条发展释放更大效能",
   "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731630.shtml",
   "summary": "奉正云 哈尼克孜·哪斯尔)近年来，新疆生产建设兵团第三师图木舒克市立足当地优质棉花资源优势，推动棉花产业从“卖原料”向“卖产品”转变，全链条发展让一朵棉花释放出更大效能",
@@ -2866,32 +2911,6 @@
    "黄金"
   ],
   "en_title": "Altius to buy TNR Gold in $122M royalty deal"
- },
- {
-  "title": "Xplor 视频：魁北克 OK 解锁 Windfall 工作",
-  "url": "",
-  "summary": "Gold Fields（JSE、纽约证券交易所代码：GFI）在获得省级环境批准和最终投资后，可以开始准备其在魁北克的 Windfall 金矿项目的建设... Xplor 后视频：魁北克 OK 解锁 Windfall 工作首先出现在《北方矿工》上。",
-  "pub_time": "2026-11-11T22:10:01Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "2c9463e427303ef7a9dd507dff6ae547",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "下跌"
-  ],
-  "en_title": "Xplor video: Quebec OK unlocks work at Windfall"
  },
  {
   "title": "美国农业部下调玉米产量预测，上调大豆出口展望",
