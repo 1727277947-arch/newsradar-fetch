@@ -1,5 +1,24 @@
 [
  {
+  "title": "新疆图木舒克：棉花产业全链条发展释放更大效能",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731630.shtml",
+  "summary": "奉正云 哈尼克孜·哪斯尔)近年来，新疆生产建设兵团第三师图木舒克市立足当地优质棉花资源优势，推动棉花产业从“卖原料”向“卖产品”转变，全链条发展让一朵棉花释放出更大效能",
+  "pub_time": "2026-11-13T10:46:11Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "6e3f94e7a005cc8a2fb36194e71eb1b6",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "印度为9.1亿美元的石油储备寻求私人投资者",
   "url": "",
   "summary": "据当地媒体周五援引招标文件报道，印度正在寻求私人投资者来建设和运营该国最大的战略石油储备基地，这将使印度的战略石油储备能力提高80%，预计成本为9.1亿美元。拟建的战略石油储备基地将位于钱迪。",
@@ -43,6 +62,33 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
+ },
+ {
+  "title": "美联储加息预期升温，黄金本周将录得大幅下跌",
+  "url": "",
+  "summary": "（RTTNews）——周五，黄金价格上涨，这可能是继连续三天下跌至一年多以来的最低水平之后的技术性反弹。",
+  "pub_time": "2026-11-13T09:57:46Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "f2624e492394a064561222aed1f674b4",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "周"
+  ],
+  "en_title": "Gold Heads For Steep Weekly Loss Amid Fed Rate Hike Bets"
  },
  {
   "title": "随着交易员权衡中东供应风险，油价保持稳定",
@@ -1361,31 +1407,6 @@
   "en_title": "U.S. Crude Oil Inventories Unexpectedly Jump By 4.7 Million Barrels"
  },
  {
-  "title": "飙升的电费迫使英国重新思考其绿色议程",
-  "url": "",
-  "summary": "虽然没有登上头条，但财政大臣约翰·希利（John Healey）的预算演讲表明，与前几届政府相比，新政府在净零排放方面的立场发生了巨大转变。“今天，我将为能源领域设定一条新路线：使英国的能源成本降至与欧洲持平的水平。”希利表示。“从现在开始，我们的政府将优先考虑……”",
-  "pub_time": "2026-11-12T17:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "edb0732d3f8eeb83ee4d2272e75979a0",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Soaring Electricity Costs Force Britain to Rethink Its Green Agenda"
- },
- {
   "title": "【独家】东北稻谷：粮不少，价难跌",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/13/0633426626.shtml",
   "summary": "",
@@ -2489,25 +2510,6 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：本周钢材社会库存减少22.94万吨（11月6日-11月12日）",
-  "url": "https://news.mysteel.com/a/26111216/28FB2FD50286713A.html",
-  "summary": "",
-  "pub_time": "2026-11-12T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "205a27cd64bd2cc3cb1a298617952a8a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
