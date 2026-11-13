@@ -1,5 +1,57 @@
 [
  {
+  "title": "国际能源署预测，由于地缘政治担忧，原油价格走低",
+  "url": "",
+  "summary": "(RTTNews) - 原油价格在连续两个交易日上涨后，周五小幅走低，国际能源署对全球原油过剩的预测抵消了美国与伊朗关系再度升级的担忧。",
+  "pub_time": "2026-11-13T19:40:58Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "639fcfa5138aea96ee4acee6e227ca54",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Crude Oil Ticks Lower Amid Geopolitical Concerns, IEA Projections"
+ },
+ {
+  "title": "由于美国与伊朗持续对峙，人们对滞胀的担忧浮现，金价走高",
+  "url": "",
+  "summary": "(RTTNews) - 经过三个交易日的下跌后，金价周五小幅走高，因为当前的美国与伊朗的僵局加剧了人们对美联储可能加息的担忧，以及如果油价继续飙升，经济将出现滞胀。",
+  "pub_time": "2026-11-13T18:42:37Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "b98d07ea7712e48672387dee2daf090f",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Gold Ticks Higher As Concerns Of Stagflation Emerge Amid Ongoing U.S.-Iran Faceoff"
+ },
+ {
   "title": "自由港达成 1.1 亿美元收购 BC 铜矿股份的交易",
   "url": "",
   "summary": "自由港麦克莫兰公司（纽约证券交易所股票代码：FCX）已同意支付 1.1 亿美元（合 7,720 万美元）收购 TDG Gold（多伦多证券交易所股票代码：TDG）英国 Aurora West 项目的控股权……自由港以 1.1 亿美元收购 BC 铜矿股权的交易首先出现在《The Northern Miner》上。",
@@ -52,6 +104,32 @@
    "产量"
   ],
   "en_title": "U.S. Oil Rigs Hold at 463 as Crude Output Hits Another Record"
+ },
+ {
+  "title": "矿工的黄金押注增加了现金和抵押品风险",
+  "url": "",
+  "summary": "Mineros（多伦多证券交易所代码：MSA；美国场外交易代码：MNSAF）在第三季度购买了 1.373 亿美元（1.957 亿加元）的黄金，并扩大了以实物黄金为抵押的借款，吸引了...... Mineros 的黄金押注筹集了现金和抵押品风险。",
+  "pub_time": "2026-11-13T18:00:49Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "ceeb7847997fcdd240985f82ecd84085",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Mineros’ gold bet raises cash and collateral risks"
  },
  {
   "title": "霍尔木兹流量激增，伊拉克石油产量飙升至2019年高位",
@@ -215,10 +293,62 @@
   "en_title": "Capstone cuts copper outlook as restart slips"
  },
  {
+  "title": "几内亚金矿开采镇压造成10人死亡",
+  "url": "",
+  "summary": "政府表示，几内亚东北部黄金产区锡吉里的安全部队与抗议者之间的冲突已导致 10 人死亡，该镇压行动导致几内亚金矿开采镇压造成 10 人死亡。",
+  "pub_time": "2026-11-13T15:15:07Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "6735ef020b04541354eb85bedf69645a",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Guinea gold mining crackdown leaves 10 dead"
+ },
+ {
+  "title": "弗里德兰的艾芬豪大西洋公司瞄准巴基斯坦铜矿",
+  "url": "",
+  "summary": "艾芬豪大西洋已与 Mari Energies（PSX：MARI）的子公司巴基斯坦 Mari Minerals 签署了一份谅解备忘录 (MOU)，以寻求矿产勘探机会...后弗里德兰的艾芬豪大西洋目标巴基斯坦铜矿首先出现在北方矿业杂志上。",
+  "pub_time": "2026-11-13T15:10:00Z",
+  "source": "NorthernMiner",
+  "_cat": "基本金属",
+  "dedup_key": "f59c8369a0329a727e40fbe3e702846b",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铜"
+  ],
+  "en_title": "Friedland’s Ivanhoe Atlantic targets Pakistan copper"
+ },
+ {
   "title": "由于成本上涨 36%，Aris 延长了 Toroparu 黄金计划",
   "url": "",
   "summary": "Aris Mining（多伦多证券交易所、纽约证券交易所股票代码：ARIS）将其位于圭亚那的 Toroparu 黄金项目的预计建设成本提高了 36%，达到 11 亿美元（16 亿加元），而……随着成本攀升 36%，Aris 延长了 Toroparu 黄金计划的消息首先出现在《北方矿工》上。",
-  "pub_time": "2026-11-13T15:20:29Z",
+  "pub_time": "2026-11-13T15:05:29Z",
   "source": "NorthernMiner",
   "_cat": "贵金属",
   "dedup_key": "d6eced2904d4238a1f60bb8b4d86c3c6",
@@ -520,32 +650,6 @@
    "黄金"
   ],
   "en_title": "Guinea gold mining crackdown leaves 10 dead, sparks exodus"
- },
- {
-  "title": "印度为9.1亿美元的石油储备寻求私人投资者",
-  "url": "",
-  "summary": "据当地媒体周五援引招标文件报道，印度正在寻求私人投资者来建设和运营该国最大的战略石油储备基地，这将使印度的战略石油储备能力提高80%，预计成本为9.1亿美元。拟建的战略石油储备基地将位于钱迪。",
-  "pub_time": "2026-11-13T10:15:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "4ab0cbfef90b27df2f6a16eade56f098",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "India Seeks Private Investors for $910 Million Oil Reserve"
  },
  {
   "title": "每日钢市：河北钢厂限产，焦炭提降落地，钢价或窄幅震荡",
@@ -1321,86 +1425,6 @@
    "需求"
   ],
   "en_title": "Nvidia turmoil tests metals demand boom"
- },
- {
-  "title": "随着成本上升，Endeavour 确定 $1.2B 非洲金矿",
-  "url": "",
-  "summary": "Endeavor Mining (LSE, TSX: EDV) 已批准在科特迪瓦建设其价值 12 亿美元（17 亿加元）的 Assafou 金矿项目，预计成本高出 13%...随着成本攀升，Endeavour 批准建设价值 1.2B 美元的非洲金矿，该项目首先出现在《The Northern Miner》上。",
-  "pub_time": "2026-11-12T21:50:00Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "88217d15246e6f917dbca4f2a655778a",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "走高"
-  ],
-  "en_title": "Endeavour OKs $1.2B Africa gold mine as costs climb"
- },
- {
-  "title": "Awalé 将黄金业务拓展至科特迪瓦资源之外",
-  "url": "",
-  "summary": "Awalé Resources（多伦多创业板：ARIC；美国场外交易市场：AWLRF）在其位于……的Odienné矿区Charger矿床的当前资源之外钻探了一个宽阔的金矿带。文章《Awalé将金矿带延伸至科特迪瓦资源之外》最初发表在《北方矿工报》上。",
-  "pub_time": "2026-11-12T21:40:10Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "390ffa2cccb082e571a0fb05b853f5c7",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Awalé extends gold beyond Ivory Coast resource"
- },
- {
-  "title": "银牌深入研究：Aya 在 Zgounder 中处于领先地位",
-  "url": "",
-  "summary": "Aya Gold & Silver（多伦多证券交易所股票代码：AYA；纳斯达克股票代码：AYA）在摩洛哥的 Zgounder 矿区凭借浅层、高品位的截获位居白银排行榜首位。洞 DZG-SF-26-945... 银钻探：Aya 在 Zgounder 领先的帖子首先出现在北方矿工上。",
-  "pub_time": "2026-11-12T21:35:15Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "d2835135ba323a11bd534b46c4d12b3c",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "白银",
-   "铅"
-  ],
-  "en_title": "Silver Drill Down: Aya leads at Zgounder"
  },
  {
   "title": "显著的 200 日移动平均线交叉 - WPM",
@@ -3053,31 +3077,5 @@
    "展望"
   ],
   "en_title": "USDA Cuts Corn Yield Forecast, Raises Soybean Export Outlook"
- },
- {
-  "title": "伊朗立场强硬后，美国与伊朗达成协议的预期消退，原油价格飙升",
-  "url": "",
-  "summary": "(RTTNews) - 伊朗领导人针对美国的强烈言论削弱了对霍尔木兹海峡提前重新开放的预期，周三原油价格飙升，部分弥补了前两个交易日的损失。",
-  "pub_time": "2026-11-11T19:40:00Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "09dcc0f376d4214328f6e0b8b8cf3950",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Crude Oil Soars As Expectations Of A U.S.-Iran Deal Fade After Iran Hardens Stance"
  }
 ]
