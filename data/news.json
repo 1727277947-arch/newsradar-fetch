@@ -1,5 +1,83 @@
 [
  {
+  "title": "伊朗称一艘油轮在霍尔木兹海峡触雷",
+  "url": "",
+  "summary": "伊朗伊斯兰革命卫队（IRGC）海军表示，周五，一艘载有液化气的油轮在试图经由一条未经伊朗批准的航线通过霍尔木兹海峡时触雷并发生爆炸。该船只在霍尔木兹海峡行驶在一条“未经许可的危险航线上”。",
+  "pub_time": "2026-11-13T12:45:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "832876e933a23aec8c6241d9a0890681",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气"
+  ],
+  "en_title": "Iran Says Gas Tanker Hit Mine in Strait of Hormuz"
+ },
+ {
+  "title": "英伟达间谍丑闻威胁海湾地区的人工智能雄心",
+  "url": "",
+  "summary": "政治、地缘政治与冲突周四上午，一辆汽车炸弹炸死了俄罗斯驻圣彼得堡的第6近卫军空军和防空军的首席领航员。前一天，乌克兰无人机将乌斯季卢加的一个石油码头烧毁，并迫使圣彼得堡普尔科沃机场实施飞行限制。",
+  "pub_time": "2026-11-13T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "8d61ddcae2809db6d93461a4dda8c68f",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Nvidia Spy Scandal Threatens the Gulf’s AI Ambitions"
+ },
+ {
+  "title": "随着中东供应风险加剧，WTI原油价格强势反弹",
+  "url": "",
+  "summary": "12月WTI原油期货本周下跌，但市场已收复了前期跌幅的很大一部分。该合约开盘价为 90.83 美元，跌至 83.88 美元，随后回升至 88.20 美元。按该价格计算，WTI 本周下跌 2.63 美元，跌幅为 2.90%。在普京总统发表讲话后，交易员从原油价格中去除了战争溢价。",
+  "pub_time": "2026-11-13T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "04f4453c4f28395b94d07ea7f7ad7479",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "WTI油价",
+   "供应"
+  ],
+  "en_title": "WTI Stages Sharp Comeback as Middle East Supply Risks Intensify"
+ },
+ {
   "title": "铜深入分析：Brevene 铜排名第一",
   "url": "",
   "summary": "DPM Metals (TSX: DPM; ASX: DPM) 在铜矿排名中名列前茅，位于 Brevene Porphyry South 1,172 米深处，铜矿品位为 1,054 米，品位为 1.20%。",
@@ -24,44 +102,6 @@
    "铜"
   ],
   "en_title": "Copper Drill Down: Brevene tops copper ranking"
- },
- {
-  "title": "（投资中国）GE医疗无锡基地迎30周年 向全球发布创新成果",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731647.shtml",
-  "summary": "中新社江苏无锡11月13日电 (孙权 唐娟)全球大型医疗设备与医疗解决方案企业GE医疗13日在江苏无锡举行创新成果发布暨无锡基地30周年庆典",
-  "pub_time": "2026-11-13T11:25:49Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "8f850e5278b1fa10684bcb0a4c9362eb",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/产业经济",
-  "tags": [
-   "产业经济",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
-  "title": "新疆图木舒克：棉花产业全链条发展释放更大效能",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731630.shtml",
-  "summary": "奉正云 哈尼克孜·哪斯尔)近年来，新疆生产建设兵团第三师图木舒克市立足当地优质棉花资源优势，推动棉花产业从“卖原料”向“卖产品”转变，全链条发展让一朵棉花释放出更大效能",
-  "pub_time": "2026-11-13T10:46:11Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "6e3f94e7a005cc8a2fb36194e71eb1b6",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
  },
  {
   "title": "印度为9.1亿美元的石油储备寻求私人投资者",
@@ -1211,32 +1251,6 @@
   "en_title": "Illinois Corn Farmers Urge Congress to Advance Key Agricultural Priorities"
  },
  {
-  "title": "创纪录的汽车价格正将美国驾驶员推向更深的债务深渊",
-  "url": "",
-  "summary": "根据Cox Automotive的一份新报告，该报告引用了Kelley Blue Book的数据，美国新车的平均价格已攀升至创纪录的51,109美元。加上新车贷款利率接近21世纪初以来的最高水平，创纪录的标价正使汽车所有权日益变得遥不可及。",
-  "pub_time": "2026-11-12T19:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "3923e2c253dd5b796ada577c7a839ead",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "价"
-  ],
-  "en_title": "Record Car Prices Are Pushing American Drivers Deeper Into Debt"
- },
- {
   "title": "老化的驳船船队引发对美国谷物出口能力的担忧",
   "url": "",
   "summary": "",
@@ -1317,60 +1331,6 @@
   "en_title": "Gold Plummets After Expectations On U.S.-Iran Deal Sink Pushing Crude Oil Higher"
  },
  {
-  "title": "阿根廷有望在2035年超越智利，成为南美最大的锂生产国",
-  "url": "",
-  "summary": "GEM Mining Consulting预测，阿根廷可能会成为比智利更大的锂生产国，2035年将开采48.1万吨碳酸锂当量，而智利为42.6万吨。对电池金属日益增长的需求将推动这一排名变动。阿根廷目前是世界上",
-  "pub_time": "2026-11-12T18:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "ac4b9004dd0671d04aded807bfe8c5df",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡"
-  ],
-  "en_title": "Argentina Could Overtake Chile as South America’s Top Lithium Producer by 2035"
- },
- {
-  "title": "EIA数据显示原油、汽油和馏分油库存增加",
-  "url": "",
-  "summary": "美国能源信息署（EIA）周四发布的新数据显示，截至11月6日当周，美国原油库存增加了470万桶。根据政府数据，此次增加使商业库存达到4.144亿桶。",
-  "pub_time": "2026-11-12T17:46:04Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "cbc07be57b6096dec24b2bd3d3d79d62",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "汽油",
-   "天然气"
-  ],
-  "en_title": "EIA Data Shows Builds in Crude, Gasoline and Distillates"
- },
- {
   "title": "报告称，更严格的监管不足以阻止非法黄金进口到阿联酋",
   "url": "",
   "summary": "一份新报告显示，即使在2023年实施了新法规，阿联酋仍无法更好地追溯其黄金进口情况。",
@@ -1396,32 +1356,6 @@
    "锡"
   ],
   "en_title": "Tighter regulation not enough to stop importing illicit gold to UAE: report"
- },
- {
-  "title": "特朗普表示美国不需要伊朗协议后，布伦特原油价格短暂触及 96 美元",
-  "url": "",
-  "summary": "唐纳德·特朗普总统周四宣布，美国不再需要与伊朗达成协议，就在他提出这场长达八个月的战争即将结束仅三天之后。油价随即飙升，给整个11月都在对不断变化的预期做出反应的市场又增添了一轮波动。",
-  "pub_time": "2026-11-12T17:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "1707f6f94008173ded4510b85ee6ec0f",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "布伦特油价"
-  ],
-  "en_title": "Brent Briefly Hits $96 After Trump Says U.S. Has No Need for Iran Deal"
  },
  {
   "title": "美国原油库存意外增加470万桶",
@@ -2885,32 +2819,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "Altius将以1.22亿美元的矿区权益交易收购TNR Gold",
-  "url": "",
-  "summary": "Altius Minerals（多伦多证交所股票代码：ALS）同意以价值1.22亿加元（8600万美元）的交易收购TNR Gold（多伦多创业板股票代码：TNR），此举将提升该公司的敞口……这篇题为《Altius将以1.22亿加元的特许权使用费交易收购TNR Gold》的文章最初发表在《北方矿工报》上。",
-  "pub_time": "2026-11-11T22:15:45Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "5f05062c7434b4522072600f3f092584",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Altius to buy TNR Gold in $122M royalty deal"
  },
  {
   "title": "美国农业部下调玉米产量预测，上调大豆出口展望",
