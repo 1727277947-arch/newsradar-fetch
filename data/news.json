@@ -1,5 +1,31 @@
 [
  {
+  "title": "伊朗战争加速东南亚可再生能源发展",
+  "url": "",
+  "summary": "亚洲一些国家已经认识到需要加快可再生能源的部署，以减少对化石燃料进口的依赖并支持能源多样化。近几个月来，中东持续的冲突大幅减少了燃料贸易，引发了人们对燃料短缺的担忧。",
+  "pub_time": "2026-11-14T20:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "b7c987a87ed43b9170282eb5ff41862d",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "能源"
+  ],
+  "en_title": "Iran War Accelerates Southeast Asia’s Renewable Energy Push"
+ },
+ {
   "title": "新加坡对黄金的未来押注650亿美元",
   "url": "",
   "summary": "在过去三年里，黄金的故事主要围绕着谁在买入。到了 2026 年，故事的主角变成了黄金的夜间栖身之地。周二，新加坡金融管理局向外国央行和主权实体开放了其国家货币金库，该金库可容纳500吨金条，并且",
@@ -1313,32 +1339,6 @@
   "en_title": "How Global Energy Markets Survived Eight Months of Iran War Disruptions"
  },
  {
-  "title": "随着冬季天然气危机加深，巴基斯坦争夺液化天然气",
-  "url": "",
-  "summary": "Business Recorder 援引招标公告报道称，国有巴基斯坦液化天然气有限公司 (PLL) 已发出招标，从国际供应商处购买两批液化天然气货物，将于 12 月中旬和 1 月初交付。中标投标人预计将按交付日期交付液化天然气货物",
-  "pub_time": "2026-11-13T14:15:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "a4e3f93d32c5a3a9b9fcad12f4215587",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气"
-  ],
-  "en_title": "Pakistan Scrambles for LNG as Winter Gas Crisis Deepens"
- },
- {
   "title": "几内亚金矿开采镇压造成10人死亡，引发人员外逃",
   "url": "",
   "summary": "马里警告称，人道主义危机和地区安全威胁不断上升​​，邻国面临大规模驱逐。",
@@ -2173,59 +2173,5 @@
    "贵金属"
   ],
   "en_title": "Notable Two Hundred Day Moving Average Cross - WPM"
- },
- {
-  "title": "随着对美国-伊朗协议的乐观情绪消退，供应担忧情绪再度升温，原油价格飙升",
-  "url": "",
-  "summary": "（RTTNews）——继昨日上涨之后，原油价格周四飙升，原因是美国总统唐纳德·特朗普（Donald Trump）宣称美国不再对与伊朗达成任何协议感兴趣，供应中断的担忧重回市场。",
-  "pub_time": "2026-11-12T19:37:09Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "6f85d09f05948b453d9e0fa3dee3eeee",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "大涨",
-   "供应"
-  ],
-  "en_title": "Crude Oil Surges Amid Renewed Supply Concerns As Optimism On U.S.-Iran Deal Fades"
- },
- {
-  "title": "伊利诺伊州玉米种植户敦促国会推进关键农业优先事项",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-11-12T19:22:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "c730fd79bd9af17f7502284f83a084ef",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "玉米"
-  ],
-  "en_title": "Illinois Corn Farmers Urge Congress to Advance Key Agricultural Priorities"
  }
 ]
