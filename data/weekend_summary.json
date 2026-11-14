@@ -1,81 +1,81 @@
 {
  "monday": "2026-11-16",
- "prepared_at": "2026-11-09T02:27:25",
+ "prepared_at": "2026-11-14T19:43:58",
  "cheap_highvol_top": [
   {
    "symbol": "FG0",
    "name": "玻璃",
    "unit": "元/吨",
-   "est_margin": 1832.0,
-   "future": 916.0,
-   "change_pct": 2.69,
-   "range_pct": 3.92,
-   "trend": "up",
+   "est_margin": 1826.0,
+   "future": 913.0,
+   "change_pct": -0.11,
+   "range_pct": 1.31,
+   "trend": "down",
    "category": "化工"
   },
   {
    "symbol": "SA0",
    "name": "纯碱",
    "unit": "元/吨",
-   "est_margin": 1986.0,
-   "future": 993.0,
-   "change_pct": 1.95,
-   "range_pct": 3.9,
-   "trend": "up",
-   "category": "化工"
-  },
-  {
-   "symbol": "RM0",
-   "name": "菜粕",
-   "unit": "元/吨",
-   "est_margin": 2212.0,
-   "future": 2212.0,
-   "change_pct": -0.32,
-   "range_pct": 0.9,
+   "est_margin": 1956.0,
+   "future": 978.0,
+   "change_pct": -1.51,
+   "range_pct": 1.91,
    "trend": "down",
-   "category": "农产品"
+   "category": "化工"
   },
   {
    "symbol": "C0",
    "name": "玉米",
    "unit": "元/吨",
-   "est_margin": 2230.0,
-   "future": 2230.0,
-   "change_pct": 0.13,
-   "range_pct": 0.31,
-   "trend": "up",
+   "est_margin": 2181.0,
+   "future": 2181.0,
+   "change_pct": 0.0,
+   "range_pct": 0.37,
+   "trend": "flat",
+   "category": "农产品"
+  },
+  {
+   "symbol": "RM0",
+   "name": "菜粕",
+   "unit": "元/吨",
+   "est_margin": 2282.0,
+   "future": 2282.0,
+   "change_pct": -0.04,
+   "range_pct": 0.79,
+   "trend": "down",
+   "category": "农产品"
+  },
+  {
+   "symbol": "CS0",
+   "name": "玉米淀粉",
+   "unit": "元/吨",
+   "est_margin": 2459.0,
+   "future": 2459.0,
+   "change_pct": -0.16,
+   "range_pct": 0.69,
+   "trend": "down",
    "category": "农产品"
   },
   {
    "symbol": "V0",
    "name": "PVC",
    "unit": "元/吨",
-   "est_margin": 2477.5,
-   "future": 4955.0,
-   "change_pct": -0.46,
-   "range_pct": 0.64,
-   "trend": "down",
-   "category": "化工"
-  },
-  {
-   "symbol": "CS0",
-   "name": "玉米淀粉",
-   "unit": "元/吨",
-   "est_margin": 2519.0,
-   "future": 2519.0,
-   "change_pct": 0.24,
-   "range_pct": 0.44,
+   "est_margin": 2529.5,
+   "future": 5059.0,
+   "change_pct": 1.46,
+   "range_pct": 0.98,
    "trend": "up",
-   "category": "农产品"
+   "category": "化工"
   },
   {
    "symbol": "SF0",
    "name": "硅铁",
    "unit": "元/吨",
-   "est_margin": 2856.0,
-   "future": 5712.0,
-   "change_pct": 0.14,
-   "range_pct": 0.74,
+   "est_margin": 2898.0,
+   "future": 5796.0,
+   "change_pct": 0.42,
+   "range_pct": 1.14,
    "trend": "up",
    "category": "黑色系"
   },
@@ -83,21 +83,21 @@
    "symbol": "SM0",
    "name": "锰硅",
    "unit": "元/吨",
-   "est_margin": 2904.0,
-   "future": 5808.0,
-   "change_pct": -0.55,
-   "range_pct": 0.82,
-   "trend": "down",
+   "est_margin": 2928.0,
+   "future": 5856.0,
+   "change_pct": 0.41,
+   "range_pct": 0.65,
+   "trend": "up",
    "category": "黑色系"
   },
   {
    "symbol": "TA0",
    "name": "PTA",
    "unit": "元/吨",
-   "est_margin": 3054.0,
-   "future": 6108.0,
-   "change_pct": 0.89,
-   "range_pct": 1.52,
+   "est_margin": 3061.0,
+   "future": 6122.0,
+   "change_pct": 0.23,
+   "range_pct": 0.79,
    "trend": "up",
    "category": "化工"
   },
@@ -105,41 +105,41 @@
    "symbol": "M0",
    "name": "豆粕",
    "unit": "元/吨",
-   "est_margin": 3080.0,
-   "future": 3080.0,
-   "change_pct": -0.68,
-   "range_pct": 0.9,
-   "trend": "down",
+   "est_margin": 3157.0,
+   "future": 3157.0,
+   "change_pct": 0.89,
+   "range_pct": 0.7,
+   "trend": "up",
+   "category": "农产品"
+  },
+  {
+   "symbol": "CJ0",
+   "name": "红枣",
+   "unit": "元/吨",
+   "est_margin": 3195.0,
+   "future": 6390.0,
+   "change_pct": 0.08,
+   "range_pct": 2.58,
+   "trend": "up",
    "category": "农产品"
   },
   {
    "symbol": "MA0",
    "name": "甲醇",
    "unit": "元/吨",
-   "est_margin": 3262.0,
-   "future": 3262.0,
-   "change_pct": 1.59,
-   "range_pct": 1.56,
+   "est_margin": 3288.0,
+   "future": 3288.0,
+   "change_pct": 2.05,
+   "range_pct": 1.96,
    "trend": "up",
    "category": "化工"
-  },
-  {
-   "symbol": "CJ0",
-   "name": "红枣",
-   "unit": "元/吨",
-   "est_margin": 3267.5,
-   "future": 6535.0,
-   "change_pct": 2.11,
-   "range_pct": 2.19,
-   "trend": "up",
-   "category": "农产品"
   }
  ],
  "categories": [
   {
    "category": "化工",
    "count": 14,
-   "avg_change_pct": 0.589,
+   "avg_change_pct": 0.326,
    "names": [
     "玻璃",
     "纯碱",
@@ -148,28 +148,28 @@
     "甲醇",
     "尿素",
     "短纤",
-    "对二甲苯"
+    "塑料"
    ]
   },
   {
    "category": "农产品",
    "count": 18,
-   "avg_change_pct": 0.013,
+   "avg_change_pct": 0.509,
    "names": [
-    "菜粕",
     "玉米",
+    "菜粕",
     "玉米淀粉",
     "豆粕",
     "红枣",
     "鸡蛋",
-    "豆二",
-    "花生"
+    "花生",
+    "豆二"
    ]
   },
   {
    "category": "黑色系",
    "count": 9,
-   "avg_change_pct": -0.148,
+   "avg_change_pct": 0.38,
    "names": [
     "硅铁",
     "锰硅",
@@ -177,14 +177,26 @@
     "热卷",
     "线材",
     "铁矿石",
-    "焦煤",
-    "不锈钢"
+    "不锈钢",
+    "焦煤"
+   ]
+  },
+  {
+   "category": "能源",
+   "count": 5,
+   "avg_change_pct": 1.86,
+   "names": [
+    "燃料油",
+    "沥青",
+    "低硫燃料油",
+    "液化气",
+    "上海原油"
    ]
   },
   {
    "category": "基本金属",
    "count": 8,
-   "avg_change_pct": 0.194,
+   "avg_change_pct": 0.059,
    "names": [
     "工业硅",
     "沪铅",
@@ -197,21 +209,9 @@
    ]
   },
   {
-   "category": "能源",
-   "count": 5,
-   "avg_change_pct": -0.158,
-   "names": [
-    "燃料油",
-    "沥青",
-    "低硫燃料油",
-    "液化气",
-    "上海原油"
-   ]
-  },
-  {
    "category": "贵金属",
    "count": 2,
-   "avg_change_pct": -0.465,
+   "avg_change_pct": -1.155,
    "names": [
     "沪银",
     "沪金"
