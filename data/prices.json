@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T09:59:28",
+ "updated_at": "2026-11-14T12:33:59",
  "spot_meta": {
   "policy": "stale_never_fill",
   "spot_page_used": "2026-11-13",
@@ -6701,10 +6701,7 @@
    "fallback_tier": "conflict",
    "note_extra": "全部候选与日线方向相反，已降级为观察级：日线均线缠绕。按李永强口径应当观望，此条仅作盯盘提示，不建议直接进场。",
    "rank": 1,
-   "is_today": true,
-   "contract_value": 32880.0,
-   "last_settle": 3222.0,
-   "change_pct": 2.05
+   "is_today": true
   }
  ],
  "hf_pool": [
@@ -6779,8 +6776,70 @@
   "date": "2026-11-14",
   "session": "afternoon",
   "ruleset": 3,
-  "name": "",
-  "symbol": ""
+  "symbol": "MA0",
+  "name": "甲醇",
+  "category": "化工",
+  "unit": "元/吨",
+  "price": 3288.0,
+  "direct": 1,
+  "dir_label": "做多",
+  "day_range_pct": 1.96,
+  "limit_score": 62,
+  "board": "强势关注",
+  "dual": {
+   "st": "dip_b",
+   "ref": 3275.0
+  },
+  "plan": {
+   "dir": "long",
+   "dir_label": "做多",
+   "entry": 3316.028,
+   "entry_alt": null,
+   "entry_alt_kind": null,
+   "sl": 3203.914,
+   "tp": 3462.6,
+   "sl_pct": 2.56,
+   "rr": 2.0,
+   "basis": "afternoon_last",
+   "k": 0.6,
+   "hit_rate": 0.183,
+   "note": "午后重算·转强确认进多; 止损ATR自适应, 2R落袋; 进场后立刻反向即离场"
+  },
+  "real_open": 3275.0,
+  "day_bias": "mix",
+  "day_ma": [
+   3170.4,
+   3284.8,
+   3033.9
+  ],
+  "est_margin": 3288.0,
+  "hands_in_100k": 30,
+  "volume": 902918,
+  "open_interest": 1146730,
+  "mode": "追强做多",
+  "anchor": 3288.0,
+  "tp": 3462.6,
+  "sl": 3203.914,
+  "pullback": null,
+  "src_conflict": false,
+  "board_score": 0.871,
+  "day_conflict": "日线均线缠绕",
+  "reason": "午后重算 · 方向做多 · 现价3288: 进场≈3316.03, 止损3203.91, 止盈3462.6",
+  "tier": 2,
+  "fallback_tier": "conflict",
+  "note_extra": "全部候选与日线方向相反，已降级为观察级：日线均线缠绕。按李永强口径应当观望，此条仅作盯盘提示，不建议直接进场。",
+  "rank": 1,
+  "is_today": true,
+  "plan_basis": "afternoon_last",
+  "afternoon_meta": {
+   "basis_price": 3288.0,
+   "atr": 140.14,
+   "k": 0.6,
+   "hit_rate": 0.183
+  },
+  "contract_value": 32880.0,
+  "last_settle": 3222.0,
+  "change_pct": 2.05
  },
  "trading_rules": [
   {

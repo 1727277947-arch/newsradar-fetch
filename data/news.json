@@ -1,5 +1,24 @@
 [
  {
+  "title": "国家统计局：11月上旬16种产品价格上涨，生猪价格环比下降6.5%",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731905.shtml",
+  "summary": "国家统计局11月14日在其官网发布2026年11月上旬流通领域重要生产资料市场价格变动情况。据对全国流通领域9大类50种重要生产资料市场价格的监测显示，2026年11月上旬与10月下旬相比，16种产品价格上涨，32种下降，2种持平",
+  "pub_time": "2026-11-14T02:07:49Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "d128521959a88cd5d9de212e1281dc88",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "国际能源署预计第四季度全球石油供应转向过剩",
   "url": "https://news.mysteel.com/a/26111408/8990F0811BC92A03.html",
   "summary": "",
@@ -1378,6 +1397,25 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "57bc5f9eea9b2db0240e39fc075ede24",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：七日洞见——黑色金属市场一周热点回顾（11.8-11.13）",
+  "url": "https://news.mysteel.com/a/26111318/C2740AA2D8107A7A.html",
+  "summary": "",
+  "pub_time": "2026-11-13T10:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "076bf9c41a309ab33b62ab14079b9143",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -3355,95 +3393,5 @@
    "棉花"
   ],
   "en_title": "ACGA celebrates cotton-ginning record at AGM + PICS"
- },
- {
-  "title": "螺纹钢期货下跌，钢价偏弱震荡",
-  "url": "https://news.mysteel.com/a/26111212/3B25FB6D8659EA47.html",
-  "summary": "",
-  "pub_time": "2026-11-12T04:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "c1ec64f4256887ac4eced02649fbfe8e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "GrainCorp 2026 财年录得 1000 万美元亏损，Spurway 将退出",
-  "url": "",
-  "summary": "GrainCorp 报告称，2026 财年税后净亏损 1000 万美元，并宣布 Robert Spurway 将在执掌公司六年之后卸任。",
-  "pub_time": "2026-11-12T02:11:13Z",
-  "source": "GrainCentral",
-  "_cat": "基本金属",
-  "dedup_key": "3d6d1d7b43523d8dd275545c8eaea426",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "谷物"
-  ],
-  "en_title": "GrainCorp records loss of $10M for FY26, Spurway to exit"
- },
- {
-  "title": "GrainCorp收割季最新消息显示交货量接近200万吨",
-  "url": "",
-  "summary": "在嘉能可针对本季收成的首次更新中，这家散货处理商详细列出了自10月1日以来的收货量，为1,980,800吨，不包括直接运至港口的交货量。",
-  "pub_time": "2026-11-12T02:04:16Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "716180f8a3d6dd33ffee4ded391ee242",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "谷物"
-  ],
-  "en_title": "GrainCorp Harvest Update shows deliveries nudging 2Mt"
- },
- {
-  "title": "Mysteel：10月15家重点房企销售额环比增长16.2%",
-  "url": "https://news.mysteel.com/a/26111210/B6B758297DD72B39.html",
-  "summary": "",
-  "pub_time": "2026-11-12T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "74d7eeaf4c6441a972899b5bf6a44967",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  }
 ]
