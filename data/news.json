@@ -1,5 +1,31 @@
 [
  {
+  "title": "没有黄仁勋的英伟达：人工智能交易的暂停对金属意味着什么",
+  "url": "",
+  "summary": "周五铜价跌至近四个月来的最低点，并有望连续第五周下跌，交易员将最近的下跌归咎于英伟达（纳斯达克股票代码：NVDA）的黄仁勋（Jensen Huang）的损失。出口是一个方便的罪魁祸首，但幻灯片在它之前就开始了。自此以来铜价每周都在下跌",
+  "pub_time": "2026-11-14T22:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "8e006485498a71e5d02321e77815410f",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "金属"
+  ],
+  "en_title": "Nvidia Without Huang: What a Pause in AI Deals Means for Metals"
+ },
+ {
   "title": "伊朗战争加速东南亚可再生能源发展",
   "url": "",
   "summary": "亚洲一些国家已经认识到需要加快可再生能源的部署，以减少对化石燃料进口的依赖并支持能源多样化。近几个月来，中东持续的冲突大幅减少了燃料贸易，引发了人们对燃料短缺的担忧。",
@@ -1313,32 +1339,6 @@
   "en_title": "Copper shortage or surplus? Banks split on 2027 outlook"
  },
  {
-  "title": "全球能源市场如何度过伊朗战争八个月的干扰",
-  "url": "",
-  "summary": "六个月前，我写道，美国人主要通过价格上涨来经历伊朗战争，而世界其他地区则面临着更严重的问题：燃料和其他关键产品的实际短缺。在“美国感受到更高的价格，而世界正面临燃料短缺”",
-  "pub_time": "2026-11-13T14:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "e7feb63dacf4e048b497be04f5abbc5b",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "能源"
-  ],
-  "en_title": "How Global Energy Markets Survived Eight Months of Iran War Disruptions"
- },
- {
   "title": "几内亚金矿开采镇压造成10人死亡，引发人员外逃",
   "url": "",
   "summary": "马里警告称，人道主义危机和地区安全威胁不断上升​​，邻国面临大规模驱逐。",
@@ -2051,102 +2051,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "Mysteel早读：五大钢材品种供需双降，英伟达宣布黄仁勋辞职",
-  "url": "https://news.mysteel.com/a/26111307/0705056DE5CEC5E7.html",
-  "summary": "",
-  "pub_time": "2026-11-12T23:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "88d6b0c08fa41ad64e5ace22fecbb68f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "内马斯卡暂停令力拓魁北克锂计划蒙上阴影",
-  "url": "",
-  "summary": "贝坎库尔项目是魁北克尝试建立电池供应链的一部分，该供应链将当地开采的矿物转化为更高价值的材料。",
-  "pub_time": "2026-11-12T22:25:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "67503e0bcf58971f0e1ffb160394a977",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡"
-  ],
-  "en_title": "Nemaska pause clouds Rio Tinto’s Quebec lithium plans"
- },
- {
-  "title": "随着铜山的改善，Hudbay 下调成本前景",
-  "url": "",
-  "summary": "运营收益出现之际，Hudbay 正准备为其位于亚利桑那州的 Copper World 项目提供融资。",
-  "pub_time": "2026-11-12T22:10:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "1fd93a09469940cb839b813333e437e1",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "展望"
-  ],
-  "en_title": "Hudbay cuts cost outlook as Copper Mountain improves"
- },
- {
-  "title": "Nemaska暂停魁北克锂矿计划",
-  "url": "",
-  "summary": "力拓（伦敦证券交易所、澳大利亚证券交易所、纽约证券交易所：RIO）位于魁北克的Nemaska锂矿厂的建设预计将一直暂停至2027年，这使其原定于2028年的……这篇文章《Nemaska暂停蒙上魁北克锂矿计划的阴影》最初发表在《北方矿工报》上。",
-  "pub_time": "2026-11-12T22:05:44Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "06c21476371d84dfc802226684cd39b6",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Nemaska pause clouds Quebec lithium plans"
  }
 ]
