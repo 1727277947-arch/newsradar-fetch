@@ -1,5 +1,31 @@
 [
  {
+  "title": "新加坡对黄金的未来押注650亿美元",
+  "url": "",
+  "summary": "在过去三年里，黄金的故事主要围绕着谁在买入。到了 2026 年，故事的主角变成了黄金的夜间栖身之地。周二，新加坡金融管理局向外国央行和主权实体开放了其国家货币金库，该金库可容纳500吨金条，并且",
+  "pub_time": "2026-11-14T18:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "贵金属",
+  "dedup_key": "6bc760261b21d7f58c764a435aa15373",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Singapore Makes a $65 Billion Bet on the Future of Gold"
+ },
+ {
   "title": "湖南江永推广“稻稻油”轮作 冬闲田变身增收田",
   "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732157.shtml",
   "summary": "田海忠 陈丽华 廖光瑜)眼下正是秋冬种关键时节，湖南江永的田间地头一派繁忙，农户抢抓农时，依托冬闲田铺开油菜种植",
@@ -1313,32 +1339,6 @@
   "en_title": "Pakistan Scrambles for LNG as Winter Gas Crisis Deepens"
  },
  {
-  "title": "伊朗称一艘油轮在霍尔木兹海峡触雷",
-  "url": "",
-  "summary": "伊朗伊斯兰革命卫队（IRGC）海军表示，周五，一艘载有液化气的油轮在试图经由一条未经伊朗批准的航线通过霍尔木兹海峡时触雷并发生爆炸。该船只在霍尔木兹海峡行驶在一条“未经许可的危险航线上”。",
-  "pub_time": "2026-11-13T12:45:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "832876e933a23aec8c6241d9a0890681",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气"
-  ],
-  "en_title": "Iran Says Gas Tanker Hit Mine in Strait of Hormuz"
- },
- {
   "title": "几内亚金矿开采镇压造成10人死亡，引发人员外逃",
   "url": "",
   "summary": "马里警告称，人道主义危机和地区安全威胁不断上升​​，邻国面临大规模驱逐。",
@@ -2307,33 +2307,5 @@
    "原油"
   ],
   "en_title": "Gold Plummets After Expectations On U.S.-Iran Deal Sink Pushing Crude Oil Higher"
- },
- {
-  "title": "美国原油库存意外增加470万桶",
-  "url": "",
-  "summary": "（RTTNews）-美国能源信息署周四发布的一份报告意外显示，截至11月6日的一周内，美国原油库存显著增加。",
-  "pub_time": "2026-11-12T17:06:03Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "9a74e6004fcc1304ceafdb6eaf06f2e3",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "跳涨",
-   "库存"
-  ],
-  "en_title": "U.S. Crude Oil Inventories Unexpectedly Jump By 4.7 Million Barrels"
  }
 ]
