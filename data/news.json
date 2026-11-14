@@ -1,24 +1,5 @@
 [
  {
-  "title": "国家统计局：11月上旬16种产品价格上涨，生猪价格环比下降6.5%",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731905.shtml",
-  "summary": "国家统计局11月14日在其官网发布2026年11月上旬流通领域重要生产资料市场价格变动情况。据对全国流通领域9大类50种重要生产资料市场价格的监测显示，2026年11月上旬与10月下旬相比，16种产品价格上涨，32种下降，2种持平",
-  "pub_time": "2026-11-14T02:07:49Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "d128521959a88cd5d9de212e1281dc88",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
   "title": "国际能源署预计第四季度全球石油供应转向过剩",
   "url": "https://news.mysteel.com/a/26111408/8990F0811BC92A03.html",
   "summary": "",
@@ -3281,44 +3262,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "31f834ba0a5f271cd4cbd0126e13ded0",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "有色持仓日报：沪铝涨1.77%，国泰君安减持超5.6千手空单",
-  "url": "https://news.mysteel.com/a/26111216/EA7DB5C8E7176AFF.html",
-  "summary": "",
-  "pub_time": "2026-11-12T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "94a30050b6b8b108d1429741dda0d9a1",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色持仓日报：铁矿石跌1.61%，东证期货增持1万手空单",
-  "url": "https://news.mysteel.com/a/26111216/81FFD8432B236547.html",
-  "summary": "",
-  "pub_time": "2026-11-12T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "6be5d6ac06c231433b3fb1250d0b8c58",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
