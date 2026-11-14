@@ -1,5 +1,24 @@
 [
  {
+  "title": "每日钢市：唐山钢材稳中有跌，钢坯累库，钢价或窄幅调整",
+  "url": "https://news.mysteel.com/a/26111418/A335991A5793C7BB.html",
+  "summary": "",
+  "pub_time": "2026-11-14T10:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "a2ed9820bbe53180bcc76f457fb7b81e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "国际能源署预计第四季度全球石油供应转向过剩",
   "url": "https://news.mysteel.com/a/26111408/8990F0811BC92A03.html",
   "summary": "",
@@ -1484,7 +1503,7 @@
  },
  {
   "title": "Mysteel晚餐：沙钢废钢下调30元，铁矿石港库增加",
-  "url": "https://news.mysteel.com/a/26111317/C662F1FF8F56D6A2.html",
+  "url": "https://news.mysteel.com/a/26111317/2F93DE4E78CB7035.html",
   "summary": "",
   "pub_time": "2026-11-13T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -3194,82 +3213,6 @@
    "中文",
    "国内",
    "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "一图看懂：油价迎年内第六降",
-  "url": "https://news.mysteel.com/a/26111218/B5F7A84F39076907.html",
-  "summary": "",
-  "pub_time": "2026-11-12T10:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "16e010c76164cad443c1162b6fa58f72",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel晚餐：钢材总库存下降，炼焦煤矿山持续累库",
-  "url": "https://news.mysteel.com/a/26111217/61394FA4B30FDD83.html",
-  "summary": "",
-  "pub_time": "2026-11-12T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "3ef0bb9277a177aeaec49a0261d4d503",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "关键矿产日报：国内油价下调，铝棒电解铝库存双降",
-  "url": "https://news.mysteel.com/a/26111217/E18EB67CF21E44DA.html",
-  "summary": "",
-  "pub_time": "2026-11-12T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "c3333f55489fe028eaf3b0a496a3e700",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel日报：黑色金属期货价格震荡下跌运行",
-  "url": "https://news.mysteel.com/a/26111217/69C07B28375EF73C.html",
-  "summary": "",
-  "pub_time": "2026-11-12T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "31f834ba0a5f271cd4cbd0126e13ded0",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
   ],
   "is_elite": false
  }
