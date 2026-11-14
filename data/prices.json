@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T08:54:58",
+ "updated_at": "2026-11-14T09:59:28",
  "spot_meta": {
   "policy": "stale_never_fill",
   "spot_page_used": "2026-11-13",
@@ -4647,6 +4647,60 @@
     "tested": 60
    },
    "reason": "豆油今开8806 vs 昨结8781，+0.28%偏强看多（含夜盘：夜盘开盘8806 vs 昨结8781）；打板分45(一般/观望)：涨0.44%/收高93%/放量0.69x/连涨4日；预测次日开盘≈8836.61，区间[8822.65, 8850.57]"
+  },
+  {
+   "symbol": "nf_PB0",
+   "name": "沪铅",
+   "category": "基本金属",
+   "date": "2026-11-13",
+   "today_open": 15815.0,
+   "prev_close": 15735.0,
+   "gap_pct": 0.51,
+   "session": "night",
+   "has_night": true,
+   "direction": 1,
+   "label": "做多",
+   "strength": 3,
+   "mean_gap": 0.0,
+   "std_gap": 0.3,
+   "today_close": 15955.0,
+   "pred_next_open": 16003.877,
+   "pred_low": 15980.307,
+   "pred_high": 16027.447,
+   "limit_score": 44,
+   "board": "一般/观望",
+   "limit_ru": 1.4,
+   "limit_pos": 1.0,
+   "limit_vol": 1.14,
+   "limit_streak": 1,
+   "day_ma": [
+    15836.0,
+    16017.5,
+    16090.25
+   ],
+   "day_bias": "bear",
+   "atr": 211.43,
+   "sl_long_pct": 0.8,
+   "sl_short_pct": 0.8,
+   "hit_long": 0.2,
+   "hit_short": 0.25,
+   "stop_detail_long": {
+    "atr": 211.43,
+    "k": 0.6,
+    "stop": 15688.143,
+    "stop_pct": 0.8,
+    "hit_rate": 0.2,
+    "tested": 60
+   },
+   "stop_detail_short": {
+    "atr": 211.43,
+    "k": 0.6,
+    "stop": 15941.857,
+    "stop_pct": 0.8,
+    "hit_rate": 0.25,
+    "tested": 60
+   },
+   "reason": "沪铅今开15815 vs 昨结15735，+0.51%偏强看多（含夜盘：夜盘开盘15815 vs 昨结15735）；打板分44(一般/观望)：涨1.40%/收高100%/放量1.14x/连涨1日；预测次日开盘≈16003.9，区间[15980.3, 16027.4]"
   },
   {
    "symbol": "nf_M0",
