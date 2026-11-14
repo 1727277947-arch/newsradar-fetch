@@ -1294,25 +1294,6 @@
   "en_title": "Pakistan Scrambles for LNG as Winter Gas Crisis Deepens"
  },
  {
-  "title": "海南首票“两头在外”保税航空煤油适用国际标准检验业务落地",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731838.shtml",
-  "summary": "周爱玉)11月13日，在海口海关所属洋浦海关监管保障下，装载3.25万吨境外航空煤油的丽池轮顺利靠泊中石化(香港)海南石油有限公司成品油码头，海关按照相关国际标准实施检验通关",
-  "pub_time": "2026-11-13T13:55:21Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "870b82656c61818ddddd3c6fc764843e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
   "title": "伊朗称一艘油轮在霍尔木兹海峡触雷",
   "url": "",
   "summary": "伊朗伊斯兰革命卫队（IRGC）海军表示，周五，一艘载有液化气的油轮在试图经由一条未经伊朗批准的航线通过霍尔木兹海峡时触雷并发生爆炸。该船只在霍尔木兹海峡行驶在一条“未经许可的危险航线上”。",
@@ -3348,50 +3329,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "Mysteel：黑色金属年报前瞻版——上游让利、下游分化",
-  "url": "https://news.mysteel.com/a/26111214/551C857A6D93A40A.html",
-  "summary": "",
-  "pub_time": "2026-11-12T06:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "6d05d00f195b35f3cd8001f0572f3b06",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "ACGA 在年度股东大会上庆祝创下轧棉纪录 + 图片",
-  "url": "",
-  "summary": "过去五年，澳大利亚轧出了创纪录的2500万包棉花，澳大利亚轧棉商协会（Australian Cotton Ginners’ Association）上周在图文巴举行的年度股东大会上庆祝了这一里程碑。",
-  "pub_time": "2026-11-12T04:32:34Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "05242e0a19bfad223c1e673f3d81dcaf",
-  "score": 84,
-  "priority": "P1",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "棉花"
-  ],
-  "en_title": "ACGA celebrates cotton-ginning record at AGM + PICS"
  }
 ]
