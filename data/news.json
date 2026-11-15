@@ -1,5 +1,32 @@
 [
  {
+  "title": "伊朗战争推动了 1300 亿美元的石油繁荣",
+  "url": "",
+  "summary": "美国的几家石油和天然气公司受益于二月份开始的伊朗战争后贸易的增加以及随后对国际能源贸易的限制。由于流动限制，许多国家被迫转向替代供应商。",
+  "pub_time": "2026-11-15T20:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "3cee2869118b1491c9ba3b2d29e90270",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "燃料"
+  ],
+  "en_title": "The $130 Billion Oil Boom Fueled by the Iran War"
+ },
+ {
   "title": "钢铁行业能碳提效工程启动",
   "url": "https://news.mysteel.com/a/26111518/5D633AD5F5245694.html",
   "summary": "",
@@ -540,6 +567,120 @@
   "is_elite": false
  },
  {
+  "title": "2026年11月15日天津市场豆油价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/0049718855.shtml",
+  "summary": "",
+  "pub_time": "2026-11-14T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "c17c4ef89ebb15ec9f1354d0d5a7479d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月15日江苏泰州市米厂新季9108稻谷价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/4242216509.shtml",
+  "summary": "",
+  "pub_time": "2026-11-14T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "638cb5d8c963127f1481ff0661e823dc",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月15日黑龙江齐齐哈尔新季中科发五水稻价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/4132718146.shtml",
+  "summary": "",
+  "pub_time": "2026-11-14T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "eb9fbb1c3c4acd8d231dfc5b3c8f1891",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月15日黑龙江齐齐哈尔新季长粒水稻价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/4111941980.shtml",
+  "summary": "",
+  "pub_time": "2026-11-14T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "def72997194e76c07778909937ae17f5",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月15日黑龙江齐齐哈尔中科发五大米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/4207986602.shtml",
+  "summary": "",
+  "pub_time": "2026-11-14T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "773a174c04b295eaab18d1a4a41e95ee",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月15日黑龙江齐齐哈尔长粒大米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/4150882943.shtml",
+  "summary": "",
+  "pub_time": "2026-11-14T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "40901eb73f89d6c1f591889271b9f009",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "Mysteel宏观周报：中美经贸沟通持续推进，黄仁勋辞任英伟达CEO",
   "url": "https://news.mysteel.com/a/26111423/E254AB50C1FC0D25.html",
   "summary": "",
@@ -1007,82 +1148,5 @@
    "能源"
   ],
   "en_title": "Will the Senate's BAAJA Bill Let AI Giants Outmuscle Utilities?"
- },
- {
-  "title": "矿工的黄金押注增加了现金和抵押品风险",
-  "url": "",
-  "summary": "该战略增加了Mineros对金属的敞口，而不仅仅是其在哥伦比亚和尼加拉瓜生产的黄金。",
-  "pub_time": "2026-11-13T19:58:00Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "1d20a8b69b3c3f80fd08fd5bcf6fff75",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Mineros’ gold bet raises cash and collateral risks"
- },
- {
-  "title": "国际能源署预测，由于地缘政治担忧，原油价格走低",
-  "url": "",
-  "summary": "(RTTNews) - 原油价格在连续两个交易日上涨后，周五小幅走低，国际能源署对全球原油过剩的预测抵消了美国与伊朗关系再度升级的担忧。",
-  "pub_time": "2026-11-13T19:40:58Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "639fcfa5138aea96ee4acee6e227ca54",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Crude Oil Ticks Lower Amid Geopolitical Concerns, IEA Projections"
- },
- {
-  "title": "特朗普将《琼斯法案》豁免期再延长90天",
-  "url": "",
-  "summary": "周五，唐纳德·特朗普总统将《琼斯法案》豁免期再延长90天，使悬挂外国旗帜的油轮仍有资格在美国港口之间运输石油和其他商品，因为与伊朗的战争仍在持续推高燃料成本。一位白宫官员在接受路透社采访时证实了这一延期。",
-  "pub_time": "2026-11-13T19:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "08d954dc1775d4132973b919fd32178f",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Trump Extends Jones Act Waiver For Another 90 Days"
  }
 ]
