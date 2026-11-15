@@ -1,5 +1,62 @@
 [
  {
+  "title": "美称已护航超17亿桶原油过霍尔木兹",
+  "url": "https://news.mysteel.com/a/26111511/47BB90492A18C9FA.html",
+  "summary": "",
+  "pub_time": "2026-11-15T03:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "eb80b4850d6a6ce3f00ff0523528e80f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "11月上旬钢材库存量1657万吨",
+  "url": "https://news.mysteel.com/a/26111509/FF1809A8BC2BFAAB.html",
+  "summary": "",
+  "pub_time": "2026-11-15T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "4d41e6dc3b0b61c096e090e82e303f7b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "中钢协：11月上旬重点钢企钢材库存量1657万吨",
+  "url": "https://news.mysteel.com/a/26111509/EE69BAA21631AD3F.html",
+  "summary": "",
+  "pub_time": "2026-11-15T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "7605f5d2f9262d1ade4d67522a1740a7",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "令人振奋的雄心壮志在欧洲遇到严峻的现实",
   "url": "",
   "summary": "欧盟领导人是最大程度电气化的最热心支持者之一，以减少对进口能源商品的依赖。欧盟的许多政策正是追求这一点。然而，上周欧盟电价因风灾而飙升至每兆瓦时 600 欧元以上，而且该集团仍",
@@ -118,6 +175,462 @@
    "中文",
    "国内",
    "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月15日天津豆粕价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/5333113090.shtml",
+  "summary": "",
+  "pub_time": "2026-11-14T16:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "94e0cb3d5b91a291961923cbea1dd091",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月15日河南商丘新季玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/4910977791.shtml",
+  "summary": "",
+  "pub_time": "2026-11-14T16:00:00Z",
+  "source": "粮油玉米",
+  "_cn": true,
+  "dedup_key": "92f90cbfb0e0739a6c4e35c2736c3551",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油玉米"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月15日河北保定玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/4638720394.shtml",
+  "summary": "",
+  "pub_time": "2026-11-14T16:00:00Z",
+  "source": "粮油玉米",
+  "_cn": true,
+  "dedup_key": "ea9b27314fffb0b85fa3a7e40919e206",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油玉米"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月15日山东泰安新季玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/4621285404.shtml",
+  "summary": "",
+  "pub_time": "2026-11-14T16:00:00Z",
+  "source": "粮油玉米",
+  "_cn": true,
+  "dedup_key": "21c692a5e26a76c82cbbf9df0027bd0c",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油玉米"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月15日内蒙古通辽新季玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/4604493846.shtml",
+  "summary": "",
+  "pub_time": "2026-11-14T16:00:00Z",
+  "source": "粮油玉米",
+  "_cn": true,
+  "dedup_key": "b0d9787dd344522f8b5ff30686de825e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油玉米"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月15日吉林四平新季玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/4547880697.shtml",
+  "summary": "",
+  "pub_time": "2026-11-14T16:00:00Z",
+  "source": "粮油玉米",
+  "_cn": true,
+  "dedup_key": "c9dc8124ab0e0fbc3ad59c033c610ba5",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油玉米"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月15日黑龙江哈尔滨新季玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/4529325950.shtml",
+  "summary": "",
+  "pub_time": "2026-11-14T16:00:00Z",
+  "source": "粮油玉米",
+  "_cn": true,
+  "dedup_key": "3e249494456a78b72826e90d1c598411",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油玉米"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月15日黑龙江佳木斯新季玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/4510758203.shtml",
+  "summary": "",
+  "pub_time": "2026-11-14T16:00:00Z",
+  "source": "粮油玉米",
+  "_cn": true,
+  "dedup_key": "33d18c246ae7092300b1d5c164d1836e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油玉米"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月15日江苏省徐州地区新季杂花大豆价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/0648970669.shtml",
+  "summary": "",
+  "pub_time": "2026-11-14T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "fc99020debda625a23b55151add018d7",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月15日河南省漯河新季大豆价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/0625132068.shtml",
+  "summary": "",
+  "pub_time": "2026-11-14T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "b301b98c0870eff65c24e562556b4bf8",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月15日安徽省亳州涡阳县新季大豆价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/0605535785.shtml",
+  "summary": "",
+  "pub_time": "2026-11-14T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "8818159468e20663e96dd1e2d2c10a71",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月15日湖北天门多宝新季大豆价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/0546412451.shtml",
+  "summary": "",
+  "pub_time": "2026-11-14T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "662f449900224a59c6f6e75d89067345",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月15日内蒙古鄂伦春旗诺敏镇新季大豆价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/0526918638.shtml",
+  "summary": "",
+  "pub_time": "2026-11-14T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "18586afdb05ab77f5bf0758561669ef2",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月15日河南安阳小麦价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/5056215715.shtml",
+  "summary": "",
+  "pub_time": "2026-11-14T16:00:00Z",
+  "source": "粮油小麦",
+  "_cn": true,
+  "dedup_key": "98c44e9c8144c1c3a182ee589d9e4493",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油小麦"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月15日河南商丘小麦价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/5037830394.shtml",
+  "summary": "",
+  "pub_time": "2026-11-14T16:00:00Z",
+  "source": "粮油小麦",
+  "_cn": true,
+  "dedup_key": "7a8e60042e3aec1b7a783c67fe172f79",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油小麦"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月15日河北保定小麦价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/5018604878.shtml",
+  "summary": "",
+  "pub_time": "2026-11-14T16:00:00Z",
+  "source": "粮油小麦",
+  "_cn": true,
+  "dedup_key": "9f2eb4005c93e2e79bde1bcc17c8d60f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油小麦"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月15日山东济南小麦价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/5000749058.shtml",
+  "summary": "",
+  "pub_time": "2026-11-14T16:00:00Z",
+  "source": "粮油小麦",
+  "_cn": true,
+  "dedup_key": "abef9da68974778c5f20d4748faa6897",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油小麦"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月15日山东泰安小麦价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/4942217410.shtml",
+  "summary": "",
+  "pub_time": "2026-11-14T16:00:00Z",
+  "source": "粮油小麦",
+  "_cn": true,
+  "dedup_key": "93a0897f7bb88fa810b60213c96cb1f1",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油小麦"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月15日天津市场豆油价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/0049718855.shtml",
+  "summary": "",
+  "pub_time": "2026-11-14T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "c17c4ef89ebb15ec9f1354d0d5a7479d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月15日江苏泰州市米厂新季9108稻谷价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/4242216509.shtml",
+  "summary": "",
+  "pub_time": "2026-11-14T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "638cb5d8c963127f1481ff0661e823dc",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月15日黑龙江齐齐哈尔新季中科发五水稻价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/4132718146.shtml",
+  "summary": "",
+  "pub_time": "2026-11-14T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "eb9fbb1c3c4acd8d231dfc5b3c8f1891",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月15日黑龙江齐齐哈尔新季长粒水稻价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/4111941980.shtml",
+  "summary": "",
+  "pub_time": "2026-11-14T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "def72997194e76c07778909937ae17f5",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月15日黑龙江齐齐哈尔中科发五大米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/4207986602.shtml",
+  "summary": "",
+  "pub_time": "2026-11-14T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "773a174c04b295eaab18d1a4a41e95ee",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月15日黑龙江齐齐哈尔长粒大米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/4150882943.shtml",
+  "summary": "",
+  "pub_time": "2026-11-14T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "40901eb73f89d6c1f591889271b9f009",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
   ],
   "is_elite": false
  },
@@ -905,82 +1418,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年11月14日内蒙古赤峰新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/14/3553550386.shtml",
-  "summary": "",
-  "pub_time": "2026-11-13T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "d000388d96464c5c664ece816d37ab19",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年11月14日辽宁铁岭新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/14/3547973889.shtml",
-  "summary": "",
-  "pub_time": "2026-11-13T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "3ae9f6c7ac1206e97b81acd2d2cd22f9",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年11月14日黑龙江鸡西新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/14/3508947876.shtml",
-  "summary": "",
-  "pub_time": "2026-11-13T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "2b573814569a7f7d73dd892f4b3a45f8",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年11月14日黑龙江哈尔滨新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/14/3451340400.shtml",
-  "summary": "",
-  "pub_time": "2026-11-13T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "52d3240c0a072cbc8ef0f2af24e9a32a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年11月14日山东省菏泽牡丹区新季大豆价格行情",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/14/1249717190.shtml",
   "summary": "",
@@ -1183,6 +1620,82 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月14日内蒙古赤峰新季玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/14/3553550386.shtml",
+  "summary": "",
+  "pub_time": "2026-11-13T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "6833f7cde6e3f1aec32e1ccbac309225",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月14日辽宁铁岭新季玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/14/3547973889.shtml",
+  "summary": "",
+  "pub_time": "2026-11-13T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "7ec37b306f084fa66f26f95e67bdcc1a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月14日黑龙江鸡西新季玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/14/3508947876.shtml",
+  "summary": "",
+  "pub_time": "2026-11-13T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "2fbaa2f9c459288e210efe660c23eada",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月14日黑龙江哈尔滨新季玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/14/3451340400.shtml",
+  "summary": "",
+  "pub_time": "2026-11-13T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "1a262c8a94e48282f5900179132cba11",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "粮油首页"
@@ -1489,240 +2002,6 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "泰国对涉华镀锡钢板卷发起第一次反倾销日落复审调查",
-  "url": "https://news.mysteel.com/a/26111316/D898E7432DD05282.html",
-  "summary": "",
-  "pub_time": "2026-11-13T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "4b0b483213780f694a31020f30a793d2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "广期所：氢氧化锂期货合约自11月26日起上市交易",
-  "url": "https://news.mysteel.com/a/26111316/3E48366B4DD40C55.html",
-  "summary": "",
-  "pub_time": "2026-11-13T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "7104c02af531715bda379b96467dd429",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色持仓日报：焦煤涨3.27%，国泰君安增持超8千手多单",
-  "url": "https://news.mysteel.com/a/26111315/FA16F29E05B918A3.html",
-  "summary": "",
-  "pub_time": "2026-11-13T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "f0908939adf3fbf413d421fa207dbabc",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "有色持仓日报：沪铜飘红，国泰君安增持超1.3千手多单",
-  "url": "https://news.mysteel.com/a/26111315/2F1D271D737D79A9.html",
-  "summary": "",
-  "pub_time": "2026-11-13T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "3aec4f67e2cef6acefe16ed01d5b3bc7",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "国际金价年内跌近10%！法兴唱多黄金：逾30亿美元买盘将至",
-  "url": "https://news.mysteel.com/a/26111314/BEE3F9789AE6624D.html",
-  "summary": "",
-  "pub_time": "2026-11-13T06:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "a7a095d8227a1d1dcf6ca25087d1c7e5",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "西班牙Megasa钢铁公司授予达涅利SN Seixal轧钢厂现代化改造项目",
-  "url": "https://news.mysteel.com/a/26111313/EB68EEF2F5901D2B.html",
-  "summary": "",
-  "pub_time": "2026-11-13T05:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "e64918f1b64f247c7f8ad17d58ef68d3",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "济源钢铁再度携手达涅利：连铸机新增多断面规格，产品谱系再拓宽",
-  "url": "https://news.mysteel.com/a/26111313/D5207EA559797387.html",
-  "summary": "",
-  "pub_time": "2026-11-13T05:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "243ccb5dbd6d68fcb5294a762daae67c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "中诚华隆：年产5万台计算设备产线落地安徽铜陵",
-  "url": "https://news.mysteel.com/a/26111313/622B510D126F42ED.html",
-  "summary": "",
-  "pub_time": "2026-11-13T05:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "36b357d8458ae38cc512f2da96aa9c0d",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色期货涨跌互现，钢价窄幅调整",
-  "url": "https://news.mysteel.com/a/26111312/A5661A4C30454946.html",
-  "summary": "",
-  "pub_time": "2026-11-13T04:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "6633858deeeca6d57884dd1329147128",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel午报：钢价局部下跌，焦煤期货涨超3%",
-  "url": "https://news.mysteel.com/a/26111311/6C73B18D9301118A.html",
-  "summary": "",
-  "pub_time": "2026-11-13T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "1a0e96ac4d86496870101ca7f4121d72",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "每日市场快讯 2026 年 11 月 13 日",
-  "url": "",
-  "summary": "隔夜美国小麦引领谷物走低。玉米价格因美元走强而放缓。大豆比其他复合物的耐受性更好。南澳州/维多利亚州天气凉爽、湿润，一些人的收获停止了。",
-  "pub_time": "2026-11-13T02:36:14Z",
-  "source": "GrainCentral",
-  "_cat": "基本金属",
-  "dedup_key": "3e805a73b5229e55f86768d4565ef729",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Daily Market Wire 13 November 2026"
- },
- {
-  "title": "【证券时报】上海钢联曲国娜：11月生猪价格以震荡寻底为主",
-  "url": "https://news.mysteel.com/a/26111310/AFAE3624C832E188.html",
-  "summary": "",
-  "pub_time": "2026-11-13T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "88e1ae123fb081b5484d784bbb4306ba",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
    "中文",
    "国内",
    "上海钢联Mysteel"
