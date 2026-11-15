@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T00:49:40",
+ "updated_at": "2026-11-16T02:59:08",
  "spot_meta": {
   "policy": "stale_never_fill",
   "spot_page_used": "2026-11-13",
@@ -4377,6 +4377,60 @@
     "tested": 60
    },
    "reason": "苹果今开6226 vs 昨结6111，+1.88%偏强看多；打板分49(一般/观望)：涨2.19%/收高49%/放量0.99x/连涨4日；预测次日开盘≈6314.05，区间[6300.33, 6327.78]"
+  },
+  {
+   "symbol": "nf_PP0",
+   "name": "聚丙烯",
+   "category": "化工",
+   "date": "2026-11-13",
+   "today_open": 9410.0,
+   "prev_close": 9302.0,
+   "gap_pct": 1.16,
+   "session": "night",
+   "has_night": true,
+   "direction": 1,
+   "label": "做多",
+   "strength": 2,
+   "mean_gap": -0.24,
+   "std_gap": 0.77,
+   "today_close": 9413.0,
+   "pred_next_open": 9469.541,
+   "pred_low": 9433.147,
+   "pred_high": 9505.935,
+   "limit_score": 49,
+   "board": "一般/观望",
+   "limit_ru": 1.19,
+   "limit_pos": 0.88,
+   "limit_vol": 1.09,
+   "limit_streak": 3,
+   "day_ma": [
+    9250.0,
+    9723.7,
+    8975.37
+   ],
+   "day_bias": "mix",
+   "atr": 377.14,
+   "sl_long_pct": 2.4,
+   "sl_short_pct": 2.4,
+   "hit_long": 0.15,
+   "hit_short": 0.25,
+   "stop_detail_long": {
+    "atr": 377.14,
+    "k": 0.6,
+    "stop": 9183.714,
+    "stop_pct": 2.4,
+    "hit_rate": 0.15,
+    "tested": 60
+   },
+   "stop_detail_short": {
+    "atr": 377.14,
+    "k": 0.6,
+    "stop": 9636.286,
+    "stop_pct": 2.4,
+    "hit_rate": 0.25,
+    "tested": 60
+   },
+   "reason": "聚丙烯今开9410 vs 昨结9302，+1.16%偏强看多（含夜盘：夜盘开盘9410 vs 昨结9302）；打板分49(一般/观望)：涨1.19%/收高88%/放量1.09x/连涨3日；预测次日开盘≈9469.54，区间[9433.15, 9505.93]"
   },
   {
    "symbol": "nf_L0",
