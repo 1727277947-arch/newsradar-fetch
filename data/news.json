@@ -1,5 +1,43 @@
 [
  {
+  "title": "钢铁行业能碳提效工程启动",
+  "url": "https://news.mysteel.com/a/26111518/5D633AD5F5245694.html",
+  "summary": "",
+  "pub_time": "2026-11-15T10:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "b600c1390dce56a55dffabdffe01ce1a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "通辽400余万亩“吨粮田”背后，中国玉米为何敢“种密”了",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732388.shtml",
+  "summary": "题：通辽400余万亩“吨粮田”背后，中国玉米为何敢“种密”了",
+  "pub_time": "2026-11-15T09:00:38Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "595599b5648f5bf964b120df3b642f97",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "美称已护航超17亿桶原油过霍尔木兹",
   "url": "https://news.mysteel.com/a/26111511/47BB90492A18C9FA.html",
   "summary": "",
@@ -39,7 +77,7 @@
  },
  {
   "title": "中钢协：11月上旬重点钢企钢材库存量1657万吨",
-  "url": "https://news.mysteel.com/a/26111509/EE69BAA21631AD3F.html",
+  "url": "https://news.mysteel.com/a/26111509/FF1809A8BC2BFAAB.html",
   "summary": "",
   "pub_time": "2026-11-15T01:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1831,181 +1869,5 @@
    "展望"
   ],
   "en_title": "Copper shortage or surplus? Banks split on 2027 outlook"
- },
- {
-  "title": "几内亚金矿开采镇压造成10人死亡，引发人员外逃",
-  "url": "",
-  "summary": "马里警告称，人道主义危机和地区安全威胁不断上升​​，邻国面临大规模驱逐。",
-  "pub_time": "2026-11-13T10:53:00Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "ec89b06ade26aebb16cde81ab47094c3",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Guinea gold mining crackdown leaves 10 dead, sparks exodus"
- },
- {
-  "title": "Mysteel：七日洞见——黑色金属市场一周热点回顾（11.8-11.13）",
-  "url": "https://news.mysteel.com/a/26111318/C2740AA2D8107A7A.html",
-  "summary": "",
-  "pub_time": "2026-11-13T10:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "076bf9c41a309ab33b62ab14079b9143",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "每日钢市：河北钢厂限产，焦炭提降落地，钢价或窄幅震荡",
-  "url": "https://news.mysteel.com/a/26111318/20C7A58F3634A860.html",
-  "summary": "",
-  "pub_time": "2026-11-13T10:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "57bc5f9eea9b2db0240e39fc075ede24",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "美联储加息预期升温，黄金本周将录得大幅下跌",
-  "url": "",
-  "summary": "（RTTNews）——周五，黄金价格上涨，这可能是继连续三天下跌至一年多以来的最低水平之后的技术性反弹。",
-  "pub_time": "2026-11-13T09:57:46Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "f2624e492394a064561222aed1f674b4",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "周"
-  ],
-  "en_title": "Gold Heads For Steep Weekly Loss Amid Fed Rate Hike Bets"
- },
- {
-  "title": "随着交易员权衡中东供应风险，油价保持稳定",
-  "url": "",
-  "summary": "（RTTNews）——周五，油价在上一交易日上涨后保持稳定，原因是交易商正在权衡中东石油供应持续中断的影响。",
-  "pub_time": "2026-11-13T09:39:50Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "21602a9fa31006bb10ebf2d0985606ea",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "供应"
-  ],
-  "en_title": "Oil Prices Hold Steady As Traders Weigh Middle East Supply Risks"
- },
- {
-  "title": "钢材下游周报：前10月汽车家电船舶出口数据出炉",
-  "url": "https://news.mysteel.com/a/26111317/F2DED159F5A59373.html",
-  "summary": "",
-  "pub_time": "2026-11-13T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "e9923e38d4618bc5c10b0dbec4d57f0e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/产业经济",
-  "tags": [
-   "产业经济",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel晚餐：沙钢废钢下调30元，铁矿石港库增加",
-  "url": "https://news.mysteel.com/a/26111317/2F93DE4E78CB7035.html",
-  "summary": "",
-  "pub_time": "2026-11-13T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "9d21a492fa4b1fee4118134e5ec057c7",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel日报：黑色金属期货震荡上涨运行",
-  "url": "https://news.mysteel.com/a/26111317/0D695834AB7BF52C.html",
-  "summary": "",
-  "pub_time": "2026-11-13T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "d89484a3a42740ff8b8ff0df79437318",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  }
 ]
