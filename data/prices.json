@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T20:13:38",
+ "updated_at": "2026-11-16T00:49:40",
  "spot_meta": {
   "policy": "stale_never_fill",
   "spot_page_used": "2026-11-13",
@@ -4379,60 +4379,6 @@
    "reason": "苹果今开6226 vs 昨结6111，+1.88%偏强看多；打板分49(一般/观望)：涨2.19%/收高49%/放量0.99x/连涨4日；预测次日开盘≈6314.05，区间[6300.33, 6327.78]"
   },
   {
-   "symbol": "nf_PP0",
-   "name": "聚丙烯",
-   "category": "化工",
-   "date": "2026-11-13",
-   "today_open": 9410.0,
-   "prev_close": 9302.0,
-   "gap_pct": 1.16,
-   "session": "night",
-   "has_night": true,
-   "direction": 1,
-   "label": "做多",
-   "strength": 2,
-   "mean_gap": -0.24,
-   "std_gap": 0.77,
-   "today_close": 9413.0,
-   "pred_next_open": 9469.541,
-   "pred_low": 9433.147,
-   "pred_high": 9505.935,
-   "limit_score": 49,
-   "board": "一般/观望",
-   "limit_ru": 1.19,
-   "limit_pos": 0.88,
-   "limit_vol": 1.09,
-   "limit_streak": 3,
-   "day_ma": [
-    9250.0,
-    9723.7,
-    8975.37
-   ],
-   "day_bias": "mix",
-   "atr": 377.14,
-   "sl_long_pct": 2.4,
-   "sl_short_pct": 2.4,
-   "hit_long": 0.15,
-   "hit_short": 0.25,
-   "stop_detail_long": {
-    "atr": 377.14,
-    "k": 0.6,
-    "stop": 9183.714,
-    "stop_pct": 2.4,
-    "hit_rate": 0.15,
-    "tested": 60
-   },
-   "stop_detail_short": {
-    "atr": 377.14,
-    "k": 0.6,
-    "stop": 9636.286,
-    "stop_pct": 2.4,
-    "hit_rate": 0.25,
-    "tested": 60
-   },
-   "reason": "聚丙烯今开9410 vs 昨结9302，+1.16%偏强看多（含夜盘：夜盘开盘9410 vs 昨结9302）；打板分49(一般/观望)：涨1.19%/收高88%/放量1.09x/连涨3日；预测次日开盘≈9469.54，区间[9433.15, 9505.93]"
-  },
-  {
    "symbol": "nf_L0",
    "name": "塑料",
    "category": "化工",
@@ -6701,7 +6647,10 @@
    "fallback_tier": "conflict",
    "note_extra": "全部候选与日线方向相反，已降级为观察级：日线均线缠绕。按李永强口径应当观望，此条仅作盯盘提示，不建议直接进场。",
    "rank": 1,
-   "is_today": true
+   "is_today": true,
+   "contract_value": 32880.0,
+   "last_settle": 3222.0,
+   "change_pct": 2.05
   }
  ],
  "hf_pool": [
@@ -6713,7 +6662,7 @@
   }
  ],
  "daily_pick": {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "session": "morning",
   "ruleset": 3,
   "symbol": "MA0",
@@ -6773,73 +6722,11 @@
   "change_pct": 2.05
  },
  "afternoon_pick": {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "session": "afternoon",
   "ruleset": 3,
-  "symbol": "MA0",
-  "name": "甲醇",
-  "category": "化工",
-  "unit": "元/吨",
-  "price": 3288.0,
-  "direct": 1,
-  "dir_label": "做多",
-  "day_range_pct": 1.96,
-  "limit_score": 62,
-  "board": "强势关注",
-  "dual": {
-   "st": "dip_b",
-   "ref": 3275.0
-  },
-  "plan": {
-   "dir": "long",
-   "dir_label": "做多",
-   "entry": 3316.028,
-   "entry_alt": null,
-   "entry_alt_kind": null,
-   "sl": 3203.914,
-   "tp": 3462.6,
-   "sl_pct": 2.56,
-   "rr": 2.0,
-   "basis": "afternoon_last",
-   "k": 0.6,
-   "hit_rate": 0.183,
-   "note": "午后重算·转强确认进多; 止损ATR自适应, 2R落袋; 进场后立刻反向即离场"
-  },
-  "real_open": 3275.0,
-  "day_bias": "mix",
-  "day_ma": [
-   3170.4,
-   3284.8,
-   3033.9
-  ],
-  "est_margin": 3288.0,
-  "hands_in_100k": 30,
-  "volume": 902918,
-  "open_interest": 1146730,
-  "mode": "追强做多",
-  "anchor": 3288.0,
-  "tp": 3462.6,
-  "sl": 3203.914,
-  "pullback": null,
-  "src_conflict": false,
-  "board_score": 0.871,
-  "day_conflict": "日线均线缠绕",
-  "reason": "午后重算 · 方向做多 · 现价3288: 进场≈3316.03, 止损3203.91, 止盈3462.6",
-  "tier": 2,
-  "fallback_tier": "conflict",
-  "note_extra": "全部候选与日线方向相反，已降级为观察级：日线均线缠绕。按李永强口径应当观望，此条仅作盯盘提示，不建议直接进场。",
-  "rank": 1,
-  "is_today": true,
-  "plan_basis": "afternoon_last",
-  "afternoon_meta": {
-   "basis_price": 3288.0,
-   "atr": 140.14,
-   "k": 0.6,
-   "hit_rate": 0.183
-  },
-  "contract_value": 32880.0,
-  "last_settle": 3222.0,
-  "change_pct": 2.05
+  "name": "",
+  "symbol": ""
  },
  "trading_rules": [
   {
