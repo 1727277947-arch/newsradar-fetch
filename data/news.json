@@ -1,5 +1,51 @@
 [
  {
+  "title": "随着全球天然气供应危机加剧，美国液化天然气出口量创历史新高",
+  "url": "",
+  "summary": "本周末，随着多个项目加大生产力度，并向因中东供应冲击而陷入困境的欧洲和亚洲市场增加供应，美国液化天然气（LNG）的输送量飙升至历史新高。周六，输往美国液化天然气设施的管道流量飙升至创纪录的218亿立方英尺。",
+  "pub_time": "2026-11-16T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "909cfbaf67fe72e972788a2e08e91d7b",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气",
+   "供应"
+  ],
+  "en_title": "U.S. LNG Flows Hit Record High as Global Gas Supply Crisis Deepens"
+ },
+ {
+  "title": "中船大连造船单日连交两船",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732996.shtml",
+  "summary": "记者 杨毅)中船大连造船联合中船贸易为CIDO航运公司建造的30.7万吨原油船“雅望”轮16日在大连命名交付，该轮较合同期提前77天交付",
+  "pub_time": "2026-11-16T12:10:01Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "1c3f684848b820aefde0cf3e6643a127",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "新北海天然气供应投入使用，但面临日益强烈的政治抵制",
   "url": "",
   "summary": "在英国批准该项目不到一个月后，天然气开始从位于英国北海的Jackdaw生产平台输送出来，但由于政治反弹，一个规模更大的拟建油气项目Rosebank的未来仍悬而未决。Jackdaw天然气将通过现有的S",
