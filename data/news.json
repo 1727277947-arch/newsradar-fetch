@@ -1,5 +1,149 @@
 [
  {
+  "title": "国家统计局：10月份我国工业机器人产量同比增长26%",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732715.shtml",
+  "summary": "11月16日，国新办就2026年10月份国民经济运行情况举行新闻发布会。会上，国家统计局新闻发言人、总经济师、国民经济综合统计司司长付凌晖表示，今年10月份，我国装备制造业和高技术制造业支撑明显",
+  "pub_time": "2026-11-16T05:46:16Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "b41660c5e7c311244c2630992b5b97a0",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/产业经济",
+  "tags": [
+   "产业经济",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "全球供应过剩的担忧卷土重来，油价应声下跌",
+  "url": "",
+  "summary": "有报道称，尽管霍尔木兹海峡的油轮袭击事件仍在持续，且伊拉克被迫通过叙利亚以卡车运输的方式出口原油，但全球石油市场正重回供过于求的局面。受此影响，本周伊始，油价进一步下跌。截至发稿时，布伦特原油的交易价格为每桶 95.24 美元，",
+  "pub_time": "2026-11-16T05:25:32Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "299bbbd1a1f409cc841c824788afda0b",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "下跌",
+   "供应",
+   "过剩"
+  ],
+  "en_title": "Oil Prices Fall as Fears of a Global Supply Glut Return"
+ },
+ {
+  "title": "李红霞：创新先进耐火材料，助力钢铁绿色高质量发展",
+  "url": "https://news.mysteel.com/a/26111613/50861FC1BACAE741.html",
+  "summary": "",
+  "pub_time": "2026-11-16T05:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "2334b3fb65208c47cda81a3d48d3341f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "干勇：钢铁产业高端化发展不完全等同于“特钢化”",
+  "url": "https://news.mysteel.com/a/26111613/348AA37C7F55BEA5.html",
+  "summary": "",
+  "pub_time": "2026-11-16T05:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "2bfb36993d2a15d5f87cfc48b38c4fb0",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "现货黄金跌超1%，现货白银跌超3%",
+  "url": "https://news.mysteel.com/a/26111613/BF0FF5647C3FE085.html",
+  "summary": "",
+  "pub_time": "2026-11-16T05:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "a9e6989a77f0779d386eabaa1f43c4da",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "瑞银预测金价将在2027年第四季度触及每盎司5000美元",
+  "url": "https://news.mysteel.com/a/26111613/D8D30B85E9E66D3B.html",
+  "summary": "",
+  "pub_time": "2026-11-16T05:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "00ae9ea3699c14ec4d2b839d89ce14d3",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel周报：机械制造业原材料价格监测（11.7-11.13）",
+  "url": "https://news.mysteel.com/a/26111613/B15F62CE8E3D7072.html",
+  "summary": "",
+  "pub_time": "2026-11-16T05:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "60b531a1314f8f37b78edd44682b33b0",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/产业经济",
+  "tags": [
+   "产业经济",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "Mysteel午报：钢价局部下跌，铁矿石期货跌超2%",
   "url": "https://news.mysteel.com/a/26111611/28EFE6E508F6FAD8.html",
   "summary": "",
@@ -552,25 +696,6 @@
   "is_elite": false
  },
  {
-  "title": "BAGE：阿根廷2026/27年度玉米播种完成51.2%，同比领先14.6%",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/16/5915303240.shtml",
-  "summary": "",
-  "pub_time": "2026-11-15T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "f0ea92e3b481e46db078dac08d2e62b6",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年11月16日大连大豆期货行情午报",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/16/3116891391.shtml",
   "summary": "",
@@ -730,6 +855,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "a933883af3c9f8d89e0ece10712a6348",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "BAGE：阿根廷2026/27年度玉米播种完成51.2%，同比领先14.6%",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/16/5915303240.shtml",
+  "summary": "",
+  "pub_time": "2026-11-15T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "704cd15c01a64d225dcc4ba1438995a4",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
