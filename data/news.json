@@ -1,5 +1,24 @@
 [
  {
+  "title": "福建泉州口岸前10个月原油进口超1500万吨",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-16/10733102.shtml",
+  "summary": "中新社泉州11月16日电 (郑江洛 朱炳杰)长达330米、载有27.469万吨原油的利比里亚籍“凯景”轮16日缓缓驶入福建泉州斗尾港区。据肖厝边检站统计，今年1至10月，该站累计查验原油进口船舶67艘次，服务泉州口岸原油进口总量突破1500万吨，持续筑牢东南沿海石化产业原料保供基础",
+  "pub_time": "2026-11-16T13:49:04Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "c8c93124c8101323d98d71acc0a0fdbd",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "随着全球天然气供应危机加剧，美国液化天然气出口量创历史新高",
   "url": "",
   "summary": "本周末，随着多个项目加大生产力度，并向因中东供应冲击而陷入困境的欧洲和亚洲市场增加供应，美国液化天然气（LNG）的输送量飙升至历史新高。周六，输往美国液化天然气设施的管道流量飙升至创纪录的218亿立方英尺。",
@@ -27,25 +46,6 @@
   "en_title": "U.S. LNG Flows Hit Record High as Global Gas Supply Crisis Deepens"
  },
  {
-  "title": "中船大连造船单日连交两船",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732996.shtml",
-  "summary": "记者 杨毅)中船大连造船联合中船贸易为CIDO航运公司建造的30.7万吨原油船“雅望”轮16日在大连命名交付，该轮较合同期提前77天交付",
-  "pub_time": "2026-11-16T12:10:01Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "1c3f684848b820aefde0cf3e6643a127",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
   "title": "新北海天然气供应投入使用，但面临日益强烈的政治抵制",
   "url": "",
   "summary": "在英国批准该项目不到一个月后，天然气开始从位于英国北海的Jackdaw生产平台输送出来，但由于政治反弹，一个规模更大的拟建油气项目Rosebank的未来仍悬而未决。Jackdaw天然气将通过现有的S",
@@ -71,6 +71,33 @@
    "供应"
   ],
   "en_title": "New North Sea Gas Supply Comes Online Amid Growing Political Backlash"
+ },
+ {
+  "title": "加拿大自然资源公司以17.7亿美元收购Advantage，推动艾伯塔省石油产业扩张",
+  "url": "",
+  "summary": "随着石油行业整合的加速，这家加拿大能源巨头将收购Advantage Energy的Montney资产。",
+  "pub_time": "2026-11-16T10:45:00Z",
+  "source": "Mining.com",
+  "_cat": "能源",
+  "dedup_key": "c9dd6ec8381bc670fd1f6f43c302ac0c",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "燃料"
+  ],
+  "en_title": "Canadian Natural’s $1.77 billion Advantage takeover fuels Alberta oil expansion"
  },
  {
   "title": "受加息担忧影响，黄金价格小幅走低",
