@@ -1,5 +1,180 @@
 [
  {
+  "title": "受加息担忧影响，黄金价格小幅走低",
+  "url": "",
+  "summary": "（RTTNews）——周一，由于市场预计美联储将在未来几个月进一步加息，金价大幅下跌。",
+  "pub_time": "2026-11-16T10:09:07Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "99f54ff29e085a00648c4abc8fce7592",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Gold Edges Lower On Rate-hike Concerns"
+ },
+ {
+  "title": "伊朗声称又有两艘油轮在霍尔木兹海峡触雷",
+  "url": "",
+  "summary": "伊朗伊斯兰革命卫队（IRGC）周一表示，两艘油轮在试图经由一条未经伊朗批准的南部航线通过霍尔木兹海峡的咽喉地带时触雷爆炸并起火。最近，伊朗关于此类事件的报道有所增加。",
+  "pub_time": "2026-11-16T10:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "bc116fd0a8daf7f00c614dfb0d4adfe4",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Iran Claims Two More Oil Tankers Hit Mines in Strait of Hormuz"
+ },
+ {
+  "title": "Mysteel黑色金属例会：本周钢市或震荡偏弱",
+  "url": "https://news.mysteel.com/a/26111618/94A9392B54C4A6BB.html",
+  "summary": "",
+  "pub_time": "2026-11-16T10:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "d22e5350e4131df3775893b531e3c4d5",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "供应过剩担忧令油价小幅走低",
+  "url": "",
+  "summary": "（RTTNews）——周一，油价走低，原因是投资者正在权衡中东地区再次爆发敌对行动与该地区石油供应充足的迹象。",
+  "pub_time": "2026-11-16T09:48:33Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "c818215e46a8b12cdf4fe9a49f57e5ac",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "供应"
+  ],
+  "en_title": "Oil Prices Edge Lower On Oversupply Concerns"
+ },
+ {
+  "title": "Mysteel晚餐：中俄美元首即将会晤",
+  "url": "https://news.mysteel.com/a/26111617/90EDEC950382FFED.html",
+  "summary": "",
+  "pub_time": "2026-11-16T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "85bca64a11457e8388102d07b342be52",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/政治军事",
+  "tags": [
+   "政治军事",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel晚餐：中俄美元首即将会晤，3家钢厂发布冬储政策",
+  "url": "https://news.mysteel.com/a/26111617/907DF32F859B2A95.html",
+  "summary": "",
+  "pub_time": "2026-11-16T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "c5d8a1584d8952493fb7ad3be2c9f8f5",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/政治军事",
+  "tags": [
+   "政治军事",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "韩国央行增持黄金ETF 持仓增幅超四成",
+  "url": "https://news.mysteel.com/a/26111617/89874CBCF35F2761.html",
+  "summary": "",
+  "pub_time": "2026-11-16T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "8435c152f6747748d57aaa2a18424399",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/金融政策",
+  "tags": [
+   "金融政策",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel日报：黑色金属期货震荡下跌运行",
+  "url": "https://news.mysteel.com/a/26111617/7A5EAE81E5F6DE3F.html",
+  "summary": "",
+  "pub_time": "2026-11-16T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "35e731dc1bfbf7b43450d8d00de0dc41",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "破多项纪录 我国输送距离最长二氧化碳长输管道投运",
   "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732870.shtml",
   "summary": "记者今天从中国石油获悉，吉林石化—吉林油田二氧化碳长输管道工程建成投运。管道工程横跨吉林省吉林、长春、松原三市，干线全长277.6公里，每年可输送二氧化碳达330万吨。这是目前我国输送距离最长、管径最大、设计压力最高、输送规模最大的二氧化碳长输管道",
@@ -67,7 +242,7 @@
  },
  {
   "title": "工信部批准《人工智能 赋能应用 钢铁企业污染物排放监测系统技术要求》等796项行业标准",
-  "url": "https://news.mysteel.com/a/26111616/1D1C28395485CC7D.html",
+  "url": "https://news.mysteel.com/a/26111616/E0A12E039D24278C.html",
   "summary": "",
   "pub_time": "2026-11-16T08:00:00Z",
   "source": "上海钢联Mysteel",
@@ -85,13 +260,13 @@
   "is_elite": false
  },
  {
-  "title": "10月中国原油生产增速加快",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732805.shtml",
-  "summary": "中新社北京11月16日电 (记者 王梦瑶)中国国家统计局16日公布，10月份，中国规模以上工业(以下简称规上工业)原油生产增速加快，天然气生产由降转增，电力生产有所下降",
-  "pub_time": "2026-11-16T07:55:01Z",
-  "source": "中国新闻网-财经",
+  "title": "中国黄金集团等在河南成立矿业股份公司",
+  "url": "https://news.mysteel.com/a/26111616/43BABD3C74349CB1.html",
+  "summary": "",
+  "pub_time": "2026-11-16T08:00:00Z",
+  "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "bc2969d320b8b5fcebae343481a87755",
+  "dedup_key": "103733ed47c4f5c323497a1ac03b8ae1",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -99,7 +274,7 @@
    "大宗商品",
    "中文",
    "国内",
-   "中国新闻网-财经"
+   "上海钢联Mysteel"
   ],
   "is_elite": false
  },
@@ -131,46 +306,8 @@
   "en_title": "China Turns to Iraqi Oil as U.S. Blockade Chokes Iranian Supply"
  },
  {
-  "title": "黑色持仓日报：国泰君安增持9.8千手铁矿石空单",
-  "url": "https://news.mysteel.com/a/26111615/73E35B7658DCC1CE.html",
-  "summary": "",
-  "pub_time": "2026-11-16T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "7a3551b0acd18e00b7bbaee36b908ff0",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "有色持仓日报：沪锡跌1.91%，东证期货减持超1.3千手多单",
-  "url": "https://news.mysteel.com/a/26111615/147245EBB4ED4DF6.html",
-  "summary": "",
-  "pub_time": "2026-11-16T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "5d41d290e3e489827b314ce9f9d2cff5",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "黑色持仓日报：铁矿石跌3.28%，国泰君安增持9.8千手空单",
-  "url": "https://news.mysteel.com/a/26111615/E659E490827F6F24.html",
+  "url": "https://news.mysteel.com/a/26111615/73E35B7658DCC1CE.html",
   "summary": "",
   "pub_time": "2026-11-16T07:00:00Z",
   "source": "上海钢联Mysteel",
@@ -200,6 +337,25 @@
   "topic": "国内/金融政策",
   "tags": [
    "金融政策",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "有色持仓日报：沪锡跌1.91%，东证期货减持超1.3千手多单",
+  "url": "https://news.mysteel.com/a/26111615/349F0D1663B0EDEC.html",
+  "summary": "",
+  "pub_time": "2026-11-16T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "5d41d290e3e489827b314ce9f9d2cff5",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -884,25 +1040,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年11月16日大连玉米期货收盘高开收跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/16/0753490246.shtml",
-  "summary": "",
-  "pub_time": "2026-11-15T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "2733432ffd49e66714ed40070bec3536",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
   "title": "11月16日进口大豆到国内港口CF及升贴水报价",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/16/5738349156.shtml",
   "summary": "",
@@ -1013,6 +1150,101 @@
    "中文",
    "国内",
    "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "11月16日进口油菜籽到国内港口CF报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/16/0321269118.shtml",
+  "summary": "",
+  "pub_time": "2026-11-15T16:00:00Z",
+  "source": "粮油菜籽",
+  "_cn": true,
+  "dedup_key": "63c53749c54bcf1133849a2291d27436",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "11月16马来西亚棕榈油11月船期FOB报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/16/0415606641.shtml",
+  "summary": "",
+  "pub_time": "2026-11-15T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "106255b24c80dc3683ffa710e36a3aa1",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "11月16日进口阿根廷豆油及加拿大菜籽油CF报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/16/0246377986.shtml",
+  "summary": "",
+  "pub_time": "2026-11-15T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "b38fe6003cf686d877bd7b580457dc85",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "11月16日24度棕榈油国内各港口交货价格上涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/16/0138482487.shtml",
+  "summary": "",
+  "pub_time": "2026-11-15T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "b36bf262e511bfeaa58bb1a8da4b08c7",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "11月16日进口豆油港口交货价格下跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/16/0050171112.shtml",
+  "summary": "",
+  "pub_time": "2026-11-15T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "492a71dc954ed160f5c01097effd8e14",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "粮油首页"
   ],
   "is_elite": false
  },
@@ -1176,6 +1408,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "a933883af3c9f8d89e0ece10712a6348",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月16日大连玉米期货收盘高开收跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/16/0753490246.shtml",
+  "summary": "",
+  "pub_time": "2026-11-15T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "e1b5108a5f51023a2245980ce1042d4a",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1542,9 +1793,9 @@
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/15/0648970669.shtml",
   "summary": "",
   "pub_time": "2026-11-14T16:00:00Z",
-  "source": "粮油大豆",
+  "source": "粮油首页",
   "_cn": true,
-  "dedup_key": "fc99020debda625a23b55151add018d7",
+  "dedup_key": "de5e92c8ac58629852b9c3be014b1dd0",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1552,7 +1803,7 @@
    "大宗商品",
    "中文",
    "国内",
-   "粮油大豆"
+   "粮油首页"
   ],
   "is_elite": false
  },
@@ -1971,25 +2222,6 @@
    "中文",
    "国内",
    "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel宏观周报：中美经贸沟通持续推进，黄仁勋辞任英伟达CEO",
-  "url": "https://news.mysteel.com/a/26111423/01B06B7B8F75B769.html",
-  "summary": "",
-  "pub_time": "2026-11-14T15:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "8c5537b6b4f481165ebb2abd1380ae10",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
   ],
   "is_elite": false
  }
