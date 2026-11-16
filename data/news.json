@@ -1,5 +1,32 @@
 [
  {
+  "title": "新北海天然气供应投入使用，但面临日益强烈的政治抵制",
+  "url": "",
+  "summary": "在英国批准该项目不到一个月后，天然气开始从位于英国北海的Jackdaw生产平台输送出来，但由于政治反弹，一个规模更大的拟建油气项目Rosebank的未来仍悬而未决。Jackdaw天然气将通过现有的S",
+  "pub_time": "2026-11-16T11:15:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "b501de325b46795a12e8e19dbd404c2d",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气",
+   "供应"
+  ],
+  "en_title": "New North Sea Gas Supply Comes Online Amid Growing Political Backlash"
+ },
+ {
   "title": "受加息担忧影响，黄金价格小幅走低",
   "url": "",
   "summary": "（RTTNews）——周一，由于市场预计美联储将在未来几个月进一步加息，金价大幅下跌。",
@@ -52,13 +79,13 @@
   "en_title": "Iran Claims Two More Oil Tankers Hit Mines in Strait of Hormuz"
  },
  {
-  "title": "Mysteel黑色金属例会：本周钢市或震荡偏弱",
+  "title": "Mysteel黑色金属例会：本周钢价或震荡偏弱",
   "url": "https://news.mysteel.com/a/26111618/94A9392B54C4A6BB.html",
   "summary": "",
   "pub_time": "2026-11-16T10:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "d22e5350e4131df3775893b531e3c4d5",
+  "dedup_key": "1009e3941a41dfcb579d8c5e0569b697",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -171,44 +198,6 @@
    "中文",
    "国内",
    "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "破多项纪录 我国输送距离最长二氧化碳长输管道投运",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732870.shtml",
-  "summary": "记者今天从中国石油获悉，吉林石化—吉林油田二氧化碳长输管道工程建成投运。管道工程横跨吉林省吉林、长春、松原三市，干线全长277.6公里，每年可输送二氧化碳达330万吨。这是目前我国输送距离最长、管径最大、设计压力最高、输送规模最大的二氧化碳长输管道",
-  "pub_time": "2026-11-16T08:43:08Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "c8977c969c71d7127378c2ec878ed867",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
-  "title": "中国最长二氧化碳输送管道在吉林投运",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732865.shtml",
-  "summary": "记者 郭佳)记者16日从中国石油吉林油田公司获悉，吉林石化—吉林油田二氧化碳输送管道工程(下称“‘双吉’输碳管道”)建成投运。这是目前中国输送距离最长、管径最大、设计压力最高、输送规模最大的二氧化碳长输管道",
-  "pub_time": "2026-11-16T08:40:12Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "aef4b63f0385f04bc33613cf2b744599",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
   ],
   "is_elite": false
  },
