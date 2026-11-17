@@ -1,5 +1,175 @@
 [
  {
+  "title": "随着价格对冲到期，航空公司面临燃料危机",
+  "url": "",
+  "summary": "媒体上再次出现有关石油供应过剩的报道，美国柴油价格刚刚跌至每加仑6美元以下。但这些回归常态的迹象尚未波及航空业，该行业的航空燃油价格依然高得惊人，而套期保值合约也即将到期。看来并非所有航空公司都能熬过",
+  "pub_time": "2026-11-17T00:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "9464f8d4ea73e5f5806da22c45d6fb65",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "燃料",
+   "价"
+  ],
+  "en_title": "Airlines Face Fuel Crisis as Price Hedges Expire"
+ },
+ {
+  "title": "2026 年 11 月 17 日每日市场行情",
+  "url": "",
+  "summary": "硬红冬麦价格过高。厄尔尼诺-南方涛动（ENSO）消息对软质农产品构成威胁。天气好转提振美国冬小麦状况报告。澳大利亚经历喜忧参半的收成。",
+  "pub_time": "2026-11-16T23:45:04Z",
+  "source": "GrainCentral",
+  "_cat": "农产品",
+  "dedup_key": "a9bc287b83bf13fb73cf3f767ae19d6a",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品"
+  ],
+  "en_title": "Daily Market Wire 17 November 2026"
+ },
+ {
+  "title": "由于伊朗战争导致设备受阻，乌干达将首次石油生产推迟至2027年中期",
+  "url": "",
+  "summary": "乌干达实现首次商业石油生产和原油出口的梦想再次被推迟，自2006年该国首次发现商业石油储量以来，等待时间已延长至二十多年。乌干达国家石油公司（UNOC）和",
+  "pub_time": "2026-11-16T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "865cb2389a030e4e817d6623a94d7863",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Uganda Pushes First Oil to Mid-2027 as Iran War Holds Up Equipment"
+ },
+ {
+  "title": "Mysteel早读：山西煤矿停产数量减少",
+  "url": "https://news.mysteel.com/a/26111707/7F9A99B697AB8AE6.html",
+  "summary": "",
+  "pub_time": "2026-11-16T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "4f0d84bc21c6c55ef8e90a549994e17f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel早读：3家钢厂发布冬储政策，山西煤矿停产数量减少",
+  "url": "https://news.mysteel.com/a/26111707/160F9A9EDE8A682A.html",
+  "summary": "",
+  "pub_time": "2026-11-16T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "d12d84b29b8351fdea482a7000bcfd57",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "澳大利亚气象局（BOM）2026年11月17日每周降雨量更新 + 展望",
+  "url": "",
+  "summary": "预计下周将有大范围降雨，新南威尔士州的收割区将迎来最强降雨。",
+  "pub_time": "2026-11-16T22:40:00Z",
+  "source": "GrainCentral",
+  "_cat": "基本金属",
+  "dedup_key": "e1fe710ddcf4440a8bd0e46862f0f9a1",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "下跌",
+   "周",
+   "展望"
+  ],
+  "en_title": "BOM weekly rainfall update 17 November 2026 + outlook"
+ },
+ {
+  "title": "Perenti与AngloGold Ashanti就盖塔金矿签订6700万美元合同",
+  "url": "",
+  "summary": "该交易的期限为60个月，至2031年10月31日止。",
+  "pub_time": "2026-11-16T22:38:02Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "975c212c945af0d5027ad0a2018c80be",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Perenti inks $67 million contract with AngloGold Ashanti at Geita gold mine"
+ },
+ {
   "title": "水下数据中心能否摆脱陆上数据中心的负面影响？",
   "url": "",
   "summary": "随着人们对陆上过度使用土地、水和能源资源的抵制情绪日益高涨，人工智能的蓬勃发展正促使开发商探索数据中心选址的新领域。因此，超大规模企业和初创公司已开始尝试将数据中心置于海底或漂浮在船舶上，以……",
@@ -493,6 +663,139 @@
   "en_title": "Houthi Advance Puts Saudi Crude Exports at Risk"
  },
  {
+  "title": "CBOT豆粕上涨，因油粕套利解锁",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/17/5904964409.shtml",
+  "summary": "",
+  "pub_time": "2026-11-16T16:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "546f49bca0a33bd9b48c9d523d59bc04",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT玉米略微上涨，因出口旺盛",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/17/0046769466.shtml",
+  "summary": "",
+  "pub_time": "2026-11-16T16:00:00Z",
+  "source": "粮油玉米",
+  "_cn": true,
+  "dedup_key": "385ea31ad73480dc6a8b9e9655952bb3",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油玉米"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT大豆下跌，因多头平仓，能源走低",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/17/5819855398.shtml",
+  "summary": "",
+  "pub_time": "2026-11-16T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "c7130c8ed88412738afa91a2958816ad",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "ICE油菜籽追随外部市场下跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/17/0215458528.shtml",
+  "summary": "",
+  "pub_time": "2026-11-16T16:00:00Z",
+  "source": "粮油菜籽",
+  "_cn": true,
+  "dedup_key": "4e85441af3a6842a0038a77f90ccbf6e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "马来西亚棕榈油日评：库存高企拖累棕榈油下跌，产量预期下降限制跌幅",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/17/0251740825.shtml",
+  "summary": "",
+  "pub_time": "2026-11-16T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "3bf8cadb65fc4d13d23531066fe77f12",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT豆油下跌，因库存高于预期，原油收低",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/17/0002752900.shtml",
+  "summary": "",
+  "pub_time": "2026-11-16T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "9a0b45696bb99be0b1e24abfe4b84cd4",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "ICE期棉下跌2%，因油价下跌，美元上涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/17/0339304677.shtml",
+  "summary": "",
+  "pub_time": "2026-11-16T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "92f1e4aa4f82a9b2206f5ae93ed4a9a7",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "中国稀土巨头的利润翻了一番多",
   "url": "",
   "summary": "2026年前九个月，中国两家领先的稀土生产商的利润增长了一倍多，原因是供应管制更加严格，从而支撑了更高的……这篇文章《中国稀土巨头的利润增长了一倍多》最初发表在《北方矿工报》上。",
@@ -641,33 +944,6 @@
   "is_elite": false
  },
  {
-  "title": "随着全球天然气供应危机加剧，美国液化天然气出口量创历史新高",
-  "url": "",
-  "summary": "本周末，随着多个项目加大生产力度，并向因中东供应冲击而陷入困境的欧洲和亚洲市场增加供应，美国液化天然气（LNG）的输送量飙升至历史新高。周六，输往美国液化天然气设施的管道流量飙升至创纪录的218亿立方英尺。",
-  "pub_time": "2026-11-16T12:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "909cfbaf67fe72e972788a2e08e91d7b",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气",
-   "供应"
-  ],
-  "en_title": "U.S. LNG Flows Hit Record High as Global Gas Supply Crisis Deepens"
- },
- {
   "title": "加拿大自然资源公司以17.7亿美元收购Advantage，推动艾伯塔省石油产业扩张",
   "url": "",
   "summary": "随着石油行业整合的加速，这家加拿大能源巨头将收购Advantage Energy的Montney资产。",
@@ -768,27 +1044,8 @@
   "en_title": "Oil Prices Edge Lower On Oversupply Concerns"
  },
  {
-  "title": "Mysteel晚餐：中俄美元首即将会晤",
-  "url": "https://news.mysteel.com/a/26111617/90EDEC950382FFED.html",
-  "summary": "",
-  "pub_time": "2026-11-16T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "85bca64a11457e8388102d07b342be52",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/政治军事",
-  "tags": [
-   "政治军事",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel晚餐：中俄美元首即将会晤，3家钢厂发布冬储政策",
-  "url": "https://news.mysteel.com/a/26111617/907DF32F859B2A95.html",
+  "url": "https://news.mysteel.com/a/26111617/DAA69455A411D9A0.html",
   "summary": "",
   "pub_time": "2026-11-16T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1420,25 +1677,6 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel早读：APEC工商领导人峰会将举行，沁源县新增复产2座煤矿",
-  "url": "https://news.mysteel.com/a/26111607/EAB0F64E98CB64BE.html",
-  "summary": "",
-  "pub_time": "2026-11-15T23:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "26930f5c63af4c2cee2534e4f06be826",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel钢铁市场周度观察：入冬渐寒，但成材局部暖意托底黑色",
   "url": "https://news.mysteel.com/a/26111607/563A2F84912AFD91.html",
   "summary": "",
@@ -1895,25 +2133,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年11月16日大连豆油期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/16/0000460011.shtml",
-  "summary": "",
-  "pub_time": "2026-11-15T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "a933883af3c9f8d89e0ece10712a6348",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年11月16日大连玉米期货收盘高开收跌",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/16/0753490246.shtml",
   "summary": "",
@@ -2111,6 +2330,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "40cac57b0d9b64b23d880ee4608c7dfb",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月16日大连豆油期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/16/0000460011.shtml",
+  "summary": "",
+  "pub_time": "2026-11-15T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "a933883af3c9f8d89e0ece10712a6348",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
