@@ -57,6 +57,44 @@
   "is_elite": false
  },
  {
+  "title": "三星电子与苹果即将签署DRAM半导体长期供货协议",
+  "url": "https://news.mysteel.com/a/26111717/81973EE051ACFCA9.html",
+  "summary": "",
+  "pub_time": "2026-11-17T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "54302fe69fd05908848dbc6a19072558",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel日报：黑色金属期货震荡下跌运行",
+  "url": "https://news.mysteel.com/a/26111717/A6286D5E4766667E.html",
+  "summary": "",
+  "pub_time": "2026-11-17T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "35e731dc1bfbf7b43450d8d00de0dc41",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "11月17日“农产品批发价格200指数”比昨天上升0.13个点",
   "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733492.shtml",
   "summary": "据农业农村部网站消息，据农业农村部监测，11月17日“农产品批发价格200指数”为111.31，比昨天上升0.13个点，“菜篮子”产品批发价格指数为110.83，比昨天上升0.15个点。截至今日14:00时，全国农产品批发市场猪肉平均价格为14.69元/公斤，比昨天下降1.1%；牛肉73.89元/公斤，与昨天持平；羊肉67.53元/公斤，比昨天下降0.1%；鸡蛋9.47元/公斤，与昨天持平；白条鸡16.98元/公斤，比昨天下降1.3%。重点监测的28种蔬菜平均价格为4.08元/公斤，比昨天上升2.0%；重点监测的6种水果平均价格为6.62元/公斤，比昨天上升1.1%。鲫鱼",
@@ -2373,25 +2411,6 @@
   "topic": "国内/金融政策",
   "tags": [
    "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel日报：黑色金属期货震荡下跌运行",
-  "url": "https://news.mysteel.com/a/26111617/7A5EAE81E5F6DE3F.html",
-  "summary": "",
-  "pub_time": "2026-11-16T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "35e731dc1bfbf7b43450d8d00de0dc41",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
