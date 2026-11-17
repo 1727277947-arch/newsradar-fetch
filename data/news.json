@@ -1,5 +1,84 @@
 [
  {
+  "title": "中国试飞400公里电动飞机，创下航空史上的重大里程碑",
+  "url": "",
+  "summary": "据新华社报道，中国国有飞机制造商周六首次驾驶其全电动通勤客机进行了载人飞行，两名飞行员和一名试飞工程师乘坐这架19座的电池动力CE-25A客机飞越山东省滨州市。中国已完成首次试飞",
+  "pub_time": "2026-11-17T21:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "dce48d3808f75853df912904b47dd06c",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "China Tests 250-Mile Electric Plane in Major Aviation Milestone"
+ },
+ {
+  "title": "原油价格在早盘反弹后小幅走高",
+  "url": "",
+  "summary": "（RTTNews）- 在本周初出现暴跌之后，原油价格在周二的交易中有所回升。",
+  "pub_time": "2026-11-17T19:36:38Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "a377df6d110034a7d7763a6eb46fe26f",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价"
+  ],
+  "en_title": "Crude Oil Prices Moderately Higher After Early Rebound"
+ },
+ {
+  "title": "金价小幅回升",
+  "url": "",
+  "summary": "（RTTNews）——继前一交易日跌至一年多以来的最低水平后，黄金价格在周二的交易中略有回升。",
+  "pub_time": "2026-11-17T18:50:28Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "9404c8f039c3687fcb49ac9c1df44508",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "价"
+  ],
+  "en_title": "Gold Prices Showing Modest Move Back To The Upside"
+ },
+ {
   "title": "随着能源联系的深化，海湾地区与中亚的贸易蓬勃发展",
   "url": "",
   "summary": "2020年至2025年间，中亚与海湾国家之间的贸易额几乎翻了两番，但仍仅占该地区总贸易额的一小部分。欧亚集团（Eurasian Group）发布的一份报告显示，在类似的时间段内，海湾地区在中亚的投资增长了两倍。",
@@ -25,6 +104,32 @@
    "大涨"
   ],
   "en_title": "Gulf Trade With Central Asia Surges as Energy Ties Deepen"
+ },
+ {
+  "title": "卫星应用跟踪阿根廷锂盐平原的变化",
+  "url": "",
+  "summary": "此次监测是在卡塔马卡省萨拉尔德尔翁布雷穆埃尔托盐湖（Salar del Hombre Muerto）锂矿开发和用水安全持续受到关注的背景下进行的。",
+  "pub_time": "2026-11-17T17:31:35Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "b40bdd4f2592b911f950492760a8e8f7",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡"
+  ],
+  "en_title": "Satellite application tracks changes at Argentina lithium salt flat"
  },
  {
   "title": "俄罗斯原油出口量创四个月新高",
@@ -2369,31 +2474,6 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "CleanTech的关键智利锂合同即将接受最终审核",
-  "url": "",
-  "summary": "该国的监管机构要求对一项关键的运营法令进行修改，这给拉古纳·维德项目的进度表带来了不确定性。",
-  "pub_time": "2026-11-16T15:03:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "b6a1c419f0b900db8e085962e02854dc",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "CleanTech’s key Chile lithium contract faces final review"
  },
  {
   "title": "受加息担忧影响，黄金价格小幅走低",
