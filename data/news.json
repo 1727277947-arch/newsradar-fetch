@@ -638,25 +638,6 @@
   "en_title": "Daily Market Wire 18 November 2026"
  },
  {
-  "title": "方大九钢1-9月吨钢材利润行业排名第一",
-  "url": "https://news.mysteel.com/a/26111810/1F7005522DE19BE4.html",
-  "summary": "",
-  "pub_time": "2026-11-18T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "a9891905072263e34701989c906c74c8",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "美银证券：记忆体涨价行情出现分歧，NAND价格率先松动、DRAM涨势有望延续",
   "url": "https://news.mysteel.com/a/26111810/1B8E42AB96D5925A.html",
   "summary": "",
@@ -1348,33 +1329,6 @@
    "锡"
   ],
   "en_title": "Satellite application tracks changes at Argentina lithium salt flat"
- },
- {
-  "title": "俄罗斯原油出口量创四个月新高",
-  "url": "",
-  "summary": "上周，俄罗斯将超过3000万桶原油装载到油轮上，因为乌克兰的无人机袭击迫使更多原油从国内炼油厂流向出口市场。在截至11月15日的一周内，39艘装载俄罗斯原油的油轮运载了3027万桶原油，高于前一周的2360万桶。",
-  "pub_time": "2026-11-17T17:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "bfb70bf0f11913b646f31a01dc462232",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "出口"
-  ],
-  "en_title": "Russian Crude Exports Hit Four-Month High"
  },
  {
   "title": "分析师最爱：Gold Fields跻身金属股首选之列",
