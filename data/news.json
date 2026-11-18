@@ -1,5 +1,83 @@
 [
  {
+  "title": "ERO 股票现已超卖",
+  "url": "",
+  "summary": "在周三的交易中，Ero Copper Corp（代码：ERO）的股价进入超卖区间，成交价低至每股 23.41 美元。我们使用相对强弱指标（RSI）来定义超卖区间，RSI是一种用于衡量动量的技术分析指标。",
+  "pub_time": "2026-11-18T21:14:47Z",
+  "source": "Nasdaq商品",
+  "_cat": "基本金属",
+  "dedup_key": "7b405b468772987a76b2350445b7ff47",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Shares of ERO Now Oversold"
+ },
+ {
+  "title": "Cameco 股票严重超卖",
+  "url": "",
+  "summary": "在周三的交易中，Cameco Corp.（代码：CCJ）的股价进入超卖区间，成交价低至每股62.41美元。我们使用相对强弱指数（RSI）来定义超卖区间，RSI 是一种技术分析指标，用于衡量",
+  "pub_time": "2026-11-18T21:14:14Z",
+  "source": "Nasdaq商品",
+  "_cat": "基本金属",
+  "dedup_key": "1bd3082621e73b389c2e3c6177bd436c",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡",
+   "库存"
+  ],
+  "en_title": "Cameco Stock Getting Very Oversold"
+ },
+ {
+  "title": "力拓股票进入超卖区间",
+  "url": "",
+  "summary": "在周三的交易中，力拓集团（股票代码：RIO）的股价进入超卖区间，成交价低至每股75.53美元。我们使用相对强弱指数（RSI）来定义超卖区间，RSI是一种技术分析指标，用于衡量",
+  "pub_time": "2026-11-18T21:13:39Z",
+  "source": "Nasdaq商品",
+  "_cat": "基本金属",
+  "dedup_key": "6aa3850bca8376aa368cc165767f4df1",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡"
+  ],
+  "en_title": "Rio Tinto Shares Enter Oversold Territory"
+ },
+ {
   "title": "AngloGold概述了25亿美元的Quebradona铜矿项目计划",
   "url": "",
   "summary": "如果AngloGold Ashanti（纽交所股票代码：AU；约翰内斯堡证券交易所股票代码：ANG）能够获得……，该公司计划斥资25亿美元（36亿加元）在哥伦比亚建设其Quebradona铜矿项目。这篇文章《AngloGold概述25亿美元的Quebradona铜矿计划》最初发表在《北方矿工报》上。",
@@ -1071,32 +1149,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "随着石油进口成本飙升，欧盟转向可再生能源快速发展",
-  "url": "",
-  "summary": "据路透社援引欧盟理事会的消息报道，欧洲议会已达成一项临时协议，加速新能源项目许可证的发放，重点关注风能、太阳能、电网升级和存储。根据与欧洲议会签署的协议条款，欧盟成员国",
-  "pub_time": "2026-11-18T08:45:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "550976ba9420b2bffc6ad8635dd2888d",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "EU Moves to Fast-Track Renewables as Oil Import Costs Soar"
  },
  {
   "title": "Mysteel日报：黑色金属期货震荡盘整运行",
@@ -3261,83 +3313,5 @@
    "展望"
   ],
   "en_title": "BOM weekly rainfall update 17 November 2026 + outlook"
- },
- {
-  "title": "Sol Strategies 股票严重超卖",
-  "url": "",
-  "summary": "在周一的交易中，Sol Strategies Inc（股票代码：STKE）的股价进入超卖区间，成交价低至每股 0.9584 美元。我们使用相对强弱指数（RSI）来定义超卖区间，RSI 是一种用于衡量动量的技术分析指标。",
-  "pub_time": "2026-11-16T21:04:14Z",
-  "source": "Nasdaq商品",
-  "_cat": "基本金属",
-  "dedup_key": "8ebbd325494d2236e7b54e586ea46434",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡",
-   "库存"
-  ],
-  "en_title": "Sol Strategies Stock Getting Very Oversold"
- },
- {
-  "title": "CTGO 股票现已超卖",
-  "url": "",
-  "summary": "在周一的交易中，Contango Silver & Gold Inc（代码：CTGO）的股价进入超卖区间，成交价低至每股10.525美元。我们使用相对强弱指数（RSI）来定义超卖区间，RSI是一种用于……的技术分析指标。",
-  "pub_time": "2026-11-16T21:04:10Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "f21a8b229279ebf2a76b3555d264de0a",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "Shares of CTGO Now Oversold"
- },
- {
-  "title": "密西西比河和俄亥俄河将美国小麦种植户与全球市场相连",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-11-16T20:59:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "b2f22c31b6edfac72de5cfa2e72e04a2",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "小麦"
-  ],
-  "en_title": "Mississippi and Ohio Rivers Connect U.S. Wheat Farmers to Global Markets"
  }
 ]
