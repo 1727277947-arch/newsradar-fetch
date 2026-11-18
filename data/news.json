@@ -1,5 +1,56 @@
 [
  {
+  "title": "伊朗瞄准超级油轮，霍尔木兹海峡的小型船舶贸易蓬勃发展",
+  "url": "",
+  "summary": "10月份，小型油轮运出了战争爆发以来霍尔木兹海峡最多的原油量，因为伊朗将目标对准了超级油轮，而涉及海上水雷和不明抛射物的事件也达到了战时最高水平。这些小型油轮的载运量不到超级油轮的一半，",
+  "pub_time": "2026-11-18T11:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "797c91e65ec9ab4e89659c400a7a6599",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Small Vessel Trade Thrives in Hormuz as Iran Targets Supertankers"
+ },
+ {
+  "title": "受加息担忧影响，黄金延续下行走势",
+  "url": "",
+  "summary": "（RTTNews）——周三，金价面临持续的抛售压力，原因是美元走强和国债收益率上升削弱了无息黄金的吸引力。",
+  "pub_time": "2026-11-18T10:08:10Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "425b81bca05b6490a9905a639f4fbc54",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Gold Extends Downward Trend On Rate Hike Worries"
+ },
+ {
   "title": "随着海上安全风险上升，阿布扎比国家石油公司船只在霍尔木兹遭到袭击",
   "url": "",
   "summary": "阿布扎比国家石油公司ADNOC旗下子公司ADNOC物流与服务公司周三证实，其一艘船只于11月17日晚在经过霍尔木兹海峡时遭到袭击，近几周该地区油轮遇袭事件愈演愈烈。袭击事件发生后",
@@ -185,25 +236,6 @@
    "中文",
    "国内",
    "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "USANA葆婴爱心志愿者赴贵州石阡探访爱加餐项目学校",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734130.shtml",
-  "summary": "近日，优莎纳公益基金“爱加餐”项目爱心志愿者走进贵州省铜仁市石阡县第六小学，开展“爱加餐”项目探访与有关捐赠活动，持续为乡村儿童送去营养关爱与成长陪伴",
-  "pub_time": "2026-11-18T08:50:10Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "e72135aa988e6f8de4d2746b83ed615c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
   ],
   "is_elite": false
  },
@@ -1343,32 +1375,6 @@
    "出口"
   ],
   "en_title": "Russian Crude Exports Hit Four-Month High"
- },
- {
-  "title": "民主党人盯上特朗普的1000亿美元委内瑞拉石油交易",
-  "url": "",
-  "summary": "国会民主党人正在筹备多项调查，针对唐纳德·特朗普总统的1000亿美元委内瑞拉石油协议，并计划传唤政府官员，就一项将17个委内瑞拉油田的开采权授予一家名不见经传的私营公司的协议进行质询。8月份的协议赋予Aleja",
-  "pub_time": "2026-11-17T17:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "e7938f2eec761262f7a6078bee93559f",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油"
-  ],
-  "en_title": "Democrats Target Trump’s $100 Billion Venezuela Oil Deal"
  },
  {
   "title": "分析师最爱：Gold Fields跻身金属股首选之列",
@@ -3725,31 +3731,5 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "受加息担忧影响，黄金价格小幅走低",
-  "url": "",
-  "summary": "（RTTNews）——周一，由于市场预计美联储将在未来几个月进一步加息，金价大幅下跌。",
-  "pub_time": "2026-11-16T10:09:07Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "99f54ff29e085a00648c4abc8fce7592",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Gold Edges Lower On Rate-hike Concerns"
  }
 ]
