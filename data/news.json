@@ -1,5 +1,95 @@
 [
  {
+  "title": "GrainCorp 收入跃升至 3.1 吨，向“坦克”50 周年致敬",
+  "url": "",
+  "summary": "GrainCorp 本周的收成量为 1.14 公吨，自 10 月 1 日以来，其内陆地区的收成量已增加至 3.12 公吨，这得益于散货装卸商约翰·“坦克”·凯特 (John 'Tank' Kyte) 50 年的服务。",
+  "pub_time": "2026-11-19T02:32:44Z",
+  "source": "GrainCentral",
+  "_cat": "农产品",
+  "dedup_key": "fd2618a27893586aac3cff559ace9324",
+  "score": 84,
+  "priority": "P1",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "谷物",
+   "跳涨"
+  ],
+  "en_title": "GrainCorp receivals jump to 3.1Mt, nod to 50 years for ‘Tank’"
+ },
+ {
+  "title": "每日市场快讯 2026 年 11 月 19 日",
+  "url": "",
+  "summary": "美国小麦引领谷物市场走低。原油钻研下行。在收获天气不确定的情况下，澳大利亚现金小麦基差保持不变，蛋白质差异扩大。",
+  "pub_time": "2026-11-19T02:09:41Z",
+  "source": "GrainCentral",
+  "_cat": "能源",
+  "dedup_key": "6f09ec76ab5ce0159ebe6b21f0601a94",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Daily Market Wire 19 November 2026"
+ },
+ {
+  "title": "中冶华天主编行业标准《钢铁行业产城融合水资源高效循环利用指南》正式发布",
+  "url": "https://news.mysteel.com/a/26111910/70CD0D9A513CCCD1.html",
+  "summary": "",
+  "pub_time": "2026-11-19T02:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "d656a127f14b4c24add43802857ce482",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "【中国证券报】上海钢联王海莲：短期生猪价格维持底部震荡",
+  "url": "https://news.mysteel.com/a/26111910/4421CA97EFA08FC8.html",
+  "summary": "",
+  "pub_time": "2026-11-19T02:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "9b17757d457befdaa6a8c819837c3a2f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/金融政策",
+  "tags": [
+   "金融政策",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "尽管有战争，二叠纪盆地的增长仍趋于温和",
   "url": "",
   "summary": "尽管战争溢价将油价推高至每桶 100 多美元，但美国产量最高的盆地的原油产量仍保持在适度水平。然而，对于一些人来说，二叠纪盆地产量增长这一事实本身就令人惊讶。二叠纪盆地一直是推动美国原油产量的引擎。",
@@ -25,13 +115,32 @@
   "en_title": "Permian Growth Turns Moderate Despite War"
  },
  {
-  "title": "黑色期货早报：各品种涨跌不一，多机构料螺纹钢震荡运行",
-  "url": "https://news.mysteel.com/a/26111909/2E46F91513AE12B2.html",
+  "title": "唐山东海钢铁炼铁减量置换转型升级项目产能置换方案核实情况说明",
+  "url": "https://news.mysteel.com/a/26111909/D20203C8B3051385.html",
   "summary": "",
   "pub_time": "2026-11-19T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "18a107d81240c1106a79b0345c7fa4b6",
+  "dedup_key": "36d9b46151ed2695a2dad79fe71b5832",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "首钢股份公司迁安钢铁近“零”碳排放冶炼高品质钢项目产能置换方案核实情况说明",
+  "url": "https://news.mysteel.com/a/26111909/C7066654AEB56F6C.html",
+  "summary": "",
+  "pub_time": "2026-11-19T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "0cae3858943b2f61d3dbe927c96a4cdf",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -108,6 +217,25 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "8d52eca5d599d12d3d4fd8487f1c03c2",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "广发期货：焦炭短期偏弱运行",
+  "url": "https://news.mysteel.com/a/26111909/A5F95CED669FA3F1.html",
+  "summary": "",
+  "pub_time": "2026-11-19T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "3a4c84f98e0c77c554731e23fc782b5f",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -215,6 +343,25 @@
   "is_elite": false
  },
  {
+  "title": "黑色期货早报：各品种涨跌不一，多机构料螺纹钢震荡运行",
+  "url": "https://news.mysteel.com/a/26111909/319FD958F4E9B786.html",
+  "summary": "",
+  "pub_time": "2026-11-19T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "18a107d81240c1106a79b0345c7fa4b6",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "西澳州正在仔细研究三种油菜品种的不稳定表现",
   "url": "",
   "summary": "WAFarmers正在对种植者进行调查，以评估三种未达到预期效果的油菜品种的明显减产程度。",
@@ -261,7 +408,7 @@
  },
  {
   "title": "上期所深化热轧卷板期货国际应用，推动“上海价格”服务全球钢铁产业",
-  "url": "https://news.mysteel.com/a/26111908/796A442C93C0BCBA.html",
+  "url": "https://news.mysteel.com/a/26111908/CF24F67D7749F540.html",
   "summary": "",
   "pub_time": "2026-11-19T00:00:00Z",
   "source": "上海钢联Mysteel",
@@ -280,7 +427,7 @@
  },
  {
   "title": "国际金价跌破3800美元",
-  "url": "https://news.mysteel.com/a/26111908/D78864E005C30DB7.html",
+  "url": "https://news.mysteel.com/a/26111908/632857B5E0FF1985.html",
   "summary": "",
   "pub_time": "2026-11-19T00:00:00Z",
   "source": "上海钢联Mysteel",
@@ -343,7 +490,7 @@
  },
  {
   "title": "Mysteel早读：习近平向全球工商界阐释中国机遇新内涵",
-  "url": "https://news.mysteel.com/a/26111907/C7AE31EF27DD29FE.html",
+  "url": "https://news.mysteel.com/a/26111907/BE0FA6D1BA57069D.html",
   "summary": "",
   "pub_time": "2026-11-18T23:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1578,32 +1725,6 @@
   "en_title": "US Oil Inventories On the Rise"
  },
  {
-  "title": "随着海湾国家为袭击做好准备，美伊冲突再次升级",
-  "url": "",
-  "summary": "美国和伊朗军队在中东针锋相对地进行空袭，而尽管区域调解方作出了努力，但当前低烈度的冲突仍在持续发酵，海湾国家针对即将到来的导弹威胁向居民发出了新的警告。美国官员周四（11月16日）向多家新闻机构表示，",
-  "pub_time": "2026-11-18T14:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "3c720abe6dd0ebdd7df2a399da0a7c62",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "走强"
-  ],
-  "en_title": "U.S.-Iran Conflict Flares Again as Gulf Nations Brace for Attacks"
- },
- {
   "title": "TDG将Shasta金银项目建设成本定为6.05亿美元",
   "url": "",
   "summary": "TDG Gold（TSXV：TDG；US-OTC：TDGGF）在同意……几天后，制定了一项开采不列颠哥伦比亚省北部两处金银矿床的计划。这篇文章《TDG将Shasta金银矿项目建设成本定为6.05亿美元》最初发表在《北方矿工报》上。",
@@ -1916,44 +2037,6 @@
   "is_elite": false
  },
  {
-  "title": "一图看懂：10月我国钢材进出口数据",
-  "url": "https://news.mysteel.com/a/26111815/B845EF1EF044223B.html",
-  "summary": "",
-  "pub_time": "2026-11-18T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "dda8465d75ae3541545684722022b47e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色持仓日报：焦煤跌3.98%，国泰君安减持8千手多单",
-  "url": "https://news.mysteel.com/a/26111815/99BDF2CA94541B17.html",
-  "summary": "",
-  "pub_time": "2026-11-18T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "93325ad1e5ea604b15c70c03fc98cd68",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "现货黄金日内跌幅扩大至2%，创去年9月底以来新低",
   "url": "https://news.mysteel.com/a/26111815/1D9490972CB81413.html",
   "summary": "",
@@ -2011,8 +2094,27 @@
   "is_elite": false
  },
  {
+  "title": "黑色持仓日报：焦煤跌3.98%，国泰君安减持8千手多单",
+  "url": "https://news.mysteel.com/a/26111815/9EC3C894CFCC994F.html",
+  "summary": "",
+  "pub_time": "2026-11-18T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "93325ad1e5ea604b15c70c03fc98cd68",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "中澳钢铁减碳政策对话联合成果声明发布",
-  "url": "https://news.mysteel.com/a/26111814/EF81CB05C5A5C383.html",
+  "url": "https://news.mysteel.com/a/26111814/2CBBC3400B94B97C.html",
   "summary": "",
   "pub_time": "2026-11-18T06:00:00Z",
   "source": "上海钢联Mysteel",
@@ -2073,31 +2175,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "2026年11月18日每日市场行情",
-  "url": "",
-  "summary": "黑海物流受损引发小麦风险溢价。干旱天气导致印度尼西亚棕榈油产量预测下调。澳大利亚的收成受降雨预报的影响而波动。",
-  "pub_time": "2026-11-18T02:29:31Z",
-  "source": "GrainCentral",
-  "_cat": "能源",
-  "dedup_key": "cde87d1f19cbc29dc2be064c3817ecfe",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Daily Market Wire 18 November 2026"
  },
  {
   "title": "【证券时报】上海钢联刘涵：后续铁矿石价格或下移至610元/吨附近",
@@ -2424,25 +2501,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年11月18日大连玉米期货收盘低开收涨",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/18/0232149894.shtml",
-  "summary": "",
-  "pub_time": "2026-11-17T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "9ceff4c43d67e1fa8924e3709247ca2e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
   "title": "11月18日进口大豆到国内港口CF及升贴水报价",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/18/1648793258.shtml",
   "summary": "",
@@ -2500,25 +2558,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年11月18日大连大豆期货行情午报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/18/3056729459.shtml",
-  "summary": "",
-  "pub_time": "2026-11-17T16:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "3d645ab3ae9b931401971dc1bb4e0d2c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
   "title": "11月18日进口油菜籽到国内港口CF报价",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/18/5147112436.shtml",
   "summary": "",
@@ -2553,6 +2592,25 @@
    "中文",
    "国内",
    "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月18日大连大豆期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/18/3056729459.shtml",
+  "summary": "",
+  "pub_time": "2026-11-17T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "cab4334cd012e693a4049c6714ab4afb",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
   ],
   "is_elite": false
  },
@@ -2830,6 +2888,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "49b6dac296382a212244325f141493e7",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月18日大连玉米期货收盘低开收涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/18/0232149894.shtml",
+  "summary": "",
+  "pub_time": "2026-11-17T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "1071d862345f72ba65a31981df754d73",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -3317,88 +3394,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "金价两年后才能重返历史高位？高盛一个月内第二次下调黄金目标价",
-  "url": "https://news.mysteel.com/a/26111710/373188ED18EE898C.html",
-  "summary": "",
-  "pub_time": "2026-11-17T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "a5a15333a7e169d0d2f4c8c7effe5d21",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "高盛：金价到2027年底或升至4,650美元/盎司",
-  "url": "https://news.mysteel.com/a/26111710/A515C055215D8DBA.html",
-  "summary": "",
-  "pub_time": "2026-11-17T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "049b41575c03b494a1d0882a90532510",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel周报：10大城市新房成交同比下降25.7%",
-  "url": "https://news.mysteel.com/a/26111710/7150E4B0FFA6E830.html",
-  "summary": "",
-  "pub_time": "2026-11-17T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "2b565799498bb30e8f0b7ed57a98880a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "干旱限制了巴西北部港口的出口",
-  "url": "",
-  "summary": "低水位正在阻碍巴西北部的粮食出口，业界正在研究陆上运输网络作为长期的解决方案。",
-  "pub_time": "2026-11-17T01:58:12Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "06e511920b34899d0ae5ffff847d5ff0",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "出口"
-  ],
-  "en_title": "Drought restricts exports from Brazil’s Arco Norte"
  }
 ]
