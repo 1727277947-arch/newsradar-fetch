@@ -1,5 +1,31 @@
 [
  {
+  "title": "Vizsla将帕努科的第一批银矿推迟一年",
+  "url": "",
+  "summary": "开发商Vizsla Silver（多伦多证交所、纽交所美国板块：VZLA）已将其在墨西哥帕努科项目的首批产量目标推迟一年，因为……这篇文章《Vizsla将帕努科的首批白银产量推迟一年》最初发表在《北方矿工报》上。",
+  "pub_time": "2026-11-19T21:55:45Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "b7d267dbb9d16299a34373bf01773457",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "白银"
+  ],
+  "en_title": "Vizsla delays first silver at Panuco by a year"
+ },
+ {
   "title": "弗里德兰的Ivanhoe Electric发现高品位铜矿",
   "url": "",
   "summary": "由矿业亿万富豪罗伯特·弗里德兰（Robert Friedland）支持的Ivanhoe Electric（NYSE American：IE；TSX：IE）在其位于亚利桑那州东南部的Gleeson项目发现了高品位铜-金-银矿化……这篇文章《弗里德兰的Ivanhoe Electric发现高品位铜矿》最初发表在《北方报》上。",
@@ -25,32 +51,6 @@
    "罢工"
   ],
   "en_title": "Friedland’s Ivanhoe Electric strikes high-grade copper"
- },
- {
-  "title": "Vizsla将帕努科的第一批银矿推迟一年",
-  "url": "",
-  "summary": "开发商Vizsla Silver（多伦多证交所、纽交所美国板块：VZLA）已将其在墨西哥帕努科项目的首批产量目标推迟一年，因为……这篇文章《Vizsla将帕努科的首批白银产量推迟一年》最初发表在《北方矿工报》上。",
-  "pub_time": "2026-11-19T21:40:45Z",
-  "source": "NorthernMiner",
-  "_cat": "贵金属",
-  "dedup_key": "b7d267dbb9d16299a34373bf01773457",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "白银"
-  ],
-  "en_title": "Vizsla delays first silver at Panuco by a year"
  },
  {
   "title": "赫克拉矿业股票变得严重超卖",
@@ -703,34 +703,6 @@
    "锡"
   ],
   "en_title": "Torex expands US reach with NYSE listing, share buyback"
- },
- {
-  "title": "随着沙特出货量激增，印度的石油进口量创历史新高",
-  "url": "",
-  "summary": "周四公布的贸易数据显示，10月份印度原油进口量创下历史新高，原因是随着海湾地区出货量的回升，来自沙特阿拉伯的进口量飙升至八个月来的最高水平。上个月，印度原油进口量创下历史新高，达到每天558万桶（bpd），比……增长了4.7%。",
-  "pub_time": "2026-11-19T10:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "bfafd4dca35ac1763c2e80c205986ca8",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "大涨",
-   "进口"
-  ],
-  "en_title": "India’s Oil Imports Hit Record High as Saudi Shipments Surge"
  },
  {
   "title": "金价在触及14个月低点后企稳",
