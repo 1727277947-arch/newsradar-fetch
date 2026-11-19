@@ -1,5 +1,81 @@
 [
  {
+  "title": "随着沙特出货量激增，印度的石油进口量创历史新高",
+  "url": "",
+  "summary": "周四公布的贸易数据显示，10月份印度原油进口量创下历史新高，原因是随着海湾地区出货量的回升，来自沙特阿拉伯的进口量飙升至八个月来的最高水平。上个月，印度原油进口量创下历史新高，达到每天558万桶（bpd），比……增长了4.7%。",
+  "pub_time": "2026-11-19T10:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "bfafd4dca35ac1763c2e80c205986ca8",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "大涨",
+   "进口"
+  ],
+  "en_title": "India’s Oil Imports Hit Record High as Saudi Shipments Surge"
+ },
+ {
+  "title": "随着交易员权衡供应前景，油价变化不大",
+  "url": "",
+  "summary": "（RTTNews）——周四，油价基本未变，此前一个交易日因市场预期供应过剩即将到来而大幅下跌。",
+  "pub_time": "2026-11-19T10:11:25Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "eecdf8cc1c969b10426c39b39cd7287c",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "供应",
+   "展望"
+  ],
+  "en_title": "Oil Prices Little Changed As Traders Weigh Supply Outlook"
+ },
+ {
+  "title": "从一槽铝水到一池微藻 邹平铝业构建绿色低碳闭环",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734753.shtml",
+  "summary": "记者 梁犇)一块铝板经过几道工序很快即可成为车门外板；一辆V80轻量化车型每百公里少耗1度电；一辆报废车的车身铝材可以在产线上重新变成铝水、铝锭……在山东邹平，起步于2001年的高端铝产业集群，正推动绿色低碳理念贯穿产业发展全链条",
+  "pub_time": "2026-11-19T09:29:46Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "2db4d2a2c350b604cbf72732b48d64c7",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "中东战争已令全球石油供应减少28亿桶",
   "url": "",
   "summary": "国际能源署在今天发布的最新《世界能源展望》中估计，中东战争已导致全球石油供应损失总计28亿桶，天然气供应损失600亿立方米。IEA预测，这种供应中断将影响石油需求。",
@@ -27,13 +103,70 @@
   "en_title": "The Middle East War Has Wiped 2.8 Billion Barrels Off Global Oil Supply"
  },
  {
-  "title": "涉嫌非法占用土地，国家管网集团全资子公司同日连收2张罚单",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734720.shtml",
-  "summary": "信用中国网站显示，近日，国家管网集团东部原油储运有限公司涉嫌非法占用土地，同日连续收到2张来自天津市规划和自然资源局滨海新区分局的罚单，累计罚款4635.45元",
-  "pub_time": "2026-11-19T08:50:06Z",
-  "source": "中国新闻网-财经",
+  "title": "Mysteel晚餐：习近平主持中俄美元首会晤",
+  "url": "https://news.mysteel.com/a/26111917/C599C2587CA70B91.html",
+  "summary": "",
+  "pub_time": "2026-11-19T09:00:00Z",
+  "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "2245ee86e805c63cbdbf91fbc8c41d8a",
+  "dedup_key": "8bdccff93f822d950bdfbf0b188148cf",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/政治军事",
+  "tags": [
+   "政治军事",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel晚餐：习近平主持中俄美元首会晤，就大国如何正确相处提出4点看法",
+  "url": "https://news.mysteel.com/a/26111917/3854CB1DBCAB5DBB.html",
+  "summary": "",
+  "pub_time": "2026-11-19T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "0f97495588061ebe50265d622d76131d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/政治军事",
+  "tags": [
+   "政治军事",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "关键矿产日报：沪铜主力跌超5%，印度NMDC计划扩产球团产能",
+  "url": "https://news.mysteel.com/a/26111917/5CCDFBEC37719BDD.html",
+  "summary": "",
+  "pub_time": "2026-11-19T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "80c1d7ed19ab04d3ea61973cf4e4bc97",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：本周钢材社会库存减少17.97万吨（11月13日-11月19日）",
+  "url": "https://news.mysteel.com/a/26111916/6D5CE894B78880FD.html",
+  "summary": "",
+  "pub_time": "2026-11-19T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "9b5dd171db84b1563a5330fb1be31d11",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -41,7 +174,7 @@
    "财经",
    "中文",
    "国内",
-   "中国新闻网-财经"
+   "上海钢联Mysteel"
   ],
   "is_elite": false
  },
@@ -53,6 +186,25 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "aa48f093dafa487d14d5ab044c01e606",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel日报：黑色金属期货震荡上涨运行",
+  "url": "https://news.mysteel.com/a/26111916/890ADCFA94141D2F.html",
+  "summary": "",
+  "pub_time": "2026-11-19T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "d89484a3a42740ff8b8ff0df79437318",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -119,51 +271,13 @@
   "en_title": "Feedgrain Focus: Containers fuel demand amid fitful harvest"
  },
  {
-  "title": "黑色持仓日报：中信期货减持超2.2万手螺纹钢多单",
+  "title": "黑色持仓日报：期螺飘红，中信期货减持超2.2万手多单",
   "url": "https://news.mysteel.com/a/26111915/E2CEC1101C9BD12A.html",
   "summary": "",
   "pub_time": "2026-11-19T07:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "2c1976df922e9fdfc0026eba613770be",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色持仓日报：期螺飘红，中信期货减持超2.2万手多单",
-  "url": "https://news.mysteel.com/a/26111915/E6AF7BB97A26DFB2.html",
-  "summary": "",
-  "pub_time": "2026-11-19T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
   "dedup_key": "d4d98cf43af14281981b15c68e3bd9b5",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "有色持仓日报：沪铜跌5.07%，东证期货增持超4.6千手多单",
-  "url": "https://news.mysteel.com/a/26111915/D65F4C3F2F064C2D.html",
-  "summary": "",
-  "pub_time": "2026-11-19T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "af5f828e6865d4119b08dc9dc0964fad",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -183,6 +297,25 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "453562aa0ba829aa2e73971c6b786739",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "有色持仓日报：沪铜跌5.07%，东证期货增持超4.6千手多单",
+  "url": "https://news.mysteel.com/a/26111915/910AEDA10C305B2B.html",
+  "summary": "",
+  "pub_time": "2026-11-19T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "af5f828e6865d4119b08dc9dc0964fad",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1391,31 +1524,6 @@
   "en_title": "Thiel Doubles Down on Vaca Muerta as Trump Calls Venezuela an “Acquisition”"
  },
  {
-  "title": "民主党人可能会放缓委内瑞拉向日产300万桶的目标迈进的步伐",
-  "url": "",
-  "summary": "民主党在美国中期选举中大获全胜，这不太可能阻碍委内瑞拉近期的石油复苏，但国会加强审查可能会放缓下一波投资。现有油田的增产应能继续支撑约150万桶/天的产量。",
-  "pub_time": "2026-11-18T17:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "256da15cdeff4abdc1297d422d9087fd",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Democrats Could Slow Venezuela’s Push Toward 3 Million Bpd"
- },
- {
   "title": "了解Steel Dynamics在分析师的顶级金属股选择中排名如何",
   "url": "",
   "summary": "根据Metals Channel的数据，对主要经纪公司分析师建议的研究表明，在构成Metals Channel全球矿业巨头指数的50只股票中，Steel Dynamics Inc.（股票代码：STLD）平均排名第38位。Metals Channel Glo",
@@ -1652,25 +1760,6 @@
   "is_elite": false
  },
  {
-  "title": "美国大豆现货价格下跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/19/3740418291.shtml",
-  "summary": "",
-  "pub_time": "2026-11-18T16:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "47e4c37b37b09c6680cc3254ca50821e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
   "title": "11月19日进口油菜籽到国内港口CF报价",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/19/0502283339.shtml",
   "summary": "",
@@ -1705,6 +1794,25 @@
    "中文",
    "国内",
    "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "美国大豆现货价格下跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/19/3740418291.shtml",
+  "summary": "",
+  "pub_time": "2026-11-18T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "343b175b27cb22c22d80642f6dc48042",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
   ],
   "is_elite": false
  },
@@ -2543,25 +2651,6 @@
   "en_title": "Oil Prices Tumble On Fears Of Supply Glut"
  },
  {
-  "title": "Mysteel晚餐：4家钢厂发布冬储政策，唐山钢坯亏损增加",
-  "url": "https://news.mysteel.com/a/26111817/5DE57C0F69800451.html",
-  "summary": "",
-  "pub_time": "2026-11-18T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "b6ae82005f651f822ffd7b10f6854a15",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "每日钢市：期钢低开高走，铁矿石反弹，钢价跌幅收窄",
   "url": "https://news.mysteel.com/a/26111817/6AF3CB67B723FDD1.html",
   "summary": "",
@@ -2959,32 +3048,6 @@
    "价"
   ],
   "en_title": "Gold Prices Showing Modest Move Back To The Upside"
- },
- {
-  "title": "卫星应用跟踪阿根廷锂盐平原的变化",
-  "url": "",
-  "summary": "此次监测是在卡塔马卡省萨拉尔德尔翁布雷穆埃尔托盐湖（Salar del Hombre Muerto）锂矿开发和用水安全持续受到关注的背景下进行的。",
-  "pub_time": "2026-11-17T17:31:35Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "b40bdd4f2592b911f950492760a8e8f7",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡"
-  ],
-  "en_title": "Satellite application tracks changes at Argentina lithium salt flat"
  },
  {
   "title": "分析师最爱：Gold Fields跻身金属股首选之列",
@@ -3658,33 +3721,5 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "受供应过剩担忧影响，交投清淡的油价几无变化",
-  "url": "",
-  "summary": "（RTTNews）——周二，油价基本未变，因为有迹象表明，通过霍尔木兹海峡的石油运输正在恢复，这加剧了对全球供应将增加的预期，并抵消了对该地区油轮持续遭到袭击的担忧。",
-  "pub_time": "2026-11-17T09:54:05Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "75435c0472a571770bcae52f6d9fd2bd",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "供应"
-  ],
-  "en_title": "Oil Prices Little Changed In Lackluster Trade As Oversupply Concerns Weigh"
  }
 ]
