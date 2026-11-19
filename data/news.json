@@ -1,5 +1,43 @@
 [
  {
+  "title": "锡山青云先进材料智造服务基地开工",
+  "url": "https://news.mysteel.com/a/26111913/78EB4109E3247B8D.html",
+  "summary": "",
+  "pub_time": "2026-11-19T05:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "e6e5c22f5a5582c0096bef52390d8e23",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "总投资50亿元，青锋半导体先进封装项目在无锡开工",
+  "url": "https://news.mysteel.com/a/26111913/10D3CB79E63B63FE.html",
+  "summary": "",
+  "pub_time": "2026-11-19T05:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "27ee3540c8318fc0a67e0a9db8a5f6a9",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/产业经济",
+  "tags": [
+   "产业经济",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "A股午评：三大指数收跌，超4500只个股飘绿",
   "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734560.shtml",
   "summary": "A股午评：三大指数收跌，超4500只个股飘绿；黄金股重挫；传媒、能源设备、教育跌幅居前；冰雪旅游、培育钻石走低；摩托车、酒类上涨",
@@ -82,31 +120,6 @@
    "跳涨"
   ],
   "en_title": "GrainCorp receivals jump to 3.1Mt, nod to 50 years for ‘Tank’"
- },
- {
-  "title": "每日市场快讯 2026 年 11 月 19 日",
-  "url": "",
-  "summary": "美国小麦引领谷物市场走低。原油钻研下行。在收获天气不确定的情况下，澳大利亚现金小麦基差保持不变，蛋白质差异扩大。",
-  "pub_time": "2026-11-19T02:09:41Z",
-  "source": "GrainCentral",
-  "_cat": "能源",
-  "dedup_key": "6f09ec76ab5ce0159ebe6b21f0601a94",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Daily Market Wire 19 November 2026"
  },
  {
   "title": "中冶华天主编行业标准《钢铁行业产城融合水资源高效循环利用指南》正式发布",
@@ -443,25 +456,6 @@
    "锡"
   ],
   "en_title": "Patchy performance of three canola varieties under scrutiny in WA"
- },
- {
-  "title": "上期所深化热轧卷板期货国际应用，推动“上海价格”服务全球钢铁产业",
-  "url": "https://news.mysteel.com/a/26111908/CF24F67D7749F540.html",
-  "summary": "",
-  "pub_time": "2026-11-19T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "e3d99e38c53c6d1f34e8ff4093cc055f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  },
  {
   "title": "国际金价跌破3800美元",
@@ -2691,25 +2685,6 @@
   "is_elite": false
  },
  {
-  "title": "11月18日进口大豆港口分销价持平",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/18/1258481206.shtml",
-  "summary": "",
-  "pub_time": "2026-11-17T16:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "d490126a94be2a519122e880937c7d3f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
   "title": "11月18日进口油菜籽到国内港口CF报价",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/18/5147112436.shtml",
   "summary": "",
@@ -2744,6 +2719,25 @@
    "中文",
    "国内",
    "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "11月18日进口大豆港口分销价持平",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/18/1258481206.shtml",
+  "summary": "",
+  "pub_time": "2026-11-17T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "ddec7263d6da71ad43473760cfa49225",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
   ],
   "is_elite": false
  },
@@ -3489,62 +3483,5 @@
    "基本金属"
   ],
   "en_title": "Govt announces changes to Working Holiday Maker visas"
- },
- {
-  "title": "Mysteel快讯：福建省“绿色”码头首票工程机械顺利出口",
-  "url": "https://news.mysteel.com/a/26111714/456552A761043AD1.html",
-  "summary": "",
-  "pub_time": "2026-11-17T06:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "47dd8c7847b1f4ce64658b8e8d84474f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel快讯：11.36万吨LNG双燃料油化船顺利下水 福建造船载重吨纪录刷新",
-  "url": "https://news.mysteel.com/a/26111714/73B0C57F6F9BEEC9.html",
-  "summary": "",
-  "pub_time": "2026-11-17T06:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "b0548046566764f3912c585b72874fa6",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "现货白银涨超2%，逼近48美元/盎司",
-  "url": "https://news.mysteel.com/a/26111713/BEC9DBE32CF9FC9B.html",
-  "summary": "",
-  "pub_time": "2026-11-17T05:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "f8d403ee999bbe7c2e0bd587902ddff9",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  }
 ]
