@@ -52,13 +52,13 @@
   "en_title": "US Oil and Gas Deal Boom Lures BMO Back Into the Market"
  },
  {
-  "title": "广发期货：美联储鹰派信号加强，资金倾向持币美元强势，贵金属持续大跌",
-  "url": "https://news.mysteel.com/a/26112009/DBB58CB8BCDE9907.html",
+  "title": "黑色期货早报：各品种多数上涨，多机构料铁矿石震荡运行",
+  "url": "https://news.mysteel.com/a/26112009/667C5FA2D4E55F92.html",
   "summary": "",
   "pub_time": "2026-11-20T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "78de90ef181a155dc35d0dfabccc9028",
+  "dedup_key": "101a24dae64b9a202098cdbd498f6459",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -71,13 +71,108 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：隔夜，沪金主力合约跌1.45%",
-  "url": "https://news.mysteel.com/a/26112009/3E7DD699BFA5FC67.html",
+  "title": "纽约金价19日跌超3%，较年初最高点已下跌约2000美金/盎司",
+  "url": "https://news.mysteel.com/a/26112009/B23826B8EBD41E40.html",
   "summary": "",
   "pub_time": "2026-11-20T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "43b25933715ed80fd6949e6cf71f6349",
+  "dedup_key": "7d7b6aed1d9c82c7462fa3e4d8f872c5",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "瑞达期货：焦炭产业链整体库存仍处同期偏低水平",
+  "url": "https://news.mysteel.com/a/26112009/AF25FE6BE685FDA1.html",
+  "summary": "",
+  "pub_time": "2026-11-20T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "7fc322195e94704369809c907fc8f3a4",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "瑞达期货：锰硅去库节奏偏慢，对盘面形成压制",
+  "url": "https://news.mysteel.com/a/26112009/8B5B626EE77C3769.html",
+  "summary": "",
+  "pub_time": "2026-11-20T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "ad781010e9a6dff9a8f043ea8af6016f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "广州期货：螺纹钢期价跟随原料价波动",
+  "url": "https://news.mysteel.com/a/26112009/2091DC859F008B45.html",
+  "summary": "",
+  "pub_time": "2026-11-20T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "59d1bde9e3216a08e99fb2f0b5ade2d0",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "广州期货：不锈钢短期期价或震荡偏弱",
+  "url": "https://news.mysteel.com/a/26112009/3E81CDD20FA981F3.html",
+  "summary": "",
+  "pub_time": "2026-11-20T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "563eeed6df0c279f9c1970b5f2826c64",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "广发期货：美联储鹰派信号加强，资金倾向持币美元强势，贵金属持续大跌",
+  "url": "https://news.mysteel.com/a/26112009/DBB58CB8BCDE9907.html",
+  "summary": "",
+  "pub_time": "2026-11-20T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "78de90ef181a155dc35d0dfabccc9028",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1609,120 +1704,6 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "8d52eca5d599d12d3d4fd8487f1c03c2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "广发期货：焦炭短期偏弱运行",
-  "url": "https://news.mysteel.com/a/26111909/A5F95CED669FA3F1.html",
-  "summary": "",
-  "pub_time": "2026-11-19T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "3a4c84f98e0c77c554731e23fc782b5f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "广发期货：焦煤短期以震荡偏弱为主",
-  "url": "https://news.mysteel.com/a/26111909/8527F0C3FD1B9716.html",
-  "summary": "",
-  "pub_time": "2026-11-19T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "f46ef300fefa4f81248ddb10ef925b8f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "广发期货：铁矿石短期建议观望",
-  "url": "https://news.mysteel.com/a/26111909/A2581FAE63441D15.html",
-  "summary": "",
-  "pub_time": "2026-11-19T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "4fb2cde5eb2a5e1c3bfee22d076bd1a2",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "广发期货：钢价维持弱势下跌走势，空单持有",
-  "url": "https://news.mysteel.com/a/26111909/D96D211FA8F47F76.html",
-  "summary": "",
-  "pub_time": "2026-11-19T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "099bfdc8ea9ba584b0ceebb24134f210",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "瑞达期货：成本端双焦疲软，仍将对钢价产生拖累",
-  "url": "https://news.mysteel.com/a/26111909/608EC7DC9826CEF5.html",
-  "summary": "",
-  "pub_time": "2026-11-19T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "4f30fb3fb833d9e53e0820d85e6be30a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "瑞达期货：钢厂焦炭库存低位运行",
-  "url": "https://news.mysteel.com/a/26111909/C569C67050233037.html",
-  "summary": "",
-  "pub_time": "2026-11-19T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "e7877fe08ea744cf1423320974740364",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
