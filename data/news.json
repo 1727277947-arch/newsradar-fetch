@@ -1,5 +1,50 @@
 [
  {
+  "title": "随着供应量回升，印度的LPG消费量创8个月新高",
+  "url": "",
+  "summary": "10月份，印度的液化石油气（LPG）消费量升至八个月以来的最高水平，原因是今年早些时候中东供应中断造成的冲击过后，供应量已逐步恢复。印度对主要烹饪燃料液化石油气的需求在10月份增至260万吨。",
+  "pub_time": "2026-11-20T13:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "797af0a594acd18dff8c703a194e138e",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "供应"
+  ],
+  "en_title": "India’s LPG Consumption Hits 8-Month High as Supply Rebounds"
+ },
+ {
+  "title": "产业观察：一座山区小县城，何以“无所不锯”？",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735522.shtml",
+  "summary": "傅飞扬)“这次展会，我们带来了高速切铝机、高速圆盘锯、高速带锯床等产品，其中多款锯床以进口设备三分之一的价格、90%以上的效率实现了国产替代。”11月20日，在浙江省丽水市缙云县，浙江晨龙控股股份有限公司营销副总吕易晏接受中新网采访时说",
+  "pub_time": "2026-11-20T12:42:03Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "4e8c4f554d62d17c0310c354ec2db731",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "俄罗斯导弹袭击基辅，特朗普的乌克兰能源休战协议破裂",
   "url": "",
   "summary": "政治、地缘政治与冲突 特朗普于 10 月份宣布的俄罗斯和乌克兰之间的“能源休战”已经结束，弗拉基米尔·普京 (Vladimir Putin) 取消了新的休战协议。周四在亚太经合组织峰会上与特朗普和习近平会面后，普京表示俄罗斯不会在乌克兰袭击克里米亚后进行谈判",
@@ -1011,33 +1056,6 @@
    "黄金"
   ],
   "en_title": "Epic tallies first gold resources at two Quebec sites"
- },
- {
-  "title": "南方共同市场的税收减免正在推动巴西石油进入欧洲",
-  "url": "",
-  "summary": "今年巴西的石油产量将超过世界上任何其他生产国。对于全球石油市场而言，海上生产热潮来得恰逢其时，因为全球石油市场一直缺乏不经过霍尔木兹海峡到达炼油厂的石油。巴西原油产量创历史新高470万吨",
-  "pub_time": "2026-11-19T21:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "691f6b669fad42810d9b045699964086",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "燃料"
-  ],
-  "en_title": "Mercosur’s Tax Break Is Fueling Brazil’s Oil Push Into Europe"
  },
  {
   "title": "在霍尔木兹海峡危机持续、对美国可能发动袭击的担忧之下，原油价格小幅上涨",
@@ -2136,32 +2154,6 @@
    "基本金属"
   ],
   "en_title": "Chile threatens Codelco mine permit over dust violations"
- },
- {
-  "title": "Torex通过在纽交所上市和股票回购扩大其在美国的影响力",
-  "url": "",
-  "summary": "Torex 已获得美国投资者的青睐，该公司正准备在明年回购多达 10% 的公开发行股份。",
-  "pub_time": "2026-11-19T10:51:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "28860a8f6ffb7847bd39be7cc80ee669",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡"
-  ],
-  "en_title": "Torex expands US reach with NYSE listing, share buyback"
  },
  {
   "title": "金价在触及14个月低点后企稳",
