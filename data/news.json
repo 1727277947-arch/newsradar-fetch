@@ -1,5 +1,113 @@
 [
  {
+  "title": "俄罗斯导弹袭击基辅，特朗普的乌克兰能源休战协议破裂",
+  "url": "",
+  "summary": "政治、地缘政治与冲突 特朗普于 10 月份宣布的俄罗斯和乌克兰之间的“能源休战”已经结束，弗拉基米尔·普京 (Vladimir Putin) 取消了新的休战协议。周四在亚太经合组织峰会上与特朗普和习近平会面后，普京表示俄罗斯不会在乌克兰袭击克里米亚后进行谈判",
+  "pub_time": "2026-11-20T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "f6246f2ccc2d4e35913320223152c248",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "能源"
+  ],
+  "en_title": "Trump’s Ukraine Energy Truce Unravels as Russian Missiles Hit Kyiv"
+ },
+ {
+  "title": "伊拉克的石油打击引发了与库尔德斯坦的新摊牌",
+  "url": "",
+  "summary": "伊拉克联邦政府正在利用针对巴格达南部亲伊朗民兵真主党旅的石油走私案，迫使北部库尔德斯坦地区政府交出更多石油并向联邦检查人员开放其油田。在巴格达以南，伊拉克总理已下令联邦政府",
+  "pub_time": "2026-11-20T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "2404e6d359939476fe1adb90375b4d34",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Iraq's Oil Crackdown Sparks New Showdown With Kurdistan"
+ },
+ {
+  "title": "随着全球石油过剩担忧加剧，WTI 原油下跌超过 5%",
+  "url": "",
+  "summary": "石油市场本周一直在权衡全球供应增加与中东进一步中断的风险。该地区的买家正在购买更多的原油，而美国的库存正在增加。对油轮和能源基础设施的袭击仍然是一个威胁，但尚未消除",
+  "pub_time": "2026-11-20T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "6c0a5cad81b5904b7ff40db51698d47f",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "WTI油价",
+   "过剩"
+  ],
+  "en_title": "WTI Crude Sinks More Than 5% as Global Oil Glut Fears Grow"
+ },
+ {
+  "title": "随着油价下滑，伊朗加强霍尔木兹油轮袭击",
+  "url": "",
+  "summary": "最近几周，伊朗加大了对霍尔木兹海峡油轮的袭击力度，正当波斯湾原油流量恢复、油价因几个月内供应过剩的预期而下跌之际。 10月份袭击数量飙升至去年年底伊朗战争爆发以来的最高水平",
+  "pub_time": "2026-11-20T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "1628e5e6c22932980d86b34556032d99",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "下滑"
+  ],
+  "en_title": "Iran Steps Up Hormuz Tanker Attacks as Oil Prices Slide"
+ },
+ {
   "title": "随着美国军事威胁的增加，伊朗拒绝核检查",
   "url": "",
   "summary": "伊朗高级官员周五表示，在美国持续威胁进行军事打击的情况下，伊朗再次警告，不会允许联合国检查人员进入其核设施和核材料。 “我们不会接受一方面被轰炸，另一方面又被以不耐烦的语气询问。",
@@ -23,25 +131,6 @@
    "基本金属"
   ],
   "en_title": "Iran Refuses Nuclear Inspections as U.S. Military Threats Mount"
- },
- {
-  "title": "“舟山—宜昌”粮食江海直达航线正式开通",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735431.shtml",
-  "summary": "记者 郭晓莹)记者20日从湖北省宜昌市交通运输局获悉，满载豆粕的8500吨级江海直达船“江海直达11号”已从浙江舟山市老塘山码头启航，预计10天后抵达宜昌白洋港，标志着“舟山—宜昌”粮食江海直达物流线路正式落地，优化长三角粮源西进长江中上游的全新水上通道",
-  "pub_time": "2026-11-20T11:01:34Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "4ce057ce04e82845a0da8484edb6eeca",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
  },
  {
   "title": "由于加息担忧，黄金每周将大幅下跌",
@@ -977,58 +1066,6 @@
   "en_title": "Crude Oil Inches Higher Amid Ongoing Hormuz Crisis, Concerns Over Possible U.S. Attacks On Iran"
  },
  {
-  "title": "欧盟采取行动，全面检查应急石油储备",
-  "url": "",
-  "summary": "历时九个月的中东冲突暴露了欧洲应急石油储备的一个问题：储存的石油充足并不一定意味着柴油或航空燃油充足。因此，欧盟希望各国储备它们实际使用的燃料。欧盟委员会正在",
-  "pub_time": "2026-11-19T19:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "3edff81fe96eb8422e813ce4adfdb7de",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "库存"
-  ],
-  "en_title": "EU Moves to Overhaul Emergency Oil Stockpiles"
- },
- {
-  "title": "随着冰川消融，中亚正面临迫在眉睫的水危机",
-  "url": "",
-  "summary": "亚洲开发银行对四十年来天气模式的分析引发了人们对中亚和高加索地区冰川消退速度加快的担忧。亚行题为《从冰川到农田：气候风险与应对能力评估》的评估报告对冰川和用水模式进行了评估。",
-  "pub_time": "2026-11-19T19:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "f7bf4060d04f91bf605483cdef0a57b1",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Central Asia Faces a Looming Water Crisis as Glaciers Retreat"
- },
- {
   "title": "美联储12月加息预期升温，黄金价格暴跌",
   "url": "",
   "summary": "(RTTNews) - 金价周四暴跌，因美联储在发布 10 月份会议新纪要后对加息的预期增强，会议纪要显示所有参与者都认为未来可能会加息。",
@@ -1054,31 +1091,6 @@
    "暴跌"
   ],
   "en_title": "Gold Tumbles Amid Rising Expectations Of A Fed Rate Hike In December"
- },
- {
-  "title": "7000家埃及工厂即将使用太阳能发电",
-  "url": "",
-  "summary": "埃及正在快速扩大太阳能发电能力，这是其实现到2030年将42%的电力来自可再生能源，到2040年将65%的电力来自可再生能源的目标的一部分。该国目前的大部分能源来自化石燃料，主要是天然气和石油，约占埃及电力供应的87%。",
-  "pub_time": "2026-11-19T18:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "6a7aa7b6892bdab4d40b69995513a765",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "7,000 Egyptian Factories Will Soon Be Solar-powered"
  },
  {
   "title": "了解泛美银矿公司在分析师的顶级金属股选择中排名如何",
