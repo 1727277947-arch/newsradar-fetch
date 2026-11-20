@@ -1,5 +1,31 @@
 [
  {
+  "title": "HSLV 股票挤满了卖家",
+  "url": "",
+  "summary": "在周五的交易中，Highlander Silver Corp（股票代码：HSLV）的股票进入超卖区域，换手价低至每股 3.025 美元。我们使用相对强弱指数（RSI）来定义超卖区域，这是一种用于衡量超卖幅度的技术分析指标。",
+  "pub_time": "2026-11-20T21:03:54Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "8c8fa7f8af9e61e9a0dbf6e9f354e52c",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "库存"
+  ],
+  "en_title": "HSLV Stock Crowded With Sellers"
+ },
+ {
   "title": "在美国-伊朗、沙特阿拉伯-胡塞武装持续敌对的情况下，原油价格上涨",
   "url": "",
   "summary": "（RTTNews）——周五，原油价格上涨，原因是投资者在评估美伊冲突的持续发展，同时过境霍尔木兹海峡的船只继续遭受袭击。交易员还分析了美国计划将有关伊朗的任何决定推迟至2027年。",
@@ -1400,60 +1426,6 @@
   "en_title": "Crude Oil Inches Higher Amid Ongoing Hormuz Crisis, Concerns Over Possible U.S. Attacks On Iran"
  },
  {
-  "title": "美联储12月加息预期升温，黄金价格暴跌",
-  "url": "",
-  "summary": "(RTTNews) - 金价周四暴跌，因美联储在发布 10 月份会议新纪要后对加息的预期增强，会议纪要显示所有参与者都认为未来可能会加息。",
-  "pub_time": "2026-11-19T18:36:34Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "24f4cdf02d9c88d7cd4737f1597f4b14",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "暴跌"
-  ],
-  "en_title": "Gold Tumbles Amid Rising Expectations Of A Fed Rate Hike In December"
- },
- {
-  "title": "了解泛美银矿公司在分析师的顶级金属股选择中排名如何",
-  "url": "",
-  "summary": "根据Metals Channel的数据，对主要经纪公司分析师建议的研究表明，在构成Metals Channel全球矿业巨头指数的50只股票中，泛美白银公司（代码：PAAS）平均排名第44位。Metals Channel",
-  "pub_time": "2026-11-19T17:38:55Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "1054673eabdc3933c20f0add868c0ecf",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "白银",
-   "金属"
-  ],
-  "en_title": "See How Pan American Silver Ranks Among Analysts' Top Metals Picks"
- },
- {
   "title": "伊利诺伊州大豆董事被任命为美国大豆委员会成员",
   "url": "",
   "summary": "",
@@ -2419,62 +2391,6 @@
    "基本金属"
   ],
   "en_title": "Chile threatens Codelco mine permit over dust violations"
- },
- {
-  "title": "金价在触及14个月低点后企稳",
-  "url": "",
-  "summary": "（RTTNews）——周四，黄金价格基本持平或略有上涨，此前在周三因美元走强和美联储的鹰派言论而承压，下跌超过3%，创下2025年9月以来的最低水平。",
-  "pub_time": "2026-11-19T10:28:52Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "dc5f1fe87461755d99ed63b052001ac9",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "锡"
-  ],
-  "en_title": "Gold Holds Steady After Hitting 14-month Low"
- },
- {
-  "title": "随着交易员权衡供应前景，油价变化不大",
-  "url": "",
-  "summary": "（RTTNews）——周四，油价基本未变，此前一个交易日因市场预期供应过剩即将到来而大幅下跌。",
-  "pub_time": "2026-11-19T10:11:25Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "eecdf8cc1c969b10426c39b39cd7287c",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "供应",
-   "展望"
-  ],
-  "en_title": "Oil Prices Little Changed As Traders Weigh Supply Outlook"
  },
  {
   "title": "Mysteel晚餐：习近平主持中俄美元首会晤，就大国如何正确相处提出4点看法",
