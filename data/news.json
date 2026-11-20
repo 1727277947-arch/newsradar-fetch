@@ -1,5 +1,78 @@
 [
  {
+  "title": "邦吉将大豆供应计划扩展至越南",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-11-20T22:21:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "4d3ae0be312f9f8646855ae031e18253",
+  "score": 84,
+  "priority": "P1",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "大豆",
+   "供应"
+  ],
+  "en_title": "Bunge Expands Soybean Supply Program to Vietnam"
+ },
+ {
+  "title": "国际金价创一年多新低 黄金消费热潮背后这几点要知道",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735605.shtml",
+  "summary": "本周，国际贵金属出现连续下跌。八个交易日内，伦敦现货黄金接连失守每盎司4000美元到每盎司3600美元五道整数关口，本周跌幅逼近9%，较年初历史高点，回撤约36%",
+  "pub_time": "2026-11-20T22:06:22Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "aa07cc73d4d27c1fdc03ad3018cd6fde",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "阿根廷能源公司赶在2027年大选前争相出售债券",
+  "url": "",
+  "summary": "阿根廷的能源行业正迎来辉煌的一年。2026年上半年，由于中东出口量下降以及瓦卡穆埃尔塔页岩油气田的产量强劲，该南美国家的出口量激增，能源贸易差额创下五年来的最佳水平。此外，阿根廷的……",
+  "pub_time": "2026-11-20T22:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "c3ba48b95c7de828ce7310488ef6f3e2",
+  "score": 84,
+  "priority": "P1",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "能源",
+   "锡"
+  ],
+  "en_title": "Argentine Energy Firms Rush to Sell Bonds Before the 2027 Election"
+ },
+ {
   "title": "HSLV 股票挤满了卖家",
   "url": "",
   "summary": "在周五的交易中，Highlander Silver Corp（股票代码：HSLV）的股票进入超卖区域，换手价低至每股 3.025 美元。我们使用相对强弱指数（RSI）来定义超卖区域，这是一种用于衡量超卖幅度的技术分析指标。",
@@ -653,41 +726,13 @@
   "en_title": "WTI Crude Sinks More Than 5% as Global Oil Glut Fears Grow"
  },
  {
-  "title": "随着油价下滑，伊朗加强霍尔木兹油轮袭击",
-  "url": "",
-  "summary": "最近几周，伊朗加大了对霍尔木兹海峡油轮的袭击力度，正当波斯湾原油流量恢复、油价因几个月内供应过剩的预期而下跌之际。 10月份袭击数量飙升至去年年底伊朗战争爆发以来的最高水平",
-  "pub_time": "2026-11-20T12:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "1628e5e6c22932980d86b34556032d99",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "下滑"
-  ],
-  "en_title": "Iran Steps Up Hormuz Tanker Attacks as Oil Prices Slide"
- },
- {
-  "title": "由于矿商面临成本飙升，黄金价格跌至近3500美元",
+  "title": "金价跌至近3500美元，矿商面临成本飙升",
   "url": "",
   "summary": "矿商在第二季度投入了创纪录的每盎司441美元的资本以维持产量，比第一季度增加了34%。",
   "pub_time": "2026-11-20T12:29:03Z",
   "source": "Mining.com",
   "_cat": "贵金属",
-  "dedup_key": "2e09219c0647184807b364c8212e36ed",
+  "dedup_key": "4d2fabd1155ba6bac85430e6649796d5",
   "score": 84,
   "priority": "P1",
   "topic": "贵金属",
@@ -706,7 +751,7 @@
    "价",
    "下跌"
   ],
-  "en_title": "Gold price falls nears $3,500 as miners face soaring costs"
+  "en_title": "Gold price fall nears $3,500 as miners face soaring costs"
  },
  {
   "title": "智利1110亿美元的采矿业繁荣取决于锂矿开采的批准",
