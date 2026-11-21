@@ -1,5 +1,24 @@
 [
  {
+  "title": "（经济观察）金价跌势凌厉 波动或将持续",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735752.shtml",
+  "summary": "中新社北京11月21日电 (陶思阅)国际金价本周一路下探，接连跌破整数关口。21日，现货黄金价格贴近3500美元/盎司，创近14个月新低",
+  "pub_time": "2026-11-21T08:00:11Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "f1b4c58d40396ff1ce2a16ced2a3b1e3",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "再创国内新纪录！中国石油新疆油田裸眼深部取换套试验取得重大突破",
   "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735698.shtml",
   "summary": "孙亭文 刘尚红 高迎春)记者21日从中国石油新疆油田获悉，在新疆油田陆梁油田戈壁井场进行攻关的裸眼深部取换套扩大试验近日顺利收官，圆满完成1819米套管回接与环空固井作业，一举刷新国内深部裸眼取换套最长施工纪录，成为新疆油田套损套变治理技术体系迭代升级的又一标志性成果",
@@ -26,25 +45,6 @@
   "source": "中国新闻网-财经",
   "_cn": true,
   "dedup_key": "220cacb57a4180f69852a81487d76462",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
-  "title": "金价走低带火线下购金：豫园某柜台一上午卖出60余只金手镯",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735622.shtml",
-  "summary": "金价正在持续走低。11月20日亚洲交易时段，伦敦现货黄金价格跌破3600美元/盎司，创2025年9月以来新低。截至北京时间11月20日19时45分，伦敦现货黄金报价3583.88美元/盎司，跌幅1.20%",
-  "pub_time": "2026-11-21T01:12:27Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "90fec16846528f9d82ee071c92cdec7d",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -2879,52 +2879,5 @@
    "白银"
   ],
   "en_title": "Vizsla delays first silver at Panuco by a year"
- },
- {
-  "title": "碳关税“规则革命”已至，钢铁行业如何作答？——齐绍洲详解CBAM对钢铁行业的影响及应对之策",
-  "url": "https://news.mysteel.com/a/26111916/F61E712D1DD73492.html",
-  "summary": "",
-  "pub_time": "2026-11-19T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "aa48f093dafa487d14d5ab044c01e606",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "饲料谷物焦点：集装箱贸易在断断续续的收获中刺激了需求",
-  "url": "",
-  "summary": "引人注目的出口集装箱运费正在提振对制粉小麦和南方大麦的需求，而小麦的蛋白质价差在停产收割期间扩大。",
-  "pub_time": "2026-11-19T07:09:21Z",
-  "source": "GrainCentral",
-  "_cat": "基本金属",
-  "dedup_key": "a918367af99d16f6a933b27827143000",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "燃料",
-   "谷物",
-   "需求"
-  ],
-  "en_title": "Feedgrain Focus: Container trade fuels demand amid fitful harvest"
  }
 ]
