@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T19:48:36",
+ "updated_at": "2026-11-21T20:02:18",
  "spot_meta": {
   "policy": "stale_never_fill",
   "spot_page_used": "2026-11-20",
@@ -6198,6 +6198,60 @@
     "tested": 60
    },
    "reason": "棕榈油今开8278 vs 昨结8406，-1.52%偏弱看空（含夜盘：夜盘开盘8278 vs 昨结8406）；打板分5(一般/观望)：涨-2.14%/收高0%/放量1.12x/连涨0日；预测次日开盘≈8148.32，区间[8136.82, 8159.83]"
+  },
+  {
+   "symbol": "nf_AU0",
+   "name": "沪金",
+   "category": "贵金属",
+   "date": "2026-11-20",
+   "today_open": 771.0,
+   "prev_close": 778.64,
+   "gap_pct": -0.98,
+   "session": "night",
+   "has_night": true,
+   "direction": -1,
+   "label": "做空",
+   "strength": 3,
+   "mean_gap": -0.07,
+   "std_gap": 0.51,
+   "today_close": 758.28,
+   "pred_next_open": 753.616,
+   "pred_low": 751.687,
+   "pred_high": 755.545,
+   "limit_score": 5,
+   "board": "一般/观望",
+   "limit_ru": -2.61,
+   "limit_pos": 0.01,
+   "limit_vol": 1.07,
+   "limit_streak": 0,
+   "day_ma": [
+    824.57,
+    854.9,
+    910.59
+   ],
+   "day_bias": "bear",
+   "atr": 18.74,
+   "sl_long_pct": 1.46,
+   "sl_short_pct": 1.46,
+   "hit_long": 0.25,
+   "hit_short": 0.183,
+   "stop_detail_long": {
+    "atr": 18.74,
+    "k": 0.6,
+    "stop": 759.755,
+    "stop_pct": 1.46,
+    "hit_rate": 0.25,
+    "tested": 60
+   },
+   "stop_detail_short": {
+    "atr": 18.74,
+    "k": 0.6,
+    "stop": 782.245,
+    "stop_pct": 1.46,
+    "hit_rate": 0.183,
+    "tested": 60
+   },
+   "reason": "沪金今开771.000 vs 昨结778.640，-0.98%偏弱看空（含夜盘：夜盘开盘771.000 vs 昨结778.640）；打板分5(一般/观望)：涨-2.61%/收高1%/放量1.07x/连涨0日；预测次日开盘≈753.616，区间[751.687, 755.545]"
   },
   {
    "symbol": "nf_PB0",
