@@ -1328,8 +1328,27 @@
   "is_elite": false
  },
  {
+  "title": "钢市大家谈：铁矿石低位反弹，钢价或先扬后抑",
+  "url": "https://news.mysteel.com/a/26112017/DA5A385C66E187FD.html",
+  "summary": "",
+  "pub_time": "2026-11-20T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "9d1265d056d8e03e51f6f3680b0bab4b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "钢材下游周报：10月汽车家电船舶等产量及出口数据出炉",
-  "url": "https://news.mysteel.com/a/26112017/BAB20D0B5B7D0CC6.html",
+  "url": "https://news.mysteel.com/a/26112017/76EF7FB46F13DEA1.html",
   "summary": "",
   "pub_time": "2026-11-20T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1348,31 +1367,12 @@
  },
  {
   "title": "Mysteel晚餐：钢厂高炉铁水产量减少，铁矿石港库下降",
-  "url": "https://news.mysteel.com/a/26112017/49C01AB1AA686A6B.html",
+  "url": "https://news.mysteel.com/a/26112017/AC2C6352D74ADC59.html",
   "summary": "",
   "pub_time": "2026-11-20T09:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "6af5e54bae96670977493a77e6ccbf9c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "钢市大家谈：铁矿石低位反弹，钢价或先扬后抑",
-  "url": "https://news.mysteel.com/a/26112017/DA5A385C66E187FD.html",
-  "summary": "",
-  "pub_time": "2026-11-20T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "9d1265d056d8e03e51f6f3680b0bab4b",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -2485,25 +2485,6 @@
   "is_elite": false
  },
  {
-  "title": "马来西亚棕榈油日评：棕榈油连续第四日下跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/20/0353487258.shtml",
-  "summary": "",
-  "pub_time": "2026-11-19T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "cd0747ba6a5079f6b160a31b9e1e5ad1",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年11月20日大连玉米期货收盘低开收跌",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/20/0804605234.shtml",
   "summary": "",
@@ -2808,6 +2789,25 @@
   "is_elite": false
  },
  {
+  "title": "马来西亚棕榈油日评：棕榈油连续第四日下跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/20/0353487258.shtml",
+  "summary": "",
+  "pub_time": "2026-11-19T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "cd0747ba6a5079f6b160a31b9e1e5ad1",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "CBOT豆油略微上涨，因油粕套利活跃",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/20/0047954291.shtml",
   "summary": "",
@@ -3016,52 +3016,6 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "GrainCorp 收入跃升至 3.1 吨，向“坦克”50 周年致敬",
-  "url": "",
-  "summary": "GrainCorp 本周的收成量为 1.14 公吨，自 10 月 1 日以来，其内陆地区的收成量已增加至 3.12 公吨，这得益于散货装卸商约翰·“坦克”·凯特 (John 'Tank' Kyte) 50 年的服务。",
-  "pub_time": "2026-11-19T02:32:44Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "fd2618a27893586aac3cff559ace9324",
-  "score": 84,
-  "priority": "P1",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "谷物",
-   "跳涨"
-  ],
-  "en_title": "GrainCorp receivals jump to 3.1Mt, nod to 50 years for ‘Tank’"
- },
- {
-  "title": "【中国证券报】上海钢联王海莲：短期生猪价格维持底部震荡",
-  "url": "https://news.mysteel.com/a/26111910/4421CA97EFA08FC8.html",
-  "summary": "",
-  "pub_time": "2026-11-19T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "9b17757d457befdaa6a8c819837c3a2f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
    "中文",
    "国内",
    "上海钢联Mysteel"
