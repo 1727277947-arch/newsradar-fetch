@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T06:36:33",
+ "updated_at": "2026-11-21T08:58:25",
  "spot_meta": {
   "policy": "stale_never_fill",
   "spot_page_used": "2026-11-20",
@@ -1289,11 +1289,11 @@
    "market": "国际",
    "kind": "future",
    "spot": null,
-   "future": 92.64,
+   "future": 92.57,
    "basis": null,
    "basis_pct": null,
-   "change": 0.66,
-   "change_pct": 0.72,
+   "change": 0.59,
+   "change_pct": 0.64,
    "trend": "up",
    "source": "oilprice.com(期货)",
    "note": "期货价格(延迟)"
@@ -1325,11 +1325,11 @@
    "market": "国际",
    "kind": "future",
    "spot": null,
-   "future": 2.5024,
+   "future": 2.5027,
    "basis": null,
    "basis_pct": null,
-   "change": 0.007,
-   "change_pct": 0.29,
+   "change": 0.008,
+   "change_pct": 0.3,
    "trend": "up",
    "source": "oilprice.com(期货)",
    "note": "期货价格(延迟)"

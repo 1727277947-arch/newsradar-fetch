@@ -1,5 +1,33 @@
 [
  {
+  "title": "石油价格陷入迫在眉睫的供过于求和中东动荡之间",
+  "url": "",
+  "summary": "由于对即将到来的盈余的预测与中东持续的袭击和外交停滞相冲突，过去几个交易日油价一直在窄幅波动。本月一系列机构报告推高了对供应过剩的预期，并对原油造成压力。布伦特原油上涨0.22%",
+  "pub_time": "2026-11-21T00:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "b73146bc5de44abc8ec6555fc6fb49c5",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "过剩"
+  ],
+  "en_title": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil"
+ },
+ {
   "title": "邦吉将大豆供应计划扩展至越南",
   "url": "",
   "summary": "",
@@ -698,34 +726,6 @@
   "en_title": "Iraq's Oil Crackdown Sparks New Showdown With Kurdistan"
  },
  {
-  "title": "随着全球石油过剩担忧加剧，WTI 原油下跌超过 5%",
-  "url": "",
-  "summary": "石油市场本周一直在权衡全球供应增加与中东进一步中断的风险。该地区的买家正在购买更多的原油，而美国的库存正在增加。对油轮和能源基础设施的袭击仍然是一个威胁，但尚未消除",
-  "pub_time": "2026-11-20T12:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "6c0a5cad81b5904b7ff40db51698d47f",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "WTI油价",
-   "过剩"
-  ],
-  "en_title": "WTI Crude Sinks More Than 5% as Global Oil Glut Fears Grow"
- },
- {
   "title": "金价跌至近3500美元，矿商面临成本飙升",
   "url": "",
   "summary": "矿商在第二季度投入了创纪录的每盎司441美元的资本以维持产量，比第一季度增加了34%。",
@@ -834,13 +834,13 @@
   "en_title": "Oil Headed For Third Weekly Loss On Glut Fears"
  },
  {
-  "title": "Mysteel晚餐：钢厂高炉铁水产量减少，铁矿石港库下降",
+  "title": "Mysteel晚餐：钢厂高炉铁水产量减少",
   "url": "https://news.mysteel.com/a/26112017/9F30CC707A73A3FE.html",
   "summary": "",
   "pub_time": "2026-11-20T09:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "6af5e54bae96670977493a77e6ccbf9c",
+  "dedup_key": "aab922914d171480c6de2518c50a938d",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -872,6 +872,63 @@
   "is_elite": false
  },
  {
+  "title": "钢材下游周报：10月汽车家电等产量及出口数据出炉",
+  "url": "https://news.mysteel.com/a/26112017/24BA60E2F8F521B0.html",
+  "summary": "",
+  "pub_time": "2026-11-20T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "b71122c4f073dacab31cde05849534fe",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/产业经济",
+  "tags": [
+   "产业经济",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "钢材下游周报：10月汽车家电船舶等产量及出口数据出炉",
+  "url": "https://news.mysteel.com/a/26112017/BAB20D0B5B7D0CC6.html",
+  "summary": "",
+  "pub_time": "2026-11-20T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "3e87992bf72ba62d3713436696e097fb",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/产业经济",
+  "tags": [
+   "产业经济",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel晚餐：钢厂高炉铁水产量减少，铁矿石港库下降",
+  "url": "https://news.mysteel.com/a/26112017/49C01AB1AA686A6B.html",
+  "summary": "",
+  "pub_time": "2026-11-20T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "6af5e54bae96670977493a77e6ccbf9c",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "关键矿产日报：2027铜精矿长单TC谈判待落定，硅铁日产跌破1.6万吨",
   "url": "https://news.mysteel.com/a/26112017/638303DBB529E806.html",
   "summary": "",
@@ -884,6 +941,25 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "钢市大家谈：铁矿石低位反弹，钢价或先扬后抑",
+  "url": "https://news.mysteel.com/a/26112017/DA5A385C66E187FD.html",
+  "summary": "",
+  "pub_time": "2026-11-20T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "9d1265d056d8e03e51f6f3680b0bab4b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -930,7 +1006,7 @@
  },
  {
   "title": "黑色持仓日报：焦炭涨3.12%，国泰君安增持近2千手多单",
-  "url": "https://news.mysteel.com/a/26112015/5D7BF0C4D5295DD8.html",
+  "url": "https://news.mysteel.com/a/26112015/1190016F2D2E11F2.html",
   "summary": "",
   "pub_time": "2026-11-20T07:00:00Z",
   "source": "上海钢联Mysteel",
@@ -2387,59 +2463,8 @@
   "en_title": "Vizsla delays first silver at Panuco by a year"
  },
  {
-  "title": "随着全球风险加剧，央行重新审视黄金",
-  "url": "",
-  "summary": "一份新的OMFIF报告探讨了储备策略的转变、数字黄金技术以及散户投资者对价格的影响。",
-  "pub_time": "2026-11-19T14:00:00Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "933c9550da45ddc5f39d76c5d09ea8d5",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Central banks rethink gold as global risks mount"
- },
- {
-  "title": "智利以违反粉尘排放规定为由威胁吊销Codelco矿山的许可证",
-  "url": "",
-  "summary": "环境监管机构表示，Ministro Hales的粉尘控制不力可能会导致罚款、停业或吊销许可证。",
-  "pub_time": "2026-11-19T11:36:00Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "dfe7edef283cfca2dc4186f5627a9bbd",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Chile threatens Codelco mine permit over dust violations"
- },
- {
   "title": "Mysteel晚餐：习近平主持中俄美元首会晤，就大国如何正确相处提出4点看法",
-  "url": "https://news.mysteel.com/a/26111917/D16853F342D057F8.html",
+  "url": "https://news.mysteel.com/a/26111917/C599C2587CA70B91.html",
   "summary": "",
   "pub_time": "2026-11-19T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -2450,25 +2475,6 @@
   "topic": "国内/政治军事",
   "tags": [
    "政治军事",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel：本周钢材社会库存减少17.97万吨（11月13日-11月19日）",
-  "url": "https://news.mysteel.com/a/26111916/6D5CE894B78880FD.html",
-  "summary": "",
-  "pub_time": "2026-11-19T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "9b5dd171db84b1563a5330fb1be31d11",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -2752,51 +2758,6 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "西澳州正在仔细研究三种油菜品种的不稳定表现",
-  "url": "",
-  "summary": "WAFarmers正在对种植者进行调查，以评估三种未达到预期效果的油菜品种的明显减产程度。",
-  "pub_time": "2026-11-19T00:37:55Z",
-  "source": "GrainCentral",
-  "_cat": "基本金属",
-  "dedup_key": "308236fba7c65333a76d616a7312a4df",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "锡"
-  ],
-  "en_title": "Patchy performance of three canola varieties under scrutiny in WA"
- },
- {
-  "title": "国际金价跌破3800美元",
-  "url": "https://news.mysteel.com/a/26111908/632857B5E0FF1985.html",
-  "summary": "",
-  "pub_time": "2026-11-19T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "0aacd6dac731aebeba302e5f4ba835a7",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
    "中文",
    "国内",
    "上海钢联Mysteel"
