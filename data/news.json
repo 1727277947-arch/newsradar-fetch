@@ -1,5 +1,31 @@
 [
  {
+  "title": "全球竞争加剧，美国能源出口创历史新高",
+  "url": "",
+  "summary": "美国石油和天然气产量和出口能力的上升，以及伊朗战争导致的全球能源贸易流向的转变，帮助美国今年的原油、燃料和液化天然气出口创下历史新高。自2016年开始液化天然气出口、允许原油运输以来的十年间",
+  "pub_time": "2026-11-22T22:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "34d7e7d741c5d1198c2017ca9bf29a33",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "出口"
+  ],
+  "en_title": "U.S. Energy Exports Hit Records as Global Competition Intensifies"
+ },
+ {
   "title": "加州的野火危机正在威胁其能源未来",
   "url": "",
   "summary": "自然灾害的成本对公用事业公司造成了沉重打击，因为它们需要加大投资力度来加强输电基础设施并为恢复工作提供财政支持。在加利福尼亚州，一些公用事业公司的成本因更频繁的野火而增加，限制了他们的支出",
@@ -669,59 +695,5 @@
    "过剩"
   ],
   "en_title": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil"
- },
- {
-  "title": "邦吉将大豆供应计划扩展至越南",
-  "url": "",
-  "summary": "",
-  "pub_time": "2026-11-20T22:21:00Z",
-  "source": "Grainnet",
-  "_cat": "农产品",
-  "dedup_key": "4d3ae0be312f9f8646855ae031e18253",
-  "score": 84,
-  "priority": "P1",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "大豆",
-   "供应"
-  ],
-  "en_title": "Bunge Expands Soybean Supply Program to Vietnam"
- },
- {
-  "title": "阿根廷能源公司赶在2027年大选前争相出售债券",
-  "url": "",
-  "summary": "阿根廷的能源行业正迎来辉煌的一年。2026年上半年，由于中东出口量下降以及瓦卡穆埃尔塔页岩油气田的产量强劲，该南美国家的出口量激增，能源贸易差额创下五年来的最佳水平。此外，阿根廷的……",
-  "pub_time": "2026-11-20T22:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "c3ba48b95c7de828ce7310488ef6f3e2",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "能源",
-   "锡"
-  ],
-  "en_title": "Argentine Energy Firms Rush to Sell Bonds Before the 2027 Election"
  }
 ]
