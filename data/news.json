@@ -269,44 +269,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年11月22日吉林延边新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/22/3724883151.shtml",
-  "summary": "",
-  "pub_time": "2026-11-21T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "586a23294a3dfdf352845f3aa7e18b75",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年11月22日黑龙江双鸭山新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/22/3704515599.shtml",
-  "summary": "",
-  "pub_time": "2026-11-21T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "dd662f755e39927747c294fc8d998a68",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年11月22日河南省濮阳西田镇新季大豆价格行情",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/22/2121925650.shtml",
   "summary": "",
@@ -452,6 +414,44 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月22日吉林延边新季玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/22/3724883151.shtml",
+  "summary": "",
+  "pub_time": "2026-11-21T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "b6db8526bc85cdc85bdbd16d54e79f40",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月22日黑龙江双鸭山新季玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/22/3704515599.shtml",
+  "summary": "",
+  "pub_time": "2026-11-21T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "6b04424a10029a8b6fa6d16abf82f63a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "粮油首页"
@@ -1514,30 +1514,5 @@
    "黄金"
   ],
   "en_title": "Xplor 2026: Vior plans 30,000 metres to test Ligneris gold discovery"
- },
- {
-  "title": "智利1110亿美元的采矿业繁荣取决于锂矿开采的批准",
-  "url": "",
-  "summary": "智利的锂投资储备已翻了一番多，达到108亿美元（155亿加元），占该国矿业项目组合增长的大部分……这篇题为《智利1110亿美元的矿业繁荣取决于锂矿审批》的文章最初发表在《北方矿工报》上。",
-  "pub_time": "2026-11-20T13:15:00Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "15c02965a497ee2193b491bcdffd22e1",
-  "score": 84,
-  "priority": "P2",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Chile’s $111B mining boom hinges on lithium approvals"
  }
 ]
