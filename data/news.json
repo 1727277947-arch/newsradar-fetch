@@ -1,24 +1,5 @@
 [
  {
-  "title": "黑龙江漠河迎来寒地试车黄金季",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736068.shtml",
-  "summary": "中新社黑龙江漠河11月22日电 (记者 田德雨)小雪节气，漠河雪原寒气扑面。漠河极北寒地测试基地内白雪飞扬，轿车、SUV、MPV及轻型卡车依次上阵，在环形道、冰雪坡道上轮番测试",
-  "pub_time": "2026-11-22T07:40:04Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "b7afaa959d62fa61dd4f51705ef6dea6",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
   "title": "锡山青云先进材料智造服务基地项目开工",
   "url": "https://news.mysteel.com/a/26112211/65391857B7A87765.html",
   "summary": "",
@@ -1558,33 +1539,5 @@
    "基本金属"
   ],
   "en_title": "Chile’s $111B mining boom hinges on lithium approvals"
- },
- {
-  "title": "金价跌至近3500美元，矿商面临成本飙升",
-  "url": "",
-  "summary": "矿商在第二季度投入了创纪录的每盎司441美元的资本以维持产量，比第一季度增加了34%。",
-  "pub_time": "2026-11-20T12:29:03Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "4d2fabd1155ba6bac85430e6649796d5",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "价",
-   "下跌"
-  ],
-  "en_title": "Gold price fall nears $3,500 as miners face soaring costs"
  }
 ]
