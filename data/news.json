@@ -1,5 +1,122 @@
 [
  {
+  "title": "康菲石油公司将通过与Vår Energi的44亿美元交易退出挪威市场",
+  "url": "",
+  "summary": "美国石油天然气巨头康菲石油公司（ConocoPhillips）周一表示，该公司将以44.25亿美元的价格，将其在挪威的业务以及在英国一家石油码头持有的40%股份出售给挪威的Vår Energi公司。此举正值挪威大陆架持续整合之际。康菲石油公司已签订最终协议，将出售",
+  "pub_time": "2026-11-23T11:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "6cdb95b5b534faadd5717cfa54e27178",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "ConocoPhillips to Exit Norway in $4.4 Billion Deal With Vår Energi"
+ },
+ {
+  "title": "金价在空头回补中反弹",
+  "url": "",
+  "summary": "（RTTNews）——周一，在美联储发表鹰派言论以及人工智能板块股票大跌的背景下，黄金价格在经历自疫情以来的最大单周跌幅后出现反弹。",
+  "pub_time": "2026-11-23T10:09:46Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "6147f624f04a27695376878a15b63e37",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Gold Rebounds Amid Short Covering"
+ },
+ {
+  "title": "Mysteel黑色金属例会：本周钢市或震荡偏弱",
+  "url": "https://news.mysteel.com/a/26112318/3C95E382269CC6C5.html",
+  "summary": "",
+  "pub_time": "2026-11-23T10:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "d22e5350e4131df3775893b531e3c4d5",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "每日钢市：螺纹钢期货3000关口拉锯，钢价反弹乏力",
+  "url": "https://news.mysteel.com/a/26112318/4A9791B0EB56C142.html",
+  "summary": "",
+  "pub_time": "2026-11-23T10:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "7ccbf4d0124568ec67046191f9c4465c",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "随着交易员权衡供应过剩的风险，油价跌幅扩大",
+  "url": "",
+  "summary": "（RTTNews）——周一，油价走低，进入连续第四周下跌，原因是市场预期全球供应将增加。",
+  "pub_time": "2026-11-23T09:47:02Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "4fe456b24c5c69c8ec22bad43c024126",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "供应",
+   "过剩"
+  ],
+  "en_title": "Oil Extends Losses As Traders Weigh Supply Glut Risks"
+ },
+ {
   "title": "武装团体封锁关键输油管道，利比亚石油产量暴跌",
   "url": "",
   "summary": "利比亚国家石油公司周一表示，在非法武装组织关闭了从该国最大油田沙拉拉输送原油的管道阀门后，利比亚的石油产量骤降约35万桶/天。利比亚国家石油公司谴责此次关闭，这加剧了",
@@ -131,6 +248,25 @@
   "is_elite": false
  },
  {
+  "title": "Mysteel日报：黑色金属期货价格震荡上涨运行",
+  "url": "https://news.mysteel.com/a/26112316/23777533C0EAE189.html",
+  "summary": "",
+  "pub_time": "2026-11-23T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "26df882534f5f2c8e5048ce9a1760516",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "黑色持仓日报：期螺飘绿，中信期货减持超1.7万手多单",
   "url": "https://news.mysteel.com/a/26112315/97613CF4FF5C5423.html",
   "summary": "",
@@ -143,6 +279,25 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel解读：国内废钢库存年内高位 供强需弱价格承压",
+  "url": "https://news.mysteel.com/a/26112315/C9CDCEC2B293D5C7.html",
+  "summary": "",
+  "pub_time": "2026-11-23T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "1c0691c3afd9ba3b2c83741a1372e6a5",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -324,25 +479,6 @@
   "en_title": "Oil Prices Slide as AI Bubble Fears Rattle Global Markets"
  },
  {
-  "title": "Mysteel：旺季预期与高库存博弈，港口动力煤行情进入弱平衡窗口",
-  "url": "https://news.mysteel.com/a/26112313/650156EE4A1471B3.html",
-  "summary": "",
-  "pub_time": "2026-11-23T05:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "e61c056a38f61a8b446e17f1a2a8a724",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "前三季度，先进钢铁材料制造等领域新设企业增速超过4%",
   "url": "https://news.mysteel.com/a/26112313/6CAB216CD18DF8F5.html",
   "summary": "",
@@ -408,7 +544,7 @@
  },
  {
   "title": "Mysteel午报：钢价下跌为主，黑色期货飘绿",
-  "url": "https://news.mysteel.com/a/26112311/C722BD05A7C05409.html",
+  "url": "https://news.mysteel.com/a/26112311/3FD75C6E8010146C.html",
   "summary": "",
   "pub_time": "2026-11-23T03:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1094,25 +1230,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年11月23日大连玉米期货收盘低开收跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/0449212569.shtml",
-  "summary": "",
-  "pub_time": "2026-11-22T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "157760e206057a37f4aaaa56fd1501a0",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
   "title": "11月23日进口大豆到国内港口CF及升贴水报价",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/4021282663.shtml",
   "summary": "",
@@ -1481,6 +1598,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "ebd700c08e1a7aec638a1f8f82030941",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月23日大连玉米期货收盘低开收跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/0449212569.shtml",
+  "summary": "",
+  "pub_time": "2026-11-22T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "f435fa067fa5670ebd59efa2efbe457c",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
