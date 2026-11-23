@@ -1,5 +1,103 @@
 [
  {
+  "title": "旨在帮助最大限度发挥产量潜力的全国作物种植项目",
+  "url": "",
+  "summary": "一个耗资1120万澳元的新项目将整合研究、商业创新和实用推广，以改善澳大利亚各地的作物建苗情况，谷物种植者将从中受益。",
+  "pub_time": "2026-11-23T06:13:35Z",
+  "source": "GrainCentral",
+  "_cat": "农产品",
+  "dedup_key": "dd36fdd37ea52f4aec0a29fd4ede651d",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品"
+  ],
+  "en_title": "National crop establishment project to help maximise yield potential"
+ },
+ {
+  "title": "艾尔半岛受风暴破坏，导致产量预期下降",
+  "url": "",
+  "summary": "周四袭击埃尔半岛的强对流风暴对油菜和小麦作物造成了最严重的破坏。",
+  "pub_time": "2026-11-23T06:11:53Z",
+  "source": "GrainCentral",
+  "_cat": "农产品",
+  "dedup_key": "79bf6832693aeebfbc0efa7e7a27db24",
+  "score": 84,
+  "priority": "P1",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "展望"
+  ],
+  "en_title": "Storm damage on Eyre Peninsula cuts yield outlook"
+ },
+ {
+  "title": "Mysteel周报：机械制造业原材料价格监测（11.14-11.21）",
+  "url": "https://news.mysteel.com/a/26112314/04C296075B615E44.html",
+  "summary": "",
+  "pub_time": "2026-11-23T06:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "5264c9f0047ed081f8bb762dfe401bcd",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/产业经济",
+  "tags": [
+   "产业经济",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "人工智能泡沫的担忧令全球市场震荡，油价随之下跌",
+  "url": "",
+  "summary": "受对人工智能经济增长潜力的疑虑所引发的股市抛售也波及大宗商品，尽管波斯湾的油轮袭击事件仍在持续，但原油价格今日仍被拖累走低。截至撰写本文时，布伦特原油的交易价格为每桶 92.55 美元，西德克萨斯",
+  "pub_time": "2026-11-23T05:50:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "5d504e2e9e93336e9b9578c0ad908f87",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "下滑"
+  ],
+  "en_title": "Oil Prices Slide as AI Bubble Fears Rattle Global Markets"
+ },
+ {
   "title": "金价十连跌 抢金潮再现",
   "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736374.shtml",
   "summary": "连续十个交易日价格回调，这一轮金价变动正在搅动2026年末的黄金消费市场。随着伦敦现货黄金失守3600美元/盎司，消费市场迎来小高潮",
@@ -15,6 +113,25 @@
    "中文",
    "国内",
    "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "前三季度，先进钢铁材料制造等领域新设企业增速超过4%",
+  "url": "https://news.mysteel.com/a/26112313/6CAB216CD18DF8F5.html",
+  "summary": "",
+  "pub_time": "2026-11-23T05:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "7fd7b72d20e84e304ba59dd3425c9c31",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
   ],
   "is_elite": false
  },
@@ -520,44 +637,6 @@
   "is_elite": false
  },
  {
-  "title": "瑞达期货：贵金属压力不减",
-  "url": "https://news.mysteel.com/a/26112309/5FF182C8CC6052C2.html",
-  "summary": "",
-  "pub_time": "2026-11-23T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "cce4459a28b8ca994adf3b7beb38c73b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "一德期货：技术上，贵金属板块延续调整格局",
-  "url": "https://news.mysteel.com/a/26112309/09A6D6289AAEFCEE.html",
-  "summary": "",
-  "pub_time": "2026-11-23T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "869980c69a4acf9220bbbb6e318cd5ac",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "黑色期货早报：全部下跌，多机构料螺纹钢震荡运行",
   "url": "https://news.mysteel.com/a/26112309/706AC8CAD04710B3.html",
   "summary": "",
@@ -827,63 +906,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年11月23日大连玉米期货行情午报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/4328559189.shtml",
-  "summary": "",
-  "pub_time": "2026-11-22T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "2261953b5c9f4f83ae6a36fbe6beb911",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年11月23日大连玉米期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/1243682932.shtml",
-  "summary": "",
-  "pub_time": "2026-11-22T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "38f86bcfc998b08bfd07e495a9c26e33",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
-  "title": "BAGE：截止11月18日，阿根廷2026/27年度玉米播种完成51.5%",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/1918939600.shtml",
-  "summary": "",
-  "pub_time": "2026-11-22T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "2b2349eb2534840f7237b3c63b8001ef",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年11月23日大连大豆期货行情午报",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/3655810584.shtml",
   "summary": "",
@@ -1043,6 +1065,63 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "ebd700c08e1a7aec638a1f8f82030941",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月23日大连玉米期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/4328559189.shtml",
+  "summary": "",
+  "pub_time": "2026-11-22T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "04858090d4929ee0e289d9139ba2a8b2",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月23日大连玉米期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/1243682932.shtml",
+  "summary": "",
+  "pub_time": "2026-11-22T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "7487106f81ec63f44e3103f575aac2a2",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "BAGE：截止11月18日，阿根廷2026/27年度玉米播种完成51.5%",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/1918939600.shtml",
+  "summary": "",
+  "pub_time": "2026-11-22T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "df34218962577e0b8d435aa64d559d66",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
