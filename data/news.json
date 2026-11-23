@@ -1,5 +1,30 @@
 [
  {
+  "title": "巴基斯坦地面景观：今天超越雷科迪克",
+  "url": "",
+  "summary": "伊斯兰堡的一次报道之旅揭示了巴基斯坦北部的矿产机会，尽管其旗舰铜矿项目正在放缓。",
+  "pub_time": "2026-11-23T12:30:00Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "ac5394c68c3ef2b70aad7259686acdb7",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Ground View Pakistan: Beyond Reko Diq, today"
+ },
+ {
   "title": "康菲石油公司将通过与Vår Energi的44亿美元交易退出挪威市场",
   "url": "",
   "summary": "美国石油天然气巨头康菲石油公司（ConocoPhillips）周一表示，该公司将以44.25亿美元的价格，将其在挪威的业务以及在英国一家石油码头持有的40%股份出售给挪威的Vår Energi公司。此举正值挪威大陆架持续整合之际。康菲石油公司已签订最终协议，将出售",
@@ -142,6 +167,33 @@
    "产量"
   ],
   "en_title": "Libya’s Oil Output Plunges as Armed Groups Shut Key Pipelines"
+ },
+ {
+  "title": "希腊金矿埃尔多拉多即将投产",
+  "url": "",
+  "summary": "目前，斯库里斯有四台尾矿压滤机正在运行，该公司的目标是年底产量。",
+  "pub_time": "2026-11-23T09:43:00Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "8ca871d504d6ff4828e0f3430f720cd5",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "产量"
+  ],
+  "en_title": "Eldorado moves closer to production at Greek gold mine"
  },
  {
   "title": "Mysteel晚餐：沙钢中天最新调价",
@@ -305,25 +357,6 @@
   "is_elite": false
  },
  {
-  "title": "有色持仓日报：沪铜跌1.08%，中信期货减持近2千手空单",
-  "url": "https://news.mysteel.com/a/26112315/28174F24AC520E3C.html",
-  "summary": "",
-  "pub_time": "2026-11-23T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "9bf50cbfa46287e143e54901c35aa3b9",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "寒潮预报威胁紧张库存，欧洲天然气价格飙升",
   "url": "https://news.mysteel.com/a/26112315/AF4C6A67D2E0184E.html",
   "summary": "",
@@ -374,6 +407,25 @@
   "topic": "国内/金融政策",
   "tags": [
    "金融政策",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "有色持仓日报：沪铜跌1.08%，中信期货减持近2千手空单",
+  "url": "https://news.mysteel.com/a/26112315/A5A3195319CD4264.html",
+  "summary": "",
+  "pub_time": "2026-11-23T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "9bf50cbfa46287e143e54901c35aa3b9",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -2222,25 +2274,6 @@
    "中文",
    "国内",
    "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel宏观周报：《中俄美元首和平宣言》发表，10月中国经济数据出炉",
-  "url": "https://news.mysteel.com/a/26112122/E834E035EED6AEB1.html",
-  "summary": "",
-  "pub_time": "2026-11-21T14:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "e25f048b6094fd5636a859a951597183",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/政治军事",
-  "tags": [
-   "政治军事",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
   ],
   "is_elite": false
  }
