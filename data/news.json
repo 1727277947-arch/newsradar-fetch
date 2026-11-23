@@ -1,5 +1,114 @@
 [
  {
+  "title": "每日市场快讯 2026 年 11 月 23 日",
+  "url": "",
+  "summary": "股市暴跌和美元走强令整个市场承压；澳元每周下跌 2%。南美洲天气扰乱盛行；澳大利亚东部持续暴风雨。",
+  "pub_time": "2026-11-23T00:06:08Z",
+  "source": "GrainCentral",
+  "_cat": "基本金属",
+  "dedup_key": "6c86de2cc0142da72913df145c1fa609",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属"
+  ],
+  "en_title": "Daily Market Wire 23 November 2026"
+ },
+ {
+  "title": "石油市场押注尚未到来的盈余",
+  "url": "",
+  "summary": "由于对即将到来的盈余的预测与中东持续的袭击和外交停滞相冲突，过去几个交易日油价一直在窄幅波动。本月一系列机构报告推高了对供应过剩的预期，并对原油造成压力。布伦特原油上涨 1.1%",
+  "pub_time": "2026-11-23T00:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "be25dcd96135265856bd8d0d8f31ef7d",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "锡"
+  ],
+  "en_title": "Oil Markets Are Betting on a Surplus That Hasn't Arrived Yet"
+ },
+ {
+  "title": "Mysteel早读：三项稳市场政策推出",
+  "url": "https://news.mysteel.com/a/26112307/FFDB1BE8FC9142D5.html",
+  "summary": "",
+  "pub_time": "2026-11-22T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "88fa29d0f4485d2ed3a8c6bfa27372a5",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "黄金连连溃败，逼近3500美元关口！华尔街齐呼：已跌入超卖区域",
+  "url": "https://news.mysteel.com/a/26112307/49D630B75A23A0DD.html",
+  "summary": "",
+  "pub_time": "2026-11-22T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "2053e66e563de4c430567b2b879e42fd",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel早读：三项稳市场政策推出，永钢螺纹降80元",
+  "url": "https://news.mysteel.com/a/26112307/D721BAD2A5E9407F.html",
+  "summary": "",
+  "pub_time": "2026-11-22T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "c9a86a103e61d1ef596caa5183d41b2f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "全球竞争加剧，美国能源出口创历史新高",
   "url": "",
   "summary": "美国石油和天然气产量和出口能力的上升，以及伊朗战争导致的全球能源贸易流向的转变，帮助美国今年的原油、燃料和液化天然气出口创下历史新高。自2016年开始液化天然气出口、允许原油运输以来的十年间",
@@ -75,6 +184,63 @@
    "能源"
   ],
   "en_title": "Google Backs Superhot Geothermal in 50 MW Oregon Power Deal"
+ },
+ {
+  "title": "BAGE：截止11月18日，阿根廷2026/27年度玉米播种完成51.5%",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/1918939600.shtml",
+  "summary": "",
+  "pub_time": "2026-11-22T16:00:00Z",
+  "source": "粮油玉米",
+  "_cn": true,
+  "dedup_key": "2b2349eb2534840f7237b3c63b8001ef",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油玉米"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "BAGE：截至11月18日，阿根廷大豆播种进度为30.4%",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/1950206026.shtml",
+  "summary": "",
+  "pub_time": "2026-11-22T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "601c7ab7412de1f99a60275cce619fef",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "BAGE：阿根廷小麦收获进度16.7%，产量预期维持不变",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/1815464264.shtml",
+  "summary": "",
+  "pub_time": "2026-11-22T16:00:00Z",
+  "source": "粮油小麦",
+  "_cn": true,
+  "dedup_key": "c133d336033aaedefd5941d0d3b391e1",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油小麦"
+  ],
+  "is_elite": false
  },
  {
   "title": "创14个月新低 国际金价走势与地缘政治局势变化有何关联？",
@@ -346,25 +512,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年11月22日辽宁朝阳新季玉米价格行情",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/22/4525210927.shtml",
-  "summary": "",
-  "pub_time": "2026-11-21T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "2c6eba904455f917fcf0a6bf523f7ae9",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年11月22日河南省濮阳西田镇新季大豆价格行情",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/22/2121925650.shtml",
   "summary": "",
@@ -517,6 +664,25 @@
   "is_elite": false
  },
  {
+  "title": "2026年11月22日辽宁朝阳新季玉米价格行情",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/22/4525210927.shtml",
+  "summary": "",
+  "pub_time": "2026-11-21T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "72bf6d9a3bf81a354b717b390ec7af4d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年11月22日吉林延边新季玉米价格行情",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/22/3724883151.shtml",
   "summary": "",
@@ -631,25 +797,6 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel宏观周报：《中俄美元首和平宣言》发表",
-  "url": "https://news.mysteel.com/a/26112122/666B00A6C4354345.html",
-  "summary": "",
-  "pub_time": "2026-11-21T14:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "320173c8956665eb1674eed555a70ee6",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/政治军事",
-  "tags": [
-   "政治军事",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel宏观周报：《中俄美元首和平宣言》发表，10月中国经济数据出炉",
   "url": "https://news.mysteel.com/a/26112122/E834E035EED6AEB1.html",
   "summary": "",
@@ -667,33 +814,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "石油价格陷入迫在眉睫的供过于求和中东动荡之间",
-  "url": "",
-  "summary": "由于对即将到来的盈余的预测与中东持续的袭击和外交停滞相冲突，过去几个交易日油价一直在窄幅波动。本月一系列机构报告推高了对供应过剩的预期，并对原油造成压力。布伦特原油上涨0.22%",
-  "pub_time": "2026-11-21T00:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "b73146bc5de44abc8ec6555fc6fb49c5",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "过剩"
-  ],
-  "en_title": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil"
  }
 ]
