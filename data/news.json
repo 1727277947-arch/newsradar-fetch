@@ -1,5 +1,24 @@
 [
  {
+  "title": "应急管理部发布关于深刻吸取土耳其哈巴斯钢铁厂事故教训加强钢铁企业安全生产工作的通知",
+  "url": "https://news.mysteel.com/a/26112411/86FBFB2E97EAC84C.html",
+  "summary": "",
+  "pub_time": "2026-11-24T03:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "89e9f07cb90366437b4f373b1a498d44",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "Mysteel周报：10大城市新房成交同比下降28.3%",
   "url": "https://news.mysteel.com/a/26112410/A8154710393E7BD0.html",
   "summary": "",
@@ -933,6 +952,25 @@
   "is_elite": false
  },
  {
+  "title": "2026年11月24日大连豆粕期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/3521457577.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "9e8a8c5a7dc5e9dee4f9afb8d59b8fa8",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年11月24日大连豆粕期货行情早报",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/0205282141.shtml",
   "summary": "",
@@ -967,6 +1005,25 @@
    "中文",
    "国内",
    "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月24日大连玉米期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/3231975577.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油玉米",
+  "_cn": true,
+  "dedup_key": "50aa288693cf83598737a3c8d56d47fd",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油玉米"
   ],
   "is_elite": false
  },
@@ -1024,6 +1081,25 @@
    "中文",
    "国内",
    "粮油玉米"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月24日大连大豆期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/3502288762.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "46e7b07204ea78c5a943156f15dd73ae",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
   ],
   "is_elite": false
  },
@@ -1119,6 +1195,63 @@
    "中文",
    "国内",
    "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月24日大连棕榈油期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/3538663120.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "ff17b2f7dcba6e15f16b6a6c900eae2f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月24日郑州菜油期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/3054313007.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "107bded70d4f815e80d1eeb5151dc2fb",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月24日大连豆油期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/3002747390.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "3b841d3f0d34df6aa692d04a1b2a012b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
   ],
   "is_elite": false
  },
@@ -1237,6 +1370,25 @@
   "is_elite": false
  },
  {
+  "title": "2026年11月24日郑州菜粕期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/3139229419.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "77e8a36d65e4c1f3e72eebb4614dfb29",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年11月24日郑州菜粕期货行情早报",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/0215815101.shtml",
   "summary": "",
@@ -1282,6 +1434,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "03f7a8a603f22c8c146d921fc49a571c",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月24日大连粳米期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/3504989481.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "cf2d9a820d22714d325afb79fe848d4b",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -2298,25 +2469,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年11月23日大连大豆期货收盘高开收涨",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/0359345655.shtml",
-  "summary": "",
-  "pub_time": "2026-11-22T16:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "778bdc76301c2c4dabb8f432817e8cf0",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
   "title": "11月23日进口油菜籽到国内港口CF报价",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/3952582196.shtml",
   "summary": "",
@@ -2332,6 +2484,25 @@
    "中文",
    "国内",
    "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月23日大连大豆期货收盘高开收涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/0359345655.shtml",
+  "summary": "",
+  "pub_time": "2026-11-22T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "d6a09745987e93ca2c382f9f7020582d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
   ],
   "is_elite": false
  },
@@ -2488,44 +2659,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年11月23日郑州菜油期货收盘低开收跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/0343221916.shtml",
-  "summary": "",
-  "pub_time": "2026-11-22T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "ac3270741bdef0f26820436ebccd3275",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年11月23日大连豆油期货低开收跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/0207627319.shtml",
-  "summary": "",
-  "pub_time": "2026-11-22T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "b93234abce58eb38ed607c91cfc991e9",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年11月23日大连棕榈油期货行情午报",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/3803206404.shtml",
   "summary": "",
@@ -2545,13 +2678,13 @@
   "is_elite": false
  },
  {
-  "title": "2026年11月23日郑州菜油期货行情午报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/3052415475.shtml",
+  "title": "2026年11月23日郑州菜油期货收盘低开收跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/0343221916.shtml",
   "summary": "",
   "pub_time": "2026-11-22T16:00:00Z",
   "source": "粮油首页",
   "_cn": true,
-  "dedup_key": "0ffc237572cc40dfa017565d484d5b2e",
+  "dedup_key": "ac3270741bdef0f26820436ebccd3275",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -2564,13 +2697,13 @@
   "is_elite": false
  },
  {
-  "title": "2026年11月23日郑州菜油期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/0034772350.shtml",
+  "title": "2026年11月23日郑州菜油期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/3052415475.shtml",
   "summary": "",
   "pub_time": "2026-11-22T16:00:00Z",
   "source": "粮油首页",
   "_cn": true,
-  "dedup_key": "3f57e3866f3b11e9904d5fdaa9381435",
+  "dedup_key": "0ffc237572cc40dfa017565d484d5b2e",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -2830,6 +2963,25 @@
   "is_elite": false
  },
  {
+  "title": "2026年11月23日郑州菜油期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/0034772350.shtml",
+  "summary": "",
+  "pub_time": "2026-11-22T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "3f57e3866f3b11e9904d5fdaa9381435",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年11月23日大连豆油期货行情早报",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/5947923083.shtml",
   "summary": "",
@@ -2849,13 +3001,13 @@
   "is_elite": false
  },
  {
-  "title": "2026年11月23日大连豆油期货行情午报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/3014352911.shtml",
+  "title": "2026年11月23日大连豆油期货低开收跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/0207627319.shtml",
   "summary": "",
   "pub_time": "2026-11-22T16:00:00Z",
   "source": "粮油首页",
   "_cn": true,
-  "dedup_key": "265e6881675e82dad04070ed67f72ac8",
+  "dedup_key": "b93234abce58eb38ed607c91cfc991e9",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
