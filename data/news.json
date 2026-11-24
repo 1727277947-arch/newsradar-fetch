@@ -1,5 +1,52 @@
 [
  {
+  "title": "Mysteel周报：10大城市新房成交同比下降28.3%",
+  "url": "https://news.mysteel.com/a/26112410/A8154710393E7BD0.html",
+  "summary": "",
+  "pub_time": "2026-11-24T02:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "dad5a10fc8af2d43b3abe82053eb1ae3",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "韩国小麦需求稳步增长",
+  "url": "",
+  "summary": "小麦正在将当地大米挤出韩国的饮食，而方便面的出口需求也促进了小麦进口的增长。",
+  "pub_time": "2026-11-24T01:56:09Z",
+  "source": "GrainCentral",
+  "_cat": "农产品",
+  "dedup_key": "24089cdf3752008b557e0f7be13aeda3",
+  "score": 84,
+  "priority": "P1",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "小麦",
+   "上涨",
+   "需求"
+  ],
+  "en_title": "South Korea wheat demand rises steadily"
+ },
+ {
   "title": "美国的炼油商错失了汽油 windfall",
   "url": "",
   "summary": "2026年，美国炼油商从每桶原油中炼出的汽油更少，以追求柴油和航空燃料的利润，但他们生产的汽油仍然多到几乎抹平了汽油的利润。今年前八个月的汽油收率平均低于45%，并降至过去五年的低点以下。",
@@ -35,6 +82,101 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "d96ca2c22cbddc0d8869575bbbfbd99c",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "广发期货：硅铁震荡运行",
+  "url": "https://news.mysteel.com/a/26112409/678CE35155469D0C.html",
+  "summary": "",
+  "pub_time": "2026-11-24T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "0882792f34b74408350c5a7b18341427",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "广发期货：焦炭短期延续震荡",
+  "url": "https://news.mysteel.com/a/26112409/AD3130E4A97EF171.html",
+  "summary": "",
+  "pub_time": "2026-11-24T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "6b97637fe0a512b49d7205a7f7bcee0d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "广发期货：铁矿石震荡偏弱，区间参考640-690",
+  "url": "https://news.mysteel.com/a/26112409/C6BD80F89C513D86.html",
+  "summary": "",
+  "pub_time": "2026-11-24T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "9d6b6012a75db0a2251eff29aee51d79",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "广发期货：钢材维持偏空操作",
+  "url": "https://news.mysteel.com/a/26112409/8FE6B13B167AEB47.html",
+  "summary": "",
+  "pub_time": "2026-11-24T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "4f247bbd9e6fffe8e1d761591e0f112a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "瑞达期货：螺纹钢短期关注技术支撑",
+  "url": "https://news.mysteel.com/a/26112409/9246A2014C0C05AE.html",
+  "summary": "",
+  "pub_time": "2026-11-24T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "71f4b0a9df8cca5d445c87ad894178d5",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -85,75 +227,18 @@
   "is_elite": false
  },
  {
-  "title": "中州期货：山西停产煤矿增至49座，震荡运行",
-  "url": "https://news.mysteel.com/a/26112409/516BE76E19FA14D2.html",
+  "title": "Mysteel快讯：福州港滚装汽车年度出口总量首超10万辆 创福建单个口岸新高",
+  "url": "https://news.mysteel.com/a/26112409/C8DF35EC4C3F7521.html",
   "summary": "",
   "pub_time": "2026-11-24T01:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "d3aaa027ba0695a6f2d7af6ec1960302",
+  "dedup_key": "b7ba8b76f2c0e7fcae865d97c15636d7",
   "score": 80,
   "priority": "P1",
-  "topic": "国内/大宗商品",
+  "topic": "国内/产业经济",
   "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "中州期货：建材成交放量，铁矿成交缩量",
-  "url": "https://news.mysteel.com/a/26112409/240B2AFD82893651.html",
-  "summary": "",
-  "pub_time": "2026-11-24T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "04549965bf373c072ecc11b1d2e8b807",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "瑞达期货：隔夜伦敦铂钯市场震荡回升",
-  "url": "https://news.mysteel.com/a/26112409/3730730A93663C8A.html",
-  "summary": "",
-  "pub_time": "2026-11-24T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "3f1edf53a96fcf85364a053368535e11",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "瑞达期货：隔夜，沪金主力合约涨2.22%",
-  "url": "https://news.mysteel.com/a/26112409/3B69C96C05E99DA9.html",
-  "summary": "",
-  "pub_time": "2026-11-24T01:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "13a61474dee37a4469013e99f91d4907",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
+   "产业经济",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -308,27 +393,8 @@
   "en_title": "Quantum Computing Could Accelerate the Energy Transition"
  },
  {
-  "title": "Mysteel早读：山西煤矿停产数增至49座",
-  "url": "https://news.mysteel.com/a/26112407/36F4B19952609CD6.html",
-  "summary": "",
-  "pub_time": "2026-11-23T23:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "e97ab6ccf0dc0c79ff421bb00e99137f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel早读：山西煤矿停产数增至49座，黄仁勋复职美股大涨",
-  "url": "https://news.mysteel.com/a/26112407/D1A2F5683A397F13.html",
+  "url": "https://news.mysteel.com/a/26112407/FA0C044566046A8F.html",
   "summary": "",
   "pub_time": "2026-11-23T23:00:00Z",
   "source": "上海钢联Mysteel",
@@ -848,6 +914,25 @@
   "en_title": "Namib Minerals pours first gold at historic Redwing gold mine"
  },
  {
+  "title": "【独家】生猪涨停，玉米却变天了！",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/4831900269.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "fe0739b9c9dc478bc36491b0b58865cf",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年11月24日大连豆粕期货行情早报",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/0205282141.shtml",
   "summary": "",
@@ -1309,25 +1394,6 @@
   "en_title": "Copper price roars back from bear market as Nvidia’s Huang U-turn revives AI trade"
  },
  {
-  "title": "今年10月欧盟油价同比增长近三成",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736716.shtml",
-  "summary": "中新社布鲁塞尔11月23日电 (记者 德永健)欧盟统计局23日公布的数据显示，今年10月欧盟油价继续保持高位，燃油和润滑油价格同比增长近三成",
-  "pub_time": "2026-11-23T15:08:13Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "689e613a363a5ad4216a385ec885d858",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
   "title": "Prospectiva 进入圣弗朗西斯科富铜区",
   "url": "",
   "summary": "新的洞支持了 Prospectiva 的解释，即铜矿化向东部延伸得更深。",
@@ -1755,31 +1821,6 @@
   "is_elite": false
  },
  {
-  "title": "旨在帮助最大限度发挥产量潜力的全国作物种植项目",
-  "url": "",
-  "summary": "一个耗资1120万澳元的新项目将整合研究、商业创新和实用推广，以改善澳大利亚各地的作物建苗情况，谷物种植者将从中受益。",
-  "pub_time": "2026-11-23T06:13:35Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "dd36fdd37ea52f4aec0a29fd4ede651d",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品"
-  ],
-  "en_title": "National crop establishment project to help maximise yield potential"
- },
- {
   "title": "艾尔半岛受风暴破坏，导致产量预期下降",
   "url": "",
   "summary": "周四袭击埃尔半岛的强对流风暴对油菜和小麦作物造成了最严重的破坏。",
@@ -2125,7 +2166,7 @@
  },
  {
   "title": "Mysteel早读：三项稳市场政策推出，永钢螺纹降80元",
-  "url": "https://news.mysteel.com/a/26112307/D721BAD2A5E9407F.html",
+  "url": "https://news.mysteel.com/a/26112307/FFDB1BE8FC9142D5.html",
   "summary": "",
   "pub_time": "2026-11-22T23:00:00Z",
   "source": "上海钢联Mysteel",
