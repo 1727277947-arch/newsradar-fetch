@@ -1,5 +1,30 @@
 [
  {
+  "title": "气候融资争端导致COP31谈判脱轨",
+  "url": "",
+  "summary": "自2009年以来，缔约方大会首次在没有达成推进能源转型的协议的情况下结束，因为与会国未能就该协议的关键方面达成一致。分歧最突出的方面是对发展中国家的资金承诺，以及将气候变化归咎于石油和天然气。",
+  "pub_time": "2026-11-24T00:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "3022ae46b0c5e073bed66465815d7956",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Climate Finance Dispute Derails COP31 Negotiations"
+ },
+ {
   "title": "量子计算可以加速能源转型",
   "url": "",
   "summary": "量子计算有望通过先进的材料发现、工业工程和大型能源网络的优化来彻底改变许多行业。此外，量子计算可以开始解决现实世界的能源问题，例如电网优化以及新化学和材料迪斯科",
@@ -565,6 +590,139 @@
    "黄金"
   ],
   "en_title": "Namib Minerals pours first gold at historic Redwing gold mine"
+ },
+ {
+  "title": "CBOT豆粕上涨，因需求稳健",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/0453233068.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "902d352c4c72d87caaf3dea6ab213b81",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT玉米大多期约振荡收涨，节前交易清淡",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/0609680096.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油玉米",
+  "_cn": true,
+  "dedup_key": "fca69b5d2a1ad3fd2e9e30f79ace3ac0",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油玉米"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT大豆温和上涨，追随豆粕涨势",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/0422692950.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "8d3b1f8181b1ef7486fdea4c97e72d86",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT小麦上涨，因波罗的海航运或中断",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/0642364610.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油小麦",
+  "_cn": true,
+  "dedup_key": "93ae945a843d17d583d745841c14a10d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油小麦"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "ICE油菜籽小幅收低，多空因素交织",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/0748673466.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油菜籽",
+  "_cn": true,
+  "dedup_key": "a04e769c0b33ab0f6e18a415af0c853c",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "马来西亚棕榈油日评：棕榈油连续第六日下跌，接近9个月来新低",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/0826596815.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "0346dfe3b6cb76b7f7bdfffe71bf04de",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT豆油下跌，因油粕套利解锁",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/0535644514.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "281ba9338c4cec9a360666538e7ef8e1",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
  },
  {
   "title": "加拿大铜业公司在新不伦瑞克省看到扩张机会",
@@ -2216,25 +2374,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年11月23日大连豆油期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/5947923083.shtml",
-  "summary": "",
-  "pub_time": "2026-11-22T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "ebd700c08e1a7aec638a1f8f82030941",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年11月23日大连玉米期货收盘低开收跌",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/0449212569.shtml",
   "summary": "",
@@ -2432,6 +2571,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "f90bc14f6c46d13af5cd2fe3aa12f889",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月23日大连豆油期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/5947923083.shtml",
+  "summary": "",
+  "pub_time": "2026-11-22T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "ebd700c08e1a7aec638a1f8f82030941",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
