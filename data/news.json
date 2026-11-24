@@ -1,5 +1,43 @@
 [
  {
+  "title": "螺纹钢期货上涨，钢价或反弹乏力",
+  "url": "https://news.mysteel.com/a/26112412/8E0159D239FB620A.html",
+  "summary": "",
+  "pub_time": "2026-11-24T04:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "fbd6fc756262bb8779260306e00f6c5c",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel午报：钢价局部上涨，黑色期货飘红",
+  "url": "https://news.mysteel.com/a/26112411/597D1085F2277CC4.html",
+  "summary": "",
+  "pub_time": "2026-11-24T03:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "0361b7a1fd0ca5225bfe68e5599da7d4",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "应急管理部发布关于深刻吸取土耳其哈巴斯钢铁厂事故教训加强钢铁企业安全生产工作的通知",
   "url": "https://news.mysteel.com/a/26112411/86FBFB2E97EAC84C.html",
   "summary": "",
@@ -7,6 +45,25 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "89e9f07cb90366437b4f373b1a498d44",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "普锐特为纽柯公司提供的连续镀锌机组顺利生产出首卷合格钢卷",
+  "url": "https://news.mysteel.com/a/26112411/6E5FEAD6FF468411.html",
+  "summary": "",
+  "pub_time": "2026-11-24T03:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "ec807764eeaa6bf1458aa0a4609a6342",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1028,63 +1085,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年11月24日大连玉米期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/1013211408.shtml",
-  "summary": "",
-  "pub_time": "2026-11-23T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "fefb5ea29eea446870cac545fdcfc7d7",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
-  "title": "美国玉米现货报价略有下跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/3408830058.shtml",
-  "summary": "",
-  "pub_time": "2026-11-23T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "1cde01b7bcf03191a672c20eb59e66f1",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
-  "title": "CBOT玉米大多期约振荡收涨，节前交易清淡",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/0609680096.shtml",
-  "summary": "",
-  "pub_time": "2026-11-23T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "fca69b5d2a1ad3fd2e9e30f79ace3ac0",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年11月24日大连大豆期货行情午报",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/3502288762.shtml",
   "summary": "",
@@ -1363,6 +1363,63 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月24日大连玉米期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/1013211408.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "a0484dd2896aae3b49b0589bc83c0585",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "美国玉米现货报价略有下跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/3408830058.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "105237638065f068e35db5254cb955af",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT玉米大多期约振荡收涨，节前交易清淡",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/0609680096.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "9d27cd1c5e2d86282fd99bc1b108d56a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "粮油首页"
@@ -2037,25 +2094,6 @@
   "is_elite": false
  },
  {
-  "title": "前三季度，先进钢铁材料制造等领域新设企业增速超过4%",
-  "url": "https://news.mysteel.com/a/26112313/6CAB216CD18DF8F5.html",
-  "summary": "",
-  "pub_time": "2026-11-23T05:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "7fd7b72d20e84e304ba59dd3425c9c31",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel周报：汽车原材料价格（11.15-11.22）",
   "url": "https://news.mysteel.com/a/26112312/D8C779CDC4B72243.html",
   "summary": "",
@@ -2158,25 +2196,6 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel：109家钢企通过极致能效标杆验收",
-  "url": "https://news.mysteel.com/a/26112310/C2963B7F5AAAD012.html",
-  "summary": "",
-  "pub_time": "2026-11-23T02:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "5def6492b86d8d280b6c2d55b80e832e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel周报：船舶原材料价格（11.13-11.20）",
   "url": "https://news.mysteel.com/a/26112310/F8405E2DFCE5B88A.html",
   "summary": "",
@@ -2208,6 +2227,25 @@
   "topic": "国内/产业经济",
   "tags": [
    "产业经济",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel：109家钢企通过极致能效标杆验收",
+  "url": "https://news.mysteel.com/a/26112310/800906333751E883.html",
+  "summary": "",
+  "pub_time": "2026-11-23T02:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "5def6492b86d8d280b6c2d55b80e832e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
