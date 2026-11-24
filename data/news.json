@@ -1,5 +1,33 @@
 [
  {
+  "title": "寒流威胁耗尽储备，欧洲天然气价格上涨",
+  "url": "",
+  "summary": "周二，欧洲基准天然气价格连续第四个交易日上涨，原因是本周的寒流将加速天然气从储存设施中提取，而储存设施的天然气水平在供暖季开始时处于多年低点。荷兰产权转让设施（TTF）的近月价格",
+  "pub_time": "2026-11-24T11:45:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "c052a06801f310ead3fbf348442e0f58",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气",
+   "价",
+   "走高"
+  ],
+  "en_title": "European Gas Prices Climb as Cold Snap Threatens Depleted Reserves"
+ },
+ {
   "title": "随着电价飙升，日本准备增加液化天然气购买量",
   "url": "",
   "summary": "日本公用事业公司可能会增加现货液化天然气货物的购买量，因为最近几天电价飙升使得燃气发电自伊朗战争开始以来首次实现盈利。日本的物理火花价差，即发电设施收到的电价之间的差额",
@@ -27,6 +55,32 @@
   "en_title": "Japan Poised to Ramp Up LNG Buying as Power Prices Surge"
  },
  {
+  "title": "随着交易者等待美国通胀数据，黄金价格小幅走低",
+  "url": "",
+  "summary": "（RTTNews）——周二，黄金价格在上一交易日从14个月低点反弹后走低。",
+  "pub_time": "2026-11-24T10:26:26Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "dc3c00fda051c9b36209ea812a579f99",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Gold Edges Lower As Traders Await US Inflation Data"
+ },
+ {
   "title": "Mysteel：四省钢铁行业节能降碳重点任务对比",
   "url": "https://news.mysteel.com/a/26112418/39B330E1B1DFE8B7.html",
   "summary": "",
@@ -44,6 +98,33 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
+ },
+ {
+  "title": "受美国-伊朗达成协议的希望影响，油价徘徊在近三个月低点附近",
+  "url": "",
+  "summary": "（RTTNews）——周二，油价走低，创下三个月新低，原因是中东供应增加，以及有迹象表明各方正在重新开展外交努力，以结束美国与伊朗的冲突。",
+  "pub_time": "2026-11-24T09:50:04Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "f2bd6908adaaf00d44e7c96fa94cfeda",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价"
+  ],
+  "en_title": "Oil Prices Hover Near Three-month Low On US-Iran Deal Hopes"
  },
  {
   "title": "Mysteel晚餐：5家钢厂发布冬储政策",
@@ -120,6 +201,33 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
+ },
+ {
+  "title": "托克集团接管智利价值2.6亿美元的铜金项目",
+  "url": "",
+  "summary": "这家大宗商品巨头进军阿塔卡马的矿山开发，但一项原住民法律诉讼正威胁着其施工计划。",
+  "pub_time": "2026-11-24T08:55:00Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "eb4c1cc33741a99f30004e7188ac642c",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "铜"
+  ],
+  "en_title": "Trafigura takes control of $260 million copper-gold project in Chile"
  },
  {
   "title": "黑色持仓日报：期螺涨1.14%，东证期货减持1.8万手空单",
@@ -1085,33 +1193,6 @@
    "铜"
   ],
   "en_title": "Canadian Copper sees expansion opportunites in New Brunswick"
- },
- {
-  "title": "寒冷天气到来，日本电价飙升至 2022 年高点",
-  "url": "",
-  "summary": "日本现货电价周一飙升至 2022 年 8 月以来的最高水平，因预计未来几天将出现降雪和寒冷天气，天然气需求预计将上升。预计中部和北海道地区的天然气需求将会增加，目前天然气价格将达到四年来的最高水平",
-  "pub_time": "2026-11-23T17:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "4e2646c9801730040bc060fd076558be",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "价",
-   "大涨"
-  ],
-  "en_title": "Japan’s Electricity Prices Surge to 2022 High as Cold Weather Arrives"
  },
  {
   "title": "Prospectiva 进入圣弗朗西斯科富铜区",
