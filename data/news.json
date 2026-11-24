@@ -1,5 +1,51 @@
 [
  {
+  "title": "韩国表示其原油供应在整个冬季都将保持稳定",
+  "url": "",
+  "summary": "韩国贸易、工业和资源部周二表示，尽管中东局势动荡，霍尔木兹海峡的贸易往来受到干扰，但韩国已确保11月和12月的原油供应量达到去年水平的90%。韩国是亚洲最大的原油进口国之一。",
+  "pub_time": "2026-11-24T13:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "6eb4643f0acee8be9ca111d37ed2a27a",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "供应"
+  ],
+  "en_title": "South Korea Says Its Crude Supply Is Stable Through the Winter"
+ },
+ {
+  "title": "哈尔滨市道外区：打造“冰雪+艺术”“ 冰雪+运动”两大文旅消费场景",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737213.shtml",
+  "summary": "记者 刘锡菊)24日，记者从哈尔滨市人民政府新闻办公室主办的“约会哈尔滨冰雪暖世界”2026—2027年哈尔滨冰雪季系列新闻发布会(第二场)上获悉，这个冬季，哈尔滨市道外区将设计“冰雪+艺术”和“冰雪+运动”两大文旅消费场景，并打造规模化冰上汽车文化综合体",
+  "pub_time": "2026-11-24T12:46:11Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "4e2fb5a2ebba1af3d9592744c60502f2",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/产业经济",
+  "tags": [
+   "产业经济",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "寒流威胁耗尽储备，欧洲天然气价格上涨",
   "url": "",
   "summary": "周二，欧洲基准天然气价格连续第四个交易日上涨，原因是本周的寒流将加速天然气从储存设施中提取，而储存设施的天然气水平在供暖季开始时处于多年低点。荷兰产权转让设施（TTF）的近月价格",
@@ -125,6 +171,32 @@
    "价"
   ],
   "en_title": "Oil Prices Hover Near Three-month Low On US-Iran Deal Hopes"
+ },
+ {
+  "title": "世界黄金协会将数字黄金交易变为现实",
+  "url": "",
+  "summary": "汇丰银行、摩根大通和StoneX正在测试一种新的结算模式，该模式有望扩大金条在金融市场上的抵押品用途。",
+  "pub_time": "2026-11-24T09:03:00Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "b08bf7abae89c686f98e7cc776655e8a",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "World Gold Council brings digital gold trading to life"
  },
  {
   "title": "Mysteel晚餐：5家钢厂发布冬储政策",
@@ -1115,32 +1187,6 @@
    "价"
   ],
   "en_title": "Gold Soars Amid Easing Inflationary Concerns As Crude Oil Prices Slump"
- },
- {
-  "title": "能源转型需要更多金属但更少开采",
-  "url": "",
-  "summary": "能源转型通常被描述为从一种开采行业转向另一种开采行业。有人认为，我们不再开采煤炭和钻探石油，而是简单地开采大量的锂、铜和镍。这种描述有一定道理。需要更多地雷",
-  "pub_time": "2026-11-23T18:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "51d9dc584793931484967072c42d7d02",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "金属"
-  ],
-  "en_title": "The Energy Transition Needs More Metals but Less Extraction"
  },
  {
   "title": "铜价暴跌威胁智利预算复苏希望",
@@ -2435,33 +2481,6 @@
    "过剩"
   ],
   "en_title": "Oil Extends Losses As Traders Weigh Supply Glut Risks"
- },
- {
-  "title": "希腊金矿埃尔多拉多即将投产",
-  "url": "",
-  "summary": "目前，斯库里斯有四台尾矿压滤机正在运行，该公司的目标是年底产量。",
-  "pub_time": "2026-11-23T09:43:00Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "8ca871d504d6ff4828e0f3430f720cd5",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "产量"
-  ],
-  "en_title": "Eldorado moves closer to production at Greek gold mine"
  },
  {
   "title": "Mysteel晚餐：沙钢中天最新调价，全球铁矿石发运量增加",
