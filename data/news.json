@@ -1,5 +1,43 @@
 [
  {
+  "title": "福州机场边检站今年已保障120艘次铁矿石船舶入出境",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736906.shtml",
+  "summary": "记者 闫旭 通讯员 林云珍)记者24日从福州机场边检站获悉，今年以来截至目前，该站已验放铁矿石船舶120艘次、铁矿石货量超350万吨",
+  "pub_time": "2026-11-24T05:58:03Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "1285cdea3682935cd9b4c288c7f1ea2f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "川鄂开辟三峡翻坝运输新航线",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736891.shtml",
+  "summary": "记者 郭晓莹)记者24日从湖北省宜昌市交通运输局获悉，四川泸州—宜昌秭归集装箱翻坝运输航线正式开通，首航船舶已从泸州港出发，近期将抵达秭归茅坪港。这是川鄂两地积极服务三峡水运新通道工程建设，保障长江黄金水道稳定畅通的最新实践",
+  "pub_time": "2026-11-24T05:41:14Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "bfaf91f47afa81e6391d3c5660a153a8",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "螺纹钢期货上涨，钢价或反弹乏力",
   "url": "https://news.mysteel.com/a/26112412/8E0159D239FB620A.html",
   "summary": "",
@@ -1066,25 +1104,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年11月24日大连玉米期货行情午报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/3231975577.shtml",
-  "summary": "",
-  "pub_time": "2026-11-23T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "50aa288693cf83598737a3c8d56d47fd",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年11月24日大连大豆期货行情午报",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/3502288762.shtml",
   "summary": "",
@@ -1363,6 +1382,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月24日大连玉米期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/3231975577.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "15e8ff66c7c0ba425130673640906a28",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "粮油首页"
