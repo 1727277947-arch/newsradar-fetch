@@ -1,5 +1,62 @@
 [
  {
+  "title": "黑色持仓日报：东证期货减持1.8万手螺纹钢空单",
+  "url": "https://news.mysteel.com/a/26112416/442431E7C88533BB.html",
+  "summary": "",
+  "pub_time": "2026-11-24T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "bf0111d1bcf1a3566f19099e37bef1e4",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "有色持仓日报：沪铜飘红，中信期货减持超3.1千手空单",
+  "url": "https://news.mysteel.com/a/26112416/E278161F0DA49AD5.html",
+  "summary": "",
+  "pub_time": "2026-11-24T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "aa1f94d0edfc8c028e3aa9d0267c34b3",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "黑色持仓日报：期螺涨1.14%，东证期货减持1.8万手空单",
+  "url": "https://news.mysteel.com/a/26112416/3342542E0E3DD1F2.html",
+  "summary": "",
+  "pub_time": "2026-11-24T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "5bbec1a71e7d3073aa8de45643cb78f9",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "尽管有霍尔木兹海峡被布雷的传言，油价仍徘徊在近三个月低点附近",
   "url": "",
   "summary": "尽管伊朗声称有三艘油轮在霍尔木兹海峡触雷，但周二早盘原油价格仍保持低迷，布伦特原油价格低于每桶90美元。截至发稿时，布伦特原油的交易价格为每桶88.67美元，西德克萨斯中质原油的交易价格为每桶79.59美元。",
@@ -46,21 +103,40 @@
   "is_elite": false
  },
  {
-  "title": "11月24日“农产品批发价格200指数”比昨天上升0.33个点",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736938.shtml",
-  "summary": "据农业农村部网站消息，据农业农村部监测，11月24日“农产品批发价格200指数”为112.86，比昨天上升0.33个点，“菜篮子”产品批发价格指数为112.66，比昨天上升0.39个点。截至今日14:00时，全国农产品批发市场猪肉平均价格为14.89元/公斤，比昨天上升0.3%；牛肉74.24元/公斤，比昨天下降0.1%；羊肉68.06元/公斤，比昨天上升0.3%；鸡蛋9.30元/公斤，比昨天下降1.6%；白条鸡16.90元/公斤，比昨天下降0.9%。重点监测的28种蔬菜平均价格为4.18元/公斤，比昨天上升0.5%；重点监测的6种水果平均价格为6.71元/公斤，比昨天下",
-  "pub_time": "2026-11-24T06:45:04Z",
-  "source": "中国新闻网-财经",
+  "title": "黄金反弹昙花一现？法国外贸银行示警：明年1月或跌至3340美元",
+  "url": "https://news.mysteel.com/a/26112415/2475E01779175B82.html",
+  "summary": "",
+  "pub_time": "2026-11-24T07:00:00Z",
+  "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "0ccaa40feef40edd28355f27989d4c37",
+  "dedup_key": "fed3cb9a22856faa72d35b62ec06b6df",
   "score": 80,
   "priority": "P1",
-  "topic": "国内/财经",
+  "topic": "国内/金融政策",
   "tags": [
-   "财经",
+   "金融政策",
    "中文",
    "国内",
-   "中国新闻网-财经"
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "江苏：鼓励算力中心配套分布式光伏、风电、液化天然气（LNG）冷能设施",
+  "url": "https://news.mysteel.com/a/26112415/C06B6133FA534D19.html",
+  "summary": "",
+  "pub_time": "2026-11-24T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "3a80e32d889547287deb0c1cdf880d58",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
   ],
   "is_elite": false
  },
@@ -103,27 +179,8 @@
   "is_elite": false
  },
  {
-  "title": "福州机场边检站今年已保障120艘次铁矿石船舶入出境",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736906.shtml",
-  "summary": "记者 闫旭 通讯员 林云珍)记者24日从福州机场边检站获悉，今年以来截至目前，该站已验放铁矿石船舶120艘次、铁矿石货量超350万吨",
-  "pub_time": "2026-11-24T05:58:03Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "1285cdea3682935cd9b4c288c7f1ea2f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
   "title": "螺纹钢期货上涨，钢价或反弹乏力",
-  "url": "https://news.mysteel.com/a/26112412/8E0159D239FB620A.html",
+  "url": "https://news.mysteel.com/a/26112412/4C80C6C308B77EF6.html",
   "summary": "",
   "pub_time": "2026-11-24T04:00:00Z",
   "source": "上海钢联Mysteel",
@@ -142,31 +199,12 @@
  },
  {
   "title": "Mysteel午报：钢价局部上涨，黑色期货飘红",
-  "url": "https://news.mysteel.com/a/26112411/597D1085F2277CC4.html",
+  "url": "https://news.mysteel.com/a/26112411/4A67C7FDD05867BF.html",
   "summary": "",
   "pub_time": "2026-11-24T03:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "0361b7a1fd0ca5225bfe68e5599da7d4",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "应急管理部发布关于深刻吸取土耳其哈巴斯钢铁厂事故教训加强钢铁企业安全生产工作的通知",
-  "url": "https://news.mysteel.com/a/26112411/86FBFB2E97EAC84C.html",
-  "summary": "",
-  "pub_time": "2026-11-24T03:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "89e9f07cb90366437b4f373b1a498d44",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -186,6 +224,25 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "ec807764eeaa6bf1458aa0a4609a6342",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "应急管理部发布关于深刻吸取土耳其哈巴斯钢铁厂事故教训加强钢铁企业安全生产工作的通知",
+  "url": "https://news.mysteel.com/a/26112411/357A33FCEF8EEF46.html",
+  "summary": "",
+  "pub_time": "2026-11-24T03:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "89e9f07cb90366437b4f373b1a498d44",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1226,6 +1283,44 @@
   "is_elite": false
  },
  {
+  "title": "11月24日进口大豆到国内港口CF及升贴水报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/2912305134.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "a7f8edc6e654b598c975bd6d14c14a1c",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "11月24日进口大豆港口分销价持平",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/2741179116.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "74e892698daa7c8ec734d6b4e5c67656",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "2026年11月24日大连大豆期货收盘高开收跌",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/0552803602.shtml",
   "summary": "",
@@ -1283,59 +1378,21 @@
   "is_elite": false
  },
  {
-  "title": "美国大豆价格上涨，因出口需求良好",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/3528762420.shtml",
+  "title": "11月24日进口油菜籽到国内港口CF报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/2819195195.shtml",
   "summary": "",
   "pub_time": "2026-11-23T16:00:00Z",
-  "source": "粮油大豆",
+  "source": "粮油菜籽",
   "_cn": true,
-  "dedup_key": "1872849c0d52dec50eb53725a26ae6f5",
+  "dedup_key": "1e235a69067e77d70efaf85a66a2cf6b",
   "score": 80,
   "priority": "P1",
-  "topic": "国内/大宗商品",
+  "topic": "国内/贸易外经",
   "tags": [
-   "大宗商品",
+   "贸易外经",
    "中文",
    "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
-  "title": "周一阿根廷大豆现货市场休市",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/3451574271.shtml",
-  "summary": "",
-  "pub_time": "2026-11-23T16:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "1c2bb66f7cf02b4896c1d8837cff200c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
-  ],
-  "is_elite": false
- },
- {
-  "title": "CBOT大豆温和上涨，追随豆粕涨势",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/0422692950.shtml",
-  "summary": "",
-  "pub_time": "2026-11-23T16:00:00Z",
-  "source": "粮油大豆",
-  "_cn": true,
-  "dedup_key": "8d3b1f8181b1ef7486fdea4c97e72d86",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油大豆"
+   "粮油菜籽"
   ],
   "is_elite": false
  },
@@ -1355,6 +1412,139 @@
    "中文",
    "国内",
    "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "美国大豆价格上涨，因出口需求良好",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/3528762420.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "c9bed2ea423bc9a9c460c3117d668825",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "周一阿根廷大豆现货市场休市",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/3451574271.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "0a8def8533915d8fbef3a97297fca48b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT大豆温和上涨，追随豆粕涨势",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/0422692950.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "9b1d70eabef4a146694bb22949da40f3",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "11月24日进口阿根廷豆油及加拿大菜籽油CF报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/3142278179.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "bad7990c403bbcd993285de6c03732af",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "11月24马来西亚棕榈油12月船期FOB报价",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/3110238022.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "346316a085f65fc6f84b80da79d560a0",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "11月24日24度棕榈油国内各港口交货价格下跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/3040894017.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "1b09595c9b6ce7fcf8c8bf1b2fa1a906",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "11月24日进口豆油港口交货价格持平",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/2952553567.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "e90970fc08dad950dcc555104e3bc724",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "粮油首页"
   ],
   "is_elite": false
  },
@@ -1556,25 +1746,6 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "0346dfe3b6cb76b7f7bdfffe71bf04de",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "CBOT豆油下跌，因油粕套利解锁",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/0535644514.shtml",
-  "summary": "",
-  "pub_time": "2026-11-23T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "281ba9338c4cec9a360666538e7ef8e1",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -1808,6 +1979,25 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT豆油下跌，因油粕套利解锁",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/0535644514.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "281ba9338c4cec9a360666538e7ef8e1",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
    "中文",
    "国内",
    "粮油首页"
@@ -2219,25 +2409,6 @@
   "is_elite": false
  },
  {
-  "title": "黑色持仓日报：期螺飘绿，中信期货减持超1.7万手多单",
-  "url": "https://news.mysteel.com/a/26112315/0D52D3206D2391BD.html",
-  "summary": "",
-  "pub_time": "2026-11-23T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "29944f6216c3236a1d2d6d07916d890f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "金价连环杀跌何时休？瑞银：明年降息预期回归，“剑指”5000美元",
   "url": "https://news.mysteel.com/a/26112315/63597C4FF40F2E0C.html",
   "summary": "",
@@ -2250,6 +2421,25 @@
   "topic": "国内/金融政策",
   "tags": [
    "金融政策",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "黑色持仓日报：期螺飘绿，中信期货减持超1.7万手多单",
+  "url": "https://news.mysteel.com/a/26112315/828FF500C3E6A33B.html",
+  "summary": "",
+  "pub_time": "2026-11-23T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "29944f6216c3236a1d2d6d07916d890f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -2582,44 +2772,6 @@
   "en_title": "Duxton tempers NT cotton plans, upbeat on Ord investment"
  },
  {
-  "title": "Mysteel早读：三项稳市场政策推出，永钢螺纹降80元",
-  "url": "https://news.mysteel.com/a/26112307/FFDB1BE8FC9142D5.html",
-  "summary": "",
-  "pub_time": "2026-11-22T23:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "c9a86a103e61d1ef596caa5183d41b2f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黄金连连溃败，逼近3500美元关口！华尔街齐呼：已跌入超卖区域",
-  "url": "https://news.mysteel.com/a/26112307/482C2C720643FA22.html",
-  "summary": "",
-  "pub_time": "2026-11-22T23:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "2053e66e563de4c430567b2b879e42fd",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "【独家】粉企行情低迷，小麦偏弱整理",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/3023643990.shtml",
   "summary": "",
@@ -2791,25 +2943,6 @@
   "is_elite": false
  },
  {
-  "title": "11月23日进口阿根廷豆油及加拿大菜籽油CF报价",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/4428470225.shtml",
-  "summary": "",
-  "pub_time": "2026-11-22T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "fb42266e556fc816df0d60d0352219a4",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "11月23马来西亚棕榈油12月船期FOB报价",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/4355690214.shtml",
   "summary": "",
@@ -2822,44 +2955,6 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "11月23日24度棕榈油国内各港口交货价格下跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/4318927241.shtml",
-  "summary": "",
-  "pub_time": "2026-11-22T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "01b9a25f422715825be6181af8210607",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年11月23日大连棕榈油期货低开收跌",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/0438341715.shtml",
-  "summary": "",
-  "pub_time": "2026-11-22T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "cc69802ab57b1e6e935e6270cf0c038f",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "粮油首页"
@@ -3076,25 +3171,6 @@
   "is_elite": false
  },
  {
-  "title": "11月23日进口豆油港口交货价格上涨",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/4120729600.shtml",
-  "summary": "",
-  "pub_time": "2026-11-22T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "c2d22adbf31eb04f410033bb7488b0be",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "BAGE：阿根廷小麦收获进度16.7%，产量预期维持不变",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/1815464264.shtml",
   "summary": "",
@@ -3235,6 +3311,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "c0d9512714ec817863780c8dbfe282d9",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月23日大连棕榈油期货低开收跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/23/0438341715.shtml",
+  "summary": "",
+  "pub_time": "2026-11-22T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "cc69802ab57b1e6e935e6270cf0c038f",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
