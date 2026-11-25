@@ -204,6 +204,25 @@
   "is_elite": false
  },
  {
+  "title": "Mysteel数据：全球钢材到港量统计（11.17-11.23）",
+  "url": "https://news.mysteel.com/a/26112509/154FB64DAB6E4D61.html",
+  "summary": "",
+  "pub_time": "2026-11-25T01:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "ca7239978b134fb64c929b2bc0198dc5",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "黑色期货早报：焦煤涨超3%，多机构料螺纹钢震荡运行",
   "url": "https://news.mysteel.com/a/26112509/CF6F2300EB5D74A8.html",
   "summary": "",
@@ -485,25 +504,6 @@
    "中文",
    "国内",
    "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "投资金条为何受热捧",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737289.shtml",
-  "summary": "问：近期，黄金价格走势持续引人关注。近日，伦敦现货黄金盘中下探到每盎司3700美元附近，较年内高点明显回落。与此同时，“金价下跌为何金店反而没货可卖”等话题引发热议，多地金店的投资金条出现脱销情况。今年金价为何回落？本轮购金需求有何不同？",
-  "pub_time": "2026-11-24T23:37:03Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "b0999f9294c82a1040c9a6f9e89368b1",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/产业经济",
-  "tags": [
-   "产业经济",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
   ],
   "is_elite": false
  },
@@ -2540,25 +2540,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年11月24日大连豆粕期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/0205282141.shtml",
-  "summary": "",
-  "pub_time": "2026-11-23T16:00:00Z",
-  "source": "粮油豆粕",
-  "_cn": true,
-  "dedup_key": "a79fd0e2cb7d69fa23e3c0e5e57a9add",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油豆粕"
-  ],
-  "is_elite": false
- },
- {
   "title": "11月24日进口大豆到国内港口CF及升贴水报价",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/2912305134.shtml",
   "summary": "",
@@ -3079,6 +3060,25 @@
   "source": "粮油首页",
   "_cn": true,
   "dedup_key": "f0f8b541e053dd45d442987a55cdcdd7",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月24日大连豆粕期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/0205282141.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "f375204a80e9dda4ddfd81bbbf4ea15d",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
