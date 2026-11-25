@@ -1,17 +1,17 @@
 [
  {
-  "title": "不列颠哥伦比亚省最高法院裁决后，尼斯加族和塔尔坦族确认支持Seabridge Gold的KSM项目",
+  "title": "美国法院批准110亿美元的草甘膦集体诉讼和解案",
   "url": "",
-  "summary": "11月19日，一名法官下令将把该矿场定性为“已实质性开工”的决定发回省政府，并要求省政府必须与Tsetsaut Skii km Lax Ha部落进行“深入磋商”。",
-  "pub_time": "2026-11-24T22:17:39Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "ddd7e8acba4f1928c8eefd4db7e863c3",
+  "summary": "美国一家法院已批准总额高达110亿澳元的赔偿金，用于赔偿因接触草甘膦除草剂而被诊断患有非霍奇金淋巴瘤的现有和未来索赔者。",
+  "pub_time": "2026-11-25T00:02:15Z",
+  "source": "GrainCentral",
+  "_cat": "基本金属",
+  "dedup_key": "5d21725f1c1d7b576025020471600f35",
   "score": 84,
   "priority": "P2",
-  "topic": "贵金属",
+  "topic": "基本金属",
   "tags": [
-   "贵金属",
+   "基本金属",
    "大宗商品",
    "国外",
    "中文翻译",
@@ -20,10 +20,111 @@
   ],
   "is_elite": false,
   "keywords": [
-   "贵金属",
-   "黄金"
+   "基本金属"
   ],
-  "en_title": "Nisga’a, Tahltan Nations affirm support for Seabridge Gold’s KSM project after BC Supreme Court setback"
+  "en_title": "US court approves $11B Roundup class action settlement"
+ },
+ {
+  "title": "参议院调查万斯在委内瑞拉石油交易中涉嫌扮演的角色",
+  "url": "",
+  "summary": "美国参议院已就副总统J·D·万斯与Vitol之间在委内瑞拉石油贸易合同方面的 कथित联系展开调查。此次调查是在本月早些时候路透社的一篇报道之后进行的，该报道称，美国副总统在……之前曾与一位Vitol交易员会面。",
+  "pub_time": "2026-11-25T00:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "bb7409c0540956d752d6c80ba389883f",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Senate Investigates Vance’s Alleged Role in Venezuela Oil Deal"
+ },
+ {
+  "title": "投资金条为何受热捧",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737289.shtml",
+  "summary": "问：近期，黄金价格走势持续引人关注。近日，伦敦现货黄金盘中下探到每盎司3700美元附近，较年内高点明显回落。与此同时，“金价下跌为何金店反而没货可卖”等话题引发热议，多地金店的投资金条出现脱销情况。今年金价为何回落？本轮购金需求有何不同？",
+  "pub_time": "2026-11-24T23:37:03Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "b0999f9294c82a1040c9a6f9e89368b1",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/产业经济",
+  "tags": [
+   "产业经济",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel早读：商务部调整两用物项对美出口管制",
+  "url": "https://news.mysteel.com/a/26112507/B88460869949503B.html",
+  "summary": "",
+  "pub_time": "2026-11-24T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "cd0a23c44ce280cdbf6138d29d260e7e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "明年原油该产多少？欧佩克+月底开会，战事与过剩风险左右抉择",
+  "url": "https://news.mysteel.com/a/26112507/5A8EBD45A66CE4D2.html",
+  "summary": "",
+  "pub_time": "2026-11-24T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "b1b31d8e3bb551adaf33073f4f686fde",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel早读：商务部调整两用物项对美出口管制，5家钢厂发布冬储政策",
+  "url": "https://news.mysteel.com/a/26112507/1BE4E134CE549C3B.html",
+  "summary": "",
+  "pub_time": "2026-11-24T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "85c3558031e3769c8043d38217aa882f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
  },
  {
   "title": "Tudor认为Treaty Creek矿山的价值为23亿美元",
@@ -131,6 +232,31 @@
    "基本金属"
   ],
   "en_title": "Where Does Texas' Data Center Boom Go From Here?"
+ },
+ {
+  "title": "Tudor认为Treaty Creek矿山的价值为23亿美元",
+  "url": "",
+  "summary": "Goldstorm矿位于温哥华西北约930公里处，在28年内可生产468万盎司黄金，内部收益率为20%。",
+  "pub_time": "2026-11-24T20:53:00Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "07433952e07c4300c3523064e5493836",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Tudor sees $2.3B value in Treaty Creek mine"
  },
  {
   "title": "这家小而精的石油巨头是特朗普新世界秩序的真正瑰宝吗？",
@@ -371,6 +497,215 @@
    "原油"
   ],
   "en_title": "Saudi Arabia Sees Smaller Economic Slump as More Oil Reaches Market"
+ },
+ {
+  "title": "【独家】国储出价 大豆走货逐步僵持",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/25/1504945824.shtml",
+  "summary": "",
+  "pub_time": "2026-11-24T16:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "98b99b69bdab6d19cccb349b5a962184",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT豆粕涨至一个多月高点，因需求前景乐观",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/25/0432243340.shtml",
+  "summary": "",
+  "pub_time": "2026-11-24T16:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "ca1ae8f7ca311276414875098720d1be",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "【独家】国储出价大豆走货逐步僵持",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/25/1504945824.shtml",
+  "summary": "",
+  "pub_time": "2026-11-24T16:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "9b76c608b0b0572cdd62b675cde416c5",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT玉米大多期约收涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/25/0546467385.shtml",
+  "summary": "",
+  "pub_time": "2026-11-24T16:00:00Z",
+  "source": "粮油玉米",
+  "_cn": true,
+  "dedup_key": "32dc496b508ad78ba308e2dd24b741db",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油玉米"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT大豆继续追随豆粕上涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/25/0253780507.shtml",
+  "summary": "",
+  "pub_time": "2026-11-24T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "e0f1c58fa3a7b55c50a6142a3c329916",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT小麦下跌，因基金抛售",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/25/0621167232.shtml",
+  "summary": "",
+  "pub_time": "2026-11-24T16:00:00Z",
+  "source": "粮油小麦",
+  "_cn": true,
+  "dedup_key": "0608d7df2de53b58a80a377689c2f45f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/金融政策",
+  "tags": [
+   "金融政策",
+   "中文",
+   "国内",
+   "粮油小麦"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "ICE油菜籽大多期约收低，因芝加哥豆油下跌",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/25/0729501327.shtml",
+  "summary": "",
+  "pub_time": "2026-11-24T16:00:00Z",
+  "source": "粮油菜籽",
+  "_cn": true,
+  "dedup_key": "978e0507174afe7369f1c3ede8283343",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油菜籽"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "马来西亚棕榈油日评：棕榈油强劲反弹，结束六连跌走势",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/25/0841624597.shtml",
+  "summary": "",
+  "pub_time": "2026-11-24T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "f4aa3b7b4f651e3ca0dcf7908d6a7699",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT豆油下跌，因油粕套利解锁",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/25/0511907464.shtml",
+  "summary": "",
+  "pub_time": "2026-11-24T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "281ba9338c4cec9a360666538e7ef8e1",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "油价上涨逾2%，受霍尔木兹海峡船只持续遇袭影响",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/25/1007429918.shtml",
+  "summary": "",
+  "pub_time": "2026-11-24T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "92f71a955dff8e7fcddaed99a8216243",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "ICE期棉连续第二日上涨，因美元走软，油价上涨",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/25/0933435383.shtml",
+  "summary": "",
+  "pub_time": "2026-11-24T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "d0d2cd4b85a1f0bca8c866f8dbd69bac",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
  },
  {
   "title": "随着投资者避开金属，铜价抹去了英伟达的反弹",
@@ -741,33 +1076,6 @@
   "en_title": "B2Gold charts path back to million-ounce producer ranks"
  },
  {
-  "title": "韩国表示其原油供应在整个冬季都将保持稳定",
-  "url": "",
-  "summary": "韩国贸易、工业和资源部周二表示，尽管中东局势动荡，霍尔木兹海峡的贸易往来受到干扰，但韩国已确保11月和12月的原油供应量达到去年水平的90%。韩国是亚洲最大的原油进口国之一。",
-  "pub_time": "2026-11-24T13:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "6eb4643f0acee8be9ca111d37ed2a27a",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "供应"
-  ],
-  "en_title": "South Korea Says Its Crude Supply Is Stable Through the Winter"
- },
- {
   "title": "哈尔滨市道外区：打造“冰雪+艺术”“ 冰雪+运动”两大文旅消费场景",
   "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737213.shtml",
   "summary": "记者 刘锡菊)24日，记者从哈尔滨市人民政府新闻办公室主办的“约会哈尔滨冰雪暖世界”2026—2027年哈尔滨冰雪季系列新闻发布会(第二场)上获悉，这个冬季，哈尔滨市道外区将设计“冰雪+艺术”和“冰雪+运动”两大文旅消费场景，并打造规模化冰上汽车文化综合体",
@@ -785,34 +1093,6 @@
    "中国新闻网-财经"
   ],
   "is_elite": false
- },
- {
-  "title": "寒流威胁耗尽储备，欧洲天然气价格上涨",
-  "url": "",
-  "summary": "周二，欧洲基准天然气价格连续第四个交易日上涨，原因是本周的寒流将加速天然气从储存设施中提取，而储存设施的天然气水平在供暖季开始时处于多年低点。荷兰产权转让设施（TTF）的近月价格",
-  "pub_time": "2026-11-24T11:45:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "c052a06801f310ead3fbf348442e0f58",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气",
-   "价",
-   "走高"
-  ],
-  "en_title": "European Gas Prices Climb as Cold Snap Threatens Depleted Reserves"
  },
  {
   "title": "随着交易者等待美国通胀数据，黄金价格小幅走低",
@@ -842,7 +1122,7 @@
  },
  {
   "title": "Mysteel：四省钢铁行业节能降碳重点任务对比",
-  "url": "https://news.mysteel.com/a/26112418/39B330E1B1DFE8B7.html",
+  "url": "https://news.mysteel.com/a/26112418/3AFA43CA1363B2FA.html",
   "summary": "",
   "pub_time": "2026-11-24T10:00:00Z",
   "source": "上海钢联Mysteel",
@@ -940,13 +1220,13 @@
   "en_title": "Osisko outlines 7.4B lb. of copper underground at Gaspé"
  },
  {
-  "title": "Mysteel晚餐：5家钢厂发布冬储政策",
-  "url": "https://news.mysteel.com/a/26112417/201CDACE9F4BBD46.html",
+  "title": "Mysteel晚餐：5家钢厂发布冬储政策，澳巴铁矿港库增加",
+  "url": "https://news.mysteel.com/a/26112417/939530114BEF12E9.html",
   "summary": "",
   "pub_time": "2026-11-24T09:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "0387a844e2dc836349ed50ba631df910",
+  "dedup_key": "e7b0fa4dfb8a131321023f7d77d9ae1a",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -960,31 +1240,12 @@
  },
  {
   "title": "每日钢市：期钢上涨，需求转弱，钢价或涨跌有限",
-  "url": "https://news.mysteel.com/a/26112417/BE7BA24A53BDB5AB.html",
+  "url": "https://news.mysteel.com/a/26112417/D2703A25E86E4DB1.html",
   "summary": "",
   "pub_time": "2026-11-24T09:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "1270f586637501e1c0b921ddbf7d03bc",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel晚餐：5家钢厂发布冬储政策，澳巴铁矿港库增加",
-  "url": "https://news.mysteel.com/a/26112417/5FAF9A1858C8C329.html",
-  "summary": "",
-  "pub_time": "2026-11-24T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "e7b0fa4dfb8a131321023f7d77d9ae1a",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -1719,32 +1980,6 @@
   "en_title": "Gold Soars Amid Easing Inflationary Concerns As Crude Oil Prices Slump"
  },
  {
-  "title": "铜价暴跌威胁智利预算复苏希望",
-  "url": "",
-  "summary": "金属价格下跌、燃料补贴增加和经济增长疲弱使卡斯特总统的财政目标和信用状况面临风险。",
-  "pub_time": "2026-11-23T17:49:17Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "33963fa8654021c3b0c180c932c9e489",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "Copper rout threatens Chile’s budget recovery hopes"
- },
- {
   "title": "加拿大铜业公司在新不伦瑞克省看到扩张机会",
   "url": "",
   "summary": "加拿大铜业公司 (CSE: CCI) 报告称，其位于新不伦瑞克省的 Murray Brook 矿床以西存在广泛的含铜钻探区间，凸显了潜在的扩张机会。",
@@ -1769,31 +2004,6 @@
    "铜"
   ],
   "en_title": "Canadian Copper sees expansion opportunites in New Brunswick"
- },
- {
-  "title": "网络攻击袭击了Peninsula的怀俄明州铀矿",
-  "url": "",
-  "summary": "此次泄露事件于周五在Lance发生，促使Peninsula暂停交易，但该公司尚未确认铀的生产状况。",
-  "pub_time": "2026-11-23T17:22:07Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "27dfad869f0b98c9b45df39782373845",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属"
-  ],
-  "en_title": "Cyberattack hits Peninsula’s Wyoming uranium mine"
  },
  {
   "title": "分析师最爱：惠顿贵金属被评为首选金属",
@@ -2336,25 +2546,6 @@
   "is_elite": false
  },
  {
-  "title": "2026年11月24日大连豆油期货行情早报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/5947704684.shtml",
-  "summary": "",
-  "pub_time": "2026-11-23T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "482cc586228574832d4d98f189a68f70",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "周一亚洲棕榈油现货价格下跌",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/3614201887.shtml",
   "summary": "",
@@ -2367,25 +2558,6 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
-  "title": "马来西亚棕榈油日评：棕榈油连续第六日下跌，接近9个月来新低",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/0826596815.shtml",
-  "summary": "",
-  "pub_time": "2026-11-23T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "0346dfe3b6cb76b7f7bdfffe71bf04de",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
    "中文",
    "国内",
    "粮油首页"
@@ -2640,13 +2812,32 @@
   "is_elite": false
  },
  {
-  "title": "CBOT豆油下跌，因油粕套利解锁",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/0535644514.shtml",
+  "title": "2026年11月24日大连豆油期货行情早报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/5947704684.shtml",
   "summary": "",
   "pub_time": "2026-11-23T16:00:00Z",
   "source": "粮油首页",
   "_cn": true,
-  "dedup_key": "281ba9338c4cec9a360666538e7ef8e1",
+  "dedup_key": "482cc586228574832d4d98f189a68f70",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "马来西亚棕榈油日评：棕榈油连续第六日下跌，接近9个月来新低",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/0826596815.shtml",
+  "summary": "",
+  "pub_time": "2026-11-23T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "0346dfe3b6cb76b7f7bdfffe71bf04de",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
