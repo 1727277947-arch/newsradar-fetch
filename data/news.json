@@ -1,5 +1,132 @@
 [
  {
+  "title": "美国PCE通胀数据公布前，黄金小幅走低",
+  "url": "",
+  "summary": "（RTTNews）——周三，金价小幅走低，原因是投资者正为今日的美国通胀数据以及特朗普政府可能宣布的关税措施做好准备，该关税措施旨在取代今年早些时候被最高法院否决的关税。",
+  "pub_time": "2026-11-25T10:22:31Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "1f2c000c3d06ac45105f21a99b3e6dd5",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Gold Edges Lower Ahead Of US PCE Inflation Data"
+ },
+ {
+  "title": "每日钢市：钢坯涨30元，焦煤期货大涨超5%，钢价小幅反弹",
+  "url": "https://news.mysteel.com/a/26112518/2D0CD588827C90CB.html",
+  "summary": "",
+  "pub_time": "2026-11-25T10:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "2d4d261cbfb8e8396bd2304e5c47032a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "随着霍尔木兹海峡袭击事件加剧，伊朗报告又有油轮发生爆炸",
+  "url": "",
+  "summary": "伊朗伊斯兰革命卫队（IRGC）海军表示，周三凌晨，两艘油轮在试图经由伊朗未授权的航线通过霍尔木兹海峡时触雷爆炸。这些伊朗报道称，德黑兰认为油轮“违反”了伊朗的航行规定。",
+  "pub_time": "2026-11-25T09:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "7be10bc45853bd45005a3f258693ccbd",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "Iran Reports Fresh Tanker Explosions as Hormuz Attacks Intensify"
+ },
+ {
+  "title": "Mysteel晚餐：多家钢厂计划检修",
+  "url": "https://news.mysteel.com/a/26112517/9624A25F3CEE00E5.html",
+  "summary": "",
+  "pub_time": "2026-11-25T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "8c924d6eb8ba09b1390b5e65077f304e",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel晚餐：多家钢厂计划检修，粤鄂公示钢铁产能置换方案",
+  "url": "https://news.mysteel.com/a/26112517/E155E2695B801D71.html",
+  "summary": "",
+  "pub_time": "2026-11-25T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "581a73234db32affa5791a651fa82ad8",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "广期所：氢氧化锂期货将于2026年11月26日（星期四）上市交易",
+  "url": "https://news.mysteel.com/a/26112517/C55566A6C69C1615.html",
+  "summary": "",
+  "pub_time": "2026-11-25T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "f2687fa9fb6354e1aa72cbc691269a64",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/金融政策",
+  "tags": [
+   "金融政策",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "全球液化天然气供应紧缩预计将持续至2027年",
   "url": "",
   "summary": "马来西亚国有能源巨头马来西亚国家石油公司（Petronas）预测，明年全球液化天然气市场将依然相对紧张，并指出中东的供应持续中断将使液化天然气价格保持在高位。“展望明年，我们预计市场状况将保持",
@@ -45,18 +172,18 @@
   "is_elite": false
  },
  {
-  "title": "黑色持仓日报：国泰君安增持8.7千手焦煤多单",
-  "url": "https://news.mysteel.com/a/26112515/526762C38CFEC440.html",
+  "title": "Mysteel日报：黑色金属期货价格震荡上涨",
+  "url": "https://news.mysteel.com/a/26112516/6DBDE7BA714B36ED.html",
   "summary": "",
-  "pub_time": "2026-11-25T07:00:00Z",
+  "pub_time": "2026-11-25T08:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "7fca65841bc7ba5d066595f370ebd67f",
+  "dedup_key": "9b3da4d8c0d77084eaeaf9017b5ad500",
   "score": 80,
   "priority": "P1",
-  "topic": "国内/财经",
+  "topic": "国内/大宗商品",
   "tags": [
-   "财经",
+   "大宗商品",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -65,7 +192,7 @@
  },
  {
   "title": "黑色持仓日报：焦煤涨5.42%，国泰君安增持8.7千手多单",
-  "url": "https://news.mysteel.com/a/26112515/FBE743F7F84EA9A5.html",
+  "url": "https://news.mysteel.com/a/26112515/526762C38CFEC440.html",
   "summary": "",
   "pub_time": "2026-11-25T07:00:00Z",
   "source": "上海钢联Mysteel",
@@ -147,25 +274,6 @@
    "需求"
   ],
   "en_title": "Goldman Sachs Sees U.S. Natural Gas Demand Surging on Data Center Boom"
- },
- {
-  "title": "Mysteel：供给渐进修复，冬储拉锯延续—动力煤近期基本面及12月行情预判",
-  "url": "https://news.mysteel.com/a/26112514/CD0F25AD42BBE3D4.html",
-  "summary": "",
-  "pub_time": "2026-11-25T06:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "0cb719e1ee4d299a807b0229fe536d50",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
  },
  {
   "title": "《钢铁极致能效与数据基础》正式发布",
@@ -1013,34 +1121,6 @@
   "en_title": "Marimaca gets Sprott’s backing for Chile copper project"
  },
  {
-  "title": "欧洲天然气价格在一年内飙升163%",
-  "url": "",
-  "summary": "根据天然气出口国论坛（GECF）的最新月度报告，10月份欧洲天然气价格飙升至四年来的最高水平，其中TTF基准期货较上月上涨12%，较2025年10月飙升163%，原因是供暖季即将到来，市场供需平衡趋紧。",
-  "pub_time": "2026-11-24T17:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "11d472da9a2b9f6986ae3b8a0e896525",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气",
-   "价",
-   "跳涨"
-  ],
-  "en_title": "Europe’s Gas Prices Jumped 163% in a Year"
- },
- {
   "title": "【独家】国储出价 大豆走货逐步僵持",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/25/1504945824.shtml",
   "summary": "",
@@ -1162,25 +1242,6 @@
   "source": "粮油玉米",
   "_cn": true,
   "dedup_key": "9e42763ee43cb8bc4c12fafffb0bf469",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "粮油玉米"
-  ],
-  "is_elite": false
- },
- {
-  "title": "2026年11月25日大连玉米期货行情午报",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/25/4037185625.shtml",
-  "summary": "",
-  "pub_time": "2026-11-24T16:00:00Z",
-  "source": "粮油玉米",
-  "_cn": true,
-  "dedup_key": "84f18a521e7d78dca0476ea515c419a0",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1680,6 +1741,25 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
+   "中文",
+   "国内",
+   "粮油首页"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "2026年11月25日大连玉米期货行情午报",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/25/4037185625.shtml",
+  "summary": "",
+  "pub_time": "2026-11-24T16:00:00Z",
+  "source": "粮油首页",
+  "_cn": true,
+  "dedup_key": "e0c3e6c79f6bc5bdb4c8bc20c8220b69",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
    "中文",
    "国内",
    "粮油首页"
@@ -2491,7 +2571,7 @@
  },
  {
   "title": "Mysteel：31省份1-10月进出口排行榜出炉，27省出口正增长",
-  "url": "https://news.mysteel.com/a/26112415/027BE6671AF3AA52.html",
+  "url": "https://news.mysteel.com/a/26112415/844BA06E8E79AFD6.html",
   "summary": "",
   "pub_time": "2026-11-24T07:00:00Z",
   "source": "上海钢联Mysteel",
@@ -3162,25 +3242,6 @@
   "is_elite": false
  },
  {
-  "title": "11月24马来西亚棕榈油12月船期FOB报价",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/3110238022.shtml",
-  "summary": "",
-  "pub_time": "2026-11-23T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "346316a085f65fc6f84b80da79d560a0",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年11月24日郑州菜油期货收盘低开收涨",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/24/0242367566.shtml",
   "summary": "",
@@ -3616,97 +3677,5 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "金价在空头回补中反弹",
-  "url": "",
-  "summary": "（RTTNews）——周一，在美联储发表鹰派言论以及人工智能板块股票大跌的背景下，黄金价格在经历自疫情以来的最大单周跌幅后出现反弹。",
-  "pub_time": "2026-11-23T10:09:46Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "6147f624f04a27695376878a15b63e37",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Gold Rebounds Amid Short Covering"
- },
- {
-  "title": "Mysteel黑色金属例会：本周钢价或震荡偏弱",
-  "url": "https://news.mysteel.com/a/26112318/E4A82AE394633FFB.html",
-  "summary": "",
-  "pub_time": "2026-11-23T10:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "1009e3941a41dfcb579d8c5e0569b697",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "每日钢市：螺纹钢期货3000关口拉锯，钢价反弹乏力",
-  "url": "https://news.mysteel.com/a/26112318/D3624224D8FC4F60.html",
-  "summary": "",
-  "pub_time": "2026-11-23T10:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "7ccbf4d0124568ec67046191f9c4465c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "随着交易员权衡供应过剩的风险，油价跌幅扩大",
-  "url": "",
-  "summary": "（RTTNews）——周一，油价走低，进入连续第四周下跌，原因是市场预期全球供应将增加。",
-  "pub_time": "2026-11-23T09:47:02Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "4fe456b24c5c69c8ec22bad43c024126",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "供应",
-   "过剩"
-  ],
-  "en_title": "Oil Extends Losses As Traders Weigh Supply Glut Risks"
  }
 ]
