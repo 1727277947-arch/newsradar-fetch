@@ -1,5 +1,32 @@
 [
  {
+  "title": "大型石油公司和大型科技公司游说欧盟加快发放燃气数据中心许可证",
+  "url": "",
+  "summary": "路透社周三援引知情人士的话报道称，哈萨克斯坦已与伊拉克一道，要求OPEC+上调对该国原油生产能力的估算。该请求是在该组织召开会议以确定其2027年产量政策的四天前提出的。这是欧佩克的首次审查，并将",
+  "pub_time": "2026-11-25T14:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "382879488c731c621bb4c37ecbb65c0d",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "天然气"
+  ],
+  "en_title": "Big Oil and Big Tech Lobby EU for Faster Gas-Fired Data Center Permits"
+ },
+ {
   "title": "伊朗战争导致创纪录数量的油轮进入原油贸易",
   "url": "",
   "summary": "中东危机以及原油和燃料流动的颠覆加速了去年开始的全球油轮船队的转变。越来越多的运输柴油和汽油等燃料的所谓远程2级（LR2）清洁油轮已成为所谓的脏油轮和标准油轮。",
@@ -25,6 +52,31 @@
    "燃料"
   ],
   "en_title": "Iran War Is Pushing Record Numbers of Fuel Tankers Into Crude Trade"
+ },
+ {
+  "title": "Stratum AI模型为Simberi的矿产资源估算提供数据",
+  "url": "",
+  "summary": "该矿业公司在其Simberi金矿资源估算中使用了Stratum AI的深度学习模型来分析风化和材料类型。",
+  "pub_time": "2026-11-25T12:00:00Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "7ed9317910bc84e4e8fa2ed29225025c",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Stratum AI model feeds Simberi’s mineral resource estimate"
  },
  {
   "title": "丹格特炼油厂即将成为非洲市值最高的上市公司",
@@ -180,6 +232,31 @@
   "is_elite": false
  },
  {
+  "title": "委内瑞拉的矿产财富吸引了意想不到的人群",
+  "url": "",
+  "summary": "大矿商袖手旁观，大宗商品交易商和小投资者则争相抢购黄金、煤炭和铝的交易。",
+  "pub_time": "2026-11-25T08:53:00Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "607ef6493d96a77955276abae93fbc9c",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属"
+  ],
+  "en_title": "Venezuela’s mining riches attract unlikely crowd"
+ },
+ {
   "title": "全球液化天然气供应紧缩预计将持续至2027年",
   "url": "",
   "summary": "马来西亚国有能源巨头马来西亚国家石油公司（Petronas）预测，明年全球液化天然气市场将依然相对紧张，并指出中东的供应持续中断将使液化天然气价格保持在高位。“展望明年，我们预计市场状况将保持",
@@ -206,25 +283,6 @@
   "en_title": "Global LNG Supply Crunch Set to Spill Into 2027"
  },
  {
-  "title": "有色持仓日报：沪铜跌6.34%，东吴期货增持超1.5千手多单",
-  "url": "https://news.mysteel.com/a/26112516/59A777731FD617D2.html",
-  "summary": "",
-  "pub_time": "2026-11-25T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "453f5bb09955bddbb4f11ccd806e1720",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel日报：黑色金属期货价格震荡上涨",
   "url": "https://news.mysteel.com/a/26112516/6DBDE7BA714B36ED.html",
   "summary": "",
@@ -244,8 +302,27 @@
   "is_elite": false
  },
  {
+  "title": "有色持仓日报：沪铜跌6.34%，东吴期货增持超1.5千手多单",
+  "url": "https://news.mysteel.com/a/26112516/71FC2E0E0DF1BD84.html",
+  "summary": "",
+  "pub_time": "2026-11-25T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "453f5bb09955bddbb4f11ccd806e1720",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "黑色持仓日报：焦煤涨5.42%，国泰君安增持8.7千手多单",
-  "url": "https://news.mysteel.com/a/26112515/FBE743F7F84EA9A5.html",
+  "url": "https://news.mysteel.com/a/26112515/526762C38CFEC440.html",
   "summary": "",
   "pub_time": "2026-11-25T07:00:00Z",
   "source": "上海钢联Mysteel",
@@ -986,33 +1063,6 @@
    "贵金属"
   ],
   "en_title": "Tudor sees $2.3B value in Treaty Creek mine"
- },
- {
-  "title": "这家小而精的石油巨头是特朗普新世界秩序的真正瑰宝吗？",
-  "url": "",
-  "summary": "早在去年12月，美国总统唐纳德·特朗普就阐述了他对世界将分裂为三大阵营的看法。正如《2025年国家安全战略》文件所述，他认为其中一个集团是亚洲，中国将在其中占据主导地位，而在欧洲集团中，主导地位将由……",
-  "pub_time": "2026-11-24T20:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "be082be20a9434be684ca7434559a574",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "锡"
-  ],
-  "en_title": "Is This Tiny Oil Giant The Real Crown Jewel Of Trump’s New World Order?"
  },
  {
   "title": "中国将大豆采购转向美国以外的国家",
@@ -2485,33 +2535,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "托克集团接管智利价值2.6亿美元的铜金项目",
-  "url": "",
-  "summary": "这家大宗商品巨头进军阿塔卡马的矿山开发，但原住民的法律诉讼对施工计划构成威胁。",
-  "pub_time": "2026-11-24T08:55:00Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "eb4c1cc33741a99f30004e7188ac642c",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "铜"
-  ],
-  "en_title": "Trafigura takes control of $260 million copper-gold project in Chile"
  },
  {
   "title": "Mysteel数据：中国钢材发运量统计（11.17-11.23）",
