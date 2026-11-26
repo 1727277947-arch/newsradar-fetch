@@ -1,5 +1,96 @@
 [
  {
+  "title": "土库曼斯坦即将迎来100亿美元TAPI天然气管道项目的重要里程碑",
+  "url": "",
+  "summary": "土库曼斯坦官员向路透社表示，尽管耗资100亿美元的土库曼斯坦-阿富汗-巴基斯坦-印度（TAPI）项目历经多年延误和重重障碍，但土库曼斯坦预计一条天然气管道的关键段将于2027年初开始向阿富汗第三大城市供气。据估计，土库曼斯坦将",
+  "pub_time": "2026-11-26T11:40:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "73792b7cdd29de74e8620eeca57134ef",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "天然气"
+  ],
+  "en_title": "Turkmenistan Nears Major Milestone in $10 Billion TAPI Gas Pipeline"
+ },
+ {
+  "title": "中国成品油价迎“两连跌”",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738311.shtml",
+  "summary": "中新社北京11月26日电 (记者 庞无忌)中国成品油价迎“两连跌”",
+  "pub_time": "2026-11-26T11:20:18Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "6909f3278115c4da90023d99189d40d6",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "辽宁各港口多措并举保障“北煤南运”黄金通道",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738280.shtml",
+  "summary": "记者 杨毅)记者26日从辽宁港口集团获悉，随着寒潮来袭，面对持续攀升的冬季用煤、储煤需求，辽宁港口集团全面开启“保供模式”，多措并举保障腹地煤炭供应稳定、“北煤南运”黄金通道高效畅通",
+  "pub_time": "2026-11-26T10:49:54Z",
+  "source": "中国新闻网-财经",
+  "_cn": true,
+  "dedup_key": "c3052fd1ead61e500b6b35c959d395a6",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "中国新闻网-财经"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "美元企稳，谨慎交投中黄金价格涨跌互现",
+  "url": "",
+  "summary": "（RTTNews）-周四，黄金价格涨跌互现，原因是美国国债收益率下跌，美元在经历了两天的回调行情后有所回升。",
+  "pub_time": "2026-11-26T10:34:14Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "8e0feb0318212e2c7fe21b955b4e0b0e",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "价"
+  ],
+  "en_title": "Gold Prices Mixed In Cautious Trade As Dollar Steadies"
+ },
+ {
   "title": "油价在连续两天上涨后下跌",
   "url": "",
   "summary": "(RTTNews) - 油价在连续两个交易日上涨后于周四走低。",
@@ -245,25 +336,6 @@
   "is_elite": false
  },
  {
-  "title": "有色持仓日报：沪铜跌0.51%，中信期货减持超4.3千手多单",
-  "url": "https://news.mysteel.com/a/26112615/4D22A02DE3C78DC3.html",
-  "summary": "",
-  "pub_time": "2026-11-26T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "4877460bf7b200ec51bc81b9000f6c10",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "今晚下调油价，加满1箱油将少花17.5元",
   "url": "https://news.mysteel.com/a/26112615/01FD12351902E4DF.html",
   "summary": "",
@@ -290,6 +362,25 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "23ab4744cf1eb3ce497f8e4b0115964b",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "有色持仓日报：沪铜跌0.51%，中信期货减持超4.3千手多单",
+  "url": "https://news.mysteel.com/a/26112615/5EEFD67038FFECA7.html",
+  "summary": "",
+  "pub_time": "2026-11-26T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "4877460bf7b200ec51bc81b9000f6c10",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -1139,32 +1230,6 @@
   "en_title": "ASA Warns New Tariffs Could Increase Farm Costs, Threaten Soybean Exports"
  },
  {
-  "title": "哈萨克斯坦与伊拉克一道敦促OPEC+提高产能配额",
-  "url": "",
-  "summary": "路透社周三援引知情人士的话报道称，哈萨克斯坦已与伊拉克一道，要求OPEC+上调对该国原油生产能力的估算。该请求是在该组织召开会议以确定其2027年产量政策的四天前提出的。这是欧佩克的首次审查，并将",
-  "pub_time": "2026-11-25T17:30:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "9626aa80656fe1bcdbe8c35d9ddd154e",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "锡"
-  ],
-  "en_title": "Kazakhstan Joins Iraq in Pushing OPEC+ for a Higher Capacity Rating"
- },
- {
   "title": "随着矿业股准备迎接进一步的跌幅，铜价跌至2026年以来的低点",
   "url": "",
   "summary": "一项最新分析显示，自1970年以来，在每一次铜市熊市中，价格都回吐了牛市涨幅的绝大部分。",
@@ -1244,32 +1309,6 @@
    "库存"
   ],
   "en_title": "U.S. Crude Oil Inventories See Further Upside"
- },
- {
-  "title": "美国的外交努力重燃了对跨里海天然气管道的希望",
-  "url": "",
-  "summary": "跨里海连通性是美国副国务卿克里斯托弗·兰道11月23日在阿什哈巴德与土库曼斯坦领导人会谈时的热门话题。兰道会晤的纪要暗示，跨里海管道是议程上的核心议题之一。兰道多场会谈的焦点",
-  "pub_time": "2026-11-25T17:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "acadaaa50976ad6c8b02d2aaa9766eec",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "天然气"
-  ],
-  "en_title": "U.S. Diplomatic Push Revives Hopes for Trans-Caspian Gas Pipeline"
  },
  {
   "title": "硫磺短缺危及印尼的镍矿计划",
