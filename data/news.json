@@ -1,5 +1,70 @@
 [
  {
+  "title": "石油交易商忽视波斯湾供应日益增长的威胁",
+  "url": "",
+  "summary": "本周原油价格下跌，延续了供应过剩预测引发的跌势。做出预测的人引用了波斯湾出口流量的反弹，但他们似乎忘记了一些事情。九月和十月的出口流量有所增加。现在，",
+  "pub_time": "2026-11-25T23:00:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "99b7518134a66040760dd690bafeb931",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "供应"
+  ],
+  "en_title": "Oil Traders Ignore Growing Threat to Persian Gulf Supply"
+ },
+ {
+  "title": "Mysteel早读：外交部回应美计划加征关税",
+  "url": "https://news.mysteel.com/a/26112607/AC7B24BB3D1181F6.html",
+  "summary": "",
+  "pub_time": "2026-11-25T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "e5dd5b83e63cfcf65128c0dd2bcd1052",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel早读：外交部回应美计划加征关税，多家钢厂拟检修减产",
+  "url": "https://news.mysteel.com/a/26112607/652450FD7B87AB01.html",
+  "summary": "",
+  "pub_time": "2026-11-25T23:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "cb9867432bb33d5f85fa918e243b4a7a",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "美国钻井平台数量保持稳定，石油产量连续第五次创下纪录",
   "url": "",
   "summary": "根据贝克休斯周三在感恩节假期前发布的新数据，本周美国活跃的油气钻井总数保持不变。美国钻井总数仍为607口，比去年同期增加63口。",
@@ -530,6 +595,82 @@
   "en_title": "Aramco Opens $7 Billion Petrochemical Complex in South Korea"
  },
  {
+  "title": "CBOT豆粕继续上涨，创五周半新高",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/26/0309557774.shtml",
+  "summary": "",
+  "pub_time": "2026-11-25T16:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "190475ad75ab93646a4cd3af943fc5fd",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT玉米连续三日上涨，空头回补及逢低买盘活跃",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/26/0423236718.shtml",
+  "summary": "",
+  "pub_time": "2026-11-25T16:00:00Z",
+  "source": "粮油玉米",
+  "_cn": true,
+  "dedup_key": "c7616c7c469b5963d0e18a57a60184c3",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油玉米"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT大豆升至一个月高点，受出口利好及豆粕走强推动",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/26/0234320561.shtml",
+  "summary": "",
+  "pub_time": "2026-11-25T16:00:00Z",
+  "source": "粮油大豆",
+  "_cn": true,
+  "dedup_key": "9d6dcb46c051b5ad11f2063e1e3f3075",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油大豆"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "CBOT小麦互有涨跌，基准期约收低0.3%",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/26/0457557147.shtml",
+  "summary": "",
+  "pub_time": "2026-11-25T16:00:00Z",
+  "source": "粮油小麦",
+  "_cn": true,
+  "dedup_key": "0032a1f2400394455bda1d20ac02d6e9",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油小麦"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "美国石油库存持续增加",
   "url": "",
   "summary": "美国能源信息署（EIA）周三发布的新数据显示，截至11月20日当周，美国原油库存增加了110万桶。据Go的数据，此次增加使商业库存达到4.189亿桶。",
@@ -666,33 +807,6 @@
   "en_title": "Glencore taps former CEO’s nephew to lead coal unit"
  },
  {
-  "title": "大型石油公司和大型科技公司游说欧盟加快发放燃气数据中心许可证",
-  "url": "",
-  "summary": "路透社周三援引知情人士的话报道称，哈萨克斯坦已与伊拉克一道，要求OPEC+上调对该国原油生产能力的估算。该请求是在该组织召开会议以确定其2027年产量政策的四天前提出的。这是欧佩克的首次审查，并将",
-  "pub_time": "2026-11-25T14:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "382879488c731c621bb4c37ecbb65c0d",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "天然气"
-  ],
-  "en_title": "Big Oil and Big Tech Lobby EU for Faster Gas-Fired Data Center Permits"
- },
- {
   "title": "Core Lithium从芬尼斯运出首批锂辉石精矿",
   "url": "",
   "summary": "该矿自 2026 年 5 月重新启动以来的第一批货物是在与嘉能可达成五年营销协议之后发出的。",
@@ -718,18 +832,18 @@
   "en_title": "Core Lithium ships first spodumene concentrate from Finniss"
  },
  {
-  "title": "伊朗战争导致创纪录数量的油轮进入原油贸易",
+  "title": "BMO 预计税收计划将早期矿山现金流提高 30%",
   "url": "",
-  "summary": "中东危机以及原油和燃料流动的颠覆加速了去年开始的全球油轮船队的转变。越来越多的运输柴油和汽油等燃料的所谓远程2级（LR2）清洁油轮已成为所谓的脏油轮和标准油轮。",
-  "pub_time": "2026-11-25T13:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "21c2e2e67d5a31b383fd83d9494bcba9",
+  "summary": "该提案加速减税，而不是补偿公司的支出。",
+  "pub_time": "2026-11-25T13:43:06Z",
+  "source": "Mining.com",
+  "_cat": "基本金属",
+  "dedup_key": "a786b848377a2290583d523ed5d8a69f",
   "score": 84,
-  "priority": "P1",
-  "topic": "能源",
+  "priority": "P2",
+  "topic": "基本金属",
   "tags": [
-   "能源",
+   "基本金属",
    "大宗商品",
    "国外",
    "中文翻译",
@@ -738,11 +852,10 @@
   ],
   "is_elite": false,
   "keywords": [
-   "能源",
-   "原油",
-   "燃料"
+   "基本金属",
+   "锡"
   ],
-  "en_title": "Iran War Is Pushing Record Numbers of Fuel Tankers Into Crude Trade"
+  "en_title": "BMO sees tax plan lifting early mine cash flow by 30%"
  },
  {
   "title": "印尼非法金矿洪水泛滥 9人死亡17人被困",
@@ -769,6 +882,32 @@
    "黄金"
   ],
   "en_title": "Nine dead, 17 trapped after illegal gold mine floods in Indonesia"
+ },
+ {
+  "title": "ValOre寻求1.35亿美元的融资，用于巴西黄金交易",
+  "url": "",
+  "summary": "Água Azul 将为 ValOre 提供第二处巴西资产，以及第一处运营资产。",
+  "pub_time": "2026-11-25T12:39:26Z",
+  "source": "Mining.com",
+  "_cat": "贵金属",
+  "dedup_key": "658c93fad0420545f7bc7b3a1e40a251",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "ValOre seeks financing for $135M Brazil gold deal"
  },
  {
   "title": "Stratum AI模型为Simberi的矿产资源估算提供数据",
@@ -866,27 +1005,8 @@
   "is_elite": false
  },
  {
-  "title": "Mysteel晚餐：多家钢厂计划检修",
-  "url": "https://news.mysteel.com/a/26112517/9624A25F3CEE00E5.html",
-  "summary": "",
-  "pub_time": "2026-11-25T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "8c924d6eb8ba09b1390b5e65077f304e",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "Mysteel晚餐：多家钢厂计划检修，粤鄂公示钢铁产能置换方案",
-  "url": "https://news.mysteel.com/a/26112517/E155E2695B801D71.html",
+  "url": "https://news.mysteel.com/a/26112517/096E0C85530242EF.html",
   "summary": "",
   "pub_time": "2026-11-25T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -905,7 +1025,7 @@
  },
  {
   "title": "广期所：氢氧化锂期货将于2026年11月26日（星期四）上市交易",
-  "url": "https://news.mysteel.com/a/26112517/C55566A6C69C1615.html",
+  "url": "https://news.mysteel.com/a/26112517/3FA09EF6807A9A41.html",
   "summary": "",
   "pub_time": "2026-11-25T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -1513,31 +1633,6 @@
    "库存"
   ],
   "en_title": "US GoldMining Stock Getting Very Oversold"
- },
- {
-  "title": "Tudor认为Treaty Creek矿山的价值为23亿美元",
-  "url": "",
-  "summary": "Goldstorm矿位于温哥华西北约930公里处，在28年内可生产468万盎司黄金，内部收益率为20%。",
-  "pub_time": "2026-11-24T20:53:00Z",
-  "source": "Mining.com",
-  "_cat": "贵金属",
-  "dedup_key": "07433952e07c4300c3523064e5493836",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属"
-  ],
-  "en_title": "Tudor sees $2.3B value in Treaty Creek mine"
  },
  {
   "title": "中国将大豆采购转向美国以外的国家",
@@ -2540,34 +2635,6 @@
   "is_elite": false
  },
  {
-  "title": "随着投资者避开金属，铜价抹去了英伟达的反弹",
-  "url": "",
-  "summary": "BMO资本市场表示，交易商已为中国预订多达10万吨美国铜，这表明他们对关税的信心正在丧失。",
-  "pub_time": "2026-11-24T15:53:54Z",
-  "source": "Mining.com",
-  "_cat": "基本金属",
-  "dedup_key": "0ebd41293201b08740428b00aef1ce7c",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜",
-   "金属",
-   "价"
-  ],
-  "en_title": "Copper price erases Nvidia rebound as investors steer clear of metals"
- },
- {
   "title": "I-80在内华达州阿基米德矿区开始采矿",
   "url": "",
   "summary": "I-80 Gold（多伦多证交所股票代码：IAU；纽约证交所股票代码：IAUX）已开始在其位于内华达州的第二座地下金矿Archimedes进行采矿，并表示预计将回收首批……这篇文章《I-80开始在内华达州的Archimedes进行采矿》最初发表在《北方矿工报》上。",
@@ -2689,33 +2756,6 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "受美国-伊朗达成协议的希望影响，油价徘徊在近三个月低点附近",
-  "url": "",
-  "summary": "（RTTNews）——周二，油价走低，创下三个月新低，原因是中东供应增加，以及有迹象表明各方正在重新开展外交努力，以结束美国与伊朗的冲突。",
-  "pub_time": "2026-11-24T09:50:04Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "f2bd6908adaaf00d44e7c96fa94cfeda",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价"
-  ],
-  "en_title": "Oil Prices Hover Near Three-month Low On US-Iran Deal Hopes"
  },
  {
   "title": "Mysteel晚餐：5家钢厂发布冬储政策，澳巴铁矿港库增加",
@@ -3010,128 +3050,5 @@
    "上海钢联Mysteel"
   ],
   "is_elite": false
- },
- {
-  "title": "11月23日SPDR黄金持仓量较前一日减少3.135吨",
-  "url": "https://news.mysteel.com/a/26112408/ACC26339A6974860.html",
-  "summary": "",
-  "pub_time": "2026-11-24T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "5acf8041d18a80e4045df56d4cdf6cec",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "11月23日iShares白银持仓量较前一日增加81.39吨",
-  "url": "https://news.mysteel.com/a/26112408/5FEB193BB8FEB0B0.html",
-  "summary": "",
-  "pub_time": "2026-11-24T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "19a557b1a54a91fdc679bc4ab3e3f0d9",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "连跌数日后，国际金价重新站上每盎司3600美元",
-  "url": "https://news.mysteel.com/a/26112408/6D5D668A02A67EF2.html",
-  "summary": "",
-  "pub_time": "2026-11-24T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "976185c20f6572eefbdf72860484a884",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "散户抄底需求强劲！黄金重返3600美元，“5万亿美元”上涨催化剂将至",
-  "url": "https://news.mysteel.com/a/26112408/C0D68D09D3DD635B.html",
-  "summary": "",
-  "pub_time": "2026-11-24T00:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "0cfd5e1fd94ba44dc3bc84cfdc962fdf",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel早读：山西煤矿停产数增至49座，黄仁勋复职美股大涨",
-  "url": "https://news.mysteel.com/a/26112407/36F4B19952609CD6.html",
-  "summary": "",
-  "pub_time": "2026-11-23T23:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "16130c243cc2519306f904f882ac131c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "BOM 2026 年 11 月 24 日每周降雨量更新 + 展望",
-  "url": "",
-  "summary": "预计下周澳大利亚东部和北部将出现大范围降雨，南澳和西澳的采收区可能有阵雨。",
-  "pub_time": "2026-11-23T22:21:44Z",
-  "source": "GrainCentral",
-  "_cat": "基本金属",
-  "dedup_key": "b970c5276436b5d6070f9da06b426ce4",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "下跌",
-   "周",
-   "展望"
-  ],
-  "en_title": "BOM weekly rainfall update 24 November 2026 + outlook"
  }
 ]
