@@ -1,12 +1,78 @@
 [
  {
-  "title": "无锡东港：一张能源网铺就绿色“生意经”",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738182.shtml",
-  "summary": "无锡市东港镇是苏南乡镇企业发祥地，镇内新材料产业园是无锡城区唯一的化工园区，集聚企业超600家。产业集群之下，企业用能需求分化显著，纺织企业耗汽用电量大，汽车零部件企业以用电为主，化工企业同步消耗蒸汽、天然气，不同业态对能源供给的品类、品质、稳定性诉求各不相同",
-  "pub_time": "2026-11-26T08:38:47Z",
-  "source": "中国新闻网-财经",
+  "title": "油价在连续两天上涨后下跌",
+  "url": "",
+  "summary": "(RTTNews) - 油价在连续两个交易日上涨后于周四走低。",
+  "pub_time": "2026-11-26T10:04:15Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "8e3c72fea86f24edcafa21f0de8b165b",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "走强"
+  ],
+  "en_title": "Oil Prices Drift Lower After Two-day Gain"
+ },
+ {
+  "title": "Mysteel晚餐：钢厂库存增加，炼焦煤矿山产量减少",
+  "url": "https://news.mysteel.com/a/26112617/A1810014C3A87F2B.html",
+  "summary": "",
+  "pub_time": "2026-11-26T09:00:00Z",
+  "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "0c79e24402733c46abdacd9d14517a51",
+  "dedup_key": "fe4e6b1d26d67dded6dcceed427deefe",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "关键矿产日报：国内油价下调",
+  "url": "https://news.mysteel.com/a/26112617/C3AA530F53983E9F.html",
+  "summary": "",
+  "pub_time": "2026-11-26T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "1779556b4a38a743bb810cf063aa276f",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "每日钢市：焦煤期货大涨超4%，钢价反弹能否延续？",
+  "url": "https://news.mysteel.com/a/26112617/3E0EA15C5A8E899F.html",
+  "summary": "",
+  "pub_time": "2026-11-26T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "0c9f61c205393053a5b2887f037a68ba",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -14,7 +80,64 @@
    "大宗商品",
    "中文",
    "国内",
-   "中国新闻网-财经"
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "关键矿产日报：国内油价下调，氢氧化锂期货上市首日",
+  "url": "https://news.mysteel.com/a/26112617/BC79E1CB1FC13FAB.html",
+  "summary": "",
+  "pub_time": "2026-11-26T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "ca2e8e3fb0ac35727640e7b0abc1565c",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/金融政策",
+  "tags": [
+   "金融政策",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "广西防城港市广西钢铁3800热处理线项目7ER电气室顺利封顶",
+  "url": "https://news.mysteel.com/a/26112617/A1049DA5273A0560.html",
+  "summary": "",
+  "pub_time": "2026-11-26T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "4a0cb083c366a6436bae30c7811e9d34",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel日报：黑色金属期货价格震荡上涨运行",
+  "url": "https://news.mysteel.com/a/26112617/449AE37803E4FAD1.html",
+  "summary": "",
+  "pub_time": "2026-11-26T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "26df882534f5f2c8e5048ce9a1760516",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
   ],
   "is_elite": false
  },
@@ -46,13 +169,13 @@
   "en_title": "Libya Plans New Oil Bidding Rounds Despite Mounting Security Risks"
  },
  {
-  "title": "黑色持仓日报：国泰君安增持超5千手焦煤多单",
-  "url": "https://news.mysteel.com/a/26112615/AF371C701D2CFB80.html",
+  "title": "Mysteel：本周钢材社会库存减少16.65万吨（11月20日-11月26日）",
+  "url": "https://news.mysteel.com/a/26112616/2DDF8DAE6661CBF9.html",
   "summary": "",
-  "pub_time": "2026-11-26T07:00:00Z",
+  "pub_time": "2026-11-26T08:00:00Z",
   "source": "上海钢联Mysteel",
   "_cn": true,
-  "dedup_key": "29295067e21366bf9943a5089e253154",
+  "dedup_key": "98d2a2897f8cb48a1d0b8344c68697dd",
   "score": 80,
   "priority": "P1",
   "topic": "国内/财经",
@@ -142,7 +265,7 @@
  },
  {
   "title": "今晚下调油价，加满1箱油将少花17.5元",
-  "url": "https://news.mysteel.com/a/26112615/66CA3F0D0727B25E.html",
+  "url": "https://news.mysteel.com/a/26112615/01FD12351902E4DF.html",
   "summary": "",
   "pub_time": "2026-11-26T07:00:00Z",
   "source": "上海钢联Mysteel",
@@ -681,7 +804,7 @@
  },
  {
   "title": "Mysteel早读：外交部回应美计划加征关税，多家钢厂拟检修减产",
-  "url": "https://news.mysteel.com/a/26112607/F70E709DFB7757B9.html",
+  "url": "https://news.mysteel.com/a/26112607/AC7B24BB3D1181F6.html",
   "summary": "",
   "pub_time": "2026-11-25T23:00:00Z",
   "source": "上海钢联Mysteel",
@@ -2292,7 +2415,7 @@
  },
  {
   "title": "Mysteel晚餐：多家钢厂计划检修，粤鄂公示钢铁产能置换方案",
-  "url": "https://news.mysteel.com/a/26112517/096E0C85530242EF.html",
+  "url": "https://news.mysteel.com/a/26112517/9624A25F3CEE00E5.html",
   "summary": "",
   "pub_time": "2026-11-25T09:00:00Z",
   "source": "上海钢联Mysteel",
@@ -2965,25 +3088,6 @@
   "is_elite": false
  },
  {
-  "title": "11月25日25度棕榈油国内各港口交货价格上涨",
-  "url": "http://www.chinagrain.cn/axfwnh/2026/11/25/5500923108.shtml",
-  "summary": "",
-  "pub_time": "2026-11-24T16:00:00Z",
-  "source": "粮油首页",
-  "_cn": true,
-  "dedup_key": "401d2d9cfd4fde1f1c03fa66b9981166",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "粮油首页"
-  ],
-  "is_elite": false
- },
- {
   "title": "2026年11月25日郑州菜油期货收盘高开收跌",
   "url": "http://www.chinagrain.cn/axfwnh/2026/11/25/0231755158.shtml",
   "summary": "",
@@ -3573,31 +3677,5 @@
    "黄金"
   ],
   "en_title": "Dakota Gold nearly halves Richmond Hill mine life"
- },
- {
-  "title": "随着交易者等待美国通胀数据，黄金价格小幅走低",
-  "url": "",
-  "summary": "（RTTNews）——周二，黄金价格在上一交易日从14个月低点反弹后走低。",
-  "pub_time": "2026-11-24T10:26:26Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "dc3c00fda051c9b36209ea812a579f99",
-  "score": 84,
-  "priority": "P2",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Gold Edges Lower As Traders Await US Inflation Data"
  }
 ]
