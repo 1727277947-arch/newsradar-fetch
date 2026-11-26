@@ -1,5 +1,59 @@
 [
  {
+  "title": "中东供应担忧卷土重来，油价反弹",
+  "url": "",
+  "summary": "由于对中东供应的新担忧促使买家重返市场，一月 WTI 原油期货本周从三个月低点回升。由于交易商关注全球供应过剩的前景，本周初价格下跌。 WTI 触及 79.07 美元后，抛售放缓，而主要",
+  "pub_time": "2026-11-26T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "5053c275116181cfc83813fe4cd32bea",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "价",
+   "供应"
+  ],
+  "en_title": "Oil Prices Rebound as Middle East Supply Fears Return"
+ },
+ {
+  "title": "伊朗称液化天然气运输船在霍尔木兹触雷后爆炸",
+  "url": "",
+  "summary": "伊斯兰革命卫队（IRGC）海军在关于该阻塞点发生的油轮事故的最新通报中表示，一艘液化天然气船在试图通过伊朗视为“非法”的航线时，在霍尔木兹海峡撞上水雷后起火并爆炸。液化天然气运输船",
+  "pub_time": "2026-11-26T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "基本金属",
+  "dedup_key": "9d244cd834d9fc0c381f5a8da0528dfd",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "锡"
+  ],
+  "en_title": "Iran Says LNG Carrier Exploded After Hitting a Mine in Hormuz"
+ },
+ {
   "title": "土库曼斯坦即将迎来100亿美元TAPI天然气管道项目的重要里程碑",
   "url": "",
   "summary": "土库曼斯坦官员向路透社表示，尽管耗资100亿美元的土库曼斯坦-阿富汗-巴基斯坦-印度（TAPI）项目历经多年延误和重重障碍，但土库曼斯坦预计一条天然气管道的关键段将于2027年初开始向阿富汗第三大城市供气。据估计，土库曼斯坦将",
@@ -38,25 +92,6 @@
   "topic": "国内/财经",
   "tags": [
    "财经",
-   "中文",
-   "国内",
-   "中国新闻网-财经"
-  ],
-  "is_elite": false
- },
- {
-  "title": "辽宁各港口多措并举保障“北煤南运”黄金通道",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738280.shtml",
-  "summary": "记者 杨毅)记者26日从辽宁港口集团获悉，随着寒潮来袭，面对持续攀升的冬季用煤、储煤需求，辽宁港口集团全面开启“保供模式”，多措并举保障腹地煤炭供应稳定、“北煤南运”黄金通道高效畅通",
-  "pub_time": "2026-11-26T10:49:54Z",
-  "source": "中国新闻网-财经",
-  "_cn": true,
-  "dedup_key": "c3052fd1ead61e500b6b35c959d395a6",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
    "中文",
    "国内",
    "中国新闻网-财经"
@@ -1176,31 +1211,6 @@
    "铜"
   ],
   "en_title": "Harmony Gold bets on copper as South African mines age"
- },
- {
-  "title": "JAPEX通过Goliat交易在挪威的产量目标超过10,000桶油当量/天",
-  "url": "",
-  "summary": "日本石油勘探公司（JAPEX）已同意从挪威国家石油公司（Equinor）手中收购挪威戈利亚特（Goliat）油田8%的股份，其目标是在2030年代在该国的日产量超过10000桶油当量。根据周三宣布的两项关联协议，JAPEX将向埃奎诺尔支付6500万美元现金和……",
-  "pub_time": "2026-11-25T18:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "c7a35bd838a812e72ef60b4770f288ef",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "JAPEX Eyes More Than 10,000 Boe/d in Norway with Goliat Deal"
  },
  {
   "title": "美国大豆协会警告称，新关税可能增加农业成本，威胁大豆出口",
