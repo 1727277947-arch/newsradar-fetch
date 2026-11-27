@@ -1,22 +1,209 @@
 [
  {
-  "title": "中国证监会同意瓦楞原纸期货和期权注册",
-  "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738884.shtml",
-  "summary": "据证监会网站消息，近日，中国证监会同意上海期货交易所瓦楞原纸期货和期权注册。中国证监会将督促上海期货交易所做好各项准备工作，确保瓦楞原纸期货和期权的平稳推出和稳健运行",
-  "pub_time": "2026-11-27T09:29:02Z",
+  "title": "土耳其金矿在山体滑坡后恢复开采",
+  "url": "",
+  "summary": "据彭博社报道，土耳其东部的乔普勒金矿在两年多前因堆浸故障导致九名工人死亡后，已恢复加工储存的矿石。",
+  "pub_time": "2026-11-27T12:45:00Z",
+  "source": "NorthernMiner",
+  "_cat": "贵金属",
+  "dedup_key": "cff77a5742da9f8510cd77a3be3b805c",
+  "score": 84,
+  "priority": "P2",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金",
+   "下滑"
+  ],
+  "en_title": "Turkey gold mine resumes processing after landslide"
+ },
+ {
+  "title": "巴格达采取行动夺取库尔德石油和边境的控制权",
+  "url": "",
+  "summary": "政治、地缘政治与冲突 巴格达已下令联邦接管库尔德人的石油出口、边境口岸和库尔德人安全控制下的油田，伊拉克联邦最高法院裁定边界、海关和石油出口监督权属于联邦政府。总理最小",
+  "pub_time": "2026-11-27T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "e185b6fa9fed850c813aa8282cbd7339",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油"
+  ],
+  "en_title": "Baghdad Moves to Seize Control of Kurdish Oil and Borders"
+ },
+ {
+  "title": "Energy Aspects 称库存将支撑 2027 年油价",
+  "url": "",
+  "summary": "Energy Aspect创始人兼董事阿姆里塔·森(Amrita Sen)周五在接受彭博电视台采访时表示，库存耗尽为明年的大规模库存奠定了基础，这将支撑油价，尽管预计市场将出现过剩。中国将在未来一个月引领全球库存",
+  "pub_time": "2026-11-27T12:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "fcd88b1d32e41bffb0336136cbbe9e7d",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "原油",
+   "能源",
+   "价",
+   "库存"
+  ],
+  "en_title": "Stockpiling Will Support Oil Prices in 2027, Energy Aspects Says"
+ },
+ {
+  "title": "瓦楞原纸期货及期权将于12月18日上市",
+  "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738972.shtml",
+  "summary": "高志苗)中国证监会近日同意上海期货交易所(下称上期所)瓦楞原纸期货和期权注册。记者27日从上期所获悉，瓦楞原纸期货及期权将于12月18日上市",
+  "pub_time": "2026-11-27T11:56:14Z",
   "source": "中国新闻网-财经",
   "_cn": true,
-  "dedup_key": "b7ad287c8c6ca7e9165c26cef515483d",
+  "dedup_key": "6fb5328fd826c5776153837b769f455f",
   "score": 80,
   "priority": "P1",
-  "topic": "国内/大宗商品",
+  "topic": "国内/金融政策",
   "tags": [
-   "大宗商品",
+   "金融政策",
    "中文",
    "国内",
    "中国新闻网-财经"
   ],
   "is_elite": false
+ },
+ {
+  "title": "伊拉克将石油出口量增至每天 360 万桶",
+  "url": "",
+  "summary": "伊拉克石油部长表示，伊拉克已将石油出口量提高至每天 360 万桶，因为 OPEC 第二大产油国正在寻求从卡特尔获得更高的产能和配额基准。伊拉克石油部长Basim Mohammed Khudair Al-Abadi表示，伊拉克石油出口量增至360万桶/日",
+  "pub_time": "2026-11-27T11:30:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "96c397b3cd12627ae484d01b4ca6ecfd",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "出口"
+  ],
+  "en_title": "Iraq Boosts Oil Exports to 3.6 Million Barrels per Day"
+ },
+ {
+  "title": "中国有足够的能源来度过冬天",
+  "url": "",
+  "summary": "据中国官方通讯社新华社报道，中国有足够的动力煤、天然气和足够可靠的备用电力来满足冬季需求高峰。国家电网公司预计今冬高峰用电12.4亿千瓦，同比增加7200万千瓦",
+  "pub_time": "2026-11-27T10:20:00Z",
+  "source": "Oilprice.com",
+  "_cat": "能源",
+  "dedup_key": "dff0bf0b0731348e0e7b4dfdf04fbf11",
+  "score": 84,
+  "priority": "P1",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源"
+  ],
+  "en_title": "China Has More Than Enough Energy to Weather the Winter"
+ },
+ {
+  "title": "美元走软和科技股反弹推动金价上涨",
+  "url": "",
+  "summary": "(RTTNews) - 由于美元走软和科技情绪改善，金价周五上涨，从 2025 年 8 月以来的最低水平回升。",
+  "pub_time": "2026-11-27T10:08:54Z",
+  "source": "Nasdaq商品",
+  "_cat": "贵金属",
+  "dedup_key": "af4a91898ff5e220ff5d2bd41f164801",
+  "score": 84,
+  "priority": "P1",
+  "topic": "贵金属",
+  "tags": [
+   "贵金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "贵金属",
+   "黄金"
+  ],
+  "en_title": "Gold Rallies On Softer Dollar, Tech Rebound"
+ },
+ {
+  "title": "海湾袭击期间石油价格将每周上涨",
+  "url": "",
+  "summary": "(RTTNews) - 由于中东能源基础设施和通过霍尔木兹海峡的船只遭受的袭击不断增加，油价周五走高，并有望实现本月首次周涨幅。",
+  "pub_time": "2026-11-27T09:43:37Z",
+  "source": "Nasdaq商品",
+  "_cat": "能源",
+  "dedup_key": "56530f82590aeead67e2b6269ef69c67",
+  "score": 84,
+  "priority": "P2",
+  "topic": "能源",
+  "tags": [
+   "能源",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "能源",
+   "原油",
+   "走强",
+   "周"
+  ],
+  "en_title": "Oil Set For Weekly Gain Amid Gulf Attacks"
  },
  {
   "title": "Mysteel晚餐：国常会重磅定调",
@@ -102,6 +289,44 @@
   "is_elite": false
  },
  {
+  "title": "Mysteel：供需弱平衡行情延续，低库存静待备货启动",
+  "url": "https://news.mysteel.com/a/26112716/DAA571337AE5B82D.html",
+  "summary": "",
+  "pub_time": "2026-11-27T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "dc1b537df1525d27be797353aed6b631",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel解读：关税再起——欧盟、美国对华与全球壁垒提升带来的影响",
+  "url": "https://news.mysteel.com/a/26112716/057B9B27445072F4.html",
+  "summary": "",
+  "pub_time": "2026-11-27T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "9f2cdccce9358747673488559203f8ff",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/贸易外经",
+  "tags": [
+   "贸易外经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "关键矿产日报：全球铁矿石供应稳中有增，有色金属期货大涨",
   "url": "https://news.mysteel.com/a/26112716/195223BAF416DC84.html",
   "summary": "",
@@ -121,8 +346,27 @@
   "is_elite": false
  },
  {
+  "title": "Mysteel解读：风云几度变，镍价一周内为何上演过山车行情？",
+  "url": "https://news.mysteel.com/a/26112716/ADD2074DD1CE9E4C.html",
+  "summary": "",
+  "pub_time": "2026-11-27T08:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "0ede1edec7f7f56139b6b8ca25562c8d",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "鞍山钢铁4#高炉绿色低碳大修理项目产能置换方案执行情况公告",
-  "url": "https://news.mysteel.com/a/26112716/36F8BC23AB975116.html",
+  "url": "https://news.mysteel.com/a/26112716/A9E3E09AC57942E0.html",
   "summary": "",
   "pub_time": "2026-11-27T08:00:00Z",
   "source": "上海钢联Mysteel",
@@ -141,7 +385,7 @@
  },
  {
   "title": "广期所：调整多晶硅期货相关合约交易限额",
-  "url": "https://news.mysteel.com/a/26112716/4F42420CEDC0A1DF.html",
+  "url": "https://news.mysteel.com/a/26112716/CB58D0FEDE7ED90F.html",
   "summary": "",
   "pub_time": "2026-11-27T08:00:00Z",
   "source": "上海钢联Mysteel",
@@ -152,25 +396,6 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel解读：关税再起——欧盟、美国对华与全球壁垒提升带来的影响",
-  "url": "https://news.mysteel.com/a/26112716/6A4554A5CC23A78E.html",
-  "summary": "",
-  "pub_time": "2026-11-27T08:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "9f2cdccce9358747673488559203f8ff",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/贸易外经",
-  "tags": [
-   "贸易外经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -223,44 +448,6 @@
   "en_title": "Australia Passes Landmark Law to Reserve Gas for Domestic Consumers"
  },
  {
-  "title": "有色持仓日报：沪铜涨5.51%，中信期货减持超3.5千手多单",
-  "url": "https://news.mysteel.com/a/26112715/4A56E5E3C1AB801D.html",
-  "summary": "",
-  "pub_time": "2026-11-27T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "d6614667d1ec046eb99c1224956ce65a",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel低碳页面正式上线",
-  "url": "https://news.mysteel.com/a/26112715/F680F716E96EEF04.html",
-  "summary": "",
-  "pub_time": "2026-11-27T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "27adb687463b1f4aa3d25127ba3f2e7c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "黄金配多少更合适？世界黄金协会解析不同周期配置比例",
   "url": "https://news.mysteel.com/a/26112715/DEDE18C1F550DE67.html",
   "summary": "",
@@ -287,6 +474,44 @@
   "source": "上海钢联Mysteel",
   "_cn": true,
   "dedup_key": "37af1b5c054944138ca09faafb6b4b06",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel低碳页面正式上线",
+  "url": "https://news.mysteel.com/a/26112715/A34A78C9E8AE549F.html",
+  "summary": "",
+  "pub_time": "2026-11-27T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "27adb687463b1f4aa3d25127ba3f2e7c",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "有色持仓日报：沪铜涨5.51%，中信期货减持超3.5千手多单",
+  "url": "https://news.mysteel.com/a/26112715/59A820F1F7219A6F.html",
+  "summary": "",
+  "pub_time": "2026-11-27T07:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "d6614667d1ec046eb99c1224956ce65a",
   "score": 80,
   "priority": "P1",
   "topic": "国内/大宗商品",
@@ -979,35 +1204,6 @@
   "en_title": "Nyrstar to halt production at Dutch zinc smelter"
  },
  {
-  "title": "为什么汽油价格下跌而柴油价格仍然昂贵",
-  "url": "",
-  "summary": "即将进入感恩节假期的美国人终于在汽油泵上得到了一些缓解。经过几个月的上涨后，11 月份全国平均价格大幅下跌，截至 11 月 21 日跌至每加仑约 3.66 美元。这对数百万假期的人来说是一个受欢迎的发展",
-  "pub_time": "2026-11-26T17:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "44d6314cefecb20a218f491b5a5c5f4f",
-  "score": 84,
-  "priority": "P1",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "汽油",
-   "天然气",
-   "价",
-   "下跌"
-  ],
-  "en_title": "Why Gasoline Prices Are Falling While Diesel Remains Expensive"
- },
- {
   "title": "专栏：关键矿物面临施工后测试",
   "url": "",
   "summary": "更高的运营成本、原料竞争和客户资格威胁着新炼油厂的商业可行性。",
@@ -1031,32 +1227,6 @@
    "基本金属"
   ],
   "en_title": "Op-Ed: Critical minerals face a post-construction test"
- },
- {
-  "title": "为什么铜的感恩节反弹可能不是一切的开始",
-  "url": "",
-  "summary": "周四上午跨资产情绪更加坚挺，伦敦铜价较周三低点上涨逾 3%。在美国抛售之后，人工智能股票昨天反弹，但在中午前后突然逆转。除了美元大幅疲软之外，没有明显的催化剂，这一举措看起来会更有效。",
-  "pub_time": "2026-11-26T16:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "基本金属",
-  "dedup_key": "479c8fd614d2ce26b499a8f156d4e9bc",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "铜"
-  ],
-  "en_title": "Why Copper's Thanksgiving Bounce May Not Be the Start of Anything"
  },
  {
   "title": "2026年11月27日大连豆粕期货高开收涨",
@@ -1835,31 +2005,6 @@
   "en_title": "Glencore taps former CEO’s nephew to lead coal unit"
  },
  {
-  "title": "伊朗强硬派呼吁油轮车队反抗美国封锁",
-  "url": "",
-  "summary": "由于伊朗原油和凝析油出口收入预计到 12 月中旬将降至零，强硬评论员和接近伊斯兰革命卫队 (IRGC) 的媒体越来越多地主张对美国对伊朗港口和水域的海军封锁提出直接挑战。他们的提议",
-  "pub_time": "2026-11-26T15:00:00Z",
-  "source": "Oilprice.com",
-  "_cat": "能源",
-  "dedup_key": "c3ccb795ee2adcea473ed01df336f5d5",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源"
-  ],
-  "en_title": "Iranian Hardliners Call for Tanker Convoy to Defy U.S. Blockade"
- },
- {
   "title": "创始人扩建苏里南高品位区",
   "url": "",
   "summary": "Founders Metals（多伦多证券交易所股票代码：FDR；美国场外交易代码：FDMIF）已在其位于苏里南的 Antino 项目更深地扩展了高品位金矿化，进一步的钻探可能有助于建立... Founders 扩展苏里南高品位矿区的帖子首先出现在《北方矿工》上。",
@@ -2045,25 +2190,6 @@
   "en_title": "Oil Prices Drift Lower After Two-day Gain"
  },
  {
-  "title": "Mysteel晚餐：钢厂库存增加，炼焦煤矿山产量减少",
-  "url": "https://news.mysteel.com/a/26112617/CB144BBE296EE571.html",
-  "summary": "",
-  "pub_time": "2026-11-26T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "fe4e6b1d26d67dded6dcceed427deefe",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
   "title": "每日钢市：焦煤期货大涨超4%，钢价反弹能否延续？",
   "url": "https://news.mysteel.com/a/26112617/4EB3A1AC18ABFB00.html",
   "summary": "",
@@ -2076,6 +2202,25 @@
   "topic": "国内/大宗商品",
   "tags": [
    "大宗商品",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "Mysteel晚餐：钢厂库存增加，炼焦煤矿山产量减少",
+  "url": "https://news.mysteel.com/a/26112617/A1810014C3A87F2B.html",
+  "summary": "",
+  "pub_time": "2026-11-26T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "fe4e6b1d26d67dded6dcceed427deefe",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
    "中文",
    "国内",
    "上海钢联Mysteel"
@@ -2369,33 +2514,6 @@
   "is_elite": false
  },
  {
-  "title": "硫磺短缺危及印尼的镍矿计划",
-  "url": "",
-  "summary": "伍德麦肯兹周三表示，硫磺短缺正威胁着一些项目，这些项目将为印度尼西亚的电池材料行业增加超过60万吨的镍产能。印度尼西亚曾……文章《硫磺短缺威胁印度尼西亚的镍矿计划》最初发表于《北方矿工报》。",
-  "pub_time": "2026-11-25T20:35:15Z",
-  "source": "NorthernMiner",
-  "_cat": "基本金属",
-  "dedup_key": "a97107fc1fbb08ad2468e5f1bb809ff8",
-  "score": 84,
-  "priority": "P1",
-  "topic": "基本金属",
-  "tags": [
-   "基本金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "基本金属",
-   "镍",
-   "短缺"
-  ],
-  "en_title": "Sulphur shortage threatens Indonesia’s nickel plans"
- },
- {
   "title": "霍尔木兹海峡袭击、沙特阿拉伯和胡塞武装升级，原油价格飙升",
   "url": "",
   "summary": "(RTTNews) - 周三原油价格飙升，投资者评估了沙特阿拉伯与胡塞武装之间持续升级的局势以及霍尔木兹海峡袭击事件的报道。",
@@ -2475,6 +2593,59 @@
   "en_title": "Gold Slides Amid Rising Fed Rate Hike Expectations, Fresh U.S. Tariff Concerns"
  },
  {
+  "title": "美国大豆协会警告称，新关税可能增加农业成本，威胁大豆出口",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-11-25T17:52:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "1055d6e26687238a27c739014ead01ed",
+  "score": 84,
+  "priority": "P1",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "大豆",
+   "出口"
+  ],
+  "en_title": "ASA Warns New Tariffs Could Increase Farm Costs, Threaten Soybean Exports"
+ },
+ {
+  "title": "密歇根州研究人员评估适合区域市场的硬质小麦品种",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-11-25T17:20:00Z",
+  "source": "Grainnet",
+  "_cat": "农产品",
+  "dedup_key": "713b6292d0d5465261af7041ff8848ab",
+  "score": 84,
+  "priority": "P2",
+  "topic": "农产品",
+  "tags": [
+   "农产品",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "农产品",
+   "小麦"
+  ],
+  "en_title": "Michigan Researchers Evaluate Hard Wheat Varieties for Regional Market"
+ },
+ {
   "title": "美国原油库存进一步增加",
   "url": "",
   "summary": "（RTTNews）——美国能源信息署周三发布的一份报告显示，截至11月20日的一周，美国原油库存持续增加。",
@@ -2500,6 +2671,34 @@
    "库存"
   ],
   "en_title": "U.S. Crude Oil Inventories See Further Upside"
+ },
+ {
+  "title": "美国小麦行业领袖在2026年贸易研讨会上讨论出口和作物质量问题",
+  "url": "",
+  "summary": "",
+  "pub_time": "2026-11-25T16:44:00Z",
+  "source": "Grainnet",
+  "_cat": "基本金属",
+  "dedup_key": "9e84b2d151cef37898b7aa748f2864de",
+  "score": 84,
+  "priority": "P2",
+  "topic": "基本金属",
+  "tags": [
+   "基本金属",
+   "大宗商品",
+   "国外",
+   "中文翻译",
+   "无链接",
+   "关键字"
+  ],
+  "is_elite": false,
+  "keywords": [
+   "基本金属",
+   "铅",
+   "小麦",
+   "出口"
+  ],
+  "en_title": "U.S. Wheat Industry Leaders Discuss Exports, Crop Quality at Trade Talk 2026"
  },
  {
   "title": "2026年11月26日大连豆粕期货低开收涨",
@@ -3222,31 +3421,5 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "美国PCE通胀数据公布前，黄金小幅走低",
-  "url": "",
-  "summary": "（RTTNews）——周三，金价小幅走低，原因是投资者正为今日的美国通胀数据以及特朗普政府可能宣布的关税措施做好准备，该关税措施旨在取代今年早些时候被最高法院否决的关税。",
-  "pub_time": "2026-11-25T10:22:31Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "1f2c000c3d06ac45105f21a99b3e6dd5",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金"
-  ],
-  "en_title": "Gold Edges Lower Ahead Of US PCE Inflation Data"
  }
 ]
