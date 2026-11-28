@@ -1,5 +1,43 @@
 [
  {
+  "title": "Mysteel：七日洞见——黑色金属市场一周热点回顾（11.22-11.28）",
+  "url": "https://news.mysteel.com/a/26112817/E0AAF9F9EB0977FD.html",
+  "summary": "",
+  "pub_time": "2026-11-28T09:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "41d2380164f5ca1a34449ed4310763b3",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
+  "title": "每日钢市：政策稳市VS需求淡季，钢价或偏强震荡",
+  "url": "https://news.mysteel.com/a/26112814/068AA7D8F7653F93.html",
+  "summary": "",
+  "pub_time": "2026-11-28T06:00:00Z",
+  "source": "上海钢联Mysteel",
+  "_cn": true,
+  "dedup_key": "6f02ad0f98eed52b4885577232c9a5a2",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/财经",
+  "tags": [
+   "财经",
+   "中文",
+   "国内",
+   "上海钢联Mysteel"
+  ],
+  "is_elite": false
+ },
+ {
   "title": "浪费的风能和太阳能可以用来运行工厂和数据中心",
   "url": "",
   "summary": "随着可变可再生能源的规模和范围在世界范围内扩大，越来越多的清洁能源正在产生。然而，越来越多的清洁能源也将被浪费。为了平衡能源供需，电力公司依赖于一种称为限电的过程，其中",
@@ -370,6 +408,25 @@
    "大涨"
   ],
   "en_title": "Oil Surge Pushes Indonesia to Mull First Subsidized Fuel Price Hike in Years"
+ },
+ {
+  "title": "【独家】小麦价格跌跌不休，12月能否好转？",
+  "url": "http://www.chinagrain.cn/axfwnh/2026/11/28/4800851557.shtml",
+  "summary": "",
+  "pub_time": "2026-11-27T16:00:00Z",
+  "source": "粮油豆粕",
+  "_cn": true,
+  "dedup_key": "87bc1cbfce929412400f237c43a9ec33",
+  "score": 80,
+  "priority": "P1",
+  "topic": "国内/大宗商品",
+  "tags": [
+   "大宗商品",
+   "中文",
+   "国内",
+   "粮油豆粕"
+  ],
+  "is_elite": false
  },
  {
   "title": "2026年11月28日天津豆粕价格行情",
@@ -2604,207 +2661,5 @@
    "粮油首页"
   ],
   "is_elite": false
- },
- {
-  "title": "美元企稳，谨慎交投中黄金价格涨跌互现",
-  "url": "",
-  "summary": "（RTTNews）-周四，黄金价格涨跌互现，原因是美国国债收益率下跌，美元在经历了两天的回调行情后有所回升。",
-  "pub_time": "2026-11-26T10:34:14Z",
-  "source": "Nasdaq商品",
-  "_cat": "贵金属",
-  "dedup_key": "8e0feb0318212e2c7fe21b955b4e0b0e",
-  "score": 84,
-  "priority": "P1",
-  "topic": "贵金属",
-  "tags": [
-   "贵金属",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "贵金属",
-   "黄金",
-   "价"
-  ],
-  "en_title": "Gold Prices Mixed In Cautious Trade As Dollar Steadies"
- },
- {
-  "title": "油价在连续两天上涨后下跌",
-  "url": "",
-  "summary": "(RTTNews) - 油价在连续两个交易日上涨后于周四走低。",
-  "pub_time": "2026-11-26T10:04:15Z",
-  "source": "Nasdaq商品",
-  "_cat": "能源",
-  "dedup_key": "8e3c72fea86f24edcafa21f0de8b165b",
-  "score": 84,
-  "priority": "P2",
-  "topic": "能源",
-  "tags": [
-   "能源",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "能源",
-   "原油",
-   "价",
-   "走强"
-  ],
-  "en_title": "Oil Prices Drift Lower After Two-day Gain"
- },
- {
-  "title": "每日钢市：焦煤期货大涨超4%，钢价反弹能否延续？",
-  "url": "https://news.mysteel.com/a/26112617/4EB3A1AC18ABFB00.html",
-  "summary": "",
-  "pub_time": "2026-11-26T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "0c9f61c205393053a5b2887f037a68ba",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "关键矿产日报：国内油价下调，氢氧化锂期货上市首日",
-  "url": "https://news.mysteel.com/a/26112617/C3AA530F53983E9F.html",
-  "summary": "",
-  "pub_time": "2026-11-26T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "ca2e8e3fb0ac35727640e7b0abc1565c",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/金融政策",
-  "tags": [
-   "金融政策",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "Mysteel日报：黑色金属期货价格震荡上涨运行",
-  "url": "https://news.mysteel.com/a/26112617/449AE37803E4FAD1.html",
-  "summary": "",
-  "pub_time": "2026-11-26T09:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "26df882534f5f2c8e5048ce9a1760516",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "黑色持仓日报：焦煤涨4.18%，国泰君安增持超5千手多单",
-  "url": "https://news.mysteel.com/a/26112615/834F620C5F4EAA58.html",
-  "summary": "",
-  "pub_time": "2026-11-26T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "a40574b4605f5229cd629c32476de79b",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/财经",
-  "tags": [
-   "财经",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "有色持仓日报：沪铜跌0.51%，中信期货减持超4.3千手多单",
-  "url": "https://news.mysteel.com/a/26112615/5EEFD67038FFECA7.html",
-  "summary": "",
-  "pub_time": "2026-11-26T07:00:00Z",
-  "source": "上海钢联Mysteel",
-  "_cn": true,
-  "dedup_key": "4877460bf7b200ec51bc81b9000f6c10",
-  "score": 80,
-  "priority": "P1",
-  "topic": "国内/大宗商品",
-  "tags": [
-   "大宗商品",
-   "中文",
-   "国内",
-   "上海钢联Mysteel"
-  ],
-  "is_elite": false
- },
- {
-  "title": "粮食行业的人员变动",
-  "url": "",
-  "summary": "澳大利亚粮食行业有哪些人事变动？了解我们关于行业任命、奖励和成就的最新动态……",
-  "pub_time": "2026-11-26T05:54:45Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "c7ec687752018dd77e1462f1d13d8b21",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "谷物"
-  ],
-  "en_title": "People on the Move in the grain industry"
- },
- {
-  "title": "饲料谷物聚焦：美元在降雨回归前提振市场",
-  "url": "",
-  "summary": "尽管种植户的销售有所增加，但澳元疲软以及降雨对收割的更多干扰，在上周推高了南部小麦和大麦的价格。",
-  "pub_time": "2026-11-26T05:24:57Z",
-  "source": "GrainCentral",
-  "_cat": "农产品",
-  "dedup_key": "f674b3b32c8a47444a510018b54e9a95",
-  "score": 84,
-  "priority": "P2",
-  "topic": "农产品",
-  "tags": [
-   "农产品",
-   "大宗商品",
-   "国外",
-   "中文翻译",
-   "无链接",
-   "关键字"
-  ],
-  "is_elite": false,
-  "keywords": [
-   "农产品",
-   "谷物"
-  ],
-  "en_title": "Feedgrain Focus: Dollar buoys market ahead of rain’s return"
  }
 ]
